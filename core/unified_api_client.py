@@ -150,11 +150,13 @@ class UnifiedAPIClient:
                 'budget': float(os.getenv('ANTHROPIC_BUDGET', '37.62')),
             },
             'aws_bedrock': {
-                'api_key': os.getenv('AWS_BEDROCK_API_KEY'),
-                'region': os.getenv('AWS_REGION', 'us-east-1'),
+                # Standardweg hier über Portkey-Gateway
+                'api_key': os.getenv('PORTKEY_API_KEY'),
+                'base_url': os.getenv('PORTKEY_BASE_URL', 'https://api.portkey.ai/v1'),
                 'model': os.getenv('AWS_BEDROCK_MODEL', 'claude-3-5-sonnet'),
                 'priority': 3,
                 'budget': float(os.getenv('AWS_BEDROCK_BUDGET', '24.00')),
+                'type': 'bedrock_portkey',
             },
             'google_cloud': {  # MedGemma via Vertex (optional)
                 'credentials_path': os.getenv('GOOGLE_APPLICATION_CREDENTIALS'),
@@ -176,7 +178,7 @@ class UnifiedAPIClient:
         if name == 'google_cloud':
             return config.get('credentials_path') and config.get('project')
         if name == 'aws_bedrock':
-            return bool(config.get('api_key'))  # Simplified; actual AWS auth may differ
+            return bool(config.get('api_key'))  # Portkey API Key
         return config.get('api_key') is not None
 
     def _get_token_count(self, text: str) -> int:
@@ -277,6 +279,58 @@ class UnifiedAPIClient:
                 timestamp=datetime.now().isoformat(),
             )
 
+    def _process_with_portkey(self, provider: ProviderConfig, prompt: str, system_prompt: Optional[str], **kwargs) -> ProcessingResult:
+        """Verarbeitet eine Anfrage über Portkey Gateway (z. B. Bedrock-Modelle) als OpenAI-kompatiblen Call."""
+        logger.info(f"→ Verarbeite mit Portkey ({provider.model})")
+        headers = {
+            "Authorization": f"Bearer {provider.api_key}",
+            "Content-Type": "application/json",
+        }
+        messages = []
+        if system_prompt:
+            messages.append({"role": "system", "content": system_prompt})
+        messages.append({"role": "user", "content": prompt})
+
+        payload = {
+            "model": provider.model,
+            "messages": messages,
+            "max_tokens": kwargs.get("max_tokens", 1024),
+            "temperature": kwargs.get("temperature", 0.3),
+        }
+        try:
+            resp = requests.post(
+                provider.base_url.rstrip("/") + "/chat/completions",
+                headers=headers,
+                json=payload,
+                timeout=120,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+            content = data.get("choices", [{}])[0].get("message", {}).get("content", "")
+            input_tokens = self._get_token_count(prompt)
+            output_tokens = self._get_token_count(content)
+            self._update_cost(input_tokens, output_tokens, provider.type)
+            return ProcessingResult(
+                success=True,
+                provider=provider.type,
+                model=provider.model,
+                response_text=content,
+                input_tokens=input_tokens,
+                output_tokens=output_tokens,
+                cost=self.session_cost,
+                timestamp=datetime.now().isoformat(),
+            )
+        except Exception as e:
+            logger.error(f"❌ Portkey FEHLER: {e}")
+            return ProcessingResult(
+                success=False,
+                provider=provider.type,
+                model=provider.model,
+                response_text="",
+                error=str(e),
+                timestamp=datetime.now().isoformat(),
+            )
+
     def _calculate_vertex_cost(self, model_name: str, in_tokens: int, out_tokens: int) -> float:
         PRICING_PER_1K = {
             "med-gemma-2b": (0.00010, 0.00040),
@@ -296,9 +350,8 @@ class UnifiedAPIClient:
             raise ProviderError(provider.name, "Legacy provider dispatch not implemented.")
         elif provider.type == "medgemma":
             return self._process_with_medgemma(provider, prompt, system_prompt, **kwargs)
-        elif provider.type == "aws_bedrock":
-            # Placeholder: Implement Bedrock client here
-            raise ProviderError(provider.type, "AWS Bedrock client not implemented in this stub.")
+        elif provider.type == "bedrock_portkey":
+            return self._process_with_portkey(provider, prompt, system_prompt, **kwargs)
         return ProcessingResult(
             success=False,
             provider=getattr(provider, "type", "unknown"),
