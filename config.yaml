@@ -1,0 +1,82 @@
+# MedExamAI Configuration
+# =======================
+
+# Verzeichnisstruktur
+base_dir: .
+gold_dir: _GOLD_STANDARD
+extracted_dir: _EXTRACTED_FRAGEN
+output_dir: _OUTPUT
+processing_dir: _PROCESSING
+derived_chunks_dir: _DERIVED_CHUNKS
+llm_archive_dir: _LLM_ARCHIVE
+docs_dir: _DOCS
+bibliothek_dir: _BIBLIOTHEK
+
+# RAG System
+rag:
+  embedding_model: text-embedding-3-small
+  embedding_dimension: 1536
+  chunk_size: 500
+  chunk_overlap: 100
+  top_k: 5
+  similarity_threshold: 0.7
+  cache_dir: .embedding_cache
+  use_openai: false  # Auf true setzen um OpenAI zu nutzen
+
+# Leitlinien
+guidelines:
+  download_dir: _BIBLIOTHEK/Leitlinien
+  cache_file: guideline_cache.json
+  max_parallel_downloads: 4
+  sources:
+    - AWMF
+    - DGIM
+    - ESC
+    - DGU
+    - DGOU
+
+# Medical Validation
+validation:
+  enable_dosage_check: true
+  enable_icd10_check: true
+  enable_lab_check: true
+  enable_logic_check: true
+  quarantine_on_critical: true
+
+# Tier-System
+tiers:
+  tier1_gold:
+    name: Gold-Standard
+    priority: 1
+    sources:
+      - _GOLD_STANDARD
+  tier2_bibliothek:
+    name: Bibliothek
+    priority: 2
+    sources:
+      - _BIBLIOTHEK
+
+# Budget-Tracking
+# ================
+# Verfügbare Guthaben für MedExamAI (Stand: 2024-12-01)
+
+budget:
+  # Verbleibendes Guthaben pro Service
+  remaining:
+    comet_api_usd: 8.65
+    aws_usd: 24.00
+    requesty_usd: 69.95
+    anthropic_console_usd: 37.62
+    openai_platform_usd: 9.99
+    openrouter_usd: 5.78
+    google_workspace_eur: 217.75  # Gemma/MedGemma
+    perplexity_usd: 15.00
+
+  # Zusammenfassung
+  total_remaining_usd: 170.99
+  total_remaining_eur: 217.75  # Google Workspace
+
+  # Warnschwelle (wenn unter diesem Wert, Warnung ausgeben)
+  warning_threshold_usd: 20.0
+
+  # Empfehlung: Lokale Modelle bevorzugen wo möglich
