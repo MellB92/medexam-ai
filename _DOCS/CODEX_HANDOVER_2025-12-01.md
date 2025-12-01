@@ -285,23 +285,42 @@ Geplante Sprints (aus JIRA_INTEGRATION.md):
 1. ~~Kein Git-Repository initialisiert~~ → ✅ Erledigt
 2. ~~ANTHROPIC_API_KEY fehlt~~ → ✅ Via Portkey
 3. ~~OPENROUTER_API_KEY fehlt~~ → ✅ Via Portkey
-4. ~~Leitlinien-Ordner LEER~~ → ✅ **26 PDFs (133 MB)**
+4. ~~Leitlinien-Ordner LEER~~ → ✅ **60 PDFs (319 MB)**
 
 ### Hoch:
-5. Jira-Projekt nicht erstellt
-6. .gitignore fehlt
-7. PR/Issue Templates fehlen
-8. CI Secrets nicht konfiguriert
+5. Jira-Projekt nicht erstellt → ⚠️ Manuell erforderlich
+6. ~~.gitignore fehlt~~ → ✅ Erledigt
+7. ~~PR/Issue Templates fehlen~~ → ✅ `.github/` angelegt
+8. CI Secrets nicht konfiguriert → ⚠️ Manuell in GitHub erforderlich
 9. ~~unified_api_client.py Provider-Prioritäten anpassen~~ → ✅ Erledigt
 10. ~~generate_answers.py mit UnifiedAPIClient verbinden~~ → ✅ Erledigt
 
 ### Mittel:
-11. CHANGELOG.md erstellen
-12. LICENSE (MIT) hinzufügen
-13. Testlauf mit Sample-PDFs
-14. Linting aktivieren (black, pylint)
+11. ~~CHANGELOG.md erstellen~~ → ✅ Erledigt
+12. ~~LICENSE (MIT) hinzufügen~~ → ✅ Erledigt
+13. Testlauf mit Sample-PDFs → ⚠️ Offen
+14. ~~Linting aktivieren (black, pylint)~~ → ✅ pre-commit + ruff
 
 ### Niedrig:
-15. Slack Notifications
-16. Pre-commit Hooks
-17. VS Code Extensions Recommendations
+15. Slack Notifications → Optional
+16. ~~Pre-commit Hooks~~ → ✅ `.pre-commit-config.yaml`
+17. ~~VS Code Extensions Recommendations~~ → ✅ `.vscode/extensions.json`
+
+---
+
+## Session 4 - Abschluss (2025-12-01)
+
+### Erledigt:
+- ✅ **60 Leitlinien-PDFs** (319 MB) heruntergeladen
+- ✅ Leitlinien-Manifest erstellt (`_BIBLIOTHEK/leitlinien_manifest.json`)
+- ✅ Leitlinien-Pfad in `guideline_fetcher.py` verdrahtet
+- ✅ Pre-commit Hooks konfiguriert (`.pre-commit-config.yaml`)
+- ✅ VSCode Settings/Extensions (`.vscode/`)
+- ✅ LICENSE (MIT), CHANGELOG.md
+- ✅ Issue/PR Templates (`.github/`)
+- ✅ Bedrock via Portkey angebunden
+
+### Noch offen (manuell):
+- Jira-Projekt anlegen
+- CI Secrets in GitHub konfigurieren
+- Testlauf mit Sample-PDF validieren

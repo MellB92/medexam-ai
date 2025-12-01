@@ -1,0 +1,49 @@
+{
+  // Python
+  "python.defaultInterpreterPath": ".venv/bin/python",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true,
+
+  // Formatting
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  },
+
+  // Linting
+  "python.linting.enabled": true,
+  "ruff.lint.args": ["--config=pyproject.toml"],
+
+  // Editor
+  "editor.rulers": [88, 120],
+  "editor.tabSize": 4,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+
+  // Files to exclude
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.pytest_cache": true,
+    "**/*.pyc": true,
+    ".venv": true
+  },
+
+  // Search exclude
+  "search.exclude": {
+    "_BIBLIOTHEK/**": true,
+    "_GOLD_STANDARD/**": true,
+    "_OUTPUT/**": true,
+    ".venv/**": true
+  },
+
+  // Spell checker
+  "cSpell.language": "en,de",
+  "cSpell.ignorePaths": [
+    "_BIBLIOTHEK",
+    "_GOLD_STANDARD",
+    ".venv"
+  ]
+}
