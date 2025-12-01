@@ -104,38 +104,49 @@ class UnifiedAPIClient:
 
     def _configure_providers(self) -> Dict[str, Any]:
         """Loads provider configurations from environment variables."""
-        # Vereinfachte Konfiguration: nur zwei Schlüssel nötig
-        # 1) Requesty (direkt)
-        # 2) Portkey (Gateway, kapselt Anthropic/Bedrock/OpenRouter/OpenAI/Comet/Perplexity)
+        # Provider-Reihenfolge:
+        # 1) Requesty (Primary) - Sonnet 4.5 via Bedrock
+        # 2) Requesty Opus - Opus 4.5 via Anthropic (für High-Yield)
+        # 3) Portkey/OpenRouter (Fallback) - wenn Requesty ausfällt
         providers = {
             'requesty': {
                 'api_key': os.getenv('REQUESTY_API_KEY'),
-                'base_url': os.getenv('REQUESTY_BASE_URL', 'https://api.requesty.ai/v1'),
-                'model': os.getenv('REQUESTY_MODEL', 'claude-sonnet'),
+                'base_url': 'https://router.requesty.ai/v1',
+                'model': os.getenv('REQUESTY_MODEL', 'bedrock/claude-sonnet-4-5@us-east-1'),
                 'priority': 1,
                 'budget': float(os.getenv('REQUESTY_BUDGET', '69.95')),
                 'type': 'requesty',
             },
-            'portkey': {
-                'api_key': os.getenv('PORTKEY_API_KEY'),
-                'base_url': os.getenv('PORTKEY_BASE_URL', 'https://api.portkey.ai/v1'),
-                # Modellname kann via Header/Route in Portkey konfiguriert werden; hier Default
-                'model': os.getenv('PORTKEY_MODEL', 'claude-3-5-sonnet'),
+            'requesty_opus': {
+                'api_key': os.getenv('REQUESTY_API_KEY'),
+                'base_url': 'https://router.requesty.ai/v1',
+                'model': os.getenv('REQUESTY_OPUS_MODEL', 'anthropic/claude-opus-4-5'),
                 'priority': 2,
-                'budget': float(os.getenv('PORTKEY_BUDGET', '100.0')),
+                'budget': float(os.getenv('REQUESTY_BUDGET', '69.95')),
+                'type': 'requesty',
+            },
+            'portkey_openrouter': {
+                'api_key': os.getenv('PORTKEY_API_KEY'),
+                'base_url': 'https://api.portkey.ai/v1',
+                'model': '@kp2026/anthropic/claude-sonnet-4.5',
+                'priority': 3,
+                'budget': float(os.getenv('OPENROUTER_BUDGET', '5.78')),
                 'type': 'portkey',
             },
         }
-        
-        # Filter out providers that don't have an API key or necessary config
-        active_providers = {name: conf for name, conf in providers.items() if self._is_provider_configured(name, conf)}
-        return active_providers
+
+        # Filter out providers without API key
+        active = {}
+        for name, conf in providers.items():
+            if conf.get('api_key'):
+                active[name] = conf
+        return active
 
     def _is_provider_configured(self, name: str, config: Dict[str, Any]) -> bool:
         """Checks if a provider has the minimum required configuration."""
         if name == 'google_cloud':
             return config.get('credentials_path') and config.get('project')
-        if name in ('portkey', 'requesty'):
+        if name in ('portkey', 'requesty', 'requesty_opus'):
             return bool(config.get('api_key'))
         return False
 
@@ -238,8 +249,53 @@ class UnifiedAPIClient:
             )
 
     def _process_with_portkey(self, provider: ProviderConfig, prompt: str, system_prompt: Optional[str], **kwargs) -> ProcessingResult:
-        """Verarbeitet eine Anfrage über Portkey Gateway (z. B. Bedrock-Modelle) als OpenAI-kompatiblen Call."""
-        logger.info(f"→ Verarbeite mit Portkey ({provider.model})")
+        """Verarbeitet eine Anfrage über Portkey SDK (für @kp2026/... Modelle)."""
+        logger.info(f"→ Verarbeite mit Portkey SDK ({provider.model})")
+        try:
+            from portkey_ai import Portkey
+            client = Portkey(api_key=provider.api_key, base_url="https://api.portkey.ai/v1")
+
+            messages = []
+            if system_prompt:
+                messages.append({"role": "system", "content": system_prompt})
+            messages.append({"role": "user", "content": prompt})
+
+            response = client.chat.completions.create(
+                model=provider.model,
+                messages=messages,
+                max_tokens=kwargs.get("max_tokens", 1024),
+                temperature=kwargs.get("temperature", 0.3),
+            )
+
+            content = response.choices[0].message.content
+            input_tokens = response.usage.prompt_tokens if response.usage else 0
+            output_tokens = response.usage.completion_tokens if response.usage else 0
+            self._update_cost(input_tokens, output_tokens, "portkey")
+
+            return ProcessingResult(
+                success=True,
+                provider="portkey",
+                model=provider.model,
+                response_text=content,
+                input_tokens=input_tokens,
+                output_tokens=output_tokens,
+                cost=self.session_cost,
+                timestamp=datetime.now().isoformat(),
+            )
+        except Exception as e:
+            logger.error(f"❌ Portkey FEHLER: {e}")
+            return ProcessingResult(
+                success=False,
+                provider="portkey",
+                model=provider.model,
+                response_text="",
+                error=str(e),
+                timestamp=datetime.now().isoformat(),
+            )
+
+    def _process_with_requesty(self, provider: ProviderConfig, prompt: str, system_prompt: Optional[str], **kwargs) -> ProcessingResult:
+        """Verarbeitet eine Anfrage über Requesty (OpenAI-kompatibel)."""
+        logger.info(f"→ Verarbeite mit Requesty ({provider.model})")
         headers = {
             "Authorization": f"Bearer {provider.api_key}",
             "Content-Type": "application/json",
@@ -267,10 +323,10 @@ class UnifiedAPIClient:
             content = data.get("choices", [{}])[0].get("message", {}).get("content", "")
             input_tokens = self._get_token_count(prompt)
             output_tokens = self._get_token_count(content)
-            self._update_cost(input_tokens, output_tokens, provider.type)
+            self._update_cost(input_tokens, output_tokens, "requesty")
             return ProcessingResult(
                 success=True,
-                provider=provider.type,
+                provider="requesty",
                 model=provider.model,
                 response_text=content,
                 input_tokens=input_tokens,
@@ -279,10 +335,10 @@ class UnifiedAPIClient:
                 timestamp=datetime.now().isoformat(),
             )
         except Exception as e:
-            logger.error(f"❌ Portkey FEHLER: {e}")
+            logger.error(f"❌ Requesty FEHLER: {e}")
             return ProcessingResult(
                 success=False,
-                provider=provider.type,
+                provider="requesty",
                 model=provider.model,
                 response_text="",
                 error=str(e),
@@ -304,55 +360,66 @@ class UnifiedAPIClient:
         system_prompt: Optional[str] = None,
         **kwargs: Any,
     ) -> ProcessingResult:
-        if getattr(provider, "type", None) == "legacy":
-            raise ProviderError(provider.name, "Legacy provider dispatch not implemented.")
-        if provider.type == "portkey":
+        """Ruft den passenden Provider auf basierend auf Typ."""
+        ptype = getattr(provider, "type", "unknown")
+
+        if ptype == "requesty":
+            return self._process_with_requesty(provider, prompt, system_prompt, **kwargs)
+        if ptype == "portkey":
             return self._process_with_portkey(provider, prompt, system_prompt, **kwargs)
-        if provider.type == "requesty":
-            # Requesty nutzt OpenAI-kompatibles Schema
-            return self._process_with_portkey(provider, prompt, system_prompt, **kwargs)
+
         return ProcessingResult(
             success=False,
-            provider=getattr(provider, "type", "unknown"),
+            provider=ptype,
             model=getattr(provider, "model", ""),
             response_text="",
-            error=f"Provider type '{getattr(provider, 'type', 'unknown')}' not supported.",
+            error=f"Provider type '{ptype}' not supported.",
             timestamp=datetime.now().isoformat(),
         )
 
-    def chat_completion(self, prompt: str, max_tokens: int = 2048, temperature: float = 0.5) -> Dict[str, Any]:
+    def chat_completion(self, prompt: str, max_tokens: int = 2048, temperature: float = 0.5, system_prompt: Optional[str] = None) -> Dict[str, Any]:
         """Performs a chat completion, trying providers in order of priority."""
-        payload = {
-            "messages": [{"role": "user", "content": prompt}],
-            "max_tokens": max_tokens,
-            "temperature": temperature
-        }
-        
         last_error = None
-        for provider in self.provider_order:
-            if provider not in self.providers:
+        for provider_name in self.provider_order:
+            if provider_name not in self.providers:
                 continue
-            
-            try:
-                logger.info(f"Attempting request with provider: {provider}")
-                response_data = self._make_request(provider, payload)
-                
-                # Assuming OpenAI-like response structure
-                input_tokens = self._get_token_count(prompt)
-                output_text = response_data.get('choices', [{}])[0].get('message', {}).get('content', '')
-                output_tokens = self._get_token_count(output_text)
-                
-                self._update_cost(input_tokens, output_tokens, provider)
 
-                return {
-                    "provider": provider,
-                    "response": output_text,
-                    "usage": {"input_tokens": input_tokens, "output_tokens": output_tokens}
-                }
+            try:
+                logger.info(f"Attempting request with provider: {provider_name}")
+                config = self.providers[provider_name]
+
+                # Erstelle ProviderConfig für _call_provider
+                provider_config = ProviderConfig(
+                    name=provider_name,
+                    api_key=config.get('api_key'),
+                    base_url=config.get('base_url'),
+                    model=config.get('model'),
+                    type=config.get('type'),
+                )
+
+                # Nutze das unified routing über _call_provider
+                result = self._call_provider(
+                    provider_config,
+                    prompt=prompt,
+                    system_prompt=system_prompt,
+                    max_tokens=max_tokens,
+                    temperature=temperature,
+                )
+
+                if result.success:
+                    return {
+                        "provider": provider_name,
+                        "response": result.response_text,
+                        "usage": {"input_tokens": result.input_tokens, "output_tokens": result.output_tokens}
+                    }
+                else:
+                    logger.warning(f"Provider {provider_name} returned error: {result.error}")
+                    last_error = result.error
+
             except Exception as e:
-                logger.info(f"Provider {provider} failed: {e}")
+                logger.warning(f"Provider {provider_name} failed: {e}")
                 last_error = e
-        
+
         # If all providers fail, raise the last error
         raise ProviderError("all", f"All providers failed. Last error: {last_error}")
 
