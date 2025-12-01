@@ -47,11 +47,6 @@ logger = logging.getLogger(__name__)
 LEITLINIEN_DIR = Path(os.getenv("LEITLINIEN_DIR", "_BIBLIOTHEK/Leitlinien")).resolve()
 LEITLINIEN_MANIFEST = LEITLINIEN_DIR.parent / "leitlinien_manifest.json"
 
-
-# Leitlinien-Pfad fest verdrahten (ENV überschreibbar)
-LEITLINIEN_DIR = Path(os.getenv("LEITLINIEN_DIR", "_BIBLIOTHEK/Leitlinien")).resolve()
-LEITLINIEN_MANIFEST = LEITLINIEN_DIR.parent / "leitlinien_manifest.json"
-
 # Theme-zu-Fachgesellschaft Mapping
 THEME_TO_SOCIETY = {
     # Kardiologie
