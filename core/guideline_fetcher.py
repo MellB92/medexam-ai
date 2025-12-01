@@ -28,6 +28,7 @@ Autor: MedExamAI Team
 import hashlib
 import json
 import logging
+import os
 import re
 import time
 from collections import defaultdict
@@ -42,6 +43,14 @@ import requests
 
 logger = logging.getLogger(__name__)
 
+# Leitlinien-Pfad fest verdrahten (ENV überschreibbar)
+LEITLINIEN_DIR = Path(os.getenv("LEITLINIEN_DIR", "_BIBLIOTHEK/Leitlinien")).resolve()
+LEITLINIEN_MANIFEST = LEITLINIEN_DIR.parent / "leitlinien_manifest.json"
+
+
+# Leitlinien-Pfad fest verdrahten (ENV überschreibbar)
+LEITLINIEN_DIR = Path(os.getenv("LEITLINIEN_DIR", "_BIBLIOTHEK/Leitlinien")).resolve()
+LEITLINIEN_MANIFEST = LEITLINIEN_DIR.parent / "leitlinien_manifest.json"
 
 # Theme-zu-Fachgesellschaft Mapping
 THEME_TO_SOCIETY = {
@@ -277,7 +286,7 @@ class GuidelineFetcher:
 
     def __init__(
         self,
-        download_dir: str = "_BIBLIOTHEK/Leitlinien",
+        download_dir: str = str(LEITLINIEN_DIR),
         cache_file: str = "guideline_cache.json",
         max_parallel: int = 4
     ):
