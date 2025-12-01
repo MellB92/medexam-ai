@@ -314,36 +314,26 @@ class AnswerGenerator:
 
     def _pick_model(self, question: str, therapy_bias: bool) -> Tuple[str, str, float]:
         """
-        Wählt Provider/Modell nach Budget-Reihenfolge (Requesty → Anthropic → AWS → Comet → Perplexity → OpenRouter → OpenAI).
+        Wählt Provider/Modell nach Budget-Reihenfolge (Requesty → Portkey).
         Liefert (provider, model, est_cost_per_call). Kosten grob geschätzt.
         """
         if therapy_bias:
             candidates = [
-                ("REQUESTY", "claude-sonnet-therapy", 0.03),
-                ("ANTHROPIC", "claude-3-5-sonnet", 0.03),
-                ("AWS_BEDROCK", "claude-3-5-sonnet", 0.03),
-                ("COMET_API", "comet-therapy", 0.02),
-                ("PERPLEXITY", "pplx-llama-3.1", 0.02),
-                ("OPENROUTER", "llama-3.1-70b", 0.01),
-                ("OPENAI", "gpt-4o-mini", 0.01),
+                ("REQUESTY", "claude-sonnet", 0.03),
+                ("PORTKEY", "claude-3-5-sonnet", 0.03),
             ]
         else:
             candidates = [
-                ("REQUESTY", "claude-sonnet-lite", 0.015),
-                ("ANTHROPIC", "claude-3-5-sonnet", 0.02),
-                ("AWS_BEDROCK", "claude-3-5-sonnet", 0.02),
-                ("COMET_API", "comet-general", 0.01),
-                ("PERPLEXITY", "pplx-llama-3.1", 0.01),
-                ("OPENROUTER", "llama-3.1-8b", 0.002),
-                ("OPENAI", "gpt-4o-mini", 0.005),
+                ("REQUESTY", "claude-sonnet", 0.02),
+                ("PORTKEY", "llama-3.1-70b", 0.01),
             ]
 
         budget_map = dict(BUDGET_ORDER)
         for prov, model, cost in candidates:
             if self.cost_used + cost <= self.budget_limit and budget_map.get(prov, 0.0) > cost:
                 return prov, model, cost
-        # Fallback: günstigstes Modell
-        return "OPENROUTER", "llama-3.1-8b", 0.002
+        # Fallback: Portkey mit Default
+        return "PORTKEY", "llama-3.1-8b", 0.002
 
     def _generate_with_llm(
         self,

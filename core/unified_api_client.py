@@ -104,8 +104,9 @@ class UnifiedAPIClient:
 
     def _configure_providers(self) -> Dict[str, Any]:
         """Loads provider configurations from environment variables."""
-        # Provider configuration with priority, budget, and model details
-        # Priorität (1 = zuerst): Requesty > Anthropic > AWS Bedrock > Comet API > Perplexity > OpenRouter > OpenAI
+        # Vereinfachte Konfiguration: nur zwei Schlüssel nötig
+        # 1) Requesty (direkt)
+        # 2) Portkey (Gateway, kapselt Anthropic/Bedrock/OpenRouter/OpenAI/Comet/Perplexity)
         providers = {
             'requesty': {
                 'api_key': os.getenv('REQUESTY_API_KEY'),
@@ -113,59 +114,16 @@ class UnifiedAPIClient:
                 'model': os.getenv('REQUESTY_MODEL', 'claude-sonnet'),
                 'priority': 1,
                 'budget': float(os.getenv('REQUESTY_BUDGET', '69.95')),
+                'type': 'requesty',
             },
-            'comet': {
-                'api_key': os.getenv('COMET_API_KEY'),
-                'base_url': os.getenv('COMET_API_BASE_URL', 'https://api.cometapi.com/v1'),
-                'model': os.getenv('COMET_API_MODEL', 'comet-general'),
-                'priority': 4,
-                'budget': float(os.getenv('COMET_API_BUDGET', '8.65')),
-            },
-            'perplexity': {
-                'api_key': os.getenv('PERPLEXITY_API_KEY_1'),
-                'base_url': os.getenv('PERPLEXITY_BASE_URL', 'https://api.perplexity.ai'),
-                'model': os.getenv('PERPLEXITY_MODEL', 'llama-3-sonar-large-32k-online'),
-                'priority': 5,
-                'budget': float(os.getenv('PERPLEXITY_BUDGET', '15.00')),
-            },
-            'openrouter': {
-                'api_key': os.getenv('OPENROUTER_API_KEY'),
-                'base_url': 'https://openrouter.ai/api/v1',
-                'model': os.getenv('OPENROUTER_MODEL', 'meta-llama/llama-3.1-70b-instruct'),
-                'priority': 6,
-                'usage_target': 0.90,
-            },
-            'openai': {
-                'api_key': os.getenv('OPENAI_API_KEY'),
-                'base_url': 'https://api.openai.com/v1',
-                'model': os.getenv('OPENAI_MODEL', 'gpt-4o-mini'),
-                'priority': 7,
-                'budget': float(os.getenv('OPENAI_BUDGET', '9.99')),
-            },
-            'anthropic': {
-                'api_key': os.getenv('ANTHROPIC_API_KEY'),
-                'base_url': 'https://api.anthropic.com/v1',
-                'model': os.getenv('ANTHROPIC_MODEL', 'claude-3-5-sonnet'),
-                'priority': 2,
-                'budget': float(os.getenv('ANTHROPIC_BUDGET', '37.62')),
-            },
-            'aws_bedrock': {
-                # Standardweg hier über Portkey-Gateway
+            'portkey': {
                 'api_key': os.getenv('PORTKEY_API_KEY'),
                 'base_url': os.getenv('PORTKEY_BASE_URL', 'https://api.portkey.ai/v1'),
-                'model': os.getenv('AWS_BEDROCK_MODEL', 'claude-3-5-sonnet'),
-                'priority': 3,
-                'budget': float(os.getenv('AWS_BEDROCK_BUDGET', '24.00')),
-                'type': 'bedrock_portkey',
-            },
-            'google_cloud': {  # MedGemma via Vertex (optional)
-                'credentials_path': os.getenv('GOOGLE_APPLICATION_CREDENTIALS'),
-                'project': os.getenv('GOOGLE_CLOUD_PROJECT'),
-                'model': os.getenv('MEDGEMMA_MODEL', 'med-gemma-7b'),
-                'priority': 8,
-                'budget': float(os.getenv('MEDGEMMA_BUDGET', '0.0')),
-                'type': 'medgemma',
-                'name': 'medgemma',
+                # Modellname kann via Header/Route in Portkey konfiguriert werden; hier Default
+                'model': os.getenv('PORTKEY_MODEL', 'claude-3-5-sonnet'),
+                'priority': 2,
+                'budget': float(os.getenv('PORTKEY_BUDGET', '100.0')),
+                'type': 'portkey',
             },
         }
         
@@ -177,9 +135,9 @@ class UnifiedAPIClient:
         """Checks if a provider has the minimum required configuration."""
         if name == 'google_cloud':
             return config.get('credentials_path') and config.get('project')
-        if name == 'aws_bedrock':
-            return bool(config.get('api_key'))  # Portkey API Key
-        return config.get('api_key') is not None
+        if name in ('portkey', 'requesty'):
+            return bool(config.get('api_key'))
+        return False
 
     def _get_token_count(self, text: str) -> int:
         """Calculates the number of tokens in a string."""
@@ -348,9 +306,10 @@ class UnifiedAPIClient:
     ) -> ProcessingResult:
         if getattr(provider, "type", None) == "legacy":
             raise ProviderError(provider.name, "Legacy provider dispatch not implemented.")
-        elif provider.type == "medgemma":
-            return self._process_with_medgemma(provider, prompt, system_prompt, **kwargs)
-        elif provider.type == "bedrock_portkey":
+        if provider.type == "portkey":
+            return self._process_with_portkey(provider, prompt, system_prompt, **kwargs)
+        if provider.type == "requesty":
+            # Requesty nutzt OpenAI-kompatibles Schema
             return self._process_with_portkey(provider, prompt, system_prompt, **kwargs)
         return ProcessingResult(
             success=False,
@@ -396,6 +355,59 @@ class UnifiedAPIClient:
         
         # If all providers fail, raise the last error
         raise ProviderError("all", f"All providers failed. Last error: {last_error}")
+
+    def complete(self, prompt: str, provider: str = None, model: str = None,
+                 max_tokens: int = 2048, temperature: float = 0.3) -> Dict[str, Any]:
+        """
+        Convenience method for generate_answers.py compatibility.
+
+        Calls chat_completion and parses JSON response for 5-Punkte-Schema fields.
+
+        Args:
+            prompt: The prompt to send to the LLM
+            provider: Optional specific provider (ignored, uses priority order)
+            model: Optional specific model (ignored, uses provider config)
+            max_tokens: Maximum tokens for response
+            temperature: Temperature for response generation
+
+        Returns:
+            Dict with parsed JSON fields or empty dict on error
+        """
+        try:
+            result = self.chat_completion(prompt=prompt, max_tokens=max_tokens, temperature=temperature)
+            response_text = result.get("response", "")
+
+            # Try to parse JSON from response
+            # Handle markdown code blocks
+            if "```json" in response_text:
+                json_start = response_text.find("```json") + 7
+                json_end = response_text.find("```", json_start)
+                response_text = response_text[json_start:json_end].strip()
+            elif "```" in response_text:
+                json_start = response_text.find("```") + 3
+                json_end = response_text.find("```", json_start)
+                response_text = response_text[json_start:json_end].strip()
+
+            # Try to parse as JSON
+            try:
+                parsed = json.loads(response_text)
+                return parsed
+            except json.JSONDecodeError:
+                # Try to find JSON object in response
+                import re
+                json_match = re.search(r'\{[^{}]*\}', response_text, re.DOTALL)
+                if json_match:
+                    try:
+                        return json.loads(json_match.group())
+                    except json.JSONDecodeError:
+                        pass
+
+                logger.warning(f"Could not parse JSON from response: {response_text[:200]}...")
+                return {}
+
+        except Exception as e:
+            logger.error(f"complete() failed: {e}")
+            return {}
 
     # --- Integration with existing modules ---
 
