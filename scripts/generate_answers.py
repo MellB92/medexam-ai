@@ -126,6 +126,10 @@ class GeneratedAnswer:
     # Timestamps
     generated_at: str
 
+    # Evidenz-Zusatz
+    web_citations: List[Dict[str, Any]] = None  # [{title,url,snippet}]
+    pubmed_references: List[str] = None
+
     def to_dict(self) -> Dict[str, Any]:
         return asdict(self)
 
@@ -161,12 +165,16 @@ class AnswerGenerator:
         include_leitlinien: bool = True,
         use_scientific_skills: bool = True,
         dry_run: bool = True,
-        budget_limit: float = 40.0
+        budget_limit: float = 40.0,
+        use_web_search: bool = False,
+        allowed_web_domains: Optional[List[str]] = None,
     ):
         self.rag = get_rag_system(use_openai=use_openai)
         self.validator = MedicalValidationLayer() if validate else None
         self.include_leitlinien = include_leitlinien
         self.dry_run = dry_run
+        self.use_web_search = use_web_search
+        self.allowed_web_domains = allowed_web_domains
 
         # Scientific Skills Integration
         self.use_scientific_skills = use_scientific_skills and SCIENTIFIC_SKILLS_AVAILABLE
@@ -197,8 +205,30 @@ class AnswerGenerator:
         with open(questions_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
 
-        # Unterstütze beide Formate: einzelne Fragen und Blöcke
+        # Unterstütze verschiedene Formate
         questions = []
+
+        # Format 1: Dict mit 'qa_pairs' key (cleaned_qa.json)
+        if isinstance(data, dict) and 'qa_pairs' in data:
+            for item in data['qa_pairs']:
+                # Überspringe Fragen die bereits eine Antwort haben
+                if item.get('answer'):
+                    continue
+                questions.append({
+                    "frage": item.get("question", ""),
+                    "block_id": item.get("topic"),
+                    "context": [item.get("case_context", "")] if item.get("case_context") else [],
+                    "source_file": item.get("source_file"),
+                    "source_tier": item.get("source_tier", "gold_standard"),
+                    "original_item": item  # Für späteres Updaten
+                })
+            logger.info(f"{len(questions)} Fragen ohne Antwort geladen (von {data.get('total_pairs', '?')} gesamt)")
+            return questions
+
+        # Format 2: Liste von Blöcken oder einzelnen Fragen
+        if not isinstance(data, list):
+            data = [data]
+
         for item in data:
             if "questions" in item:
                 # Block-Format
@@ -267,6 +297,18 @@ class AnswerGenerator:
                 guideline_info = f"AWMF {gl['registry_number']} - {gl['title']}"
                 evidenzgrad = "A" if "S3" in gl["title"] else ("B" if "S2" in gl["title"] else "C")
 
+        # Optionale Websuche (Portkey/Perplexity) auf vertrauenswürdigen Domains
+        web_citations: List[Dict[str, str]] = []
+        if self.use_web_search:
+            try:
+                from core.web_search import search_medical_web, ALLOWED_DOMAINS_DEFAULT
+                domains = self.allowed_web_domains or ALLOWED_DOMAINS_DEFAULT
+                # Query fokussiert auf Leitlinien-/DocCheck-Ebenen
+                query = question
+                web_citations = search_medical_web(query, max_results=3, allowed_domains=domains)
+            except Exception as e:
+                logger.warning(f"Websuche fehlgeschlagen oder nicht verfügbar: {e}")
+
         # Scientific Skills Enrichment (PubMed, ChEMBL, DataCommons)
         scientific_enrichments = []
         pubmed_references = []
@@ -289,7 +331,8 @@ class AnswerGenerator:
         if not self.dry_run:
             definition, aetiologie, diagnostik, therapie, rechtlich = self._generate_with_llm(
                 question, context or [], rag_context.get("contexts", []), guideline_info, theme_list,
-                scientific_enrichments=scientific_enrichments
+                scientific_enrichments=scientific_enrichments,
+                web_citations=web_citations
             )
         else:
             definition = self._generate_definition_placeholder(question, theme_list)
@@ -309,31 +352,115 @@ class AnswerGenerator:
             "themes": theme_list,
             "rag_sources": rag_context.get("sources", []),
             "scientific_enrichments": scientific_enrichments,
-            "pubmed_references": pubmed_references
+            "pubmed_references": pubmed_references,
+            "web_citations": web_citations,
         }
 
-    def _pick_model(self, question: str, therapy_bias: bool) -> Tuple[str, str, float]:
+    def _classify_question_priority(self, question: str, themes: List[str]) -> str:
         """
-        Wählt Provider/Modell nach Budget-Reihenfolge (Requesty → Portkey).
-        Liefert (provider, model, est_cost_per_call). Kosten grob geschätzt.
-        """
-        if therapy_bias:
-            candidates = [
-                ("REQUESTY", "claude-sonnet", 0.03),
-                ("PORTKEY", "claude-3-5-sonnet", 0.03),
-            ]
-        else:
-            candidates = [
-                ("REQUESTY", "claude-sonnet", 0.02),
-                ("PORTKEY", "llama-3.1-70b", 0.01),
-            ]
+        Klassifiziert Fragen nach Prüfungsrelevanz (High-Yield System).
 
-        budget_map = dict(BUDGET_ORDER)
-        for prov, model, cost in candidates:
-            if self.cost_used + cost <= self.budget_limit and budget_map.get(prov, 0.0) > cost:
-                return prov, model, cost
-        # Fallback: Portkey mit Default
-        return "PORTKEY", "llama-3.1-8b", 0.002
+        HIGH_YIELD: Kritische Themen, komplexe Differentialdiagnosen, Notfälle
+        MEDIUM: Standard-Fälle, häufige Erkrankungen
+        LOW_YIELD: Seltene Erkrankungen, Randthemen
+
+        Returns: 'high', 'medium', oder 'low'
+        """
+        question_lower = question.lower()
+        themes_lower = [t.lower() for t in themes] if themes else []
+
+        # HIGH-YIELD Keywords: Notfälle, häufige IMPP-Themen, Differentialdiagnosen
+        high_yield_keywords = [
+            # Notfälle
+            'notfall', 'akut', 'reanimation', 'schock', 'sepsis', 'anaphylaxie',
+            'herzinfarkt', 'myokardinfarkt', 'stemi', 'nstemi', 'lungenembolie',
+            'schlaganfall', 'apoplex', 'stroke', 'meningitis', 'status epilepticus',
+            # Häufige IMPP-Themen
+            'diabetes', 'hypertonie', 'herzinsuffizienz', 'copd', 'asthma',
+            'pneumonie', 'depression', 'angststörung', 'demenz', 'parkinson',
+            'kolorektales karzinom', 'mammakarzinom', 'lungenkarzinom',
+            'rheuma', 'arthritis', 'osteoporose', 'niereninsuffizienz',
+            # Differentialdiagnosen
+            'differentialdiagnose', 'dd', 'abgrenzung', 'unterscheidung',
+            # Therapie-kritisch
+            'therapie der wahl', 'first-line', 'goldstandard', 'leitlinie',
+            'kontraindikation', 'interaktion', 'dosierung',
+            # Pädiatrie/Gynäkologie
+            'schwangerschaft', 'gravidität', 'geburt', 'sectio',
+            'neugeborenes', 'säugling', 'kind', 'pädiatrie'
+        ]
+
+        # MEDIUM Keywords: Standard-Erkrankungen
+        medium_keywords = [
+            'diagnostik', 'symptom', 'anamnese', 'untersuchung',
+            'labor', 'bildgebung', 'therapie', 'medikament',
+            'prognose', 'komplikation', 'risikofaktor'
+        ]
+
+        # LOW-YIELD Keywords: Seltene Erkrankungen, Details
+        low_yield_keywords = [
+            'selten', 'rarität', 'syndrom', 'hereditär', 'genetisch',
+            'eponym', 'geschichte', 'historisch', 'forschung'
+        ]
+
+        # Scoring
+        high_score = sum(1 for kw in high_yield_keywords if kw in question_lower or any(kw in t for t in themes_lower))
+        medium_score = sum(1 for kw in medium_keywords if kw in question_lower)
+        low_score = sum(1 for kw in low_yield_keywords if kw in question_lower)
+
+        # Klassifikation
+        if high_score >= 2 or (high_score >= 1 and 'notfall' in question_lower):
+            return 'high'
+        elif low_score >= 2 or (low_score >= 1 and high_score == 0):
+            return 'low'
+        else:
+            return 'medium'
+
+    def _pick_model(self, question: str, themes: List[str] = None) -> Tuple[str, str, float]:
+        """
+        Wählt Provider/Modell basierend auf High-Yield Priorisierung.
+
+        HIGH-YIELD → Opus 4 (beste Qualität, ~$0.075/call)
+        MEDIUM → Sonnet 4.5 (gutes Preis-Leistung, ~$0.015/call)
+        LOW-YIELD → Haiku 4.5 (kosteneffizient, ~$0.002/call)
+
+        Alle via Requesty/Bedrock geroutet.
+        """
+        priority = self._classify_question_priority(question, themes or [])
+
+        # Model-Mapping nach Priorität (via Requesty)
+        # Opus 4.5 nur via Anthropic/Vertex, Sonnet/Haiku via Bedrock
+        model_config = {
+            'high': {
+                'model': 'anthropic/claude-opus-4-5',
+                'cost': 0.10,  # ~$15/M input, $75/M output (teurer, aber beste Qualität)
+                'name': 'Opus 4.5 (High-Yield)'
+            },
+            'medium': {
+                'model': 'bedrock/claude-sonnet-4-5@us-east-1',
+                'cost': 0.015,  # ~$3/M input, $15/M output
+                'name': 'Sonnet 4.5 (Standard)'
+            },
+            'low': {
+                'model': 'bedrock/claude-haiku-4-5@us-east-1',
+                'cost': 0.002,  # ~$0.25/M input, $1.25/M output
+                'name': 'Haiku 4.5 (Budget)'
+            }
+        }
+
+        config = model_config[priority]
+
+        # Budget-Check: Bei knappem Budget downgraden
+        if self.cost_used + config['cost'] > self.budget_limit * 0.9:
+            if priority == 'high':
+                config = model_config['medium']
+                logger.warning(f"Budget knapp - downgrade zu {config['name']}")
+            elif priority == 'medium':
+                config = model_config['low']
+                logger.warning(f"Budget knapp - downgrade zu {config['name']}")
+
+        logger.info(f"Frage-Priorität: {priority.upper()} → {config['name']}")
+        return 'REQUESTY', config['model'], config['cost']
 
     def _generate_with_llm(
         self,
@@ -343,6 +470,7 @@ class AnswerGenerator:
         guideline_info: str,
         themes: List[str],
         scientific_enrichments: List[Dict[str, Any]] = None,
+        web_citations: List[Dict[str, str]] = None,
     ) -> Tuple[str, str, str, str, str]:
         """
         LLM-Aufruf mit Budget-Tracking, Provider-Routing und Scientific Context via unified_api_client.
@@ -356,7 +484,10 @@ class AnswerGenerator:
         if self.cost_used + est_cost > self.budget_limit:
             raise RuntimeError("Budget-Limit erreicht")
         client = UnifiedAPIClient()
-        prompt = self._build_prompt(question, context, rag_contexts, guideline_info, themes, scientific_enrichments)
+        prompt = self._build_prompt(
+            question, context, rag_contexts, guideline_info, themes,
+            scientific_enrichments, web_citations or []
+        )
         resp = client.complete(prompt=prompt, provider=provider, model=model)
 
         self.cost_used += est_cost
@@ -378,6 +509,7 @@ class AnswerGenerator:
         guideline_info: str,
         themes: List[str],
         scientific_enrichments: List[Dict[str, Any]] = None,
+        web_citations: List[Dict[str, str]] = None,
     ) -> str:
         scientific_context = ""
         if scientific_enrichments:
@@ -385,6 +517,15 @@ class AnswerGenerator:
             for enr in scientific_enrichments:
                 lines.append(json.dumps(enr, ensure_ascii=False))
             scientific_context = "\n".join(lines)
+        web_ctx = ""
+        if web_citations:
+            parts = []
+            for c in web_citations[:5]:
+                title = c.get("title") or "Quelle"
+                url = c.get("url") or ""
+                snippet = c.get("snippet") or ""
+                parts.append(f"- {title} ({url})\n  {snippet}")
+            web_ctx = "\n".join(parts)
         ctx = "\n".join(context or [])
         rag = "\n".join(rag_contexts or [])
         theme_str = ", ".join(themes) if themes else "Allgemein"
@@ -396,6 +537,7 @@ class AnswerGenerator:
             f"Kontext:\n{ctx}\n"
             f"RAG:\n{rag}\n"
             f"Wissenschaft:\n{scientific_context}\n"
+            f"Webquellen (nur DocCheck/Fachgesellschaften):\n{web_ctx}\n"
             "Formatiere als JSON mit Schlüsseln: "
             "definition_klassifikation, aetiologie_pathophysiologie, diagnostik, therapie, rechtliche_aspekte. "
             "In 'therapie' immer Dosierungen (mg/kg oder mg), Frequenz, Dauer; bei Unsicherheit: 'unsicher, bitte prüfen'. "
@@ -507,7 +649,9 @@ class AnswerGenerator:
                 detected_themes=answer_data["themes"],
                 validation_score=validation_score,
                 validation_issues=validation_issues,
-                generated_at=time.strftime("%Y-%m-%dT%H:%M:%S")
+                generated_at=time.strftime("%Y-%m-%dT%H:%M:%S"),
+                web_citations=answer_data.get("web_citations", []),
+                pubmed_references=answer_data.get("pubmed_references", []),
             )
 
             self.stats["successful"] += 1
@@ -617,6 +761,16 @@ def main() -> int:
         action="store_true",
         help="Ausführliche Ausgabe"
     )
+    parser.add_argument(
+        "--web-search",
+        action="store_true",
+        help="Aktiviere gezielte Websuche (DocCheck/Fachgesellschaften) via Portkey/Perplexity"
+    )
+    parser.add_argument(
+        "--web-domains",
+        nargs='*',
+        help="Erlaube zusätzliche Domains für die Websuche (optional)"
+    )
 
     args = parser.parse_args()
 
@@ -651,7 +805,9 @@ def main() -> int:
         validate=not args.no_validation,
         include_leitlinien=True,
         dry_run=args.dry_run,
-        budget_limit=args.budget
+        budget_limit=args.budget,
+        use_web_search=args.web_search,
+        allowed_web_domains=args.web_domains
     )
 
     # Fragen laden
