@@ -57,6 +57,12 @@ _DERIVED_CHUNKS/
 _LLM_ARCHIVE/
 _BIBLIOTHEK/Leitlinien/
 
+# Fact Check Sources (nur fuer Verifikation, nicht fuer Content-Generierung)
+_FACT_CHECK_SOURCES/**/*.pdf
+_FACT_CHECK_SOURCES/**/*.txt
+_FACT_CHECK_SOURCES/**/*.json
+# README.md wird versioniert fuer Dokumentation
+
 # Temporary files
 *.tmp
 *.log

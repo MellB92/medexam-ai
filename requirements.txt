@@ -10,6 +10,7 @@ requests>=2.31.0           # HTTP requests for guideline fetching
 anthropic                  # Anthropic API
 boto3                      # AWS Bedrock client
 python-dotenv              # Load .env secrets
+sentence-transformers      # Embeddings für RAG
 biopython                  # PubMed/sequence utilities
 bioservices                # Bio APIs
 datacommons-pandas         # DataCommons access
