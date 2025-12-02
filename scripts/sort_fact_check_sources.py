@@ -267,6 +267,48 @@ CATEGORY_RULES = {
         "extensions": [".pdf", ".pptx", ".pages"],
     },
 
+    # === MEDIZINISCHE FACHSPRACHE / SPRACHKURS ===
+    "sprachkurs": {
+        "keywords": ["arztbrief", "epikrise", "dokumentation", "doku", "anamnese",
+                    "wwsz", "nurse", "gesprächsführung", "gespräch", "fachsprache",
+                    "grundwortschatz", "lückentext", "silbenrätsel", "partikeln",
+                    "redewendungen", "adjektive", "verben ku", "telc", "medisim"],
+        "extensions": [".pdf", ".pptx", ".docx"],
+    },
+
+    # === STRAHLENSCHUTZ ===
+    "fachgebiete/strahlenschutz": {
+        "keywords": ["strahlenschutz", "strahlung", "röntgenverordnung", "dosimetrie"],
+        "extensions": [".pdf", ".pptx"],
+    },
+
+    # === DIAGNOSTIK (Bildgebung, Endoskopie) ===
+    "fachgebiete/diagnostik": {
+        "keywords": ["endoskop", "sonograph", "sonografie", "röntgen", "rö-",
+                    "bildgebend", "normalbefund", "wundbeschreibung"],
+        "extensions": [".pdf", ".pptx"],
+    },
+
+    # === ANATOMIE ===
+    "vorklinik/anatomie": {
+        "keywords": ["anatomie", "graal", "körperteil"],
+        "extensions": [".pdf", ".pptx"],
+    },
+
+    # === FÄLLE / FALLBEISPIELE ===
+    "fallbeispiele": {
+        "keywords": ["düsseldorf fälle", "fälle kompl", "fallkonzept", "kasuistik",
+                    "prüfungssimulation", "musterepikrise"],
+        "extensions": [".pdf", ".docx"],
+    },
+
+    # === SCRIPTS (ignorieren) ===
+    "_skip_scripts": {
+        "keywords": [],
+        "extensions": [".py", ".html", ".apkg", ".m4a"],
+        "skip": True,
+    },
+
     # === NICHT MEDIZINISCH (ignorieren) ===
     "_skip_non_medical": {
         "keywords": ["sonos", "bedrock", "iam", "aws", "macbook", "iphone", "spotify",
@@ -274,7 +316,7 @@ CATEGORY_RULES = {
                     "github", "gitlab", "docker", "kubernetes", "jenkins", "terraform",
                     "audioausgabe", "bluetooth", "wifi", "wlan", "vpn", "ssh"],
         "extensions": [".pdf", ".docx", ".doc", ".txt", ".md"],
-        "skip": True,  # Diese Dateien werden komplett ignoriert
+        "skip": True,
     },
 
     # === DOKUMENT-TYPEN ===
@@ -369,6 +411,7 @@ def sort_files(dry_run: bool = False):
         BASE_DIR / "Innere Medizin II 2",
         BASE_DIR / "Innere Medizin II",
         BASE_DIR / "KF Fieber und Sepsis",
+        BASE_DIR / "_unsortiert",  # Re-sortiere unsortierte Dateien
     ]
 
     for src in additional_sources:
