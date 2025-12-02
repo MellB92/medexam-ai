@@ -172,21 +172,41 @@ class MedicalFactChecker:
             for fact_type, patterns in self.patterns.items():
                 for pattern, label in patterns:
                     for match in pattern.finditer(line):
+                        matched_text = match.group(0)
+
+                        # Filter: Überspringe alleinstehende Prozentangaben
+                        # (z.B. "20%", "100 %") ohne medizinischen Kontext
+                        if self._is_standalone_percentage(matched_text):
+                            continue
+
+                        # Filter: Überspringe zu kurze oder nicht-informative Matches
+                        if len(matched_text.strip()) < 3:
+                            continue
+
                         # Kontext extrahieren (umgebende Zeilen)
                         start = max(0, line_num - 3)
                         end = min(len(lines), line_num + 3)
                         context = '\n'.join(lines[start:end])
 
                         facts.append(MedicalFact(
-                            text=match.group(0),
+                            text=matched_text,
                             fact_type=fact_type,
                             context=context,
                             source_file=source_file,
                             line_number=line_num,
-                            extracted_value=match.group(0),
+                            extracted_value=matched_text,
                         ))
 
         return facts
+
+    def _is_standalone_percentage(self, text: str) -> bool:
+        """Prüft ob der Text nur eine alleinstehende Prozentangabe ist"""
+        # Entferne Whitespace
+        clean = text.strip()
+        # Pattern für alleinstehende Prozente: z.B. "20%", "100 %", "5,5%"
+        if re.match(r'^\d+(?:,\d+)?\s*%$', clean):
+            return True
+        return False
 
     async def verify_fact(self, fact: MedicalFact) -> VerificationResult:
         """Verifiziert einen einzelnen Fakt"""
@@ -350,28 +370,20 @@ class MedicalFactChecker:
 
             return {'confidence': 0.5, 'correct_value': None}
 
-        # Fallback: Einfacher Zahlenvergleich
+        # Fallback: Konservative Bewertung ohne naive Zahlenvergleiche
+        # WICHTIG: Keine "incorrect" Markierung ohne klaren medizinischen Kontext
         else:
-            fact_numbers = re.findall(r'\d+(?:,\d+)?', fact.text)
-            ref_numbers = re.findall(r'\d+(?:,\d+)?', reference)
+            # Für andere Typen (time_interval, therapy_recommendation) ist eine
+            # automatische Verifizierung zu unzuverlässig
+            # -> Markiere als "uncertain" statt false positives zu generieren
 
-            if not fact_numbers:
-                return {'confidence': 0.5, 'correct_value': None}
+            # Prüfe ob der exakte Fakt-Text in der Referenz vorkommt
+            if fact.text.lower() in reference_lower:
+                return {'confidence': 0.75, 'correct_value': None}
 
-            fact_numbers = [float(n.replace(',', '.')) for n in fact_numbers]
-            ref_numbers = [float(n.replace(',', '.')) for n in ref_numbers]
-
-            matches = 0
-            for fn in fact_numbers:
-                for rn in ref_numbers:
-                    if abs(fn - rn) / max(fn, rn, 1) < 0.15:
-                        matches += 1
-                        break
-
-            confidence = matches / len(fact_numbers) if fact_numbers else 0.5
-            correct_value = str(ref_numbers[0]) if confidence < 0.5 and ref_numbers else None
-
-            return {'confidence': confidence, 'correct_value': correct_value}
+            # Ohne exakte Übereinstimmung: unsicher, aber KEINE falsche Korrektur
+            # correct_value=None verhindert irreführende "Korrektur"-Vorschläge
+            return {'confidence': 0.5, 'correct_value': None}
 
     async def check_file(self, filepath: Path,
                          max_facts: int = 20) -> Dict[str, Any]:
