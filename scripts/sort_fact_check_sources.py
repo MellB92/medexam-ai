@@ -272,8 +272,47 @@ CATEGORY_RULES = {
         "keywords": ["arztbrief", "epikrise", "dokumentation", "doku", "anamnese",
                     "wwsz", "nurse", "gesprächsführung", "gespräch", "fachsprache",
                     "grundwortschatz", "lückentext", "silbenrätsel", "partikeln",
-                    "redewendungen", "adjektive", "verben ku", "telc", "medisim"],
+                    "redewendungen", "adjektive", "verben ku", "telc", "medisim",
+                    "präfixe", "suffixe", "nominalstil", "verbalstil", "aufforderung",
+                    "aufklärung", "zuordnung", "effloreszenzen", "fachsprachprüfung",
+                    "konjunktion", "fachbegriffe", "fachbigriffe", "üs ", "üm ",
+                    "skript ", "körperliche untersuchung", "abkürzungen", "arzt-arzt",
+                    "beispiel dokumentation", "aufklärungsbögen", "vollsätze"],
         "extensions": [".pdf", ".pptx", ".docx"],
+    },
+
+    # === PRÜFUNGSSIMULATION ===
+    "pruefungssimulation": {
+        "keywords": ["simulation", "körner", "stex", "lernkarten", "bewertungsbogen"],
+        "extensions": [".pdf", ".docx"],
+    },
+
+    # === LLM ANALYSE (generierte Antworten) ===
+    "llm_analyse": {
+        "keywords": ["analyse antworten", "vervollstaendigt", "_claude", "_part",
+                    "analyse_antworten"],
+        "extensions": [".pdf"],
+    },
+
+    # === LEITLINIEN (AWMF) ===
+    "leitlinien": {
+        "keywords": ["s3_", "s2k_", "s2e_", "s1_", "awmf", "leitlinie", "-abgelaufen",
+                    "vte-prophylaxe", "crps"],
+        "extensions": [".pdf"],
+    },
+
+    # === KENNTNISPRÜFUNG ADMIN ===
+    "kenntnispruefung_admin": {
+        "keywords": ["antrag auf teilnahme", "kenntnisprüfung", "stellungnahme",
+                    "regierungskommission"],
+        "extensions": [".pdf"],
+    },
+
+    # === ÜBUNGEN ===
+    "uebungen": {
+        "keywords": ["ü1", "ü2", "ü3", "ü4", "ü5", "ü0", "ü6", "ü7", "ü8", "ü9",
+                    "übung", "uebung"],
+        "extensions": [".pdf", ".docx"],
     },
 
     # === STRAHLENSCHUTZ ===
@@ -298,14 +337,17 @@ CATEGORY_RULES = {
     # === FÄLLE / FALLBEISPIELE ===
     "fallbeispiele": {
         "keywords": ["düsseldorf fälle", "fälle kompl", "fallkonzept", "kasuistik",
-                    "prüfungssimulation", "musterepikrise"],
+                    "prüfungssimulation", "musterepikrise", "fälle 2", "fälle_"],
         "extensions": [".pdf", ".docx"],
     },
 
-    # === SCRIPTS (ignorieren) ===
+    # === SCRIPTS UND SYSTEM-DATEIEN (ignorieren) ===
     "_skip_scripts": {
         "keywords": [],
-        "extensions": [".py", ".html", ".apkg", ".m4a"],
+        "extensions": [".py", ".pyi", ".pyc", ".html", ".apkg", ".m4a", ".mp4",
+                      ".so", ".dylib", ".dll", ".exe", ".h", ".c", ".cfg",
+                      ".gz", ".zip", ".tar", ".pem", ".crt", ".rem",
+                      ".ps1", ".csh", ".fish", ".sh", ".bash", ".iml"],
         "skip": True,
     },
 
