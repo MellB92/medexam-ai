@@ -152,6 +152,17 @@ class DosageValidator:
         r"(?P<dose>\d+(?:[.,]\d+)?)\s*(?P<unit>mg|µg|g|ml|l|IE|IU|mmol)\s+(?P<med>\b[A-Za-zäöüÄÖÜß]+)",
     ]
 
+    # Applikationsrouten und kurze Wörter, die keine Medikamente sind
+    ROUTE_ABBREVIATIONS = {
+        "i", "v", "p", "o", "s", "c", "iv", "po", "sc", "im",
+        "oral", "rektal", "nasal", "lokal", "sublingual",
+        "einmalig", "täglich", "stündlich", "morgens", "abends",
+        "vor", "nach", "bei", "zu", "mit", "alle", "pro"
+    }
+
+    # Mindestlänge für Medikamentennamen
+    MIN_MED_NAME_LENGTH = 3
+
     def __init__(self, reference_data: Optional[Dict] = None):
         self.reference = reference_data or DOSAGE_REFERENCE
         self.aliases = self._build_aliases()
@@ -170,9 +181,19 @@ class DosageValidator:
             for match in re.finditer(pattern, text, re.IGNORECASE):
                 groups = match.groupdict()
                 try:
+                    med_name = groups["med"].strip()
+
+                    # Filter: Mindestlänge für Medikamentennamen
+                    if len(med_name) < self.MIN_MED_NAME_LENGTH:
+                        continue
+
+                    # Filter: Applikationsrouten und häufige Nicht-Medikamente
+                    if med_name.lower() in self.ROUTE_ABBREVIATIONS:
+                        continue
+
                     dose = float(groups["dose"].replace(",", "."))
                     extractions.append({
-                        "medication": groups["med"].strip(),
+                        "medication": med_name,
                         "dose": dose,
                         "unit": groups["unit"].lower(),
                         "original": match.group(0)
@@ -631,6 +652,319 @@ class MedicalValidationLayer:
         }
 
 
+class HallucinationDetector:
+    """
+    Erkennt mögliche Halluzinationen in LLM-generierten Antworten.
+
+    Strategien:
+    1. RAG-Quellenabdeckung: Prüft ob Aussagen durch RAG-Kontext belegt sind
+    2. Fakten-Plausibilität: Erkennt unplausible medizinische Fakten
+    3. Zahlen-Konsistenz: Prüft ob Zahlen in plausiblen Bereichen liegen
+    4. Placeholder-Erkennung: Findet nicht-ersetzte Platzhalter
+    """
+
+    # Typische Halluzinations-Marker
+    HALLUCINATION_PATTERNS = [
+        # Platzhalter die nicht ersetzt wurden
+        r'\[(?:PLACEHOLDER|EINFÜGEN|TODO|XXX|TBD)\]',
+        r'\{(?:medication|dosage|value|name|date)\}',
+        r'<(?:MEDICATION|DOSIERUNG|WERT)>',
+        # Vage/unsichere Formulierungen als Halluzinationsmarker
+        r'(?:möglicherweise|vielleicht|eventuell|könnte sein)\s+(?:dass|wenn)',
+        # Erfundene Referenzen
+        r'(?:laut|nach|gemäß)\s+(?:Dr\.\s+)?[A-Z][a-z]+(?:\s+et\s+al\.?)?\s*\(\d{4}\)',
+    ]
+
+    # Unplausible medizinische Fakten
+    IMPLAUSIBLE_FACTS = [
+        # Lebenszeichen außerhalb menschlicher Grenzen
+        {"pattern": r"Herzfrequenz[:\s]+(\d+)", "min": 20, "max": 300, "name": "Herzfrequenz"},
+        {"pattern": r"Blutdruck[:\s]+(\d+)/(\d+)", "systolic_min": 40, "systolic_max": 300, "name": "Blutdruck"},
+        {"pattern": r"Temperatur[:\s]+(\d+(?:[.,]\d+)?)\s*°?C", "min": 25, "max": 45, "name": "Temperatur"},
+        {"pattern": r"Atemfrequenz[:\s]+(\d+)", "min": 4, "max": 60, "name": "Atemfrequenz"},
+        {"pattern": r"SpO2[:\s]+(\d+)\s*%", "min": 50, "max": 100, "name": "SpO2"},
+        # Altersgrenzen
+        {"pattern": r"(?:Alter|Jahre alt)[:\s]+(\d+)", "min": 0, "max": 130, "name": "Alter"},
+    ]
+
+    def __init__(self):
+        self.compiled_patterns = [re.compile(p, re.IGNORECASE) for p in self.HALLUCINATION_PATTERNS]
+
+    def detect_placeholders(self, text: str) -> List[ValidationIssue]:
+        """Erkennt nicht-ersetzte Platzhalter."""
+        issues = []
+        for pattern in self.compiled_patterns[:3]:  # Nur Platzhalter-Patterns
+            for match in pattern.finditer(text):
+                issues.append(ValidationIssue(
+                    code="HALLUC_PLACEHOLDER",
+                    message=f"Nicht-ersetzter Platzhalter gefunden: {match.group(0)}",
+                    severity=ValidationSeverity.ERROR,
+                    field="placeholder",
+                    value=match.group(0)
+                ))
+        return issues
+
+    def detect_implausible_values(self, text: str) -> List[ValidationIssue]:
+        """Erkennt unplausible medizinische Werte."""
+        issues = []
+        for fact in self.IMPLAUSIBLE_FACTS:
+            for match in re.finditer(fact["pattern"], text, re.IGNORECASE):
+                try:
+                    value = float(match.group(1).replace(",", "."))
+
+                    # Spezialfall Blutdruck
+                    if fact["name"] == "Blutdruck":
+                        systolic = value
+                        if systolic < fact["systolic_min"] or systolic > fact["systolic_max"]:
+                            issues.append(ValidationIssue(
+                                code="HALLUC_IMPLAUSIBLE",
+                                message=f"Unplausibler {fact['name']}: {match.group(0)}",
+                                severity=ValidationSeverity.WARNING,
+                                field="vital_sign",
+                                value=str(value)
+                            ))
+                    else:
+                        if value < fact["min"] or value > fact["max"]:
+                            issues.append(ValidationIssue(
+                                code="HALLUC_IMPLAUSIBLE",
+                                message=f"Unplausibler Wert für {fact['name']}: {value} (erwartet: {fact['min']}-{fact['max']})",
+                                severity=ValidationSeverity.WARNING,
+                                field="vital_sign",
+                                value=str(value)
+                            ))
+                except (ValueError, IndexError):
+                    continue
+        return issues
+
+    def check_rag_coverage(
+        self,
+        answer: str,
+        rag_context: Optional[str] = None,
+        rag_sources: Optional[List[str]] = None
+    ) -> Tuple[float, List[ValidationIssue]]:
+        """
+        Prüft wie gut die Antwort durch RAG-Kontext abgedeckt ist.
+
+        Returns:
+            (coverage_score, issues) - Score 0-1, höher = besser abgedeckt
+        """
+        issues = []
+
+        if not rag_context and not rag_sources:
+            issues.append(ValidationIssue(
+                code="HALLUC_NO_RAG",
+                message="Keine RAG-Quellen verfügbar - erhöhtes Halluzinationsrisiko",
+                severity=ValidationSeverity.WARNING,
+                field="rag_sources"
+            ))
+            return 0.3, issues  # Niedrige Basis-Confidence ohne RAG
+
+        # Extrahiere Schlüsselbegriffe aus der Antwort
+        answer_lower = answer.lower()
+        context_lower = (rag_context or "").lower()
+
+        # Medizinische Schlüsselwörter
+        medical_keywords = []
+        keyword_patterns = [
+            r'\b(?:diagnos\w+|therap\w+|behandl\w+|medikament\w+|symptom\w+)\b',
+            r'\b(?:mg|µg|ml|IE)\b',
+            r'\b[A-Z][a-z]+(?:in|ol|id|at|on)\b',  # Medikamentennamen
+        ]
+
+        for pattern in keyword_patterns:
+            medical_keywords.extend(re.findall(pattern, answer_lower, re.IGNORECASE))
+
+        if not medical_keywords:
+            return 0.7, issues  # Keine spezifischen Terme zu prüfen
+
+        # Prüfe wie viele Keywords im RAG-Kontext vorkommen
+        covered = sum(1 for kw in medical_keywords if kw.lower() in context_lower)
+        coverage = covered / len(medical_keywords) if medical_keywords else 0.5
+
+        if coverage < 0.3:
+            issues.append(ValidationIssue(
+                code="HALLUC_LOW_COVERAGE",
+                message=f"Nur {coverage*100:.0f}% der medizinischen Begriffe durch RAG belegt",
+                severity=ValidationSeverity.WARNING,
+                field="rag_coverage",
+                value=f"{coverage:.2f}"
+            ))
+
+        return max(0.3, coverage), issues
+
+    def validate(
+        self,
+        text: str,
+        rag_context: Optional[str] = None,
+        rag_sources: Optional[List[str]] = None
+    ) -> Tuple[float, List[ValidationIssue]]:
+        """
+        Vollständige Halluzinations-Prüfung.
+
+        Returns:
+            (hallucination_risk, issues) - Risk 0-1, höher = mehr Risiko
+        """
+        all_issues = []
+
+        # 1. Platzhalter
+        all_issues.extend(self.detect_placeholders(text))
+
+        # 2. Implausible Werte
+        all_issues.extend(self.detect_implausible_values(text))
+
+        # 3. RAG-Abdeckung
+        coverage, coverage_issues = self.check_rag_coverage(text, rag_context, rag_sources)
+        all_issues.extend(coverage_issues)
+
+        # Berechne Risiko-Score
+        error_count = sum(1 for i in all_issues if i.severity in (ValidationSeverity.ERROR, ValidationSeverity.CRITICAL))
+        warning_count = sum(1 for i in all_issues if i.severity == ValidationSeverity.WARNING)
+
+        risk = 0.0
+        risk += error_count * 0.3
+        risk += warning_count * 0.1
+        risk += (1 - coverage) * 0.3
+
+        return min(1.0, risk), all_issues
+
+
+class AnswerQualityChecker:
+    """
+    Prüft die fachliche Qualität generierter Antworten.
+
+    Kriterien:
+    1. Strukturierung (5-Punkte-Schema)
+    2. Quellenangaben
+    3. Evidenzgrad
+    4. Vollständigkeit
+    """
+
+    # Erwartete Struktur für medizinische Antworten
+    EXPECTED_SECTIONS = [
+        (r"(?:1\.|Definition|Zusammenfassung)", "Definition/Zusammenfassung"),
+        (r"(?:2\.|Ätiologie|Pathophysiologie|Ursachen)", "Ätiologie"),
+        (r"(?:3\.|Diagnostik|Untersuchung)", "Diagnostik"),
+        (r"(?:4\.|Therapie|Behandlung|Management)", "Therapie"),
+        (r"(?:5\.|Prognose|Komplikationen|Rechtlich)", "Prognose/Rechtlich"),
+    ]
+
+    # Evidenzgrad-Marker
+    EVIDENZ_PATTERNS = [
+        r"(?:Evidenzgrad|LoE)[:\s]*([A-D]|[IV]+|[1-4])",
+        r"(?:Empfehlungsgrad)[:\s]*([A-D]|stark|schwach)",
+        r"(?:Leitlinie)[:\s]*([^\n]+)",
+    ]
+
+    # Mindestanforderungen
+    MIN_LENGTH = 200  # Zeichen
+    MIN_SECTIONS = 2  # Mindestens 2 Abschnitte
+
+    def check_structure(self, text: str) -> Tuple[float, List[ValidationIssue]]:
+        """Prüft ob die Antwort strukturiert ist."""
+        issues = []
+        found_sections = []
+
+        for pattern, name in self.EXPECTED_SECTIONS:
+            if re.search(pattern, text, re.IGNORECASE):
+                found_sections.append(name)
+
+        section_score = len(found_sections) / len(self.EXPECTED_SECTIONS)
+
+        if len(found_sections) < self.MIN_SECTIONS:
+            issues.append(ValidationIssue(
+                code="QUALITY_LOW_STRUCTURE",
+                message=f"Wenig Struktur: nur {len(found_sections)} von {len(self.EXPECTED_SECTIONS)} Abschnitten",
+                severity=ValidationSeverity.WARNING,
+                field="structure",
+                value=", ".join(found_sections) if found_sections else "keine"
+            ))
+
+        return section_score, issues
+
+    def check_evidenz(self, text: str) -> Tuple[bool, List[ValidationIssue]]:
+        """Prüft ob Evidenzangaben vorhanden sind."""
+        issues = []
+        has_evidenz = False
+
+        for pattern in self.EVIDENZ_PATTERNS:
+            if re.search(pattern, text, re.IGNORECASE):
+                has_evidenz = True
+                break
+
+        if not has_evidenz:
+            # Nur Info, keine harte Anforderung
+            issues.append(ValidationIssue(
+                code="QUALITY_NO_EVIDENZ",
+                message="Keine Evidenzgrad-Angabe gefunden",
+                severity=ValidationSeverity.INFO,
+                field="evidenz"
+            ))
+
+        return has_evidenz, issues
+
+    def check_completeness(self, text: str, question: str) -> Tuple[float, List[ValidationIssue]]:
+        """Prüft Vollständigkeit der Antwort."""
+        issues = []
+
+        # Längenprüfung
+        if len(text) < self.MIN_LENGTH:
+            issues.append(ValidationIssue(
+                code="QUALITY_TOO_SHORT",
+                message=f"Antwort zu kurz: {len(text)} Zeichen (min: {self.MIN_LENGTH})",
+                severity=ValidationSeverity.WARNING,
+                field="length",
+                value=str(len(text))
+            ))
+            return 0.3, issues
+
+        # Prüfe ob Frage-Schlüsselwörter in Antwort vorkommen
+        question_words = set(re.findall(r'\b[A-Za-zäöüÄÖÜß]{4,}\b', question.lower()))
+        answer_words = set(re.findall(r'\b[A-Za-zäöüÄÖÜß]{4,}\b', text.lower()))
+
+        overlap = len(question_words & answer_words) / len(question_words) if question_words else 0.5
+
+        if overlap < 0.2:
+            issues.append(ValidationIssue(
+                code="QUALITY_OFF_TOPIC",
+                message="Antwort scheint nicht zur Frage zu passen",
+                severity=ValidationSeverity.WARNING,
+                field="relevance",
+                value=f"{overlap:.2f}"
+            ))
+
+        return min(1.0, len(text) / 500 * 0.5 + overlap * 0.5), issues
+
+    def validate(self, answer: str, question: str = "") -> Tuple[float, List[ValidationIssue]]:
+        """
+        Vollständige Qualitätsprüfung.
+
+        Returns:
+            (quality_score, issues) - Score 0-1, höher = bessere Qualität
+        """
+        all_issues = []
+
+        # 1. Struktur
+        structure_score, structure_issues = self.check_structure(answer)
+        all_issues.extend(structure_issues)
+
+        # 2. Evidenz
+        has_evidenz, evidenz_issues = self.check_evidenz(answer)
+        all_issues.extend(evidenz_issues)
+
+        # 3. Vollständigkeit
+        completeness_score, completeness_issues = self.check_completeness(answer, question)
+        all_issues.extend(completeness_issues)
+
+        # Gesamtscore
+        quality_score = (
+            structure_score * 0.3 +
+            (0.2 if has_evidenz else 0.1) +
+            completeness_score * 0.5
+        )
+
+        return quality_score, all_issues
+
+
 def validate_medical_content(
     text: str,
     patient_gender: Optional[str] = None,
@@ -649,6 +983,81 @@ def validate_medical_content(
     """
     validator = MedicalValidationLayer()
     return validator.validate(text, patient_gender, patient_age)
+
+
+def validate_generated_answer(
+    question: str,
+    answer: str,
+    rag_context: Optional[str] = None,
+    rag_sources: Optional[List[str]] = None
+) -> Dict[str, Any]:
+    """
+    Vollständige Validierung einer generierten Antwort.
+
+    Prüft:
+    1. Medizinische Korrektheit (Dosierungen, Laborwerte, etc.)
+    2. Halluzinationsrisiko
+    3. Antwortqualität
+
+    Args:
+        question: Die gestellte Frage
+        answer: Die generierte Antwort
+        rag_context: Optional RAG-Kontext für Halluzinations-Check
+        rag_sources: Optional Liste der RAG-Quellen
+
+    Returns:
+        Dict mit validation_passed, scores, und issues
+    """
+    # 1. Medizinische Validierung
+    med_validator = MedicalValidationLayer()
+    med_result = med_validator.validate(answer)
+
+    # 2. Halluzinations-Check
+    halluc_detector = HallucinationDetector()
+    halluc_risk, halluc_issues = halluc_detector.validate(answer, rag_context, rag_sources)
+
+    # 3. Qualitäts-Check
+    quality_checker = AnswerQualityChecker()
+    quality_score, quality_issues = quality_checker.validate(answer, question)
+
+    # Kombinierte Bewertung
+    all_issues = med_result.issues + halluc_issues + quality_issues
+    all_warnings = med_result.warnings
+
+    # Gesamtscore
+    overall_score = (
+        med_result.confidence_score * 0.4 +
+        (1 - halluc_risk) * 0.3 +
+        quality_score * 0.3
+    )
+
+    # Validierung bestanden wenn:
+    # - Keine kritischen/error Issues
+    # - Halluzinationsrisiko < 0.5
+    # - Qualitätsscore > 0.4
+    validation_passed = (
+        not med_result.has_critical_issues and
+        not med_result.has_errors and
+        halluc_risk < 0.5 and
+        quality_score > 0.4
+    )
+
+    return {
+        "validation_passed": validation_passed,
+        "overall_score": round(overall_score, 2),
+        "scores": {
+            "medical_confidence": med_result.confidence_score,
+            "hallucination_risk": round(halluc_risk, 2),
+            "quality_score": round(quality_score, 2)
+        },
+        "issues": [i.to_dict() for i in all_issues],
+        "warnings": [w.to_dict() for w in all_warnings],
+        "recommendation": (
+            "ACCEPT" if validation_passed else
+            "REVIEW" if overall_score > 0.5 else
+            "REJECT"
+        )
+    }
 
 
 if __name__ == "__main__":

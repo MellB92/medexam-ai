@@ -27,6 +27,13 @@ from collections import defaultdict
 
 import numpy as np
 
+# Sentence Transformers für echte semantische Embeddings
+try:
+    from sentence_transformers import SentenceTransformer
+    SENTENCE_TRANSFORMERS_AVAILABLE = True
+except ImportError:
+    SENTENCE_TRANSFORMERS_AVAILABLE = False
+
 logger = logging.getLogger(__name__)
 
 
@@ -41,10 +48,12 @@ class RAGConfig:
     # Embedding-Parameter
     embedding_model: str = "text-embedding-3-small"
     embedding_dimension: int = 1536  # OpenAI text-embedding-3-small
+    local_embedding_model: str = "paraphrase-multilingual-mpnet-base-v2"  # Gut für Deutsch
+    local_embedding_dimension: int = 768  # Dimension für multilingual-mpnet
 
     # Retrieval-Parameter
     top_k: int = 5
-    similarity_threshold: float = 0.7
+    similarity_threshold: float = 0.3  # Niedriger für bessere Recall (war 0.7!)
 
     # Verarbeitungsparameter
     batch_size: int = 32
@@ -190,19 +199,60 @@ class MedicalRAGSystem:
         if use_openai:
             self._init_openai()
 
-        logger.info(f"MedicalRAGSystem initialisiert (OpenAI: {use_openai})")
+        # Lokales Embedding-Modell initialisieren
+        self.local_model = None
+        if not self.use_openai and SENTENCE_TRANSFORMERS_AVAILABLE:
+            self._init_local_model()
+
+        logger.info(f"MedicalRAGSystem initialisiert (OpenAI: {use_openai}, LocalModel: {self.local_model is not None})")
+
+    def _init_local_model(self) -> None:
+        """Initialisiert das lokale Sentence-Transformer Modell."""
+        try:
+            logger.info(f"Lade lokales Embedding-Modell: {self.config.local_embedding_model}...")
+            self.local_model = SentenceTransformer(self.config.local_embedding_model)
+            # Dimension vom Modell übernehmen
+            self.config.local_embedding_dimension = self.local_model.get_sentence_embedding_dimension()
+            logger.info(f"Lokales Modell geladen (Dimension: {self.config.local_embedding_dimension})")
+        except Exception as e:
+            logger.error(f"Fehler beim Laden des lokalen Modells: {e}")
+            self.local_model = None
 
     def _init_openai(self) -> None:
-        """Initialisiert OpenAI-Client."""
+        """Initialisiert OpenAI-Client (mit Portkey/OpenRouter Unterstützung)."""
         try:
             from openai import OpenAI
-            api_key = os.getenv("OPENAI_API_KEY")
-            if not api_key:
-                logger.warning("OPENAI_API_KEY nicht gefunden. Fallback auf lokale Embeddings.")
+
+            # Priorität: Portkey > OpenRouter > Direct OpenAI
+            portkey_key = os.getenv("PORTKEY_API_KEY")
+            openrouter_key = os.getenv("OPENROUTER_API_KEY")
+            openai_key = os.getenv("OPENAI_API_KEY")
+
+            if portkey_key:
+                # Nutze Portkey Gateway für OpenAI Embeddings
+                self.openai_client = OpenAI(
+                    api_key=portkey_key,
+                    base_url="https://api.portkey.ai/v1"
+                )
+                # Setze embedding model auf Portkey-kompatiblen Pfad
+                self.config.embedding_model = "@kp2026/openai/text-embedding-3-small"
+                logger.info("Portkey-Client für Embeddings initialisiert")
+            elif openrouter_key:
+                # Nutze OpenRouter
+                self.openai_client = OpenAI(
+                    api_key=openrouter_key,
+                    base_url="https://openrouter.ai/api/v1"
+                )
+                self.config.embedding_model = "openai/text-embedding-3-small"
+                logger.info("OpenRouter-Client für Embeddings initialisiert")
+            elif openai_key:
+                # Direct OpenAI
+                self.openai_client = OpenAI(api_key=openai_key)
+                logger.info("OpenAI-Client initialisiert")
+            else:
+                logger.warning("Kein API-Key gefunden (PORTKEY/OPENROUTER/OPENAI). Fallback auf lokal.")
                 self.use_openai = False
                 return
-            self.openai_client = OpenAI(api_key=api_key)
-            logger.info("OpenAI-Client initialisiert")
         except ImportError:
             logger.warning("OpenAI-Paket nicht installiert. Fallback auf lokale Embeddings.")
             self.use_openai = False
@@ -251,24 +301,37 @@ class MedicalRAGSystem:
 
     def _generate_local_embedding(self, text: str) -> List[float]:
         """
-        Generiert lokales Embedding (deterministisch für Konsistenz).
-
-        Hinweis: Für Produktion sollte ein echtes Embedding-Modell
-        wie sentence-transformers verwendet werden.
+        Generiert echtes semantisches Embedding mit sentence-transformers.
         """
-        # Deterministisches Embedding basierend auf Text-Hash
-        np.random.seed(hash(text) % (2**32))
-        embedding = np.random.randn(self.config.embedding_dimension).tolist()
+        if self.local_model is not None:
+            # Echtes semantisches Embedding mit sentence-transformers
+            try:
+                embedding = self.local_model.encode(
+                    text[:8000],  # Max Input-Länge begrenzen
+                    normalize_embeddings=True,  # L2-normalisiert
+                    show_progress_bar=False
+                )
+                embedding_list = embedding.tolist()
 
+                # Cache speichern
+                self.embedding_cache.set(text, embedding_list)
+
+                return embedding_list
+            except Exception as e:
+                logger.warning(f"Embedding-Fehler, Fallback: {e}")
+
+        # Fallback: TF-IDF-ähnliches Embedding (besser als zufällig)
+        logger.warning("Kein Sentence-Transformer verfügbar - verwende Fallback")
+        words = text.lower().split()
+        word_hashes = [hash(w) % 10000 for w in words[:100]]
+        embedding = np.zeros(768)  # Standard-Dimension
+        for i, h in enumerate(word_hashes):
+            embedding[h % 768] += 1.0 / (i + 1)
         # Normalisieren
         norm = np.linalg.norm(embedding)
         if norm > 0:
-            embedding = (np.array(embedding) / norm).tolist()
-
-        # Cache speichern
-        self.embedding_cache.set(text, embedding)
-
-        return embedding
+            embedding = embedding / norm
+        return embedding.tolist()
 
     def add_to_knowledge_base(
         self,

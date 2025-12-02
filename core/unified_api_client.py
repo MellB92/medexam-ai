@@ -460,14 +460,25 @@ class UnifiedAPIClient:
                 parsed = json.loads(response_text)
                 return parsed
             except json.JSONDecodeError:
-                # Try to find JSON object in response
-                import re
-                json_match = re.search(r'\{[^{}]*\}', response_text, re.DOTALL)
-                if json_match:
-                    try:
-                        return json.loads(json_match.group())
-                    except json.JSONDecodeError:
-                        pass
+                # Try to find complete JSON object in response (handles nested braces)
+                start_idx = response_text.find('{')
+                if start_idx != -1:
+                    brace_count = 0
+                    end_idx = start_idx
+                    for i, char in enumerate(response_text[start_idx:], start_idx):
+                        if char == '{':
+                            brace_count += 1
+                        elif char == '}':
+                            brace_count -= 1
+                            if brace_count == 0:
+                                end_idx = i + 1
+                                break
+                    if end_idx > start_idx:
+                        json_str = response_text[start_idx:end_idx]
+                        try:
+                            return json.loads(json_str)
+                        except json.JSONDecodeError:
+                            pass
 
                 logger.warning(f"Could not parse JSON from response: {response_text[:200]}...")
                 return {}

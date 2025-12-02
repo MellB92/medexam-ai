@@ -11,6 +11,7 @@ anthropic                  # Anthropic API
 boto3                      # AWS Bedrock client
 python-dotenv              # Load .env secrets
 sentence-transformers      # Embeddings für RAG
+portkey-ai                 # Portkey SDK for Perplexity/web search & OpenAI-compatible chat
 biopython                  # PubMed/sequence utilities
 bioservices                # Bio APIs
 datacommons-pandas         # DataCommons access
