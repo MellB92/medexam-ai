@@ -475,7 +475,11 @@ class AnswerGenerator:
         """
         LLM-Aufruf mit Budget-Tracking, Provider-Routing und Scientific Context via unified_api_client.
         """
-        from core.unified_api_client import UnifiedAPIClient  # Lazy import
+        from core.unified_api_client import (
+            BudgetExceededError,
+            ProviderError,
+            UnifiedAPIClient,
+        )  # Lazy import
 
         therapy_bias = any(k in question.lower() for k in ["therapie", "behand", "dosis", "dosierung"])
         provider, model, est_cost = self._pick_model(question, therapy_bias)
@@ -488,10 +492,29 @@ class AnswerGenerator:
             question, context, rag_contexts, guideline_info, themes,
             scientific_enrichments, web_citations or []
         )
-        resp = client.complete(prompt=prompt, provider=provider, model=model)
+        try:
+            resp = client.complete(
+                prompt=prompt,
+                provider=provider,
+                model=model,
+                max_tokens=2048,
+                temperature=0.3,
+            )
+        except BudgetExceededError as e:
+            raise RuntimeError(f"Budget erreicht: {e}") from e
+        except ProviderError as e:
+            raise RuntimeError(f"Provider-Fehler: {e}") from e
 
-        self.cost_used += est_cost
-        self.cost_log.append((provider, est_cost, model))
+        if not resp:
+            raise RuntimeError("LLM-Antwort leer/ungültig")
+
+        meta = resp.get("__meta__", {})
+        actual_cost = float(meta.get("cost", est_cost or 0.0))
+        used_provider = meta.get("provider", provider)
+        used_model = meta.get("model", model)
+
+        self.cost_used += actual_cost
+        self.cost_log.append((used_provider, actual_cost, used_model))
 
         return (
             resp.get("definition_klassifikation") or self._generate_definition_placeholder(question, themes),

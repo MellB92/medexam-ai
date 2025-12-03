@@ -1,69 +1,80 @@
 import os
 import json
 import logging
-from datetime import datetime
 from dataclasses import dataclass
-from typing import Any, Dict, Optional
+from datetime import datetime
 from pathlib import Path
+from typing import Any, Dict, List, Optional, Tuple
 
-import tiktoken
 import requests
-from tenacity import retry, stop_after_attempt, wait_exponential
+import tiktoken
 from dotenv import load_dotenv
+from tenacity import retry, stop_after_attempt, wait_exponential
 
-# Import from existing project modules (tolerant, da pdf_utils ggf. nicht vorhanden)
-try:
-    from core.pdf_utils import extract_text_from_file  # type: ignore
+# Optional imports - tolerant falls Module nicht vorhanden
+try:  # pragma: no cover - optional helper
+    from core.token_budget_monitor import TokenBudgetMonitor
+except Exception:  # pragma: no cover - fallback
+    TokenBudgetMonitor = None
+
+try:  # pragma: no cover
+    from core.pdf_utils import extract_text_from_file
 except Exception:  # pragma: no cover
     extract_text_from_file = None
-try:
-    from core.exam_formatter import format_to_exam_standard  # type: ignore
+
+try:  # pragma: no cover
+    from core.exam_formatter import format_to_exam_standard
 except Exception:  # pragma: no cover
     format_to_exam_standard = None
 
-# Load environment variables from .env file
 load_dotenv()
 
 # --- Setup Logging ---
 logger = logging.getLogger(__name__)
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+)
+
 
 # --- Custom Exceptions ---
 class ProviderError(Exception):
     """Custom exception for provider-related errors."""
+
     def __init__(self, provider: str, message: str):
         self.provider = provider
         self.message = message
         super().__init__(f"[{provider}] {message}")
 
+
 class BudgetExceededError(Exception):
     """Raised when a session's cost exceeds its budget."""
-    pass
+
+    def __init__(self, message: str, provider: Optional[str] = None):
+        self.provider = provider
+        super().__init__(message)
+
 
 class RateLimitError(ProviderError):
     """Custom exception for rate limit errors."""
-    pass
-
-# --- Main Unified API Client ---
 
 
+# --- Data Models ---
+@dataclass
 class ProviderConfig:
-    """Lightweight container that allows flexible provider metadata."""
-
-    def __init__(self, **kwargs: Any) -> None:
-        # Store all provided attributes directly for dot-access compatibility.
-        self.__dict__.update(kwargs)
-
-        # Align legacy "service" field with newer "type" usage when missing.
-        if 'type' not in self.__dict__ and 'service' in self.__dict__:
-            self.type = self.service
-
-        # Ensure model attribute is always present to avoid attribute errors downstream.
-        if 'model' not in self.__dict__:
-            self.model = kwargs.get('model', '')
-
-    def __repr__(self) -> str:
-        return f"ProviderConfig({self.__dict__!r})"
+    key: str
+    name: str
+    type: str
+    adapter: str
+    api_key: Optional[str]
+    base_url: Optional[str]
+    model: Optional[str]
+    priority: int
+    budget: Optional[float] = None
+    cost_per_1k_input: float = 0.0
+    cost_per_1k_output: float = 0.0
+    max_tokens: int = 4096
+    timeout: int = 120
 
 
 @dataclass
@@ -77,145 +88,543 @@ class ProcessingResult:
     cost: float = 0.0
     timestamp: str = ""
     error: Optional[str] = None
+    raw_response: Optional[Any] = None
+
 
 class UnifiedAPIClient:
-    """A unified client to manage multiple AI providers with fallback, cost tracking, and resilience."""
+    """Manage multiple AI providers with fallback, budget-tracking and cost reporting."""
+
+    DEFAULT_PRICING: Dict[str, Tuple[float, float]] = {
+        "requesty": (3.0, 15.0),
+        "anthropic": (3.0, 15.0),
+        "aws_bedrock": (3.0, 15.0),
+        "comet_api": (2.4, 12.0),
+        "perplexity": (1.2, 1.2),
+        "openrouter": (0.5, 1.5),
+        "openai": (0.5, 1.5),
+        "portkey": (3.0, 15.0),
+        "medgemma": (0.1, 0.4),
+    }
+
+    DEFAULT_BUDGETS: Dict[str, float] = {
+        "requesty": 69.95,
+        "anthropic": 37.62,
+        "aws_bedrock": 24.0,
+        "comet_api": 8.65,
+        "perplexity": 15.0,
+        "openrouter": 5.78,
+        "openai": 9.99,
+        "medgemma": 217.75,
+    }
 
     def __init__(self, max_cost: Optional[float] = None, checkpoint_dir: str = "checkpoints"):
-        """
-        Initializes the UnifiedAPIClient.
-
-        Args:
-            max_cost: Optional maximum cost for the session. If exceeded, raises BudgetExceededError.
-            checkpoint_dir: Directory to store checkpoint files.
-        """
-        self.providers = self._configure_providers()
-        self.provider_order = sorted(self.providers, key=lambda p: self.providers[p].get('priority', 99))
+        self.max_cost = max_cost
+        self.pricing = dict(self.DEFAULT_PRICING)
         self.tokenizer = tiktoken.get_encoding("cl100k_base")
-        
+
+        # Budget & cost state
         self.session_cost = 0.0
         self.session_requests = 0
-        self.max_cost = max_cost
-        
+        self.provider_spend: Dict[str, float] = {}
+
+        # Optional global budget monitor
+        self.budget_monitor = (
+            TokenBudgetMonitor(budget_limit=max_cost, pricing=self.pricing)
+            if TokenBudgetMonitor
+            else None
+        )
+
+        self.providers = self._configure_providers()
+        self.provider_order = [
+            p.key for p in sorted(self.providers.values(), key=lambda c: c.priority)
+        ]
+        self.provider_spend = {p.key: 0.0 for p in self.providers.values()}
+
+        if self.budget_monitor:
+            for p in self.providers.values():
+                self.budget_monitor.register_provider(
+                    p.key,
+                    budget_limit=p.budget,
+                    rates=(p.cost_per_1k_input, p.cost_per_1k_output),
+                )
+
         self.checkpoint_dir = Path(checkpoint_dir)
         self.checkpoint_dir.mkdir(exist_ok=True)
 
-        logger.info(f"UnifiedAPIClient initialized with providers: {', '.join(self.provider_order)}")
+        logger.info(
+            "UnifiedAPIClient initialized with providers: %s",
+            ", ".join(self.provider_order) if self.provider_order else "none",
+        )
 
-    def _configure_providers(self) -> Dict[str, Any]:
-        """Loads provider configurations from environment variables."""
-        # Provider-Reihenfolge:
-        # 1) Requesty (Primary) - Sonnet 4.5 via Bedrock
-        # 2) Requesty Opus - Opus 4.5 via Anthropic (für High-Yield)
-        # 3) Portkey/OpenRouter (Fallback) - wenn Requesty ausfällt
-        providers = {
-            'requesty': {
-                'api_key': os.getenv('REQUESTY_API_KEY'),
-                'base_url': 'https://router.requesty.ai/v1',
-                'model': os.getenv('REQUESTY_MODEL', 'bedrock/claude-sonnet-4-5@us-east-1'),
-                'priority': 1,
-                'budget': float(os.getenv('REQUESTY_BUDGET', '69.95')),
-                'type': 'requesty',
-            },
-            'requesty_opus': {
-                'api_key': os.getenv('REQUESTY_API_KEY'),
-                'base_url': 'https://router.requesty.ai/v1',
-                'model': os.getenv('REQUESTY_OPUS_MODEL', 'anthropic/claude-opus-4-5'),
-                'priority': 2,
-                'budget': float(os.getenv('REQUESTY_BUDGET', '69.95')),
-                'type': 'requesty',
-            },
-            'portkey_openrouter': {
-                'api_key': os.getenv('PORTKEY_API_KEY'),
-                'base_url': 'https://api.portkey.ai/v1',
-                'model': '@kp2026/anthropic/claude-sonnet-4.5',
-                'priority': 3,
-                'budget': float(os.getenv('OPENROUTER_BUDGET', '5.78')),
-                'type': 'portkey',
-            },
-        }
+    # --- Provider Setup ---
+    def _get_budget(self, env_var: str, default: float) -> float:
+        try:
+            return float(os.getenv(env_var, default))
+        except ValueError:
+            return default
 
-        # Filter out providers without API key
-        active = {}
-        for name, conf in providers.items():
-            if conf.get('api_key'):
-                active[name] = conf
-        return active
+    def _pricing_for_model(
+        self, model: str, default: Tuple[float, float]
+    ) -> Tuple[float, float]:
+        if "opus" in model.lower():
+            return (15.0, 75.0)
+        return default
 
-    def _is_provider_configured(self, name: str, config: Dict[str, Any]) -> bool:
-        """Checks if a provider has the minimum required configuration."""
-        if name == 'google_cloud':
-            return config.get('credentials_path') and config.get('project')
-        if name in ('portkey', 'requesty', 'requesty_opus'):
-            return bool(config.get('api_key'))
+    def _configure_providers(self) -> Dict[str, ProviderConfig]:
+        providers: Dict[str, ProviderConfig] = {}
+
+        def add(cfg: ProviderConfig):
+            if not cfg.api_key and cfg.adapter not in {"bedrock", "medgemma"}:
+                return
+            providers[cfg.key] = cfg
+
+        budgets = self.DEFAULT_BUDGETS
+
+        add(
+            ProviderConfig(
+                key="requesty",
+                name="Requesty",
+                type="requesty",
+                adapter="openai",
+                api_key=os.getenv("REQUESTY_API_KEY"),
+                base_url=os.getenv("REQUESTY_BASE_URL", "https://router.requesty.ai/v1"),
+                model=os.getenv("REQUESTY_MODEL", "bedrock/claude-sonnet-4-5@us-east-1"),
+                priority=1,
+                budget=self._get_budget("REQUESTY_BUDGET", budgets["requesty"]),
+                cost_per_1k_input=3.0,
+                cost_per_1k_output=15.0,
+                max_tokens=32000,
+            )
+        )
+
+        anthropic_model = os.getenv("ANTHROPIC_MODEL", "claude-3-5-sonnet-20241022")
+        anth_rates = self._pricing_for_model(anthropic_model, (3.0, 15.0))
+        add(
+            ProviderConfig(
+                key="anthropic",
+                name="Anthropic Direct",
+                type="anthropic",
+                adapter="anthropic",
+                api_key=os.getenv("ANTHROPIC_API_KEY"),
+                base_url="https://api.anthropic.com/v1",
+                model=anthropic_model,
+                priority=2,
+                budget=self._get_budget("ANTHROPIC_BUDGET", budgets["anthropic"]),
+                cost_per_1k_input=anth_rates[0],
+                cost_per_1k_output=anth_rates[1],
+                max_tokens=32000,
+            )
+        )
+
+        bedrock_env = (
+            os.getenv("AWS_REGION")
+            or os.getenv("AWS_PROFILE")
+            or os.getenv("BEDROCK_ASSUME_ROLE")
+        )
+        if bedrock_env:
+            add(
+                ProviderConfig(
+                    key="aws_bedrock",
+                    name="AWS Bedrock",
+                    type="aws_bedrock",
+                    adapter="bedrock",
+                    api_key=None,  # credentials via boto3/env
+                    base_url=None,
+                    model=os.getenv(
+                        "AWS_BEDROCK_MODEL",
+                        "anthropic.claude-3-5-sonnet-20241022-v2:0",
+                    ),
+                    priority=3,
+                    budget=self._get_budget("AWS_BEDROCK_BUDGET", budgets["aws_bedrock"]),
+                    cost_per_1k_input=3.0,
+                    cost_per_1k_output=15.0,
+                    max_tokens=32000,
+                )
+            )
+
+        add(
+            ProviderConfig(
+                key="portkey",
+                name="Portkey Gateway",
+                type="portkey",
+                adapter="openai",
+                api_key=os.getenv("PORTKEY_API_KEY"),
+                base_url=os.getenv("PORTKEY_BASE_URL", "https://api.portkey.ai/v1"),
+                model=os.getenv("PORTKEY_MODEL", "@kp2026/anthropic/claude-sonnet-4.5"),
+                priority=3,
+                budget=self._get_budget("PORTKEY_BUDGET", budgets.get("aws_bedrock", 0.0)),
+                cost_per_1k_input=3.0,
+                cost_per_1k_output=15.0,
+                max_tokens=32000,
+            )
+        )
+
+        add(
+            ProviderConfig(
+                key="comet_api",
+                name="Comet API",
+                type="comet_api",
+                adapter="openai",
+                api_key=os.getenv("COMET_API_KEY"),
+                base_url=os.getenv("COMET_API_BASE", "https://api.cometapi.com/v1"),
+                model=os.getenv("COMET_API_MODEL", "claude-sonnet-4-5"),
+                priority=4,
+                budget=self._get_budget("COMET_API_BUDGET", budgets["comet_api"]),
+                cost_per_1k_input=2.4,
+                cost_per_1k_output=12.0,
+                max_tokens=32000,
+            )
+        )
+
+        pplx_key = (
+            os.getenv("PERPLEXITY_API_KEY")
+            or os.getenv("PERPLEXITY_API_KEY_1")
+            or os.getenv("PERPLEXITY_API_KEY_2")
+        )
+        add(
+            ProviderConfig(
+                key="perplexity",
+                name="Perplexity",
+                type="perplexity",
+                adapter="openai",
+                api_key=pplx_key,
+                base_url=os.getenv("PERPLEXITY_API_BASE", "https://api.perplexity.ai"),
+                model=os.getenv(
+                    "PERPLEXITY_MODEL", "llama-3.1-sonar-large-128k-online"
+                ),
+                priority=5,
+                budget=self._get_budget("PERPLEXITY_BUDGET", budgets["perplexity"]),
+                cost_per_1k_input=1.2,
+                cost_per_1k_output=1.2,
+                max_tokens=8000,
+            )
+        )
+
+        add(
+            ProviderConfig(
+                key="openrouter",
+                name="OpenRouter",
+                type="openrouter",
+                adapter="openai",
+                api_key=os.getenv("OPENROUTER_API_KEY"),
+                base_url="https://openrouter.ai/api/v1",
+                model=os.getenv("OPENROUTER_MODEL", "openai/o3-mini-high"),
+                priority=6,
+                budget=self._get_budget("OPENROUTER_BUDGET", budgets["openrouter"]),
+                cost_per_1k_input=0.5,
+                cost_per_1k_output=1.5,
+                max_tokens=16000,
+            )
+        )
+
+        add(
+            ProviderConfig(
+                key="openai",
+                name="OpenAI",
+                type="openai",
+                adapter="openai",
+                api_key=os.getenv("OPENAI_API_KEY"),
+                base_url="https://api.openai.com/v1",
+                model=os.getenv("OPENAI_MODEL", "gpt-4o"),
+                priority=7,
+                budget=self._get_budget("OPENAI_BUDGET", budgets["openai"]),
+                cost_per_1k_input=0.5,
+                cost_per_1k_output=1.5,
+                max_tokens=16000,
+            )
+        )
+
+        gcp_creds = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
+        if gcp_creds and Path(gcp_creds).exists():
+            add(
+                ProviderConfig(
+                    key="medgemma",
+                    name="MedGemma (Vertex AI)",
+                    type="medgemma",
+                    adapter="medgemma",
+                    api_key=None,
+                    base_url=None,
+                    model=os.getenv("MEDGEMMA_MODEL", "med-gemma-7b"),
+                    priority=8,
+                    budget=self._get_budget("MEDGEMMA_BUDGET", budgets["medgemma"]),
+                    cost_per_1k_input=0.1,
+                    cost_per_1k_output=0.4,
+                    max_tokens=4096,
+                )
+            )
+
+        return providers
+
+    # --- Helpers ---
+    def _get_token_count(self, text: str) -> int:
+        try:
+            return len(self.tokenizer.encode(text))
+        except Exception:
+            return max(1, len(text) // 4)
+
+    def _build_messages(self, prompt: str, system_prompt: Optional[str]) -> List[Dict[str, str]]:
+        messages: List[Dict[str, str]] = []
+        if system_prompt:
+            messages.append({"role": "system", "content": system_prompt})
+        messages.append({"role": "user", "content": prompt})
+        return messages
+
+    def _calculate_cost(self, cfg: ProviderConfig, input_tokens: int, output_tokens: int) -> float:
+        in_rate = cfg.cost_per_1k_input or self.pricing.get(cfg.key, (0.0, 0.0))[0]
+        out_rate = cfg.cost_per_1k_output or self.pricing.get(cfg.key, (0.0, 0.0))[1]
+        return (input_tokens / 1000.0) * in_rate + (output_tokens / 1000.0) * out_rate
+
+    def _budget_remaining(self, cfg: ProviderConfig) -> Optional[float]:
+        if cfg.budget is None:
+            return None
+        spent = self.provider_spend.get(cfg.key, 0.0)
+        return max(0.0, cfg.budget - spent)
+
+    def _is_budget_exhausted(self, cfg: ProviderConfig) -> bool:
+        if cfg.budget is not None and self.provider_spend.get(cfg.key, 0.0) >= cfg.budget:
+            return True
+        if self.budget_monitor and self.budget_monitor.is_exhausted(cfg.key):
+            return True
         return False
 
-    def _get_token_count(self, text: str) -> int:
-        """Calculates the number of tokens in a string."""
-        return len(self.tokenizer.encode(text))
-
-    def _update_cost(self, input_tokens: int, output_tokens: int, provider: str):
-        """Updates the session cost based on provider-specific pricing."""
-        # Placeholder for actual cost calculation logic
-        # In a real scenario, this would fetch pricing from a config or API
-        cost_per_input_token = 0.000003 # Example cost for Claude 3.5 Sonnet on OpenRouter
-        cost_per_output_token = 0.000015
-        
-        request_cost = (input_tokens * cost_per_input_token) + (output_tokens * cost_per_output_token)
-        self.session_cost += request_cost
+    def _record_cost(self, cfg: ProviderConfig, input_tokens: int, output_tokens: int) -> float:
+        cost = self._calculate_cost(cfg, input_tokens, output_tokens)
+        self.session_cost += cost
         self.session_requests += 1
-        
-        logger.info(f"Request cost ({provider}): ${request_cost:.6f}. Session total: ${self.session_cost:.4f}")
+        self.provider_spend[cfg.key] = self.provider_spend.get(cfg.key, 0.0) + cost
+
+        if self.budget_monitor:
+            self.budget_monitor.track_usage(
+                cfg.key, input_tokens, output_tokens, cost_override=cost
+            )
 
         if self.max_cost is not None and self.session_cost > self.max_cost:
-            raise BudgetExceededError(f"Session budget of ${self.max_cost} exceeded. Current cost: ${self.session_cost:.4f}")
+            raise BudgetExceededError(
+                f"Session budget ${self.max_cost:.2f} exceeded (now ${self.session_cost:.2f})",
+                provider="session",
+            )
+        return cost
 
-    @retry(wait=wait_exponential(multiplier=1, min=4, max=10), stop=stop_after_attempt(3), reraise=True)
-    def _make_request(self, provider: str, payload: Dict[str, Any]) -> Dict[str, Any]:
-        """Makes a request to a given provider's API, with retry logic."""
-        config = self.providers[provider]
+    def _build_order(self, preferred_provider: Optional[str]) -> List[str]:
+        if preferred_provider and preferred_provider in self.providers:
+            remaining = [p for p in self.provider_order if p != preferred_provider]
+            return [preferred_provider] + remaining
+        return list(self.provider_order)
+
+    # --- Provider Call Implementations ---
+    @retry(wait=wait_exponential(multiplier=1, min=2, max=10), stop=stop_after_attempt(3), reraise=True)
+    def _post_with_retry(
+        self, url: str, headers: Dict[str, str], payload: Dict[str, Any], timeout: int
+    ) -> requests.Response:
+        resp = requests.post(url, headers=headers, json=payload, timeout=timeout)
+        if resp.status_code == 429:
+            raise RateLimitError("rate_limit", f"429: {resp.text}")
+        resp.raise_for_status()
+        return resp
+
+    def _call_openai_style(
+        self,
+        cfg: ProviderConfig,
+        prompt: str,
+        system_prompt: Optional[str],
+        max_tokens: int,
+        temperature: float,
+        override_model: Optional[str],
+    ) -> ProcessingResult:
+        messages = self._build_messages(prompt, system_prompt)
+        payload = {
+            "model": override_model or cfg.model,
+            "messages": messages,
+            "max_tokens": min(max_tokens, cfg.max_tokens),
+            "temperature": temperature,
+        }
         headers = {
-            "Authorization": f"Bearer {config['api_key']}",
-            "Content-Type": "application/json"
+            "Authorization": f"Bearer {cfg.api_key}",
+            "Content-Type": "application/json",
         }
-        
-        # This is a generic OpenAI-compatible payload structure.
-        # Real implementation would require adapters for each provider's specific API format.
-        api_payload = {
-            "model": config['model'],
-            "messages": payload['messages'],
-            "max_tokens": payload.get('max_tokens', 4096),
-            "temperature": payload.get('temperature', 0.5),
-        }
+        if cfg.key == "openrouter":
+            headers["HTTP-Referer"] = "https://medexamen.ai"
+            headers["X-Title"] = "MedExamAI"
 
         try:
-            response = requests.post(config['base_url'] + '/chat/completions', headers=headers, json=api_payload, timeout=120)
-            response.raise_for_status() # Raises HTTPError for bad responses (4xx or 5xx)
-            return response.json()
-        except requests.exceptions.HTTPError as e:
-            if e.response.status_code == 429:
-                raise RateLimitError(provider, f"Rate limit exceeded: {e.response.text}")
-            else:
-                raise ProviderError(provider, f"HTTP error: {e.response.status_code} - {e.response.text}")
-        except requests.exceptions.RequestException as e:
-            raise ProviderError(provider, f"Request failed: {e}")
+            response = self._post_with_retry(
+                cfg.base_url.rstrip("/") + "/chat/completions",
+                headers=headers,
+                payload=payload,
+                timeout=cfg.timeout,
+            )
+            data = response.json()
+            content = (
+                data.get("choices", [{}])[0]
+                .get("message", {})
+                .get("content", "")
+            )
+            usage = data.get("usage", {}) or {}
+            input_tokens = usage.get("prompt_tokens") or self._get_token_count(
+                prompt + (system_prompt or "")
+            )
+            output_tokens = usage.get("completion_tokens") or self._get_token_count(
+                content or ""
+            )
+            cost = self._record_cost(cfg, input_tokens, output_tokens)
 
-    def _process_with_medgemma(self, provider: ProviderConfig, prompt: str, system_prompt: Optional[str], **kwargs) -> ProcessingResult:
-        """Verarbeitet eine Anfrage mit MedGemma über Vertex AI."""
-        logger.info(f"→ Verarbeite mit {provider.name} (Modell: {provider.model})")
+            return ProcessingResult(
+                success=True,
+                provider=cfg.key,
+                model=override_model or cfg.model or "",
+                response_text=content or "",
+                input_tokens=input_tokens,
+                output_tokens=output_tokens,
+                cost=cost,
+                timestamp=datetime.now().isoformat(),
+                raw_response=data,
+            )
+        except BudgetExceededError:
+            raise
+        except Exception as e:
+            logger.warning("Provider %s failed: %s", cfg.key, e)
+            return ProcessingResult(
+                success=False,
+                provider=cfg.key,
+                model=override_model or cfg.model or "",
+                response_text="",
+                error=str(e),
+            )
+
+    def _call_anthropic(
+        self,
+        cfg: ProviderConfig,
+        prompt: str,
+        system_prompt: Optional[str],
+        max_tokens: int,
+        temperature: float,
+    ) -> ProcessingResult:
+        try:
+            import anthropic
+
+            client = anthropic.Anthropic(api_key=cfg.api_key)
+            resp = client.messages.create(
+                model=cfg.model,
+                max_tokens=min(max_tokens, cfg.max_tokens),
+                temperature=temperature,
+                messages=[{"role": "user", "content": prompt}],
+                system=system_prompt,
+            )
+            content = "".join(part.text for part in resp.content if hasattr(part, "text"))
+            usage = getattr(resp, "usage", None) or {}
+            input_tokens = getattr(usage, "input_tokens", None) or self._get_token_count(
+                prompt + (system_prompt or "")
+            )
+            output_tokens = getattr(usage, "output_tokens", None) or self._get_token_count(
+                content
+            )
+            cost = self._record_cost(cfg, input_tokens, output_tokens)
+            return ProcessingResult(
+                success=True,
+                provider=cfg.key,
+                model=cfg.model or "",
+                response_text=content,
+                input_tokens=input_tokens,
+                output_tokens=output_tokens,
+                cost=cost,
+                timestamp=datetime.now().isoformat(),
+                raw_response=resp,
+            )
+        except BudgetExceededError:
+            raise
+        except Exception as e:
+            logger.warning("Anthropic call failed: %s", e)
+            return ProcessingResult(
+                success=False,
+                provider=cfg.key,
+                model=cfg.model or "",
+                response_text="",
+                error=str(e),
+            )
+
+    def _call_bedrock(
+        self,
+        cfg: ProviderConfig,
+        prompt: str,
+        system_prompt: Optional[str],
+        max_tokens: int,
+        temperature: float,
+    ) -> ProcessingResult:
+        try:
+            import boto3
+
+            client = boto3.client("bedrock-runtime")
+            messages = [{"role": "user", "content": [{"text": prompt}]}]
+            system = [{"text": system_prompt}] if system_prompt else None
+            resp = client.converse(
+                modelId=cfg.model,
+                messages=messages,
+                system=system,
+                inferenceConfig={
+                    "maxTokens": min(max_tokens, cfg.max_tokens),
+                    "temperature": temperature,
+                },
+            )
+            content_parts = resp.get("output", {}).get("message", {}).get("content", [])
+            content = "".join(part.get("text", "") for part in content_parts)
+            usage = resp.get("usage", {}) or {}
+            input_tokens = (
+                usage.get("inputTokens")
+                or usage.get("input_tokens")
+                or self._get_token_count(prompt + (system_prompt or ""))
+            )
+            output_tokens = (
+                usage.get("outputTokens")
+                or usage.get("output_tokens")
+                or self._get_token_count(content)
+            )
+            cost = self._record_cost(cfg, input_tokens, output_tokens)
+            return ProcessingResult(
+                success=True,
+                provider=cfg.key,
+                model=cfg.model or "",
+                response_text=content,
+                input_tokens=input_tokens,
+                output_tokens=output_tokens,
+                cost=cost,
+                timestamp=datetime.now().isoformat(),
+                raw_response=resp,
+            )
+        except BudgetExceededError:
+            raise
+        except Exception as e:
+            logger.warning("Bedrock call failed: %s", e)
+            return ProcessingResult(
+                success=False,
+                provider=cfg.key,
+                model=cfg.model or "",
+                response_text="",
+                error=str(e),
+            )
+
+    def _process_with_medgemma(
+        self,
+        cfg: ProviderConfig,
+        prompt: str,
+        system_prompt: Optional[str],
+        max_tokens: int,
+        temperature: float,
+    ) -> ProcessingResult:
+        logger.info("→ Verarbeite mit %s (Modell: %s)", cfg.name, cfg.model)
         try:
             from vertexai.generative_models import GenerativeModel, Part
-            model = GenerativeModel(provider.model)
 
-            # Prompt zusammenbauen (Systemprompt optional)
+            model = GenerativeModel(cfg.model)
             parts = []
             if system_prompt:
                 parts.append(Part.from_text(f"Systemanweisung: {system_prompt}"))
             parts.append(Part.from_text(prompt))
 
-            response = model.generate_content(parts)
+            response = model.generate_content(
+                parts,
+                generation_config={"max_output_tokens": max_tokens, "temperature": temperature},
+            )
             content = getattr(response, "text", "") or str(response)
-
             try:
                 input_tokens = model.count_tokens(parts).total_tokens
             except Exception:
@@ -224,363 +633,279 @@ class UnifiedAPIClient:
                 output_tokens = model.count_tokens(content).total_tokens
             except Exception:
                 output_tokens = 0
-
-            cost = self._calculate_vertex_cost(provider.model, input_tokens, output_tokens)
-
+            cost = self._calculate_cost(cfg, input_tokens, output_tokens)
+            if self.budget_monitor:
+                self.budget_monitor.track_usage(
+                    cfg.key, input_tokens, output_tokens, cost_override=cost
+                )
+            self.session_cost += cost
             return ProcessingResult(
                 success=True,
-                provider=provider.type,
-                model=provider.model,
+                provider=cfg.key,
+                model=cfg.model or "",
                 response_text=content,
                 input_tokens=input_tokens,
                 output_tokens=output_tokens,
                 cost=cost,
                 timestamp=datetime.now().isoformat(),
+                raw_response=response,
             )
         except Exception as e:
-            logger.error(f"❌ MedGemma FEHLER: {e}")
+            logger.error("❌ MedGemma FEHLER: %s", e)
             return ProcessingResult(
                 success=False,
-                provider=provider.type,
-                model=provider.model,
+                provider=cfg.key,
+                model=cfg.model or "",
                 response_text="",
                 error=str(e),
-                timestamp=datetime.now().isoformat(),
             )
-
-    def _process_with_portkey(self, provider: ProviderConfig, prompt: str, system_prompt: Optional[str], **kwargs) -> ProcessingResult:
-        """Verarbeitet eine Anfrage über Portkey SDK (für @kp2026/... Modelle)."""
-        logger.info(f"→ Verarbeite mit Portkey SDK ({provider.model})")
-        try:
-            from portkey_ai import Portkey
-            client = Portkey(api_key=provider.api_key, base_url="https://api.portkey.ai/v1")
-
-            messages = []
-            if system_prompt:
-                messages.append({"role": "system", "content": system_prompt})
-            messages.append({"role": "user", "content": prompt})
-
-            response = client.chat.completions.create(
-                model=provider.model,
-                messages=messages,
-                max_tokens=kwargs.get("max_tokens", 1024),
-                temperature=kwargs.get("temperature", 0.3),
-            )
-
-            content = response.choices[0].message.content
-            input_tokens = response.usage.prompt_tokens if response.usage else 0
-            output_tokens = response.usage.completion_tokens if response.usage else 0
-            self._update_cost(input_tokens, output_tokens, "portkey")
-
-            return ProcessingResult(
-                success=True,
-                provider="portkey",
-                model=provider.model,
-                response_text=content,
-                input_tokens=input_tokens,
-                output_tokens=output_tokens,
-                cost=self.session_cost,
-                timestamp=datetime.now().isoformat(),
-            )
-        except Exception as e:
-            logger.error(f"❌ Portkey FEHLER: {e}")
-            return ProcessingResult(
-                success=False,
-                provider="portkey",
-                model=provider.model,
-                response_text="",
-                error=str(e),
-                timestamp=datetime.now().isoformat(),
-            )
-
-    def _process_with_requesty(self, provider: ProviderConfig, prompt: str, system_prompt: Optional[str], **kwargs) -> ProcessingResult:
-        """Verarbeitet eine Anfrage über Requesty (OpenAI-kompatibel)."""
-        logger.info(f"→ Verarbeite mit Requesty ({provider.model})")
-        headers = {
-            "Authorization": f"Bearer {provider.api_key}",
-            "Content-Type": "application/json",
-        }
-        messages = []
-        if system_prompt:
-            messages.append({"role": "system", "content": system_prompt})
-        messages.append({"role": "user", "content": prompt})
-
-        payload = {
-            "model": provider.model,
-            "messages": messages,
-            "max_tokens": kwargs.get("max_tokens", 1024),
-            "temperature": kwargs.get("temperature", 0.3),
-        }
-        try:
-            resp = requests.post(
-                provider.base_url.rstrip("/") + "/chat/completions",
-                headers=headers,
-                json=payload,
-                timeout=120,
-            )
-            resp.raise_for_status()
-            data = resp.json()
-            content = data.get("choices", [{}])[0].get("message", {}).get("content", "")
-            input_tokens = self._get_token_count(prompt)
-            output_tokens = self._get_token_count(content)
-            self._update_cost(input_tokens, output_tokens, "requesty")
-            return ProcessingResult(
-                success=True,
-                provider="requesty",
-                model=provider.model,
-                response_text=content,
-                input_tokens=input_tokens,
-                output_tokens=output_tokens,
-                cost=self.session_cost,
-                timestamp=datetime.now().isoformat(),
-            )
-        except Exception as e:
-            logger.error(f"❌ Requesty FEHLER: {e}")
-            return ProcessingResult(
-                success=False,
-                provider="requesty",
-                model=provider.model,
-                response_text="",
-                error=str(e),
-                timestamp=datetime.now().isoformat(),
-            )
-
-    def _calculate_vertex_cost(self, model_name: str, in_tokens: int, out_tokens: int) -> float:
-        PRICING_PER_1K = {
-            "med-gemma-2b": (0.00010, 0.00040),
-            "med-gemma-7b": (0.00020, 0.00080),
-        }
-        in_rate, out_rate = PRICING_PER_1K.get(model_name, (0.0, 0.0))
-        return round((in_tokens/1000.0)*in_rate + (out_tokens/1000.0)*out_rate, 6)
 
     def _call_provider(
         self,
-        provider: ProviderConfig,
+        cfg: ProviderConfig,
         prompt: str,
-        system_prompt: Optional[str] = None,
-        **kwargs: Any,
+        system_prompt: Optional[str],
+        max_tokens: int,
+        temperature: float,
+        override_model: Optional[str],
     ) -> ProcessingResult:
-        """Ruft den passenden Provider auf basierend auf Typ."""
-        ptype = getattr(provider, "type", "unknown")
-
-        if ptype == "requesty":
-            return self._process_with_requesty(provider, prompt, system_prompt, **kwargs)
-        if ptype == "portkey":
-            return self._process_with_portkey(provider, prompt, system_prompt, **kwargs)
+        if cfg.adapter == "openai":
+            return self._call_openai_style(
+                cfg, prompt, system_prompt, max_tokens, temperature, override_model
+            )
+        if cfg.adapter == "anthropic":
+            return self._call_anthropic(cfg, prompt, system_prompt, max_tokens, temperature)
+        if cfg.adapter == "bedrock":
+            return self._call_bedrock(cfg, prompt, system_prompt, max_tokens, temperature)
+        if cfg.adapter == "medgemma":
+            return self._process_with_medgemma(cfg, prompt, system_prompt, max_tokens, temperature)
 
         return ProcessingResult(
             success=False,
-            provider=ptype,
-            model=getattr(provider, "model", ""),
+            provider=cfg.key,
+            model=cfg.model or "",
             response_text="",
-            error=f"Provider type '{ptype}' not supported.",
-            timestamp=datetime.now().isoformat(),
+            error=f"Provider type '{cfg.adapter}' not supported.",
         )
 
-    def chat_completion(self, prompt: str, max_tokens: int = 2048, temperature: float = 0.5, system_prompt: Optional[str] = None) -> Dict[str, Any]:
+    # --- Public API ---
+    def chat_completion(
+        self,
+        prompt: str,
+        max_tokens: int = 2048,
+        temperature: float = 0.5,
+        system_prompt: Optional[str] = None,
+        provider: Optional[str] = None,
+        model: Optional[str] = None,
+    ) -> Dict[str, Any]:
         """Performs a chat completion, trying providers in order of priority."""
-        last_error = None
-        for provider_name in self.provider_order:
-            if provider_name not in self.providers:
+        last_error: Any = None
+
+        for provider_key in self._build_order(provider):
+            cfg = self.providers.get(provider_key)
+            if not cfg:
                 continue
 
+            if self._is_budget_exhausted(cfg):
+                logger.info("Skipping %s: budget exhausted", cfg.key)
+                last_error = f"{cfg.key} budget exhausted"
+                continue
+
+            logger.info("Attempting request with provider: %s", cfg.key)
             try:
-                logger.info(f"Attempting request with provider: {provider_name}")
-                config = self.providers[provider_name]
-
-                # Erstelle ProviderConfig für _call_provider
-                provider_config = ProviderConfig(
-                    name=provider_name,
-                    api_key=config.get('api_key'),
-                    base_url=config.get('base_url'),
-                    model=config.get('model'),
-                    type=config.get('type'),
-                )
-
-                # Nutze das unified routing über _call_provider
                 result = self._call_provider(
-                    provider_config,
+                    cfg,
                     prompt=prompt,
                     system_prompt=system_prompt,
                     max_tokens=max_tokens,
                     temperature=temperature,
+                    override_model=model,
                 )
-
-                if result.success:
-                    return {
-                        "provider": provider_name,
-                        "response": result.response_text,
-                        "usage": {"input_tokens": result.input_tokens, "output_tokens": result.output_tokens}
-                    }
-                else:
-                    logger.warning(f"Provider {provider_name} returned error: {result.error}")
-                    last_error = result.error
-
+            except BudgetExceededError:
+                raise
             except Exception as e:
-                logger.warning(f"Provider {provider_name} failed: {e}")
                 last_error = e
+                continue
 
-        # If all providers fail, raise the last error
-        raise ProviderError("all", f"All providers failed. Last error: {last_error}")
+            if result.success:
+                usage = {
+                    "input_tokens": result.input_tokens,
+                    "output_tokens": result.output_tokens,
+                    "cost": result.cost,
+                }
+                return {
+                    "provider": cfg.key,
+                    "model": result.model,
+                    "response": result.response_text,
+                    "usage": usage,
+                    "meta": {
+                        "timestamp": result.timestamp,
+                        "budget_remaining": self._budget_remaining(cfg),
+                    },
+                }
 
-    def complete(self, prompt: str, provider: str = None, model: str = None,
-                 max_tokens: int = 2048, temperature: float = 0.3) -> Dict[str, Any]:
+            last_error = result.error
+
+        raise ProviderError(provider or "all", f"All providers failed. Last error: {last_error}")
+
+    def _extract_json_object(self, text: str) -> Optional[Dict[str, Any]]:
+        if "```json" in text:
+            json_start = text.find("```json") + 7
+            json_end = text.find("```", json_start)
+            text = text[json_start:json_end].strip()
+        elif "```" in text:
+            json_start = text.find("```") + 3
+            json_end = text.find("```", json_start)
+            text = text[json_start:json_end].strip()
+
+        try:
+            return json.loads(text)
+        except json.JSONDecodeError:
+            start_idx = text.find("{")
+            if start_idx != -1:
+                brace_count = 0
+                end_idx = start_idx
+                for i, char in enumerate(text[start_idx:], start_idx):
+                    if char == "{":
+                        brace_count += 1
+                    elif char == "}":
+                        brace_count -= 1
+                        if brace_count == 0:
+                            end_idx = i + 1
+                            break
+                try:
+                    return json.loads(text[start_idx:end_idx])
+                except Exception:
+                    return None
+        return None
+
+    def complete(
+        self,
+        prompt: str,
+        provider: Optional[str] = None,
+        model: Optional[str] = None,
+        max_tokens: int = 2048,
+        temperature: float = 0.3,
+        system_prompt: Optional[str] = None,
+    ) -> Dict[str, Any]:
         """
-        Convenience method for generate_answers.py compatibility.
-
-        Calls chat_completion and parses JSON response for 5-Punkte-Schema fields.
-
-        Args:
-            prompt: The prompt to send to the LLM
-            provider: Optional specific provider (ignored, uses priority order)
-            model: Optional specific model (ignored, uses provider config)
-            max_tokens: Maximum tokens for response
-            temperature: Temperature for response generation
-
-        Returns:
-            Dict with parsed JSON fields or empty dict on error
+        Convenience wrapper: performs a chat completion and tries to parse JSON payloads.
+        Returns parsed fields plus __meta__ for downstream budget tracking.
         """
         try:
-            result = self.chat_completion(prompt=prompt, max_tokens=max_tokens, temperature=temperature)
+            result = self.chat_completion(
+                prompt=prompt,
+                max_tokens=max_tokens,
+                temperature=temperature,
+                system_prompt=system_prompt,
+                provider=provider,
+                model=model,
+            )
             response_text = result.get("response", "")
-
-            # Try to parse JSON from response
-            # Handle markdown code blocks
-            if "```json" in response_text:
-                json_start = response_text.find("```json") + 7
-                json_end = response_text.find("```", json_start)
-                response_text = response_text[json_start:json_end].strip()
-            elif "```" in response_text:
-                json_start = response_text.find("```") + 3
-                json_end = response_text.find("```", json_start)
-                response_text = response_text[json_start:json_end].strip()
-
-            # Try to parse as JSON
-            try:
-                parsed = json.loads(response_text)
-                return parsed
-            except json.JSONDecodeError:
-                # Try to find complete JSON object in response (handles nested braces)
-                start_idx = response_text.find('{')
-                if start_idx != -1:
-                    brace_count = 0
-                    end_idx = start_idx
-                    for i, char in enumerate(response_text[start_idx:], start_idx):
-                        if char == '{':
-                            brace_count += 1
-                        elif char == '}':
-                            brace_count -= 1
-                            if brace_count == 0:
-                                end_idx = i + 1
-                                break
-                    if end_idx > start_idx:
-                        json_str = response_text[start_idx:end_idx]
-                        try:
-                            return json.loads(json_str)
-                        except json.JSONDecodeError:
-                            pass
-
-                logger.warning(f"Could not parse JSON from response: {response_text[:200]}...")
-                return {}
-
+            parsed = self._extract_json_object(response_text) or {}
+            parsed["__meta__"] = {
+                "provider": result.get("provider"),
+                "model": result.get("model"),
+                "usage": result.get("usage", {}),
+                "cost": result.get("usage", {}).get("cost", 0.0),
+                "budget_remaining": result.get("meta", {}).get("budget_remaining"),
+                "raw_response": response_text,
+            }
+            return parsed
+        except BudgetExceededError:
+            raise
+        except ProviderError:
+            raise
         except Exception as e:
-            logger.error(f"complete() failed: {e}")
+            logger.error("complete() failed: %s", e)
             return {}
 
-    # --- Integration with existing modules ---
-
+    # --- Integration Helpers ---
     def process_pdf_with_api(self, pdf_path: str, prompt: str) -> dict:
-        """Extracts text from a PDF and uses it in an API call."""
+        """Extract text from PDF and pass into a chat completion."""
+        if extract_text_from_file is None:
+            return {"error": "pdf_utils not available"}
         try:
             text, _ = extract_text_from_file(pdf_path)
             if not text:
                 return {"error": "Failed to extract text from PDF."}
-            
-            # Construct a more informative prompt
+
             combined_prompt = f"{prompt}\n\n--- Document Content ---\n{text[:8000]}..."
-            
             return self.chat_completion(prompt=combined_prompt)
         except Exception as e:
             logger.error(f"Error processing PDF {pdf_path}: {e}")
             return {"error": str(e)}
 
-    def format_exam_questions(self, questions: list) -> str:
-        """Uses exam_formatter.py to format a list of questions."""
-        # This function seems to be more about local formatting than API calls.
-        # Let's assume we want to format a list of raw text questions into the standard.
+    def format_exam_questions(self, questions: List[str]) -> str:
+        """Format a list of questions via exam_formatter (local helper)."""
+        if format_to_exam_standard is None:
+            return "\n\n".join(questions)
+
         formatted_texts = []
         for q_text in questions:
             try:
-                # Here we use the local formatter, not an API call.
                 formatted_q = format_to_exam_standard(q_text)
                 formatted_texts.append(formatted_q)
             except Exception as e:
                 logger.error(f"Failed to format question: {e}")
-                formatted_texts.append(f"---\nERROR FORMATTING QUESTION:\n{q_text[:200]}...\n---")
+                formatted_texts.append(
+                    f"---\nERROR FORMATTING QUESTION:\n{q_text[:200]}...\n---"
+                )
         return "\n\n".join(formatted_texts)
 
-    # --- Checkpoint System for Batch Processing ---
-
+    # --- Checkpoint System for batch jobs (legacy compatibility) ---
     def _save_checkpoint(self, checkpoint_file: str, state: Dict[str, Any]):
-        """Saves the current batch processing state to a checkpoint file."""
         path = self.checkpoint_dir / checkpoint_file
-        with open(path, 'w', encoding='utf-8') as f:
+        with open(path, "w", encoding="utf-8") as f:
             json.dump(state, f, indent=2)
-        logger.info(f"Checkpoint saved to {path}")
+        logger.info("Checkpoint saved to %s", path)
 
     def _load_checkpoint(self, checkpoint_file: str) -> Optional[Dict[str, Any]]:
-        """Loads a batch processing state from a checkpoint file."""
         path = self.checkpoint_dir / checkpoint_file
         if path.exists():
-            with open(path, 'r', encoding='utf-8') as f:
+            with open(path, "r", encoding="utf-8") as f:
                 state = json.load(f)
-                logger.info(f"Checkpoint loaded from {path}")
+                logger.info("Checkpoint loaded from %s", path)
                 return state
         return None
 
-    def batch_process_pdfs(self, pdf_dir: str, prompt_template: str, checkpoint_file: str = "batch_checkpoint.json") -> list:
-        """Processes a directory of PDFs in a batch, with checkpointing."""
+    def batch_process_pdfs(
+        self, pdf_dir: str, prompt_template: str, checkpoint_file: str = "batch_checkpoint.json"
+    ) -> list:
+        """Processes PDFs in a directory with checkpointing support."""
         pdf_paths = list(Path(pdf_dir).glob("*.pdf"))
         results = []
-        
-        # Load checkpoint if it exists
         checkpoint = self._load_checkpoint(checkpoint_file)
-        start_index = checkpoint.get('last_processed_index', -1) + 1 if checkpoint else 0
-        if checkpoint and 'results' in checkpoint:
-            results = checkpoint['results']
-
-        if start_index > 0:
-            logger.info(f"Resuming batch process from index {start_index}")
+        start_index = checkpoint.get("last_processed_index", -1) + 1 if checkpoint else 0
+        if checkpoint and "results" in checkpoint:
+            results = checkpoint["results"]
 
         for i in range(start_index, len(pdf_paths)):
             pdf_path = pdf_paths[i]
-            logger.info(f"Processing file {i+1}/{len(pdf_paths)}: {pdf_path.name}")
-            
+            logger.info("Processing file %s/%s: %s", i + 1, len(pdf_paths), pdf_path.name)
             try:
-                # Here we use the integrated method
-                result = self.process_pdf_with_api(str(pdf_path), prompt=prompt_template.format(filename=pdf_path.name))
+                result = self.process_pdf_with_api(
+                    str(pdf_path), prompt=prompt_template.format(filename=pdf_path.name)
+                )
                 results.append({"file": pdf_path.name, "result": result})
-                
-                # Save checkpoint after each successful processing
-                state = {'last_processed_index': i, 'results': results}
+                state = {"last_processed_index": i, "results": results}
                 self._save_checkpoint(checkpoint_file, state)
-
             except BudgetExceededError as e:
-                logger.info(f"Budget exceeded. Stopping batch process. {e}")
-                break # Stop the batch if budget is hit
+                logger.info("Budget exceeded. Stopping batch process. %s", e)
+                break
             except Exception as e:
-                logger.error(f"Failed to process {pdf_path.name}: {e}")
-                # Optionally save partial failure to results
+                logger.error("Failed to process %s: %s", pdf_path.name, e)
                 results.append({"file": pdf_path.name, "result": {"error": str(e)}})
-                state = {'last_processed_index': i, 'results': results}
+                state = {"last_processed_index": i, "results": results}
                 self._save_checkpoint(checkpoint_file, state)
 
         logger.info("Batch processing finished.")
         return results
 
     def get_cost_report(self) -> Dict[str, Any]:
-        """Returns a summary of the session's cost and usage."""
         return {
-            "total_cost": f"${self.session_cost:.4f}",
-            "total_requests": self.session_requests
+            "total_cost": round(self.session_cost, 4),
+            "total_requests": self.session_requests,
+            "provider_spend": self.provider_spend,
+            "budget_summary": self.budget_monitor.summary() if self.budget_monitor else {},
         }
