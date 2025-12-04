@@ -8,6 +8,7 @@
 - [Testing](#testing)
 - [Git Workflow](#git-workflow)
 - [Common Tasks](#common-tasks)
+- [Automated Reviews](#automated-reviews)
 
 ---
 
@@ -546,6 +547,31 @@ def safe_filter(original: List, filtered: List, operation: str) -> bool:
 - [pytest Documentation](https://docs.pytest.org/)
 - [PEP 8 Style Guide](https://pep8.org/)
 - [Git Commit Conventions](https://www.conventionalcommits.org/)
+
+---
+
+## Automated Reviews
+
+1. **AI Reviewer Workflow**
+   - Workflow-Datei: `.github/workflows/ai-reviews.yml`
+   - Trigger: PR Events (`opened`, `synchronize`, `reopened`) sowie Issue-Kommentare mit `@claude`, `@gemini`, `@ai-review`.
+   - Claude nutzt `ANTHROPIC_API_KEY`, Gemini `GOOGLE_AI_API_KEY`. Ohne Keys werden Hinweise im Log ausgegeben.
+   - Kommentare werden über die GitHub REST API gepostet, damit keine YAML-Quote-Probleme entstehen.
+
+2. **CI Quality Gate**
+   - Workflow: `.github/workflows/ci.yml`
+   - Jobs `test` und `safety-check` müssen bestehen; das Job `quality-gate` aggregiert die Ergebnisse und schlägt fehl, wenn ein Check rot ist.
+   - Branch Protection kann auf das `Quality Gate Summary`-Resultat verweisen.
+
+3. **Manual Fallbacks**
+   - GitHub Apps (Copilot PRs, CodeRabbit, Gemini for GitHub) können ohne API-Key installiert werden.
+   - Reviewer können `@ai-review` kommentieren, um Hinweise zu erhalten (auch wenn keine Secrets konfiguriert sind).
+
+4. **Setup Checklist**
+   - [ ] Secrets in GitHub: `ANTHROPIC_API_KEY`, `GOOGLE_AI_API_KEY`, `CODECOV_TOKEN`.
+   - [ ] Optional: `CODECOV_TOKEN` (Coverage Upload) aktivieren.
+   - [ ] Branch Protection Regel erstellt mit `Required status checks: Tests, Safety & Security, Quality Gate Summary`.
+   - [ ] Team informiert (siehe README Abschnitt "Automated Code Reviews & Quality Gate").
 
 ---
 
