@@ -119,17 +119,39 @@ class UnifiedAPIClient:
 
     # Model-spezifische Preise (für dynamische Auswahl)
     MODEL_PRICING: Dict[str, Tuple[float, float]] = {
-        # o4-mini: $1.10/1M input, $4.40/1M output
-        "o4-mini": (0.0011, 0.0044),
-        "openai/o4-mini": (0.0011, 0.0044),
-        # GPT-5.1 Pro: $2.50/1M input, $15/1M output
-        "gpt-5.1-pro": (0.0025, 0.015),
-        "openai/gpt-5.1-pro": (0.0025, 0.015),
+        # GPT-5.1 (für sehr komplexe Fragen): $15/1M input, $120/1M output
+        "gpt-5.1": (0.015, 0.120),
+        "openai/gpt-5.1": (0.015, 0.120),
+        # GPT-5-thinking-mini (günstig mit Reasoning): $0.25/1M input, $2/1M output
+        "gpt-5-thinking-mini": (0.00025, 0.002),
+        "openai/gpt-5-thinking-mini": (0.00025, 0.002),
+        # GPT-5 Mini: $0.25/1M input, $2/1M output
+        "gpt-5-mini": (0.00025, 0.002),
+        "openai/gpt-5-mini": (0.00025, 0.002),
+        # Claude Opus 4.5: $15/1M input, $75/1M output
+        "claude-opus-4-5-20251101": (0.015, 0.075),
+        "anthropic/claude-opus-4-5-20251101": (0.015, 0.075),
     }
 
-    # o4-mini reasoning effort Konfiguration
-    O4_MINI_CONFIG = {
-        "reasoning_effort": "high",  # low, medium, high
+    # Hybrid-Modell Konfiguration für MedExamenAI
+    # Low/Medium: GPT-5.1-mini-high via Requesty (günstig mit High Thinking)
+    # High (komplex): Claude Opus 4.5 via Requesty (beste Qualität)
+    HYBRID_MODEL_CONFIG = {
+        "low": {
+            "model": "openai/gpt-5.1-mini-high",
+            "provider": "requesty",
+            "reasoning_effort": "high",
+        },
+        "medium": {
+            "model": "openai/gpt-5.1-mini-high",
+            "provider": "requesty",
+            "reasoning_effort": "high",
+        },
+        "high": {
+            "model": "anthropic/claude-opus-4-5-20251101",
+            "provider": "requesty",
+            "reasoning_effort": "high",
+        },
     }
 
     DEFAULT_BUDGETS: Dict[str, float] = {
@@ -144,33 +166,33 @@ class UnifiedAPIClient:
     }
 
     # Provider-Reihenfolgen pro Kostenprofil
+    # HINWEIS: Requesty zuerst (funktioniert zuverlässig mit Claude Sonnet 4.5)
     COST_MODE_ORDERS: Dict[str, List[str]] = {
-        # Fokus: günstig (OpenRouter/OpenAI Mini zuerst)
+        # Requesty zuerst (erprobt und zuverlässig)
         "cheap": [
+            "requesty", "comet_api", "aws_bedrock",
+            "anthropic", "portkey", "perplexity",
             "openrouter", "openai", "medgemma",
-            "comet_api", "requesty", "anthropic",
-            "aws_bedrock", "portkey", "perplexity",
         ],
-        # Balanced: günstige zuerst, dann Qualität
+        # Balanced: Requesty zuerst
         "balanced": [
-            "openrouter", "openai", "requesty",
-            "comet_api", "anthropic", "aws_bedrock",
-            "portkey", "perplexity", "medgemma",
+            "requesty", "comet_api", "anthropic",
+            "aws_bedrock", "portkey", "perplexity",
+            "openrouter", "openai", "medgemma",
         ],
-        # Premium: ursprüngliche Reihenfolge (teurer, beste Qualität zuerst)
+        # Premium: Anthropic direkt für Opus
         "premium": [
-            "requesty", "anthropic", "aws_bedrock",
+            "anthropic", "requesty", "aws_bedrock",
             "portkey", "comet_api", "perplexity",
             "openrouter", "openai", "medgemma",
         ],
     }
 
-    # Günstige Modell-Defaults für Low-Komplexität (mit Reasoning)
-    # o4-mini: OpenAI's neuestes Reasoning Model (April 2025)
-    # 20% besser als o3-mini bei gleichem Preis!
+    # GPT-5-thinking-mini für günstige Fragen mit Reasoning
+    # Hybrid-System: Mini für einfache, Opus für mittlere, GPT-5.1 für komplexe
     CHEAP_MODEL_DEFAULTS: Dict[str, str] = {
-        "openai": "o4-mini",
-        "openrouter": "openai/o4-mini",
+        "openai": "gpt-5-thinking-mini",
+        "openrouter": "openai/gpt-5-thinking-mini",
     }
 
     # Extended Thinking Konfiguration
@@ -256,12 +278,12 @@ class UnifiedAPIClient:
                 adapter="openai",
                 api_key=os.getenv("REQUESTY_API_KEY"),
                 base_url=os.getenv("REQUESTY_BASE_URL", "https://router.requesty.ai/v1"),
-                model=os.getenv("REQUESTY_MODEL", "bedrock/claude-sonnet-4-5@us-east-1"),
+                model=os.getenv("REQUESTY_MODEL", "openai/o4-mini-high"),  # GPT-5.1-mini High Thinking
                 priority=1,
                 budget=self._get_budget("REQUESTY_BUDGET", budgets["requesty"]),
-                cost_per_1k_input=0.003,  # Sonnet 4.5: $3/1M input
-                cost_per_1k_output=0.015,  # Sonnet 4.5: $15/1M output
-                max_tokens=32000,
+                cost_per_1k_input=0.0011,   # o4-mini: $1.10/1M input
+                cost_per_1k_output=0.0044,  # o4-mini: $4.40/1M output
+                max_tokens=128000,  # GPT-5.1 128K context
             )
         )
 
@@ -376,12 +398,12 @@ class UnifiedAPIClient:
                 adapter="openai",
                 api_key=os.getenv("OPENROUTER_API_KEY"),
                 base_url="https://openrouter.ai/api/v1",
-                model=os.getenv("OPENROUTER_MODEL", "openai/o4-mini"),
+                model=os.getenv("OPENROUTER_MODEL", "openai/gpt-5-thinking-mini"),
                 priority=6,
                 budget=self._get_budget("OPENROUTER_BUDGET", budgets["openrouter"]),
-                cost_per_1k_input=0.0011,   # o4-mini: $1.10/1M input
-                cost_per_1k_output=0.0044,  # o4-mini: $4.40/1M output
-                max_tokens=200000,  # o4-mini supports 200K context
+                cost_per_1k_input=0.00025,  # gpt-5-thinking-mini: $0.25/1M input
+                cost_per_1k_output=0.002,   # gpt-5-thinking-mini: $2/1M output
+                max_tokens=400000,  # gpt-5 mini 400K context window
             )
         )
 
@@ -393,12 +415,12 @@ class UnifiedAPIClient:
                 adapter="openai",
                 api_key=os.getenv("OPENAI_API_KEY"),
                 base_url="https://api.openai.com/v1",
-                model=os.getenv("OPENAI_MODEL", "o4-mini"),
+                model=os.getenv("OPENAI_MODEL", "gpt-5-thinking-mini"),
                 priority=7,
                 budget=self._get_budget("OPENAI_BUDGET", budgets["openai"]),
-                cost_per_1k_input=0.0011,   # o4-mini: $1.10/1M input
-                cost_per_1k_output=0.0044,  # o4-mini: $4.40/1M output
-                max_tokens=200000,  # o4-mini supports 200K context
+                cost_per_1k_input=0.00025,  # gpt-5-thinking-mini: $0.25/1M input
+                cost_per_1k_output=0.002,   # gpt-5-thinking-mini: $2/1M output
+                max_tokens=400000,  # gpt-5 mini 400K context window
             )
         )
 
@@ -533,11 +555,12 @@ class UnifiedAPIClient:
             "temperature": temperature,
         }
 
-        # o4-mini: reasoning_effort für bessere Antworten bei einfachen Fragen
-        if "o4-mini" in model_name.lower():
-            reasoning_effort = self.O4_MINI_CONFIG.get("reasoning_effort", "high")
+        # GPT-5-thinking-mini: Reasoning für medizinische Genauigkeit
+        if "gpt-5-thinking" in model_name.lower() or "gpt-5.1" in model_name.lower():
+            # Verwende reasoning_effort basierend auf HYBRID_MODEL_CONFIG
+            reasoning_effort = "high"  # Default für medizinische Fragen
             payload["reasoning_effort"] = reasoning_effort
-            logger.info("o4-mini reasoning_effort: %s", reasoning_effort)
+            logger.info(f"{model_name} reasoning_effort: {reasoning_effort}")
         headers = {
             "Authorization": f"Bearer {cfg.api_key}",
             "Content-Type": "application/json",
