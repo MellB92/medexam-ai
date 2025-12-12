@@ -95,6 +95,44 @@ jobs:
           fail_ci_if_error: false
           token: ${{ secrets.CODECOV_TOKEN }}
 
+  quality-gate:
+    name: Quality Gate Summary
+    needs: [test, safety-check]
+    runs-on: ubuntu-latest
+    if: always()
+
+    steps:
+      - name: Create summary
+        run: |
+          TEST_RESULT="${{ needs.test.result }}"
+          SAFETY_RESULT="${{ needs.safety-check.result }}"
+
+          if [ "$TEST_RESULT" = "success" ] && [ "$SAFETY_RESULT" = "success" ]; then
+            STATUS="✅ Quality Gate passed"
+          else
+            STATUS="❌ Quality Gate failed"
+          fi
+
+          cat <<'EOF' > summary.md
+          ## Quality Gate
+          - Tests: $TEST_RESULT
+          - Safety: $SAFETY_RESULT
+
+          $STATUS
+          EOF
+
+          if [ "$STATUS" = "❌ Quality Gate failed" ]; then
+            echo "::error::Quality Gate failed. See matrix above."
+            exit 1
+          fi
+
+      - name: Upload summary
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: quality-gate-summary
+          path: summary.md
+
   safety-check:
     name: Safety & Security
     runs-on: ubuntu-latest

@@ -9,53 +9,62 @@ on:
       - '_OUTPUT/*.json'
       - '_EXTRACTED_FRAGEN/*.json'
 
+permissions:
+  contents: write  # WICHTIG: erlaubt Pushes mit GITHUB_TOKEN
+
 jobs:
   backup:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0  # Full history for proper backup
-      
+
+      - name: Set up Git user
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
+
       - name: Create backup directory
         run: |
           DATE=$(date +%Y%m%d_%H%M%S)
           mkdir -p backups/$DATE
           echo "BACKUP_DIR=backups/$DATE" >> $GITHUB_ENV
           echo "BACKUP_DATE=$DATE" >> $GITHUB_ENV
-      
+
       - name: Backup Output files
         run: |
           if [ -d "_OUTPUT" ]; then
             cp _OUTPUT/*.json "$BACKUP_DIR/" 2>/dev/null || echo "No JSON files in _OUTPUT/"
           fi
-          
+
           if [ -d "_EXTRACTED_FRAGEN" ]; then
             cp _EXTRACTED_FRAGEN/*.json "$BACKUP_DIR/" 2>/dev/null || echo "No JSON files in _EXTRACTED_FRAGEN/"
           fi
-          
+
           # Create backup manifest
           cat > "$BACKUP_DIR/MANIFEST.md" << EOF
           # Backup Manifest
-          
+
           **Date:** $(date -u +"%Y-%m-%d %H:%M:%S UTC")
           **Trigger:** ${{ github.event_name }}
           **Commit:** ${{ github.sha }}
-          
+
           ## Files Backed Up
-          
+
           \`\`\`
           $(ls -lh $BACKUP_DIR/*.json 2>/dev/null || echo "No JSON files")
           \`\`\`
           EOF
-      
+
       - name: Validate Q&A count
         id: validate
         run: |
@@ -77,43 +86,43 @@ jobs:
                 print(f'Error: {e}', file=sys.stderr)
                 print(0)
             " 2>/dev/null || echo "0")
-            
+
             echo "QA_COUNT=$COUNT" >> $GITHUB_ENV
             echo "count=$COUNT" >> $GITHUB_OUTPUT
-            
+
             if [ "$COUNT" -lt 100 ]; then
-              echo "⚠️ WARNING: Q&A count is low ($COUNT)"
+              echo "WARNING: Q&A count is low ($COUNT)"
             else
-              echo "✅ Q&A count: $COUNT"
+              echo "Q&A count: $COUNT"
             fi
           else
             echo "QA_COUNT=0" >> $GITHUB_ENV
             echo "count=0" >> $GITHUB_OUTPUT
-            echo "⚠️ No output files found yet"
+            echo "No output files found yet"
           fi
-      
+
       - name: Commit backup
         run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
-          
           git add backups/
-          
+
           if git diff --staged --quiet; then
-            echo "✅ No changes to commit"
+            echo "No changes to commit"
           else
             git commit -m "chore: Daily backup $BACKUP_DATE - $QA_COUNT Q&A pairs"
-            git push
-            echo "✅ Backup committed and pushed"
+            echo "Backup committed"
           fi
-      
+
+      - name: Push changes
+        run: |
+          git push origin HEAD:${{ github.ref }}
+
       - name: Upload backup artifact
         uses: actions/upload-artifact@v4
         with:
           name: backup-${{ env.BACKUP_DATE }}
           path: ${{ env.BACKUP_DIR }}
           retention-days: 90
-      
+
       - name: Notify on low count
         if: steps.validate.outputs.count < 100 && steps.validate.outputs.count > 0
         run: |

@@ -94,16 +94,64 @@ class ProcessingResult:
 class UnifiedAPIClient:
     """Manage multiple AI providers with fallback, budget-tracking and cost reporting."""
 
+    # Preise pro 1K Tokens in USD
+    # Stand Dez 2025 laut Anthropic-Dokumentation:
+    # - Claude Sonnet 4.5: 3$/1M input, 15$/1M output → 0.003 / 0.015
+    # - Claude Opus 4.5:   5$/1M input, 25$/1M output → 0.005 / 0.025
     DEFAULT_PRICING: Dict[str, Tuple[float, float]] = {
-        "requesty": (3.0, 15.0),
-        "anthropic": (3.0, 15.0),
-        "aws_bedrock": (3.0, 15.0),
-        "comet_api": (2.4, 12.0),
-        "perplexity": (1.2, 1.2),
-        "openrouter": (0.5, 1.5),
-        "openai": (0.5, 1.5),
-        "portkey": (3.0, 15.0),
-        "medgemma": (0.1, 0.4),
+        # Sonnet 4.5 Stack
+        "requesty":    (0.003, 0.015),
+        "aws_bedrock": (0.003, 0.015),
+        "comet_api":   (0.003, 0.015),
+        "portkey":     (0.003, 0.015),
+
+        # Opus 4.5 direct
+        "anthropic":   (0.005, 0.025),
+
+        # Sonstige Provider
+        "perplexity":  (0.001, 0.001),
+        # o4-mini: $1.10/1M input, $4.40/1M output → 0.0011 / 0.0044 per 1K
+        # GPT-5.1 Pro: ~$2.50/1M input, $15/1M output → 0.0025 / 0.015 per 1K
+        "openrouter":  (0.0025, 0.015),  # GPT-5.1 Pro als Basis
+        "openai":      (0.0025, 0.015),  # GPT-5.1 Pro als Basis
+        "medgemma":    (0.0001, 0.0004),
+    }
+
+    # Model-spezifische Preise (für dynamische Auswahl)
+    MODEL_PRICING: Dict[str, Tuple[float, float]] = {
+        # GPT-5.1 (für sehr komplexe Fragen): $15/1M input, $120/1M output
+        "gpt-5.1": (0.015, 0.120),
+        "openai/gpt-5.1": (0.015, 0.120),
+        # GPT-5-thinking-mini (günstig mit Reasoning): $0.25/1M input, $2/1M output
+        "gpt-5-thinking-mini": (0.00025, 0.002),
+        "openai/gpt-5-thinking-mini": (0.00025, 0.002),
+        # GPT-5 Mini: $0.25/1M input, $2/1M output
+        "gpt-5-mini": (0.00025, 0.002),
+        "openai/gpt-5-mini": (0.00025, 0.002),
+        # Claude Opus 4.5: $15/1M input, $75/1M output
+        "claude-opus-4-5-20251101": (0.015, 0.075),
+        "anthropic/claude-opus-4-5-20251101": (0.015, 0.075),
+    }
+
+    # Hybrid-Modell Konfiguration für MedExamenAI
+    # Low/Medium: GPT-5.1-mini-high via Requesty (günstig mit High Thinking)
+    # High (komplex): Claude Opus 4.5 via Requesty (beste Qualität)
+    HYBRID_MODEL_CONFIG = {
+        "low": {
+            "model": "openai/gpt-5.1-mini-high",
+            "provider": "requesty",
+            "reasoning_effort": "high",
+        },
+        "medium": {
+            "model": "openai/gpt-5.1-mini-high",
+            "provider": "requesty",
+            "reasoning_effort": "high",
+        },
+        "high": {
+            "model": "anthropic/claude-opus-4-5-20251101",
+            "provider": "requesty",
+            "reasoning_effort": "high",
+        },
     }
 
     DEFAULT_BUDGETS: Dict[str, float] = {
@@ -117,10 +165,47 @@ class UnifiedAPIClient:
         "medgemma": 217.75,
     }
 
-    def __init__(self, max_cost: Optional[float] = None, checkpoint_dir: str = "checkpoints"):
+    # Provider-Reihenfolgen pro Kostenprofil
+    # HINWEIS: Requesty zuerst (funktioniert zuverlässig mit Claude Sonnet 4.5)
+    COST_MODE_ORDERS: Dict[str, List[str]] = {
+        # Requesty zuerst (erprobt und zuverlässig)
+        "cheap": [
+            "requesty", "comet_api", "aws_bedrock",
+            "anthropic", "portkey", "perplexity",
+            "openrouter", "openai", "medgemma",
+        ],
+        # Balanced: Requesty zuerst
+        "balanced": [
+            "requesty", "comet_api", "anthropic",
+            "aws_bedrock", "portkey", "perplexity",
+            "openrouter", "openai", "medgemma",
+        ],
+        # Premium: Anthropic direkt für Opus
+        "premium": [
+            "anthropic", "requesty", "aws_bedrock",
+            "portkey", "comet_api", "perplexity",
+            "openrouter", "openai", "medgemma",
+        ],
+    }
+
+    # GPT-5-thinking-mini für günstige Fragen mit Reasoning
+    # Hybrid-System: Mini für einfache, Opus für mittlere, GPT-5.1 für komplexe
+    CHEAP_MODEL_DEFAULTS: Dict[str, str] = {
+        "openai": "gpt-5-thinking-mini",
+        "openrouter": "openai/gpt-5-thinking-mini",
+    }
+
+    # Extended Thinking Konfiguration
+    EXTENDED_THINKING_CONFIG = {
+        "enabled": True,
+        "budget_tokens": 10000,  # Max thinking tokens für Claude
+    }
+
+    def __init__(self, max_cost: Optional[float] = None, checkpoint_dir: str = "checkpoints", cost_mode: Optional[str] = None):
         self.max_cost = max_cost
         self.pricing = dict(self.DEFAULT_PRICING)
         self.tokenizer = tiktoken.get_encoding("cl100k_base")
+        self.cost_mode = (cost_mode or os.getenv("LLM_COST_MODE") or "premium").lower()
 
         # Budget & cost state
         self.session_cost = 0.0
@@ -135,9 +220,10 @@ class UnifiedAPIClient:
         )
 
         self.providers = self._configure_providers()
-        self.provider_order = [
-            p.key for p in sorted(self.providers.values(), key=lambda c: c.priority)
-        ]
+        default_order = [p.key for p in sorted(self.providers.values(), key=lambda c: c.priority)]
+        env_order = self._provider_order_from_env(default_order)
+        self.provider_order = env_order if env_order else default_order
+        self._apply_cost_mode()
         self.provider_spend = {p.key: 0.0 for p in self.providers.values()}
 
         if self.budget_monitor:
@@ -166,8 +252,12 @@ class UnifiedAPIClient:
     def _pricing_for_model(
         self, model: str, default: Tuple[float, float]
     ) -> Tuple[float, float]:
-        if "opus" in model.lower():
-            return (15.0, 75.0)
+        """Gibt (input_cost, output_cost) pro 1k Tokens zurück."""
+        m = (model or "").lower()
+        if "opus-4-5" in m or "claude-opus-4-5" in m:
+            return (0.005, 0.025)  # Opus 4.5: 5$/1M in, 25$/1M out
+        if "sonnet-4-5" in m or "claude-sonnet-4-5" in m:
+            return (0.003, 0.015)  # Sonnet 4.5: 3$/1M in, 15$/1M out
         return default
 
     def _configure_providers(self) -> Dict[str, ProviderConfig]:
@@ -188,17 +278,17 @@ class UnifiedAPIClient:
                 adapter="openai",
                 api_key=os.getenv("REQUESTY_API_KEY"),
                 base_url=os.getenv("REQUESTY_BASE_URL", "https://router.requesty.ai/v1"),
-                model=os.getenv("REQUESTY_MODEL", "bedrock/claude-sonnet-4-5@us-east-1"),
+                model=os.getenv("REQUESTY_MODEL", "openai/o4-mini-high"),  # GPT-5.1-mini High Thinking
                 priority=1,
                 budget=self._get_budget("REQUESTY_BUDGET", budgets["requesty"]),
-                cost_per_1k_input=3.0,
-                cost_per_1k_output=15.0,
-                max_tokens=32000,
+                cost_per_1k_input=0.0011,   # o4-mini: $1.10/1M input
+                cost_per_1k_output=0.0044,  # o4-mini: $4.40/1M output
+                max_tokens=128000,  # GPT-5.1 128K context
             )
         )
 
-        anthropic_model = os.getenv("ANTHROPIC_MODEL", "claude-3-5-sonnet-20241022")
-        anth_rates = self._pricing_for_model(anthropic_model, (3.0, 15.0))
+        anthropic_model = os.getenv("ANTHROPIC_MODEL", "claude-opus-4-5-20251101")
+        anth_rates = self._pricing_for_model(anthropic_model, (0.005, 0.025))
         add(
             ProviderConfig(
                 key="anthropic",
@@ -232,12 +322,12 @@ class UnifiedAPIClient:
                     base_url=None,
                     model=os.getenv(
                         "AWS_BEDROCK_MODEL",
-                        "anthropic.claude-3-5-sonnet-20241022-v2:0",
+                        "us.anthropic.claude-sonnet-4-5-20241022-v2:0",
                     ),
                     priority=3,
                     budget=self._get_budget("AWS_BEDROCK_BUDGET", budgets["aws_bedrock"]),
-                    cost_per_1k_input=3.0,
-                    cost_per_1k_output=15.0,
+                    cost_per_1k_input=0.003,  # Sonnet 4.5: $3/1M input
+                    cost_per_1k_output=0.015,  # Sonnet 4.5: $15/1M output
                     max_tokens=32000,
                 )
             )
@@ -253,8 +343,8 @@ class UnifiedAPIClient:
                 model=os.getenv("PORTKEY_MODEL", "@kp2026/anthropic/claude-sonnet-4.5"),
                 priority=3,
                 budget=self._get_budget("PORTKEY_BUDGET", budgets.get("aws_bedrock", 0.0)),
-                cost_per_1k_input=3.0,
-                cost_per_1k_output=15.0,
+                cost_per_1k_input=0.003,  # Sonnet 4.5: $3/1M input
+                cost_per_1k_output=0.015,  # Sonnet 4.5: $15/1M output
                 max_tokens=32000,
             )
         )
@@ -267,11 +357,11 @@ class UnifiedAPIClient:
                 adapter="openai",
                 api_key=os.getenv("COMET_API_KEY"),
                 base_url=os.getenv("COMET_API_BASE", "https://api.cometapi.com/v1"),
-                model=os.getenv("COMET_API_MODEL", "claude-sonnet-4-5"),
+                model=os.getenv("COMET_API_MODEL", "claude-sonnet-4-5-20241022"),
                 priority=4,
                 budget=self._get_budget("COMET_API_BUDGET", budgets["comet_api"]),
-                cost_per_1k_input=2.4,
-                cost_per_1k_output=12.0,
+                cost_per_1k_input=0.003,  # Sonnet 4.5: $3/1M input
+                cost_per_1k_output=0.015,  # Sonnet 4.5: $15/1M output
                 max_tokens=32000,
             )
         )
@@ -294,8 +384,8 @@ class UnifiedAPIClient:
                 ),
                 priority=5,
                 budget=self._get_budget("PERPLEXITY_BUDGET", budgets["perplexity"]),
-                cost_per_1k_input=1.2,
-                cost_per_1k_output=1.2,
+                cost_per_1k_input=0.001,
+                cost_per_1k_output=0.001,
                 max_tokens=8000,
             )
         )
@@ -308,12 +398,12 @@ class UnifiedAPIClient:
                 adapter="openai",
                 api_key=os.getenv("OPENROUTER_API_KEY"),
                 base_url="https://openrouter.ai/api/v1",
-                model=os.getenv("OPENROUTER_MODEL", "openai/o3-mini-high"),
+                model=os.getenv("OPENROUTER_MODEL", "openai/gpt-5-thinking-mini"),
                 priority=6,
                 budget=self._get_budget("OPENROUTER_BUDGET", budgets["openrouter"]),
-                cost_per_1k_input=0.5,
-                cost_per_1k_output=1.5,
-                max_tokens=16000,
+                cost_per_1k_input=0.00025,  # gpt-5-thinking-mini: $0.25/1M input
+                cost_per_1k_output=0.002,   # gpt-5-thinking-mini: $2/1M output
+                max_tokens=400000,  # gpt-5 mini 400K context window
             )
         )
 
@@ -325,12 +415,12 @@ class UnifiedAPIClient:
                 adapter="openai",
                 api_key=os.getenv("OPENAI_API_KEY"),
                 base_url="https://api.openai.com/v1",
-                model=os.getenv("OPENAI_MODEL", "gpt-4o"),
+                model=os.getenv("OPENAI_MODEL", "gpt-5-thinking-mini"),
                 priority=7,
                 budget=self._get_budget("OPENAI_BUDGET", budgets["openai"]),
-                cost_per_1k_input=0.5,
-                cost_per_1k_output=1.5,
-                max_tokens=16000,
+                cost_per_1k_input=0.00025,  # gpt-5-thinking-mini: $0.25/1M input
+                cost_per_1k_output=0.002,   # gpt-5-thinking-mini: $2/1M output
+                max_tokens=400000,  # gpt-5 mini 400K context window
             )
         )
 
@@ -347,13 +437,37 @@ class UnifiedAPIClient:
                     model=os.getenv("MEDGEMMA_MODEL", "med-gemma-7b"),
                     priority=8,
                     budget=self._get_budget("MEDGEMMA_BUDGET", budgets["medgemma"]),
-                    cost_per_1k_input=0.1,
-                    cost_per_1k_output=0.4,
+                    cost_per_1k_input=0.0001,
+                    cost_per_1k_output=0.0004,
                     max_tokens=4096,
                 )
             )
 
         return providers
+
+    def _provider_order_from_env(self, default_order: List[str]) -> List[str]:
+        """Liest eine Provider-Priorität aus LLM_PROVIDER_PRIORITY (comma-separated)."""
+        env_value = os.getenv("LLM_PROVIDER_PRIORITY", "")
+        if not env_value:
+            return []
+        order: List[str] = []
+        for key in [p.strip() for p in env_value.split(",") if p.strip()]:
+            if key in self.providers and key not in order:
+                order.append(key)
+        for key in default_order:
+            if key not in order and key in self.providers:
+                order.append(key)
+        return order
+
+    def _apply_cost_mode(self) -> None:
+        """Überschreibt die Provider-Reihenfolge basierend auf cost_mode."""
+        if self.cost_mode in self.COST_MODE_ORDERS:
+            ordered = [
+                p for p in self.COST_MODE_ORDERS[self.cost_mode]
+                if p in self.providers
+            ]
+            if ordered:
+                self.provider_order = ordered
 
     # --- Helpers ---
     def _get_token_count(self, text: str) -> int:
@@ -432,12 +546,21 @@ class UnifiedAPIClient:
         override_model: Optional[str],
     ) -> ProcessingResult:
         messages = self._build_messages(prompt, system_prompt)
+        model_name = override_model or cfg.model or ""
+
         payload = {
-            "model": override_model or cfg.model,
+            "model": model_name,
             "messages": messages,
             "max_tokens": min(max_tokens, cfg.max_tokens),
             "temperature": temperature,
         }
+
+        # GPT-5-thinking-mini: Reasoning für medizinische Genauigkeit
+        if "gpt-5-thinking" in model_name.lower() or "gpt-5.1" in model_name.lower():
+            # Verwende reasoning_effort basierend auf HYBRID_MODEL_CONFIG
+            reasoning_effort = "high"  # Default für medizinische Fragen
+            payload["reasoning_effort"] = reasoning_effort
+            logger.info(f"{model_name} reasoning_effort: {reasoning_effort}")
         headers = {
             "Authorization": f"Bearer {cfg.api_key}",
             "Content-Type": "application/json",
@@ -503,14 +626,56 @@ class UnifiedAPIClient:
             import anthropic
 
             client = anthropic.Anthropic(api_key=cfg.api_key)
-            resp = client.messages.create(
-                model=cfg.model,
-                max_tokens=min(max_tokens, cfg.max_tokens),
-                temperature=temperature,
-                messages=[{"role": "user", "content": prompt}],
-                system=system_prompt,
+
+            # Extended Thinking für Opus/Sonnet 4.5
+            use_extended_thinking = (
+                self.EXTENDED_THINKING_CONFIG.get("enabled", False)
+                and ("opus-4-5" in (cfg.model or "").lower()
+                     or "sonnet-4-5" in (cfg.model or "").lower()
+                     or "claude-sonnet-4-5" in (cfg.model or "").lower()
+                     or "claude-opus-4-5" in (cfg.model or "").lower())
             )
-            content = "".join(part.text for part in resp.content if hasattr(part, "text"))
+
+            budget_tokens = self.EXTENDED_THINKING_CONFIG.get("budget_tokens", 10000)
+
+            # Bei Extended Thinking: max_tokens muss > budget_tokens sein
+            if use_extended_thinking:
+                # min 16000 (budget_tokens + 6000 für Antwort)
+                effective_max_tokens = max(budget_tokens + 6000, 16000)
+            else:
+                effective_max_tokens = min(max_tokens, cfg.max_tokens)
+
+            create_kwargs = {
+                "model": cfg.model,
+                "max_tokens": effective_max_tokens,
+                "messages": [{"role": "user", "content": prompt}],
+                "system": system_prompt,
+            }
+
+            if use_extended_thinking:
+                # Extended thinking erfordert temperature=1 und spezielle Parameter
+                create_kwargs["thinking"] = {
+                    "type": "enabled",
+                    "budget_tokens": budget_tokens
+                }
+                # temperature muss bei extended thinking 1 sein
+                create_kwargs["temperature"] = 1
+                logger.info("Extended Thinking aktiviert für %s (budget: %d, max: %d tokens)",
+                           cfg.model, budget_tokens, effective_max_tokens)
+            else:
+                create_kwargs["temperature"] = temperature
+
+            resp = client.messages.create(**create_kwargs)
+
+            # Bei extended thinking: sowohl thinking als auch text content extrahieren
+            content_parts = []
+            thinking_content = ""
+            for part in resp.content:
+                if hasattr(part, "text"):
+                    content_parts.append(part.text)
+                elif hasattr(part, "thinking"):
+                    thinking_content = part.thinking
+            content = "".join(content_parts)
             usage = getattr(resp, "usage", None) or {}
             input_tokens = getattr(usage, "input_tokens", None) or self._get_token_count(
                 prompt + (system_prompt or "")
