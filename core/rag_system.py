@@ -50,6 +50,7 @@ class RAGConfig:
     embedding_dimension: int = 1536  # OpenAI text-embedding-3-small
     local_embedding_model: str = "paraphrase-multilingual-mpnet-base-v2"  # Gut für Deutsch
     local_embedding_dimension: int = 768  # Dimension für multilingual-mpnet
+    embedding_device: str = "auto"  # cpu, mps, cuda, auto
 
     # Retrieval-Parameter
     top_k: int = 5
@@ -193,6 +194,8 @@ class MedicalRAGSystem:
         self.index_by_module: Dict[str, List[str]] = defaultdict(list)
         self.index_by_tier: Dict[str, List[str]] = defaultdict(list)
         self.cost_tracker = CostTracker()
+        self.active_embedding_dim: Optional[int] = None  # Erzwinge konsistente Dimension über alle Embeddings
+        self._dimension_mismatch_logged = False
 
         # OpenAI-Client initialisieren wenn gewünscht
         self.openai_client = None
@@ -210,10 +213,14 @@ class MedicalRAGSystem:
         """Initialisiert das lokale Sentence-Transformer Modell."""
         try:
             logger.info(f"Lade lokales Embedding-Modell: {self.config.local_embedding_model}...")
-            self.local_model = SentenceTransformer(self.config.local_embedding_model)
+            device = None if self.config.embedding_device in ("", "auto") else self.config.embedding_device
+            self.local_model = SentenceTransformer(self.config.local_embedding_model, device=device)
             # Dimension vom Modell übernehmen
             self.config.local_embedding_dimension = self.local_model.get_sentence_embedding_dimension()
-            logger.info(f"Lokales Modell geladen (Dimension: {self.config.local_embedding_dimension})")
+            logger.info(
+                f"Lokales Modell geladen (Dimension: {self.config.local_embedding_dimension}, "
+                f"Device: {self.config.embedding_device})"
+            )
         except Exception as e:
             logger.error(f"Fehler beim Laden des lokalen Modells: {e}")
             self.local_model = None
@@ -270,6 +277,7 @@ class MedicalRAGSystem:
         # Cache prüfen
         cached = self.embedding_cache.get(text)
         if cached:
+            self._ensure_active_embedding_dim(cached, source="cache")
             return cached
 
         if self.use_openai and self.openai_client:
@@ -293,6 +301,7 @@ class MedicalRAGSystem:
             # Cache speichern
             self.embedding_cache.set(text, embedding)
 
+            self._ensure_active_embedding_dim(embedding, source="openai")
             return embedding
 
         except Exception as e:
@@ -316,6 +325,7 @@ class MedicalRAGSystem:
                 # Cache speichern
                 self.embedding_cache.set(text, embedding_list)
 
+                self._ensure_active_embedding_dim(embedding_list, source="local_model")
                 return embedding_list
             except Exception as e:
                 logger.warning(f"Embedding-Fehler, Fallback: {e}")
@@ -331,7 +341,26 @@ class MedicalRAGSystem:
         norm = np.linalg.norm(embedding)
         if norm > 0:
             embedding = embedding / norm
-        return embedding.tolist()
+        embedding_list = embedding.tolist()
+        self._ensure_active_embedding_dim(embedding_list, source="fallback")
+        return embedding_list
+
+    def _ensure_active_embedding_dim(self, embedding: List[float], source: str) -> None:
+        """
+        Stellt sicher, dass alle Embeddings dieselbe Dimension haben.
+
+        Raises:
+            ValueError: wenn eine neue Embedding-Dimension nicht zur aktiven passt.
+        """
+        dim = len(embedding)
+        if self.active_embedding_dim is None:
+            self.active_embedding_dim = dim
+            return
+        if dim != self.active_embedding_dim:
+            raise ValueError(
+                f"Embedding-Dimensionskonflikt: {dim} aus {source}, erwartet {self.active_embedding_dim}. "
+                "Bitte Wissensbasis und Cache mit konsistentem Modell neu erstellen."
+            )
 
     def add_to_knowledge_base(
         self,
@@ -360,7 +389,12 @@ class MedicalRAGSystem:
             if not text or len(text.strip()) < 10:
                 continue
 
-            embedding = self.generate_embedding(text)
+            try:
+                embedding = self.generate_embedding(text)
+            except ValueError as e:
+                logger.error(f"Überspringe Eintrag wegen Embedding-Dimension: {e}")
+                continue
+
             content_id = f"{source_module}_{hashlib.md5(text.encode()).hexdigest()[:12]}"
 
             content = EmbeddedContent(
@@ -412,7 +446,11 @@ class MedicalRAGSystem:
         min_similarity = min_similarity or self.config.similarity_threshold
 
         # Query Embedding
-        query_embedding = self.generate_embedding(query)
+        try:
+            query_embedding = self.generate_embedding(query)
+        except ValueError as e:
+            logger.error(f"Suche abgebrochen wegen Embedding-Dimension: {e}")
+            return []
         query_vector = np.array(query_embedding)
 
         # Ähnlichkeiten berechnen
@@ -423,6 +461,16 @@ class MedicalRAGSystem:
             if source_modules and content.source_module not in source_modules:
                 continue
             if source_tiers and content.source_tier not in source_tiers:
+                continue
+
+            content_dim = len(content.embedding)
+            if content_dim != len(query_embedding):
+                if not self._dimension_mismatch_logged:
+                    logger.error(
+                        "Überspringe KB-Eintrag wegen abweichender Embedding-Dimension "
+                        f"({content_dim} vs {len(query_embedding)}). Bitte KB neu einbetten."
+                    )
+                    self._dimension_mismatch_logged = True
                 continue
 
             content_vector = np.array(content.embedding)
@@ -570,12 +618,26 @@ class MedicalRAGSystem:
             data = json.load(f)
 
         kb_data = data.get("knowledge_base", {})
+        skipped = 0
         for content_id, content_dict in kb_data.items():
             content = EmbeddedContent(**content_dict)
+            if self.active_embedding_dim is None:
+                self.active_embedding_dim = len(content.embedding)
+            elif len(content.embedding) != self.active_embedding_dim:
+                skipped += 1
+                if not self._dimension_mismatch_logged:
+                    logger.error(
+                        "Überspringe Eintrag aus Datei wegen abweichender Embedding-Dimension. "
+                        "Bitte KB-Datei mit konsistentem Modell erzeugen."
+                    )
+                    self._dimension_mismatch_logged = True
+                continue
             self.knowledge_base[content_id] = content
             self.index_by_module[content.source_module].append(content_id)
             self.index_by_tier[content.source_tier].append(content_id)
 
+        if skipped:
+            logger.warning(f"{skipped} Einträge wurden wegen falscher Dimension übersprungen.")
         logger.info(f"Wissensbasis geladen: {len(self.knowledge_base)} Einträge")
 
 
