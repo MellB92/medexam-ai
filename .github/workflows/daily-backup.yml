@@ -102,17 +102,21 @@ jobs:
           fi
 
       - name: Commit backup
+        id: commit
         run: |
           git add backups/
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
           else
             git commit -m "chore: Daily backup $BACKUP_DATE - $QA_COUNT Q&A pairs"
             echo "Backup committed"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
 
       - name: Push changes
+        if: steps.commit.outputs.has_changes == 'true'
         run: |
           git push origin HEAD:${{ github.ref }}
 
