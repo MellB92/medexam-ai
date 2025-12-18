@@ -1,0 +1,96 @@
+2025/12/12 18:58:34 INFO  : 
+Transferred:   	   55.621 MiB / 8.352 GiB, 1%, 1.092 MiB/s, ETA 2h9m40s
+Checks:                 0 / 0, -, Listed 1
+Transferred:            0 / 1, 0%
+Elapsed time:       1m0.0s
+Transferring:
+ *                        AMIR Descrompimido.zip:  0% /8.352Gi, 1.081Mi/s, 2h10m56s
+
+2025/12/12 18:59:34 INFO  : 
+Transferred:   	   97.996 MiB / 8.352 GiB, 1%, 831.328 KiB/s, ETA 2h53m33s
+Checks:                 0 / 0, -, Listed 1
+Transferred:            0 / 1, 0%
+Elapsed time:      1m59.9s
+Transferring:
+ *                        AMIR Descrompimido.zip:  1% /8.352Gi, 815.444Ki/s, 2h56m56s
+
+2025/12/12 19:00:34 INFO  : 
+Transferred:   	  154.184 MiB / 8.352 GiB, 2%, 887.441 KiB/s, ETA 2h41m30s
+Checks:                 0 / 0, -, Listed 1
+Transferred:            0 / 1, 0%
+Elapsed time:       3m0.0s
+Transferring:
+ *                        AMIR Descrompimido.zip:  1% /8.352Gi, 890.862Ki/s, 2h40m52s
+
+2025/12/12 19:01:34 INFO  : 
+Transferred:   	  222.309 MiB / 8.352 GiB, 3%, 1.212 MiB/s, ETA 1h54m33s
+Checks:                 0 / 0, -, Listed 1
+Transferred:            0 / 1, 0%
+Elapsed time:       4m0.0s
+Transferring:
+ *                        AMIR Descrompimido.zip:  2% /8.352Gi, 1.269Mi/s, 1h49m22s
+
+2025/12/12 19:02:34 INFO  : 
+Transferred:   	  270.715 MiB / 8.352 GiB, 3%, 909.676 KiB/s, ETA 2h35m22s
+Checks:                 0 / 0, -, Listed 1
+Transferred:            0 / 1, 0%
+Elapsed time:      4m59.9s
+Transferring:
+ *                        AMIR Descrompimido.zip:  3% /8.352Gi, 910.480Ki/s, 2h35m13s
+
+2025/12/12 19:03:34 INFO  : 
+Transferred:   	  337.652 MiB / 8.352 GiB, 4%, 1.088 MiB/s, ETA 2h5m49s
+Checks:                 0 / 0, -, Listed 1
+Transferred:            0 / 1, 0%
+Elapsed time:      5m59.9s
+Transferring:
+ *                        AMIR Descrompimido.zip:  3% /8.352Gi, 1.064Mi/s, 2h8m42s
+
+2025/12/12 19:04:34 INFO  : 
+Transferred:   	  390.465 MiB / 8.352 GiB, 5%, 771.389 KiB/s, ETA 3h34s
+Checks:                 0 / 0, -, Listed 1
+Transferred:            0 / 1, 0%
+Elapsed time:       7m0.0s
+Transferring:
+ *                        AMIR Descrompimido.zip:  4% /8.352Gi, 753.902Ki/s, 3h4m45s
+
+2025/12/12 19:05:34 INFO  : 
+Transferred:   	  448.688 MiB / 8.352 GiB, 5%, 985.965 KiB/s, ETA 2h20m15s
+Checks:                 0 / 0, -, Listed 1
+Transferred:            0 / 1, 0%
+Elapsed time:      7m59.9s
+Transferring:
+ *                        AMIR Descrompimido.zip:  5% /8.352Gi, 982.287Ki/s, 2h20m47s
+
+2025/12/12 19:06:34 INFO  : 
+Transferred:   	  487.340 MiB / 8.352 GiB, 6%, 556.026 KiB/s, ETA 4h7m32s
+Checks:                 0 / 0, -, Listed 1
+Transferred:            0 / 1, 0%
+Elapsed time:       9m0.0s
+Transferring:
+ *                        AMIR Descrompimido.zip:  5% /8.352Gi, 539.744Ki/s, 4h15m0s
+
+2025/12/12 19:07:34 INFO  : 
+Transferred:   	  507.090 MiB / 8.352 GiB, 6%, 302.630 KiB/s, ETA 7h33m41s
+Checks:                 0 / 0, -, Listed 1
+Transferred:            0 / 1, 0%
+Elapsed time:      10m0.0s
+Transferring:
+ *                        AMIR Descrompimido.zip:  5% /8.352Gi, 297.841Ki/s, 7h40m58s
+
+2025/12/12 19:08:34 INFO  : 
+Transferred:   	  530.934 MiB / 8.352 GiB, 6%, 544.377 KiB/s, ETA 4h11m27s
+Checks:                 0 / 0, -, Listed 1
+Transferred:            0 / 1, 0%
+Elapsed time:      11m0.0s
+Transferring:
+ *                        AMIR Descrompimido.zip:  6% /8.352Gi, 542.907Ki/s, 4h12m8s
+
+2025/12/12 19:09:34 INFO  : 
+Transferred:   	  568.438 MiB / 8.352 GiB, 7%, 428.166 KiB/s, ETA 5h18m13s
+Checks:                 0 / 0, -, Listed 1
+Transferred:            0 / 1, 0%
+Elapsed time:      12m0.0s
+Transferring:
+ *                        AMIR Descrompimido.zip:  6% /8.352Gi, 442.510Ki/s, 5h7m54s
+
