@@ -90,6 +90,12 @@ Desktop.ini
 .env
 .env.local
 .env.*.local
+.env.save
+
+# Migration Kit - sensitive files (API keys!)
+MIGRATION_KIT/ENV_MIGRATION_NEUES_MACBOOK.md
+MIGRATION_KIT/env_migration_encrypted.zip
+MIGRATION_KIT/*.zip
 
 # Documentation build artifacts
 docs/_build/
