@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Fahrradunfall mit Polytrauma (SHT, Sternum- und Tibiakopffraktur)",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Kniegelenkschmerzen",
+      "Thoraxschmerzen",
+      "Erbrechen"
+    ],
+    "accident_mechanism": "Fahrradunfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Dyspnoe",
+      "Schmerzen",
+      "schwieriges Sprechen"
+    ],
+    "imaging_findings": [
+      "Sternumfraktur im Röntgen (seitliche Aufnahme)",
+      "Tibiakopffraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schädel-Hirn-Trauma mit Erbrechen",
+      "Sternumfraktur",
+      "Tibiakopffraktur"
+    ],
+    "diagnostic_approach": [
+      "Vitalparameter",
+      "gezielte körperliche Untersuchung",
+      "Röntgen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Sturz im Krankenhaus mit Femurhalsfraktur bei 67-jähriger Patientin",
+    "patient_age": "67 Jahre",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Oberschenkelschmerzen",
+      "Bewegungseinschränkung",
+      "sehr starke Schmerzen"
+    ],
+    "accident_mechanism": "Sturz im Krankenhauszimmer während stationärem Aufenthalt für geplante neurochirurgische Operation (Meningiom-Entfernung)",
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 2",
+      "Meningiom"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Zustand nach Cholezystektomie (laparoskopisch)"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Bewegungseinschränkung",
+      "sehr starke Schmerzen bei Bewegung"
+    ],
+    "imaging_findings": [
+      "Röntgen: Femurhalsfraktur mit Dislokation (Garden-Klassifikation erwähnt)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Femurhalsfraktur (Verdachtsdiagnose)",
+      "Femurkopffraktur (Differentialdiagnose)",
+      "Azetabulumfraktur (Differentialdiagnose)"
+    ],
+    "diagnostic_approach": [
+      "Körperliche Untersuchung",
+      "Röntgen",
+      "Fingerverband angelegt"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

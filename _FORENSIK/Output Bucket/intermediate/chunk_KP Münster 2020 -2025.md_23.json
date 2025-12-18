@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"CRPS nach distaler Unterarmfraktur\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"chronische Schmerzen\", \"Taubheit\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"distale Unterarmfraktur vor 6 Jahren (konservativ behandelt)\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"CRPS (Complex regional pain syndrome)\", \"Morbus Sudeck\"],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

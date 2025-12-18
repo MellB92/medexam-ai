@@ -1,0 +1,154 @@
+[
+  {
+    "title": "Allergisches Asthma bronchiale bei Bäckerei-Arbeiterin mit Z.n. Schulterluxation",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Atemnot-Attacken",
+      "Husten",
+      "Auswurf"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Schulterluxation vor ein paar Wochen, manuell reponiert"
+    ],
+    "comorbidities": [
+      "Eisenmangel-Anämie"
+    ],
+    "risk_factors": [
+      "Arbeit in Bäckerei (allergische Exposition)"
+    ],
+    "family_history": [],
+    "social_history": [
+      "arbeitet in einer Bäckerei"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "vitale Parameter geprüft",
+      "Lunge untersucht",
+      "Herz untersucht",
+      "Abdomen untersucht",
+      "Extremitäten untersucht",
+      "Schulter untersucht",
+      "Knie-Reflexe untersucht"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Eosinophilie (passend zu allergischem Asthma)",
+      "Eisenmangel-Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Asthma Bronchiale",
+      "Panik Attack",
+      "COPD",
+      "Bronchitis",
+      "Herzinsuffizienz",
+      "atypische Angina Pectoris"
+    ],
+    "diagnostic_approach": [
+      "Fluss-Volumen-Kurve (FEV1, TLC, RV, VC)",
+      "Labor (Eosinophile, Eisenwerte)",
+      "körperliche Untersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "COPD vs. Asthma mit Eisenmangel-Anämie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Atemnot"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [
+      "Anämie"
+    ],
+    "risk_factors": [
+      "türkische Herkunft (Thalassämie-Risiko)"
+    ],
+    "family_history": [],
+    "social_history": [
+      "stammt aus der Türkei"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Eisenmangel-Anämie",
+      "Thalassämie als DD bei türkischer Herkunft"
+    ],
+    "suspected_diagnosis": [
+      "COPD",
+      "Asthma"
+    ],
+    "diagnostic_approach": [
+      "Labor zur Anämie-Differenzierung",
+      "Spirometrie zur COPD/Asthma-Differenzierung",
+      "Abklärung Magen-Darm-Erkrankungen als Ursache der Anämie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Allergisches Asthma mit Z.n. Schulterluxation",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Atemnot-Attacken",
+      "Husten",
+      "Auswurf"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Schulterluxation vor ein paar Wochen, manuell reponiert"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck gemessen",
+      "Herzfrequenz gemessen"
+    ],
+    "physical_examination": [
+      "Lunge",
+      "Herz",
+      "Abdomen",
+      "Extremitäten",
+      "Puls",
+      "Schulter",
+      "alle Reflexe",
+      "Vibration mit Diapason geprüft"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "allergisches Asthma",
+      "Panik Attack",
+      "COPD",
+      "Bronchitis",
+      "Herzinsuffizienz",
+      "atypische Angina Pectoris"
+    ],
+    "diagnostic_approach": [
+      "Fluss-Volumen-Kurve (FEV1, TLC, RV, VC)",
+      "körperliche Untersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

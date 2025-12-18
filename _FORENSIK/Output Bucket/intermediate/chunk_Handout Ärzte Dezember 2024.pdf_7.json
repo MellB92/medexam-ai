@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 8/9) aus dem \"Handout Ärzte Dezember 2024.pdf\" enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer Abschnitt behandelt ausschließlich:\n\n1. **Qualitätssicherung** (DIN 6868, Abnahmeprüfungen, Konstanzprüfungen)\n2. **Strahlenschutz-Grundlagen** (Strahlenbelastung verschiedener Untersuchungen)\n3. **Dosisangaben** für verschiedene Röntgenuntersuchungen:\n   - Thorax: 0,02-0,05 mSv\n   - Extremitäten: 0,01-0,1 mSv\n   - CT-Untersuchungen: 2-15 mSv\n   - Durchleuchtungen: 1-18 mSv\n4. **Strahlenschutzmaßnahmen** (Einblendung, Bleiabdeckung, Dosismodulation)\n5. **Bildgebende Diagnostik bei Kindern** (allgemeine Empfehlungen, keine Einzelfälle)\n6. **Natürliche Strahlenexposition** (kosmische Strahlung, Radon)\n7. **Spezielle Protokolle** (z.B. Skelettstatus bei Kindesmisshandlung - als Protokoll, nicht als Fall)\n\nEs handelt sich um ein **Lehrdokument/Handout** mit theoretischen Informationen und technischen Richtlinien, **nicht um Fallsammlungen**."
+  }
+]

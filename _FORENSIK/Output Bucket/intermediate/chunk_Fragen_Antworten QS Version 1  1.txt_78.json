@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Klassifikationssystemen** (AO 44-B/C, Weber B/C)\n2. **Standardisierten Behandlungsprotokollen** für verschiedene Frakturtypen:\n   - Primärversorgung (Schmerztherapie, Reposition, etc.)\n   - Definitive operative Versorgung\n   - Postoperative Nachbehandlung\n3. **Komplikationslisten** (Früh- und Spätkomplikationen)\n4. **Arbeitsunfähigkeitsrichtlinien**\n\nEs handelt sich um **theoretisches Wissen/Leitlinien** zur Behandlung von Sprunggelenksfrakturen, **nicht um konkrete Patientenfälle** mit spezifischen:\n- Patienten (Alter, Geschlecht)\n- Individuellen Beschwerden\n- Spezifischem Unfallmechanismus\n- Konkreten Untersuchungsbefunden\n\nDies ist typisches Lehrbuchmaterial oder ein Behandlungsalgorithmus, kein klinischer Präsentationsfall."
+  }
+]

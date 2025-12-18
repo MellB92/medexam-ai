@@ -1,0 +1,52 @@
+[
+  {
+    "title": "GERD mit typischen Refluxbeschwerden (Herr Becker)",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "typische Refluxbeschwerden",
+      "hektisches Verhalten",
+      "wechselte während Anamnese zwischen verschiedenen Themen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Berufstätig",
+      "Tochter vorhanden",
+      "Mutter erwähnt"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck gemessen"
+    ],
+    "physical_examination": [
+      "körperliche Untersuchung durchgeführt",
+      "Patient entkleidet und auf Liege untersucht"
+    ],
+    "imaging_findings": [
+      "endoskopische Bilder mit Los-Angeles-Klassifikation (A-D)",
+      "Barrett-Ösophagus"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "GERD",
+      "Barrett-Ösophagus"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung",
+      "Blutdruckmessung",
+      "Blutentnahme geplant",
+      "weitere Untersuchungen geplant",
+      "Endoskopie (ÖGD)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

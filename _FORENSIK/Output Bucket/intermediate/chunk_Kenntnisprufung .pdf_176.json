@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Kreuzbandruptur nach Unfall an Bushaltestelle",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Starke Schmerzen im linken Kniegelenk",
+      "Abschürfung an der rechten Hand"
+    ],
+    "accident_mechanism": "Unfall an der Bushaltestelle, rechtes Knie verdreht, auf die rechte Seite gefallen",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Unfall an Bushaltestelle - relevante Frage ob auf dem Weg zur Arbeit (Unfallversicherung)"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "pDMS durchgeführt",
+      "Orthopädische Untersuchung des Kniegelenks aufgrund der Schmerzen nicht durchführbar"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kreuzbandruptur",
+      "Verletzung des medialen Seitenbands",
+      "Unhappy-Triad",
+      "Verletzungen der Patellasehnen"
+    ],
+    "diagnostic_approach": [
+      "Anamnese inkl. Allergieanamnese",
+      "Tetanus-Impfstatus abfragen",
+      "Körperliche Untersuchung",
+      "pDMS-Untersuchung",
+      "Orthopädische Untersuchung des Kniegelenks",
+      "Bandapparat des Kniegelenks prüfen"
+    ],
+    "treatment_response": [
+      "Schmerzmittel nach Allergieanamnese angeboten"
+    ],
+    "complications": [],
+    "follow_up": [
+      "OP bei Kreuzbandruptur mit Sehnenrekonstruktion diskutiert"
+    ]
+  }
+]

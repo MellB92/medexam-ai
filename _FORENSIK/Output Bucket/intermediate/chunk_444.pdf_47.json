@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**, sondern ausschließlich:\n\n1. **Therapiealgorithmen für Divertikulitis** (Typ 2a, 2b, 2c, 3a, 3b, 3c, 4) - systematische Behandlungsempfehlungen ohne konkreten Patientenfall\n\n2. **Lehrbuchinformationen zu chronischer Gastritis**:\n   - Definition\n   - ABC-Klassifikation (Typ A, B, C)\n   - Allgemeine Klinik\n   - Diagnostische Verfahren\n   - Therapieempfehlungen\n   - Komplikationen\n\n3. **Beginn von Informationen zur akuten Gastritis** (Definition und Ursachen)\n\nEs handelt sich durchgehend um theoretisches, lehrbuchmäßiges Wissen ohne konkrete Patientenbeispiele, Fallpräsentationen oder individuelle klinische Szenarien."
+  }
+]

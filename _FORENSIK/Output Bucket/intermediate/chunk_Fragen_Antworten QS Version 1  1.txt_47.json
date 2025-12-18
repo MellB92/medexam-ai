@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 48/284) enthält **keine vollständigen klinischen Präsentationsfälle** mit konkreten Patienten.\n\nDer Text besteht aus:\n\n1. **Fortsetzung einer systematischen Darstellung zur Verbrennungsbehandlung** (Punkte 2-10):\n   - Neuner-Regel nach Wallace\n   - Erstversorgung\n   - Volumentherapie (Parkland-Formel)\n   - Indikationen zur stationären Aufnahme\n   - Spezielle Therapie\n   - Komplikationen\n   - Rechtliche Aspekte\n   - Prognose\n   - Nachsorge\n\n2. **Beginn einer neuen Frage (FRAGE 99)**: \"CT-Vorbereitung - welche Laborwerte, welche Medikamente absetzen?\"\n   - Diese Frage ist als \"incomplete\" markiert\n   - Es folgt nur der Beginn einer Antwort (\"Hier ist eine prüfungskonforme Antwort...\")\n   - Der Text bricht bei Punkt 1 ab\n\nBeide Abschnitte sind **theoretisches Lehrbuchwissen** und **allgemeine Fragen**, aber **keine konkreten Patientenfälle** mit spezifischen klinischen Präsentationen."
+  }
+]

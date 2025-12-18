@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 50/84) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Systematischer Lehrbuchdarstellung** zu verschiedenen Frakturtypen:\n   - Humerusfrakturen (4.12)\n   - Sprunggelenksfrakturen (4.13)\n   - Vordere Kreuzbandruptur (4.14 - am Ende abgeschnitten)\n\n2. **Strukturierte medizinische Fachinformation** mit standardisierten Abschnitten:\n   - Klassifikationen (z.B. Neer-Klassifikation, Weber-Klassifikation)\n   - Ätiologie\n   - Klinik\n   - Diagnostik\n   - Therapie\n   - Komplikationen\n\n3. **Allgemeine Lehrinhalte** ohne konkrete Patientenpräsentationen\n\nEs handelt sich um **Lernkarten** (wie im Dateinamen angegeben) mit theoretischem Wissen zur Prüfungsvorbereitung, nicht um Fallbeispiele mit spezifischen Patientendaten (Alter, Geschlecht, individuelle Anamnese, etc.)."
+  }
+]

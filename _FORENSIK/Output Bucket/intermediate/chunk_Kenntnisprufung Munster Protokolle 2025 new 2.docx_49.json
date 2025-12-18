@@ -1,0 +1,141 @@
+[
+  {
+    "title": "Kopfschmerzen mit Sepsisverdacht bei Vorerkrankungen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Seit gestern starke Kopfschmerzen, gesamter Kopfbereich",
+      "Tachypnoe",
+      "Dyspnoe",
+      "Fieber",
+      "Schüttelfrost",
+      "Polyurie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Diabetes mellitus"
+    ],
+    "medications": [
+      "Unbekannte Antihypertensiva",
+      "Unbekannte Antidiabetika"
+    ],
+    "allergies": [
+      "Penicillin",
+      "Pollen"
+    ],
+    "physical_examination": [
+      "Schmerzcharakter: Stechend, Intensität 8/10 auf der NRS",
+      "Keine Ausstrahlung",
+      "Keine Nacken- oder Kieferschmerzen",
+      "Kernig-Zeichen negativ",
+      "Brudzinski-Zeichen negativ"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Prolaktin erhöht",
+      "Tachykardie",
+      "Hypotonie",
+      "Fieber: 39°C"
+    ],
+    "suspected_diagnosis": [
+      "Sepsis",
+      "Meningitis"
+    ],
+    "diagnostic_approach": [
+      "Entzündungsparameter (CRP, PCT, BSG)",
+      "Blutbild",
+      "Elektrolyte",
+      "BGA",
+      "Blutkulturen",
+      "Liquorpunktion",
+      "qSOFA-Score",
+      "Kalkulierte Antibiotikatherapie",
+      "Volumentherapie (Kristalloide)",
+      "Frühzeitiges Sepsismanagement"
+    ]
+  },
+  {
+    "title": "Hämatemesis und Hypotonie bei Leberzirrhose",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Hämatemesis",
+      "Hypotonie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Leberzirrhose (alkoholbedingt)",
+      "Portale Hypertension"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Ikterus",
+      "Spider-Nävi",
+      "Palmarerythem",
+      "Aszites"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Ösophagusvarizenblutung",
+      "Hämorrhagischer Schock"
+    ],
+    "diagnostic_approach": [
+      "Akutes Management: Volumensubstitution",
+      "Risiko für hepatische Enzephalopathie",
+      "Risiko für hepatorenale Dysfunktion"
+    ]
+  },
+  {
+    "title": "Kolonkarzinom bei familiärer Belastung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Vater: Darmkrebs (verstorben mit 48 Jahren)"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Koloskopie mit Polyp-Entfernung",
+      "PET-CT diskutiert"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Familiär bedingtes Kolonkarzinom",
+      "Sporadisches Kolonkarzinom (bei Vater 68 Jahre)"
+    ],
+    "diagnostic_approach": [
+      "TNM-Staging",
+      "Koloskopie",
+      "Diskussion über genetische Prädisposition"
+    ]
+  },
+  {
+    "title": "Femurschaftfraktur mit Komplikationsrisiko",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Dislozierte Fraktur"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Femurschaftfraktur",
+      "Risiko: Heilungsstörung",
+      "Risiko: Osteomyelitis"
+    ],
+    "diagnostic_approach": [
+      "Externe Fixation"
+    ]
+  }
+]

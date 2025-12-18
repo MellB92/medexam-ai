@@ -1,0 +1,137 @@
+[
+  {
+    "title": "pAVK mit Claudicatio intermittens",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen, die nach einer bestimmten Strecke auftreten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "pAVK"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Cholezystolithiasis mit V.a. Cholezystitis",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Bandscheibenvorfall",
+      "Lyme Borreliose",
+      "Unterschenkelarmfraktur"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "CED bei Schwester",
+      "Lungen-CA bei Vater",
+      "TVT bei Mutter"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Murphy-Zeichen positiv"
+    ],
+    "imaging_findings": [
+      "Sonographie: Steine ohne deutliche Hinweise auf Cholezystitis"
+    ],
+    "laboratory_findings": [
+      "CRP erhöht",
+      "Leukozyten erhöht"
+    ],
+    "suspected_diagnosis": [
+      "Cholezystolithiasis",
+      "V.a. Cholezystitis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Kahnbeinfraktur mit Tabatière-Schmerz",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen bei Bewegung des Arms",
+      "Schmerzen in der Tabatière"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "kann Arm gut bewegen",
+      "Schmerzen bei Bewegung",
+      "Druckschmerz Tabatière"
+    ],
+    "imaging_findings": [
+      "Röntgen Unterarm: Kahnbein betroffen",
+      "Radius nicht ganz in Ordnung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kahnbeinfraktur"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Colitis ulcerosa",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Koloskopie-Bild",
+      "Röntgen: Fahrradschlauchzeichen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Colitis ulcerosa"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

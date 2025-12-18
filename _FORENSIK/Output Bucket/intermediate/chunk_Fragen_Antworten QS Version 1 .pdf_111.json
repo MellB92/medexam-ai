@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Plötzlicher Kreislaufstillstand in Praxis",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Patient fällt tot um"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Bewusstseinsverlust",
+      "Kreislaufstillstand"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kreislaufstillstand"
+    ],
+    "diagnostic_approach": [
+      "Bewusstsein prüfen (Ansprechen, Schmerzreiz)",
+      "Atemkontrolle max. 10 Sekunden",
+      "Carotispuls prüfen max. 10 Sekunden",
+      "Notruf 112",
+      "Sofortige Reanimation nach ERC-Leitlinien",
+      "30:2 Thoraxkompressionen/Beatmung",
+      "Frühestmögliche Defibrillation bei VF/pVT",
+      "i.v.-Zugang",
+      "Adrenalin 1mg i.v. alle 3-5 min",
+      "Amiodaron 300mg i.v. bei VF/pVT nach 3. Schock",
+      "Intubation erwägen"
+    ]
+  }
+]

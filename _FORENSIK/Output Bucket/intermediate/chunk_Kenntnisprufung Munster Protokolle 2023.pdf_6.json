@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Fahrradunfall mit Thorax- und Abdomentrauma, distale Radiusfraktur, Schädel-Hirn-Trauma",
+    "patient_age": "62J",
+    "patient_gender": "Frau",
+    "severity": "critical",
+    "chief_complaints": [
+      "Thorax- und Abdomentrauma",
+      "distale Radiusfraktur",
+      "Schädel-Hirn-Trauma"
+    ],
+    "accident_mechanism": "Fahrradunfall",
+    "suspected_diagnosis": [
+      "Pneumothorax/Hämatothorax",
+      "distale Radiusfraktur",
+      "Schädel-Hirn-Trauma (ICB, EDH, SDH)"
+    ],
+    "diagnostic_approach": [
+      "FAST-Sonographie",
+      "Röntgen Thorax und Abdomen",
+      "CT Schädel"
+    ]
+  }
+]

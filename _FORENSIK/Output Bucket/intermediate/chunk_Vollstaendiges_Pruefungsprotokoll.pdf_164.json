@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 165/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Prüfungsfragen mit Musterlösungen** zu theoretischem medizinischem Wissen:\n   - Lidocain (Definition)\n   - Säure vs. Lauge bei Augenverätzungen\n   - Rechtfertigende Indikation\n   - Akuttherapie bei Gicht\n   - Arterielle Blutung nach Messerstich (theoretische Frage)\n   - Medikamente bei Angina pectoris\n   - FAST vs. eFAST Sonographie\n   - Polytrauma-Management\n   - Schweigepflicht\n   - Diabetische Nephropathie\n   - Indirekter/partieller Agonist\n\n2. **Bildbeschreibungsaufgaben** ohne vollständige Patientenkontext:\n   - EKG-Beschreibung (STEMI, Vorderwandinfarkt)\n   - MRT-Leber (Echinokokkus-Zysten)\n\n**Keiner dieser Einträge stellt einen vollständigen klinischen Präsentationsfall dar**, da sie:\n- Keine Patientenvorstellung mit Anamnese enthalten\n- Nur isolierte Wissensfragen sind\n- Keine zusammenhängende Falldarstellung bieten\n- Teil eines Prüfungsprotokolls sind, nicht einer Falldokumentation"
+  }
+]

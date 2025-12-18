@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Eisenmangelanämie bei 50+-jährigem Mann mit gastrointestinaler Blutung",
+    "patient_age": "über 50",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Anämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus (Metformin-Einnahme)",
+      "Vater verstorben an Myokardinfarkt mit 82 Jahren (KHK)",
+      "Mutter pflegebedürftig, kürzlich Pneumonie"
+    ],
+    "medications": [
+      "Diclofenac ohne PPI",
+      "Metformin"
+    ],
+    "allergies": [
+      "Nickel",
+      "Ex-Raucher (40 Jahre), seit 5 Jahren rauchfrei",
+      "Alkohol: 1-2 Bier am Wochenende"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Abdomen-Sonographie geplant"
+    ],
+    "laboratory_findings": [
+      "Eisenmangelanämie"
+    ],
+    "suspected_diagnosis": [
+      "Eisenmangelanämie durch gastrointestinale Blutung (unter Diclofenac ohne PPI)",
+      "Kolonkarzinom (DD bei Männern über 50 mit Anämie)",
+      "Vitamin-B12-Mangel (Metformin, Ernährung)"
+    ],
+    "diagnostic_approach": [
+      "Blutbild",
+      "Eisen, Ferritin, Transferrinsättigung",
+      "Vitamin B12, Folsäure",
+      "Nierenwerte (Kreatinin, eGFR)",
+      "Leberwerte",
+      "CRP, BSG",
+      "TSH",
+      "Blutzucker, HbA1c",
+      "Hämokult-Test (Stuhldiagnostik)",
+      "Abdomen-Sonographie",
+      "Ösophagogastroduodenoskopie (ÖGD)",
+      "Koloskopie"
+    ]
+  },
+  {
+    "title": "Junger sportlicher Patient mit Perikarditis",
+    "patient_age": "jung",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Fieber",
+      "Leistungsminderung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "sportlich"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Kardiomegalie im Röntgen-Thorax",
+      "Echokardiographie indiziert"
+    ],
+    "laboratory_findings": [
+      "Entzündungsparameter",
+      "Troponin",
+      "CK-MB",
+      "NT-proBNP"
+    ],
+    "suspected_diagnosis": [
+      "Perikarditis (viral, bakteriell, autoimmun, urämisch, neoplastisch, traumatisch, idiopathisch)"
+    ],
+    "diagnostic_approach": [
+      "Blutbild",
+      "CRP, BSG",
+      "Troponin, CK-MB",
+      "NT-proBNP",
+      "Blutkulturen",
+      "Schilddrüsenwerte",
+      "Autoantikörper",
+      "Echokardiographie"
+    ]
+  },
+  {
+    "title": "Fortgeschrittene Koxarthrose",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild Becken: Gelenkspaltverschmälerung",
+      "Sklerosierung der subchondralen Knochenplatte",
+      "Osteophytenbildung",
+      "ggf. Zystenbildung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Fortgeschrittene Koxarthrose"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Becken"
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Colitis ulcerosa mit kolikartigen Schmerzen und Meläna",
+    "patient_age": "31-jährige",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Seit 6 Monaten anhaltende, progrediente kolikartige Schmerzen im linken Oberbauch-Quadranten",
+      "Meläna mit frischem Blut und Schleimhautverbindung",
+      "Nächtlicher Toilettenbedarf",
+      "Tenesmenartiger Stuhlgang",
+      "Allgemeines Leidensgefühl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Gilbert-Syndrom (Meulengracht) - vor 16 Jahren diagnostiziert"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Subfebrile Temperaturen bis 37,8 Grad",
+      "Inappetenz",
+      "Antriebsminderung",
+      "Blasses Hautkolorit",
+      "Gewichtsreduktion (von Patientin vermieden zu beantworten)"
+    ],
+    "imaging_findings": [
+      "Koloskopie: Weiße Beläge auf der Schleimhaut (Fibrinablagerungen)"
+    ],
+    "laboratory_findings": [
+      "Hämoglobin",
+      "TBC, MHC, MCV (erwähnt als zu untersuchende Parameter)"
+    ],
+    "suspected_diagnosis": [
+      "Colitis ulcerosa (Hauptdiagnose aufgrund des jungen Alters)",
+      "Akute Divertikulitis (DD - eher bei älteren Patienten)",
+      "CED",
+      "Kolonkarzinom",
+      "Rektumkarzinom"
+    ],
+    "diagnostic_approach": [
+      "Laboruntersuchungen (Hämoglobin, TBC, MHC, MCV)",
+      "Abdomensonographie (auf freie Flüssigkeit achten)",
+      "Digitalrektale Untersuchung",
+      "Rektoskopie",
+      "Koloskopie"
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Dekompensierte Herzinsuffizienz nach Infektion bei Diabetikerin",
+    "patient_age": "65J",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "ausgeprägte Erschöpfung seit 4 Wochen",
+      "Belastungsdyspnoe",
+      "Unterschenkelödeme beidseits neu aufgetreten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 2"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Diabetes mellitus Typ 2"
+    ],
+    "family_history": [
+      "Mutter Diabetes mellitus Typ 2, lebt noch",
+      "Vater Bluterkrankung mit regelmäßigem Aderlass"
+    ],
+    "social_history": [],
+    "medications": [
+      "Metformin 3x500mg",
+      "Vitamin D",
+      "Augentropfen"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "RR 170/90 mmHg"
+    ],
+    "physical_examination": [
+      "Unterschenkelödeme beidseits",
+      "klinische Untersuchung allgemein",
+      "neurologische Untersuchung"
+    ],
+    "imaging_findings": [
+      "Echokardiographie: 3-Kammerblick",
+      "Echokardiographie: 2-Kammer mit Perikarderguss"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Dekompensierte Herzinsuffizienz",
+      "Anämie",
+      "Myokarditis/Endokarditis"
+    ],
+    "diagnostic_approach": [
+      "Echokardiographie",
+      "COVID-19-Testung 2x negativ"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "vor 4 Wochen Infekt: Husten ohne Auswurf, Gliederschmerzen, Fieber 39°C, Schüttelfrost, Schwitzen",
+      "seitdem komplette Symptomatik aufgetreten",
+      "keine Gewichtszunahme/-abnahme",
+      "keine Palpitationen",
+      "keine AP-Beschwerden"
+    ]
+  },
+  {
+    "title": "Multiples Myelom mit Lumbalgie und B-Symptomatik",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "Lumbalgie",
+      "mehrere Hämatome",
+      "B-Symptomatik"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [
+      "akute Niereninsuffizienz",
+      "Nierenveränderungen",
+      "Hypokalzämie"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "klinische Untersuchung problemlos",
+      "ohne besondere Auffälligkeiten"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "extrem erhöhte Blutsenkungsgeschwindigkeit beim Hausarzt",
+      "Urinveränderungen bei ambulanter Urinuntersuchung",
+      "Elektrophorese mit M-Gradient",
+      "Proteinurie"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom"
+    ],
+    "diagnostic_approach": [
+      "Elektrophorese",
+      "ambulante Urinuntersuchung",
+      "CRAB-Kriterien",
+      "SLiM-Kriterien"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Nierenveränderungen",
+      "Proteinurie"
+    ],
+    "follow_up": [
+      "Therapie: supportive Therapie bei Hypokalzämie und ANI",
+      "Chemotherapie geplant",
+      "eventuell Stammzelltransplantation"
+    ]
+  }
+]

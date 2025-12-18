@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Hämaturie mit 'Micky-Maus'-Erythrozyten",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Hämaturie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Dysmorphe Erythrozyten ('Micky-Maus-Erythrozyten') im Sediment",
+      "40% dysmorphe Erythrozyten = Hinweis auf glomeruläre Genese",
+      "80% dysmorphe Erythrozyten = sicher glomerulär"
+    ],
+    "suspected_diagnosis": [
+      "Glomeruläre Hämaturie",
+      "Glomerulonephritis (akut/chronisch)",
+      "IgA-Nephropathie",
+      "Goodpasture-Syndrom",
+      "Lupusnephritis",
+      "Vaskulitiden"
+    ],
+    "diagnostic_approach": [
+      "Mikroskopische Urinuntersuchung mit Sediment",
+      "Bestimmung des Anteils dysmorpher Erythrozyten",
+      "Unterscheidung glomeruläre vs. nicht-glomeruläre Hämaturie"
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Anaphylaktischer Schock nach Wespenstich im Garten",
+    "patient_age": "ältere Frau (Alter nicht spezifiziert)",
+    "patient_gender": "weiblich",
+    "severity": "critical",
+    "chief_complaints": [
+      "Schwellung von Lippen und Zunge",
+      "plötzliche Entwicklung nach wenigen Minuten"
+    ],
+    "accident_mechanism": "Wespenstich im Garten",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "war mit Freundinnen im Garten"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Allergische Reaktion",
+      "Anaphylaktischer Schock (distributiver Schock)",
+      "Wespenstich"
+    ],
+    "diagnostic_approach": [
+      "Notfallanamnese",
+      "gezielte körperliche Untersuchung"
+    ],
+    "treatment_response": [
+      "Adrenalin 0,5 mg i.m. in Oberschenkel",
+      "Sauerstoff",
+      "verdünnter Adrenalin in 9 ml NaCl (wenn erste Gabe nicht hilft)",
+      "Prednisolon 0,5-1 mg i.v."
+    ],
+    "complications": [
+      "mögliche Entwicklung zum anaphylaktischen Schock",
+      "Lebensgefahr",
+      "massive Vasodilatation und generalisierte Hypoperfusion",
+      "relative Hypovolämie"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Riesenzellarteriitis mit akuter Sehverschlechterung und Erblindungsgefahr",
+    "patient_age": "65 Jahre",
+    "patient_gender": "männlich",
+    "severity": "severe",
+    "chief_complaints": [
+      "seit heute Morgen plötzlich verschwommenes Sehen",
+      "AZ-Verschlechterung",
+      "seit 2 Wochen Kopfschmerzen",
+      "Kopfschmerzen verstärken sich durch Sprechen, Kauen, Schlucken",
+      "keine Besserung nach Einnahme von Paracetamol",
+      "vermehrtes Schwitzen in der 2. Nachthälfte (Nachtschweiß)",
+      "Durstgefühl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "V.D. Riesenzellarteriitis",
+      "arterielle Hypertonie (aHT)",
+      "Z.n. Schultergelenkfraktur im Alter von 21 Jahren (Osteosynthese)",
+      "Z.n. Schilddrüsenknotenextirpation im Alter von 48 Jahren (komplikationslos)",
+      "Z.n. Hepatitis vor 15 Jahren nach Reise in den Osten"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Raucher: 3 Zigaretten pro Tag",
+      "Alkohol: gelegentlich"
+    ],
+    "family_history": [
+      "Mutter 92 Jahre alt, gesund",
+      "Vater verstorben am Kolonkarzinom mit 75 Jahren",
+      "Schwester leide seit ca. 1 Woche an LAE (Lungenarterienembolie)",
+      "Bruder leide an Gicht"
+    ],
+    "social_history": [
+      "Rentner",
+      "vor 1 Jahr verwitwet",
+      "wohnt allein in einer Wohnung",
+      "hat zwei Söhne und einen Enkel (alle gesund)"
+    ],
+    "medications": [
+      "Candesartan Plus"
+    ],
+    "allergies": [
+      "Diclofenac (anaphylaktische Reaktion)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "typisches Bild einer Arteriitis temporalis",
+      "komplette körperliche Untersuchung durchgeführt",
+      "neurologische Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Arteriitis temporalis",
+      "Riesenzellarteriitis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "sofortige Gabe von Prednisolon 1000 mg i.v.",
+      "weitere Umstellung auf p.o. 5 mg/kg über ca. 24 Monate"
+    ],
+    "complications": [
+      "mögliche Erblindungsgefahr"
+    ],
+    "follow_up": [
+      "Therapie über ca. 24 Monate"
+    ]
+  }
+]

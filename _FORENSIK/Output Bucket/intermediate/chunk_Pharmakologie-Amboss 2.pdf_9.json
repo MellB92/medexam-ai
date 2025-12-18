@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Pharmakologischen Informationen** über orale Antikoagulantien (Cumarine, direkte Faktor-Xa-Inhibitoren, direkte Thrombin-Inhibitoren)\n2. **Nebenwirkungen** (z.B. Cumarin-Nekrose, Blutungsrisiko)\n3. **Indikationen** für verschiedene Antikoagulantien\n4. **Kontraindikationen** (generelle und spezielle)\n5. **Interaktionen** (Wirkungsverstärkung/-abschwächung)\n6. **Therapieempfehlungen** (Bridging-Konzept)\n\nEs werden zwar klinische Situationen beschrieben (z.B. \"Cumarin-Nekrose: Nekrose zumeist kutan und/oder in subkutanem Fettgewebe\"), aber dies sind **theoretische Beschreibungen von Krankheitsbildern**, nicht konkrete Patientenfälle mit individueller Anamnese, Untersuchungsbefunden oder diagnostischem Vorgehen.\n\nEs gibt keine spezifischen Patienten mit Alter, Geschlecht, Beschwerden und einem konkreten klinischen Verlauf."
+  }
+]

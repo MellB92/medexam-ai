@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Theoretischem Wissen über Komplikationen der digitalen rektalen Untersuchung (DRU):**\n   - Auflistung möglicher Komplikationen (Schmerzen, Blutungen, vagale Reaktionen, Perforationen, etc.)\n   - Kontraindikationen\n   - Präventive Maßnahmen\n   - Komplikationsmanagement\n   - Dies ist rein theoretisches, lehrbuchartiges Wissen ohne konkreten Patientenfall\n\n2. **Fragment einer Frage (FRAGE 275):**\n   - \"Welche Nerven bei Plattenosteosynthese Radius verletzt?\"\n   - Die Antwort beginnt mit theoretischer Anatomie (N. radialis superficialis, etc.)\n   - Der Text ist **unvollständig** (bricht mit \"-\" am Ende ab)\n   - Es handelt sich um eine anatomische Wissensfrage, **nicht um einen Patientenfall**\n\nEs gibt keine Präsentation eines konkreten Patienten mit Alter, Geschlecht, Beschwerden, Unfallmechanismus oder klinischen Befunden."
+  }
+]

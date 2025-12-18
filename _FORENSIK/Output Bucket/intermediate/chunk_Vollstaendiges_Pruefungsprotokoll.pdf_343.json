@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Linksseitiger Pneumothorax mit Teilkollaps",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax: Linksseitiger Pneumothorax mit Teilkollaps der linken Lunge"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Linksseitiger Pneumothorax",
+      "Gefahr: Spannungspneumothorax mit Ventilmechanismus"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax"
+    ]
+  }
+]

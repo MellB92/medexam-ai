@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Belastungsabhängige Thoraxschmerzen mit Ausstrahlung in linken Arm",
+    "patient_age": "63-jährig",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Unter Belastung auftretende Thoraxschmerzen",
+      "Ausstrahlung in den linken Arm",
+      "Schmerzen sistieren in Ruhe nach 4 Minuten",
+      "Gelegentliches lage- und nahrungsabhängiges Sodbrennen",
+      "Chronische Obstipation seit mehr als 10 Jahren"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Diabetes mellitus Typ 2",
+      "Chronische Obstipation seit über 10 Jahren",
+      "Sodbrennen seit Jahren",
+      "Familiäre Disposition für kardiovaskuläre Erkrankungen"
+    ],
+    "medications": [
+      "ACE-Hemmer (gegen arterielle Hypertonie)",
+      "Metformin (für Diabetes mellitus Typ 2)",
+      "Bisacodyl (bei Bedarf gegen Obstipation)"
+    ],
+    "allergies": [
+      "Nikotinabusus 60 Packungsjahre"
+    ],
+    "physical_examination": [
+      "Vitalparameter gemessen",
+      "Blutdruck beidseitig gemessen",
+      "Ausführliche kardiologische körperliche Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [
+      "EKG beim Hausarzt unauffällig"
+    ],
+    "laboratory_findings": [
+      "Schnellstrop-Test beim Hausarzt unauffällig"
+    ],
+    "suspected_diagnosis": [
+      "Angina de novo - instabile Angina bei Patient mit erhöhten kardiovaskulären Risikofaktoren",
+      "DD: STEMI",
+      "DD: NSTEMI",
+      "DD: Aortendissektion",
+      "DD: Lungenarterienembolie",
+      "DD: GERD (gastroösophageale Refluxkrankheit)"
+    ],
+    "diagnostic_approach": [
+      "Apparative und ärztliche Monitoring",
+      "12-Kanal-Bett-EKG mit eventuell erweiterten Ableitungen (Fragestellung: Ischämiezeichen)",
+      "Transthorakale Echokardiographie (WBST, AI, Rechtherzbelastung, EF)",
+      "Labor: Troponin, CK, CK-MB, D-Dimer",
+      "Zum Ausschluss STEMI/NSTEMI nach ESC-Kriterien",
+      "Zum Ausschluss Aortendissektion nach ADD-Score mit eventuell CT-Angiographie",
+      "Zum Ausschluss LAE nach Wells-Score mit eventuell CT-Angiographie",
+      "Je nach Befund: Koronarangiographie, CT, OP, Antikoagulation und Lyse"
+    ]
+  },
+  {
+    "title": "Linksseitige Brustschmerzen mit Ausstrahlung in linke Schulter",
+    "patient_age": "63 Jahre",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Linksseitige Brustschmerzen",
+      "Ausstrahlung in die linke Schulter"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Diabetes mellitus",
+      "Hypothyreose"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Patient verneint aktuell Brustschmerzen",
+      "Patient kann gut Luft bekommen",
+      "Körperliche Untersuchung nicht vollständig durchgeführt (Zeitmangel)"
+    ],
+    "imaging_findings": [
+      "EKG beim Hausarzt war unauffällig"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "KHK (koronare Herzkrankheit)",
+      "Initial fälschlich als Herzinsuffizienz angegeben"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Körperliche Untersuchung (nur wichtigste Teile)"
+    ]
+  }
+]

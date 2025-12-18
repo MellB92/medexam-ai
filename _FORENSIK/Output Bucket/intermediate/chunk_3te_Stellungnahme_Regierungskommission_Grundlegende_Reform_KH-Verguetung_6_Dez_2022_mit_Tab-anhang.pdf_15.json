@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. \n\nEs handelt sich ausschließlich um:\n\n1. **OPS-Katalog-Listen** (Operationen- und Prozedurenschlüssel) - systematische Auflistungen von Prozedurencodes für:\n   - Hämodialyse/Hämodiafiltration (kontinuierlich, verschiedene Antikoagulationsarten, verschiedene Zeitdauern)\n   - Monitoring von Atmung, Herz und Kreislauf\n   - Intensivmedizinische Komplexbehandlungen\n   - Diagnostische Endoskopien (Tracheobronchoskopie, Ösophagoskopie, Gastroskopie etc.)\n   - Infektiologisches Monitoring\n   - Pleurapunktion\n\n2. **Tabellen A2** - Teil einer administrativen/abrechnungstechnischen Dokumentation zur Kategorisierung von Leistungsgruppen im Intensivmedizin-Bereich (Level 1 und Level 2)\n\n3. **Keine narrativen Patientengeschichten**, keine Anamnesen, keine Fallbeschreibungen, keine klinischen Präsentationen\n\nDies ist ein reines **Verwaltungs-/Abrechnungsdokument** der Regierungskommission zur Reform der Krankenhausvergütung mit OPS-Code-Auflistungen."
+  }
+]

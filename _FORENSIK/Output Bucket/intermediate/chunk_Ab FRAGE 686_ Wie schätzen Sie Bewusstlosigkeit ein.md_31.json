@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 32/32) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Inhalt besteht ausschließlich aus:\n\n1. **Frage 58-60**: Theoretische Fragen zu Verschreibungsrechten und Arbeitsunfähigkeitsbescheinigungen (reine Rechtsfragen, kein Patientenfall)\n\n2. **Frage 61-63**: Bildinterpretationsfragen zu Röntgenbefunden eines Kniegelenks\n   - Diese sind **fragmentarisch** und zeigen nur Befundungsschema/Systematik\n   - **KEIN vollständiger Patientenfall** mit Anamnese, Vorgeschichte, klinischer Präsentation\n   - Nur isolierte Befundungstechnik ohne Patientenkontext\n\n3. **Qualitätskontrolle-Sektion**: Metainformation über die Validierung des Dokuments\n\n**Keine der Fragen erfüllt die Kriterien eines \"klinischen Präsentationsfalls\"** mit Patientenanamnese, Beschwerden, Untersuchungsbefunden und diagnostischem Vorgehen."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Einer fragmentierten Liste** am Anfang (Diagnosestellung, Therapieplanung, Rehabilitationskonzept, Prognoseeinschätzung) - ohne klinischen Kontext\n\n2. **FRAGE 103**: Eine theoretische Prüfungsfrage zu \"Komplikationen und chirurgische Behandlungen der GERD\" mit einer vollständigen, aber **rein theoretischen Antwort**\n\nDie Antwort zu FRAGE 103 enthält:\n- Komplikationsliste der GERD\n- Indikationen zur OP\n- Operative Verfahren\n- OP-Komplikationen\n- Nachsorge\n\nDies ist **Lehrbuchwissen/Theoriewissen** ohne konkreten Patientenfall. Es gibt:\n- Keinen spezifischen Patienten\n- Keine Anamnese\n- Keine Beschwerdeschilderung\n- Keinen Unfallhergang\n- Keine spezifischen Untersuchungsbefunde eines Einzelfalls\n\n**Fazit:** Keine extrahierbaren klinischen Fälle vorhanden."
+  }
+]

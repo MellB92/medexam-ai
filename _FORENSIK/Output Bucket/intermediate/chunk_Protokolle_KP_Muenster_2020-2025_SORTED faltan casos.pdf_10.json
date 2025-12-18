@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Pyelonephritis bei 35-jähriger Diabetikerin",
+    "patient_age": "35 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Linke Flankenschmerzen",
+      "Harnwegsinfekt-Symptomatik",
+      "Übelkeit",
+      "Fieber",
+      "Urindrang",
+      "Pollakisurie",
+      "Appetitlosigkeit",
+      "verminderte Flüssigkeitszufuhr"
+    ],
+    "accident_mechanism": "Sportverletzung beim Tennis oder Badminton (linkes Knie)",
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 1 (Insulinpumpe)",
+      "Asthma (Sport-Asthma)",
+      "Obstipation (gelegentlich mit Zäpfchen behandelt)"
+    ],
+    "medications": [
+      "Insulin (Pumpe)",
+      "Zäpfchen bei Obstipation"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Verletzung im Finger wegen BZ-Messung (Verbandsbedarf)",
+      "Linke Knieverletzung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "BZ nicht gemessen"
+    ],
+    "suspected_diagnosis": [
+      "Pyelonephritis",
+      "Akuter Thoraxschmerz (DD kardial, Lunge, Aorta, Pleura, Ösophagus/Boerhaave-Syndrom)",
+      "Chirurgische Ursachen: Tumor (Urothelkarzinom), Nierensteine",
+      "Retroperitoneale Ursachen: Morbus Ormond, Colitis ulcerosa"
+    ],
+    "diagnostic_approach": [
+      "Anamnese inkl. Noxen",
+      "Körperliche Untersuchung (beschwerdenfokussiert)",
+      "Labor",
+      "Bericht mit Verdachtsdiagnose, Differentialdiagnosen, Behandlung, Epikrise erstellen"
+    ]
+  }
+]

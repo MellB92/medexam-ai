@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Außenknöchelfraktur (Weber B) nach Umknicken mit Synkope",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen im Außenknöchel"
+    ],
+    "accident_mechanism": "Patientin ist umgeknickt (möglicherweise auf dem Weg zur Arbeit)",
+    "pre_existing_conditions": [
+      "rezidivierende Entzündung der Nasennebenhöhle"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter: Diabetes mellitus Typ II (nicht insulinpflichtig), Osteoporose",
+      "Vater: Nierentransplantation, Weißhautkrebs auf der Nase"
+    ],
+    "social_history": [
+      "verheiratet",
+      "3 Kinder"
+    ],
+    "medications": [
+      "bei Bedarf Ibuprofen",
+      "Nasenspray bei Nasennebenhöhlenentzündung"
+    ],
+    "allergies": [
+      "Pollen",
+      "Haselnuss",
+      "fraglich Nickel (Hautrötung nach Schmucktragen)"
+    ],
+    "vital_signs": [
+      "während Untersuchung: blass, kaltschweißig, schwarz vor Augen, Tachypnoe"
+    ],
+    "physical_examination": [
+      "Patientin kam mit Krücken",
+      "Palpation: Klopf- und Druckschmerzen im Außenknöchel",
+      "laterale und mediale Bandstabilität des OSG geprüft",
+      "kein Druckschmerz in Fibula proximal (Maisonneuve-Fraktur ausgeschlossen)",
+      "Thrombosezeichen negativ",
+      "Kniegelenk: Patellaverschieblichkeit geprüft, tanzende Patella, kein Gelenkerguss",
+      "Innen- und Außenmeniskuszeichen, mediale und laterale Aufklappbarkeit, vordere und hintere Schublade, Lachmann-Test, Schneidersitz, Steinmann I-Zeichen",
+      "Schilddrüse von hinten palpiert, Schlucken überprüft"
+    ],
+    "imaging_findings": [
+      "Röntgen OSG in 2 Ebenen (AP und lateral): Außenknöchelfraktur Weber B"
+    ],
+    "laboratory_findings": [
+      "EKG: normal",
+      "Troponin: normal"
+    ],
+    "suspected_diagnosis": [
+      "Außenknöchelfraktur Weber B"
+    ],
+    "diagnostic_approach": [
+      "Anamnese mit Sozial- und Familienanamnese",
+      "körperliche Untersuchung mit Ausschluss Maisonneuve-Fraktur und Thrombose",
+      "bei akuter Verschlechterung: Beine hochlagern, RR-Messung, Pulsoximetrie, EKG, venöser Zugang, Troponin, Infusion",
+      "Röntgen OSG in 2 Ebenen"
+    ],
+    "treatment_response": [
+      "nach initialer Synkope mit kardialen Symptomen: Besserung unter symptomatischer Therapie"
+    ],
+    "complications": [
+      "Synkope während Untersuchung mit retrosternalen Schmerzen (blass, kaltschweißig, Tachypnoe) - spontan reversibel, EKG und Troponin unauffällig"
+    ],
+    "follow_up": [
+      "stationäre Aufnahme indiziert",
+      "initial Ablehnung durch Patientin (muss sich um 3 Kinder kümmern)",
+      "Kontakt mit Sozialdienst zur Notbetreuung angeboten",
+      "Aufklärung über Komplikationen und Risiken",
+      "schriftliche Ablehnung der Behandlung sollte unterschrieben werden",
+      "nach erneuter Überlegung Einwilligung zur stationären Aufnahme",
+      "Aufklärung über Operation, Vorgehen und Verlauf erforderlich"
+    ]
+  }
+]

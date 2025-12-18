@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 392/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Prüfungsfragen mit Musterlösungen** zu verschiedenen medizinischen Themen:\n   - Multiples Myelom (Fragen 18-21)\n   - Vorhofflimmern (Fragen 22-26)\n   - Chronisch entzündliche Darmerkrankungen (Frage 27)\n   - Hämatothorax/Pneumothorax nach Rippenfraktur (Fragen 28-30)\n   - Cholezystektomie/Anatomie (Fragen 31-32)\n   - Thyreoidektomie (Frage 33-35)\n   - KHK und Hyperlipidämie (Fragen 36-37)\n\n2. **Fragmentarische Erwähnungen** von Diagnosen ohne vollständige Fallpräsentation:\n   - Bei Frage 28-30 wird zwar \"Hämatothorax mit Pneumothorax nach Rippenfraktur\" erwähnt, aber es fehlen alle essentiellen Fallinformationen (Patientenalter, Geschlecht, Anamnese, vollständige Befunde, etc.)\n\n3. **Theoretische Wissensfragen** ohne Patientenkontext\n\nEs handelt sich um ein **Prüfungsprotokoll mit Frage-Antwort-Schema**, nicht um dokumentierte klinische Fälle mit vollständiger Patienteninformation."
+  }
+]

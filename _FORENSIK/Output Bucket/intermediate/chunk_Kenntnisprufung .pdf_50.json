@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Diabetes mellitus mit Polyurie und Polydipsie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Müdigkeit seit 4-5 Monaten",
+      "Polyurie",
+      "Polydipsie",
+      "rezidivierende Infekte"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Pilzinfekt"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Diabetes mellitus"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

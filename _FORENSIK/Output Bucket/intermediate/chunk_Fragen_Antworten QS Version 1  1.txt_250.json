@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Ergänzungen zur Herzauskultation** - Dies sind allgemeine Untersuchungstechniken und theoretisches Wissen zur körperlichen Untersuchung, kein Patientenfall.\n\n2. **FRAGE 694 über Herzbiomarker bei KHK** - Dies ist eine theoretische Frage über die zeitliche Abfolge von Biomarkern beim akuten Koronarsyndrom. Es wird keine konkrete Patientenpräsentation beschrieben, sondern allgemeines medizinisches Wissen über:\n   - Myoglobin (2-3h nach Symptombeginn)\n   - High-sensitive Troponin T/I (3-4h nach Symptombeginn)\n   \nDer Text bricht zudem mitten in der Aufzählung ab (endet mit \"3.\"), was darauf hindeutet, dass die Antwort unvollständig ist.\n\nEs handelt sich um ein Fragen-Antworten-Dokument für Prüfungsvorbereitung mit theoretischem Wissen, nicht um klinische Fallpräsentationen."
+  }
+]

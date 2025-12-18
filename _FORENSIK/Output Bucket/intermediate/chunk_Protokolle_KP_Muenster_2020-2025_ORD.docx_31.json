@@ -1,0 +1,111 @@
+[
+  {
+    "title": "Meningitis mit Kopfschmerzen und Photophobie",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Kopfschmerzen",
+      "Übelkeit",
+      "Photophobie",
+      "Fieber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "Vorhofflimmern",
+      "Diabetes"
+    ],
+    "medications": [
+      "ASS"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Kernig-Zeichen positiv",
+      "Brudzinski-Zeichen positiv",
+      "Hirnnerven unauffällig",
+      "Motorik und Reflexe unauffällig",
+      "Herz- und Lungenuntersuchung unauffällig",
+      "HWS-Inspektion unauffällig",
+      "Palpation Schmerzen in HWS 2-3",
+      "Bewegungsumfang 5-0-5 (Extension, Flexion und Seitneigung)",
+      "Meningismus"
+    ],
+    "imaging_findings": [
+      "MRT: dicke Hirnhaut",
+      "CCT + Hals-CT"
+    ],
+    "laboratory_findings": [
+      "Blutbild"
+    ],
+    "suspected_diagnosis": [
+      "Meningitis",
+      "Subarachnoidalblutung",
+      "Epidurales Hämatom",
+      "Subdurales Hämatom",
+      "HWK-Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Fundoskopie (Ausschluss erhöhter Hirndruck)",
+      "Lumbalpunktion in Seitenlagerung",
+      "Punktion L3/L4 oder L4/L5",
+      "Messung Eröffnungsdruck",
+      "Liquoranalyse (Farbe)",
+      "CCT",
+      "Hals-CT",
+      "MRT"
+    ]
+  },
+  {
+    "title": "HWS-Trauma mit Meningitissymptomen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Kopfschmerzen",
+      "Übelkeit",
+      "Photophobie",
+      "Fieber"
+    ],
+    "accident_mechanism": "Schleudertrauma",
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "Vorhofflimmern",
+      "Diabetes"
+    ],
+    "medications": [
+      "ASS",
+      "Antihypertensiva"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Kernig-Zeichen positiv",
+      "Brudzinski-Zeichen positiv",
+      "Hirnnerven unauffällig",
+      "Motorik und Reflexe unauffällig",
+      "Herz- und Lungenuntersuchung unauffällig",
+      "HWS-Inspektion unauffällig",
+      "Palpation Schmerzen in HWS 2-3",
+      "Bewegungsumfang 5-0-5",
+      "Meningismus"
+    ],
+    "imaging_findings": [
+      "MRT: dicke Hirnhaut",
+      "Röntgenbild: dislozierte Mehrfragment-Unterarmfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Meningitis (viral/bakteriell)",
+      "Jefferson-Fraktur",
+      "Hangman-Fraktur",
+      "HWS-Trauma"
+    ],
+    "diagnostic_approach": [
+      "Fundoskopie",
+      "Lumbalpunktion",
+      "Liquoranalyse",
+      "CCT",
+      "Hals-CT",
+      "MRT",
+      "Langzeit-Blutdruckmessung"
+    ]
+  }
+]

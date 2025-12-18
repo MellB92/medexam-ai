@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 8/84) enthält **keine klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Untersuchungstechniken für das Herz** (Palpation, Auskultation, Herztöne)\n2. **Untersuchungstechniken für die Lunge** (Inspektion, Palpation, Perkussion, Auskultation)\n3. **Theoretisches Wissen** über:\n   - Herzklappen-Auskultationspunkte\n   - Herztöne und deren Entstehung\n   - Herzgeräusche (Systolikum/Diastolikum)\n   - Lungenauskultation und -perkussion\n   - Pathologische Befunde (z.B. Pneumothorax, COPD, Pleuraerguss)\n\nEs handelt sich um **Lernkarten-Material** mit systematischen Untersuchungsanleitungen und theoretischen Merksätzen, aber **ohne konkrete Patientenfälle** mit Anamnese, Befunden und Diagnosen."
+  }
+]

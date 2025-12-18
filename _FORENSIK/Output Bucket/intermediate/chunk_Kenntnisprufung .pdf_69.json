@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Dysphagie seit 5 Monaten bei 35-jähriger Frau",
+    "patient_age": "35-jährige",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Dysphagie seit 5 Monaten",
+      "initial Beschwerden beim soliden Essen",
+      "aktuell Schwierigkeiten bei breiartiger Nahrungsaufnahme",
+      "Gewichtsverlust 6 kg innerhalb 5 Monaten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "rezidivierende Harnwegsinfekte (letzte vor 4 Wochen antibiotisch behandelt)",
+      "Lumbalgie"
+    ],
+    "comorbidities": [
+      "Z.n. Appendektomie",
+      "Z.n. Femurfraktur osteosyntetisch versorgt"
+    ],
+    "risk_factors": [
+      "Nikotinkonsum (Raucherin)",
+      "Alkoholkonsum (alkoholische Shots 2-3/Woche)"
+    ],
+    "family_history": [
+      "Mutter mit Z.n. Thyreoidektomie (Ursache unbekannt)",
+      "Vater an Myokardinfarkt verstorben",
+      "Bruder an HIV verstorben"
+    ],
+    "social_history": [
+      "wohnt mit ihrem Mann",
+      "hat 3 Kinder"
+    ],
+    "medications": [
+      "Ibuprofen bei Bedarf (für Lumbalgie)",
+      "orales Kontrazeptivum"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "RR bilateral gemessen",
+      "Herzfrequenz gemessen",
+      "Atemfrequenz gemessen"
+    ],
+    "physical_examination": [
+      "Palpation von zervikalen, okzipitalen, supra- und infraklavikulären Lymphknoten",
+      "Palpation und Auskultation von Schilddrüse",
+      "Körperliche Untersuchung Thorax (Lungen, Herz)",
+      "Körperliche Untersuchung Abdomen"
+    ],
+    "imaging_findings": [
+      "Röntgenbreischluck: distale Dilatation des Ösophagus mit Stenose (verdächtig auf Achalasie)",
+      "Rö-Thorax: Erweiterung des oberen Mediastinums (verdächtig auf raumfordernde Läsion)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Achalasie (Verdachtsdiagnose)",
+      "Ösophaguskarzinom",
+      "Zenker-Divertikel",
+      "Struma"
+    ],
+    "diagnostic_approach": [
+      "ausführliche Anamnese",
+      "Vitalparameter",
+      "körperliche Untersuchung mit Lymphknotenpalpation",
+      "Schilddrüsenpalpation und -auskultation",
+      "Röntgenbreischluck",
+      "Rö-Thorax"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

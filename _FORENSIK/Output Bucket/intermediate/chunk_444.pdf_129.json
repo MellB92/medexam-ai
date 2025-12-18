@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 130/155) enthält **keine vollständigen klinischen Patientenfälle oder Präsentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Lehrbuchinformationen zur Rheumatoiden Arthritis** - allgemeine Diagnostik, Therapie, Komplikationen (Seite 361)\n\n2. **Orthopädische Untersuchungszeichen** - Beschreibung von Untersuchungstechniken wie:\n   - Beweglichkeitsprüfung (Neutral-Null-Methode)\n   - Untersuchung des Kniegelenks (Schubladen-Tests, Lachman-Test, Steinmann-Zeichen)\n\n3. **Lehrbuchinformationen zu Koxarthrose und Gonarthrose** - Ätiologie, Symptome, Diagnostik, Therapie, Komplikationen (Seiten 362-364)\n\nEs handelt sich durchweg um **theoretisches Lehrmaterial** und systematische Krankheitsbeschreibungen ohne konkrete Patientenbeispiele, Fallvorstellungen oder klinische Präsentationen mit spezifischen Patienten."
+  }
+]

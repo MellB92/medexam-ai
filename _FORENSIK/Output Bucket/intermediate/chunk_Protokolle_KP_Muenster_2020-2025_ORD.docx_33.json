@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Bewusstseinstrübung in der Notaufnahme mit kardiogenem Schock",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Bewusstseinstrübung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "GCS erniedrigt",
+      "Schnarchen",
+      "Atemfrequenz 40/min",
+      "feinblasige Rasselgeräusche",
+      "Herzfrequenz 20/min",
+      "RR hypoton",
+      "schlechte Sauerstoffsättigung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kardiogener Schock",
+      "Pneumonie",
+      "Lungenödem",
+      "Bradykardie"
+    ],
+    "diagnostic_approach": [
+      "GCS Einschätzung",
+      "ABCDE-Schema",
+      "Lunge abhören",
+      "Blutzucker messen"
+    ]
+  },
+  {
+    "title": "Herpes Zoster mit Flankenschmerzen",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Schmerzen in linker Flanke"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "segmentale dermatomale Lokalisation"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Herpes Zoster"
+    ],
+    "diagnostic_approach": [
+      "Klinische Inspektion"
+    ]
+  },
+  {
+    "title": "Akutes Koronarsyndrom mit metabolischer Azidose und Aortendissektion",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Brustschmerzen",
+      "Luftnot"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "schlechte Sauerstoffsättigung"
+    ],
+    "imaging_findings": [
+      "CT: Aortendissektion"
+    ],
+    "laboratory_findings": [
+      "BGA: metabolische Azidose",
+      "Hyperkaliämie",
+      "Laktat erhöht"
+    ],
+    "suspected_diagnosis": [
+      "Aortendissektion",
+      "mesenteriale Ischämie",
+      "Hypoxie"
+    ],
+    "diagnostic_approach": [
+      "Monitoring Vitalzeichen",
+      "EKG",
+      "BGA",
+      "multi-Detektor-CT"
+    ]
+  },
+  {
+    "title": "66-jährige Patientin mit Meningitis-Verdacht und Sepsis",
+    "patient_age": "66-jährige",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Kopfschmerzen",
+      "Fieber",
+      "Schüttelfrost",
+      "Herzrasen",
+      "Müdigkeit",
+      "Polyurie ohne Dysurie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "Diabetes mellitus (ED vor 3 Jahren)",
+      "Herzrhythmusstörung (vor 1 Jahr durch Katheteruntersuchung behandelt)",
+      "Z.n. Femurfraktur rechts (operativ versorgt)",
+      "HWK-Fraktur"
+    ],
+    "medications": [],
+    "allergies": [
+      "Penicillin",
+      "Pollen"
+    ],
+    "physical_examination": [
+      "körperliche Untersuchung unauffällig"
+    ],
+    "imaging_findings": [
+      "EKG: Vorhofflimmern mit Tachykardie",
+      "CT-HWS: Densfraktur Typ III"
+    ],
+    "laboratory_findings": [
+      "BGA: schwere metabolische Azidose",
+      "pH-Wert 6,9",
+      "Laktat erhöht"
+    ],
+    "suspected_diagnosis": [
+      "Sepsis",
+      "Myokarditis",
+      "Pneumonie",
+      "Endokarditis",
+      "Perikarditis",
+      "Hyperthyreose",
+      "Harnwegsinfekt"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung",
+      "BGA",
+      "Blutkulturen (2 anaerobe und 2 aerobe Flaschen)",
+      "EKG",
+      "CT-HWS"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 29/50) enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer Text behandelt ausschließlich:\n\n1. **Tabellarische Übersicht von Zytostatika** - Auflistung verschiedener Chemotherapeutika und ihrer Indikationen (z.B. Etoposid bei Bronchialkarzinom, Vincristin bei Lymphomen)\n\n2. **Therapieempfehlungen** - Allgemeine supportive Maßnahmen unter Radiochemotherapie (antiemetische Therapie, Prophylaxe-Maßnahmen, etc.)\n\n3. **Strahlentherapie - Theoretischer Teil**:\n   - Abstract und Indikationen\n   - Ablauf und Durchführung (Fraktionierung, Teletherapie, Brachytherapie)\n   - Komplikationen (akute Strahlenreaktion, chronische Strahlenschäden)\n\nEs handelt sich um rein **didaktisches/theoretisches Material** aus einem Pharmakologie-Lehrbuch ohne konkrete Patientenbeispiele, Kasuistiken oder klinische Fallpräsentationen."
+  }
+]

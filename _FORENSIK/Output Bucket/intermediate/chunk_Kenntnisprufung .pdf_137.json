@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Polytrauma mit Knieverletzung und Wunde",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "critical",
+    "chief_complaints": [
+      "Polytrauma",
+      "Knieverletzung",
+      "große Wunde"
+    ],
+    "accident_mechanism": "Trauma (Details nicht spezifiziert)",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "BG-Fall (Berufsgenossenschaft)"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Lungen abgeklopft und abgehört",
+      "Bauch komplett untersucht (unauffällig)",
+      "PDMS kontrolliert",
+      "Becken untersucht",
+      "Knie getastet - Patient hat geschrien",
+      "Große Wunde vorhanden"
+    ],
+    "imaging_findings": [
+      "Röntgen Knie: kleine extraartikuläre Tibiakopffraktur",
+      "AO-Klassifikation durchgeführt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma",
+      "Extraartikuläre Tibiakopffraktur",
+      "Große Wunde"
+    ],
+    "diagnostic_approach": [
+      "C-Bogen holen",
+      "Röntgen",
+      "EFAST",
+      "Polytrauma CT (sofort indiziert)",
+      "Röntgen Knie"
+    ],
+    "treatment_response": [
+      "Nach ATLS-Protokoll versorgt",
+      "Große Wunde komplett subkutan genäht",
+      "Konservative Behandlung der Tibiakopffraktur mit Motorbewegungsschiene und Orthese geplant"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Bei intraartikulärer Beteiligung mit Knochen-Defekt: Knochentransplantation aus Becken"
+    ]
+  }
+]

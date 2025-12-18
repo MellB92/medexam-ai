@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 26/155) enthält **keine klinischen Patientenfälle**. \n\nEs handelt sich ausschließlich um **theoretisches pharmakologisches Lehrmaterial** mit:\n\n1. **Diuretika** - Wirkstoffe, Wirkmechanismen, Nebenwirkungen, Indikationen, Kontraindikationen\n2. **RAAS-Inhibitoren** (ACE-Hemmer, Sartane) - pharmakologische Beschreibungen\n3. **Calciumantagonisten** - Medikamentenübersicht\n4. **Beta-Blocker** - Wirkstoffklassen und Eigenschaften\n5. **Amiodaron** - Einzelwirkstoff-Beschreibung\n6. **Herzglykoside** - inkl. Digitalis-Intoxikation (theoretische Beschreibung)\n7. **Sympathomimetika** - beginnende Auflistung\n\nDie **Digitalis-Intoxikation** wird zwar mit Ätiologie, Symptomen und Therapie beschrieben, aber es handelt sich um eine **allgemeine theoretische Darstellung** eines Krankheitsbildes, **nicht um einen konkreten Patientenfall** mit individuellen Angaben zu Alter, Geschlecht, spezifischer Anamnese oder Befunden."
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Proximale Tibiafraktur nach Sturz aus großer Höhe",
+    "patient_age": "56-jähriger",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "starke Schmerzen im linken Knie",
+      "starke Schmerzen in der proximalen Tibia"
+    ],
+    "accident_mechanism": "Sturz aus 3-4 Metern Höhe beim Helfen des Sohnes beim Fensteraufbau",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "keine Synkope",
+      "keine Bewusstlosigkeit",
+      "keine Kopfverletzung",
+      "keine anderen Beschwerden"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Femurkondylfraktur",
+      "proximale Tibiafraktur",
+      "Patellafraktur",
+      "Innenmeniskusriss",
+      "vorderer Kreuzbandriss"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

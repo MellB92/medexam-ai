@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 60/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen und -antworten** zu verschiedenen medizinischen Themen:\n   - Gastritis-Typen und Helicobacter pylori\n   - Heilmittel, Hilfsmittel, Medizinprodukte (rechtliche Definitionen)\n   - Antidot-Definition\n   - Sauerstoffsättigung bei kritischen Patienten\n   - Johanniskraut und Medikamenteninteraktionen\n   - Teratogene Substanzen\n   - Embryonalentwicklung\n   - Arterielle Hypertonie-Therapie\n   - pAVK-Diagnostik (theoretisch)\n\n2. Am Ende beginnt eine **unvollständige Frage** zur pAVK-Diagnostik, die aber keinen konkreten Patientenfall beschreibt, sondern nur theoretisches Wissen abfragt.\n\nEs handelt sich um ein **Prüfungsprotokoll mit Wissensfragen**, nicht um klinische Fallpräsentationen mit konkreten Patienten, Beschwerden, Untersuchungsbefunden oder diagnostischen Prozessen."
+  }
+]

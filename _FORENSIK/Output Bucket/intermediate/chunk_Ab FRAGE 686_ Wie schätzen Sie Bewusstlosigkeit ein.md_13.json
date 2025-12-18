@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Immunthrombozytopenie (ITP) mit Blutungsneigung\",\n    \"patient_age\": \"38-jährig\",\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\n      \"Abgeschlagenheit seit 4 Wochen\",\n      \"Grippähnliche Symptomatik\",\n      \"Höheres Fieber\",\n      \"Spontane blaue Flecken an verschiedenen Stellen\",\n      \"Zahnfleischbluten\",\n      \"Nasenbluten\",\n      \"Hämaturie\",\n      \"Petechien an den Beinen\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Zustand nach Tonsillektomie\",\n      \"Zustand nach distaler Radiusfraktur vor 5 Jahren\"\n    ],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\n      \"Petechien an den Beinen (Foto gezeigt)\"\n    ],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\n      \"Covid-19 Test negativ\",\n      \"Thrombozytenzahl 22.000/μl\"\n    ],\n    \"suspected_diagnosis\": [\n      \"ITP (Immunthrombozytopenie)\"\n    ],\n    \"diagnostic_approach\": [\n      \"Pseudothrombozytopenie ausschließen durch Citrat-Röhrchen oder Blutausstrich\",\n      \"Toxin-Nachweis im Stuhl (bei pseudomembranöser Kolitis als DD)\"\n    ]\n  }\n]\n```"
+  }
+]

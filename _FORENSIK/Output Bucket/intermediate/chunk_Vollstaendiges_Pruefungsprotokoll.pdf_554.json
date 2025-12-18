@@ -1,0 +1,139 @@
+[
+  {
+    "title": "Patientin mit Husten, Atembeschwerden und Rundherd im Röntgen-Thorax",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Husten",
+      "Atembeschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rundherd im Röntgen-Thorax"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom",
+      "Lungenmetastasen",
+      "Tuberkulose",
+      "Sarkoidose",
+      "Lungenabszess",
+      "Granulomatöse Erkrankungen",
+      "Gutartige Lungentumoren"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung",
+      "Röntgen-Thorax",
+      "CT-Thorax",
+      "Bronchoskopie mit Biopsie",
+      "ggf. Mediastinoskopie",
+      "PET-CT"
+    ]
+  },
+  {
+    "title": "Patientin mit Bruder der plötzlich am Herztod verstarb",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Bruder verstorben an plötzlichem Herztod"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Myokarditis",
+      "Kardiomyopathie",
+      "Koronare Herzkrankheit",
+      "Herzklappenfehler",
+      "Angeborene Herzfehler",
+      "Rhythmusstörungen (z.B. Brugada-Syndrom, Long-QT-Syndrom)"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Patient mit Thrombozytopenie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Thrombozytopenie"
+    ],
+    "suspected_diagnosis": [
+      "Immunthrombozytopenische Purpura (ITP)",
+      "Thrombotisch-thrombozytopenische Purpura (TTP)",
+      "Heparin-induzierte Thrombozytopenie (HIT)",
+      "Medikamenten-induzierte Thrombozytopenie",
+      "Infektionen (z.B. HIV, EBV)",
+      "Autoimmunerkrankungen (z.B. SLE)",
+      "Knochenmarkserkrankungen",
+      "Verbrauchskoagulopathie (DIC)"
+    ],
+    "diagnostic_approach": [
+      "Anamnese (Medikamente, Blutungen, Infekte)",
+      "Körperliche Untersuchung (Petechien, Hämatome, Splenomegalie)",
+      "Labordiagnostik (Blutbild, Gerinnungsparameter, Antikörper)",
+      "Knochenmarkbiopsie (falls erforderlich)"
+    ]
+  },
+  {
+    "title": "Patient mit Rechtsschenkelblock im EKG",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG-Befund: Rechtsschenkelblock"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenembolie",
+      "Vorhofflimmern",
+      "Myokardinfarkt",
+      "Kardiomyopathie",
+      "Rechtsherzbelastung (z.B. COPD)",
+      "Angeborene Herzfehler"
+    ],
+    "diagnostic_approach": [
+      "Echokardiographie",
+      "Herzkatheter"
+    ]
+  },
+  {
+    "title": "Patient mit Hüftfrakturen im Röntgen-Becken",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Becken: Hüftfrakturen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hüftfrakturen"
+    ],
+    "diagnostic_approach": []
+  }
+]

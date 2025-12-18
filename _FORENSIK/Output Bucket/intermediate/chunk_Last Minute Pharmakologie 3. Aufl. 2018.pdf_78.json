@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 79/115) aus \"Last Minute Pharmakologie\" enthält ausschließlich **pharmakologisches Theoriewissen** über Anästhetika und keine klinischen Patientenfälle.\n\nDer Text behandelt:\n- Inhalationsnarkotika (Halothan, Isofluran, Desfluran, Sevofluran, N₂O)\n- Pharmakokinetische Parameter (MAC, Blut-Gas-Verteilungskoeffizient)\n- Injektionsnarkotika (Barbiturate, Propofol, Etomidat, Benzodiazepine, Ketamin)\n- Wirkmechanismen und unerwünschte Wirkungen\n\nEs werden zwar theoretische Patientensituationen erwähnt (z.B. \"50% der Patienten keine Abwehrbewegungen auf eine Hautinzision zeigen\" bei MAC-Definition), aber dies sind **keine konkreten klinischen Fallpräsentationen** mit individuellen Patienten, Anamnesen, Befunden oder diagnostischen Prozessen."
+  }
+]

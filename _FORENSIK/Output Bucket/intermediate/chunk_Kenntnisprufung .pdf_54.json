@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Patient mit epigastrischen Schmerzen, Halsschmerzen und Ellenbogenschmerzen nach OP",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Epigastrische Schmerzen",
+      "Halsschmerzen",
+      "Ellenbogenschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Ellenbogen-OP vor 4 Monaten"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Keine Entzündungszeichen",
+      "Ellenbogensteifigkeit"
+    ],
+    "imaging_findings": [
+      "ÖGD: Rote Streifen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "GERD mit Läsionen",
+      "GERD ohne Läsionen",
+      "GERD mit Komplikationen",
+      "Pseudarthrose (Ellenbogen)",
+      "Arthrose (Ellenbogen)",
+      "Protheseninfektion (ausgeschlossen wegen fehlender Entzündungszeichen)"
+    ],
+    "diagnostic_approach": [
+      "ÖGD und Probenentnahme",
+      "Röntgenkontrolle Ellenbogen",
+      "Neutral-Null-Methode zur Beurteilung der Ellenbogensteifigkeit"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "ÖGD-Kontrolle bei Stadium C-D nach mindestens 6 Wochen PPI-Therapie"
+    ]
+  },
+  {
+    "title": "Hinterwandinfarkt mit kardiogenem Schock",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Patient wird instabil"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: ST-Hebung in II, III, aVF"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hinterwandinfarkt",
+      "Myokarditis (DD bei dachförmiger ST-Hebung)"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Kardiologie-Konsil und PCI"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Kardiogener Schock"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit 3-Kammer-Schrittmacher nach Myokardinfarkt",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Ejektionsfraktion < 35%",
+      "Zustand nach Myokardinfarkt"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax PA und lateral mit Hartstrahltechnik",
+      "3-Kammer-Schrittmacher",
+      "Kabel in rechtem Vorhof, rechter Kammer und linker Kammer"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Röntgen-Thorax PA und lateral"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Cholezystolithiasis mit Verdacht auf akute Cholezystitis\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\n      \"Schmerzen im rechten Oberbauch\",\n      \"Koliken\",\n      \"Übelkeit\",\n      \"Erbrechen\",\n      \"Fieber\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\n      \"Murphy-Zeichen positiv\",\n      \"Druckschmerz im rechten Oberbauch\"\n    ],\n    \"imaging_findings\": [\n      \"Sonographie: Gallensteine\",\n      \"Sonographie: ohne Hinweise auf Cholezystitis\"\n    ],\n    \"laboratory_findings\": [\n      \"CRP erhöht\",\n      \"Leukozyten erhöht\",\n      \"Bilirubin 4\"\n    ],\n    \"suspected_diagnosis\": [\n      \"Verdacht auf akute Cholezystitis\",\n      \"Cholezystolithiasis\"\n    ],\n    \"diagnostic_approach\": [\n      \"Anamnese\",\n      \"Körperliche Untersuchung\",\n      \"Labor: Blutbild (Leukozyten, CRP)\",\n      \"Labor: Leberwerte (Bilirubin, AP, Gamma-GT)\",\n      \"Labor: Lipase\",\n      \"Sonographie des Abdomens\",\n      \"ERCP zur Darstellung der Gallenwege\",\n      \"ggf. CT oder MRT\"\n    ]\n  }\n]\n```"
+  }
+]

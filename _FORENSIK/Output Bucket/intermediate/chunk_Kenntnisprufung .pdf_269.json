@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Patient mit Cholestase und Familienanamnese für Lebererkrankung",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Hautverfärbungen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater verstorben an Lebererkrankung"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Ikterus"
+    ],
+    "imaging_findings": [
+      "MRCP: Ductus Hepaticus Communis Obstruktion"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Cholestase",
+      "Extrahepatische Cholestase"
+    ],
+    "diagnostic_approach": [
+      "Sonographie",
+      "MRCP",
+      "ERCP erwogen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit Schnarchen und Leistungsminderung",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Schnarchen",
+      "Alltägliche Leistungsverminderung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schlaf-Apnoe-Syndrom"
+    ],
+    "diagnostic_approach": [
+      "Polysomnographie",
+      "Apnoe-Hypopnoe Index Bestimmung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patientin mit akuter Appendizitis",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Klinische Zeichen der Appendizitis"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akute Appendizitis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Appendektomie durchgeführt"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit anaphylaktischem Schock nach Bienenstich",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "Anaphylaktischer Schock"
+    ],
+    "accident_mechanism": "Bienenstich",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Anaphylaxie"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit Tachykardie und Hypotonie nach Reposition",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Tachykardie",
+      "Hypotonie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Tachykardie",
+      "Hypotonie"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Anruf vom Notarzt"
+    ],
+    "treatment_response": [
+      "Reposition durchgeführt"
+    ],
+    "complications": [
+      "Tachykardie und Hypotonie nach Reposition"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit Ikterus und Raumforderung",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Ikterus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Ikterus"
+    ],
+    "imaging_findings": [
+      "MRCP: Raumforderung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Posthepatische Cholestase",
+      "Cholangiokarzinom"
+    ],
+    "diagnostic_approach": [
+      "MRCP"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

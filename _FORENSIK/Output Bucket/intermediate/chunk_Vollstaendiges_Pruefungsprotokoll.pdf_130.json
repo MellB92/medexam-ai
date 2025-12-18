@@ -1,0 +1,96 @@
+[
+  {
+    "title": "T2N0M0 Kolonkarzinom im Colon ascendens",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "T2N0M0 Kolonkarzinom im Colon ascendens"
+    ],
+    "diagnostic_approach": [
+      "Hemikolektomie rechts mit ileotransversaler Anastomose"
+    ]
+  },
+  {
+    "title": "Schnittverletzung mit starker Blutung beim Fischdose öffnen",
+    "patient_age": null,
+    "patient_gender": "Mann",
+    "chief_complaints": [
+      "starke Blutung"
+    ],
+    "accident_mechanism": "Schnittverletzung beim Öffnen einer Fischdose",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schnittverletzung mit starker Blutung"
+    ],
+    "diagnostic_approach": [
+      "Blutung stillen durch Kompression",
+      "Wundinspektion",
+      "Lokalanästhesie mit Lidocain",
+      "Wundversorgung",
+      "Tetanusimpfung"
+    ]
+  },
+  {
+    "title": "Hirntod nach Autounfall mit schwerem Hirnödem",
+    "patient_age": "35-jähriger",
+    "patient_gender": "Mann",
+    "chief_complaints": [],
+    "accident_mechanism": "Autounfall",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Koma",
+      "lichtstarre Pupillen",
+      "fehlende Hirnstammreflexe",
+      "fehlende Spontanatmung"
+    ],
+    "imaging_findings": [
+      "CCT mit sehr starkem Hirnödem",
+      "Ventrikel kaum zu sehen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hirntod"
+    ],
+    "diagnostic_approach": [
+      "Feststellung des Hirntods durch 2 unabhängige Fachärzte (einer davon Neurologe)",
+      "DSO-Anmeldung",
+      "Eurotransplant-Datenbank"
+    ]
+  },
+  {
+    "title": "Mantelpneumothorax mit Verdacht auf Bronchialkarzinom",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax a.p.: Mantelpneumothorax",
+      "zentral liegende Raumforderung verdächtig auf Bronchialkarzinom"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Mantelpneumothorax",
+      "Verdacht auf Bronchialkarzinom"
+    ],
+    "diagnostic_approach": []
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 2/2) enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDas Dokument ist ein **Metadokument über Korrekturen und Ergänzungen** medizinischer Lehrmaterialien und enthält ausschließlich:\n\n- **Systematische Verbesserungsvorschläge** für medizinische Lehrinhalte\n- **Theoretische Frameworks** (Geriatrische I's, PRISCUS-Liste, Fried-Kriterien, etc.)\n- **Rechtliche Aspekte** (§630a-630h BGB, Behandlungsvertrag)\n- **Dokumentationsstandards** (SOAP-Schema, ICD-10, OPS)\n- **Qualitätssicherung** (Leitlinien-Updates, Evidenzgrade)\n- **Prüfungsrelevante Hinweise** (Stolperfallen, typische Fehler)\n- **Implementierungsempfehlungen** (Prioritätenlisten)\n- **Bewertung des Ausgangsdokuments**\n\nEs werden zwar medizinische Konzepte, Klassifikationssysteme und Kriterien erwähnt (z.B. CAM-Kriterien für Delir, Child-Pugh-Score), aber **keine konkreten Patienten mit spezifischen Beschwerden, Befunden oder diagnostischen Abklärungen** präsentiert."
+  }
+]

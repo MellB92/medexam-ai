@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"91-jähriger Patient mit Hämatemesis\",\n    \"patient_age\": \"91-jähriger\",\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Hämatemesis\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [],\n    \"diagnostic_approach\": [\"Gastroskopie\", \"Stabilisierung (Flüssigkeitszufuhr, ggf. Transfusion)\", \"Protonenpumpeninhibitoren (PPI)\", \"Tranexamsäure\"]\n  }\n]\n```"
+  }
+]

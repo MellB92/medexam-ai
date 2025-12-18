@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 139/155) enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Pharmakologischen Informationen zur Schmerztherapie:**\n   - COX-Hemmer (NSAR)\n   - Selektive COX-2-Hemmer (Coxibe)\n   - Nicht-Opioid-Analgetika (Paracetamol, Metamizol)\n   - Opioide (Wirkstoffe, Dosierungen, Nebenwirkungen)\n   - Koanalgetika und Adjuvanzien\n\n2. **Theoretischem Wissen zu Verbrennungen:**\n   - Definitionen und Ätiologie\n   - Pathophysiologie\n   - Verbrennungsgrade (1.-4. Grades)\n   - Neunerregel nach Wallace\n   - Handflächenregel\n\nEs handelt sich um **Lehrbuchinhalte** ohne konkrete Patientengeschichten, Fallvorstellungen oder klinische Präsentationen mit individuellen Patientendaten."
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "title": "Betrunkener Patient mit Kopfwunde und epiduralem Hämatom",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Kopfwunde",
+      "akute Schmerzen (später)"
+    ],
+    "accident_mechanism": "Trauma mit Kopfwunde, Patient betrunken",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Alkoholintoxikation"
+    ],
+    "family_history": [],
+    "social_history": [
+      "betrunken"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Kopfwunde",
+      "mögliche Bewusstlosigkeit"
+    ],
+    "imaging_findings": [
+      "CT: sehr deutliches epidurales Hämatom",
+      "arterielle Blutung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Epidurales Hämatom"
+    ],
+    "diagnostic_approach": [
+      "Suche nach Bewusstlosigkeit",
+      "CT-Schädel"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Epidurales Hämatom nach initialem Trauma"
+    ],
+    "follow_up": [
+      "Tetanus-Prophylaxe",
+      "Grundimmunisierung wenn keine vorherige Impfung"
+    ]
+  },
+  {
+    "title": "Alte Frau mit Vigilanzminderung, Fieber und Meningitis bei CLL",
+    "patient_age": "alte Frau",
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "Vigilanzminderung",
+      "Fieber 39°C"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "CLL (chronische lymphatische Leukämie) in FNA",
+      "Asplenie",
+      "Thrombozytopenie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Asplenie mit OPSI-Syndrom-Risiko"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Kreislauf stabil"
+    ],
+    "physical_examination": [
+      "Vigilanzminderung",
+      "Meningismus-Zeichen untersucht"
+    ],
+    "imaging_findings": [
+      "CT Schädel durchgeführt",
+      "Röntgen Thorax ohne Fokus"
+    ],
+    "laboratory_findings": [
+      "Leukozyten erhöht",
+      "CRP erhöht",
+      "Procalcitonin 6",
+      "Thrombozytopenie",
+      "Liquor: kokkenförmige Bakterien",
+      "gram-positiv oder gram-negativ",
+      "Blastzellen in Zytologie",
+      "Liquor-Chemie: LDH, Eiweiß, Glukose, pH"
+    ],
+    "suspected_diagnosis": [
+      "Bakterielle Meningitis",
+      "DD: HSV-Meningitis",
+      "DD: Varicella-Zoster-Meningitis",
+      "DD: Intrakranielle Blutung (bei Thrombozytopenie)"
+    ],
+    "diagnostic_approach": [
+      "Vitalparameter",
+      "Säure-Basen-Haushalt",
+      "Fokussuche (Röntgen, Urin)",
+      "Anamnese bei Ehemann",
+      "Meningismus-Zeichen (Brudsinski, Lasegue, Kernig)",
+      "CT vor Liquorpunktion",
+      "Lumbalpunktion LWK 3/4 oder 4/5",
+      "Liquor in 3 Röhrchen (Zyto, Kultur, Chemie)"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Liquorunterdrucksyndrom bei zu viel Liquorentnahme möglich"
+    ],
+    "follow_up": [
+      "Erst Glukokortikoide, dann Antibiotika",
+      "Ceftriaxon + Unacid (wegen Listerien bei Erwachsenen)",
+      "Impfungen wegen Asplenie: Pneumokokken, Meningokokken, Haemophilus influenzae"
+    ]
+  },
+  {
+    "title": "Hyperthyreose mit Schilddrüsenautonomie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "typische Trias der Hyperthyreose"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Szintigraphie: Befund zeigt Schilddrüsenautonomie"
+    ],
+    "laboratory_findings": [
+      "TSH 0,01 (supprimiert)",
+      "fT4 erhöht",
+      "fT3 erhöht",
+      "anti-TRAK"
+    ],
+    "suspected_diagnosis": [
+      "Hyperthyreose",
+      "Schilddrüsenautonomie"
+    ],
+    "diagnostic_approach": [
+      "TSH-Bestimmung",
+      "fT3, fT4",
+      "anti-TRAK",
+      "Szintigraphie"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Thyreostatika: Leukozytenabfall",
+      "Knochenmarkdepression"
+    ],
+    "follow_up": [
+      "Therapieoptionen: Thyreostatika (medikamentös)",
+      "operative komplette Entfernung",
+      "Radiojodtherapie"
+    ]
+  },
+  {
+    "title": "18-jähriger Patient mit Gewichtsverlust und Diabetes mellitus Typ 1",
+    "patient_age": "18 Jahre",
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Gewichtsverlust 7 kg im letzten Monat",
+      "Polyurie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Urin: Kontrolle erforderlich (vermutlich Ketonkörper, Glukose)"
+    ],
+    "suspected_diagnosis": [
+      "Diabetes mellitus Typ 1",
+      "Diabetische Ketoazidose"
+    ],
+    "diagnostic_approach": [
+      "Urinuntersuchung",
+      "Blutzucker",
+      "BGA (bei Ketoazidose)"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Ketoazidose"
+    ],
+    "follow_up": [
+      "Initial: Flüssigkeitsgabe",
+      "Insulingabe initial intravenös",
+      "später Umstellung auf subkutane Insulingabe",
+      "DD zu DM Typ 2: adipös, Hyperlipidämie, Hypertonie (metabolisches Syndrom)"
+    ]
+  }
+]

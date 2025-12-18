@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Herr Wagner - Akutes Abdomen und Handgelenksverletzung nach LKW-Unfall",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "akutes Abdomen",
+      "Handgelenksschmerzen",
+      "Bewegungseinschränkung"
+    ],
+    "accident_mechanism": "LKW-Unfall nach Sekundenschlaf",
+    "pre_existing_conditions": [
+      "arterielle Hypertonie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "LKW-Fahrer"
+    ],
+    "medications": [
+      "Carmen (Lercanidipin)"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruckdifferenz zwischen beiden Seiten"
+    ],
+    "physical_examination": [
+      "Abdomenuntersuchung",
+      "Handgelenk pDMS",
+      "Untersuchung vom Kopf bis Fuß"
+    ],
+    "imaging_findings": [
+      "Röntgen: Skaphoidfraktur",
+      "CT: akute Appendizitis",
+      "Ultraschall Morrison Pouch: echoarme sichelförmige Flüssigkeitsansammlung unter dem Recessus"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "stumpfes Bauchtrauma",
+      "Skaphoidfraktur",
+      "akute Appendizitis",
+      "freie Flüssigkeit intraabdominell"
+    ],
+    "diagnostic_approach": [
+      "körperliche Untersuchung",
+      "Röntgen Handgelenk",
+      "CT Abdomen",
+      "FAST-Sonographie"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "mögliche Leber-, Milz-, Nieren-, Nebennieren- oder Harnleiterverletzung nach Trauma"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Herr Wagner - Stumpfes Bauchtrauma mit Leberhämatom nach Autounfall",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "starke Bauchschmerzen im gesamten Bauch",
+      "Schmerz im rechten Handgelenk"
+    ],
+    "accident_mechanism": "Sekundenschlaf beim Fahren, Autounfall, Patient schlug sich mit Bauch und rechter Hand gegen Lenkrad",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "LKW Fahrer"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalparameter erhoben"
+    ],
+    "physical_examination": [
+      "Herzuntersuchung",
+      "Lungenuntersuchung",
+      "Bauchuntersuchung",
+      "Handgelenk pDMS"
+    ],
+    "imaging_findings": [
+      "Leberhämatom"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "stumpfes Bauchtrauma",
+      "Leberhämatom",
+      "mögliche Zwerchfellverletzung"
+    ],
+    "diagnostic_approach": [
+      "körperliche Untersuchung",
+      "FAST Sonographie",
+      "Schock Index Berechnung"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Symptome der Zwerchfellverletzung wurden diskutiert"
+    ],
+    "follow_up": []
+  }
+]

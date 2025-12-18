@@ -1,0 +1,173 @@
+[
+  {
+    "title": "Bimalleoläre Weber-C-Fraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Bimalleoläre Weber C Fraktur im Röntgen",
+      "Seitliche Aufnahme präsentiert",
+      "Frakturlinie verläuft durch Syndesmose"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bimalleoläre Weber-C-Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen",
+      "Seitliche Aufnahme"
+    ]
+  },
+  {
+    "title": "Colonkarzinom rechts mit blutigem Stuhlabgang",
+    "patient_age": "75 Jahre",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Blutiger Stuhlabgang"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Rektal-digitale Untersuchung"
+    ],
+    "imaging_findings": [
+      "Koloskopie mit Colon-CA Bild",
+      "Tumor auf der rechten Seite des Colons",
+      "T2N0M0"
+    ],
+    "laboratory_findings": [
+      "Labor durchgeführt"
+    ],
+    "suspected_diagnosis": [
+      "Colonkarzinom rechts",
+      "T2N0M0"
+    ],
+    "diagnostic_approach": [
+      "Rektal-digitale Untersuchung",
+      "Labor",
+      "Körperliche Untersuchung",
+      "Koloskopie"
+    ]
+  },
+  {
+    "title": "Chronische/entzündliche Wunde",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Wunde mit gelblicher Mitte (V.a. Eiter oder Chromatin)",
+      "Leicht rötliche Ränder",
+      "Rötliches umgebendes Gewebe"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Entzündliche Wunde",
+      "Chronische Wunde"
+    ],
+    "diagnostic_approach": [
+      "Wundbeurteilung",
+      "Beschreibung der Wundcharakteristik"
+    ]
+  },
+  {
+    "title": "Hemithyreoidektomie - Aufklärung über Komplikationen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Schnittverletzung beim Fischdosen-Öffnen",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Starke Blutung"
+    ],
+    "accident_mechanism": "Schnittverletzung beim Öffnen einer Fischdose",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schnittwunde"
+    ],
+    "diagnostic_approach": [
+      "Inspektion",
+      "Lokale Anästhesie mit Lidocain",
+      "Naht",
+      "Tetanusimpfung"
+    ]
+  },
+  {
+    "title": "Hirntod nach Autounfall mit Organspende",
+    "patient_age": "35 Jahre",
+    "patient_gender": "m",
+    "chief_complaints": [],
+    "accident_mechanism": "Autounfall",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "8 Tage im Koma auf Intensivstation"
+    ],
+    "imaging_findings": [
+      "3 cCT mit sehr starkem Hirnödem",
+      "Ventrikel kaum zu sehen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hirntod"
+    ],
+    "diagnostic_approach": [
+      "Feststellung Hirntod durch 2 unabhängige Fachärzte (einer davon Neurologe)",
+      "DSO-Anmeldung",
+      "Eurotransplant-Datenbank"
+    ]
+  },
+  {
+    "title": "Mantelpneumothorax mit Verdacht auf Bronchialkarzinom",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax a.p.",
+      "Mantelpneumothorax",
+      "Zentral liegender Verdacht auf Bronchialkarzinom"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Mantelpneumothorax",
+      "V.a. Bronchialkarzinom"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax a.p."
+    ]
+  }
+]

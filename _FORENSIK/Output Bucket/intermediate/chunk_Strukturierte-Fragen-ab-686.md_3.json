@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 4/5) enthält **keine vollständigen klinischen Präsentationsfälle** mit konkreten Patientenvorstellungen.\n\nStattdessen handelt es sich ausschließlich um:\n\n1. **Theoretische Fragen** (Frage 727-734) zu verschiedenen medizinischen Themen:\n   - Meldepflicht bei Berufskrankheiten\n   - Anamnese bei jungen Frauen\n   - Toxische Knochenmarksschädigungen\n   - Vitaminmangel\n   - Blutausstrichbefunde\n   - HIT-Therapie\n\n2. **Allgemeines medizinisches Wissen** ohne konkrete Patientenszenarien\n\n3. **Lehrbuchinformationen** zu:\n   - Rechtlichen Aspekten\n   - Medikamentenlisten\n   - Diagnostischen Kriterien\n   - Therapeutischen Optionen\n\nEs gibt **keine Beschreibung** von:\n- Konkreten Patienten mit Alter/Geschlecht\n- Aktuellen Beschwerden/Vorstellungsgründen\n- Unfallhergängen\n- Körperlichen Untersuchungsbefunden\n- Bildgebungsergebnissen zu spezifischen Fällen\n\nDaher: **Leeres Array**"
+  }
+]

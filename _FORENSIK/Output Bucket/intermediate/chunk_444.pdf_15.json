@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer Text besteht ausschließlich aus:\n\n1. **Therapeutischen Leitlinien zu Vorhofflimmern:**\n   - Prophylaxe (Vorhofohrverschluss)\n   - Frequenzkontrolle (Medikamente, Dosierungen)\n   - Rhythmuskontrolle/Kardioversion (Indikationen, Verfahren)\n   - Katheterablation\n\n2. **Standardprotokoll zur kardiopulmonalen Reanimation (CPR):**\n   - Basic Life Support (BLS) - Algorithmus für Ersthelfer\n   - Advanced Life Support (ALS) - Erweiterte Maßnahmen\n   - Defibrillationsprotokoll\n   - Reversible Ursachen (4 H's und 4 T's)\n   - Beendigungskriterien\n\n3. **EKG-Interpretation bei Notfällen:**\n   - Tabelle zu defibrillierbaren/nicht-defibrillierbaren Rhythmen\n   - Technische Anweisungen zur Defibrillation\n\nEs handelt sich um **rein theoretisches Lehrmaterial** ohne konkrete Patientenbeispiele, Fallvignetten oder klinische Präsentationen."
+  }
+]

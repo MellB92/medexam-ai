@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 52/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine vollständigen klinischen Patientenfälle**.\n\nDer Text behandelt:\n\n1. **Verweise auf EKG-Beispiele** (Seite 89):\n   - Fall 27: akuter inferiorer Infarkt (STEMI)\n   - Fall 28: Vorderwandinfarkt im Zwischenstadium\n   - Fall 29: inferiorer Infarkt im Folgestadium\n   - Fall 30: Vorderwandinfarkt im Endstadium\n   - Fall 31: Lungenarterien-Embolie\n\n2. **Theoretische Lehrinhalte** zu:\n   - Lektion 21: EKG-Veränderungen bei Lungenarterien-Embolie (pathophysiologische Erklärungen, typische EKG-Befunde)\n   - Lektion 22: EKG bei Perikarditis und Myokarditis (theoretische Grundlagen)\n\n**Es handelt sich ausschließlich um:**\n- Lehrbuchtexte mit allgemeinen medizinischen Informationen\n- Verweise auf EKG-Beispiele, die an anderen Stellen im Buch zu finden sind\n- Beschreibungen typischer EKG-Muster bei verschiedenen Erkrankungen\n\n**Keine vollständigen Patientenfälle mit:**\n- Patientendemografie\n- Anamnese\n- Klinischer Präsentation\n- Untersuchungsbefunden\n- Diagnostischem Prozess"
+  }
+]

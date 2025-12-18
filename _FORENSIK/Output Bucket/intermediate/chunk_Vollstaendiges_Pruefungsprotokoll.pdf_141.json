@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Patientin mit Lumbalgie, multiplen Hämatomen und B-Symptomatik\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Lumbalgie\", \"multiple Hämatome\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"multiple Hämatome\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\"erhöhte Blutsenkungsgeschwindigkeit\", \"Urinveränderungen\"],\n    \"suspected_diagnosis\": [\"Multiples Myelom\"],\n    \"diagnostic_approach\": [\"B-Symptomatik (Fieber, Nachtschweiß, Gewichtsverlust)\", \"BSG-Bestimmung\", \"Urinuntersuchung\"]\n  }\n]\n```"
+  }
+]

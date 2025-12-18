@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Hyperthyreose mit Angstzuständen und Gewichtsverlust\",\n    \"patient_age\": null,\n    \"patient_gender\": \"m\",\n    \"chief_complaints\": [\n      \"Angstzustände\",\n      \"Tachykardie\",\n      \"Zittern der Hände\",\n      \"Schwitzen\",\n      \"Stuhlgang mehr als zweimal am Tag\",\n      \"Schlafstörungen\",\n      \"Gewichtsverlust 2 kg im letzten Monat\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Arterielle Hypertonie\"\n    ],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\n      \"Szintigrafie bei Hyperthyreose\",\n      \"Zwei Bilder einer Herzkatheteruntersuchung mit Stenose\"\n    ],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Hyperthyreose\",\n      \"Morbus Basedow\",\n      \"Vorhofflimmern\"\n    ],\n    \"diagnostic_approach\": [\n      \"Szintigrafie\",\n      \"Herzkatheteruntersuchung\"\n    ]\n  }\n]\n```"
+  }
+]

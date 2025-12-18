@@ -1,0 +1,38 @@
+[
+  {
+    "title": "70-jährige Patientin mit rechtsseitigem Oberbauchbefund und Belastungsdyspnoe",
+    "patient_age": "70-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Befund im rechten oberen Bauch bei Routineuntersuchung",
+      "Belastungsdyspnoe seit letzter Zeit",
+      "Rechter Fersenschmerz seit Wochen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Vitalparameter stabil",
+      "Blutdruck normwertig beidseitig",
+      "Allgemeine, Thorax und Abdomenuntersuchung ohne Besonderheiten",
+      "Druckschmerz rechte Ferse"
+    ],
+    "imaging_findings": [
+      "Abdomen-Sonographie: Echo-armer Befund zwischen Leber und Niere (Morrison Pouch)",
+      "Tumor in der Nebenniere",
+      "EKG: Vorhofflimmern"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Nebennierentumor (DD: Phäochromozytom, Cushing-Syndrom, Conn-Syndrom)",
+      "Vorhofflimmern"
+    ],
+    "diagnostic_approach": [
+      "Abdomen-Sonographie",
+      "EKG",
+      "Labordiagnostik für Nebennierenfunktion",
+      "Diagnostik gemäß Tumorentität (Phäochromozytom, Cushing, Conn)"
+    ]
+  }
+]

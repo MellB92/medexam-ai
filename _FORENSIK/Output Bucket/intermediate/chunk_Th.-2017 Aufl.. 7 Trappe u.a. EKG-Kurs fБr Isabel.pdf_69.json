@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 70/111) aus einem EKG-Lehrbuch enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer Text behandelt:\n\n1. **CRT-Therapie (Cardiac Resynchronization Therapy):**\n   - Indikationen und technische Details\n   - Studienergebnisse und Empfehlungen\n   - Implantationstechnik\n\n2. **Lektion 30: Monitor-EKG:**\n   - Technische Grundlagen der Monitor-EKG-Ableitung\n   - Elektrodenplatzierung\n   - Erkennbare Herzrhythmusstörungen (allgemeine Auflistung)\n   - Bradykarde und tachykarde Rhythmusstörungen\n   - Extrasystolen\n\n3. **Abbildung 30.1:**\n   - Beispiele für EKG-Darstellungen verschiedener Rhythmusstörungen (schematisch)\n\nEs handelt sich um **didaktisches Lehrmaterial** mit theoretischen Erklärungen und allgemeinen medizinischen Informationen, aber **ohne konkrete Patientenfälle** mit individuellen Anamnesen, Untersuchungsbefunden oder Fallverläufen."
+  }
+]

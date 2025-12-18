@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle** im Sinne von Fallpräsentationen, sondern ausschließlich:\n\n1. **EKG-Beispiele mit Befundungen** (Beispiele 5-11):\n   - AV-Block I°\n   - AV-Block II° vom Typ II (Mobitz)\n   - AV-Block III° (totaler AV-Block)\n   - AV-junktionaler Ersatzrhythmus\n   - P-sinistroatriale\n   - P-biatriale\n   - Inkompletter Rechtsschenkelblock\n\n2. **Technische EKG-Beschreibungen** mit:\n   - Frequenzangaben\n   - Wellenmorphologien\n   - Zeitintervallen\n   - Ableitungsbefunden\n\n3. **Kommentare zur Interpretation** der EKG-Befunde\n\nEs handelt sich um **didaktisches Material** zur EKG-Befundung ohne Angaben zu:\n- Patientenidentifikation (Alter, Geschlecht)\n- Anamnese oder Beschwerden\n- Klinischem Kontext\n- Diagnostischem oder therapeutischem Vorgehen\n\nDies sind **Lehrbuchbeispiele**, keine Fallpräsentationen."
+  }
+]

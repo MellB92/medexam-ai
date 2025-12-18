@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 456/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretische Prüfungsfragen und Antworten** zu verschiedenen medizinischen Themen:\n   - Harnwegsinfektionen (Diagnostik, Antibiotikatherapie)\n   - Morbus Basedow (Ätiologie, Symptomatik, Diagnostik, Therapie)\n   - Herzfehler (ASD, VSD, PFO)\n   - Knieverletzungen (Anatomie, Unfallmechanismen, Diagnostik)\n   - Distale Radiusfraktur (Klassifikation)\n   - Hiatushernie\n   - Diaphragma-Anatomie\n   - pAVK (Klassifikation, Diagnostik)\n   - Raynaud-Syndrom\n   - Prädiabetes\n   - EKG-Befunde\n\n2. **Allgemeine medizinische Wissensfragen** ohne spezifische Patientenszenarien\n\nEs werden zwar **klinische Situationen erwähnt** (z.B. \"Patient mit Aszites und multiplen Metastasen\", \"Leberblutung nach Trauma\", \"asymptomatische Patienten mit pAVK\"), aber dies sind **hypothetische Fragestellungen** und keine vollständigen, strukturierten Fallpräsentationen mit ausreichenden Patientendetails (Alter, Geschlecht, Anamnese, Untersuchungsbefunde etc.).\n\nFür eine Extraktion als klinischer Fall müssten detaillierte Patienteninformationen mit Anamnese, Befunden und diagnostischem Vorgehen in zusammenhängender Form vorliegen."
+  }
+]

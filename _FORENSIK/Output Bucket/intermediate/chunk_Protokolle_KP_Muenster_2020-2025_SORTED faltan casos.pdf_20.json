@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Herzinsuffizienz und Myokarditis bei 62-jähriger Patientin",
+    "patient_age": "62-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Seit 4 Wochen bestehende Schlappheit",
+      "Geschwollene Füße",
+      "Nykturie",
+      "Nachtschweiß",
+      "Fieber 37°C"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypothyreose"
+    ],
+    "medications": [
+      "L-Thyroxin",
+      "Vitamin D"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Übergewicht",
+      "Geschwollene Füße",
+      "Ansonsten unauffällig"
+    ],
+    "imaging_findings": [
+      "MRT und Echo Bilder vorhanden"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Herzinsuffizienz",
+      "Myokarditis"
+    ],
+    "diagnostic_approach": [
+      "MRT",
+      "Echokardiographie",
+      "Klinische Zeichen der Herzinsuffizienz",
+      "Stauung der sublingualen Venen"
+    ]
+  },
+  {
+    "title": "Angina pectoris bei KHK mit multiplen Risikofaktoren",
+    "patient_age": "70J",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Typische Angina pectoris Schmerzen",
+      "Linke thorakale Schmerzen mit Ausstrahlung in die linke Schulter",
+      "Schmerzen unter Belastung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Adipositas",
+      "Diabetes mellitus",
+      "Arterielle Hypertonie",
+      "Rauchen",
+      "Hyperlipidämie"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Adipositas",
+      "Metabolisches Syndrom"
+    ],
+    "imaging_findings": [
+      "Ruhe-EKG unauffällig",
+      "EKG mit Hinterwandinfarkt (im Prüfungsteil)",
+      "Abdomensono mit Cholezystolithiasis (asymptomatisch)"
+    ],
+    "laboratory_findings": [
+      "Troponin unauffällig"
+    ],
+    "suspected_diagnosis": [
+      "Angina pectoris",
+      "KHK",
+      "Hinterwandinfarkt"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Troponin",
+      "Abdomensonographie"
+    ]
+  },
+  {
+    "title": "Angina de novo - neu aufgetretene Angina pectoris",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Neu aufgetretene Angina pectoris"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Angina de novo"
+    ],
+    "diagnostic_approach": [
+      "Ausführliche kardiologische Anamnese",
+      "Allgemeine Anamnese",
+      "Vorerkrankungen",
+      "Frühere Operationen",
+      "Medikamentenliste",
+      "Vegetative Anamnese"
+    ]
+  }
+]

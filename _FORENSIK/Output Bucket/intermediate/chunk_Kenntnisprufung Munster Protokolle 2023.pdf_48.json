@@ -1,0 +1,79 @@
+[
+  {
+    "title": "V.a. Hyperthyreose bei Patientin",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Symptome einer Hyperthyreose"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Gastritis vor 10 Jahren"
+    ],
+    "medications": [
+      "Cetirizin bei Bedarf"
+    ],
+    "allergies": [
+      "Heuschnupfen"
+    ],
+    "physical_examination": [
+      "Körperliche Untersuchung vom Kopf bis zum Fuß unauffällig",
+      "Herzuntersuchung",
+      "Pulse",
+      "Reflexe"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hyperthyreose",
+      "M. Basedow",
+      "Autonomes Adenom",
+      "Vorhofflimmern"
+    ],
+    "diagnostic_approach": [
+      "Diagnostik bei Hyperthyreose",
+      "EKG (zeigte VHF)"
+    ]
+  },
+  {
+    "title": "Polytrauma mit Verdacht auf multiple Verletzungen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Polytrauma"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax durchgeführt",
+      "Pneumothorax Verdacht",
+      "Hämatothorax ausgeschlossen",
+      "Pleuraerguss negativ",
+      "AP und seitlich Kniegelenk",
+      "Tibiakopffraktur nicht disloziert, nicht offen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma",
+      "V.a. Schädel-Hirn-Trauma",
+      "V.a. Milzruptur",
+      "V.a. Rippenfraktur",
+      "V.a. Hämatothorax",
+      "V.a. Kniefraktur",
+      "Tibiakopffraktur"
+    ],
+    "diagnostic_approach": [
+      "CT Schädel zum Blutungsausschluss",
+      "FAST Sonographie",
+      "Röntgen Thorax-Abdomen",
+      "Röntgen Knie",
+      "Morrison Pouch",
+      "Koller Pouch",
+      "Douglas Raum",
+      "Überwachung 48-72 Stunden wegen zweizeitiger Milzruptur"
+    ]
+  }
+]

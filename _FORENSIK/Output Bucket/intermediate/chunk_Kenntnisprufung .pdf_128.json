@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Grippe-ähnliche Symptome mit Beinödemen - Verdacht auf Endokarditis",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Grippe-ähnliche Symptome seit 4 Wochen",
+      "Fieber für 3 Tage (39°C)",
+      "Gliederschmerzen",
+      "Ödeme in den Beinen",
+      "Halsschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypothyreose",
+      "Fraktur am Bein als Kind"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater mit 'sehr dickem Blut' verstorben (V.a. Polycythemia vera)"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Körperliche Untersuchung alles unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Endokarditis",
+      "Herzinsuffizienz",
+      "Myokarditis"
+    ],
+    "diagnostic_approach": [
+      "Auskultation der Lungen",
+      "Auskultation des Herzes",
+      "Überprüfung aller Pulse",
+      "Untersuchung der Beinödeme"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

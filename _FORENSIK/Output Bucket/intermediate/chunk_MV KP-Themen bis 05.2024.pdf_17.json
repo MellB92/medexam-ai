@@ -1,0 +1,248 @@
+[
+  {
+    "title": "4-jähriges Kind mit Erbrechen und Blut im Stuhlgang",
+    "patient_age": "4 Jahre",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Erbrechen",
+      "Blut im Stuhlgang"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Invagination (Intussuszeption)"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Mann mit mechanischem Ileus nach Appendektomie",
+    "patient_age": null,
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Status nach Appendektomie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild zeigt mechanischen Ileus",
+      "erstes Bild hatte keine Hodenkapsel"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Mechanischer Ileus durch Briden"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Mechanischer Ileus durch Briden"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Kind mit Bauchhämatom nach Unfall",
+    "patient_age": "Kind",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Bauchhämatom"
+    ],
+    "accident_mechanism": "Unfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Bauchhämatom"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Zweizeitverletzung",
+      "Milzruptur"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit Leberzirrhose und akuter Cholezystitis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Leberzirrhose",
+      "Raumforderung in der Leber"
+    ],
+    "comorbidities": [
+      "Aszites",
+      "hepatische Enzephalopathie"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Raumforderung in der Leber"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akute Cholezystitis"
+    ],
+    "diagnostic_approach": [
+      "Cholezystektomie geplant"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "postoperativ Robinson-Drainage"
+    ]
+  },
+  {
+    "title": "57-jährige Patientin mit Oberbauchschmerzen und biliärer Pankreatitis",
+    "patient_age": "57 Jahre",
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "Oberbauchschmerzen mit Ausstrahlung in rechte Schulter",
+      "nach 3 Tagen gürtelförmige Schmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Murphy-Zeichen positiv"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akute Pankreatitis",
+      "Biliäre Pankreatitis",
+      "Gallensteinkomplikationen"
+    ],
+    "diagnostic_approach": [
+      "ERCP",
+      "Papillotomie zur Gallensteinentfernung",
+      "Laborbefunde anordnen",
+      "Cholestase-Parameter"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Gallenstein als Ursache der Pankreatitis"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Junge Patientin mit Schilddrüsenvergrößerung und papillärem Karzinom",
+    "patient_age": "junge Dame",
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "Schilddrüsenvergrößerung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "keine Beschwerden"
+    ],
+    "imaging_findings": [
+      "Sonographie durchgeführt",
+      "Szintigraphie durchgeführt"
+    ],
+    "laboratory_findings": [
+      "TSH im Normbereich",
+      "ft3 im Normbereich",
+      "ft4 im Normbereich"
+    ],
+    "suspected_diagnosis": [
+      "papilläres Karzinom"
+    ],
+    "diagnostic_approach": [
+      "Sonographie",
+      "Szintigraphie",
+      "Hemithyreoidektomie",
+      "histologische Untersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Pathologe stellte papilläres Karzinom fest",
+      "vollständige Thyreoidektomie empfohlen"
+    ]
+  },
+  {
+    "title": "Junger Mann mit akutem Abdomen",
+    "patient_age": "junger Mann",
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "diffuse Bauchschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "klinisches Bild eines akuten Abdomens"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akutes Abdomen"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

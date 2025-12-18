@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieses Dokument enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nEs handelt sich um eine **Übersichtstabelle über Qualitätskriterien** für verschiedene medizinische Leistungsbereiche und Leistungsgruppen (z.B. Intensivmedizin, Endokrinologie, Gastroenterologie, Nephrologie, Pneumologie, Rheumatologie, Hämatologie und Onkologie).\n\nDie Tabelle beschreibt:\n- Strukturelle Anforderungen (Standort, Kooperation, Geräte)\n- Personelle Qualifikationen (Fachärzte, Verfügbarkeit)\n- Prozesskriterien (Rufbereitschaft, Fallkonferenzen)\n- Planungsebenen (Kreis, Regierungsbezirk, Versorgungsgebiet)\n\nEs werden **keine individuellen Patienten** mit Symptomen, Diagnosen oder Krankheitsverläufen beschrieben."
+  }
+]

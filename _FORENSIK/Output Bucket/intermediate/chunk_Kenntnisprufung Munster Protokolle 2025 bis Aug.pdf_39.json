@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Inzidentalom bei neu diagnostizierter arterieller Hypertonie",
+    "patient_age": "69 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Bluthochdruck 165 mmHg bei Routineuntersuchung",
+      "Auffälliger Befund in Sonographie der rechten Flankenregion"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Rückenschmerzen seit 20 Jahren aufgrund Beckenbruch",
+      "Belastungsabhängige Dyspnoe",
+      "Fersenschmerzen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sonographie: auffälliger Befund rechte Flankenregion",
+      "Echoarme Raumforderung am vorderen Nierenpol",
+      "Sono-Bild von Leber und rechter Niere mit Nebennierenadenom"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sekundäre arterielle Hypertonie aufgrund von Nebennierenadenom",
+      "Conn-Syndrom",
+      "Cushing-Syndrom",
+      "Phäochromozytom"
+    ],
+    "diagnostic_approach": [
+      "Sonographie rechte Flankenregion",
+      "Bestimmung von Aldosteron/Renin-Quotient",
+      "Cortisolbestimmung im Serum und Urin",
+      "Mitternachtscortisol (Zirkadianenrhythmus)",
+      "ACTH-Bestimmung",
+      "Weitere Diagnostik zur Bestätigung"
+    ]
+  }
+]

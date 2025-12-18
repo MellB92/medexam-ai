@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 26/148) enthält **keine vollständigen klinischen Patientenfälle**, sondern ausschließlich **theoretische Fragen und Antworten** für eine Kenntnisprüfung:\n\n1. **Frage 98**: Verbrennungen - Stadien und Therapie (reine Theorie/Leitlinienwissen)\n2. **Frage 99**: CT-Vorbereitung - Laborwerte und Medikamente (Prozedurwissen)\n3. **Frage 100**: Insulintherapie - Berechnungsregeln (pharmakologisches Wissen)\n4. **Frage 101**: Katzenbiss - Behandlung und Keime (allgemeine Handlungsanweisung)\n5. **Frage 102**: Anatomie von Motoneuronen (theoretisches anatomisches Wissen, unvollständig)\n\nAlle Einträge sind **generische Wissensfragen** ohne spezifische Patientenangaben wie Alter, Geschlecht, individuelle Anamnese oder konkrete Fallschilderungen. Es handelt sich um Prüfungsvorbereitung mit standardisierten Antworten nach Leitlinien, nicht um dokumentierte klinische Fälle."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**, sondern ausschließlich:\n\n1. **Frage 30-37**: Theoretische Fragen mit standardisierten Antworten zu verschiedenen medizinischen Themen:\n   - Asthma-Exazerbation (Therapieschema)\n   - SIRS und Sepsis-Definitionen\n   - Morphin-Dosierung\n   - Kompartmentsyndrom-Therapie\n   - Colitis ulcerosa-Initialtherapie\n   - Thromboseprophylaxe postoperativ\n   - Fieber beim Säugling\n   - Hypertensiver Notfall\n\n2. Diese Abschnitte präsentieren:\n   - Allgemeine Therapieschemata\n   - Dosierungsrichtlinien\n   - Diagnosekriterien\n   - Behandlungsalgorithmen\n\n3. **Kein Fall** enthält:\n   - Einen spezifischen Patienten mit Alter/Geschlecht\n   - Eine individuelle Anamnese\n   - Einen konkreten Untersuchungsbefund\n   - Eine spezifische diagnostische Fragestellung\n\nDies ist reines **Lehrbuchwissen** in Frage-Antwort-Form, keine Kasuistik."
+  }
+]

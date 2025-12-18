@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Anämie bei Vorbereitung zur Hüft-TEP\",\n    \"patient_age\": null,\n    \"patient_gender\": \"m\",\n    \"chief_complaints\": [\n      \"Anämie\",\n      \"eingeschlafene Finger\",\n      \"brennendes Gefühl auf der Zunge\",\n      \"Kribbeln in den Beinen\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"geplante Hüft-TEP\"\n    ],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\n      \"EKG: linksventrikuläre Hypertrophie (Sokolow über 3.5 mV)\"\n    ],\n    \"laboratory_findings\": [\n      \"Anämie\"\n    ],\n    \"suspected_diagnosis\": [\n      \"Vitamin B12-Mangel\",\n      \"Aortenstenose\"\n    ],\n    \"diagnostic_approach\": [\n      \"Einweisung vom Hausarzt zur Abklärung\",\n      \"Labor bei Anämie\",\n      \"Urinsediment\",\n      \"EKG\"\n    ]\n  }\n]\n```"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 68/585) enthält **keine vollständigen klinischen Patientenfälle** im Sinne von Fallpräsentationen. \n\nDer Text besteht ausschließlich aus:\n- **Prüfungsfragen und -antworten** zu verschiedenen medizinischen Themen\n- **Theoretischem Wissen** (z.B. \"Was ist ein Kompartmentsyndrom?\")\n- **Therapeutischen Konzepten** (z.B. Lysetherapie, Calcaneusfraktur-Behandlung)\n- **Diagnostischen Verfahren** (z.B. Schellong-Test, EKG-Interpretation)\n\nEs gibt keine narrative Patientenpräsentation mit einem konkreten Fall, der die typischen Elemente enthält wie:\n- Spezifischer Patient mit Alter/Geschlecht\n- Vorstellung mit konkreten Beschwerden\n- Anamnese und Untersuchungsbefunde\n- Diagnostischer/therapeutischer Verlauf\n\nDie Fragen beziehen sich auf allgemeines medizinisches Wissen und Leitlinien, nicht auf konkrete Patientenfälle."
+  }
+]

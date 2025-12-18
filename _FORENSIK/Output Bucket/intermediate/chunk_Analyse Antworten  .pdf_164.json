@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Patient mit Adynamie, Husten und Wadenschmerzen bei Belastung\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"zunehmende Adynamie\", \"Husten\", \"Schmerzen in der linken Wade bei Gehstrecken über 200 Meter\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"periphere arterielle Verschlusskrankheit (pAVK)\", \"tiefe Venenthrombose (TVT)\", \"Lungenembolie\", \"Herzinsuffizienz\", \"Infektion\"],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

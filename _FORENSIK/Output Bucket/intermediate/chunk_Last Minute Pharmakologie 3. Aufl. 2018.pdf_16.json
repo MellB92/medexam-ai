@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDer vorliegende Textabschnitt besteht ausschließlich aus verschlüsseltem/codiertem Text (Base64 oder ähnliche Kodierung). Es handelt sich um eine lange Zeichenkette mit alphanumerischen Zeichen, Sonderzeichen und keinem lesbaren medizinischen Inhalt.\n\nEs sind keine klinischen Fälle, Patientenpräsentationen, Symptome, Diagnosen oder andere medizinische Informationen erkennbar. Der Text enthält keine strukturierten Informationen über Patienten, Anamnese, Untersuchungsbefunde oder diagnostische Überlegungen.\n\nDa keine vollständigen (oder überhaupt lesbaren) klinischen Fälle extrahiert werden können, wird ein leeres Array zurückgegeben."
+  }
+]

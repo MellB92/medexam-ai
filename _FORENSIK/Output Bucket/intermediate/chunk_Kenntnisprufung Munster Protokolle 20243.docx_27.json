@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Riesenzellarteriitis (Arteriitis temporalis) mit akuter Sehstörung",
+    "patient_age": "62 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Seit 2 Wochen zunehmende starke Schmerzen in der rechten Kopfhälfte",
+      "Schmerzen im Bereich der Kaumuskulatur",
+      "Schmerzen beim Schlucken und Kauen",
+      "Müdigkeit und Fieber seit 2 Wochen",
+      "Hypersensitivität der Haut im Frontal- und Temporalbereich",
+      "Plötzliches verschwommenes Sehen auf dem rechten Auge seit heute Morgen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie seit 3 Jahren",
+      "Z.n. Schenkelhalsfraktur im Alter von 21 (konservativ behandelt)",
+      "Z.n. Schilddrüsenknotenextirpation im Alter von 48 Jahren (komplikationslos)",
+      "Hepatitis vor 5 Jahren nach Italien-Reise (ausgeheilt)"
+    ],
+    "medications": [
+      "Candesartan 8 mg 1-0-0",
+      "Paracetamol 500 mg bei Bedarf (ohne Erfolg)"
+    ],
+    "allergies": [
+      "Diclofenac (Übelkeit und Pruritus)",
+      "Raucherin, 3 Zigaretten pro Tag",
+      "Alkohol gelegentlich"
+    ],
+    "physical_examination": [
+      "Schmerzen beim Beklopfen des Schädels",
+      "Sonst Kopf-bis-Fuß-Untersuchung unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Riesenzellarteriitis (Arteriitis temporalis)",
+      "AION - Akute ischämische Optikusneuropathie"
+    ],
+    "diagnostic_approach": [
+      "Temporalarterienbiopsie",
+      "Labor: BSG, CRP",
+      "Augenärztliche Untersuchung"
+    ]
+  }
+]

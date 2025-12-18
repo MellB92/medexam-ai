@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDer vorliegende Dokumentabschnitt (Chunk 22/115 aus \"Last Minute Pharmakologie, 3. Aufl. (2018).pdf\") besteht ausschließlich aus verschlüsseltem/kodiertem Text. Es handelt sich um eine lange Zeichenfolge aus scheinbar zufälligen Buchstaben, Zahlen und Sonderzeichen ohne erkennbare medizinische Inhalte oder klinische Fallpräsentationen.\n\nDies könnte sein:\n- Eine verschlüsselte Passage\n- Korrupte Daten bei der PDF-Extraktion\n- Ein technischer Fehler im Dokument\n- Base64- oder andere Kodierung\n\nEs sind **keine** lesbaren klinischen Fälle, Patientenpresentationen, Symptombeschreibungen oder medizinische Informationen erkennbar."
+  }
+]

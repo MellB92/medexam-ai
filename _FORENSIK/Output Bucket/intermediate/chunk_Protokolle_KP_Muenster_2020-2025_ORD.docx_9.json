@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Cholezystolithiasis mit V.a. Cholezystitis\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Verdacht auf Cholezystolithiasis\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"Bandscheibenvorfall\", \"Lyme Borreliose\", \"Unterschenkelarm Fraktur\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Murphy Zeichen positiv\"],\n    \"imaging_findings\": [\"Sonographie: Gallensteine ohne deutliche Hinweise auf Cholezystitis\"],\n    \"laboratory_findings\": [\"CRP erhöht\", \"Leukozyten erhöht\"],\n    \"suspected_diagnosis\": [\"Cholezystolithiasis\", \"Cholezystitis\"],\n    \"diagnostic_approach\": [],\n    \"family_history\": [\"CED bei Schwester\", \"Lungenkarzinom bei Vater\", \"TVT bei Mutter\"]\n  },\n  {\n    \"title\": \"Proximale Tibia Fraktur\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Proximale Tibia Fraktur\"],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

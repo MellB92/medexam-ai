@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Eisenmangelanämie bei NSAR-Einnahme ohne PPI",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Eisenmangelanämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [
+      "Diclofenac ohne PPI"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Eisenmangelanämie"
+    ],
+    "suspected_diagnosis": [
+      "Chronische Blutung durch NSAR-Einnahme"
+    ],
+    "diagnostic_approach": [
+      "Gastroskopie/Endoskopie zur Ursachenabklärung"
+    ]
+  },
+  {
+    "title": "Makrozytär hyperchrome Anämie mit Hunter-Glossitis",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Makrozytär hyperchrome Anämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Hunter-Glossitis"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Makrozytär hyperchrome Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Vitamin B12-Mangelanämie"
+    ],
+    "diagnostic_approach": [
+      "ÖGD (Gastroskopie)",
+      "Intrinsic-Faktor-Antikörper",
+      "Parietalzell-Antikörper"
+    ]
+  },
+  {
+    "title": "Perikarditis mit Perikarderguss",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG-Veränderungen bei Perikarditis",
+      "Perikarderguss im Echokardiographie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perikarditis mit Perikarderguss"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Echokardiographie"
+    ]
+  },
+  {
+    "title": "Koxarthrose mit geplanter Hüft-TEP",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Koxarthrose"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen mit typischen Befunden einer Koxarthrose",
+      "Röntgen mit Totalendoprothese (TEP)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Koxarthrose"
+    ],
+    "diagnostic_approach": [
+      "Röntgendiagnostik"
+    ]
+  },
+  {
+    "title": "Dünndarmileus mit Spiegelbildung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Abdomen mit Dünndarmileus",
+      "Spiegelbildung in der Mitte",
+      "Laparoskopie mit Adhäsiolyse"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Dünndarmileus"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Abdomen",
+      "Laparoskopie"
+    ]
+  },
+  {
+    "title": "Sprunggelenkhämatom",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Hämatom am Sprunggelenk"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Bild mit Sprunggelenkhämatom"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sprunggelenktrauma"
+    ],
+    "diagnostic_approach": []
+  }
+]

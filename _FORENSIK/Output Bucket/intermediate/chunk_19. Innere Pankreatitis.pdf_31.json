@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Vorlesungsfolien** zu akuter und chronischer Pankreatitis\n2. **Theoretischen Inhalten**: Definitionen, Ätiologie, Epidemiologie, Diagnostik, Therapie\n3. **Allgemeinen klinischen Angaben**: Symptome, Komplikationen, Prädiktoren\n4. **Schematischen Darstellungen**: Pathogenese, Schweregrade, Bildgebungsbeispiele\n5. **Therapierichtlinien** und Evidenzangaben\n\nEs werden zwar typische **Symptome** und **klinische Befunde** beschrieben (z.B. \"gürtelförmige Oberbauchschmerzen\", \"Grey-Turner-Zeichen\", \"Cullen-Zeichen\"), aber diese sind Teil der allgemeinen Lehrinhalte und nicht als konkrete Patientenfälle präsentiert.\n\n**Keine individuellen Patientenpräsentationen mit:**\n- Spezifischem Patienten (Alter/Geschlecht)\n- Konkreter Anamnese\n- Individuellem Verlauf\n- Fallspezifischer Diagnosestellung\n\nDies ist reines **Lehrmaterial** ohne Kasuistiken."
+  }
+]

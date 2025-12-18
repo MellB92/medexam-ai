@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle**. \n\nDer Text beschreibt ausschließlich:\n\n1. **Prüfungssituation**: Der Kandidat berichtet über seine mündliche Prüfung\n2. **Diskussion eines vorgestellten Falls**: Es wird erwähnt \"Ich stellte den Patientenfall vor\" und es geht um Sepsis-Diskussion, aber der eigentliche Fall selbst wird nicht präsentiert\n3. **Theoretische Prüfungsfragen** zu verschiedenen Themen:\n   - Sepsis, SOFA-Score, SIRS\n   - Vorhofflimmern (EKG-Interpretation)\n   - Leberzirrhose\n   - Arterielle Hypertonie\n   - Polytrauma (theoretisches Szenario)\n   - Frakturen (Bildinterpretationen)\n   - Kolonkarzinom\n   - Dialyse und Hyperkaliämie\n   - Methotrexat (Pharmakologie)\n\n4. **Bildinterpretationen**: EKGs, Röntgenbilder, Funduskopie - aber ohne vollständige Patientenkontexte\n\nDie erwähnten klinischen Szenarien (z.B. \"Polytrauma nach Verkehrsunfall\", \"Patient mit VHF\") sind **hypothetische Prüfungsfragen** ohne ausreichende Details für einen vollständigen klinischen Fall (fehlen: Alter, Geschlecht, konkrete Anamnese, vollständige Untersuchungsbefunde, etc.)."
+  }
+]

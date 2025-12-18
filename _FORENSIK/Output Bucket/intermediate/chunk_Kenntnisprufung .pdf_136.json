@@ -1,0 +1,158 @@
+[
+  {
+    "title": "Einmalige Atemnot durch ACE-Hemmer-induziertes Angioödem",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Atemnot"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "ACE-Hemmer (unklar)",
+      "DD: Metoprolol"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Angioödem",
+      "Glottisverengung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "ACE-Hemmer-induziertes Angioödem durch Bradykinin-Freisetzung",
+      "DD: Metoprolol mit CYP-2D6 Inhibitor-Interaktion"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Frühintubation indiziert",
+      "Coniotomie bei Glottisverengung",
+      "Icatibant als Bradykinin-Antagonist"
+    ],
+    "complications": [
+      "Glottisverengung"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Atemnot und Melena mit schwerer Anämie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Atemnot",
+      "Melena"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Hb 3,2 g/dl"
+    ],
+    "suspected_diagnosis": [
+      "obere gastrointestinale Blutung",
+      "schwere Anämie"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Polytrauma nach Motorroller-Unfall (Arbeitsunfall)",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Schmerzen am Kopf links",
+      "Schmerzen an Rippen links",
+      "Schmerzen am Knie rechts",
+      "Kopfschmerzen",
+      "Übelkeit",
+      "Erbrechen (einmal)",
+      "Schläfrigkeit"
+    ],
+    "accident_mechanism": "Arbeitsunfall: wollte aus dem Bus aussteigen, von Motorroller angefahren, mit Knie gedreht und auf linke Seite gestürzt",
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "Leistenhernie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Arbeitsunfall (BG-Fall)",
+      "berufstätig"
+    ],
+    "medications": [
+      "keine regelmäßigen Medikamente",
+      "Analgetikum vom Notarzt präklinisch verabreicht"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "GCS 12/15",
+      "Blutdruck gemessen",
+      "Puls gemessen",
+      "schläfrig, somnolent"
+    ],
+    "physical_examination": [
+      "Augen öffnen auf Ansprache",
+      "Würgen und Husten bei Bewegung",
+      "Druckschmerz linke Rippen",
+      "Druckschmerz am linken Hemithorax",
+      "Lunge: Klopfschall unauffällig",
+      "Lunge: Auskultation unauffällig, keine Dämpfung (kein Hämatothorax)",
+      "Abdomen: komplett untersucht, unauffällig",
+      "PDMS intakt",
+      "Becken: untersucht, stabil",
+      "Knie rechts: starker Druckschmerz, Patient schreit bei Palpation"
+    ],
+    "imaging_findings": [
+      "Röntgen Knie: kleine extraartikuläre Tibiakopffraktur rechts",
+      "AO-Klassifikation durchgeführt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma",
+      "extraartikuläre Tibiakopffraktur rechts",
+      "Rippenprellung links",
+      "Schädelprellung links",
+      "leichtgradiges Schädel-Hirn-Trauma"
+    ],
+    "diagnostic_approach": [
+      "ABCDE-Schema nach ATLS",
+      "zweiten venösen Zugang anlegen",
+      "Monitoring",
+      "Blutdruck- und Pulsmessung",
+      "C-Bogen",
+      "Röntgenuntersuchung",
+      "EFAST-Sonographie",
+      "Polytrauma-CT (sofortige Indikation)",
+      "systematische Traumauntersuchung"
+    ],
+    "treatment_response": [
+      "Wundnaht durchgeführt (komplett subkutan genäht)",
+      "konservative Therapie der Tibiakopffraktur",
+      "Motorschiene (CPM)",
+      "Orthese"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

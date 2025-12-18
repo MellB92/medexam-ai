@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Akute Pankreatitis bei Alkoholabusus",
+    "patient_age": "57-jähriger",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "seit gestriger Nacht aufgetretene persistierende dumpf-stechende gürtelförmige Oberbauchschmerzen",
+      "Ausstrahlung ins Rücken beidseits"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "C2-Abusus (Alkoholabusus)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Alkoholabusus"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Abdomensonographie Oberbauchquerschnitt: Pankreas oberhalb des Confluens der V. Portae sowie Leberlappe"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "akute Pankreatitis",
+      "biliäre Pankreatitis"
+    ],
+    "diagnostic_approach": [
+      "Labor",
+      "Abdomensonographie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

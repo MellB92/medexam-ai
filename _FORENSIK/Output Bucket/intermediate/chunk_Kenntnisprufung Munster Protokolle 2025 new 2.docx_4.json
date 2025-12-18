@@ -1,0 +1,52 @@
+[
+  {
+    "title": "VKB-Ruptur und proximale Tibiafraktur",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "VKB Ruptur",
+      "Tibiafraktur proximal"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Zustand nach Operation einer nicht-bösartigen Geschwulst im Halsbereich (Verdacht auf Lipom)",
+      "Arterielle Hypertonie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Bruder mit chronisch myeloischer Leukämie (CML)"
+    ],
+    "social_history": [],
+    "medications": [
+      "Ramipril (in Vergangenheit für Bluthochdruck, abgesetzt)"
+    ],
+    "allergies": [
+      "ACE-Hemmer-induziertes Angioödem unter Ramipril (Zungenödem und Luftnot)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Polytrauma-Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [
+      "Röntgen: proximale Tibiakopffraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "VKB-Ruptur",
+      "Proximale Tibiafraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgendiagnostik Tibiakopf"
+    ],
+    "treatment_response": [
+      "Osteosynthese geplant/durchgeführt"
+    ],
+    "complications": [
+      "N. accessorius-Läsion nach vorheriger Hals-Operation mit konsekutiven Schulterschmerzen",
+      "Kompartmentsyndrom als mögliche postoperative Komplikation diskutiert"
+    ],
+    "follow_up": []
+  }
+]

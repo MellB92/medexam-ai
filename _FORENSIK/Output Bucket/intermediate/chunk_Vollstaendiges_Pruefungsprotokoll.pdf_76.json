@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 77/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Prüfungsfragen mit theoretischen Antworten** zu verschiedenen medizinischen Themen:\n   - Schilddrüsen-Sonographie (Längs- vs. Querschnitt)\n   - Morbus Basedow (Pathophysiologie, Behandlung, Komplikationen)\n   - VSD (Ventrikelseptumdefekt) - allgemeine Fragen\n   - Komplikationen bei Schilddrüsen-OP\n   - Pneumothorax/Spannungspneumothorax - Notfallmanagement\n   - Divertikulitis und Pneumoperitoneum\n   - Colles-Fraktur - Frakturklassifikation\n\n2. **Fragmentarische Erwähnungen** ohne vollständige Falldarstellung:\n   - \"Patient mit Morbus Basedow und akutem STEMI\" - nur als theoretische Frage, keine Fallpräsentation\n   - \"Bild mit Pneumoperitoneum\" - nur Bildinterpretation\n   - \"Undislozierte distale Unterarmfraktur\" - nur als Behandlungsbeispiel\n\n3. **Fehlende Informationen für vollständige Fälle:**\n   - Keine Patientenangaben (Alter, Geschlecht)\n   - Keine Anamnese oder Symptompräsentation\n   - Keine vollständige Befunderhebung\n   - Nur theoretische Wissensfragen im Prüfungskontext\n\nDies ist ein Prüfungsprotokoll mit Frage-Antwort-Struktur, **keine Fallsammlung**."
+  }
+]

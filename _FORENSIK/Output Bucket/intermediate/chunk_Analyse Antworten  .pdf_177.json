@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 178/254) enthält **keine vollständigen klinischen Patientenfälle oder Präsentationsfälle**.\n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** zu verschiedenen medizinischen Themen:\n   - Wirkmechanismen von Medikamenten (Methotrexat, Aciclovir)\n   - Herpesviren-Klassifikation\n   - Strahlenschutzprinzipien\n   - FAST/eFAST-Untersuchungen\n   - Spannungspneumothorax-Behandlung\n   - GERD-Therapie\n   - Chronisches Koronarsyndrom\n   - Hypothyreose\n   - Dialyseverfahren\n   - Risikofaktoren für Pyelonephritis\n\n2. **Prüfungsfragen** mit Musterlösungen und Fehleranalysen\n\n3. Der Text endet mitten in einer Frage zur Pyelonephritis (abgeschnitten)\n\nEs werden **keine konkreten Patienten** mit individuellen Charakteristika (Alter, Geschlecht, Anamnese, Symptome, Untersuchungsbefunde) beschrieben, die einen klinischen Fall konstituieren würden."
+  }
+]

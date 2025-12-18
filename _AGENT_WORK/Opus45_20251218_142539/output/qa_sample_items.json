@@ -1,0 +1,151 @@
+{
+  "selected_at": "2025-12-18T16:10:46.311078",
+  "agent": "Opus 4.5 #1",
+  "total_items": 60,
+  "sample_size": 10,
+  "sample_items": [
+    {
+      "id": "evidenz_4345",
+      "index": 4345,
+      "frage": "Sigmadivertikulitis , infektiöse Gastroenteritis, Pyelonephritis, HWI . Wie gehen sie vor?",
+      "issues": [
+        "Bei unkomplizierter Sigmadivertikulitis wird in der S3-Leitlinie 2021/2022 routinemäßig keine Antibiotikatherapie empfohlen, sondern nur bei systemischen Entzündungszeichen oder Komplikationen.",
+        "Diagnostik bei Sigmadivertikulitis: Sonografie ist Methode der 1. Wahl, CT Goldstandard nur bei Verdacht auf Komplikationen.",
+        "Pyelonephritis: Therapieempfehlungen nicht vollständig aktuell; STIKO/RKI bevorzugen bei unkompliziertem Verlauf Fosfomycin oder Pivmecillinam als Erstlinie, Fluorchinolone nur bei Resistenzabwägung.",
+        "Infektiöse Gastroenteritis: Therapie bei EHEC korrekt als Ausnahme, aber fehlt Spezifizierung zu Vibrio cholerae oder schweren Salmonella-Fällen."
+      ],
+      "empfehlung": "Korrigiere Sigmadivertikulitis: Keine Routine-AB bei unkompliziert, Sonografie priorisieren. Ergänze Pyelonephritis um aktuelle HWI-Leitlinien (AWMF 043/044). Prüfe auf 2024/2025-Updates via AWMF-Register.",
+      "antwort_original": "**Antwort:** \n\nBei der Behandlung der genannten Erkrankungen – Sigmadivertikulitis, infektiöse Gastroenteritis, Pyelonephritis und Harnwegsinfektion (HWI) – ist ein systematisches Vorgehen entscheidend. Hier sind die einzelnen Erkrankungen und die entsprechenden therapeutischen Ansätze:\n\n1. **Sigmadivertikulitis:**\n   - **Diagnose:** Die Diagnose erfolgt in der Regel durch Anamnese, körperliche Untersuchung und bildgebende Verfahren wie Ultraschall oder CT-Abdomen.\n   - **Therapie:** \n     - Be…",
+      "antwort_korrigiert": "1. Sigmadivertikulitis\n• Diagnostik: Anamnese (Schmerzlokalisation, Fieber), klinische Untersuchung, Entzündungsparameter (CRP, Leukozyten), CT-Abdomen mit Kontrastmittel zur Stadieneinteilung (Hinchey).\n• Therapie:\n  – Unkompliziert (Kein Abszess, Perforation): stationär oder ambulant je nach Schwere; initial ballaststoffarme/flüssige Diät, i.v. Flüssigkeit nur bei Hypovolämie; Antibiotika nur bei Risikofaktoren (Immunsuppression, hohe Entzündungswerte, Komorbidität) z. B. Ciprofloxacin + Metr…"
+    },
+    {
+      "id": "evidenz_2245",
+      "index": 2245,
+      "frage": "Worauf deuten diese Veränderungen im Zusammenhang mit Herz und Lunge hin?",
+      "issues": [
+        "Beschriebene Gefäßzeichnung (prominente Pulmonalarterien zentral mit Abnahme peripher) ist **nicht** typisch für pulmonale Hypertonie (PH), sondern klassisch für **linke Herzinsuffizienz** mit pulmonalvenöser Stauung (cephalisiertes Gefäßmuster, upper lobe diversion)[1][2][6].",
+        "Bei PH/Cor pulmonale typisch: **oligämische Peripherie** durch Gefäßverengung/Verschluss, aber **keine** zentrale Prominenz der Pulmonalarterien im Röntgen (besser Echokardiographie); CTR >0,5 eher linksseitige Kardiomegalie[1][3].",
+        "Fehlende Differenzialdiagnosen (z.B. linksseitige Herzinsuffizienz, Mitralstenose); unvollständig für Prüfung (PH-Diagnose goldstandard: Rechtsherzkatheter, nicht primär Röntgen)[4].",
+        "Keine AWMF-Leitlinie 2024/2025 gefunden; RKI/STIKO irrelevant."
+      ],
+      "empfehlung": "Korrigiere auf **linke Herzinsuffizienz** mit pulmonaler Stauung; ergänze Differenzialdiagnosen und PH-spezifische Röntgenbefunde (z.B. vergrößerter RV-Umriss lateral). Füge Leitlinien-Empfehlung (ESC PH 2022: Echo + Katheter) hinzu.",
+      "antwort_original": "Die Formulierung „diese Veränderungen“ ist ohne weitere Angaben (z.B. Befunde in Anamnese, Auskultation, EKG, Echo, Röntgen-Thorax, Labor) nicht interpretierbar. Eine evidenzbasierte Zuordnung zu einer bestimmten Herz- oder Lungenerkrankung ist damit nicht möglich. Für eine seriöse Beurteilung wären konkrete Befunde (z.B. Ödeme, Rasselgeräusche, Herzgeräusche, EKG-/Röntgenveränderungen) erforderlich. Ohne diese Informationen darf keine diagnostische Aussage getroffen werden.",
+      "antwort_korrigiert": "Im Thoraxröntgen führen eine Herz-Thorax-Relation > 0,5 in der PA-Projektion und auffällig prominente Gefäßzeichnungen an den Pulmonalarterienstämmen bei gleichzeitiger Abnahme der peripheren Gefäßzeichnungen in den Lungen peripher auf eine chronische Druckbelastung des rechten Herzens hin. Diese Befunde sind typisch für eine pulmonale Hypertonie mit konsekutivem Cor pulmonale. Zur weiteren Abklärung sollte eine Echokardiographie erfolgen (z. B. Nachweis von RV-Dilatation, Trikuspidal­regurgita…"
+    },
+    {
+      "id": "evidenz_2066",
+      "index": 2066,
+      "frage": "Welche Impfungen gibt generell für Pneumonie?  Wer muss geimpft werden ?",
+      "issues": [
+        "Säuglinge: STIKO empfiehlt PCV13/15 im 2+1-Schema (2.,4.,11. Monat), nicht PCV20/PCV13/15/20; PCV20 trotz Zulassung nicht empfohlen wegen Unsicherheiten [4][7].",
+        "Risikogruppen ≥18 Jahre: PCV20 oder sequentiell PCV15 + PPSV23 nach 6-12 Monaten korrekt, aber für Kinder/Jugendliche 2-17 Jahre strikt sequentiell PCV13/15 + PPSV23, nicht PCV20 [2][4].",
+        "Wiederholung PPSV23 nach 6 Jahren nur bei sequentieller Impfung und anhaltendem Risiko; ungenau formuliert.",
+        "Influenza: Jährlich ≥60 Jahre korrekt, aber ab 6 Monaten bei Risikogruppen präziser; Schwangere ab 2. Trimester ok, aber nicht primär pneumonie-spezifisch.",
+        "Vollständigkeit: Fehlende Erwähnung Haemophilus influenzae Typ b (Hib) als Pneumonie-Prävention im UIMP; Legionellen-Impfung nicht existent, aber Risikogruppen unvollständig für Prüfung."
+      ],
+      "empfehlung": "Korrigiere Säuglingsempfehlung auf PCV13/15 2+1; spezifiziere Altersgruppen für sequentielle Impfung (2-17 J.); ergänze Hib-Impfung; prüfe STIKO-Leitlinie November 2025 für Updates.",
+      "antwort_original": "Gegen Pneumonien gibt es vor allem Impfungen gegen Pneumokokken (polysaccharid: PPSV23, konjugat: PCV13/15/20) und gegen Influenza (Grippe), da beide wichtige Auslöser bakterieller bzw. viraler Pneumonien sind. Generelle Standardimpfungen sind: Pneumokokken-Konjugatimpfung im Kindesalter und einmalige Pneumokokkenimpfung im Alter ≥60 Jahre (ggf. Auffrischung je nach Schema), sowie jährliche Influenzaimpfung für alle ab 60 Jahren. Zusätzlich sollen geimpft werden: Personen mit chronischen Erkran…",
+      "antwort_korrigiert": "Empfohlene Impfungen zur Prävention von Pneumonien\n\n1. Pneumokokken-Impfung\n– Säuglinge: Konjugatimpfung mit PCV13/15/20 im 2 + 1-Schema (2., 4. und 11. Lebensmonat).\n– Erwachsene ≥ 60 Jahre: einmalig PCV20.\n– Personen ≥ 18 Jahre mit erhöhtem Risiko (chronische Herz-, Lungen-, Leber-, Nieren- oder neurologische Erkrankungen, Diabetes mellitus, Immundefizienz einschließlich HIV, Organtransplantation, Asplenie/Milzfunktionsstörung, Liquorfistel, Cochlea-Implantat, neoplastische Erkrankungen, neph…"
+    },
+    {
+      "id": "evidenz_4413",
+      "index": 4413,
+      "frage": "3. Chronische myeloische Leukämie? Phasen? Frühsymptomen und Spätsymptomen? Translokation 9:22 Chromoson Philadelphia? Welche Protein? BCR-ABL, welche Funktion? Tyrosinkinase, aber was stattfindet spezifisch in Zellkern? Medikament dagegen? Imatinib, was ist es? Tyrosinkinaseinhibitor. Komplikationen? Blastenkrise? Blutaustrich-> was ist das? Blasten. Spätsymptome? bei Verdrängung des Knöchenmarks. Therapie? Chemotherapie und Knochenmarktransplatation, welche Chema? Wie machen sie eine Knkochenmarktranspl.? Wie wurden sie es zu einem Patienten erzählen? Was muss vorher erfolgen?",
+      "issues": [
+        "Phasen-Kriterien nach ELN leicht ungenau: Akzelerierte Phase umfasst 10–19% Blasten oder ≥20% Basophile/≥20% Eosinophile, nicht exakt '≥20% Basophile'; Blastenkrise ≥20% Blasten (WHO/ELN 2022 konsistent).",
+        "BCR-ABL-Funktion: Tyrosinkinase zytosolisch, aktiviert Kaskaden, die nukleäre Transkription fördern – korrekt, aber Formulierung 'im Zellkern' irreführend, da Enzym selbst nicht kernlokalisierend.",
+        "Therapie in Blastenkrise unvollständig: Standard ist TKI + akute-Leukämie-ähnliche Chemotherapie (z.B. Hyper-CVAD, FLAG-IDA), alloSZT als Konsolidierung; myeloablative Konditionierung nicht immer primär.",
+        "Text unvollständig abgeschnitten (Dosierung Imatinib, Stammzelltransplantation)."
+      ],
+      "empfehlung": "Korrigiere Phasen-Kriterien nach ELN/DGHO, ergänze vollständigen Therapieteil und präzisiere BCR-ABL-Signalweg. Erweitere auf Monitoring (BCR-ABL-Transkript) und 2./3. Gen TKI für Prüfungsrelevanz.",
+      "antwort_original": "**Antwort:** \n\nDie chronische myeloische Leukämie (CML) ist eine myeloproliferative Neoplasie, die durch eine übermäßige Produktion von myeloischen Zellen im Knochenmark gekennzeichnet ist. Sie verläuft typischerweise in drei Phasen: \n\n1. **Chronische Phase**: Diese Phase kann Jahre andauern und ist oft asymptomatisch oder zeigt milde Symptome. Häufige Frühsymptome sind Müdigkeit, Schwäche, Gewichtsverlust, Nachtschweiß und Splenomegalie (vergrößerte Milz).\n\n2. **Akzelerierte Phase**: In dieser…",
+      "antwort_korrigiert": "**Chronische myeloische Leukämie (CML)**\n\n**Definition:** Myeloproliferative Neoplasie mit klonaler Proliferation myeloischer Zellen, charakterisiert durch das Philadelphia-Chromosom.\n\n**Drei Phasen (nach ELN-Kriterien):**\n1. **Chronische Phase:** <10% Blasten in Blut/Knochenmark, oft Jahre asymptomatisch\n2. **Akzelerierte Phase:** 10-19% Blasten, ≥20% Basophile, therapieresistente Thrombozytopenie/Thrombozytose\n3. **Blastenkrise:** ≥20% Blasten in Blut/Knochenmark oder extramedulläre Blastenin…"
+    },
+    {
+      "id": "evidenz_3043",
+      "index": 3043,
+      "frage": "hier wichtig – Langzeit Blutdruckmessun. Was sagt das uns?",
+      "issues": [
+        "Keine Primärquellen wie AWMF-Leitlinie 'Arterieller Hypertonus 2024' zitiert; Inhalte nur aus Sekundärquellen abgeleitet.",
+        "Diagnostische Schwellenwerte (24h ≥130/80, Tag ≥135/85, Nacht ≥120/70) nicht in Suchergebnissen bestätigt und müssen via AWMF validiert werden.",
+        "Indikationen (z.B. Schwangerschaftshypertonie) teilweise plausibel, aber NVL-Referenz ungenau ohne Leitlinienzitat.",
+        "ESC/ESH 2024 betont ABPM als bevorzugte Methode, nicht nur 'gleichwertig' zu HBPM."
+      ],
+      "empfehlung": "Korrigiere mit direkten Zitaten aus AWMF 061-010 (ABPM-Schwellen: 24h-Mittel ≥125/80 mmHg korrigiert?) und ESC 2024. Erweitere auf Validierungsstudien für Prüfungsrelevanz.",
+      "antwort_original": "Die Langzeit-Blutdruckmessung (24‑h-ABDM) zeigt das tatsächliche Blutdruckprofil im Alltag und ist Goldstandard zur Diagnosesicherung der Hypertonie. Sie erlaubt die Erkennung von Weißkittel- und maskierter Hypertonie, die Beurteilung des Tag‑/Nacht-Rhythmus (Dipping-Status) sowie der nächtlichen Hypertonie, die besonders prognostisch bedeutsam ist. Zudem dient sie der Therapiekontrolle (Wirksamkeit und Dauer der Medikation über 24 h, morgendliche Blutdruckspitzen) und liefert eine bessere Vorh…",
+      "antwort_korrigiert": "Die Langzeit-Blutdruckmessung (24-h-ABPM) ist eine **empfohlene Methode** zur Diagnosesicherung der arteriellen Hypertonie – gleichwertig neben Praxis- und Selbstmessung (HBPM), jedoch kein alleiniger Goldstandard.\n\n**Klinische Bedeutung:**\n1. **Erkennung spezieller Hypertonieformen:** Weißkittelhypertonie (Praxis erhöht, ABPM normal) und maskierte Hypertonie (Praxis normal, ABPM erhöht)\n2. **Beurteilung des Tag-Nacht-Rhythmus (Dipping-Status):**\n   - Normales Dipping: nächtlicher BD-Abfall 10–…"
+    },
+    {
+      "id": "evidenz_2688",
+      "index": 2688,
+      "frage": "Was für chirurgische OP können Sie ihm empfehlen? Bariatische Chirurgie",
+      "issues": [
+        "Die zitierte S3-Leitlinie (AWMF 088-001, Stand 2018) ist abgelaufen (gültig bis 31.12.2022, derzeit in Überarbeitung)[1][2][4][8]. Nicht aktuell für 2024/2025.",
+        "Laparoskopische Magenbandimplantation wird in neueren Empfehlungen (z.B. IFSO, internationale Standards) nicht mehr als Standardverfahren empfohlen, da schlechte Langzeitergebnisse und hohe Komplikationsraten; Leitlinie 2018 listet es noch, aber aktuell obsolet.",
+        "Biliopankreatische Diversion mit Duodenoswitch: Empfehlung bei BMI ≥60 oder ausgewählten Zentren korrekt für 2018, aber Gültigkeit fraglich ohne Update.",
+        "Indikationskriterien (BMI ≥40 oder ≥35 mit Komorbiditäten) korrekt für abgelaufene LG, aber prüfungsrelevant: Aktuelle DAG/DGAV-Positionen könnten angepasst sein (metabolische Chirurgie erweitert)."
+      ],
+      "empfehlung": "Antwort korrigieren: Ablauf der LG explizit nennen und auf internationale Standards (z.B. IFSO) oder aktuelle DGAV/DAG-Empfehlungen hinweisen (Magenband streichen/relativieren). Für Prüfung: BMI-Indikationen und Standardverfahren (Sleeve, RYGB, Mini-Bypass) ok, aber Aktualität ergänzen. Warne vor veralteten Infos.",
+      "antwort_original": "Empfohlen werden sollten ausschließlich etablierte, leitlinienkonforme bariatrische Standardverfahren. Dazu zählen insbesondere:  \n- Laparoskopischer Roux-en-Y-Magenbypass (RYGB)  \n- Laparoskopische Schlauchmagenresektion (Sleeve-Gastrektomie)  \nWeitere anerkannte Optionen – je nach individueller Situation und Expertise des Zentrums – sind der einanastomotische/mini-Gastric-Bypass oder biliopankreatische Diversion/Duodenalswitch, letzteres v. a. bei extremer Adipositas und metabolischen Problem…",
+      "antwort_korrigiert": "Nach der S3-Leitlinie Chirurgie der Adipositas (AWMF-Registernummer 088-001) gelten vier lapar­oskopische Standardverfahren:\n\n• Laparoskopische Schlauchmagen­resektion (Sleeve-Gastrektomie)\n• Proximaler Roux-en-Y-Magenbypass\n• Laparoskopische Magenbandimplantation\n• Einanastomotischer (Omega-Loop/Mini-) Magenbypass\n\nEine biliopankreatische Diversion mit Duodeno­switch wird nur bei BMI ≥ 60 kg/m2 oder in ausgewählten Zentren empfohlen. Die Indikation zur bariatrischen OP setzt voraus: BMI ≥ 40 k…"
+    },
+    {
+      "id": "evidenz_2669",
+      "index": 2669,
+      "frage": "Wo schickt man die Röntgenaufnahmen? Ich wusste nicht! Anscheinend zu Ärztekammer! Warum? Ich habe Qualitätssicherung gesagt.",
+      "issues": [
+        "Die Angabe zu § 28 RöV ist veraltet: Die Röntgenverordnung wurde durch das Strahlenschutzgesetz (StrlSchG) und die Strahlenschutzverordnung (StrlSchV) zum 31.12.2018 abgelöst; aktuell gelten insbesondere § 85 StrlSchG und § 127 StrlSchV für Aufbewahrung/Aufzeichnungen, nicht mehr § 28 RöV.[3][4]",
+        "Für Prüfungszwecke 2024/2025 ist wichtig zu wissen: Röntgenbilder verbleiben beim Strahlenschutzverantwortlichen bzw. Arzt, müssen dort 10 Jahre (bei Untersuchungen) bzw. 30 Jahre (bei Behandlungen) aufbewahrt werden; sie werden grundsätzlich weder an die Ärztekammer noch an eine andere externe Stelle routinemäßig gesendet.[3][4][9]",
+        "Die Aussage, dass eine Übermittlung an die Ärztekammer erfolgen könne, wenn diese im Bundesland als Prüfungsstelle/Qualitätssicherungsinstanz benannt ist, ist sehr spekulativ und nicht durch die strahlenschutzrechtlichen Regelungen gedeckt; für die ärztliche Kenntnisprüfung werden in der Regel Prüfungsunterlagen, aber keine echten Patientenröntgenbilder aus der Routineversorgung an die Kammer ‚geschickt‘.",
+        "Für die Kenntnisprüfung ist der Bezug auf Qualitätssicherung missverständlich: Qualitätssicherung in der Röntgendiagnostik (QS-Richtlinien der Fachgesellschaften, ggf. behördliche Prüfungen) ist primär an Strahlenschutzbehörden/KV gebunden, nicht an die Ärztekammer als reguläres Empfangsziel von Patientenaufnahmen.",
+        "Die Antwort geht nicht auf die in Leitlinien und Vorschriften zentrale Information ein, dass eine Übergabe der Original-Röntgenbilder zur dauerhaften Aufbewahrung an den Patienten unzulässig ist und die Aufbewahrungspflicht beim Strahlenschutzverantwortlichen verbleibt – ein typischer Prüfungsaspekt.[2][3]"
+      ],
+      "empfehlung": "",
+      "antwort_original": "In der Kenntnisprüfung werden Röntgenaufnahmen grundsätzlich nicht an die Ärztekammer geschickt, sondern verbleiben im zuständigen Krankenhaus bzw. in der Prüfungsstelle und dienen dort der Beurteilung Ihrer fachlichen Kompetenz. Eine Übersendung an die Ärztekammer wäre nur dann relevant, wenn die Kammer im jeweiligen Bundesland formal die Prüfungsorganisation oder eine nachgelagerte Qualitätssicherung übernimmt – dies ist aber regional sehr unterschiedlich geregelt. Ihre Antwort „Qualitätssich…",
+      "antwort_korrigiert": "Röntgenaufnahmen werden nicht routinemäßig an die Ärztekammer versandt. Gemäß § 28 Röntgenverordnung (RöV) verbleiben sie beim Strahlenschutzverantwortlichen im Krankenhaus oder beim durchführenden Arzt. Eine Übermittlung an die Ärztekammer erfolgt nur, wenn diese im jeweiligen Bundesland formell als Prüfungsstelle oder externe Qualitätssicherungsinstanz für die Kenntnisprüfung benannt ist."
+    },
+    {
+      "id": "evidenz_2280",
+      "index": 2280,
+      "frage": "Ich hab das Bild sofort erkennt und angefanngen alles zu sagen bzgl. was ich sehe. Er wollte wissen jede Wirkung welchem Medikament gehört?",
+      "issues": [
+        "Fehlende AWMF-Leitlinien oder RKI/STIKO-Quellen in Recherche; primäre Quellen (DocCheck, Wikipedia) sekundär, unzureichend für Aktualität 2024/2025",
+        "Keine Validierung der Pharmakologie (Succinylcholin, Rocuronium etc.) durch aktuelle Leitlinien (z.B. DGAKI/SGAI Anästhesie-Leitlinien)",
+        "Vollständigkeit: Prüfungsrelevant, aber fehlen Antikörper-Aspekte (Myasthenia gravis) oder Botulinumtoxin als weitere relevante Mechanismen",
+        "Wirkdauer Succinylcholin (5-10 min) vereinfacht; abhängig von Plasma-Cholinesterase, kann verlängert sein",
+        "Sugammadex nur für Rocuronium/Vecuronium spezifisch; Atracurium spontan abgebaut"
+      ],
+      "empfehlung": "Ergänze AWMF/DGAKI-Zitate, erweitere um Botulinumtoxin (präsynaptisch) und Myasthenie für Vollständigkeit; überarbeite Wirkzeiten mit Variabilität; suche primär AWMF-Register für Anästhesie-Leitlinien 2025.",
+      "antwort_original": "Ohne das konkrete Bild und ohne Angaben, welche Medikamente bzw. Nebenwirkungen der Prüfer abgefragt hat, lässt sich die Frage inhaltlich nicht korrekt zuordnen. In der Prüfung geht es an dieser Stelle meist darum, typische Nebenwirkungen bestimmten, häufig geprüften Medikamentenklassen zuzuordnen (z.B. ACE-Hemmer → Reizhusten/Angioödem, Betablocker → Bradykardie/Bronchospasmus, Thiazide → Hyponatriämie/Hypokaliämie, NSAR → GI-Ulzera/Niere, Statine → Myopathie, Kortikosteroide → Osteoporose/Hyp…",
+      "antwort_korrigiert": "Das Bild zeigt die neuromuskuläre Endplatte mit Acetylcholinrezeptoren (nikotinerg). Die drei typischen Wirkungsmechanismen und zugehörigen Medikamente sind:\n\n1. **Depolarisierende Muskelrelaxantien (Succinylcholin):**\n- Agonist am nikotinergen ACh-Rezeptor\n- Initiale Depolarisation → Faszikulationen\n- Dann anhaltende Depolarisation → schlaffe Lähmung\n- Schneller Wirkungseintritt (30-60 s), kurze Wirkdauer (5-10 min)\n- Cave: Hyperkaliämie, maligne Hyperthermie-Triggersubstanz\n\n2. **Nicht-depola…"
+    },
+    {
+      "id": "evidenz_4482",
+      "index": 4482,
+      "frage": "Prüfer: sehr gute Vorstellung und  Apoplex haben wir ausgeschlossen alles in Ordnung keine Blutung, keine Ischämie ,jezt wie gehen Sie mit Oberschenkelbeschwerden diagnostisch vor?",
+      "issues": [
+        "Die Antwort blendet wichtige häufige Ursachen für akute Oberschenkelbeschwerden aus (z.B. Fraktur nach Sturz, Muskelfaserriss, Hämatom, Radikulopathie L2/L3, Meralgia paraesthetica) und fokussiert fast ausschließlich auf post‑stroke-spezifische Probleme.",
+        "Die differenzialdiagnostische Priorisierung (Spastik, CPSP, CRPS) ist im Kontext der unspezifizierten Prüfungsfrage zu eng und nicht leitlinienbasiert priorisiert; eine strukturierte orthopädisch‑traumatologische und neurologische Basisdiagnostik fehlt.",
+        "Der Einsatz von Spastizitätsskala (Ashworth), Botulinumtoxin A und FES ist inhaltlich grundsätzlich korrekt, aber für die konkrete Prüfungsfrage zu spezialisiert und ohne Hinweis auf vorherige Basismaßnahmen (Analgetika, Tonus-reduzierende Medikation, Physio nach Schlaganfall‑Leitlinie).",
+        "Für die Kenntnisprüfung wäre eine klarere, systematische Herangehensweise (Anamnese inkl. Trauma/Sturz, Inspektion/Palpation, Bewegungsprüfung Hüfte/Knie/LWS, Gefäßstatus, neurogene vs. muskuloskelettale Ursachen, Bildgebung bei Frakturverdacht) erforderlich."
+      ],
+      "empfehlung": "Antwort um eine strukturierte Basisdiagnostik (Anamnese inkl. Trauma/Sturz, Inspektion/Palpation, Bewegungsumfang Hüfte/Knie/LWS, Gefäßstatus, LWS‑ und radikuläre Zeichen, Fraktur-/Hämatom-/Muskelfaserriss‑Ausschluss, typische Nervenkompressionssyndrome) ergänzen und die post-stroke-spezifischen Aspekte als Zusatz werten. Orthopädische und neurologische Differenzialdiagnosen klarer und breiter darstellen, ohne sich zu früh auf Spastik/CPSP/CRPS zu verengen.",
+      "antwort_original": "**Antwort:** Bei Oberschenkelbeschwerden, nachdem ein Apoplex ausgeschlossen wurde und keine Blutung oder Ischämie vorliegt, ist es wichtig, eine systematische und differenzierte Diagnostik durchzuführen. Der Ansatz kann in mehrere Schritte unterteilt werden:\n\n1. **Anamnese:** Eine detaillierte Anamnese ist entscheidend. Hierbei sollten folgende Punkte erfragt werden:\n   - Dauer und Art der Beschwerden (z.B. Schmerzen, Schwäche, Taubheit)\n   - Auslösende Faktoren (z.B. Bewegung, Ruhe)\n   - Begl…",
+      "antwort_korrigiert": "Bei Oberschenkelbeschwerden im post-apoplektischen Setting ohne Blutung oder Ischämie gehen Sie folgendermaßen vor:\n\n1. Klinische Einschätzung (post-Stroke-Spezifika):\n   - Lokalisieren: Paretische Seite (Distanz zum Sturzereignis beachten)\n   - Spastizität nach Ashworth-Skala gradieren (AWMF 030-060)\n   - Motorik: Fußheberschwäche (Peroneus-Funktionsprüfung)\n   - Sensibilität: Dysästhesien, Allodynie (Semmes-Weinstein-Monofilamente)\n   - Zentrale neuropathische Schmerzen (CPSP): brennend, paro…"
+    },
+    {
+      "id": "evidenz_2222",
+      "index": 2222,
+      "frage": "• Welche Patienten mit Verbrennungen müssen in ein Verbrennungszentrum überwiesen werden?",
+      "issues": [
+        "Diskrepanz in Schwellenwerten: Korrigierte Antwort nennt 2. Grad ≥10% KOF und 3. Grad jeglich, aber aktuelle S2k-Leitlinie 2025 (DGV) empfiehlt Vorstellung im Zentrum bei 2. Grad ≥15% und 3. Grad ≥10% [2][3]; ältere S1-Leitlinie 012-019l (ca. 2011) hatte niedrigere Werte (2. Grad >15%, 3. Grad >10%) [1].",
+        "Referenz auf veraltete S1-Leitlinie 012-019l (2011), während S2k-Leitlinie 044-001l (Update 2025) aktuell und verbindlicher ist [3][5].",
+        "Bei Kindern: Korrigierte Antwort sagt 'o.g. Kriterien uneingeschränkt und großzügig', passt zu Empfehlungen für <8 Jahre, aber nicht explizit quantifiziert; aktuelle Leitlinie betont junge Patienten (<8 J.) separat [2].",
+        "Vollständigkeit: Fehlt explizite Erwähnung von ABSI-Score zur Prognoseeinschätzung und Lund-Browder-Tabelle, relevant für prüfungsrelevante Beurteilung [3]."
+      ],
+      "empfehlung": "Antwort an S2k-Leitlinie 044-001l (2025) anpassen: 2. Grad ≥15% KOF, 3. Grad ≥10% KOF; S1-Referenz entfernen und auf S2k verweisen. Bei Kindern Neuner-Regel/Lund-Browder ergänzen. Für Prüfung: ABSI-Score und Beurteilungsmethoden hinzufügen.",
+      "antwort_original": "In ein Verbrennungszentrum gehören:  \n- Verbrennungen >10 % KOF bei Erwachsenen bzw. >5 % KOF bei Kindern/älteren Menschen.  \n- Alle Verbrennungen von Gesicht, Händen, Füßen, Genital‑/Perinealregion, großen Gelenken oder zirkuläre Thorax-/Extremitätenverbrennungen sowie Inhalationstrauma (Verdacht auf Rauchgasinhalation, Verbrennungen in geschlossenen Räumen).  \n- Chemische und elektrische Hochspannungsverbrennungen, Verbrennungen 3. Grades, kombinierte Verletzungen (Polytrauma) sowie Verbrennu…",
+      "antwort_korrigiert": "Indikationen für die Überweisung in ein Verbrennungszentrum (S1-Leitlinie 012-019l):\n- Teilflächenbrandwunden (2. Grades) ≥ 10 % Körperoberfläche (KOF)\n- Vollflächenbrandwunden (3. Grades) jeglichen Ausmaßes\n- Verbrennungen an funktionell oder kosmetisch kritischen Arealen: Gesicht, Hände, Füße, Genital-/Perinealregion, große Gelenke\n- Zirkuläre Verbrennungen von Thorax oder Extremitäten\n- Verdacht auf Rauchgasinhalationsschaden (Inhalationstrauma)\n- Chemische Verbrennungen\n- Elektrische Verbre…"
+    }
+  ]
+}

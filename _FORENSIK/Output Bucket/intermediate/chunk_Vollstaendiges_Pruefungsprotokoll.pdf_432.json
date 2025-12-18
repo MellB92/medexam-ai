@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 433/585) enthält ausschließlich theoretische Prüfungsfragen und -antworten zu folgenden Themen:\n\n1. **Fragen 1-10:** Aortenaneurysmen (AAA) - Therapieindikationen, infektiöse Ursachen, Bindegewebeerkrankungen, mykotische Aneurysmen, Screening, thorakale Aortenaneurysmen\n\n2. **Fragen 11-19:** Diabetes mellitus und Nierenerkrankungen - Medikamentöse Therapie (ACE-Hemmer, SGLT2-Hemmer, Metformin), nephroprotektive Mechanismen, Nebenwirkungen\n\nEs handelt sich um reine Wissensfragen mit allgemeinen Antworten. Es wird **kein konkreter Patient** mit spezifischen Beschwerden, Untersuchungsbefunden oder diagnostischem Vorgehen präsentiert.\n\nDie einzige Erwähnung eines \"Patienten\" in Frage 11 (\"Patient mit Diabetes mellitus, arterieller Hypertonie und chronischer Nierenerkrankung\") und Frage 13 (\"GFR eines Patienten sinkt\") sind hypothetische Beispiele zur Erläuterung von Therapieprinzipien, keine vollständigen klinischen Fallpräsentationen mit ausreichenden Details für eine strukturierte Extraktion."
+  }
+]

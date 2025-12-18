@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Patellaluxation mit Innenbandruptur nach Anprall",
+    "patient_age": "61-jähriger",
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Knieschmerzen",
+      "kann Fuß nicht auf Boden stellen",
+      "Streckdefizit"
+    ],
+    "accident_mechanism": "von einem Kind angeprallt, Knie weggeknickt",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "kam mit Gehstützen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "pDMS gecheckt",
+      "Reflexe untersucht",
+      "Herz untersucht",
+      "Lunge untersucht",
+      "Abdomen untersucht",
+      "Knie wegen Schmerzen fast gar nicht untersuchbar"
+    ],
+    "imaging_findings": [
+      "Rö Knie initial unauffällig",
+      "Patellaluxation",
+      "MRT: Innenbandruptur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "VKB Ruptur",
+      "Innenmeniskusverletzung",
+      "Innenbandruptur",
+      "Patellaluxation"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Knie",
+      "MRT Knie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Akutes prärenales Nierenversagen bei Marathonläufer",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Nierenversagen nach 14 km Marathonlauf"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Knieschmerzen"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "NSAR hochdosiert eingenommen",
+      "Volumenmangel durch Schwitzen"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Marathonläufer"
+    ],
+    "medications": [
+      "NSAR hochdosiert zur Prävention von Knieschmerzen"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "prärenales Nierenversagen"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Dialyse erforderlich"
+    ],
+    "follow_up": []
+  }
+]

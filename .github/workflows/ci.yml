@@ -1,0 +1,177 @@
+name: CI - Tests and Quality Checks
+
+on:
+  push:
+    branches: [ "main", "develop" ]
+  pull_request:
+    branches: [ "main", "develop" ]
+  workflow_dispatch:
+
+jobs:
+  test:
+    name: Tests
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pypdf python-docx pyyaml
+          pip install pytest pytest-cov black pylint
+      
+      - name: Validate config
+        run: |
+          python3 -c "
+          import yaml
+          from pathlib import Path
+          
+          config_path = Path('config.yaml')
+          if not config_path.exists():
+              print('❌ config.yaml not found')
+              exit(1)
+          
+          config = yaml.safe_load(config_path.read_text())
+          required_keys = ['gold_dir', 'extracted_dir', 'output_dir']
+          
+          for key in required_keys:
+              if key not in config:
+                  print(f'❌ Missing key in config.yaml: {key}')
+                  exit(1)
+          
+          print('✅ config.yaml is valid')
+          "
+      
+      - name: Check code formatting
+        run: |
+          black --check scripts/ || echo "⚠️ Code formatting issues found (black)"
+      
+      - name: Lint with pylint
+        continue-on-error: true
+        run: |
+          pylint scripts/*.py || echo "⚠️ Linting issues found (pylint)"
+      
+      - name: Run tests
+        if: hashFiles('tests/*.py') != ''
+        run: |
+          pytest tests/ -v --cov=scripts --cov-report=term --cov-report=html --cov-report=xml
+      
+      - name: Test extraction scripts
+        run: |
+          # Dry-run test to ensure scripts are importable
+          python3 -c "
+          import sys
+          from pathlib import Path
+          sys.path.insert(0, str(Path('scripts')))
+          
+          try:
+              import extract_questions
+              print('✅ extract_questions.py importable')
+          except ImportError as e:
+              print(f'❌ Cannot import extract_questions: {e}')
+              sys.exit(1)
+          
+          try:
+              import extract_dialog_blocks
+              print('✅ extract_dialog_blocks.py importable')
+          except ImportError as e:
+              print(f'❌ Cannot import extract_dialog_blocks: {e}')
+              sys.exit(1)
+          "
+      
+      - name: Upload coverage
+        if: hashFiles('coverage.xml') != ''
+        uses: codecov/codecov-action@v4
+        with:
+          files: coverage.xml
+          fail_ci_if_error: false
+          token: ${{ secrets.CODECOV_TOKEN }}
+
+  quality-gate:
+    name: Quality Gate Summary
+    needs: [test, safety-check]
+    runs-on: ubuntu-latest
+    if: always()
+
+    steps:
+      - name: Create summary
+        run: |
+          TEST_RESULT="${{ needs.test.result }}"
+          SAFETY_RESULT="${{ needs.safety-check.result }}"
+
+          if [ "$TEST_RESULT" = "success" ] && [ "$SAFETY_RESULT" = "success" ]; then
+            STATUS="✅ Quality Gate passed"
+          else
+            STATUS="❌ Quality Gate failed"
+          fi
+
+          cat <<'EOF' > summary.md
+          ## Quality Gate
+          - Tests: $TEST_RESULT
+          - Safety: $SAFETY_RESULT
+
+          $STATUS
+          EOF
+
+          if [ "$STATUS" = "❌ Quality Gate failed" ]; then
+            echo "::error::Quality Gate failed. See matrix above."
+            exit 1
+          fi
+
+      - name: Upload summary
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: quality-gate-summary
+          path: summary.md
+
+  safety-check:
+    name: Safety & Security
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Check for tier mixing
+        run: |
+          # Check if any code accidentally mixes tiers
+          if grep -r "tier.*mix\|mix.*tier" scripts/ 2>/dev/null; then
+            echo "::warning::Potential tier mixing detected"
+          fi
+          
+          # Check for hallucination patterns
+          if grep -r "generate_case\|fake_case\|create_case" scripts/ 2>/dev/null; then
+            echo "::error::Case generation detected - FORBIDDEN!"
+            exit 1
+          fi
+          
+          echo "✅ No safety violations detected"
+      
+      - name: Validate Gold-Standard integrity
+        run: |
+          # Ensure _GOLD_STANDARD exists and has files
+          if [ ! -d "_GOLD_STANDARD" ]; then
+            echo "⚠️ _GOLD_STANDARD directory not found (expected in repository)"
+            exit 0
+          fi
+          
+          COUNT=$(find _GOLD_STANDARD -type f \( -name "*.pdf" -o -name "*.docx" \) | wc -l)
+          echo "📁 Found $COUNT Gold-Standard files"
+          
+          if [ "$COUNT" -lt 10 ]; then
+            echo "⚠️ WARNING: Only $COUNT Gold-Standard files found (expected ~40)"
+          fi

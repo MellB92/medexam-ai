@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle** im klassischen Sinne. Es handelt sich um:\n\n1. **EKG-Übungsaufgaben** (Übungs-EKG 2-8) aus einem EKG-Lehrbuch\n2. Reine **technische EKG-Befundinterpretationen** ohne Patientenkontext\n3. Didaktische Übungsfälle zur EKG-Befundung\n\n**Fehlende Elemente für vollständige klinische Fälle:**\n- Keine Patientendemografie (Alter, Geschlecht)\n- Keine Anamnese oder Beschwerdeschilderung\n- Keine klinische Präsentation\n- Keine Untersuchungsbefunde außer EKG\n- Keine therapeutischen Überlegungen\n- Nur isolierte EKG-Befunde mit technischer Deutung\n\nDie Textabschnitte sind rein **didaktische EKG-Interpretationsübungen** ohne den narrativen Kontext eines Patientenfalls, wie er für die Extraktion nach den gegebenen Kriterien erforderlich wäre."
+  }
+]

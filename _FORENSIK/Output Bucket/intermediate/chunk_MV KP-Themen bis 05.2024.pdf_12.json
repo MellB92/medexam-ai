@@ -1,0 +1,369 @@
+[
+  {
+    "title": "Kind mit Wildtierbiss - Tollwutverdacht",
+    "patient_age": null,
+    "patient_gender": "Kind",
+    "severity": "critical",
+    "chief_complaints": [
+      "Biss von Wildtier"
+    ],
+    "accident_mechanism": "Biss von Wildtier",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Bisswunde"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tollwut"
+    ],
+    "diagnostic_approach": [
+      "Vorgehen in der ZNA (Notaufnahme Therapie)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Oberschenkel-Rötung mit Reiseanamnese",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Oberschenkel gerötet"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Reiseanamnese"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Oberschenkel gerötet in rundförmig"
+    ],
+    "imaging_findings": [
+      "Röntgenaufnahme Oberschenkel"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Borreliose"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Varizella mit Verwirrtheit",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Verwirrtheit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Patient verwirrt"
+    ],
+    "imaging_findings": [
+      "Bild über Varizella"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Varizella",
+      "Intoxikation",
+      "Hypoxie des Gehirns",
+      "Clostridium perfringens Infektion"
+    ],
+    "diagnostic_approach": [
+      "Patient soll zu einem Infektiologen geschickt werden"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "schnelle Komplikation"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Wunde durch zerbrochene Bierflasche - Tetanusverdacht",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Wunde"
+    ],
+    "accident_mechanism": "Wunde durch zerbrochene Bierflasche",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Wunde"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tetanus"
+    ],
+    "diagnostic_approach": [
+      "Tetanusuntersuchung",
+      "Impfpass-Kontrolle"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Kind mit Tuberkulose",
+    "patient_age": "Kind",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "TB-Medikamente"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Test nach Therapie bleibt positiv"
+    ],
+    "suspected_diagnosis": [
+      "Tuberkulose"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Test bleibt nach Therapie positiv"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Entlassung mit Meldepflicht"
+    ]
+  },
+  {
+    "title": "Erysipel am linken Unterschenkel",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schwellung am linken Unterschenkel",
+      "Rötung",
+      "glänzende Haut"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "linker Unterschenkel: Schwellung",
+      "Rötung",
+      "glänzende Haut"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Erysipel"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "16-jährige Frau mit Lymphknotenschwellung und Splenomegalie - EBV-Verdacht",
+    "patient_age": "16 Jahre",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Lymphknotenschwellung",
+      "Splenomegalie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Lymphknotenschwellung (LKS)",
+      "Splenomegalie"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "EBV-Infektion"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit Fuchsbiss",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Biss von Fuchs"
+    ],
+    "accident_mechanism": "Patient wurde mit Fuchs gebissen",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Impfung"
+    ]
+  },
+  {
+    "title": "Patientin mit Asplenie - OPSI-Risiko",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Asplenie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "OPSI-Syndrom Risiko"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Impfungen: Pneumokokken, Meningokokken, Haemophilus influenza",
+      "Bei Pneumokokken: Typ-Bestimmung (PVC 7/10/13/23)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Mantelzell-Lymphom Stadium 4 nach Ann Arbor",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Initialen Hypertrophie der Tonsillen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Hypertrophie der Tonsillen initial"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Histologische Untersuchung: Lymphom"
+    ],
+    "suspected_diagnosis": [
+      "Mantelzell-Lymphom, Stadium 4 nach Ann Arbor"
+    ],
+    "diagnostic_approach": [
+      "Tonsillen operativ entfernt",
+      "histologische Untersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Patient aufgenommen im Rahmen der chemotherapeutischen Behandlung"
+    ]
+  },
+  {
+    "title": "Patient mit monoklonaler Gammapathie, Hyperkalzämie und Osteoporose",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [
+      "Osteoporose"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Elektrophorese mit monoklonaler Gammapathie",
+      "Hyperkalzämie"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom"
+    ],
+    "diagnostic_approach": [
+      "CRAB-Kriterien prüfen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

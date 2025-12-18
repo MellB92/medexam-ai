@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Bakterielle Meningitis mit Kopfschmerzen und Nackensteifigkeit",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Starke Kopfschmerzen seit gestern Abend",
+      "Lichtempfindlichkeit",
+      "Nackenschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck gemessen (Wert nicht dokumentiert)"
+    ],
+    "physical_examination": [
+      "Patientin liegend",
+      "Brudzinski-Zeichen positiv",
+      "Kernig-Zeichen negativ",
+      "Lasègue-Zeichen negativ"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Liquor: bakterielle Meningitis",
+      "Granulozytose im Liquor"
+    ],
+    "suspected_diagnosis": [
+      "Bakterielle Meningitis",
+      "Meningokokken-Meningitis",
+      "Pneumokokken-Meningitis"
+    ],
+    "diagnostic_approach": [
+      "Körperliche Untersuchung mit Meningismus-Zeichen",
+      "Lumbalpunktion",
+      "Blutkulturen",
+      "CT/MRT vor LP zum Ausschluss erhöhten intrakraniellen Drucks"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Bakterielle Meningitis mit Nackensteifigkeit",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Nackensteifigkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Meningismus",
+      "Kernig-Zeichen durchgeführt",
+      "Brudzinski-Zeichen durchgeführt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Liquor: bakterielle Meningitis",
+      "Blutkulturen angelegt"
+    ],
+    "suspected_diagnosis": [
+      "Bakterielle Meningitis",
+      "Meningokokken-Meningitis",
+      "Pneumokokken-Meningitis",
+      "Tuberkulöse Meningitis"
+    ],
+    "diagnostic_approach": [
+      "Körperliche Untersuchung",
+      "Blutkulturen",
+      "Lumbalpunktion",
+      "CT/MRT vor LP zum Ausschluss erhöhten intrakraniellen Drucks"
+    ],
+    "treatment_response": [
+      "Hochdosierte Gabe von Steroiden bei Addison-Krise (therapeutisches Szenario)"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

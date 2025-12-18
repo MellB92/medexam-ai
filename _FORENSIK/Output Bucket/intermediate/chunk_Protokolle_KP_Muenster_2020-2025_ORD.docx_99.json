@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Nebenniereniadenom (Inzidentalom) mit arterieller Hypertonie",
+    "patient_age": "69 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Bluthochdruck von 165 mmHg"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Rückenschmerzen seit 20 Jahren aufgrund eines Beckenbruchs",
+      "belastungsabhängige Dyspnoe",
+      "Fersenschmerzen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sonographie der rechten Flankenregion: auffälliger Befund",
+      "echoarme Raumforderung am vorderen Nierenpol"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sekundäre arterielle Hypertonie aufgrund von Nebenniereniadenom",
+      "Conn-Syndrom",
+      "Cushing-Syndrom",
+      "Phäochromozytom",
+      "Inzidentalom"
+    ],
+    "diagnostic_approach": [
+      "Routinemäßige Untersuchung beim Hausarzt",
+      "Blutdruckmessung",
+      "Sonographie der rechten Flankenregion",
+      "Überweisung ins Krankenhaus zur weiteren Diagnostik",
+      "Aldosteron/Renin-Quotient",
+      "Cortisolbestimmung im Serum und Urin",
+      "Bestimmung um Mitternacht (Zirkadianenrhythmus)",
+      "ACTH-Bestimmung"
+    ]
+  }
+]

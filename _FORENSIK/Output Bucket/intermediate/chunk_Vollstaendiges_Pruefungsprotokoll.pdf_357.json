@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält ausschließlich Prüfungsfragen und -antworten aus einem Prüfungsprotokoll, jedoch **keine vollständigen klinischen Patientenfälle** im eigentlichen Sinne.\n\nDie Fragen beziehen sich zwar auf klinische Themen (z.B. \"Was machen Sie?\" bei einem Abstrich, \"Was sehen Sie in der Kultur?\", \"Röntgenbild Knie - Patella Hochstand\"), aber es fehlen die essentiellen Elemente eines klinischen Falls:\n\n- **Keine Patientenvorstellung** mit Anamnese\n- **Keine zusammenhängende Fallpräsentation**\n- **Nur fragmentierte Einzelfragen** ohne Kontext\n- **Keine vollständige Fallbeschreibung** (Alter, Geschlecht, Hauptbeschwerde, Verlauf etc.)\n\nDie erwähnten medizinischen Inhalte sind:\n- Abstrakte Fragen zu Asthma-Stufentherapie\n- Theoretische Fragen zu Barrieren im Körper\n- Rechtliche Fragen (Schweigepflicht)\n- Isolierte Befunde ohne Patientenkontext (z.B. \"Patellahochstand im Röntgen\")\n- Fragmentierte Themen (rheumatoide Arthritis, Schilddrüsenoperation, Humerusfraktur) ohne vollständige Falldarstellung\n\nKeiner dieser Punkte erfüllt die Kriterien für einen **vollständigen, extrahierbaren klinischen Fall**."
+  }
+]

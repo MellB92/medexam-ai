@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Diabetes Mellitus Typ 2 mit Polyurie und Thrombozytopenie",
+    "patient_age": "67-jährige",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Polyurie 5 Liter/Tag seit paar Monaten",
+      "Nykturie",
+      "Konzentrationsschwierigkeiten",
+      "Wiederholte Hautinfektionen (Mycosis im Axillabereich)",
+      "Rhinitiden",
+      "Saures Aufstoßen",
+      "Vollegefühl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Hyperlipidämie"
+    ],
+    "comorbidities": [
+      "Thrombozytopenie 35.000/µl"
+    ],
+    "risk_factors": [
+      "Hyperlipidämie",
+      "Arterielle Hypertonie"
+    ],
+    "family_history": [
+      "Mutter 94 Jahre mit Magenkarzinom",
+      "Vater verstorben an Morbus Bechterew",
+      "Bruder wartet auf Nierentransplantation"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [
+      "Hundehaare"
+    ],
+    "vital_signs": [
+      "Beidseitige RR-Messung durchgeführt",
+      "Puls gemessen"
+    ],
+    "physical_examination": [
+      "Herz auskultiert",
+      "Lunge auskultiert",
+      "Abdomen untersucht",
+      "Visus geprüft",
+      "Okulomotorik geprüft",
+      "Fingerperimetrie durchgeführt",
+      "Reflexe geprüft"
+    ],
+    "imaging_findings": [
+      "Abdomen-Sonographie geplant"
+    ],
+    "laboratory_findings": [
+      "Kreatinin 0,7 mg/dl",
+      "Thrombozytopenie 35.000/µl"
+    ],
+    "suspected_diagnosis": [
+      "Diabetes Mellitus Typ 2",
+      "Diabetes insipidus",
+      "Metabolisches Syndrom",
+      "Anämie",
+      "Verdacht auf diabetische Nephropathie"
+    ],
+    "diagnostic_approach": [
+      "Kreatinin",
+      "Retentionsparameter",
+      "Urin-Untersuchung auf Proteinurie/Albuminurie",
+      "Albumin/Kreatinin-Quotient",
+      "Abdomen-Sonographie"
+    ],
+    "treatment_response": [
+      "ACE-Hemmer oder Sartane geplant (nephroprotektiv)",
+      "Mineralokortikoid-Rezeptor-Antagonist empfohlen",
+      "SGLT2-Hemmer geplant (nephroprotektiv)"
+    ],
+    "complications": [
+      "Thrombozytopenie",
+      "Verdacht auf diabetische Nephropathie",
+      "Wiederholte Hautinfektionen"
+    ],
+    "follow_up": []
+  }
+]

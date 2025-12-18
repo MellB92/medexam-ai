@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 45/155) enthält **keine vollständigen klinischen Patientenfälle oder Präsentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischem Lehrbuchwissen** über biliäre Erkrankungen (Mirizzi-Syndrom, Cholezystolithiasis, Cholezystitis, Choledocholithiasis, Cholangitis)\n\n2. **Diagnostischen Algorithmen** und allgemeinen Befundkonstellationen in Tabellenform\n\n3. **Therapieempfehlungen** für verschiedene Gallenwegerkrankungen\n\n4. **Differentialdiagnosen** als Listen\n\nEs werden keine konkreten Patienten mit individuellen Charakteristika (Alter, Geschlecht, spezifische Anamnese, konkrete Untersuchungsbefunde) vorgestellt. Alle Informationen sind allgemein gehalten und beschreiben typische Symptomkonstellationen und deren diagnostisches/therapeutisches Management im Lehrbuchstil."
+  }
+]

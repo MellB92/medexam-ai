@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 112/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen zur CT-Bildgebung:**\n   - Funktionsweise von CT\n   - Organe im Abdomen-CT\n   - Kontrastmitteldarstellung\n   - Freie Luft im Abdomen\n\n2. **Allgemeinen medizinischen Wissensfragen:**\n   - TSH, T3, T4 Bestimmung\n   - Bilirubin-Werte\n   - Urinlabor und Urinstatus\n   - Niereninsuffizienz-Definitionen\n   - Therapierefraktäre Hypertonie (am Ende abgeschnitten)\n\nEs werden **keine konkreten Patienten** mit Anamnese, Symptomen, Befunden oder Diagnosen präsentiert. Die Erwähnungen von \"Patientin\" beziehen sich auf hypothetische Situationen im Kontext der Prüfungsfragen, nicht auf ausgearbeitete klinische Fälle."
+  }
+]

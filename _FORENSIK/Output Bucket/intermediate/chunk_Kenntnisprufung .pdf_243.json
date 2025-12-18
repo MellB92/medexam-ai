@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Polytrauma nach Fahrradunfall mit Hämatothorax",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Dyspnoe",
+      "Thoraxschmerzen",
+      "Handgelenkschmerzen"
+    ],
+    "accident_mechanism": "Mit Fahrrad gefahren, Auto fuhr gegen Patientin, Sturz auf rechte Hand und Kopf",
+    "pre_existing_conditions": [
+      "Vorhofflimmern"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter mit entzündetem Knie"
+    ],
+    "social_history": [
+      "Fahrradfahrerin"
+    ],
+    "medications": [
+      "Rivaroxaban"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax: kleiner Hämatothorax",
+      "Rippenfrakturen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma",
+      "Hämatothorax",
+      "Rippenfrakturen",
+      "Handgelenksverletzung"
+    ],
+    "diagnostic_approach": [
+      "Vitalparameter",
+      "SAMPLE-Anamnese",
+      "Allgemeine körperliche Untersuchung",
+      "Vollständige Anamnese",
+      "Röntgen Thorax"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Blutungsrisiko unter Antikoagulation"
+    ],
+    "follow_up": [
+      "Überwachung für 48 Stunden (Wirkungsdauer Xarelto)",
+      "Drainage-Anlage zurückgestellt wegen Blutverdünner"
+    ]
+  },
+  {
+    "title": "Hypoglykämie bei Diabetes mellitus Typ 1",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Hypoglykämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 1"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hypoglykämie bei DM Typ 1"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Verbrühung Brust und Bauch bei Kind",
+    "patient_age": "Kind",
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Verbrühung Brust und Bauch"
+    ],
+    "accident_mechanism": "Verbrühung",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Verbrühung Brust und Bauch"
+    ],
+    "diagnostic_approach": [
+      "Verbrennungsgrad-Berechnung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Verlegung ins Verbrennungszentrum indiziert",
+      "Kontakt über Leitstelle"
+    ]
+  }
+]

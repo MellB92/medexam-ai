@@ -1,0 +1,168 @@
+[
+  {
+    "title": "Harnwegsinfekt mit Erythrozytenzylindern",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Harnwegsinfekt"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Knie: schmerzbedingte Funktionseinschränkung",
+      "ansonsten unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "U-Streifen",
+      "Erythrozytenzylinder"
+    ],
+    "suspected_diagnosis": [
+      "Harnwegsinfekt"
+    ],
+    "diagnostic_approach": [
+      "Urinuntersuchung",
+      "Entscheidung: stationäre vs. ambulante Aufnahme"
+    ]
+  },
+  {
+    "title": "Morbus Basedow mit endokriner Orbitopathie und akutem STEMI",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "STEMI"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Morbus Basedow",
+      "endokrine Orbitopathie"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "endokrine Orbitopathie"
+    ],
+    "imaging_findings": [
+      "Schilddrüsen-Sonographie: echoarm und inhomogen",
+      "Szintigraphie: typisch für Morbus Basedow"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Morbus Basedow",
+      "STEMI"
+    ],
+    "diagnostic_approach": [
+      "PCI unter Perchlorat und Thyreostatika-Gabe wegen Risiko für thyreotoxische Krise bei Kontrastmittelgabe"
+    ]
+  },
+  {
+    "title": "Divertikulitis mit Pneumoperitoneum",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Unterbauchschmerzen links"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Divertikulitis"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Pneumoperitoneum"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Divertikulitis",
+      "perforierte Divertikulitis"
+    ],
+    "diagnostic_approach": [
+      "Operation nach Hartmann"
+    ]
+  },
+  {
+    "title": "Colles-Fraktur und undislozierte distale Unterarmfraktur mit Abriss Processus styloideus ulnae",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Unterarmfraktur"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Colles-Fraktur",
+      "undislozierte distale Unterarmfraktur",
+      "Abrissfraktur Processus styloideus ulnae"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Colles-Fraktur",
+      "Abrissfraktur Processus styloideus ulnae",
+      "Morbus Sudeck als mögliche Komplikation"
+    ],
+    "diagnostic_approach": [
+      "Entscheidung: operative vs. konservative Therapie"
+    ]
+  },
+  {
+    "title": "STEMI mit notwendiger PCI",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "STEMI"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: STEMI"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "STEMI"
+    ],
+    "diagnostic_approach": [
+      "PCI",
+      "Medikamentengabe bei STEMI",
+      "Vorsicht bei Kombination Diazepam und Morphin wegen Atemdepression"
+    ]
+  },
+  {
+    "title": "Luxierte Hüft-TEP",
+    "patient_age": "ca. 50 Jahre",
+    "patient_gender": null,
+    "chief_complaints": [
+      "luxierte Hüft-TEP"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Hüft-TEP",
+      "leichte Arthrose kontralaterales Hüftgelenk"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Hüft-TEP luxiert",
+      "nicht zementierte Prothese",
+      "gute Knochenqualität"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Luxation Hüft-TEP"
+    ],
+    "diagnostic_approach": [
+      "geschlossene Reposition unter Analgesedierung",
+      "offene Reposition im OP-Saal bei Weichteilverletzung, Gefäß- oder Nervenverletzung",
+      "Überprüfung Gefäße und Nerven vor Reposition"
+    ]
+  }
+]

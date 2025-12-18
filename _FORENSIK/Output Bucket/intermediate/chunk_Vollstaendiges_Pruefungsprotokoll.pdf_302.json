@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle** im Sinne von Fallpräsentationen. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** mit allgemeinen medizinischen Wissensfragen (z.B. \"Was ist bei der Indikationsstellung für Röntgenuntersuchungen zu beachten?\")\n\n2. **Fragmentarischen Beschreibungen** ohne konkrete Patientenangaben:\n   - Frage 15: \"Beschreiben Sie das Röntgenbild\" - keine Patientenidentifikation\n   - Frage 16: \"Was ist das Vorgehen bei einer Femurhalsfraktur?\" - allgemeine Frage, kein konkreter Patient\n   - Frage 22: \"Beschreiben Sie ein Röntgen Thorax mit Verschattung\" - theoretische Bildbeschreibung\n   - Frage 1 (am Ende): \"Beschreiben Sie das Röntgenbild mit Arthrose\" - ohne Patientenkontext\n\n3. **Keine Patientenidentifikationsmerkmale:**\n   - Kein Alter angegeben\n   - Kein Geschlecht angegeben\n   - Keine konkrete Anamnese\n   - Keine spezifischen Beschwerden eines realen Patienten\n\nDie Fragen sind Teil eines Prüfungsprotokolls mit theoretischen Wissensfragen, nicht Dokumentationen realer klinischer Fälle."
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "title": "Patient mit Fieber, Husten, nächtliches Schwitzen und Herzrasen - V.a. Myokarditis",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Fieber",
+      "Husten",
+      "nächtliches Schwitzen",
+      "Herzrasen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Myokarditis"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Laboruntersuchungen (Entzündungsparameter, Troponin, CK-MB)",
+      "Echokardiografie",
+      "ggf. kardiale MRT"
+    ]
+  },
+  {
+    "title": "Junger Mann mit Motorradunfall in ZNA",
+    "patient_age": "junger Mann",
+    "patient_gender": "m",
+    "chief_complaints": [],
+    "accident_mechanism": "Motorradunfall",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Unfallhergang erfragen",
+      "Verletzungen prüfen",
+      "Vitalparameter prüfen"
+    ]
+  },
+  {
+    "title": "Patient mit Blässe, Kaltschweiß, Druckgefühl im Brustkorb und ST-Hebung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Blässe",
+      "Kaltschweiß",
+      "Druckgefühl im Brustkorb"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Blässe",
+      "Kaltschweiß"
+    ],
+    "imaging_findings": [
+      "ST-Hebung im EKG"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Herzinfarkt"
+    ],
+    "diagnostic_approach": [
+      "Notarzt rufen",
+      "Sauerstoff",
+      "ASS",
+      "ggf. Nitrate",
+      "Heparin",
+      "Reperfusionstherapie"
+    ]
+  }
+]

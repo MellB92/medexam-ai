@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**, sondern ausschließlich:\n\n1. **EKG-Übungsaufgaben** (Übungs-EKG 1-15) - dies sind didaktische Beispiele für ein Lehrbuch, keine realen Patientenfälle mit klinischer Präsentation\n\n2. **Ein EKG-Formblatt** - eine Vorlage für die Dokumentation\n\n3. **Befunde zu Übungs-EKGs** - technische EKG-Interpretationen ohne klinische Falldarstellung\n\nDie einzigen Erwähnungen, die ansatzweise auf Patienten hindeuten:\n- \"Dieses ist das EKG eines Patienten mit schwerer Aortenstenose\" (Übungs-EKG 1) - dies ist nur eine Befund-Erläuterung ohne Fallpräsentation\n\nEs fehlen alle Elemente einer klinischen Fallpräsentation:\n- Keine Anamnese\n- Keine Symptombeschreibung\n- Keine körperliche Untersuchung\n- Keine diagnostische Fragestellung\n- Keine Patientencharakterisierung (Alter/Geschlecht)\n\nDies ist ein **Übungskapitel eines EKG-Lehrbuchs**, kein klinisches Fallbuch."
+  }
+]

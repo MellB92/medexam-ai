@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 2/9) enthält **keine klinischen Patientenfälle**. \n\nDer Text ist ein **theoretisches Lehrmaterial/Handout** für Ärzte zum Thema Strahlenschutz und behandelt ausschließlich:\n\n- Physikalische Grundlagen (Compton-Streuung, Photoeffekt)\n- Strahlenwirkung auf molekularer/zellulärer Ebene\n- Strahlenrisiken und Strahlenschäden (stochastisch vs. deterministisch)\n- Dosisberechnungen und -definitionen (Ionendosis, Energiedosis, Äquivalentdosis, etc.)\n- Gewebewichtungsfaktoren\n- Strahlenmessverfahren\n\nEs handelt sich um **rein didaktisches Material** ohne konkrete Patientenfälle, Fallbeispiele oder klinische Präsentationen."
+  }
+]

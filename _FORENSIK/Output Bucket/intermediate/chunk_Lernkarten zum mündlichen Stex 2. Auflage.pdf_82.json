@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 83/84) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Therapieleitlinien für verschiedene Schockformen** (kardiogen, hypovolämisch, anaphylaktisch, septisch, neurogen) - dies sind therapeutische Konzepte, keine konkreten Patientenfälle\n\n2. **Register/Index** - eine alphabetische Auflistung von medizinischen Begriffen, Erkrankungen und Seitenzahlen (z.B. \"12-Kanal-EKG 45\", \"Addison-Krise 29\", \"Appendizitis 185, 186\" etc.)\n\nEs handelt sich um:\n- Schematische Therapieübersichten (allgemeine Behandlungsempfehlungen)\n- Ein Stichwortverzeichnis/Register am Ende des Lehrbuchs\n\n**Keine dieser Informationen stellt einen vollständigen klinischen Präsentationsfall mit Patientenangaben, Anamnese, Untersuchungsbefunden oder diagnostischem Vorgehen dar.**"
+  }
+]

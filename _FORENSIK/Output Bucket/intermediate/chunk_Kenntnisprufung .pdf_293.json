@@ -1,0 +1,93 @@
+[
+  {
+    "title": "COPD-Patientin mit Husten, Hämoptysen und Verdacht auf Bronchialkarzinom",
+    "patient_age": "69-jährig",
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Husten mit Auswurf",
+      "Belastungsdyspnoe",
+      "Orthopnoe - kann nachts kaum flach liegen",
+      "Kann keine Treppen mehr steigen",
+      "Spaziergänge nicht mehr möglich",
+      "Hämoptysen (2-3 Mal beim Abhusten vor 14 Tagen)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "COPD",
+      "Chronische Bronchitis",
+      "Arterielle Hypertonie (Diagnose vor 5 Jahren)",
+      "Gicht",
+      "Cholezystektomie vor 40 Jahren",
+      "Zustand nach Autounfall vor 20 Jahren mit Schwerverletzung des linken Beins und Beckenbruch",
+      "30% Schwerbehinderung"
+    ],
+    "comorbidities": [
+      "Obstipationsneigung"
+    ],
+    "risk_factors": [
+      "Nikotinkonsum seit 40 Jahren (früher 30-40 Zigaretten/Tag, seit 10 Jahren auf 20 Zigaretten reduziert)",
+      "Alkoholkonsum 1-2 Flaschen Bier täglich",
+      "Gewichtsreduktion 5 kg in 3 Monaten",
+      "Nachtschweiß"
+    ],
+    "family_history": [
+      "Vater mit 71 Jahren an pAVK verstorben",
+      "Mutter 88 Jahre alt, im Heim, leidet aktuell an schwerer Diarrhoe",
+      "Bruder im jungen Alter beim Sportunterricht plötzlich verstorben (plötzlicher Herztod, Myokarditis)"
+    ],
+    "social_history": [
+      "Rentnerin seit 4 Jahren",
+      "Früher in einer Gaststätte gearbeitet",
+      "Verheiratet, lebt mit Mann zusammen",
+      "2 Söhne und 2 Enkelkinder",
+      "Mobilisiert sich mit Gehstock"
+    ],
+    "medications": [
+      "Lisinopril 1-0-0",
+      "Spiriva 1-0-0",
+      "Salbutamol bei Bedarf",
+      "Dulcolax bei Bedarf"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Gewicht 80 kg",
+      "Größe 168 cm",
+      "RR beidseits gemessen"
+    ],
+    "physical_examination": [
+      "Lymphknoten abgetastet",
+      "Pulse gemessen",
+      "Abdomen untersucht",
+      "Thorax untersucht",
+      "Untere Extremitäten untersucht",
+      "Herz- und Lungenauskultation durchgeführt",
+      "Perkussion durchgeführt",
+      "Atemverschieblichkeit geprüft",
+      "Stimmfremitus geprüft",
+      "Bronchophonie geprüft",
+      "RR beidseits gemessen"
+    ],
+    "imaging_findings": [
+      "Röntgen Thorax: Raumforderung in der rechten Lunge",
+      "Bild vom Fuß (Großzehe): akuter Gichtanfall"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom (Hauptverdacht)",
+      "Herzinsuffizienz",
+      "Exazerbierte COPD",
+      "Lungenarterienembolie",
+      "Anämie",
+      "Tuberkulose (vom Prüfer als vergessene DD hingewiesen)"
+    ],
+    "diagnostic_approach": [
+      "Einweisung ins Krankenhaus zur weiteren Abklärung",
+      "Staging bei Bronchialkarzinom",
+      "Klassifikation des Bronchialkarzinoms"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

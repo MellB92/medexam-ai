@@ -1,0 +1,208 @@
+[
+  {
+    "title": "Postoperativer Ileus am zweiten Tag nach Operation",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Erbrechen",
+      "Hypotension",
+      "Tachykardie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Zustand nach Operation"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Voroperation",
+      "Verwachsungen"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "BD 80/40",
+      "HF 120"
+    ],
+    "physical_examination": [
+      "Abdomen Untersuchung",
+      "DRU (kein Stuhl)",
+      "klinische Zeichen eines Ileus"
+    ],
+    "imaging_findings": [
+      "Röntgen Abdomen: Dünndarm Ileum mit deutliche Spiegel Bildung",
+      "Abdomen Sonographie",
+      "OP-Befund: ödematöse Dünndarmschlinge",
+      "Brida (Verwachsung) sichtbar"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Dünndarmileus",
+      "Mechanischer Ileus durch Brida",
+      "Septischer Patient"
+    ],
+    "diagnostic_approach": [
+      "Körperliche Untersuchung",
+      "Abdomen abhören, palpieren",
+      "DRU",
+      "Abdomen Sonographie",
+      "Röntgen Abdomen"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Septischer Zustand",
+      "Kreislaufinstabilität"
+    ],
+    "follow_up": [
+      "Notfall-Laparotomie",
+      "Magensonde legen (Entlastung und Aspirationsprophylaxe)",
+      "Brida schneiden ohne Darmentfernung wenn Gewebe vital"
+    ]
+  },
+  {
+    "title": "Massive Gewichtszunahme durch Hypercortisolismus",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "30 kg Gewichtszunahme in einem Jahr"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Adipositas"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Ernährung nicht geändert"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Patientin zu dick für Abdomensonografie"
+    ],
+    "imaging_findings": [
+      "CT-Abdomen: Raumforderung in Nebennieren"
+    ],
+    "laboratory_findings": [
+      "ACTH erniedrigt",
+      "Kortisol in Serum",
+      "Dexametason Kurztest und Langtest"
+    ],
+    "suspected_diagnosis": [
+      "Hypercortisolismus",
+      "Adrenerges Cushing Syndrom",
+      "Phäochromozytom (als DD besprochen)"
+    ],
+    "diagnostic_approach": [
+      "Abdomensonografie",
+      "CT-Abdomen",
+      "Labor: ACTH in Serum",
+      "Kortisol in Serum",
+      "Dexametason Kurztest und Langtest"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Adrenalektomie (Laparotomie oder endoskopisch retroperitoneal)",
+      "Alpha-1 Blockade vor OP bei Phäochromozytom"
+    ]
+  },
+  {
+    "title": "Funikuläre Myelose bei Vitamin-B12-Mangel mit Perikarditis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Parästhesie",
+      "Pallhypästhesie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hüft-OP",
+      "Vitamin B12 Mangel"
+    ],
+    "comorbidities": [
+      "Perikarditis",
+      "Perniziöse Anämie",
+      "Gastritis Typ A"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Romberg positiv",
+      "Parästhesie",
+      "Pallhypästhesie",
+      "neurologische Untersuchung"
+    ],
+    "imaging_findings": [
+      "EKG: Perikarditis",
+      "TTE: RV LV und Erguss sichtbar"
+    ],
+    "laboratory_findings": [
+      "Anämie",
+      "Vitamin B12 Mangel"
+    ],
+    "suspected_diagnosis": [
+      "Funikuläre Myelose",
+      "Perniziöse Anämie",
+      "Perikarditis",
+      "Perikardtamponade"
+    ],
+    "diagnostic_approach": [
+      "Neurologische Untersuchung",
+      "EKG",
+      "TTE (transthorakale Echokardiographie)"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Perikardtamponade"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Anämie bei Routinekontrolle vor Hüft-TEP",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "mild",
+    "chief_complaints": [
+      "Anämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Starke Coxarthrose"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Anämie bei Routinekontrolle"
+    ],
+    "suspected_diagnosis": [
+      "Anämie unklarer Genese",
+      "Coxarthrose"
+    ],
+    "diagnostic_approach": [
+      "Routinekontrolle vor TEP-Implantation"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "TEP-Implantation geplant"
+    ]
+  }
+]

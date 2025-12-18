@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 255/284) enthält **keine klinischen Patientenfälle**. \n\nDer Text beschreibt ausschließlich administrative und regulatorische Aspekte von Ethikkommissionen bei klinischen Studien:\n\n- Prüfkriterien (rechtliche Zulässigkeit, Risiko-Nutzen-Abwägung, Patientenaufklärung, Datenschutz)\n- Votum-Verfahren (Zustimmung, Ablehnung, Änderungsauflagen)\n- Genehmigungsverfahren bei AMG-Studien\n- Wichtige Aspekte (Probandenschutz, Deklaration von Helsinki, GCP-Guidelines)\n- EU-Verordnung 536/2014 und Bearbeitungsfristen\n\nEs handelt sich um **theoretisches Wissen** über das Ethikkommissions-Verfahren, nicht um konkrete Patientenpräsentationen mit Anamnese, Befunden oder Diagnosen."
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "title": "Hyperthyreose bei Morbus Basedow mit Vorhofflimmern und Gastritis",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Oberbauchschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [
+      "Vorhofflimmern",
+      "Gastritis"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Kinderwunsch"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Exophtalmus",
+      "Myxödeme",
+      "Merseburger Trias"
+    ],
+    "imaging_findings": [
+      "Schilddrüsensonografie: Autonomes Adenom",
+      "EKG: Tachyarrhythmia absoluta bei Vorhofflimmern mit Vorhofflattern",
+      "Gastroskopie: Gastritis"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Morbus Basedow",
+      "Hyperthyreose",
+      "Autonomes Adenom",
+      "V.a. Schilddrüsenkarzinom",
+      "Vorhofflimmern",
+      "Gastritis (Typ A, B, C oder D bei Morbus Crohn)",
+      "H. pylori Infektion"
+    ],
+    "diagnostic_approach": [
+      "Schilddrüsensonografie",
+      "Fein-Nadel-Biopsie",
+      "EKG",
+      "Transösophageale Echokardiographie (TEE)",
+      "Gastroskopie",
+      "H. pylori Diagnostik"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Pertrochantäre Femurfraktur mit Thoraxtrauma und Spannungspneumothorax",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "Dyspnoe"
+    ],
+    "accident_mechanism": "Trauma mit multiplen Frakturen",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen: Pertrochantäre mehrfragmentäre Fraktur",
+      "Röntgen: Spannungspneumothorax bei 2. Rippenfraktur"
+    ],
+    "laboratory_findings": [
+      "Blutungsanämie"
+    ],
+    "suspected_diagnosis": [
+      "Pertrochantäre mehrfragmentäre Femurfraktur",
+      "2. Rippenfraktur",
+      "Spannungspneumothorax"
+    ],
+    "diagnostic_approach": [
+      "Röntgenaufnahmen in 2 Ebenen"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Spannungspneumothorax",
+      "Blutungsanämie",
+      "Hypovolämischer Schock"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Kontrastmittel-induzierte Hyperthyreose mit Vorhofflimmern und Gastritis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [
+      "Vorhofflimmern",
+      "Gastritis"
+    ],
+    "risk_factors": [
+      "Kontrastmittel-Exposition"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Schilddrüsensonografie mit Gefäßdarstellung und Knoten",
+      "EKG: Vorhofflimmern",
+      "Gastroskopie: Gastritis"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kontrastmittel-assoziierte Hyperthyreose",
+      "V.a. Schilddrüsenmalignität",
+      "Vorhofflimmern",
+      "Gastritis Typ A, B oder C",
+      "H. pylori Infektion"
+    ],
+    "diagnostic_approach": [
+      "Schilddrüsensonografie",
+      "EKG",
+      "Gastroskopie",
+      "H. pylori Diagnostik"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

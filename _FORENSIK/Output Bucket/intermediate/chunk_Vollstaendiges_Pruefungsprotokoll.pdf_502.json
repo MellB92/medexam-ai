@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält ausschließlich theoretische Prüfungsfragen und -antworten zu verschiedenen medizinischen Themen, aber **keine vollständigen klinischen Patientenfälle** mit konkreten Patientenpräsentationen.\n\nDie Fragen behandeln zwar klinische Szenarien (z.B. \"Was sehen Sie auf dem CT-Bild des Abdomens?\", \"Was sehen Sie auf dem Röntgenbild des Thorax?\"), aber es handelt sich dabei um:\n\n1. **Fragmentarische Prüfungsfragen** ohne vollständige Fallinformationen\n2. **Keine konkreten Patientendaten** (kein Alter, Geschlecht, Anamnese)\n3. **Keine zusammenhängende Falldarstellung** mit Beschwerden, Untersuchungsbefunden und Verlauf\n4. **Rein theoretisches Wissen** über Behandlungsoptionen und Differentialdiagnosen\n\nDie erwähnten Szenarien (Ileus auf CT, Hämatopneumothorax auf Röntgen, Femurfraktur) sind isolierte Prüfungsfragen ohne die notwendigen Details für einen vollständigen klinischen Fall (keine Patientenvorstellung, keine Anamnese, keine vollständige Befundkonstellation)."
+  }
+]

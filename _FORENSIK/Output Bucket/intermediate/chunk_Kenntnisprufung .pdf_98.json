@@ -1,0 +1,176 @@
+[
+  {
+    "title": "75-jähriger Patient mit Angina pectoris und Aortenklappenstenose",
+    "patient_age": "75-jährig",
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Pektanginöse Beschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Herzgeräusch: spindelförmiges Holosystolikum"
+    ],
+    "imaging_findings": [
+      "EKG: Sinusrhythmus mit Linkstyp, ST-Senkung und T-Negativierung in V3-V6 und I, AVL"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Aortenklappenstenose"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Auskultation"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Nitrate kontraindiziert"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "71-jährige Patientin mit schmerzlosem Ikterus - Pankreaskopfkarzinom",
+    "patient_age": "71-jährig",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Ikterus",
+      "Gelbe Augen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Kommt aus dem Urlaub",
+      "In Begleitung von Angehörigen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Ikterus",
+      "Keine Schmerzen",
+      "Fit"
+    ],
+    "imaging_findings": [
+      "Sonographie: Pankreaskopfkarzinom"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pankreaskopfkarzinom",
+      "Schmerzloser Ikterus bei Tumor"
+    ],
+    "diagnostic_approach": [
+      "Sonographie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "17-jähriger Patient mit Bauchschmerzen und freier Luft",
+    "patient_age": "17-jährig",
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Bauchschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sonographie Abdomen: freie Luft"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hohlorganperforation"
+    ],
+    "diagnostic_approach": [
+      "Sonographie Abdomen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "65-jährige Patientin mit chronischen Rückenschmerzen und Nebennieren-Raumforderung",
+    "patient_age": "65J",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Rückenschmerzen mit Ausstrahlung in beide Flanken",
+      "Permanent zunehmende Schmerzen in den letzten Monaten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Bandscheibenvorfall vor 20 Jahren",
+      "Intermittierende Rückenschmerzen seit 20 Jahren",
+      "Polypenentfernung"
+    ],
+    "comorbidities": [
+      "Aortenklappeninsuffizienz"
+    ],
+    "risk_factors": [
+      "Vitamin D Mangel"
+    ],
+    "family_history": [
+      "Mutter: Darmkrebs mit 90 Jahren operiert",
+      "Vater: Lungenerkrankung mit mehreren Sprays, Diabetes mellitus",
+      "Bruder: Bewusstlosigkeit beim Fahrradfahren, Herzuntersuchung"
+    ],
+    "social_history": [],
+    "medications": [
+      "Vitamin D3 einmal pro Woche"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck einmalig erhöht beim Hausarzt (165 mmHg)"
+    ],
+    "physical_examination": [
+      "Klopfschmerzen im LWS und Flanke",
+      "Aortenklappeninsuffizienz"
+    ],
+    "imaging_findings": [
+      "Ultraschall: unklare Raumforderung in rechter Flanke",
+      "Ultraschall: Nebennieren-Raumforderung",
+      "Röntgen Vorfuß: Osteopenie und Hallux valgus",
+      "Bild: keilförmige Wirbelkörperfraktur",
+      "EKG: Vorhofflimmern"
+    ],
+    "laboratory_findings": [
+      "Vitamin D sehr niedrig"
+    ],
+    "suspected_diagnosis": [
+      "Osteoporose mit pathologischer Fraktur",
+      "LWS-Fraktur",
+      "Metastasen",
+      "Bandscheibenvorfall"
+    ],
+    "diagnostic_approach": [
+      "Sonographie",
+      "Röntgen",
+      "EKG",
+      "Kolonoskopie vor 3 Jahren unauffällig"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

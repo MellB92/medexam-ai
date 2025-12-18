@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Herzinfarkt nach körperlicher Belastung",
+    "patient_age": null,
+    "patient_gender": "Mann",
+    "severity": "severe",
+    "chief_complaints": [
+      "Schmerzsymptomatik"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "körperliche Belastung (Gartenarbeit, Sex)"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Myokardinfarkt",
+      "Angina Pectoris"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Vorderwand-STEMI bei Patient mit Z.n. Aortenklappenersatz und Leberzirrhose",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "critical",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Endokarditis",
+      "alkoholtoxische Leberzirrhose",
+      "Z.n. viertem Aortenklappenersatz"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Alkoholabusus"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit Vorderwand STEMI-Zeichen",
+      "betroffene Koronararterie: Ramus interventrikularis anterior (RIVA/LAD)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vorderwand-STEMI"
+    ],
+    "diagnostic_approach": [
+      "EKG"
+    ],
+    "treatment_response": [
+      "Sauerstoffgabe",
+      "Heparin 5000 IE",
+      "ASS 500 mg",
+      "Morphin 5 mg",
+      "PCI mit DES (Drug-eluting-Stent)",
+      "duale Thrombozytenaggregationshemmer"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Rehabilitationsaufnahme"
+    ]
+  },
+  {
+    "title": "Tako-Tsubo-Kardiomyopathie nach Stress",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Angina-Pectoris Beschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Stress"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Stress in Anamnese"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Herzkatheteruntersuchung ohne Auffälligkeiten"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tako-Tsubo-Kardiomyopathie"
+    ],
+    "diagnostic_approach": [
+      "Herzkatheteruntersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Synkope bei Hypovolämie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Synkope"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Synkope bei Hypovolämie"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Beine anheben",
+      "Autotransfusion",
+      "Trendelenburg-Lagerung"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

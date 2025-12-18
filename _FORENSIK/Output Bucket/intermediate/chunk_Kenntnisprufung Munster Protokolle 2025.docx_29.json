@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Inzidentalom mit sekundärer arterieller Hypertonie",
+    "patient_age": "69 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Bluthochdruck 165 mmHg",
+      "belastungsabhängige Dyspnoe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Rückenschmerzen seit 20 Jahren aufgrund Beckenbruch",
+      "Fersenschmerzen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sonographie rechte Flankenregion: auffälliger Befund",
+      "Sonographie: echoarme Raumforderung am vorderen Nierenpol",
+      "Nebennierenadenom"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Inzidentalom",
+      "Sekundäre arterielle Hypertonie",
+      "Nebennierenadenom",
+      "Conn-Syndrom (DD)",
+      "Cushing-Syndrom (DD)",
+      "Phäochromozytom (DD)"
+    ],
+    "diagnostic_approach": [
+      "Aldosteron/Renin-Quotient",
+      "Cortisol im Serum und Urin",
+      "Mitternachts-Cortisol (zirkadianer Rhythmus)",
+      "ACTH-Bestimmung",
+      "weitere Bestätigungsdiagnostik"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text besteht ausschließlich aus:\n- Theoretischen Fragen und Antworten zu medizinischen Themen\n- Wissensabfragen (z.B. \"Was bedeuten die Buchstaben DDD beim Herzschrittmacher?\")\n- Definitionen und Leitlinien-Musterlösungen\n- Feedback zu Kandidatenantworten in einer Prüfungssituation\n\nEs handelt sich um ein Prüfungsprotokoll oder eine Analyse von Prüfungsantworten, nicht um konkrete Patientenfälle mit Anamnese, Befunden und diagnostischem Vorgehen."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 64/111) aus dem EKG-Kurs-Lehrbuch enthält **keine klinischen Patientenfälle oder Präsentationsfälle**.\n\nDer Abschnitt beinhaltet:\n\n1. **Differenzialdiagnostische Abbildungen** (Abb. 26.6-26.9) zu Tachykardien mit breitem QRS-Komplex, Kammerflattern und Kammerflimmern\n\n2. **Didaktische \"Merke\"-Kästen** mit elektrokardiografischen Charakteristika von:\n   - Ventrikulären Extrasystolen\n   - Ventrikulären Tachykardien\n   - Kammerflattern\n   - Kammerflimmern\n\n3. **Theoretische Beschreibungen** des Brugada-Syndroms:\n   - Pathophysiologie (SCN5A-Gen-Mutationen, Na+-Kanal-Dysfunktion)\n   - EKG-Erkennungsmerkmale\n   - Klassifikation (Typ I-III)\n\n4. **EKG-Beispielabbildungen** (Abb. 27.1-27.2) mit schematischen Darstellungen\n\nEs handelt sich um rein didaktisches Lehrmaterial ohne konkrete Patientenkasuistiken mit individuellen Anamnesen, Befunden oder diagnostischen Prozessen."
+  }
+]

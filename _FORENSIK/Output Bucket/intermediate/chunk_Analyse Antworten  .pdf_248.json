@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 249/254) enthält ausschließlich theoretische Fragen und Antworten aus einer medizinischen Wissensprüfung. Es handelt sich um ein Frage-Antwort-Format mit Musterlösungen aus Leitlinien, jedoch **keine konkreten Patientenfälle**.\n\nDie Inhalte umfassen:\n- Theoretische Fragen zu Erregern postoperativer Abszesse\n- Definition und Klassifikation von pAVK\n- Antiemetika-Klassifikationen\n- Virostatika-Gruppen\n- Therapieschemata (anaphylaktischer Schock, Reanimation)\n- Anatomische Strukturen (Retroperitonealraum, Fibulafraktur)\n- Behandlungsprotokolle (Alkoholintoxikation, Harnwegsinfekte)\n- Glasgow Coma Scale\n\nAlle Fragen beginnen mit \"Nicht im Protokoll enthalten\" als Kandidatenantwort und enthalten nur theoretisches Wissen ohne konkrete Patientenvorstellung, Anamnese, klinische Präsentation oder individuelle Befunde."
+  }
+]

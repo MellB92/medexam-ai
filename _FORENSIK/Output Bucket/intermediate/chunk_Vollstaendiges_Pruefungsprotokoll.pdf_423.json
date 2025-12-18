@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer gesamte Chunk besteht aus:\n\n1. **Prüfungsfragen mit theoretischen Antworten** zu verschiedenen medizinischen Themen wie:\n   - Fisteln und deren Behandlung\n   - Delir und Neuroleptika\n   - Osteoporose\n   - KHK-Risikofaktoren\n   - Diabetes mellitus und Komplikationen\n   - Cholelithiasis und Pankreatitis\n   - Aortendissektion\n   - Behandlungsfehler\n   - Hyperthyreose\n   - Herzklappenauskultation\n   - Bariatrische Verfahren\n   - Thrombozytopenie\n\n2. **Abstrakte medizinische Wissensfragen** ohne konkrete Patientenangaben (Alter, Geschlecht, Anamnese, spezifische Beschwerden)\n\n3. **Eine Röntgen-Thorax-Frage (Frage 3)**, die zwar auf ein Bild verweist, aber keinen konkreten Patientenfall mit Anamnese, Alter, Geschlecht oder klinischem Kontext darstellt - es ist eine allgemeine Beschreibungsaufgabe ohne Falldaten\n\nEs handelt sich ausschließlich um **theoretisches Prüfungswissen** im Frage-Antwort-Format, nicht um dokumentierte klinische Fallpräsentationen."
+  }
+]

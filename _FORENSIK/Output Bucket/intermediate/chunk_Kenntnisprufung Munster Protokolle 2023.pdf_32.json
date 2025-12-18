@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Epigastrische Beschwerden mit Sodbrennen",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "epigastrische Beschwerden seit Monaten",
+      "Völlegefühl",
+      "Schmerzen nach dem Essen",
+      "Sodbrennen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [
+      "keine Medikamente"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Gastritis",
+      "H. pylori Infektion"
+    ],
+    "diagnostic_approach": [
+      "Anamnese zu NSAID-Einnahme",
+      "Abklärung B-Symptomatik",
+      "Therapieversuch mit PPI hochdosiert für 4 Wochen, dann normale Dosierung für weitere 4 Wochen",
+      "bei fehlender Besserung: ÖGD",
+      "bei Ablehnung ÖGD: nicht invasive Methoden zum H. pylori Nachweis (Harnstoff-Atemtest)"
+    ]
+  },
+  {
+    "title": "Komatöser Patient auf ITS - Patientenverfügung/Vorsorgevollmacht",
+    "patient_age": "jung",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "komatös seit 3 Wochen auf ITS"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Patientenverfügung erfragen",
+      "Vorsorgevollmacht erfragen",
+      "bei fehlender Vorsorgevollmacht: Betreuungsgericht entscheidet"
+    ]
+  },
+  {
+    "title": "Humerusfraktur nach Sturz von 2 Meter Höhe",
+    "patient_age": "62",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Schulterschmerzen links (9/10 NRS initial, 6/10 nach Analgetika)",
+      "Bewegungseinschränkung des Arms",
+      "Übelkeit nach Sturz"
+    ],
+    "accident_mechanism": "Sturz von Leiter aus 2 Meter Höhe beim Decke streichen, auf linke Seite gefallen, nicht bewusstlos gewesen, konnte aufgrund der Schmerzen eine Weile nicht aufstehen",
+    "pre_existing_conditions": [
+      "Z.n. laparoskopischer Cholezystektomie",
+      "Z.n. Prostatektomie bei Prostatakarzinom"
+    ],
+    "medications": [
+      "keine"
+    ],
+    "allergies": [
+      "Penicillin",
+      "mehrere andere Antibiotika (nicht näher erinnert)"
+    ],
+    "physical_examination": [
+      "Schurfwunde am Oberarm (mit Pflaster versorgt)",
+      "kam zu Fuß in den Raum, stöhnend"
+    ],
+    "imaging_findings": [
+      "Dislozierte subkapitale Humerusfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Dislozierte subkapitale Humerusfraktur",
+      "mögliche Begleitverletzungen: Gefäße, Nerven (N. axillaris, N. radialis, Plexus brachialis), Rotatorenmanschette",
+      "DD: Milzruptur",
+      "DD: Pneumothorax",
+      "DD: Calcaneusfraktur"
+    ],
+    "diagnostic_approach": [
+      "Anamnese und körperliche Untersuchung",
+      "Röntgen",
+      "Prüfung auf Gefäß- und Nervenverletzungen",
+      "Prüfung auf Begleitverletzungen",
+      "Tetanus-Status (aufgefrischt vor 6-7 Jahren)",
+      "Meldung bei Berufsgenossenschaft der Bauwirtschaft (BG Bau) wegen Nachbarschaftshilfe"
+    ]
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "title": "35-jähriger Patient nach Autounfall im Koma mit schwerem Hirnödem",
+    "patient_age": "35 Jahre",
+    "patient_gender": "m",
+    "severity": "critical",
+    "chief_complaints": [
+      "Koma seit 8 Tagen auf Intensivstation"
+    ],
+    "accident_mechanism": "Autounfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Spenderausweis vorhanden"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Koma"
+    ],
+    "imaging_findings": [
+      "cCT mit sehr starkem Hirnödem",
+      "Ventrikel kaum sichtbar"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hirntod"
+    ],
+    "diagnostic_approach": [
+      "Hirntod-Feststellung durch 2 unabhängige Fachärzte",
+      "einer davon Neurologe",
+      "DSO-Anmeldung (Deutsche Stiftung Organtransplantation)"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Hirntod"
+    ],
+    "follow_up": [
+      "Eurotransplant Datenbank für Organallokation (Hauptsitz Holland)"
+    ]
+  },
+  {
+    "title": "62-jährige Frau mit rechtsseitigen Kopfschmerzen, Kauschmerzen und akuter Sehverschlechterung",
+    "patient_age": "62 Jahre",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "seit 2 Wochen bestehende, zunehmende starke Schmerzen in der rechten Kopfhälfte (Schmerzstärke 6/10)",
+      "Schmerzen im Bereich der Kaumuskulatur",
+      "Müdigkeit und Fieber seit 2 Wochen (keine Temperaturmessung)",
+      "Schmerzen beim Schlucken und Kauen",
+      "Hypersensitivität der Haut im Frontal- und Temporalbereich des Schädels",
+      "plötzliches verschwommenes Sehen auf dem rechten Auge seit heute Morgen",
+      "nächtliche Hyperhidrosis",
+      "Appetitlosigkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie seit 3 Jahren",
+      "Z.n. Schädelgrundbruch-Fraktur im Alter von 21 Jahren (konservativ behandelt)",
+      "Z.n. Schilddrüsenknotenextirpation im Alter von 48 Jahren (komplikationslos)",
+      "Hepatitis vor 5 Jahren nach Reise in Italien (ausgeheilt)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Raucherin, 3 Zigaretten pro Tag",
+      "gelegentlicher Alkoholkonsum (von Geburtstag zu Geburtstag)"
+    ],
+    "family_history": [
+      "Vater verstorben am Kolonkarzinom vor 5 Jahren",
+      "Schwester leidet an Lungenarterienembolie",
+      "Bruder leidet an Gicht",
+      "Mutter gesund (rüstig)"
+    ],
+    "social_history": [
+      "Rentnerin",
+      "früher als Mobilfunkanbieter gearbeitet",
+      "jetzt teilweise in Katzenpflegeheim tätig",
+      "verwitwet",
+      "wohnt alleine in einer Wohnung",
+      "zwei Söhne und ein Enkel (alle gesund)",
+      "keine Haustiere",
+      "in letzter Zeit nicht gereist",
+      "vollständig geimpft, auch gegen Corona (4 Impfungen)"
+    ],
+    "medications": [
+      "Candesartan 8 mg 1-0-0",
+      "Paracetamol 500 mg bei Bedarf"
+    ],
+    "allergies": [
+      "Diclofenac (Übelkeit und Pruritus)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Schmerzen beim Beklopfen des Schädels",
+      "übrige körperliche Untersuchung vom Kopf bis Fuß unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "V.a. Arteriitis temporalis (Riesenzellarteriitis)"
+    ],
+    "diagnostic_approach": [
+      "Händedesinfektion mindestens 30 Sekunden",
+      "Vitalparameter messen",
+      "körperliche Untersuchung vom Kopf bis Fuß",
+      "Reflexübung durchführen",
+      "venösen Zugang legen",
+      "Zahnarztuntersuchung war unauffällig"
+    ],
+    "treatment_response": [
+      "Paracetamol 500 mg ohne Erfolg"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Zunehmende Rückenschmerzen bei bekanntem BSV und Nebenbefund Abdomen",
+    "patient_age": "63-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Seit ein paar Monaten zunehmende Rückenschmerzen im Bereich LWS"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Chronische Rückenschmerzen seit 20 Jahren",
+      "Bandscheibenvorfall LWS-Bereich (operiert vor 20 Jahren)",
+      "Polypektomie vor 2 Jahren",
+      "Osteoporose",
+      "Bänderriss rechter Fuß (vor 2 Wochen)",
+      "Schwere Infektion mit Milz- und Leberbeteiligung vor 20 Jahren"
+    ],
+    "medications": [
+      "Vitamin D 20000 IE wöchentlich",
+      "Ibuprofen gelegentlich"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "RR beidseits erhöht (165 sys)",
+      "Abdomen unauffällig",
+      "Lasegue negativ",
+      "Neurologische Untersuchungen durchgeführt",
+      "Mennel-Test durchgeführt",
+      "OSG mit Schiene ruhiggestellt"
+    ],
+    "imaging_findings": [
+      "Abdomensonografie: Befund im rechten Flank (nicht näher beschrieben von Patientin)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sekundäre arterielle Hypertonie a.e. bei endokriner Ursache (Phäochromozytom/Conn-Syndrom/Cushing-Syndrom)",
+      "Wirbelkörperfraktur infolge LWS Osteoporose",
+      "Rezidiv eines BSV"
+    ],
+    "diagnostic_approach": [
+      "Labor: Renin/Aldosteron, Metanephrin und Normetanephrin, Cortison",
+      "Abdomensonografie: Nieren und Nebennieren Beurteilung, Leber und Milz Beurteilung",
+      "Langzeitblutdruckmessung",
+      "Röntgen LWS 2 Ebenen",
+      "evtl. CT-Abdomen"
+    ]
+  },
+  {
+    "title": "17-jähriger Patient mit Mononukleose",
+    "patient_age": "17-jährig",
+    "patient_gender": null,
+    "chief_complaints": [
+      "Angina tonsillaris mit Belägen",
+      "Hautausschlag nach Penicillin-Gabe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [
+      "Penicillin (mit Hautausschlag)"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Angina Tonsillaris mit Beläge",
+      "Hautausschlag"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Blutausstrich (Bild gezeigt)"
+    ],
+    "suspected_diagnosis": [
+      "Mononukleose (EBV)",
+      "Differentialdiagnose: CMV"
+    ],
+    "diagnostic_approach": [
+      "Symptome von Mononukleose evaluieren",
+      "Erregernachweis",
+      "Sport Verbot wegen Milzruptur-Risiko"
+    ]
+  }
+]

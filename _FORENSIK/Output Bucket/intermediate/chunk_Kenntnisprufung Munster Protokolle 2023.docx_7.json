@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Akute Appendizitis bei 66-jähriger Patientin",
+    "patient_age": "66-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Seit einem Tag bestehende kolikartige, verschlechternde, starke Abdominalschmerzen",
+      "Schmerzen begannen am mittleren Bauch und verlagerten sich in die rechte Seite des Unterabdomens",
+      "Schmerzskala NRS 5-6/10",
+      "Fieber",
+      "Inappetenz",
+      "Übelkeit",
+      "Einmaliges Erbrechen (nicht blutig, nur Restessen)",
+      "Dunkler Urin"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. TVT bei der Schwangerschaft vor mehreren Jahren",
+      "Z.n. Ellenbogen-Verletzung vor 3 Wochen (konservativ behandelt)",
+      "Herzklappenvitien (Typ unbekannt)",
+      "Vitamin Mangel (?Vitamin D)",
+      "Vor 1 Woche beim Zahnarzt gewesen"
+    ],
+    "medications": [
+      "Ibuprofen Tabletten (vom Zahnarzt)",
+      "Vitamin D Tablette (Dosis unbekannt)",
+      "Buscopan (mit weniger Linderung eingenommen)"
+    ],
+    "allergies": [
+      "Pflaster (äußert sich als Hautausschlag)"
+    ],
+    "physical_examination": [
+      "Gewicht: 76 kg, Größe: 1,61 m",
+      "Reduzierter Allgemeinzustand",
+      "Febril",
+      "Abdomen: nicht vergrößert, normale Darmgeräusche",
+      "Abwehrspannung erkennbar",
+      "Schwergradiger Druckschmerz rechte Fossa iliaca (McBurney-Punkt)",
+      "Psoas-Zeichen positiv",
+      "Blumberg-Zeichen positiv",
+      "Murphy-Zeichen nicht beurteilbar wegen Schmerzen",
+      "CVS: S1 S2, Puls 78/min, RR 110/70 mmHg an beiden Armen gemessen",
+      "Respiratorisch: unauffällig",
+      "ZNS: unauffällig",
+      "Muskuloskeletal: unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akutes Abdomen",
+      "Akute Appendizitis",
+      "Divertikulitis",
+      "Harnwegsinfekt",
+      "Salpingitis",
+      "Cholezystitis (auszuschließen)"
+    ],
+    "diagnostic_approach": [
+      "BB",
+      "CRP",
+      "Procalcitonin",
+      "Elektrolyte",
+      "Nierenwerte",
+      "Leberwerte: AST, ALT, GGT",
+      "Lipase, Amylase",
+      "Urin-Analyse",
+      "Weitere notwendige Laboruntersuchungen zur Diagnoseausschluss"
+    ]
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "title": "Schlappheit und Ödembildung bei Hypothyreose-Patientin",
+    "patient_age": "62-jährig",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schlappheit seit 4 Wochen",
+      "geschwollene Füße",
+      "Nykturie",
+      "Nachtschweiß",
+      "Fieber 37°C aktuell",
+      "initial grippaler Infekt mit Gliederschmerzen",
+      "trockener Husten",
+      "Fieber bis 39 Grad initial"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypothyreose"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Übergewicht"
+    ],
+    "family_history": [],
+    "social_history": [
+      "keine Noxen"
+    ],
+    "medications": [
+      "L-Thyroxin",
+      "Vitamin D"
+    ],
+    "allergies": [
+      "keine Allergie"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Übergewicht",
+      "geschwollene Füße",
+      "sonst unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Knietrauma mit Patellaluxation nach Sturz",
+    "patient_age": "61-jährig",
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Knieschmerzen",
+      "Knie weggeknickt",
+      "kam mit Gehstützen"
+    ],
+    "accident_mechanism": "von einem Kind angeprallt und das Knie weggeknickt",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Knie wegen Schmerzen fast gar nicht untersuchbar",
+      "pDMS gecheckt",
+      "Reflexe geprüft",
+      "Herz, Lungen, Abdomen untersucht",
+      "Streckdefizit",
+      "konnte den Fuß gar nicht auf den Boden stellen"
+    ],
+    "imaging_findings": [
+      "Röntgen Knie: alles unauffällig außer Patella",
+      "MRT Knie: Innenbandruptur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "VKB Ruptur",
+      "Innenmeniskusverletzung",
+      "Innenbandruptur",
+      "Patellaluxation (finale Diagnose)",
+      "Innenbandruptur (bestätigt)"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Knie",
+      "MRT Knie"
+    ],
+    "treatment_response": [
+      "Wunde zunähen"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Akutes Nierenversagen bei Marathonläufer",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Nierenversagen nach 14 km Lauf"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Knieschmerzen"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "hochdosierte NSAR-Einnahme präventiv",
+      "Volumenmangel durch Schwitzen"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Marathonläufer"
+    ],
+    "medications": [
+      "NSAR hochdosiert"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "prärenales Nierenversagen"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Dialyse notwendig"
+    ],
+    "complications": [
+      "akutes Nierenversagen"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Fieberkrampf bei Kleinkind",
+    "patient_age": "4 Jahre",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Krampfanfall",
+      "Fieber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Fieberkrampf"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Diazepam rektal"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

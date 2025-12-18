@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Multiples Myelom mit Rückenschmerzen und B-Symptomatik",
+    "patient_age": "68-jährige",
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Starke Rückenschmerzen seit 4 Wochen",
+      "Armschmerzen rechts",
+      "Rippenschmerzen rechts",
+      "Begleitendes Fieber",
+      "Übermäßiger Nachtschweiß",
+      "Trockener Husten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Zustand nach schwerem Autounfall mit 45 Jahren (längerer KH-Aufenthalt, mehrfach operiert)",
+      "Venenthrombose linkes Bein mit 55 Jahren (mit Blutverdünnern behandelt)",
+      "Zustand nach Ellenbogen-OP rechts vor 18 Monaten (entzündete Sehne)",
+      "Unregelmäßige Herzschläge seit 2 Monaten"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater mit 96 Jahren an Herzkrankheit gestorben",
+      "Mutter mit 76 Jahren nach Gallenblase-OP Komplikation gestorben",
+      "Bruder mit 56 Jahren an CED gestorben",
+      "Zwei gesunde Töchter"
+    ],
+    "social_history": [],
+    "medications": [
+      "Blutverdünner (nach Venenthrombose, Status unklar)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Druckschmerzen am ganzen Rücken",
+      "Druckschmerzen am rechten Rippenbogen",
+      "Sonst unauffällig"
+    ],
+    "imaging_findings": [
+      "Röntgen Rippen vor 4 Wochen: unauffällig",
+      "Röntgen Schulter rechts: Osteolysen am Schaft und distalen Humerus"
+    ],
+    "laboratory_findings": [
+      "BSG stark erhöht",
+      "Urintest auffällig",
+      "Elektrophorese: M-Gradient"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom"
+    ],
+    "diagnostic_approach": [
+      "BSG",
+      "Urintest",
+      "Elektrophorese",
+      "Knochenmarkpunktion",
+      "Immunofixation",
+      "Aspirationszytologie",
+      "Röntgenaufnahmen (Skelettdiagnostik)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Überweisung zum Onkologen für Chemotherapie geplant"
+    ]
+  }
+]

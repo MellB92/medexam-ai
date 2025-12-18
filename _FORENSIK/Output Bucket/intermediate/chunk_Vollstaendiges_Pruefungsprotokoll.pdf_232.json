@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nEs handelt sich ausschließlich um:\n\n1. **Prüfungsfragen mit Antworten** aus einem Prüfungsprotokoll (Q&A-Format)\n2. **Theoretisches Wissen** zu verschiedenen medizinischen Themen wie:\n   - Hüft-TEP Reposition\n   - Kardiovaskuläre Risikofaktoren\n   - Hyperlipidämie\n   - Reflux (sauer/alkalisch)\n   - Cholezystolithiasis\n   - 4-Punkt-Gang mit Gehstützen\n   - Bronchialkarzinom-Diagnostik\n   - Bronchoskopie-Komplikationen\n   - Linksventrikuläre Hypertrophie/EKG\n   - Antihypertensiva\n   - Hypertonie (primär/sekundär)\n   - Gicht/Podagra\n\n3. **Musterlösungen und Analyse-Tipps** für Prüfungskandidaten\n\nEs werden **keine konkreten Patienten** mit individuellen Charakteristika (Alter, Geschlecht, spezifische Beschwerden, Unfallhergang) präsentiert. Die Erwähnung von \"Cholezystolithiasis\" erfolgt im Kontext einer Bildanalyse-Frage, nicht als Patientenfall."
+  }
+]

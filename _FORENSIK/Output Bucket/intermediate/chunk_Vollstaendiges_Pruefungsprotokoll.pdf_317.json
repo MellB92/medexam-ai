@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle** mit konkreten Patientenpräsentationen. \n\nDer Abschnitt besteht aus:\n\n1. **Stichpunktartige Zusammenfassungen medizinischen Wissens** (Cholezystolithiasis, Milzruptur, Impfungen, etc.)\n\n2. **Prüfungsfragen mit Antworten** (Frage 24 und Fragen 1-6), die theoretisches Wissen abfragen zu:\n   - Impfungen für Afrika\n   - Niereninsuffizienz\n   - Varizella Zoster\n   - Sprunggelenksfrakturen\n   - ALARA-Prinzip\n   - Sigmadivertikulitis\n   - EKG\n   - Myokardinfarkt\n\n3. **Bildverweise** (Röntgen, CT) ohne konkrete Patientengeschichten\n\nEs werden zwar klinische Szenarien erwähnt (z.B. \"Röntgen mit freier intraabdomineller Luft\", \"perforierte Sigmadivertikulitis\", \"Orbitabodenfraktur\"), aber diese sind **nicht als vollständige Patientenfälle mit Anamnese, Beschwerden und strukturierter Präsentation** dargestellt, sondern als isolierte Prüfungsfragen zum theoretischen Wissen.\n\nEin vollständiger klinischer Fall würde z.B. beginnen mit: \"Ein 65-jähriger Patient stellt sich mit linksseitigen Unterbauchschmerzen seit 2 Tagen vor...\" - solche strukturierten Fallpräsentationen fehlen hier komplett."
+  }
+]

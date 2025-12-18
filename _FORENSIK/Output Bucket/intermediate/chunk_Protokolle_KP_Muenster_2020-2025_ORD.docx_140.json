@@ -1,0 +1,143 @@
+[
+  {
+    "title": "Chronisch entzündliche Darmerkrankung (CED) mit Colitis ulcerosa",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Durchfall",
+      "Bauchschmerzen",
+      "Fieber 37.8°C",
+      "Appetitlosigkeit",
+      "Gewichtsverlust 3 kg in 3 Wochen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Schlüsselbeinfraktur vor 3 Jahren konservativ behandelt",
+      "Kälteallergie im Kindesalter"
+    ],
+    "medications": [
+      "Imodium akut"
+    ],
+    "allergies": [
+      "Kälteallergie (im Kindesalter)"
+    ],
+    "physical_examination": [
+      "adipöser Zustand",
+      "Druckschmerz im linken Unterbauch",
+      "blasses Aussehen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "CED insbesondere Colitis Ulcerosa",
+      "Sigmadivertikulitis",
+      "infektiöse Gastroenteritis",
+      "Pyelonephritis",
+      "HWI"
+    ],
+    "diagnostic_approach": [
+      "Entzündungsparameter",
+      "Hb",
+      "bakteriologische Stuhluntersuchung mit Antibiogramm",
+      "Abdomensonographie",
+      "CT-Abdomen",
+      "Koloskopie"
+    ]
+  },
+  {
+    "title": "Lungenembolie bei Patient mit Z.n. Thrombose",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Dyspnoe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Thrombose in der Vergangenheit",
+      "Antikoagulation abgesetzt"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: P-Pulmonale"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenembolie"
+    ],
+    "diagnostic_approach": [
+      "Echo",
+      "Rechtsherzbelastungszeichen"
+    ]
+  },
+  {
+    "title": "Tuberkulose mit pulmonalen Manifestationen",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Husten seit längerer Zeit",
+      "Dyspnoe",
+      "Gewichtsabnahme",
+      "Hämoptyse"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax: hiläre Lymphknotenvergrößerung links",
+      "fleckige Verdichtung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tuberkulose"
+    ],
+    "diagnostic_approach": [
+      "Tuberkulin-Hauttest",
+      "Interferon-Y-Test",
+      "direkte Erregerdiagnostik aus allen Körperflüssigkeiten außer Blut",
+      "Mikroskopie in Ziehl-Neelsen-Färbung",
+      "PCR"
+    ]
+  },
+  {
+    "title": "Akute Divertikulitis",
+    "patient_age": "63",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "linksseitige Unterbauchschmerzen",
+      "Fieber",
+      "Blut im Stuhl",
+      "wechselnde Durchfall und Verstopfung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "Z.n. Appendektomie",
+      "Z.n. Cholezystektomie",
+      "Z.n. Magenspiegelung mit H. Pylori Eradikation vor 15 Jahren",
+      "Z.n. Knochenbruch Unterschenkel rechts mit 18 Jahren konservativ behandelt"
+    ],
+    "medications": [
+      "Lisinopril"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "lokale Abwehrspannung am Unterbauch links",
+      "Lymphknoten unauffällig",
+      "Herz unauffällig",
+      "Lungen unauffällig",
+      "Abdomen sonst unauffällig",
+      "kein pretibiales Ödem",
+      "periphere Pulse unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "akute Divertikulitis"
+    ],
+    "diagnostic_approach": []
+  }
+]

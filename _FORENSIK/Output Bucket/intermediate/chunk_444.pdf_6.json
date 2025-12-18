@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 7/155 aus der Datei 444.pdf) enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer Text besteht ausschließlich aus:\n\n1. **Diagnostischen Kriterien** für Myokardinfarkt (NSTEMI):\n   - EKG-Befunde (ST-Senkungen, T-Inversion)\n   - Labordiagnostik (Troponinbestimmung, Biomarker-Kinetik)\n\n2. **Allgemeinen medizinischen Informationen**:\n   - Standardlabor-Parameter\n   - Echokardiographie-Indikationen\n   - Differentialdiagnosen des akuten Koronarsyndroms\n\n3. **Therapierichtlinien**:\n   - Erstmaßnahmen\n   - Medikamentöse Therapie (STEMI/NSTEMI)\n   - PCI-Indikationen\n\n4. **Komplikationen** (Früh- und Spätkomplikationen)\n\n5. **Sekundärprophylaxe** nach Myokardinfarkt\n\n6. **Killip-Klassifikation** für Prognosebewertung\n\nEs handelt sich um **Lehrbuchmaterial/Leitlinien** ohne konkrete Patientenbeispiele, Fallvignetten oder klinische Präsentationen mit individuellen Patientendaten."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 448/585) enthält ausschließlich theoretische Prüfungsfragen und -antworten aus einem Prüfungsprotokoll. Es handelt sich um ein Frage-Antwort-Format zu verschiedenen medizinischen Themen wie:\n\n- Sekundärer Hyperparathyreoidismus\n- Urinsediment\n- Tubulointerstitielle Nephritiden\n- Mitralklappeninsuffizienz\n- Berufsgenossenschaften\n- Ultraschall und CT-Diagnostik\n- Frakturzeichen\n- Cholezystitis\n- Erysipeloid\n- AV-Blockierungen\n- Niereninsuffizienz\n\n**Keine dieser Fragen präsentiert einen konkreten, vollständigen klinischen Patientenfall** mit spezifischen Patientencharakteristika (Alter, Geschlecht), Anamnese, Beschwerden und diagnostischem Vorgehen. Es sind rein didaktische Wissensfragen mit theoretischen Antworten.\n\nBeispiel: \"Frage 16: Was kann man im Urinsediment sehen?\" ist eine theoretische Frage, kein Patientenfall.\n\nDaher: **Leeres Array** als Ergebnis."
+  }
+]

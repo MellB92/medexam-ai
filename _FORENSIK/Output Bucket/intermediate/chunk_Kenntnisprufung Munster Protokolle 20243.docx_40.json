@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Anämie-Abklärung - Herr Fischer\",\n    \"patient_age\": null,\n    \"patient_gender\": \"männlich\",\n    \"chief_complaints\": [\"Anämie\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Glossitis\", \"Lackzunge\"],\n    \"imaging_findings\": [\n      \"EKG mit Perikarditis\",\n      \"Echo: Perikarderguss\",\n      \"Echo: Perikardtamponade\",\n      \"Röntgen-Thorax: Lungenödem\",\n      \"Röntgen-Thorax: Herzvergrößerung\",\n      \"Röntgen-Thorax mit Pneumonie\"\n    ],\n    \"laboratory_findings\": [\n      \"Kleines Blutbild: makrozytäre hyperchrome Anämie\"\n    ],\n    \"suspected_diagnosis\": [\n      \"B12-Mangel-Anämie\",\n      \"Folsäure-Mangel\",\n      \"Perikarditis\",\n      \"Perikarderguss\",\n      \"Perikardtamponade\",\n      \"Pneumonie\"\n    ],\n    \"diagnostic_approach\": [\n      \"Kleines Blutbild\",\n      \"EKG\",\n      \"Echokardiographie\",\n      \"Röntgen-Thorax\",\n      \"B12- und Folsäure-Bestimmung\",\n      \"Antikörper gegen Intrinsic Faktor\"\n    ]\n  }\n]\n```"
+  }
+]

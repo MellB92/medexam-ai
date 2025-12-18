@@ -1,0 +1,106 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+*.cover
+.cache
+nosetests.xml
+coverage.xml
+*.coveragerc
+
+# Outputs / Derived data (nicht versionieren)
+_OUTPUT/
+_EXTRACTED_FRAGEN/
+_PROCESSING/
+_DERIVED_CHUNKS/
+_LLM_ARCHIVE/
+_BIBLIOTHEK/Leitlinien/
+
+# Fact Check Sources (nur fuer Verifikation, nicht fuer Content-Generierung)
+_FACT_CHECK_SOURCES/**/*.pdf
+_FACT_CHECK_SOURCES/**/*.txt
+_FACT_CHECK_SOURCES/**/*.json
+# README.md wird versioniert fuer Dokumentation
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.backup
+tmp_*
+temp_*
+
+# Backups (committed separately by GitHub Actions)
+# backups/  # Uncomment if you don't want backups in repo
+
+# Gold Standard (optional ausnehmen, falls Repo klein bleiben soll)
+# _GOLD_STANDARD/**/*.pdf
+
+# OS specific
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Jupyter Notebooks (if used)
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Documentation build artifacts
+docs/_build/
+docs/.doctrees/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+_GOLD_STANDARD/
+.embedding_cache/

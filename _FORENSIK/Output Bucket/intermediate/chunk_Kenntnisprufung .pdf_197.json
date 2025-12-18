@@ -1,0 +1,139 @@
+[
+  {
+    "title": "Makrozytäre Anämie bei männlichem Bauarbeiter",
+    "patient_age": "über 50 Jahre",
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "Anämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Alter über 50 Jahre",
+      "NSAID-Einnahme ohne Magenschutz"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Bauarbeiter beim Bauamt angestellt",
+      "3 Kinder und 3 Enkelkinder"
+    ],
+    "medications": [
+      "NSAID regelmäßig ohne Magenschutz (PPI)",
+      "Metformin (Langzeitanwendung)"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck bds gemessen"
+    ],
+    "physical_examination": [
+      "Herz untersucht",
+      "Lungen untersucht",
+      "Bauch untersucht",
+      "Lymphknoten untersucht",
+      "Beinödem untersucht",
+      "periphere Pulse untersucht"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Makrozytäre Hyperchrome Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Vitamin B12 und Folsäure Mangel",
+      "Eisenmangel-Anämie wegen GI-Verlust",
+      "Kolonkarzinom (auszuschließen bei Männer über 50 Jahre)"
+    ],
+    "diagnostic_approach": [
+      "Labor mit BB",
+      "Eisen",
+      "Ferritin",
+      "Transferrinsättigung",
+      "Vitamin B12 & Folsäure",
+      "Nierenwerte wegen DM",
+      "Stuhldiagnostik (Blut im Stuhl)",
+      "Abdomen-Sonographie",
+      "ÖGD",
+      "Koloskopie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Perikarditis bei jungem sportlichem Patienten",
+    "patient_age": "jung",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Fieber",
+      "Leistungsminderung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "sportlich aktiv"
+    ],
+    "family_history": [],
+    "social_history": [
+      "sportlich"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rö. Thorax mit Herzvergrößerung (Bocksbeutelform)",
+      "Kardiomegalie (Herz/Thorax-Quotient in p.a.-Projektion größer als 0,5)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perikarditis"
+    ],
+    "diagnostic_approach": [
+      "Entzündungsparameter",
+      "Troponin",
+      "CK-MB",
+      "NT-pro BNP"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Pneumothorax links bei jungem Patienten",
+    "patient_age": "jung",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "thorakale Schmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rö. Thorax: Pneumothorax links mit kollabierter Lunge"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pneumothorax links"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Ventilmechanismus",
+      "Entwicklung Spannungspneumothorax möglich (kann sehr schnell zum Tod führen)"
+    ],
+    "follow_up": []
+  }
+]

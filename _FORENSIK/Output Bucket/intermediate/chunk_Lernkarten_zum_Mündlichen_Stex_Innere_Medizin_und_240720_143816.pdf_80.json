@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle oder Präsentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Therapieübersichten** für akute abdominelle Erkrankungen (Cholezystitis, Ileus, Perforation, Pankreatitis, Sigmadivertikulitis)\n\n2. **Differentialdiagnostische Übersichten** zu:\n   - DD Dyspnoe (6.3) - systematische Auflistung von Erkrankungen mit Leitsymptomen, Diagnostik und Therapie\n   - DD Synkope (6.4) - Definition, Ätiologie, Klinik, Diagnostik und Therapie\n\n3. **Theoretisches Wissen** über:\n   - Definitionen (z.B. Dyspnoe, Synkope)\n   - Pathophysiologie (z.B. reflexvermittelte Synkope)\n   - Diagnostische Tests (z.B. Schellong-Test, Kipptischuntersuchung)\n   - Therapeutische Ansätze\n\nEs handelt sich um **Lernkarten/Lehrbuchmaterial** ohne konkrete Patientenvorstellungen mit individuellen Angaben zu Alter, Geschlecht, spezifischer Anamnese oder konkreten Befunden eines einzelnen Patienten."
+  }
+]

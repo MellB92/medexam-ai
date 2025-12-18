@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 15/84) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischem Lehrmaterial** über Diabetes mellitus (Typ 1-4)\n   - Definitionen\n   - Ätiologie\n   - Pathophysiologie\n   - Allgemeine Klinik\n   - Diagnostische Kriterien\n   - Therapieschemata\n\n2. **Einem fragmentarischen Text am Anfang** über Meningitis/Thromboembolien (unvollständig, abgeschnitten vom vorherigen Chunk)\n\nEs werden zwar **typische klinische Merkmale** beschrieben (z.B. \"Bei schlanken jungen Erwachsenen, Alter 15–25 J.\" oder \"häufig nach Infekt\"), aber dies sind **allgemeine epidemiologische Beschreibungen** und keine konkreten Patientenfälle mit individueller Falldarstellung.\n\nEin klinischer Fall würde beispielsweise so aussehen:\n- \"Ein 23-jähriger Patient stellt sich mit Polyurie, Polydipsie und Gewichtsverlust vor...\"\n\nSolche konkreten Fallpräsentationen sind in diesem Abschnitt nicht vorhanden."
+  }
+]

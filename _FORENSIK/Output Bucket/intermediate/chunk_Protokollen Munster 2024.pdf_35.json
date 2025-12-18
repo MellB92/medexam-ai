@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Hyperthyreose mit Zustand nach Hämorrhoidektomie\",\n    \"patient_age\": \"40-jährige\",\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"typische Hyperthyreose-Symptome\", \"Tremor\", \"innere Unruhe\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"Zustand nach Hämorrhoidektomie vor 2 Jahren\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Schilddrüsenuntersuchung\", \"Augenuntersuchung\", \"gesteigerte Sehnenreflexe an Hand\", \"gesteigerte Patellarsehnenreflexe\"],\n    \"imaging_findings\": [\"CT-Abdomen bei Verdacht auf Ileus\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Hyperthyreose\"],\n    \"diagnostic_approach\": [\"gezielte körperliche Untersuchung\", \"Schilddrüsenuntersuchung\", \"neurologische Untersuchung der Sehnenreflexe\"]\n  }\n]\n```"
+  }
+]

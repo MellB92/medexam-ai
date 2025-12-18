@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Schulterverletzung nach Sturz aus 2 Metern Höhe",
+    "patient_age": "38 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Akute Schulterschmerzen links",
+      "Sturz aus 2 Metern Höhe auf linke Schulter vor einer Stunde",
+      "Schürfwunde an der Schulter"
+    ],
+    "accident_mechanism": "Sturz aus 2 Metern Höhe bei Gartenarbeiten, Gleichgewicht verloren, Aufprall auf linke Schulter",
+    "pre_existing_conditions": [
+      "Z.n. Cholezystektomie (laparoskopisch)",
+      "Z.n. Weichteilinfektion des Unterschenkels mit antibiotischer Behandlung"
+    ],
+    "medications": [],
+    "allergies": [
+      "Gegen viele Antibiotika (Namen nicht bekannt)",
+      "Ex-Raucherin seit 10 Jahren",
+      "Alkohol gelegentlich"
+    ],
+    "physical_examination": [
+      "Vitalparameter in normalen Bereichen",
+      "Schürfwunde unter Pflaster, keine aktive Blutung, keine offene Fraktur",
+      "Durchblutung/Pulse der Arteria radialis beidseitig tastbar",
+      "Sensibilität beidseitig gleich",
+      "Druckschmerzen im Bereich der Schulter",
+      "Motorik im Handgelenk und Ellenbogen intakt",
+      "Schultergelenk sehr schmerzhaft und nicht mobil",
+      "Arteria dorsalis pedis tastbar"
+    ],
+    "imaging_findings": [
+      "Schulter AP Aufnahme",
+      "Skapula Y Aufnahme",
+      "Subkapitale Humerusfraktur",
+      "Tuberculum majus Ausrissfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Subkapitale Humerusfraktur",
+      "Tuberculum majus Ausrissfraktur",
+      "DD: Schulterluxation",
+      "DD: Skapulafraktur"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Inspektion der Schulter",
+      "Palpation (Durchblutung, Sensibilität, Druckschmerz)",
+      "Funktionstests",
+      "Vollständige Körperuntersuchung von Kopf bis Fuß",
+      "Röntgen Schulter AP und Skapula Y-Aufnahme"
+    ]
+  }
+]

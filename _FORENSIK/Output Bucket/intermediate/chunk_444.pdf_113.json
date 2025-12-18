@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 114/155) enthält **keine vollständigen klinischen Patientenfälle**.\n\nDer Text besteht aus:\n\n1. **Diagnostischen Verfahren** bei Schädel-Hirn-Trauma (cCT, MRT, Orbitaübersichtsaufnahme)\n\n2. **Therapierichtlinien** zur Hirndrucksenkung (allgemeine Behandlungsmaßnahmen)\n\n3. **Vereinfachtes Vorgehen** bei Schädelhirntrauma (Behandlungsalgorithmen)\n\n4. **Krankheitsbildbeschreibungen** mit typischen Befunden:\n   - Epidurales Hämatom\n   - Subdurales Hämatom\n   - Meningitis (Definition, Ätiologie, Symptome, Diagnostik, Therapie)\n\n5. **Diagnostische Tabellen** (z.B. Liquorbefunde bei verschiedenen Meningitisformen)\n\n6. **Therapeutische Algorithmen** (diagnostisch-therapeutisches Vorgehen bei Meningitis)\n\nEs handelt sich um **Lehrbuchmaterial** mit allgemeinen medizinischen Informationen, Krankheitsbeschreibungen und Behandlungsrichtlinien, aber **keine konkreten Patientenfälle** mit individuellen Angaben zu Alter, Geschlecht, spezifischem Unfallhergang oder individueller Krankengeschichte."
+  }
+]

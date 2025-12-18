@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Kind mit Atemnot und Stridor - Pseudokrupp",
+    "patient_age": "Kind",
+    "patient_gender": null,
+    "chief_complaints": [
+      "Atemnot",
+      "Stridor"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Stridor"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pseudokrupp",
+      "Krupp"
+    ],
+    "diagnostic_approach": [
+      "Klinische Beurteilung durch erfahrenen Anästhesisten",
+      "Intubation falls erforderlich",
+      "Koniotomie als letzte Option",
+      "Ausschluss Hämophilus influenza Infektion"
+    ]
+  }
+]

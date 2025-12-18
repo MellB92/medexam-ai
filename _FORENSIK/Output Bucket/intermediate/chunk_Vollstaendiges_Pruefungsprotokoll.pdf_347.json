@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Wespenstichallergie mit Halsschwellung",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Halsschwellung",
+      "Wespenstich"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Wespenstichallergie"
+    ],
+    "medications": [],
+    "allergies": [
+      "Wespenstichallergie"
+    ],
+    "physical_examination": [
+      "Halsschwellung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Anaphylaxie"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Blutige Diarrhoen mit Bauchschmerzen und Fieber",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "blutige Diarrhoen",
+      "Bauchschmerzen",
+      "Fieber",
+      "Gewichtsverlust"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Chronisch entzündliche Darmerkrankung (CED)",
+      "Colitis ulcerosa",
+      "Divertikulitis",
+      "Infektiöse Gastroenteritis",
+      "Darminfektionen",
+      "Reizdarmsyndrom",
+      "Ischämische Kolitis"
+    ],
+    "diagnostic_approach": [
+      "Laboruntersuchungen (Blutbild, CRP, BSG, Leukozyten)",
+      "Elektrolyte",
+      "Leber- und Nierenwerte",
+      "Stuhluntersuchungen (Calprotectin, Mikrobiologie, Parasitologie)",
+      "Abdomensonographie",
+      "Koloskopie mit Biopsieentnahme",
+      "ggf. MRT Becken"
+    ]
+  },
+  {
+    "title": "31-jährige Patientin mit blutigen Diarrhoen und extraintestinalen Manifestationen",
+    "patient_age": "31-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "blutige Diarrhoen seit 2 Wochen",
+      "Bauchschmerzen im linken Unterbauch",
+      "Fieber",
+      "Gewichtsverlust",
+      "entzündete Augen",
+      "Rückenschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "entzündete Augen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Colitis ulcerosa",
+      "Morbus Crohn",
+      "Infektiöse Gastroenteritis",
+      "Sigmadivertikulitis",
+      "Ischämische Kolitis",
+      "Reizdarmsyndrom",
+      "Medikamenteninduzierte Kolitis"
+    ],
+    "diagnostic_approach": []
+  }
+]

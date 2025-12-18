@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 241/585) enthält ausschließlich Frage-Antwort-Paare aus einer Wissensprüfung (Kenntnispruefung-Allgemein-19.txt). Es handelt sich um theoretische Prüfungsfragen zu verschiedenen medizinischen Themen wie:\n\n- Chronische Niereninsuffizienz (Therapie)\n- Ulcus ventriculi (Ursachen)\n- H. pylori-Diagnostik und -Therapie\n- Drogenklassifikation\n- Medikamenteninteraktionen (Johanniskraut)\n- Röntgenstrahlung\n- Sozialversicherungen\n- Diuretika-Therapie\n- Vorhofflimmern (VHF)-Behandlung\n\nEs werden **keine vollständigen klinischen Patientenfälle** präsentiert. Die Fragen beziehen sich auf allgemeines medizinisches Wissen, Therapiekonzepte und diagnostische Verfahren, aber es gibt keine Beschreibung eines konkreten Patienten mit Anamnese, Befunden und Verlauf."
+  }
+]

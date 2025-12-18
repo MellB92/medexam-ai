@@ -1,0 +1,259 @@
+[
+  {
+    "title": "Akute Appendizitis mit Peritonitis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "diffuse Bauchschmerzen",
+      "Abwehrspannung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Einnahme von Ibuprofen"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Ibuprofen"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Leukos 16.000"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Spiegelbildung im Falle eines Ileus",
+      "freie Luft im Falle einer Perforation"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "akute Appendizitis mit Peritonitis",
+      "mesenteriale Ischämie",
+      "Ileus",
+      "perforierter Ulkus"
+    ],
+    "diagnostic_approach": [
+      "Abdomensonografie",
+      "Röntgenaufnahme des Abdomens"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Ellbogenfraktur mit Dislokation",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "stark dislozierte Ellbogenfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Kinderfraktur",
+    "patient_age": null,
+    "patient_gender": "Kind",
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "geschlossene Reposition"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Bursitis am Ellbogen",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Bursitis am Ellbogen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bursitis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Spannungspneumothorax mit Rippenfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Spannungspneumothorax",
+      "kollabierte Lunge",
+      "Mediastinalverschiebung",
+      "Rippenfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Spannungspneumothorax"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Mitralklappeninsuffizienz",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Klappenfehler"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sternotomie",
+      "Klappenintervention"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Mitralklappeninsuffizienz"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Tiefe Beinvenenthrombose",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "TVT vor 34 Jahren"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Hüft-TEP",
+      "Knie-TEP"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "NOAK",
+      "Marcumar",
+      "NMH",
+      "UFH"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tiefe Beinvenenthrombose"
+    ],
+    "diagnostic_approach": [
+      "Wells-Score"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Lungenarterienembolie"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Lungenarterienembolie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "D-Dimer"
+    ],
+    "suspected_diagnosis": [
+      "Lungenarterienembolie"
+    ],
+    "diagnostic_approach": [
+      "Well-Score",
+      "CT-Angio"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

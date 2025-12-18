@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 3/3) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Wissenschaftlicher Literatur** über Neuraminidase-Inhibitoren (Oseltamivir, Zanamivir), Resistenzmutationen und Virusübertragungsstudien in Tiermodellen\n2. **Präsentationsfolien** zu:\n   - Point-of-Care-Testing (POCT) Methoden\n   - Therapieindikationen und -empfehlungen\n   - Impfempfehlungen und Impfstofftypen\n\nEs handelt sich um **theoretische Lehrinhalte** und **klinische Richtlinien**, aber nicht um konkrete Patientenpräsentationen mit individueller Anamnese, Befunden und diagnostischem Vorgehen.\n\nDie erwähnten \"nine patients (18%)\" in der Studie von Kiso et al. sind Teil einer wissenschaftlichen Publikation und werden nicht als individuelle klinische Fälle mit ausreichenden Details präsentiert."
+  }
+]

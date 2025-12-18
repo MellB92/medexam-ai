@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 173/585) enthält ausschließlich theoretische Prüfungsfragen und Musterantworten, jedoch **keine klinischen Patientenfälle oder Präsentationsfälle**.\n\nDie Fragen behandeln:\n- **6 F's der Cholezystolithiasis** (Risikofaktoren)\n- **Maisonneuve-Fraktur** (theoretische Beschreibung)\n- **Dyslipidämien** (Klassifikation, Therapie)\n- **Vorhofflimmern (VHF)** (Behandlungsprinzipien)\n- **ABI (Knöchel-Arm-Index)** (Messtechnik)\n- **Schenkelhalsfrakturen** (Klassifikationen, Therapieoptionen)\n- **Fisteln** (Definition, Arten)\n- **Delir** (Definition, Neuroleptika)\n- **Mykose** (Behandlung)\n- **Osteoporose** (Pathophysiologie)\n\nAlle Einträge folgen dem Format:\n- `frage` (theoretische Frage)\n- `antwort_kandidat` (nicht im Protokoll enthalten)\n- `musterloesung_leitlinie` (Standardantwort/Lehrbuchtext)\n- `analyse_fehler_tipps` (keine Analyse möglich)\n\nEs werden **keine konkreten Patienten** mit Alter, Geschlecht, spezifischen Beschwerden, Anamnese oder individuellen Befunden beschrieben."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieses Dokument enthält **keine klinischen Patientenpräsentationsfälle**. \n\nEs handelt sich um ein **Korrektur- und Ergänzungsdokument** zur M3-Prüfungsvorbereitung, das ausschließlich:\n\n1. **Korrekturen zu Prüfungsfragen** enthält (z.B. \"Frage 1-3: Anaphylaxie-Therapie\")\n2. **Aktualisierungen von Leitlinien** präsentiert (z.B. ERC 2021, GOLD 2023)\n3. **Dosierungsangaben** präzisiert\n4. **Rechtliche Grundlagen** ergänzt\n5. **Klassifikationen** vervollständigt\n\nEs gibt keine Patientenfälle mit:\n- Konkreten Patienten (Alter/Geschlecht)\n- Anamnestischen Angaben\n- Klinischen Präsentationen\n- Untersuchungsbefunden eines spezifischen Falls\n\nDas Dokument ist rein **didaktisch-theoretisch** aufgebaut und dient der Korrektur von Lehrmaterial, nicht der Fallpräsentation."
+  }
+]

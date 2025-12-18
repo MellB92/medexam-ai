@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Schauspielerin mit Diabetes mellitus und metabolischem Syndrom",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Leistungsminderung seit 5 Monaten",
+      "Schwindel",
+      "Konzentrationsunfähigkeit",
+      "Müdigkeit",
+      "verschwommenes Sehen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Hypercholesterinämie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "nicht besonders"
+    ],
+    "social_history": [
+      "Schauspielerin"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "nichts besonders"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Diabetes mellitus"
+    ],
+    "diagnostic_approach": [
+      "Nüchternglukose",
+      "OGTT",
+      "HbA1c",
+      "EKG (zeigte Linksschenkelblock)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [],
+    "additional_findings": {
+      "vegetative_anamnese": [
+        "Polyurie",
+        "Polydipsie",
+        "Polyphagie",
+        "Sodbrennen",
+        "Völlegefühl"
+      ],
+      "therapy": [
+        "Lebensstilveränderung",
+        "Metformin",
+        "Mögliche Kombination mit weiteren Antidiabetika (keine Kombination SGLT2-Inhibitoren mit Metformin in Deutschland)"
+      ]
+    }
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 214/284) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text umfasst ausschließlich:\n\n1. **Dokumentationsanforderungen** für radiologische Untersuchungen (Dosisflächenprodukt, durchführender Arzt)\n\n2. **Theoretisches Wissen** über Strahlenschäden:\n   - Deterministische vs. stochastische Komplikationen\n   - Genetische Schäden\n   - Kanzerogenese\n\n3. **Administrative Hinweise** zu Prüfungsfragen (Fragen 365-399 geprüft)\n\n4. **Pharmakologische Wissensfrage** (Frage 400):\n   - Theoretische Erklärung zur Tilidin/Naloxon-Kombination\n   - Missbrauchsprävention\n   - Rechtliche Aspekte (BtMG)\n   - Dosierungsempfehlungen\n\nEs handelt sich durchweg um **theoretisches Prüfungswissen** und **allgemeine medizinische Informationen** ohne konkrete Patientenpräsentation mit Anamnese, klinischer Symptomatik oder diagnostischem Verlauf."
+  }
+]

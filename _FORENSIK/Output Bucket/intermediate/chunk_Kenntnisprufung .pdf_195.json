@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Eisenmangel-Anämie bei Diclofenac-Einnahme ohne PPI",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Eisenmangel-Anämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Diclofenac ohne PPI"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Eisenmangel-Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Chronische Blutung durch NSAR"
+    ],
+    "diagnostic_approach": [
+      "ÖGD",
+      "Koloskopie (ÖGD zuerst)"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Chronische gastrointestinale Blutung"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Sprunggelenkhämatom nach Umknicken",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Sprunggelenkhämatom"
+    ],
+    "accident_mechanism": "Patient ist umgeknickt beim Rennen",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Sportlich aktiv (Patient rennt)"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Sprunggelenkhämatom"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Ligamentruptur"
+    ],
+    "diagnostic_approach": [
+      "Kein Röntgen initial"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Mögliche Ligamentruptur"
+    ],
+    "follow_up": [
+      "Immobilisation für ca. 3 Wochen",
+      "Krankengymnastik nach Immobilisation",
+      "Keine direkte Operation"
+    ]
+  }
+]

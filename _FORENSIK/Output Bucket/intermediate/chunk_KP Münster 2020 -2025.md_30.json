@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Patient mit Verdacht auf Lungenkarzinom und Nachtschweiß\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Nachtschweiß\", \"Nykturie\", \"Hämoptyse\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"RR nicht gemessen (wurde vergessen)\"],\n    \"imaging_findings\": [\n      \"Röntgen Thorax: Karzinom im Oberlappen\",\n      \"CT Thorax geplant zur Metastasensuche\",\n      \"CT Abdomen geplant zur Metastasensuche\"\n    ],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Lungenkarzinom\",\n      \"Pneumonie (DD)\",\n      \"Lungenödem (DD - wegen Nykturie, aber ausgeprägter wäre)\",\n      \"Lungentuberkulose (bei Nachtschweiß)\"\n    ],\n    \"diagnostic_approach\": [\n      \"Bronchoskopie mit Biopsie\",\n      \"Gesteuerte transthorakale Biopsie\",\n      \"CT Thorax und Abdomen (Metastasenscreening)\",\n      \"Knochenszintigraphie (Knochenmetastasen)\",\n      \"TNM-Klassifikation\",\n      \"Multidisziplinäre Tumorkonferenz\"\n    ]\n  }\n]\n```"
+  }
+]

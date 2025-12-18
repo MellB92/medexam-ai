@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Herzinsuffizienz infolge Myokarditis nach grippalem Infekt",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Belastungsdyspnoe seit ca. 4 Wochen",
+      "Kann nur noch zwei Etagen bewältigen",
+      "Benötigt mehrere Kissen zum Schlafen (Orthopnoe)",
+      "Beinödeme abends",
+      "Nykturie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 2",
+      "Rezidivierende Paronychien",
+      "Z.n. Oberschenkelfraktur im Kindesalter (mit 3 Jahren)"
+    ],
+    "comorbidities": [
+      "Diabetes mellitus Typ 2"
+    ],
+    "risk_factors": [
+      "Diabetes mellitus Typ 2"
+    ],
+    "family_history": [
+      "Vater verstorben vor einem Jahr (Blutkrankheit mit Aderlassbehandlung, wahrscheinlich Polycythaemia vera)",
+      "Mutter: Diabetes mellitus"
+    ],
+    "social_history": [],
+    "medications": [
+      "Metformin 500 mg",
+      "Vitamin-D-Präparat"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Unauffällig"
+    ],
+    "imaging_findings": [
+      "Echokardiographie durchgeführt",
+      "Echo-Bilder: Anatomische Strukturen beurteilt",
+      "Perikarderguss gesucht"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Herzinsuffizienz durch Myokarditis",
+      "Postvirale Myokarditis nach grippalem Infekt"
+    ],
+    "diagnostic_approach": [
+      "Echokardiographie",
+      "MRT zur Myokarditis-Diagnostik",
+      "Ejektionsfraktion (EF) bestimmen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Polytrauma mit Bewusstseinsverlust und Handfrakturen nach Verkehrsunfall",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Diffuse Bauchschmerzen",
+      "Schmerzen im rechten Handgelenk",
+      "Kurzzeitiger Bewusstseinsverlust (ca. 1 Sekunde) während des Fahrens"
+    ],
+    "accident_mechanism": "Verkehrsunfall als LKW-Fahrer, stumpfes Abdominal- und Thoraxtrauma",
+    "pre_existing_conditions": [
+      "Hypertonie",
+      "Z.n. Lymphknotenresektion (Malignitätsausschluss)",
+      "Unklare Nebenschilddrüsen-OP in der Anamnese"
+    ],
+    "comorbidities": [
+      "Hypertonie"
+    ],
+    "risk_factors": [
+      "Rauchen: 20 Packungsjahre",
+      "Gewichtszunahme",
+      "Alkoholkonsum: ca. 1 Flasche Bier am Wochenende"
+    ],
+    "family_history": [
+      "Vater an Leberzirrhose verstorben",
+      "Mutter hatte Herzoperation (genaues Verfahren unbekannt)"
+    ],
+    "social_history": [
+      "LKW-Fahrer",
+      "Raucher: 20 Packungsjahre",
+      "Alkoholkonsum: ca. 1 Flasche Bier am Wochenende"
+    ],
+    "medications": [
+      "Candesartan"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Lunge untersucht",
+      "Abdomen untersucht",
+      "pDMS der rechten Hand geprüft",
+      "Neurologisch grob orientierend untersucht",
+      "Lymphknoten am Hals getastet",
+      "Carotiden abgehört: Strömungsgeräusche festgestellt",
+      "Suche nach weiteren Verletzungen"
+    ],
+    "imaging_findings": [
+      "Skaphoidfraktur (Frakturlinie schwer zu erkennen)",
+      "Dislozierte Daumengrundgelenkfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma mit stumpfem Abdominal- und Thoraxtrauma",
+      "Skaphoidfraktur rechts",
+      "Dislozierte Daumengrundgelenkfraktur",
+      "Carotisstenose (Strömungsgeräusch)",
+      "Synkope unklarer Genese"
+    ],
+    "diagnostic_approach": [
+      "Sonographie",
+      "CT Abdomen",
+      "Venöser Zugang",
+      "Bei Instabilität und unauffälliger Sono: Laparotomie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

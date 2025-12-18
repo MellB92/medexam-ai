@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Nebennieren-Inzidentalom mit arterieller Hypertonie",
+    "patient_age": "63-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "seit Monaten zunehmende Rückenschmerzen im Bereich LWS",
+      "chronische Rückenschmerzen seit 20 Jahren",
+      "Verschlimmerung der Schmerzen in den letzten 4 Wochen"
+    ],
+    "accident_mechanism": "vor 2 Wochen mit dem rechten Fuß umgeknickt",
+    "pre_existing_conditions": [
+      "BSV im LWS-Bereich (vor 20 Jahren operiert)",
+      "Polypektomie im Rahmen einer Koloskopie vor 2 Jahren",
+      "schwere Infektion mit Milz und Leber vor 20 Jahren",
+      "Bänderriss rechtes OSG mit Schiene ruhiggestellt",
+      "Osteoporose (Verdacht durch Orthopäden)"
+    ],
+    "medications": [
+      "Vitamin D 20000IE wöchentlich",
+      "Ibuprofen gelegentlich"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "RR bds erhöht (165 systolisch)",
+      "Abdomen unauffällig",
+      "Lasegue negativ",
+      "neurologische Untersuchungen durchgeführt",
+      "Mennel-Test durchgeführt"
+    ],
+    "imaging_findings": [
+      "Abdomensonografie: Befund im rechten Flank (bei HÄ)",
+      "Ultraschall mit Nebennieren-Raumforderung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "sekundäre arterielle Hypertonie bei endokriner Ursache (Phäochromozytom/Conn-Syndrom/Cushing-Syndrom)",
+      "Nebennieren-Inzidentalom",
+      "Wirbelkörperfraktur infolge LWS-Osteoporose",
+      "Rezidiv eines BSV"
+    ],
+    "diagnostic_approach": [
+      "Langzeit-RR-Messung",
+      "Labor: Renin/Aldosteron",
+      "Metanephrin und Normetanephrin",
+      "Cortison",
+      "weitere relevante Laborparameter"
+    ]
+  }
+]

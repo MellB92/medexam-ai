@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieses Dokumentsegment enthält **keine vollständigen klinischen Patientenfälle/Präsentationsfälle**. \n\nEs handelt sich ausschließlich um:\n\n1. **Theoretische Prüfungsfragen** mit medizinischen Fakten\n2. **Allgemeine Therapieschemata** (z.B. Agranulozytose-Therapie, Anaphylaxie-Management)\n3. **Leitlinien und Dosierungsanleitungen** (z.B. Herzinsuffizienz-Therapie, Antikoagulation)\n4. **Klassifikationen** (z.B. Hypertonie-Grade, Sepsis-Definitionen)\n\n**Keine der Fragen beschreibt einen konkreten Patienten** mit:\n- Individueller Anamnese\n- Spezifischer klinischer Präsentation\n- Konkreten Untersuchungsbefunden\n- Fallspezifischer Diagnosestellung\n\nBeispiel: \"FRAGE 2: Anaphylaxie nach Penicillin\" beschreibt ein **hypothetisches Szenario** für Sofortmaßnahmen, aber keinen echten Patientenfall mit konkreten Details."
+  }
+]

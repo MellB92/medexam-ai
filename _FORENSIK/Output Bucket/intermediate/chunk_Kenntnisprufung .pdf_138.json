@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Akute Appendizitis bei 64-jähriger Frau",
+    "patient_age": "64J",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Seit gestern morgen epigastrale Schmerzen",
+      "Schmerzen im Verlauf in den rechten Unterbauch gewandert",
+      "Schmerzintensität 8/10",
+      "Übelkeit",
+      "Einmaliges Erbrechen",
+      "Belastungsdyspnoe",
+      "Keine Ausstrahlung in Schulter oder Rücken"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Fahrradunfall vor 3 Monaten mit Hand- und Ellenbogengelenkverletzung",
+      "Olecranonfraktur",
+      "Z.n. TVT bei 2. Schwangerschaft",
+      "Z.n. Mandelentzündung und rheumatisches Fieber",
+      "Allergisches Asthma in der Kindheit"
+    ],
+    "comorbidities": [
+      "Herzklappeninsuffizienz"
+    ],
+    "risk_factors": [
+      "Ex-Raucherin seit 40 Jahren (vorher 5 PY)",
+      "Gelegentlicher Alkoholkonsum (Glas Wein)"
+    ],
+    "family_history": [
+      "Mutter an LAE verstorben",
+      "Schwester leidet an unklarer Infektion",
+      "Adoptierter Bruder an BC verstorben"
+    ],
+    "social_history": [
+      "Verwitwet",
+      "2 erwachsene Kinder",
+      "2 Enkelkinder",
+      "Nikotinkarenz seit 40 Jahren"
+    ],
+    "medications": [
+      "Vitamin D unklarer Dosierung einmal wöchentlich (Sonntags)",
+      "Ibuprofen 400 bei Bedarf",
+      "2 Tabletten Buscopan eingenommen"
+    ],
+    "allergies": [
+      "Alle Arten von Pflastern (Weiß, Braun etc.) mit Hautausschlag"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Alle Appendizitis-Zeichen positiv",
+      "Psoas-Zeichen positiv",
+      "Keine Hautveränderungen, keine Narben",
+      "Keine pathologischen Darmgeräusche",
+      "Peristaltik vorhanden",
+      "Herz-Lungen-Untersuchung durchgeführt",
+      "Schilddrüse untersucht",
+      "Lymphknoten getastet",
+      "Pupillen kontrolliert",
+      "Reflexe geprüft",
+      "Extremitäten nach Veränderung untersucht",
+      "Pulsstatus geprüft",
+      "RR bds. gemessen"
+    ],
+    "imaging_findings": [
+      "Sono Abdomen: Appendixwandschwellung ohne freie Flüssigkeit in Umgebung",
+      "Kokarden bzw. Target-Phänomen",
+      "Röntgen Unterarm: Olecranonfraktur",
+      "Intraoperatives laparoskopisches Bild: Appendektomie mit Blutung"
+    ],
+    "laboratory_findings": [
+      "Leukozyten normal",
+      "CRP normal"
+    ],
+    "suspected_diagnosis": [
+      "Akute Appendizitis",
+      "Akutes Abdomen"
+    ],
+    "diagnostic_approach": [
+      "Zugang legen",
+      "Labor",
+      "EKG",
+      "Röntgen Thorax",
+      "Sono Abdomen",
+      "Ggf. CT Abdomen",
+      "Patientenaufklärung für OP"
+    ],
+    "treatment_response": [
+      "Buscopan und Ibuprofen 400 kaum geholfen",
+      "Wärmekissen auf dem Bauch ohne Wirkung"
+    ],
+    "complications": [
+      "Intraoperative Blutung aus A. appendicularis (aus A. ileocolica)",
+      "Appendixperforation"
+    ],
+    "follow_up": [
+      "Laparoskopische Appendektomie durchgeführt",
+      "Appendixstumpf mit Tabaksbeutelnaht verschlossen"
+    ]
+  }
+]

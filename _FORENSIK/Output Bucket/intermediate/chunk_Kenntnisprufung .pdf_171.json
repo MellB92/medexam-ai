@@ -1,0 +1,155 @@
+[
+  {
+    "title": "Colitis ulcerosa mit mikrozytärer hypochromer Anämie",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Colitis ulcerosa"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Koloskopie-Bild mit fibrinbelegten Ulcera",
+      "gerötete Darmwand"
+    ],
+    "laboratory_findings": [
+      "mikrozytäre hypochrome Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Colitis ulcerosa"
+    ],
+    "diagnostic_approach": [
+      "Eisenparameter bestimmen",
+      "Ferritin und Transferrin-Sättigung",
+      "Koloskopie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient aus Afghanistan mit Tuberkulose-Verdacht",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Husten",
+      "Fieber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "kommt aus Afghanistan"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "reduzierter AZ"
+    ],
+    "imaging_findings": [
+      "Rö-Bild mit Verschattung in einem Lungenflügel mit Kaverne"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tuberkulose"
+    ],
+    "diagnostic_approach": [
+      "Tbc-Bestätigung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Ältere Patientin mit Fraktur und postoperativem Delir",
+    "patient_age": "ältere",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "nächtliche Unruhe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Morbus Meulengracht",
+      "Lebererkrankung in der Kindheit"
+    ],
+    "comorbidities": [
+      "Fraktur"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "unruhig in der Nacht"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Delir",
+      "hyperaktive Form"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Delir nach stationärer Aufnahme wegen Fraktur"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Colitis Ulcerosa Schub bei 31-jähriger Patientin",
+    "patient_age": "31",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen bei der Palpation des linken Abdomens"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Colitis Ulcerosa"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Kein Fieber",
+      "kein SIRS"
+    ],
+    "physical_examination": [
+      "körperliche Untersuchung normal",
+      "Schmerzen bei der Palpation des linken Abdomens"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Leukozyten: 14.000",
+      "Hb: 8,2 g/dL",
+      "Anämie mikrozytär hypochrom",
+      "CRP: 40"
+    ],
+    "suspected_diagnosis": [
+      "Schub von Colitis Ulcerosa"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "title": "ITP (Immunthrombozytopenie) bei 38-jähriger Patientin",
+    "patient_age": "38-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "ITP (Immunthrombozytopenie)"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Thrombozytopenie"
+    ],
+    "suspected_diagnosis": [
+      "ITP (Immunthrombozytopenie)"
+    ],
+    "diagnostic_approach": []
+  }
+]

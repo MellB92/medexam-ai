@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Knieverletzung nach Unfall mit Dreirad",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen im Knie 7/10"
+    ],
+    "accident_mechanism": "Patient wurde von einem kleinen Kind mit dem Dreirad angefahren",
+    "pre_existing_conditions": [
+      "Pollenallergie",
+      "Asthma",
+      "Z.n. Cholezystektomie",
+      "Z.n. Entfernung eines gutartigen Lebertumors",
+      "Hämorrhoiden"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter an AKI verstorben",
+      "Vater hat Demenz und erhöhte Fettwerte",
+      "Bruder HRS",
+      "Zweiter Bruder Hiatushernie operiert"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Steinzeichen positiv"
+    ],
+    "imaging_findings": [
+      "Röntgen Knie unauffällig",
+      "MRT T2: Seitenbandruptur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Meniskusläsion",
+      "Seitenbandruptur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Knie",
+      "MRT T2",
+      "Kniepunktion erwogen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Frage nach Berufsgenossenschaft"
+    ]
+  },
+  {
+    "title": "Schulterverletzung nach Sturz bei Gartenarbeit",
+    "patient_age": "38 Jahre",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen im Bereich der Schulter",
+      "Parästhesien palmar rechts nachts"
+    ],
+    "accident_mechanism": "Sturz aus 2 Metern Höhe bei Gartenarbeit, nach vorne gebeugt, Gleichgewicht verloren, auf linke Schulter gefallen",
+    "pre_existing_conditions": [
+      "Z.n. Cholezystektomie (laparoskopisch)",
+      "Z.n. Weichteilinfektion des Unterschenkels mit antibiotischer Behandlung"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Ex-Raucherin seit 10 Jahren"
+    ],
+    "family_history": [
+      "Mutter: Nieren- und Herzerkrankung",
+      "Vater: starb an schlechter Durchblutung der Beine",
+      "Schwester mit Autoimmunerkrankung"
+    ],
+    "social_history": [
+      "Gärtnerin",
+      "hat einen Sohn",
+      "verheiratet",
+      "Alkohol gelegentlich"
+    ],
+    "medications": [],
+    "allergies": [
+      "Gegen viele Antibiotika (Namen unbekannt)"
+    ],
+    "vital_signs": [
+      "Vitalparameter in normalen Bereichen"
+    ],
+    "physical_examination": [
+      "Schürfwunde unter Pflaster",
+      "Keine aktive Blutung",
+      "Keine offene Fraktur",
+      "Durchblutung/Pulse der Arteria Radialis beidseitig tastbar",
+      "Sensibilität beidseitig gleich",
+      "Druckschmerzen im Bereich der Schulter",
+      "Motorik im Handgelenk und Ellenbogen intakt",
+      "Schultergelenk sehr schmerzhaft und nicht mobil",
+      "Arteria dorsalis pedis tastbar"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schulterverletzung",
+      "Karpaltunnelsyndrom (DD für nächtliche Parästhesien)"
+    ],
+    "diagnostic_approach": [
+      "Klinische Untersuchung",
+      "Karpaltunnel-Tests nachzuholen"
+    ],
+    "treatment_response": [
+      "Parästhesien besserten sich nach Händeschütteln beim Aufwachen"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Karpaltunnel-Tests auf Station nachholen"
+    ]
+  }
+]

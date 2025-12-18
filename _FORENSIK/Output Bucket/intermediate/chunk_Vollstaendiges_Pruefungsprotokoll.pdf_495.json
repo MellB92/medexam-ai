@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Grippeähnliche Symptome mit Fieber und Beinödemen - V.a. Endokarditis",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Seit 4 Wochen grippeähnliche Symptome",
+      "3 Tage Fieber bis 39°C",
+      "Gliederschmerzen",
+      "Beinödeme",
+      "Halsschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypothyreose",
+      "Bein-Fraktur in der Kindheit"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Beinödeme"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Endokarditis"
+    ],
+    "diagnostic_approach": [
+      "Duke-Kriterien anwenden",
+      "Blutkulturen",
+      "Echokardiographie"
+    ]
+  }
+]

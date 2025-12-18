@@ -1,0 +1,256 @@
+[
+  {
+    "title": "Prostatavergrößerung mit obstruktiver Uropathie",
+    "patient_age": "älterer Mann",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schwierigkeiten beim Wasserlassen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "neulich erhöhte Nierenwerte"
+    ],
+    "suspected_diagnosis": [
+      "Vergrößerung der Prostata",
+      "obstruktive Uropathie"
+    ],
+    "diagnostic_approach": [
+      "Urinstatus"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "erhöhte Nierenwerte"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Akute Unterbauchschmerzen bei Kind - Verdacht auf Hodentorsion",
+    "patient_age": "5-jährig",
+    "patient_gender": "männlich",
+    "severity": "severe",
+    "chief_complaints": [
+      "akute Unterbauchschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Hochstand des Hodens"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hodentorsion"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Thoraxtrauma mit Pneumothorax und Hämatothorax nach Sturz",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": "Sturz auf die linke Seite",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax mit Pneumothorax",
+      "Hämatothorax",
+      "Rippenfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pneumothorax",
+      "Hämatothorax",
+      "Rippenfraktur",
+      "Spannungspneumothorax"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Herzinfarkt mit hämodynamischer Instabilität auf ITS",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Katecholamine"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Hämodynamik nicht stabil"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Herzinfarkt",
+      "kardiogener Schock"
+    ],
+    "diagnostic_approach": [
+      "Koronarangiographie"
+    ],
+    "treatment_response": [
+      "keine Besserung des Kreislaufs nach Koronarangiographie, Katecholamine und Beatmung"
+    ],
+    "complications": [
+      "persistierende hämodynamische Instabilität"
+    ],
+    "follow_up": [
+      "ECMO (Extrakorporale Membranoxygenierung)"
+    ]
+  },
+  {
+    "title": "Rupturiertes infrarenales Bauchaortaaneurysma",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "starke Bauchschmerzen",
+      "starke Rückenschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Bauchaortaaneurysma"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "RR 80/50",
+      "Tachykardie"
+    ],
+    "physical_examination": [
+      "pulsierende Raumforderung im Bauch"
+    ],
+    "imaging_findings": [
+      "CT Angio zeigt rupturiertes Bauchaortaaneurysma",
+      "infrarenale Lokalisation"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "rupturiertes Bauchaortaaneurysma infrarenal"
+    ],
+    "diagnostic_approach": [
+      "CT Angio",
+      "Vorstellung beim Gefäßchirurgen"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Ruptur",
+      "hämorrhagischer Schock"
+    ],
+    "follow_up": [
+      "Ballon-Embolisation",
+      "OP oder Intervention durch Gefäßchirurgen",
+      "permissive Hypotension"
+    ]
+  },
+  {
+    "title": "Rippenserienfraktur mit Leberverletzung",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "3D-CT mit Rippenserienfraktur",
+      "Sägenfrakturen",
+      "Leber mit Blutung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rippenserienfraktur (Sägenfrakturen)",
+      "Leberverletzung durch Knochendruck"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Leberverletzung mit Blutung durch Knochendruck"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Schädel-Hirn-Trauma mit Epiduralhämatom",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Kopfwunde"
+    ],
+    "imaging_findings": [
+      "cCT zeigt Epiduralhämatom"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schädel-Hirn-Trauma",
+      "Epiduralhämatom"
+    ],
+    "diagnostic_approach": [
+      "cCT"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Epiduralhämatom durch Blutung aus A. meningea media"
+    ],
+    "follow_up": []
+  }
+]

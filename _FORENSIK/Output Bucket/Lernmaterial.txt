@@ -1,0 +1,48 @@
+================================================================================
+LERNMATERIAL FÜR KENNTNISPRÜFUNG
+Generiert am: demo_complete_workflow.py
+Anzahl Fragen: 3
+================================================================================
+
+
+================================================================================
+FRAGE 1
+================================================================================
+
+FRAGESTELLUNG:
+1: Was sind die Leitsymptome eines akuten Myokardinfarkts?
+
+ANTWORTEN:
+
+METADAT EN:
+  - Typ: standard
+  - Validierung: 0.50
+
+
+================================================================================
+FRAGE 2
+================================================================================
+
+FRAGESTELLUNG:
+2: Welche Therapie ist beim STEMI in der Akutphase indiziert?
+
+ANTWORTEN:
+
+METADAT EN:
+  - Typ: multiple_choice
+  - Validierung: 0.50
+
+
+================================================================================
+FRAGE 3
+================================================================================
+
+FRAGESTELLUNG:
+3: Was sind Kontraindikationen für eine Lysetherapie?
+
+ANTWORTEN:
+
+METADAT EN:
+  - Typ: standard
+  - Validierung: 0.50
+

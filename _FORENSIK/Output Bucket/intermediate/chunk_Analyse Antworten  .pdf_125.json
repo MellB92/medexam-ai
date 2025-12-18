@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 126/254) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer gesamte Text besteht aus:\n\n1. **Theoretischen Fragen und Antworten** aus einem Prüfungs-/Lernprotokoll:\n   - Fragen zu Barrett-Ösophagus\n   - Fragen zu Epitheltypen\n   - Fragen zu ÖGD-Kontrollen\n   - Fragen zu Eisenmangelanämie\n   - Fragen zu Schlafmitteln bei ÖGD\n   - Fragen zu Schilddrüsenparametern\n   - Fragen zu ACS-Therapie\n   - Fragen zu Lipidsenkern\n   - Fragen zu Peritonealdialyse\n   - Fragen zu EKG-Befunden\n   - Fragen zu Schulterluxation\n   - Fragen zur Rotatorenmanschette\n\n2. **Standardisierte Antworten** (\"musterloesung_leitlinie\")\n\n3. **Hinweise** dass keine Kandidatenantworten vorhanden sind (\"Nicht im Protokoll enthalten\")\n\nEs handelt sich um ein **Lehrmaterial/Fragenkatalog** ohne konkrete Patientenfälle mit individuellen Anamnesen, Befunden oder klinischen Präsentationen."
+  }
+]

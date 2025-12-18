@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Präsentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n- Theoretischen Fragen und Antworten zu medizinischem Fachwissen\n- Musterlösungen/Leitlinien zu verschiedenen medizinischen Themen\n- Prüfungsfragen mit der Notation \"Nicht im Protokoll enthalten\"\n\nBeispiele der Inhalte:\n- Fragen zu Pathophysiologie (Colitis ulcerosa vs. Morbus Crohn)\n- Anatomische Fragen (Nervus recurrens)\n- Therapeutische Konzepte (NOAK-Wirkung, TVT-Therapie)\n- Klassifikationssysteme (Wells-Score, 9er-Regel bei Verbrennungen)\n- Syndrome (Horner-Syndrom, Virchow-Trias)\n\nEs handelt sich um Prüfungsmaterial/Lernmaterial ohne konkrete Patientenfälle mit spezifischer Anamnese, Symptomatik oder klinischer Präsentation."
+  }
+]

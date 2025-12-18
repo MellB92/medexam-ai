@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Junger Mann nach Trampolinunfall mit SG-Schmerzen\",\n    \"patient_age\": \"junger Mann\",\n    \"patient_gender\": \"m\",\n    \"chief_complaints\": [\"heftige Schmerzen im Sprunggelenk\"],\n    \"accident_mechanism\": \"Trampolinunfall\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"peripherer Durchblutung, Motorik und Sensibilität (pDMS) zu prüfen\"],\n    \"imaging_findings\": [\"a.p. Röntgenaufnahme: bimalleoläre Weber C Fraktur\", \"seitliche Röntgenaufnahme: bimalleoläre Weber C Fraktur\", \"Frakturlinie der Fibula proximal der Syndesmose\", \"Ruptur der Syndesmose\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"bimalleoläre Weber C Fraktur\"],\n    \"diagnostic_approach\": [\"Kurze Notfallanamnese\", \"Vitalparameterkontrolle\", \"Klinische Untersuchung inklusive pDMS\", \"Röntgen a.p.\", \"Röntgen seitlich\"]\n  }\n]\n```"
+  }
+]

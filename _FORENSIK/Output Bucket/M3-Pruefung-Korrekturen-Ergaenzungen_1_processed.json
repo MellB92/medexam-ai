@@ -1,0 +1,8 @@
+{
+  "file_name": "M3-Pruefung-Korrekturen-Ergaenzungen_1.md",
+  "timestamp": "2025-10-15T11:52:11.171045",
+  "extraction": "# HAUPTTHEMA\nSepsis-Definition nach Sepsis-3 (2016)\n\n# KATEGORIE\nInnere Medizin / Intensivmedizin\n\n# KERNAUSSAGEN\n- **Sepsis** ist definiert als lebensbedrohliche Organdysfunktion infolge einer dysregulierten Wirtsantwort auf eine Infektion[1][2][4][5][7][8].\n- **Organdysfunktion** wird anhand eines Anstiegs im SOFA-Score um ≥2 Punkte gegenüber dem Ausgangswert festgestellt[5][8].\n- **qSOFA-Kriterien** zur Identifikation am Krankenbett: Atemfrequenz ≥22/min, systolischer Blutdruck ≤100 mmHg, GCS <15; bei ≥2 Kriterien besteht Sepsisverdacht[8].\n- **Septischer Schock** liegt vor, wenn trotz adäquater Volumengabe ein Vasopressorbedarf besteht und das Laktat >2 mmol/l ist[8].\n- Die Kategorie „schwere Sepsis“ entfällt, da Sepsis per Definition bereits schwerwiegend ist[4][8].\n\n# PRÜFUNGSRELEVANZ\nDie Sepsis-3-Definition und die Anwendung von SOFA- und qSOFA-Score sind prüfungsrelevant für die sichere Diagnosestellung, Risikostratifizierung und das Verständnis aktueller Leitlinien in der Inneren Medizin und Intensivmedizin.\n\n# SCHLÜSSELKONZEPTE\n- SOFA-Score (Sequential Organ Failure Assessment)\n- qSOFA-Kriterien (Hypotonie, Tachypnoe, Vigilanzminderung)\n- Septischer Schock (Vasopressorbedarf, Laktaterhöhung)\n- Dysregulierte Wirtsantwort\n- Wegfall der Kategorie „schwere Sepsis“\n- Surviving Sepsis Campaign (1-h-Bundle)\n- Differentialdiagnosen: SIRS, Infektion ohne Organdysfunktion, andere Ursachen für Organdysfunktion",
+  "validation": null,
+  "approved": true,
+  "cost": 0.013600000000000001
+}

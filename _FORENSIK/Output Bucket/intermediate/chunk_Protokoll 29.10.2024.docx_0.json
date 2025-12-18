@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Schenkelhalsfraktur links nach Sturz bei 68-jähriger Diabetikerin",
+    "patient_age": "68 Jahre",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen linke Hüfte (6/10 in Ruhe, 9/10 bei Bewegung)",
+      "Sturz auf linke Seite nach Stolpern"
+    ],
+    "accident_mechanism": "Gestolpert auf Station und auf linke Seite gefallen",
+    "pre_existing_conditions": [
+      "Diabetes mellitus",
+      "Arterielle Hypertonie (Erstdiagnose)",
+      "Herzrhythmusstörung (zur Abklärung stationär)",
+      "Urinäre Inkontinenz",
+      "Wechsel zwischen Diarrhoe und Obstipation",
+      "Z.n. Cholezystektomie",
+      "Z.n. Knie-Arthroskopie (unauffällig)",
+      "Z.n. Anal-Fistel operativ behandelt"
+    ],
+    "comorbidities": [
+      "Diabetes mellitus",
+      "Arterielle Hypertonie",
+      "Herzrhythmusstörung"
+    ],
+    "risk_factors": [
+      "20 pack years Nikotinkonsum bis 38. Lebensjahr",
+      "Alter 68 Jahre",
+      "Diabetes mellitus",
+      "Gelegentlicher Alkoholkonsum (aktuell nicht mehr)"
+    ],
+    "family_history": [
+      "Pankreas-Ca beim Vater",
+      "Niereninsuffizienz bei der Mutter",
+      "Hauptschlagaderveränderung beim Bruder (Aneurysma?)"
+    ],
+    "social_history": [
+      "Sozialanamnese unauffällig",
+      "Ex-Raucherin (20 pack years bis 38. Lebensjahr)"
+    ],
+    "medications": [
+      "Metformin 850 mg 1-0-1",
+      "Ibuprofen 400 mg bei Bedarf"
+    ],
+    "allergies": [
+      "Nickel (Exanthem)"
+    ],
+    "vital_signs": [
+      "Blutdruck gemessen (Wert nicht dokumentiert)",
+      "Puls gemessen (Wert nicht dokumentiert)"
+    ],
+    "physical_examination": [
+      "pDMS links schmerzbedingt nicht komplett durchführbar",
+      "Durchblutung intakt",
+      "Sensibilität intakt",
+      "Verkürztes Bein erwartet",
+      "Schmerzen bei Innenrotation erwartet",
+      "Schmerzbedingte Bewegungseinschränkung",
+      "Patientin konnte sich nicht bis auf Unterwäsche ausziehen"
+    ],
+    "imaging_findings": [
+      "Rö-Beckenübersicht: Frakturspalt initial schwer erkennbar",
+      "Spezielle Rö-Aufnahme Schenkelhals: kleiner Frakturspalt sichtbar",
+      "Schenkelhalsfraktur links bestätigt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hüftgelenksfraktur (Schenkelhalsfraktur) links",
+      "DD: Femurfraktur",
+      "DD: Arthrose"
+    ],
+    "diagnostic_approach": [
+      "Rö-Beckenübersicht",
+      "Rö-Hüftgelenk links",
+      "Spezielle Rö-Aufnahme für Schenkelhals",
+      "Laborwerte angeordnet (Details im zweiten Teil)"
+    ],
+    "treatment_response": [
+      "OP-Indikation gestellt (wegen starker Durchblutung und Gefahr der a. femoralis Verletzung)",
+      "Konservative Therapie nicht indiziert",
+      "Geplante OP: TEP oder Osteosynthese (dynamische Hüftschraube)"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

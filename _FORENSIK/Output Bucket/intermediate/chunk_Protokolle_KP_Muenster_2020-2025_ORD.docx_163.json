@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Polytrauma mit Rippenfraktur und distaler Radiusfraktur nach Fahrradunfall",
+    "patient_age": "62-jähriger",
+    "patient_gender": "männlich",
+    "chief_complaints": [
+      "Atemabhängige Schmerzen im rechten Oberbauch (Schmerzskala 6)",
+      "Schmerzen im Handgelenk (Schmerzskala 8)"
+    ],
+    "accident_mechanism": "Von Auto angefahren während Fahrradfahrt, Sturz auf Handfläche, trug Helm - keine Kopfverletzung",
+    "pre_existing_conditions": [
+      "Leistenhernie vor 15 Jahren",
+      "Sigmadivertikulitis vor 15 Jahren",
+      "Z.n. Darmpolyp-Entfernung vor 2 Jahren"
+    ],
+    "medications": [
+      "Xetirol/Xarelto (nicht sicher, Medikament für das Herz)"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Deutlich reduzierter Allgemeinzustand",
+      "Druckschmerz im Bauch",
+      "Kompressionsschmerz auf den Rippen",
+      "Schmerzhafte Handgelenkbewegungen",
+      "DMS unauffällig"
+    ],
+    "imaging_findings": [
+      "Typische Colles-Fraktur im Röntgen",
+      "Rippenfraktur im Röntgen",
+      "CT sagittal: Osteoporose in Wirbelkörpern"
+    ],
+    "laboratory_findings": [
+      "Hyperkaliämie 5,8 mmol/l",
+      "Kreatinin 2 mg/dl",
+      "EKG: Vorhofflattern"
+    ],
+    "suspected_diagnosis": [
+      "Rippenfraktur",
+      "Colles-Fraktur",
+      "Potentieller Pneumothorax"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Thorax",
+      "Röntgen Handgelenk",
+      "Labordiagnostik",
+      "EKG",
+      "CT sagittal Wirbelsäule",
+      "Körperliche Untersuchung DMS"
+    ]
+  },
+  {
+    "title": "Humeruskopffraktur nach Sturz vom Garagendach",
+    "patient_age": "61-jähriger",
+    "patient_gender": "männlich",
+    "chief_complaints": [
+      "Oberarmschmerzen links",
+      "Schmerzbedingte Bewegungseinschränkung"
+    ],
+    "accident_mechanism": "Sturz vom Garagendach (2,30 m hoch) auf die linke Schulter beim Baumäste schneiden",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [
+      "Antibiotika (nicht spezifiziert)"
+    ],
+    "physical_examination": [
+      "DMS am verletzten Arm überprüft (wichtig: Sensibilität dorsaler Oberarm)",
+      "RR, Puls, Lungen, Herz, Abdomen untersucht"
+    ],
+    "imaging_findings": [
+      "Röntgen: Humeruskopffraktur",
+      "Röntgen: Z.n. Plattenosteosynthese"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Humeruskopffraktur",
+      "DD: Humerusschaftfraktur",
+      "DD: Schultergelenkluxation"
+    ],
+    "diagnostic_approach": [
+      "Röntgendiagnostik",
+      "Körperliche Untersuchung mit DMS-Prüfung",
+      "Therapie: Analgetika",
+      "Therapie: Plattenosteosynthese"
+    ]
+  }
+]

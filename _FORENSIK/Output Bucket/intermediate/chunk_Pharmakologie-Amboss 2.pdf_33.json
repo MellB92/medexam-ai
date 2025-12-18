@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 34/50) aus dem Pharmakologie-Amboss enthält **keine klinischen Präsentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Pharmakologischen Übersichtstabellen** zu verschiedenen Antibiotikaklassen:\n   - Makrolide (Erythromycin, Azithromycin, etc.)\n   - Aminoglykoside (Gentamicin, Tobramycin, etc.)\n   - Glykopeptide (Vancomycin, Teicoplanin)\n   - Tetracycline und Derivate\n   - Sonstige Antibiotika (Clindamycin, Metronidazol, Cotrimoxazol, etc.)\n\n2. **Systematischer Darstellung** von:\n   - Erregerspektrum\n   - Wirkungsmechanismen\n   - Nebenwirkungen\n   - Kontraindikationen\n\n3. **Therapieempfehlungen** zur kalkulierten Antibiotika-Therapie (allgemeine Prinzipien, keine konkreten Patientenfälle)\n\n4. **Definition des Antibiogramms**\n\nEs handelt sich um reines **theoretisches/pharmakologisches Lehrmaterial** ohne konkrete Patientenpräsentationen, Fallvignetten oder klinische Szenarien."
+  }
+]

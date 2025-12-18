@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieses Dokument enthält **keine klinischen Präsentationsfälle**. Es handelt sich um ein **Korrekturdokument** zum M3-Fragenkatalog mit folgenden Inhalten:\n\n1. **Allgemeine Anmerkungen** zur Struktur des Fragenkatalogs\n2. **Korrekturen und Ergänzungen** zu therapeutischen Richtlinien:\n   - Anaphylaxie-Therapie (Dosierungen)\n   - Herzinsuffizienz-Therapie (Medikamentöse Säulen)\n   - Sepsis-Definition (Scores)\n   - COPD-Therapie (Leitlinien)\n   - Diabetes-Stufentherapie\n   - Antikoagulation\n   - Tuberkulose-Therapie\n   - Hypothyreose-Therapie\n   - WHO-Stufenschema\n   - Reanimations-Medikamente\n\n3. **Verbesserungsvorschläge** für den Fragenkatalog\n4. **Lernstrategien** und Prüfungstipps\n5. **Qualitätssicherung** und Fazit\n\nEs werden zwar Verweise auf Fragen gemacht (z.B. \"Fragen 2, 3, 17, 39, 40, 42, 44\"), aber es werden keine vollständigen Patientenfälle mit klinischer Präsentation, Untersuchungsbefunden oder diagnostischem Vorgehen dargestellt. Das Dokument dient der **theoretischen Wissensvermittlung** und **Korrektur von Leitlinien**, nicht der Fallpräsentation."
+  }
+]

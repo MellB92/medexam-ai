@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 419/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Prüfungsfragen und -antworten zu verschiedenen medizinischen Themen** (Multiple Myelom, Tachykardie, Masern, etc.) ohne konkrete Patientenvorstellung\n2. **Theoretische Fragen** zu:\n   - Phäochromozytom, Cushing-Syndrom, Conn-Syndrom (nur Themennennung)\n   - Vorhofflimmern (allgemeine Klassifikation/Therapie)\n   - Antikoagulanzien (theoretisch)\n   - PAVK (theoretisch, nur Erwähnung eines nekrotischen Fußes als Bild)\n   - Beckenfraktur (allgemeine Theorie)\n   - Appendizitis (allgemeine Theorie)\n\nEs handelt sich um **Prüfungsprotokolle** mit abstrakten Wissensfragen, nicht um konkrete Patientenfälle mit Anamnese, Untersuchungsbefunden und diagnostischem Vorgehen bei einem spezifischen Patienten."
+  }
+]

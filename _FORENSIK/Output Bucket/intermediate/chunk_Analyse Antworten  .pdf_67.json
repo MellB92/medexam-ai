@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Wespenstichallergie mit Halsschwellung\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Halsschwellung nach Wespenstich\"],\n    \"accident_mechanism\": \"Wespenstich\",\n    \"pre_existing_conditions\": [\"Wespenstichallergie\"],\n    \"medications\": [],\n    \"allergies\": [\"Wespengift\"],\n    \"physical_examination\": [\"Halsschwellung\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Anaphylaxie\"],\n    \"diagnostic_approach\": []\n  },\n  {\n    \"title\": \"Calcaneusfraktur\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Calcaneusfraktur\"],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

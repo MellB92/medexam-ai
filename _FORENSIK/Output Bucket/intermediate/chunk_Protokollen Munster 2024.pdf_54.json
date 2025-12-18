@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Petechiale Blutung mit Thrombozytopenie nach Grippeerkrankung",
+    "patient_age": "39 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Petechiale Hautausschlag auf dem Knöchel",
+      "Nausea",
+      "Hämaturie",
+      "Abgeschlagenheit",
+      "Spontane Blauflecke",
+      "Blutung beim Zähneputzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Grippe vor 4 Wochen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Hautausschlag kam vor 2 Wochen und verschwand dann wieder",
+      "Sonst unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Thrombozytopenie unklarer Genese"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Meningitis/Sepsis mit Fieber und Meningismus nach Südfrankreichaufenthalt",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Kopfschmerzen",
+      "Fieber",
+      "Schüttelfrost",
+      "Krankheitsgefühl",
+      "Übelkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "laboratory_findings": [
+      "Multiorgandysfunktion"
+    ],
+    "imaging_findings": [],
+    "suspected_diagnosis": [
+      "Sepsis"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Meningitis mit Meningismus nach Südfrankreichreise",
+    "patient_age": "66 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "1 Tag starke globale Kopfschmerzen",
+      "Photophobie",
+      "Fieber",
+      "Schüttelfrost",
+      "Abgeschlagenheit",
+      "Übelkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Herzrhythmusstörungen (vor einigen Jahren, medikamentös behandelt)",
+      "HWS-Verletzung nach Reitunfall (konservativ therapiert)",
+      "Rechter Unterarmfraktur (konservativ behandelt, persistierende Schmerzen)"
+    ],
+    "medications": [
+      "Eine Tablette morgens gegen Bluthochdruck"
+    ],
+    "allergies": [
+      "Keine Noxen"
+    ],
+    "physical_examination": [
+      "Meningismus positiv",
+      "Sonst normale Untersuchung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Laborwerte mit Hinweis auf Multiorganversagen"
+    ],
+    "suspected_diagnosis": [
+      "Meningitis",
+      "FSME",
+      "Sepsis"
+    ],
+    "diagnostic_approach": [
+      "Rö Thorax zum Ausschluss Fokus Sepsis",
+      "Urin Sediment",
+      "Stix"
+    ]
+  }
+]

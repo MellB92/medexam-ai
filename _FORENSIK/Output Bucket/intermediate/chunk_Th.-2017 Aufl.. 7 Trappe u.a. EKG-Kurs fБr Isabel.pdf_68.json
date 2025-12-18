@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 69/111) aus einem EKG-Lehrbuch enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer Text behandelt ausschließlich:\n- Theoretische Darstellung von Schrittmacher-EKG-Befunden\n- Schematische Abbildungen verschiedener Schrittmachersysteme (DDD, VVI, AAI, VDD)\n- Erklärungen zu Schrittmacherfehlfunktionen (undersensing, Exitblocks)\n- Beschreibung von Schrittmachertachykardien\n- Informationen zur kardialen Resynchronisationstherapie (CRT)\n- Dreikammerschrittmacher-Systeme\n- EKG-Charakteristika verschiedener Schrittmachersysteme\n\nEs handelt sich um **didaktisches Material** zur Vermittlung von Grundlagenwissen über Schrittmacher-EKG-Interpretation, nicht um konkrete Patientenfälle mit individuellen klinischen Präsentationen."
+  }
+]

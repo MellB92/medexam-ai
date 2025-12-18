@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Akute Cholezystitis bei Frau unter oralen Kontrazeptiva",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Typische Beschwerden einer akuten Cholezystitis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Orale Kontrazeptiva (die Pille)"
+    ],
+    "family_history": [
+      "Vater mit Apoplex"
+    ],
+    "social_history": [],
+    "medications": [
+      "Die Pille (orale Kontrazeptiva)"
+    ],
+    "allergies": [
+      "Wespenstich"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Murphy-Zeichen positiv",
+      "Abdomen gezielt untersucht",
+      "Ansonsten unauffällig",
+      "Neurologische Untersuchung unauffällig",
+      "Pulsstatus unauffällig",
+      "Schilddrüse unauffällig",
+      "Lymphknoten unauffällig"
+    ],
+    "imaging_findings": [
+      "Ultraschall: Konkrement in Gallenblase",
+      "Hydrops der Gallenblase",
+      "Cholezystitis",
+      "Gallenblasenwanddicke 6mm (pathologisch >4mm)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akute Cholezystitis"
+    ],
+    "diagnostic_approach": [
+      "Gezielte Anamnese",
+      "Gezielte Abdominaluntersuchung",
+      "Sonographie Abdomen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

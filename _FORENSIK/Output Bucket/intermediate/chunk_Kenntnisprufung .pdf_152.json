@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Chronische Rückenschmerzen mit Raumforderung neben der Niere",
+    "patient_age": "65J",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "seit langem bestehende intermittierende ziehende Rückenschmerzen an LWK 4/5-LWK 5/S1",
+      "Schmerzen strahlen nicht aus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Im 21. LJ Z.n. schwerem Infekt an Leber und Milz",
+      "Vor 10 Jahren Z.n. BSV an derselben Stelle, wurde operiert",
+      "Vor 8 Wochen Bänderriss re. Sprunggelenk, kein Rezidiv"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Diclofenac 50 mg po b.B.",
+      "Ibuprofen 400 mg po b.B.",
+      "Vitamin D 20.000 IE 1x/Woche"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Abdominelle Sonographie: Raumforderung an re. Flanke neben der Niere nachgewiesen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Termin beim Orthopäden für nächste Woche geplant"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Termin beim Orthopäden nächste Woche"
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Polytrauma mit Sprunggelenkfraktur und intraabdomineller Blutung",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "Polytrauma",
+      "Sprunggelenkfraktur"
+    ],
+    "accident_mechanism": "Trauma (Details initial nicht angegeben)",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Spirale CT durchgeführt",
+      "FAST-Sonographie: freie Flüssigkeit im Abdomen festgestellt",
+      "CT Becken durchgeführt",
+      "Sprunggelenkfraktur im Röntgen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma",
+      "Sprunggelenkfraktur",
+      "Intraabdominelle Blutung"
+    ],
+    "diagnostic_approach": [
+      "ABCDE-Schema im Schockraum",
+      "Digitales Röntgen",
+      "Spirale CT",
+      "FAST-Sonographie",
+      "CT Becken"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Freie Flüssigkeit im Abdomen",
+      "Verdacht auf Organverletzung"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Wirbelsäulenfraktur nach Sturz im Schwimmbad mit konsekutivem Ileus",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Schmerzen im Rücken",
+      "später Ileus"
+    ],
+    "accident_mechanism": "Sturz im Schwimmbad",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen: Wirbelsäulenfraktur in Hinterkante",
+      "Nach ein paar Tagen: Abdomen-Übersicht mit Ileus-Zeichen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Wirbelsäulenfraktur Hinterkante",
+      "Ileus durch Nerveinklemmung"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Wirbelsäule",
+      "Abdomen-Übersicht"
+    ],
+    "treatment_response": [
+      "Patient hat OP initial abgelehnt"
+    ],
+    "complications": [
+      "Ileus nach ein paar Tagen",
+      "Nerveinklemmung"
+    ],
+    "follow_up": [
+      "Wiedervorstellung nach ein paar Tagen mit Ileus"
+    ]
+  },
+  {
+    "title": "Unterarmfraktur mit Pseudoarthrose nach konservativer Therapie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Starke Schmerzen im Frakturbereich"
+    ],
+    "accident_mechanism": "Unterarmfraktur (Mechanismus nicht spezifiziert)",
+    "pre_existing_conditions": [
+      "Z.n. Unterarmfraktur mit konservativer Therapie vor ein paar Wochen"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild Unterarm: Pseudoarthrose mit Kallusbildung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pseudoarthrose",
+      "Insuffiziente Kallusbildung"
+    ],
+    "diagnostic_approach": [
+      "Röntgenbild des Unterarmes"
+    ],
+    "treatment_response": [
+      "Konservative Therapie initial",
+      "Ursache der Pseudoarthrose: zu kurze Ruhigstellung"
+    ],
+    "complications": [
+      "Pseudoarthrose mit Kallusbildung"
+    ],
+    "follow_up": [
+      "Weiteres Vorgehen: OP mit Entfernung der Kallusbildung und Plattenosteosynthese"
+    ]
+  },
+  {
+    "title": "Handfraktur Z.n. Osteosynthese mit anhaltenden Schmerzen (V.a. CRPS)",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Anhaltende Schmerzen in der Hand"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Handfraktur vor mehreren Monaten",
+      "Z.n. Osteosynthese"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Bild zeigt Z.n. Osteosynthese der Hand"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "CRPS (Komplexes regionales Schmerzsyndrom)"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Persistierende Schmerzen trotz Osteosynthese"
+    ],
+    "complications": [
+      "Anhaltende Schmerzen seit mehreren Monaten",
+      "Verdacht auf CRPS"
+    ],
+    "follow_up": []
+  }
+]

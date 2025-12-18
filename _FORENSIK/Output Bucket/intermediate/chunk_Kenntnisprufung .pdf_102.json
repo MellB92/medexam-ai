@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Patientin mit Bauchbefund, Hypertonie und Rückenschmerzen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen verschlimmert in den letzten 2 Wochen",
+      "Hohe Blutdruckwerte (systolisch 165)",
+      "Befund im rechten Mittelbauch"
+    ],
+    "accident_mechanism": "Vor 2 Wochen mit rechtem Fuß umgeknickt (aktuell keine Schmerzen)",
+    "pre_existing_conditions": [
+      "Polypektomie im Rahmen einer Koloskopie vor 1 Jahr",
+      "Pfeifferisches Drüsenfieber vor 20 Jahren",
+      "Osteoporose (geplante Untersuchung)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter hatte Darmkrebs"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "RR unauffällig bei Untersuchung",
+      "Systolischer Blutdruck 165 bei HÄ"
+    ],
+    "physical_examination": [
+      "Milz und Leber tastbar und leicht vergrößert",
+      "Druckschmerz im LWS"
+    ],
+    "imaging_findings": [
+      "Abdomensonografie: Befund im rechten Mittelbauch"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Arterielle Hypertonie",
+      "Phäochromozytom",
+      "Wirbelkörperfraktur im LWS",
+      "Osteoporose",
+      "Mononukleose",
+      "Sprunggelenkverletzung"
+    ],
+    "diagnostic_approach": [
+      "Labor inkl. Tumormarker für Kolorektalkarzinom",
+      "Vanillinmandelsäure im Urin",
+      "Abdomensonografie: Nieren und Nebennieren, Leber und Milz",
+      "Langzeitblutdruckmessung",
+      "Röntgen LWS 2 Ebenen",
+      "Bei Befund evtl. CT-Abdomen",
+      "Röntgen Sprunggelenk rechts 2 Ebenen",
+      "Skelettszintigraphie",
+      "Venenzugang legen"
+    ],
+    "treatment_response": [
+      "Falls arterielle Hypertonie: ACEI mit weiterer Kontrolle",
+      "Bei WK-Fraktur: Konservativ oder operativ je nach Fraktur"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Nachsorge-Koloskopie war OK"
+    ]
+  },
+  {
+    "title": "Herr Wagner mit akutem Abdomen nach LKW-Unfall",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Akutes Abdomen",
+      "Handgelenksschmerzen",
+      "Bewegungseinschränkung"
+    ],
+    "accident_mechanism": "Z.n. LKW-Unfall",
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Carmen (Lercanidipin) für arterielle Hypertonie"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruckdifferenz zwischen beiden Seiten"
+    ],
+    "physical_examination": [
+      "Abdomen untersucht",
+      "Handgelenk untersucht (pDMS)",
+      "Untersuchung von Kopf bis Fuß"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Kanüle anlegen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

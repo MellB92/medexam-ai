@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Osteoporose mit pathologischer Fraktur",
+    "patient_age": "65J",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "intermittierende Rückenschmerzen mit Ausstrahlung in beide Flanke",
+      "in den letzten Monaten permanent zunehmende Schmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Bandscheibevorfall vor 20J"
+    ],
+    "comorbidities": [
+      "Vitamin D Mangel"
+    ],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter Darmkrebs mit 90J operiert",
+      "Vater Lungenerkrankung, DM",
+      "Bruder bewusstlos am Fahrrad fahren, Herz wurde untersucht"
+    ],
+    "social_history": [],
+    "medications": [
+      "Vitamin D3 einmal pro Woche"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck einmal erhöht beim Hausarzt"
+    ],
+    "physical_examination": [
+      "Kopfschmerzen im LWS und Flanke",
+      "Aortenklappeninsuffizienz"
+    ],
+    "imaging_findings": [
+      "Raumforderung im Ultraschall rechte Flanke"
+    ],
+    "laboratory_findings": [
+      "Vitamin D sehr niedrig"
+    ],
+    "suspected_diagnosis": [
+      "Osteoporose mit pathologischer Fraktur",
+      "DD LWS Fraktur, Metastasen"
+    ],
+    "diagnostic_approach": [
+      "Ultraschall mit Nebennieren Raumforderung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Kolonoskopie vor 3 Jahren unauffällig"
+    ]
+  }
+]

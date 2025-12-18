@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle** im klassischen Sinne (d.h. mit Patientenvorstellung, Anamnese, Untersuchungsbefunden etc.).\n\nStattdessen handelt es sich um:\n\n1. **Frage-Antwort-Paare** aus einer mündlichen Prüfung/Examen\n2. **Isolierte theoretische Fragen** zu:\n   - Röntgenbefund und Hohlorganperforation (theoretisches Wissen)\n   - Achillessehnenruptur (Behandlung allgemein)\n   - Sehnenrupturen (Aufzählung)\n   - Sinus pilonidalis (Definition)\n   - Schlafapnoe-Syndrom (Klassifikation, Diagnostik, Therapie)\n   - Cheyne-Stokes-Atmung (Definition)\n   - Child-Pugh-Klassifikation (Parameter)\n   - Hyperkalzämie (Symptome, Ursachen)\n   - Intravenöser Zugang (Komplikationen)\n\n3. **Keine konkreten Patientenfälle** mit:\n   - Spezifischem Alter/Geschlecht\n   - Individueller Anamnese\n   - Konkretem Unfallhergang\n   - Spezifischen Untersuchungsbefunden eines einzelnen Patienten\n\nDie erwähnte \"freie Luft im Abdomen\" ist Teil einer Musterlösung zu einer theoretischen Frage, nicht die Präsentation eines realen klinischen Falls."
+  }
+]

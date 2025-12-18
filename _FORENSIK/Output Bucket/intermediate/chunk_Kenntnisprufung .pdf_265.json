@@ -1,0 +1,141 @@
+[
+  {
+    "title": "Petechiale Hautausschlag mit Verdacht auf Thrombozytopenie",
+    "patient_age": "39 Jahre",
+    "patient_gender": "Frau",
+    "severity": null,
+    "chief_complaints": [
+      "Petechiale Hautausschlag auf dem Knöchel",
+      "Nausea",
+      "Hämaturie",
+      "Abgeschlagenheit",
+      "Spontane Blauflecke",
+      "Blutung beim Zähneputzen",
+      "Gewichtsverlust -2 kg",
+      "Schlafstörungen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Wunde genäht am Ende der KU",
+      "Sonst unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Thrombozytopenie unklarer Genese"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Sepsis mit Fieber und Krankheitsgefühl",
+    "patient_age": null,
+    "patient_gender": "Frau",
+    "severity": null,
+    "chief_complaints": [
+      "Kopfschmerzen",
+      "Fieber",
+      "Schüttelfrost",
+      "Krankheitsgefühl",
+      "Übelkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Abdomen nur teilweise untersucht"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Laborbild mit Multiorgandysfunktion"
+    ],
+    "suspected_diagnosis": [
+      "Sepsis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Multiorgandysfunktion"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Meningitis mit Verdacht auf FSME nach Südfrankreich-Reise",
+    "patient_age": "66 Jahre",
+    "patient_gender": "Frau",
+    "severity": null,
+    "chief_complaints": [
+      "Starke globale Kopfschmerzen seit 1 Tag",
+      "Photophobie",
+      "Fieber",
+      "Schüttelfrost",
+      "Abgeschlagenheit",
+      "Übelkeit ohne Erbrechen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Herzrhythmusstörungen vor paar Jahren, medikamentös behandelt",
+      "HWS-Verletzung nach Reitunfall vor Jahren, konservativ therapiert, keine Rezidivsymptome",
+      "Rechte Unterarmfraktur konservativ behandelt auf eigenen Wunsch, persistierende Schmerzen"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Kürzliche Reise nach Südfrankreich"
+    ],
+    "family_history": [
+      "Vater früh an Krebs gestorben",
+      "Mutter an Leberzirrhose gestorben"
+    ],
+    "social_history": [
+      "Arbeitete in der Bibliothek vor der Rente",
+      "2 Töchter und Ehemann",
+      "Keine Noxen"
+    ],
+    "medications": [
+      "Eine Tablette morgens gegen arterielle Hypertonie"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Meningismus positiv",
+      "KU ansonsten normal",
+      "Neuro grob untersucht"
+    ],
+    "imaging_findings": [
+      "Rö Thorax zum Ausschluss Fokus Sepsis"
+    ],
+    "laboratory_findings": [
+      "Hinweis auf Multiorganversagen",
+      "Akute Nierenschädigung"
+    ],
+    "suspected_diagnosis": [
+      "Meningitis",
+      "FSME (Frühsommer-Meningoenzephalitis)"
+    ],
+    "diagnostic_approach": [
+      "Lumbalpunktion erwähnt",
+      "Urin Stix",
+      "Urin Sediment"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,50 @@
+QUELLDATEIEN IN MASTER_PRUEFUNGSVORBEREITUNG_M3.json
+============================================================
+
+Gesamt: 4058 Cases aus 45 Dateien
+
+ 770 Cases | Kenntnisprufung .pdf
+ 616 Cases | Vollstaendiges_Pruefungsprotokoll.pdf
+ 396 Cases | Protokolle_KP_Muenster_2020-2025_ORD.docx
+ 301 Cases | Protokolle Muster KP.pdf
+ 215 Cases | Protokollen Munster 2024.pdf
+ 213 Cases | Kenntnisprufung Munster Protokolle 2023.docx
+ 203 Cases | Kenntnisprufung Munster Protokolle 2023.pdf
+ 174 Cases | Analyse Antworten  .pdf
+ 162 Cases | Kenntnisprufung Munster Protokolle 2025 new 2.docx
+ 148 Cases | Kenntnisprufung Munster Protokolle 20243.docx
+ 141 Cases | KP Münster 2020 -2025.md
+ 125 Cases | Kenntnisprufung Munster Protokolle 2025 new .docx
+ 124 Cases | Kenntnisprufung Munster Protokolle 2025.docx
+ 113 Cases | MV KP-Themen bis 05.2024.pdf
+  96 Cases | Kenntnisprufung Munster Protokolle 2025 bis Aug.pdf
+  49 Cases | Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf
+  32 Cases | Th.-2017 Aufl.. 7 Trappe u.a. EKG-Kurs fБr Isabel.pdf
+  21 Cases | Google Cloud Dokument ehemaligen .md vervollständigt.pdf
+  20 Cases | Fragen_Antworten QS Version 1 .pdf
+  17 Cases | 2_5256178696217194970.pdf
+  15 Cases | Ab FRAGE 686_ Wie schätzen Sie Bewusstlosigkeit ein.md
+  12 Cases | Fragen_Antworten QS Version 1  1.txt
+  12 Cases | kp 10.01.25.docx
+  10 Cases | M3-Kenntnisprufung-Komplett-Vollstandig.md
+   9 Cases | Intensivmedizin und Notfallmedizin Tag 3.pdf
+   9 Cases | Protokoll-KP-Munster.pdf
+   8 Cases | Bildgebende Verfahren_Tag 1 .pdf
+   8 Cases | Intensivmedizin und Notfallmedizin Tag 1.pdf
+   7 Cases | M3-Kenntnispruefung-Vollstaendiges-Transkript 1.md
+   5 Cases | DRV_Gutachten.pdf
+   5 Cases | Last Minute Pharmakologie 3. Aufl. 2018.pdf
+   2 Cases | 2025-11-11_SARS-CoV-2_RSV_Gruell.pdf
+   2 Cases | 444.pdf
+   2 Cases | KP 10.01.25 .pdf
+   2 Cases | Lernkarten zum mündlichen Stex 2. Auflage.pdf
+   2 Cases | Lernkarten_zum_Mündlichen_Stex_Innere_Medizin_und_Chirurgie_Elsevier.pdf
+   2 Cases | Rechts 1.pdf
+   2 Cases | Rechts.pdf
+   2 Cases | Wiederholungsaufgaben4.docx
+   1 Cases | 2025-11-06_Ebolavirus_Klein 2.pdf
+   1 Cases | Lernkarten_zum_Mündlichen_Stex_Innere_Medizin_und_240720_143816.pdf
+   1 Cases | Protokoll 17.9.2019.pdf
+   1 Cases | Protokoll 29.10.2024.docx
+   1 Cases | Rechtsmedizin 1.pdf
+   1 Cases | Rechtsmedizin.pdf

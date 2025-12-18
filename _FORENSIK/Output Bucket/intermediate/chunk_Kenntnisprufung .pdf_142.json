@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Müdigkeit, Polydipsie und Polyurie seit 4-5 Monaten - V.a. Diabetes mellitus",
+    "patient_age": null,
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "Müdigkeit seit 4-5 Monaten",
+      "Schlappheit",
+      "Leistungsknick",
+      "Sehverschlechterung",
+      "ab und zu Schwindel",
+      "Pruritus",
+      "Polydipsie",
+      "Polyurie",
+      "Schlafstörungen",
+      "Gewichtszunahme",
+      "erfolglose Gewichtsabnahme-Versuche",
+      "teilweise Blut im Stuhl (noch nicht abgeklärt)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Gewichtszunahme"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Puls gemessen",
+      "RR gemessen"
+    ],
+    "physical_examination": [
+      "Herzauskultation",
+      "Lungenauskultation",
+      "Abdomen untersucht",
+      "Lymphknoten palpiert",
+      "Schilddrüse palpiert"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Diabetes mellitus"
+    ],
+    "diagnostic_approach": [
+      "Überweisung vom Hausarzt",
+      "Körperliche Untersuchung",
+      "Laboruntersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

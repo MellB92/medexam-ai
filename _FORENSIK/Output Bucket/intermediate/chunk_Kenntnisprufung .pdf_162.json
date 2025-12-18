@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Humerusfraktur nach Sturz von Leiter",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Sturz von Leiter vor 2 Stunden auf linke Schulter",
+      "Sehr starke Schmerzen in der linken Schulter",
+      "Linker Arm in Schonhaltung"
+    ],
+    "accident_mechanism": "Sturz von einer Leiter vor 2 Stunden, auf die linke Schulter gefallen",
+    "pre_existing_conditions": [
+      "Chronisch entzündliche Darmerkrankung (Durchfall und Blut im Stuhl)",
+      "Karpaltunnelsyndrom (Brachialgia paraesthetica nocturna - nächtliches Kribbeln und Taubheitsgefühl rechte Hand)",
+      "Z.n. Erysipel vor einem Jahr (linker Unterschenkel mit Hautrötung, antibiotisch behandelt)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter: Schilddrüsenprobleme (nicht spezifiziert)",
+      "Vater: Luftnotprobleme",
+      "Väterliche Seite: häufige Krebserkrankungen"
+    ],
+    "social_history": [
+      "Beruf: Kundenbetreuerin",
+      "Verheiratet",
+      "2 gesunde Kinder aus erster Ehe",
+      "Nicht kürzlich im Ausland gewesen",
+      "Genussmittelanamnese nicht erhoben"
+    ],
+    "medications": [
+      "Sulfasalazin (aktuell für CED)",
+      "Minipille",
+      "Kortison (früher für CED)",
+      "Analgetikum als Infusionslösung (vom Rettungsdienst verabreicht)"
+    ],
+    "allergies": [
+      "Schimmelpilzallergie"
+    ],
+    "vital_signs": [
+      "Herzfrequenz gemessen (Wert nicht dokumentiert)",
+      "Atemfrequenz gemessen (Wert nicht dokumentiert)",
+      "Blutdruck gemessen (Wert nicht dokumentiert)"
+    ],
+    "physical_examination": [
+      "Guter Allgemeinzustand, Pflegezustand und Ernährungszustand",
+      "Zu allen Qualitäten orientiert",
+      "Linker Arm in Schonhaltung",
+      "pDMS: A. radialis palpabel (periphere Durchblutung intakt)",
+      "Sensibilität beidseits gleich",
+      "Motorik intakt: Handgelenk und Ellenbogengelenk können gebeugt und gestreckt werden",
+      "Palpation der Traumastelle schmerzbedingt unmöglich",
+      "Bewegung im linken Schultergelenk schmerzhaft eingeschränkt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Fraktur im linken Oberarmknochen (Humerusfraktur)",
+      "V.a. Klavikulafraktur"
+    ],
+    "diagnostic_approach": [
+      "Stationäre Aufnahme",
+      "Venöser Zugang",
+      "Blutabnahme",
+      "Röntgenaufnahme der linken oberen Extremität"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Operation möglich, falls sich Verdachtsdiagnose bestätigt"
+    ]
+  }
+]

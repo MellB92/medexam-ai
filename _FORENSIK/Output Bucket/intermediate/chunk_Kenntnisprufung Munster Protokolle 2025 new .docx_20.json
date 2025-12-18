@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Asthma bronchiale mit Belastungsdyspnoe\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\n      \"Belastungsdyspnoe seit 3 Monaten\",\n      \"Trainingsabbruch im Fitness Studio\",\n      \"Husten mit klarem Auswurf\",\n      \"Ab und zu saures Aufstoßen\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Pollenallergie\",\n      \"Laktoseintoleranz\",\n      \"Schulterluxation nach Sturz (Zustand nach)\",\n      \"Paronychie (Zustand nach)\"\n    ],\n    \"medications\": [\n      \"Antihistaminika (Cetirizin bei Bedarf)\"\n    ],\n    \"allergies\": [\n      \"Pollenallergie\"\n    ],\n    \"physical_examination\": [\n      \"Körperliche Untersuchung ohne Besonderheiten\",\n      \"Schulteruntersuchung durchgeführt (Schmerzen)\"\n    ],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Asthma bronchiale\",\n      \"Anämie (Differentialdiagnose)\",\n      \"Refluxösophagitis\"\n    ],\n    \"diagnostic_approach\": [\n      \"Lungenfunktionsprüfung (Spirometrie)\",\n      \"Metacholintest (Provokationstest)\",\n      \"EKG (zeigte Perimyokarditis)\",\n      \"Ösophagoskopie (Los-Angeles Klassifikation)\"\n    ]\n  }\n]\n```"
+  }
+]

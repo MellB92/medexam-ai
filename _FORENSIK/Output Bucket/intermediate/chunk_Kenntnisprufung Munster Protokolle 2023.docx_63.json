@@ -1,0 +1,68 @@
+[
+  {
+    "title": "COPD-Patient mit Husten, blutigem Auswurf und B-Symptomatik - V.a. Bronchialkarzinom",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Husten mit blutigem Auswurf",
+      "Verschlechterung der Atemnot",
+      "B-Symptomatik"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "COPD",
+      "arterielle Hypertonie",
+      "Gicht",
+      "Depression",
+      "Obstipation",
+      "Arthrose",
+      "Z.n. laparoskopischer Cholezystektomie",
+      "Z.n. Hüft-OP"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Systematische körperliche Untersuchung durchgeführt",
+      "Lymphknotenuntersuchung (insbesondere bei Tumorverdacht)"
+    ],
+    "imaging_findings": [
+      "Röntgen Thorax: Raumforderung mit Atelektase",
+      "Zweites Röntgen: Atelektase"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom (Verdacht auf Lungenkarzinom)",
+      "Tuberkulose",
+      "Bronchiektasie",
+      "Pneumonie",
+      "Herzinsuffizienz",
+      "virale Bronchitis ggf. Superinfektion",
+      "COPD-Exazerbation"
+    ],
+    "diagnostic_approach": [
+      "Überweisung vom Hausarzt zur weiteren Untersuchung und Abklärung",
+      "Röntgen Thorax (Weichstrahlung mit PA und Seitenlage)",
+      "Staging bei V.a. Lungenkarzinom",
+      "Weitere Untersuchungen zur Klassifikation"
+    ]
+  },
+  {
+    "title": "Sonographischer Gallenbefund",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sonographie: Gallenbefund"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Sonographie der Gallenblase"
+    ]
+  }
+]

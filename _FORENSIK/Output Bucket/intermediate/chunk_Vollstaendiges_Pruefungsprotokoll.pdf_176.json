@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 177/585) enthält ausschließlich theoretische Prüfungsfragen und -antworten zu verschiedenen medizinischen Themen, aber **keine vollständigen klinischen Patientenfälle**.\n\nDie behandelten Themen umfassen:\n- Antibiotikatherapie und Resistenzen\n- Tarragona-Strategie\n- Vorhofflimmern und dessen Therapie\n- Leberzirrhose\n- Hypertensive Krise\n- Polytrauma-Management\n- HWS-Frakturen (Densfraktur, Hangman-Fraktur)\n- Femurschaftfraktur\n\n**Wichtig:** Obwohl einige Fragen klinische Szenarien implizieren (z.B. \"Wie gehen Sie bei einem Polytrauma nach Verkehrsunfall vor?\" oder \"Welche Fraktur liegt auf dem Bild der HWS vor?\"), handelt es sich dabei um **isolierte theoretische Prüfungsfragen** ohne konkrete Patientenangaben wie Alter, Geschlecht, Anamnese, vollständige Befunde oder einen zusammenhängenden Fallverlauf.\n\nEin echter klinischer Fall würde beispielsweise beginnen mit: \"45-jähriger Mann nach Verkehrsunfall mit...\", gefolgt von Anamnese, Untersuchungsbefunden, Bildgebung, Labor und diagnostischem Vorgehen."
+  }
+]

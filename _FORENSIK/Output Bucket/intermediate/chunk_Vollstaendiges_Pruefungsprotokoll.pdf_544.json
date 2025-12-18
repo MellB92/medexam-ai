@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 545/585) enthält **keine vollständigen klinischen Patientenfälle**.\n\nDer Text besteht aus:\n\n1. **Prüfungsfragen mit theoretischen Antworten** (Fragen 18-33):\n   - Rippenfrakturen (theoretisch)\n   - Röntgenbildbeschreibungen (ohne konkreten Patientenkontext)\n   - Arthroskopie (allgemein)\n   - Schleimbeutelentzündung (theoretisch)\n   - Medikamentengabe IV/IM (Theorie)\n   - Datenschutzfragen (rechtlich)\n\n2. **Theoretische Wissensfragen** (ab \"QUELLE: Kenntnispruefung-Allgemein-53.txt\"):\n   - Multiples Myelom (Definition, Vorstufen, Diagnostik, Stadien, Therapie)\n   - Ventrikuläre Tachykardie/Torsades de Pointes (abgeschnitten)\n\n**Alle beschriebenen Szenarien sind:**\n- Hypothetische Prüfungsfragen ohne konkrete Patientendaten\n- Theoretisches medizinisches Wissen\n- Keine strukturierten Fallpräsentationen mit Anamnese, Befunden und diagnostischem Vorgehen\n\nEs gibt keine Angaben zu spezifischen Patienten (Alter, Geschlecht, konkrete Anamnese, individuelle Befunde)."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle** mit konkreten Patientendaten. \n\nEs handelt sich ausschließlich um:\n\n1. **Theoretische Prüfungsfragen** aus einer Kenntnisprüfung (z.B. \"Welche Diabetes-Typen gibt es?\", \"Alle Anämie Typen erklären\")\n\n2. **Musterlösungen/Leitlinien** zu medizinischen Themen wie:\n   - Pankreatitis (Ätiologie, Symptome, Vorgehen)\n   - Diabetes mellitus und insipidus\n   - Hinterwandinfarkt\n   - Anämieformen\n   - Perikarditis\n\n3. **Kandidatenantworten** und deren Bewertung (\"Der Kandidat nennt zwar...\", \"Nicht im Protokoll enthalten\")\n\n4. **Theoretische EKG-/Labor-Interpretationsaufgaben** ohne konkrete Patientenkontext (z.B. \"makrozytär hyperchrome Anämie\", \"Hunter-Glossitis\")\n\nEs fehlen durchgängig:\n- Konkrete Patientenangaben (Alter, Geschlecht)\n- Spezifische Anamnesen mit individuellem Verlauf\n- Konkrete Untersuchungsbefunde eines realen Falls\n- Fallspezifische diagnostische/therapeutische Überlegungen\n\nDies ist ein Ausbildungs-/Prüfungsdokument mit theoretischen Wissensabfragen, **keine Fallsammlung**."
+  }
+]

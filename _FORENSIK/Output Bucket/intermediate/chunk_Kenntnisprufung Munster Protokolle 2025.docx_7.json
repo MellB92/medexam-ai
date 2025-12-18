@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Humeruskopffraktur mit Röntgenbild",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild zeigt Humerusbruch",
+      "Mögliche Beteiligung von Tuberculum majus"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Humerusfraktur"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Sinusbradykardie im EKG",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: Sinusbradykardie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sinusbradykardie"
+    ],
+    "diagnostic_approach": [
+      "Medikamentenanamnese",
+      "EKG",
+      "Pathophysiologie des AV-Blocks prüfen"
+    ]
+  },
+  {
+    "title": "L1-L2-Wirbelfraktur im Röntgen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Rückenschmerzen mit roten Flaggen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild mit L1-L2-Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "L1-L2-Wirbelfraktur"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Linksseitige Lobärpneumonie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild mit linksseitiger Lobärpneumonie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Linksseitige Lobärpneumonie"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Grünholzfraktur im Röntgen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild mit Grünholzfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Grünholzfraktur"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Humeruskopffraktur - Prüfungsfall 06.05",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbilder Schulter ap + Y",
+      "Subkapitale Humeruskopffraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Subkapitale Humeruskopffraktur"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Kalter Schilddrüsenknoten bei 30-jährigem Patient",
+    "patient_age": "30-jähriger",
+    "patient_gender": "m",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Szintigrafie: kalter Knoten",
+      "Sono: echoarm"
+    ],
+    "laboratory_findings": [
+      "Tumormarker negativ"
+    ],
+    "suspected_diagnosis": [
+      "Schilddrüsenknoten"
+    ],
+    "diagnostic_approach": [
+      "Hemithyreoidektomie",
+      "Falls auffällig: totale Thyreoidektomie"
+    ]
+  },
+  {
+    "title": "Magenkarzinom an der großen Kurvatur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Endoskopiebild: Magenkarzinom an der großen Kurvatur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Magenkarzinom"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Sinusbradykardie mit ST-Senkungen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: Sinusbradykardie",
+      "ST-Senkungen in II, aVF, V6"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sinusbradykardie",
+      "Sick-Sinus-Syndrom"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "LZ-EKG",
+      "Belastungs-EKG",
+      "EPU mit Dobutamin + Atropin"
+    ]
+  }
+]

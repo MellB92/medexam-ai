@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischem Wissen** zur arteriellen Embolie/Thrombose (Lokalisation, Klinik nach Pratt, Diagnostik, Therapie, Komplikationen)\n\n2. **Differentialdiagnostischen Übersichten** zu:\n   - DD Thoraxschmerz (Herzinfarkt, Aortendissektion, Lungenembolie, Pneumothorax)\n   - DD Akutes Abdomen (Appendizitis, Cholezystitis, Ileus, Perforation, Pankreatitis, Sigmadivertikulitis)\n   - DD Dyspnoe (Lungenembolie, Pneumothorax, Asthma, COPD, Pneumonie, Pleuraerguss, Fremdkörperaspiration)\n\n3. **Lernkarten-Format** mit allgemeinen Definitionen, Klinik, Diagnostik und Therapie verschiedener Krankheitsbilder\n\nEs handelt sich um **didaktisches Material für das mündliche Staatsexamen**, nicht um konkrete Patientenpräsentationen mit individuellen Angaben zu Alter, Geschlecht, spezifischen Beschwerden oder Befunden."
+  }
+]

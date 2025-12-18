@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Divertikulitis mit Unterbauchschmerzen links",
+    "patient_age": "63-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Seit 3 Tagen zunehmende stechende Unterbauchschmerzen links",
+      "Übelkeit ohne Erbrechen",
+      "Fieber",
+      "Obstipation wechselnd mit dünnem Stuhl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Appendektomie",
+      "Z.n. Cholezystektomie",
+      "Z.n. Unterschenkelfraktur links",
+      "Z.n. Rippenfraktur links",
+      "Z.n. H. Pylori Infektion (behandelt)"
+    ],
+    "medications": [
+      "Vitamin D (regelmäßig)",
+      "Ibuprofen (bei Bedarf)",
+      "Diclac (bei Bedarf)",
+      "Dulcolax (bei Bedarf)"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Komplette körperliche Untersuchung durchgeführt",
+      "Fußpulse getastet",
+      "Keine Abwehrspannung erwähnt"
+    ],
+    "imaging_findings": [
+      "Ultraschall: Wandverdickung, Divertikel und kleine Flüssigkeit"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Divertikelkrankheit",
+      "Divertikulitis (initial vermutet, aber ohne Abwehrspannung als Divertikelkrankheit klassifiziert)"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Körperliche Untersuchung",
+      "Sonographie",
+      "Venöser Zugang angelegt"
+    ]
+  },
+  {
+    "title": "Sturz von Leiter aus 4 Metern Höhe mit Fersenschmerzen",
+    "patient_age": "64-jährig",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Schmerzen im Hacke (Ferse)",
+      "Schwindel vor dem Unfall"
+    ],
+    "accident_mechanism": "Sturz aus einer Höhe von 4 Metern von einer Leiter beim Pflaumen pflücken helfen",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": []
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** zu medizinischen Themen (Delir, Osteoporose, COPD, ventrikuläre Tachykardie, etc.)\n2. **Musterlösungen/Leitlinien** - allgemeines medizinisches Wissen\n3. **Prüfungsfragen** ohne konkrete Patientenangaben\n4. **Differentialdiagnosen-Listen** (z.B. \"Kopfhautläsion. DD?\") ohne konkrete Patientenpräsentation\n\n**Beispiele, warum dies KEINE klinischen Fälle sind:**\n\n- \"Kopfhautläsion. DD?\" - Nur eine theoretische Frage nach Differentialdiagnosen, kein Patient beschrieben\n- \"Röntgen- Humerus Fraktur. Therapie?\" - Theoretische Frage, kein konkreter Patient mit Anamnese\n- \"Appendizitis-fast alles über dieses Thema\" - Allgemeines Wissen, kein Fallbeispiel\n- \"Bild von Meckel-Divertikel - Benennung\" - Bilderkennungsfrage, kein Patient\n\nEs fehlen bei allen Einträgen:\n- Konkrete Patientenangaben (Alter, Geschlecht)\n- Spezifische Anamnese\n- Individuelle Symptompräsentation\n- Konkrete Untersuchungsbefunde eines spezifischen Patienten\n\nDies ist Prüfungsmaterial/Lernmaterial mit theoretischen Fragen, keine klinischen Fallpräsentationen."
+  }
+]

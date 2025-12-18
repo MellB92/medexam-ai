@@ -1,0 +1,51 @@
+[
+  {
+    "title": "pAVK mit progredienten Unterschenkelschmerzen nach Japanreise",
+    "patient_age": "79 Jahre",
+    "patient_gender": "Mann",
+    "severity": null,
+    "chief_complaints": [
+      "progrediente Schmerzen im rechten Unterschenkel",
+      "Beinschmerzen seit Rückflug aus Japan vor 10 Tagen",
+      "Erkältung (Zugluft)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Unterschenkelfraktur vor 20 Jahren, operativ mit Platte versorgt",
+      "LWS-OP (L4/5) vor 10 Jahren"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Rückflug aus Japan vor 10 Tagen"
+    ],
+    "medications": [
+      "Lisinopril",
+      "Atorvastatin",
+      "Ibuprofen bei Bedarf"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "pAVK",
+      "TVT",
+      "Arthrose"
+    ],
+    "diagnostic_approach": [
+      "Wells-Score",
+      "D-Dimere (unspezifisch)",
+      "CT-Angiografie",
+      "Duplex-Sonografie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Gehstrecke: schmerzfrei ca. 400 m",
+      "Vegetative Anamnese: Obstipation und Fieber, sonst unauffällig"
+    ]
+  }
+]

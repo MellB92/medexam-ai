@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Lumboischialgie mit V.a. Bandscheibenvorfall",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Lumboischialgie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "MRT Bild mit Bandscheibenvorfall"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bandscheibenvorfall",
+      "Coxarthrose (Schmerzen im Bereich des Trochanter major)",
+      "Nierenkolik"
+    ],
+    "diagnostic_approach": [
+      "Sono (Abdomen, Hüfte)",
+      "Röntgen",
+      "MRT (Goldstandard)"
+    ]
+  },
+  {
+    "title": "Schmerzen in rechtem Unterbauch bei Junge",
+    "patient_age": "4-jähriger",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Schmerzen in rechtem Unterbauch"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Appendizitis",
+      "Leistenhernie",
+      "Hodentorsion"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Diabetes mellitus mit infizierter Wunde und Schultersturz",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "infizierte Wunde",
+      "Sturz auf Schulter vor einer Woche"
+    ],
+    "accident_mechanism": "Sturz auf die Schulter vor einer Woche",
+    "pre_existing_conditions": [
+      "Diabetes mellitus"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Schulter: Kapselriss des Acromioclaviculargelenks"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kapselriss des Acromioclaviculargelenks"
+    ],
+    "diagnostic_approach": [
+      "körperliche Untersuchung",
+      "Röntgen"
+    ]
+  },
+  {
+    "title": "Bewusstlosigkeit beim Volleyballspielen am Strand",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Bewusstlosigkeit"
+    ],
+    "accident_mechanism": "beim Volleyballspielen bewusstlos geworden",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "BZ niedrig"
+    ],
+    "suspected_diagnosis": [
+      "Hypoglykämie"
+    ],
+    "diagnostic_approach": [
+      "BZ messen",
+      "40% Glucose i.v.",
+      "BGA",
+      "Transport ins Krankenhaus"
+    ]
+  }
+]

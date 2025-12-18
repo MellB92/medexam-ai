@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 149/254) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** aus einer Kenntnisprüfung, z.B.:\n   - Ursachen für Rechtsschenkelblock\n   - COPD-Klassifikationen und Therapie\n   - Hüftfrakturen-Klassifikationen\n   - Virchow-Trias\n   - Wirkmechanismen von Medikamenten (Bisphosphonate, Azathioprin, Prednisolon)\n   - Neurologische Kriterien (Fazialisparese, Sprechzentrum)\n   - Scoring-Systeme (CRB-65, FAST)\n   - Rechtliche Fragen (Schwangerschaftsabbruch, Strahlenschutz)\n\n2. **Isolierte diagnostische Fragen** zu Bildern:\n   - Schilddrüsenszintigraphie mit heißen Knoten\n   - Röntgen-Thorax mit Emphysem\n   - Röntgen-Becken mit Hüftfrakturen\n   - Foto mit Hauttransplantaten\n\n3. **Standardantwort:** \"Nicht im Protokoll enthalten\" für alle Kandidatenantworten\n\nEs handelt sich um ein **Prüfungsprotokoll mit Wissensfragen**, nicht um klinische Fallpräsentationen mit Patientengeschichten, Anamnese, Verlauf oder konkreten Behandlungsszenarien."
+  }
+]

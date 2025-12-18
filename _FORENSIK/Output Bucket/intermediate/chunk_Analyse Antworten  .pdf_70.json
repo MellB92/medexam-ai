@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Wissensfragen** in einem Frage-Antwort-Format (vermutlich aus einer mündlichen Prüfung oder einem Examen):\n   - Definition von Polytrauma\n   - Klassifikation von Beckenringfrakturen\n   - AO-Klassifikation\n   - Frakturversorgung (konservativ/operativ)\n   - Paradoxe Atmung\n   - Hernien-Typen und -Definitionen\n   - Leistenhernien\n   - CPR-Rhythmus\n   - Synkopen-Typen und Ursachen\n\n2. **Musterlösungen und Bewertungen** (\"musterloesung_leitlinie\", \"analyse_fehler_tipps\")\n\nEs gibt **keine Patientenpräsentation** mit:\n- Konkretem Patientenalter/-geschlecht\n- Anamnese/Beschwerden\n- Unfallhergang\n- Untersuchungsbefunden\n- Diagnostischem Vorgehen bei einem spezifischen Fall\n\nDies ist reines theoretisches Prüfungswissen ohne klinische Falldarstellung."
+  }
+]

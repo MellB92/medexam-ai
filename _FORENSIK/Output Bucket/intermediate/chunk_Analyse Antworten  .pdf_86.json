@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nEs handelt sich um eine Sammlung von **Prüfungsfragen und -antworten** aus medizinischen Examina, die folgende Themen abdecken:\n\n1. **Magenkarzinom** - Endoskopiebild mit Fragen zu OP-Möglichkeiten und Anastomosen\n2. **EKG/Sinusbradykardie** - Sick-Sinus-Syndrom mit theoretischen Fragen\n3. **Pneumokoniosen** - Vergleich Silikose vs. Asbestose\n4. **Erosive Gastritis** - Endoskopiebild mit Fragen zu Therapie\n5. **Asthma-Stufentherapie** - theoretische Frage\n6. **Propofol** - Pharmakologie\n7. **Fremdkörperaspiration** - Notfallmanagement\n8. **Röntgenbild Sinterungsfraktur** - Red Flags bei Rückenschmerzen\n9. **Strahlenschutz** - Standardfragen\n10. **Sozialgesetzbücher** - Rechtsfragen\n11. **Myokarditis** - Laborparameter und TTE-Beurteilung\n\nAlle Einträge folgen dem Format:\n- **frage** (Prüfungsfrage)\n- **antwort_kandidat** (meist: \"Nicht im Protokoll enthalten\")\n- **musterloesung_leitlinie** (Standardantwort)\n- **analyse_fehler_tipps** (meist: \"Keine Analyse möglich\")\n\nEs werden **keine Patientendetails** wie Alter, Geschlecht, Anamnese, Verlauf oder individuelle Befunde präsentiert, die einen vollständigen klinischen Fall ausmachen würden."
+  }
+]

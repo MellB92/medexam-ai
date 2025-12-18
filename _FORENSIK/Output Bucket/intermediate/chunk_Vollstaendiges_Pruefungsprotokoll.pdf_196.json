@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 197/585) enthält ausschließlich theoretische Fragen und Antworten aus einem Prüfungsprotokoll. Es handelt sich um ein Q&A-Format mit medizinischem Faktenwissen, aber **keine konkreten Patientenfälle**.\n\nDie Themen umfassen:\n- Sprunggelenksfrakturen (Klassifikation und Therapie)\n- ALARA-Prinzip bei Röntgen\n- Sigmadivertikulitis (allgemeine Symptome/Behandlung)\n- EKG-Grundlagen\n- Myokardinfarkt (Definition)\n- Schilddrüsenerkrankungen (Hyper-/Hypothyreose)\n- Schilddrüsenuntersuchung\n- Blutdruckmessung\n- HWS-Fraktur (Maßnahmen)\n- Infektparameter\n- Meningitis-Antibiotika\n- Waterhouse-Friderichsen-Syndrom\n\nAlle Einträge folgen dem Schema:\n- \"frage\" (theoretische Frage)\n- \"antwort_kandidat\" (meist \"Nicht im Protokoll enthalten\")\n- \"musterloesung_leitlinie\" (Standardantwort/Lehrbuch)\n- \"analyse_fehler_tipps\"\n\nEs werden **keine konkreten Patienten** mit individuellen Charakteristika, Symptomen, Untersuchungsbefunden oder diagnostischen Wegen präsentiert."
+  }
+]

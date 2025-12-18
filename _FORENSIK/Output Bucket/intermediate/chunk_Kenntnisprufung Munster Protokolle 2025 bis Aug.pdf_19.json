@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Diabetes mellitus - Fall 29.04.2025 (erster Patient)",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Diabetes mellitus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "BZ-Werte",
+      "HbA1c",
+      "OGTT",
+      "Nüchternblutzucker"
+    ],
+    "suspected_diagnosis": [
+      "Diabetes mellitus"
+    ],
+    "diagnostic_approach": [
+      "Einzelnaht",
+      "subkutane Naht"
+    ]
+  },
+  {
+    "title": "Rechtsseitige Brustschmerzen mit erhöhter Infektanfälligkeit - Peter Albers",
+    "patient_age": "68 Jahre",
+    "patient_gender": "männlich",
+    "chief_complaints": [
+      "rechtsseitige Brustschmerzen",
+      "erhöhte Infektanfälligkeit",
+      "Erkältungssymptome",
+      "schwerer trockener Husten",
+      "Rückenschmerzen",
+      "linksseitige Armschmerzen",
+      "Gewichtsabnahme 8 kg in 6 Monaten",
+      "Nachtschweiß",
+      "unregelmäßiger Puls"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "TVT rechts mit 55 Jahren",
+      "Multiple Operationen nach Autounfall mit 45 Jahren"
+    ],
+    "medications": [],
+    "allergies": [
+      "Polen",
+      "Katze"
+    ],
+    "physical_examination": [
+      "rechtseitige Oberkörperbeugung",
+      "Inspektion",
+      "neurologische Untersuchung (kraniale Nerven, periphere Reflexe)",
+      "RR-Messung beidseits",
+      "Lunge: Stimmfremitus, Perkussion, Auskultation",
+      "Herz: Herzgeräusche",
+      "Abdomen: Inspektion, Auskultation, Perkussion"
+    ],
+    "imaging_findings": [
+      "Röntgen-Thorax unauffällig"
+    ],
+    "laboratory_findings": [
+      "Urinwerte auffällig",
+      "BSG erhöht",
+      "Fieber 38,2°C"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom",
+      "Vorhofflimmern"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax",
+      "Anamnese und körperliche Untersuchung"
+    ]
+  }
+]

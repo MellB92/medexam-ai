@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 7/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle**.\n\nDer Inhalt behandelt ausschließlich:\n\n1. **Technische EKG-Grundlagen:**\n   - Definition und Bedeutung von EKG-Wellen (ST-Strecke, T-Welle, QT-Zeit)\n   - Nomenklatur von QRS-Komplexen (R', S', R'', S'')\n\n2. **Lektion 2 - Ableitung des EKG:**\n   - Erklärung der 12 Standard-EKG-Ableitungen\n   - Extremitätenableitungen (I, II, III, aVR, aVL, aVF)\n   - Brustwandableitungen (V1-V6)\n   - Einthoven-Dreieck und Elektrodenpositionierung\n   - \"Ampel-Regel\" für Extremitätenkabel\n   - EKG-Papier-Kalibrierung und technische Details\n\n3. **Anatomische Zuordnung:**\n   - Welche Ableitungen welche Herzabschnitte repräsentieren\n\nDies ist reines **didaktisches Lehrmaterial** ohne Patientenbeispiele, Fallvorstellungen oder klinische Szenarien."
+  }
+]

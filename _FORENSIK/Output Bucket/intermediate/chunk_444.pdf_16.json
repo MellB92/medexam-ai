@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 17/155) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Reanimationsprotokoll/CPR-Richtlinien** - Behandlungsalgorithmen ohne spezifische Patientenfälle\n2. **EKG-Interpretation** - Theoretische Übersicht über defibrillierbare und nicht-defibrillierbare Rhythmen\n3. **Defibrillationstechnik** - Technische Anweisungen\n4. **Komplikationen** - Auflistung möglicher Komplikationen\n5. **Schock - Theorieteil** - Systematische Übersicht zu:\n   - Definition\n   - Ätiologie (verschiedene Schockformen)\n   - Pathophysiologie\n   - Symptome/Klinik\n   - Diagnostik\n\nEs handelt sich durchgehend um **Lehrbuchmaterial/Theoriewissen** ohne konkrete Patientenpräsentationen mit individuellen Charakteristika (Alter, Geschlecht, spezifischer Verlauf, etc.)."
+  }
+]

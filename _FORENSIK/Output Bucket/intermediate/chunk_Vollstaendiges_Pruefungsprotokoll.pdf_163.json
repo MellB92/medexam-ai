@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle**. \n\nEs handelt sich ausschließlich um:\n\n1. **Prüfungsfragen mit Kurzantworten** - z.B.:\n   - \"Welche Diagnose stellen Sie bei einem EKG mit SIQ3 und typischen Symptomen einer Lungenembolie?\" → Antwort: \"LAE\"\n   - \"Was ist eine Analfistel?\" → Definition\n   - \"Was ist Lidocain?\" → Definition\n\n2. **Theoretische Wissensfragen** ohne Patientenkontext:\n   - ALARA-Prinzip\n   - Abstand-Quadrat-Gesetz\n   - Rechtfertigende Indikation\n   - Säure vs. Lauge\n\n3. **Bildbeschreibungsaufgaben** (rheumatoide Arthritis-Hand) - aber ohne konkrete Patientenanamnese, nur Beschreibung typischer Befunde\n\n4. **Viele nicht beantwortete Fragen** (\"Nicht im Protokoll enthalten\")\n\nEs gibt **keine narrativen Patientenfälle** mit Anamnese, Untersuchungsbefunden und diagnostischem Vorgehen, die als klinische Präsentationsfälle extrahiert werden könnten."
+  }
+]

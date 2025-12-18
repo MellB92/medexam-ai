@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Sprunggelenks- und Handgelenksverletzung nach Sturz bei Schwangerer",
+    "patient_age": "39 Jahre",
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen im Bereich der Tabatiere",
+      "Kann nicht mehr auf das Bein aufstehen",
+      "Schmerzen im linken Sprunggelenk"
+    ],
+    "accident_mechanism": "Sturz auf dem Weg zur Arbeit, mit dem linken Sprunggelenk umgeknickt und auf der Hand gelandet",
+    "pre_existing_conditions": [
+      "Divertikulitis",
+      "Thyroidenknoten-OP",
+      "Tonsillektomie"
+    ],
+    "comorbidities": [
+      "11. Schwangerschaftswoche"
+    ],
+    "risk_factors": [],
+    "family_history": [
+      "Vater: Adipositas",
+      "Mutter: Rippenfraktur",
+      "Bruder: Herzentzündung"
+    ],
+    "social_history": [
+      "Rezeptionistin in einem Hotel",
+      "Verheiratet",
+      "1 Sohn"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "RR nicht an beide Hände gemessen"
+    ],
+    "physical_examination": [
+      "Lunge: Unauffällig",
+      "Abdomen: gynäkologische Untersuchung priorisiert wegen Gefahr einer Uterusruptur",
+      "Handgelenk: Supination und Pronation unauffällig",
+      "Daumen kann nicht zum Kleinfinger geführt werden",
+      "Hüfte: Unauffällig",
+      "Sprunggelenk pDMS: Unauffällig",
+      "Sprunggelenk: Supination und Pronation aufgrund von Schmerzen nicht möglich"
+    ],
+    "imaging_findings": [
+      "Bild einer trimalleolären Fraktur erwähnt",
+      "Bild einer dislozierten Metakarpalfraktur erwähnt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Supinationsfraktur des Sprunggelenks",
+      "Skaphoidfraktur",
+      "Mögliche Bandläsion (Lig. talofibulare anterius)"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Indikation aufgrund der Schwangerschaft zu evaluieren",
+      "PECH-Regel (Pause, Eis, Kompression, Hochlagerung)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

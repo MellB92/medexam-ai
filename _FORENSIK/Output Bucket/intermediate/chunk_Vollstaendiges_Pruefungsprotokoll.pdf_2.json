@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 3/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** aus einem Prüfungsprotokoll (z.B. \"Was ist ein Delir?\", \"Welche Neuroleptika kennen Sie?\")\n\n2. **Allgemeinen medizinischen Konzepten** (Definitionen von Fisteln, Neuroleptika, Osteoporose, etc.)\n\n3. **Prüfungsdialog-Fragmenten** ohne vollständige Patientenvorstellung (z.B. Diskussion über akutes Abdomen, Milzruptur, Anaphylaxie-Stadien)\n\n4. **Musterlösungen** zu theoretischen Fragen (Infektionsschutzgesetz, Off-Label-Use)\n\nDie erwähnten medizinischen Szenarien (Spannungspneumothorax, akutes Abdomen, Milzruptur) sind **hypothetische Diskussionspunkte** in einem mündlichen Prüfungskontext, keine dokumentierten realen Patientenfälle mit spezifischen Angaben zu Alter, Geschlecht, Anamnese oder konkreten Befunden."
+  }
+]

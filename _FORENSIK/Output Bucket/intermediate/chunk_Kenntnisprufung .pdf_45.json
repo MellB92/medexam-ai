@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Synkope mit Sturz bei junger schwangerer Patientin",
+    "patient_age": "jung",
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Synkope",
+      "Sturz auf den Kopf und rechte Finger",
+      "leichte Kopfschmerzen"
+    ],
+    "accident_mechanism": "Synkope beim Anblick einer Schnittwunde, Sturz auf Kopf und rechte Finger",
+    "pre_existing_conditions": [
+      "Schwangerschaft"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Herz untersucht",
+      "Lungen untersucht",
+      "Abdomen untersucht",
+      "Nieren untersucht",
+      "Ödeme untersucht",
+      "neurologische Untersuchung grob"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Reflexsynkope mit SHT-Verdacht nach Sturz",
+    "patient_age": null,
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Synkope",
+      "Sturz auf den Kopf",
+      "starke Kopfschmerzen",
+      "Übelkeit",
+      "kein Erbrechen"
+    ],
+    "accident_mechanism": "Synkope beim Anblick einer blutigen Schnittwunde, Sturz auf den Kopf mit unklarer Bewusstlosigkeitsdauer",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalparameter gemessen"
+    ],
+    "physical_examination": [
+      "neurologische Untersuchung mit Reflexen durchgeführt",
+      "Herz und Lungen richtig untersucht",
+      "Patientin hingelegt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "SHT (Schädel-Hirn-Trauma)",
+      "Hämatom",
+      "Reflexsynkope"
+    ],
+    "diagnostic_approach": [
+      "Notfallanamnese",
+      "neurologische Untersuchung",
+      "Vitalparameter Messung",
+      "körperliche Untersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

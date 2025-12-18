@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n- Theoretischen Fragen und Antworten zur Röntgentechnik (Fragen 24-48)\n- Physikalischen Grundlagen der Röntgenbildgebung\n- Technischen Parametern (Röhrenspannung, Belichtungszeit, etc.)\n- Erklärungen zu Bildqualität, Kontrast und Streustrahlung\n- Allgemeinem Fachwissen ohne konkrete Patientenbeispiele\n\nEs werden keine Patienten mit spezifischen Beschwerden, Unfallmechanismen, klinischen Befunden oder Diagnosen beschrieben. Dies ist rein didaktisches Material zur Ausbildung in Strahlenschutz und Röntgentechnik."
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Sturz aus 3-4m Höhe mit Knieschmerzen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Schmerzen im linken Knie",
+      "Schmerzen proximale Tibia"
+    ],
+    "accident_mechanism": "Sturz aus 3-4m Höhe",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Proximale Tibiafraktur",
+      "Femurkondylfraktur",
+      "Patellafraktur",
+      "Ruptur des vorderen Kreuzbandes",
+      "Meniskusläsion"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "ST-Senkungen und Linksherzhypertrophie im EKG",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "ST-Senkung in I, aVL, V3-V6",
+      "Hohes R in V5",
+      "Tiefes S in V1"
+    ],
+    "suspected_diagnosis": [
+      "Linksherzhypertrophie"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Verschattung im rechten Oberlappen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Verschattung im rechten Oberlappen im Röntgen-Thorax"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lobärpneumonie"
+    ],
+    "diagnostic_approach": []
+  }
+]

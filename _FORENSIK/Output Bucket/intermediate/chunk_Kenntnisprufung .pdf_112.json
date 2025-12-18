@@ -1,0 +1,65 @@
+[
+  {
+    "title": "63-jährige Frau mit stechenden Unterbauchschmerzen links - Divertikulitis",
+    "patient_age": "63",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "seit 3 Tagen zunehmende stechende Unterbauchschmerzen links",
+      "Übelkeit ohne Erbrechen",
+      "Fieber",
+      "Obstipation wechselnd mit dünnem Stuhl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Appendektomie",
+      "Z.n. Cholezystektomie",
+      "Z.n. Unterschenkelfraktur links",
+      "Z.n. Rippenfraktur links",
+      "Z.n. H. Pylori Infektion (behandelt mit Antibiotika)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Stressige Arbeit",
+      "Keine gesunde Ernährung"
+    ],
+    "family_history": [
+      "Bruder mit Schlafapnoe und Nierenerkrankung",
+      "Vater gestorben wegen Herzerkrankung",
+      "Mutter gesund"
+    ],
+    "social_history": [
+      "Wohnt mit Mann und 2 Töchtern zusammen",
+      "Alle Familienmitglieder gesund"
+    ],
+    "medications": [
+      "Vitamin D regelmäßig",
+      "Ibuprofen bei Bedarf",
+      "Diclac bei Bedarf",
+      "Dulcolax bei Bedarf"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Komplette körperliche Untersuchung durchgeführt",
+      "Fußpulse getastet",
+      "Keine Abwehrspannung"
+    ],
+    "imaging_findings": [
+      "Ultraschall: Wandverdickt, Divertikel sichtbar, kleine Flüssigkeit"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Divertikulitis",
+      "Divertikelkrankheit (ohne Abwehrspannung)"
+    ],
+    "diagnostic_approach": [
+      "Komplette körperliche Untersuchung",
+      "Abdominelle Sonographie",
+      "Venöser Zugang anlegen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

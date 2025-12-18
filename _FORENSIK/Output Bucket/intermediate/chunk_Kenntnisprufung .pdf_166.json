@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Angina Pectoris mit inferiorem Myokardinfarkt und Lungenkarzinom",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Angina Pectoris"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes"
+    ],
+    "comorbidities": [
+      "Lungenkarzinom"
+    ],
+    "risk_factors": [
+      "KHK Risikofaktoren",
+      "Diabetes und Komplikationen"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Anamnese und körperliche Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [
+      "Röntgen Thorax: Lungenkarzinom"
+    ],
+    "laboratory_findings": [
+      "EKG: Inferior MI"
+    ],
+    "suspected_diagnosis": [
+      "Inferiorer Myokardinfarkt",
+      "Lungenkarzinom"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Röntgen Thorax"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Dialysepatient mit metabolischer Azidose und Hyperkaliämie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "3-4 Tage ohne Dialyse"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Dialysepatient"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "BGA: pH 7,1",
+      "K 5,6",
+      "Na 150",
+      "BE -12",
+      "pCO2 normal"
+    ],
+    "suspected_diagnosis": [
+      "Metabolische Azidose",
+      "Hyperkaliämie",
+      "lebensbedrohlicher Zustand"
+    ],
+    "diagnostic_approach": [
+      "BGA"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Sturz vom Fahrrad mit Hüftfraktur und Pneumohemothorax",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Sturz vom Fahrrad"
+    ],
+    "accident_mechanism": "Sturz vom Fahrrad",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild: Hüftfraktur",
+      "Röntgen Thorax: Pneumohemothorax"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hüftfraktur",
+      "Pneumohemothorax"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Hüfte",
+      "Röntgen Thorax"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Pneumohemothorax"
+    ],
+    "follow_up": [
+      "Drainage"
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Klaus Schuster - Retrosternale Druckschmerzen mit Ausstrahlung",
+    "patient_age": "63J",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Retrosternale Druckschmerzen mit Ausstrahlung in den linken Arm",
+      "Schmerzen dauerten einige Minuten an",
+      "Schmerzen verschwanden in Ruhe",
+      "Schmerzintensität 7/10",
+      "Schwindel"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG beim Hausarzt unauffällig"
+    ],
+    "laboratory_findings": [
+      "Schnelltest unauffällig"
+    ],
+    "suspected_diagnosis": [
+      "ACS (Akutes Koronarsyndrom)",
+      "KHK (Koronare Herzkrankheit)"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Schnelltest (Troponin)"
+    ]
+  }
+]

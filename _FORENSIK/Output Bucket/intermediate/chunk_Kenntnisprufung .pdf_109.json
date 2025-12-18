@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Akute Divertikulitis mit Unterbauchschmerzen bei 63-jähriger Frau",
+    "patient_age": "63-jährig",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Akute linksseitige stechende Unterbauchschmerzen",
+      "Einschleichende Schmerzzunahme über 3 Tage",
+      "Schmerzausstrahlung in den ganzen Bauch",
+      "Fieber 38,4°C",
+      "Kopfschmerzen",
+      "Übelkeit ohne Erbrechen",
+      "Flatulenz"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Verstopfung (behandelt mit Gleitmittel aus der Apotheke)",
+      "Zustand nach Fahrradunfall",
+      "Probleme mit dem Wasserlassen (geplante spätere OP)"
+    ],
+    "comorbidities": [
+      "Niedriger Vitamin D-Spiegel"
+    ],
+    "risk_factors": [
+      "Schlechte Ernährung (viele Kekse und Schokolade)",
+      "Viel Stress auf der Arbeit"
+    ],
+    "family_history": [
+      "Vater mit 85 Jahren an Herzerkrankung verstorben",
+      "Mutter lebt, kürzlich verbrannt und im Haus aufgenommen"
+    ],
+    "social_history": [
+      "Wohnt mit Ehemann",
+      "2 Töchter",
+      "3 Enkelkinder"
+    ],
+    "medications": [
+      "Vitamin D",
+      "Gelegentlich Ibuprofen"
+    ],
+    "allergies": [
+      "Hühnereiweiß"
+    ],
+    "vital_signs": [
+      "Blutdruck 125/70 mmHg",
+      "Fieber 38,4°C"
+    ],
+    "physical_examination": [
+      "Herz-Lunge-Untersuchung unauffällig",
+      "Nierenuntersuchung unauffällig",
+      "Druckschmerzen im linken Unterbauch",
+      "Abwehrspannung im linken Unterbauch"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akute Divertikulitis (Verdachtsdiagnose)",
+      "Pyelonephritis",
+      "Rektumkarzinom",
+      "Akute Appendizitis",
+      "Gynäkologische Ursachen"
+    ],
+    "diagnostic_approach": [
+      "Labor (TSH, CRP)",
+      "Bauch-Ultraschall",
+      "Stationäre Aufnahme",
+      "Ausschluss Harnwegsinfekt"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Blut im Toilettenpapier vor einer Woche"
+    ],
+    "follow_up": []
+  }
+]

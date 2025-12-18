@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 33/84) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Lernkarteninhalten zu Pneumonie** (3.23):\n   - Erreger-Auflistungen (nosokomial, Immunsupprimierte)\n   - Klinik (typische vs. atypische Pneumonie)\n   - Diagnostik (Anamnese, KU, Labor, Apparativ)\n   - Therapie (CRB65-Score, Antibiotikatherapie)\n   - Komplikationen und Prävention\n\n2. **Lernkarteninhalten zu Tuberkulose** (3.24):\n   - Definition und Klinik\n   - Ätiologie\n   - Diagnostik (indirekte und direkte Erregerdiagnostik)\n   - Therapie (Sechsfach-Kombinationstherapie)\n   - Differentialdiagnosen\n\nDies sind **strukturierte Lehrbuchinformationen** und **theoretische Übersichten** zu Krankheitsbildern, jedoch **keine konkreten Patientenfälle** mit individuellen Anamnesen, Untersuchungsbefunden oder spezifischen klinischen Präsentationen."
+  }
+]

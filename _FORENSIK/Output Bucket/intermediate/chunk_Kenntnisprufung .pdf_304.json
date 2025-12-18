@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Linksseitige Brustschmerzen bei bekannter Hypertonie und Diabetes",
+    "patient_age": "63 Jahre",
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "Linksseitige Brustschmerzen",
+      "Ausstrahlung in die linke Schulter",
+      "Aktuell noch Brustschmerzen vorhanden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Diabetes mellitus",
+      "Hypothyreose"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Bekommt gut Luft",
+      "Körperliche Untersuchung begonnen aber nicht vollständig durchgeführt"
+    ],
+    "imaging_findings": [
+      "EKG beim Hausarzt war unauffällig"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "KHK (Koronare Herzkrankheit)",
+      "Initial fälschlicherweise als Herzinsuffizienz eingeschätzt"
+    ],
+    "diagnostic_approach": [
+      "Anamnese durchgeführt",
+      "Körperliche Untersuchung begonnen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

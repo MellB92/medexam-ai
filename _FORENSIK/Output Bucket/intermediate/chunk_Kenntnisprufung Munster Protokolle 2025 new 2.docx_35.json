@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Hyperthyreose mit typischen Beschwerden (15.03 #2)",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Herzrasen",
+      "Nervosität",
+      "breiige Stühle",
+      "Schwitzen auch am Tag",
+      "Wärmeintoleranz",
+      "Gewichtsabnahme trotz normalem Appetit",
+      "Zittern"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Vitalzeichen",
+      "Herz und Lungen nur Auskultation",
+      "Abdomen",
+      "neurologische Untersuchung"
+    ],
+    "imaging_findings": [
+      "EKG unauffällig",
+      "Echo: Echoarme Läsionen",
+      "Doppler: hypervaskulär",
+      "Szintigraphie: Heiße Knoten",
+      "Röntgen Thorax: Kardiomegalie mit Stauungszeichen (Herzinsuffizienz)",
+      "Endoskopie: Magenhydpertrophie"
+    ],
+    "laboratory_findings": [
+      "TSH",
+      "fT3 und fT4",
+      "TRAK",
+      "TAK",
+      "TPO-AK",
+      "BGA: Diabetes ketoazidose"
+    ],
+    "suspected_diagnosis": [
+      "Hyperthyreose",
+      "Morbus Basedow",
+      "Adenom",
+      "Autonomie"
+    ],
+    "diagnostic_approach": [
+      "Labor: TSH, fT3, fT4, TRAK, TAK, TPO-AK",
+      "EKG",
+      "Echokardiographie",
+      "Doppler",
+      "Szintigraphie"
+    ]
+  },
+  {
+    "title": "Hyperthyreose mit Augensymptomatik (15.03 #1 - nicht bestanden)",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Tachykardie",
+      "Schwitzen",
+      "Nervosität",
+      "seltsames Gefühl in den Augen",
+      "Beschwerden seit etwa 4 Wochen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "allergische Rhinitis",
+      "Unverträglichkeit gegenüber Milchprodukten",
+      "vor 8 Wochen Bauchschmerzen mit Verdacht auf Darmverschluss (CT-ausgeschlossen)",
+      "vor zwei Jahren Magenerreger",
+      "Kaiserschnitt",
+      "zwei Kinder"
+    ],
+    "medications": [
+      "regelmäßig keine Medikamente",
+      "vor zwei Jahren Therapie mit großer Anzahl von Tabletten wegen Magenerreger"
+    ],
+    "allergies": [
+      "Milchprodukte"
+    ],
+    "physical_examination": [
+      "Bauch: nur palpiert (inkomplett - Leber- und Milzgröße nicht bestimmt)",
+      "Lunge: nur auskultiert",
+      "Puls an den Beinen nicht überprüft"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Thyreotoxikose (VD)",
+      "M. Basedow",
+      "AIT",
+      "VHF",
+      "Panikattacke"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung (inkomplett durchgeführt)"
+    ]
+  }
+]

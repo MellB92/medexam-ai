@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle** mit ausreichenden Details für eine strukturierte Extraktion.\n\nDer Text besteht aus:\n\n1. **Prüfungsfragen mit Antworten (Fragen 4-11 aus einem früheren Fall):**\n   - Theoretische Fragen zu Differenzialdiagnosen, Therapien, Komplikationen\n   - Keine vollständigen Patientenpräsentationen\n   - Beispiel: \"Welche Differenzialdiagnosen erwägen Sie?\" → \"Angina Pectoris, KHK\"\n\n2. **Neue Prüfungsfragen (Kenntnispruefung-Allgemein-42.txt, Fragen 1-8):**\n   - Alle mit \"Antwort des Prüflings: > Nicht im Protokoll enthalten\"\n   - Keine dokumentierten Antworten oder Details\n   - Lediglich Aufzählungen von Themen (z.B. \"Schultergelenkluxation\", \"Akute Appendizitis\")\n   - **Keine ausreichenden klinischen Details** für eine Fallextraktion\n\n**Fehlende Elemente für vollständige Fälle:**\n- Keine Patientenvorstellung mit Alter/Geschlecht\n- Keine Anamnese oder chief complaints\n- Keine dokumentierten Untersuchungsbefunde\n- Nur Stichworte zu Themen, keine narrativen Fallbeschreibungen\n\nDaher: **Leeres Array**"
+  }
+]

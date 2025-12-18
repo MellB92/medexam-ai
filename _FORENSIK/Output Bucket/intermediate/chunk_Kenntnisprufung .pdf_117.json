@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Chronische epigastrische Beschwerden mit Verdacht auf Gastritis/H. pylori",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "mild",
+    "chief_complaints": [
+      "Epigastrische Beschwerden seit Monaten",
+      "Völlegefühl",
+      "Schmerzen nach dem Essen",
+      "Sodbrennen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Keine Medikamente",
+      "Keine NSAID"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Gastritis",
+      "Helicobacter pylori Infektion"
+    ],
+    "diagnostic_approach": [
+      "Therapieversuch mit PPI hochdosiert für 4 Wochen",
+      "Normale PPI-Dosierung für weitere 4 Wochen",
+      "Bei Nicht-Besserung: ÖGD",
+      "Bei Ablehnung der ÖGD: Nicht-invasive H. pylori-Diagnostik (Harnstoff-Atemtest)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Humerusfraktur nach Sturz von 2 Meter Höhe",
+    "patient_age": "62 Jahre",
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schulterschmerzen links",
+      "Unvermögen den linken Arm zu bewegen",
+      "Übelkeit nach Sturz"
+    ],
+    "accident_mechanism": "Sturz von 2 Meter Höhe beim Decke streichen, vom Leiter gerutscht, auf die linke Seite gefallen, nicht bewusstlos, konnte aufgrund der Schmerzen eine Weile nicht aufstehen",
+    "pre_existing_conditions": [
+      "Zustand nach laparoskopischer Cholezystektomie",
+      "Zustand nach Prostatektomie bei Prostatakarzinom"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Im Urlaub",
+      "Nachbarschaftshilfe beim Nachbarn"
+    ],
+    "medications": [
+      "Keine Dauermedikation"
+    ],
+    "allergies": [
+      "Penicillin",
+      "Mehrere weitere Antibiotika (nicht genau erinnerlich)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Schmerzen initial 9/10 NRS",
+      "Schmerzen nach Analgetika-Infusion 6/10 NRS",
+      "Linker Arm nicht bewegbar",
+      "Schurfwunde am linken Oberarm (bereits mit Pflaster versorgt)",
+      "Patient kam zu Fuß in den Raum, stöhnend"
+    ],
+    "imaging_findings": [
+      "Dislozierte subkapitale Humerusfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Dislozierte subkapitale Humerusfraktur links",
+      "Mögliche Begleitverletzungen: Milzruptur",
+      "Möglicher Pneumothorax",
+      "Mögliche Calcaneusfraktur",
+      "Mögliche Nervenverletzungen (N. axillaris, N. radialis, Plexus brachialis)",
+      "Mögliche Gefäßverletzungen",
+      "Mögliche Rotatorenmanschettenruptur"
+    ],
+    "diagnostic_approach": [
+      "Nahttechniken gezeigt (Einzelknopfnaht)"
+    ],
+    "treatment_response": [
+      "Schmerzreduktion nach Analgetika-Gabe durch Notarzt"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Tetanus-Impfung vor 6-7 Jahren aufgefrischt"
+    ]
+  }
+]

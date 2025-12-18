@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** (Frage 683, 686)\n2. **Allgemeinem medizinischen Wissen**:\n   - NYHA-Klassifikation und deren objektive Ermittlung\n   - BNP-Werte als Cut-off-Werte für verschiedene NYHA-Stadien\n   - Glasgow Coma Scale (GCS) Bewertungssystem\n3. **Referenzwerten und Guidelines** (ESC Heart Failure Guidelines 2021)\n\nEs handelt sich um **Lehrmaterial/Prüfungsvorbereitung** ohne konkrete Patientenfalldarstellungen mit Anamnese, Symptomen, Untersuchungsbefunden oder diagnostischen Überlegungen zu einem spezifischen Patienten."
+  }
+]

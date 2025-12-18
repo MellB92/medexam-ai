@@ -1,0 +1,168 @@
+[
+  {
+    "title": "Mechanischer Dünndarmileus mit Bridenbildung",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "kein Stuhl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Voroperationen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "DRU ohne Stuhl",
+      "klinische Zeichen eines Ileus"
+    ],
+    "imaging_findings": [
+      "Abdomensonographie",
+      "Röntgen Abdomen mit Dünndarmileus und deutlicher Spiegelbildung",
+      "ödematöse Dünndarmschlinge",
+      "Brida sichtbar"
+    ],
+    "laboratory_findings": [
+      "BD 80/40",
+      "HF 120"
+    ],
+    "suspected_diagnosis": [
+      "mechanischer Dünndarmileus",
+      "Sepsis"
+    ],
+    "diagnostic_approach": [
+      "Abdomensonographie",
+      "Röntgen Abdomen",
+      "Laparotomie"
+    ]
+  },
+  {
+    "title": "Nebennierenadenokortizismus mit Gewichtszunahme",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "30 kg Gewichtszunahme in einem Jahr"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "adipöse Patientin"
+    ],
+    "imaging_findings": [
+      "Raumforderung in Nebennieren im CT-Abdomen"
+    ],
+    "laboratory_findings": [
+      "ACTH erniedrigt",
+      "Kortisol in Serum",
+      "Dexamethason-Kurztest",
+      "Dexamethason-Langtest"
+    ],
+    "suspected_diagnosis": [
+      "Hypercortisolismus",
+      "adrenergenes Cushing-Syndrom"
+    ],
+    "diagnostic_approach": [
+      "Abdomensonografie",
+      "CT-Abdomen",
+      "ACTH in Serum",
+      "Kortisol in Serum",
+      "Dexamethason-Kurztest und Langtest"
+    ]
+  },
+  {
+    "title": "Funikuläre Myelose bei Vitamin-B12-Mangel vor Hüft-OP",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Parästhesien",
+      "Pallhypästhesie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Vitamin-B12-Mangel",
+      "geplante Hüft-OP"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Parästhesie",
+      "Pallhypästhesie",
+      "Romberg positiv",
+      "neurologische Untersuchung auffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "funikuläre Myelose",
+      "perniziöse Anämie",
+      "Typ-A-Gastritis"
+    ],
+    "diagnostic_approach": [
+      "neurologische Untersuchung",
+      "Vitamin-B12-Bestimmung"
+    ]
+  },
+  {
+    "title": "Anämie bei Routinekontrolle vor TEP-Implantation",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Anämie bei Routinekontrolle",
+      "Kribbelparästhesien an den Füßen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "starke Coxarthrose",
+      "schlecht eingestellter Diabetes mellitus",
+      "chronischer NSAR-Abusus"
+    ],
+    "medications": [
+      "NSAR chronisch"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Kribbelparästhesien an den Füßen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Blutungsanämie bei chronischem NSAR-Abusus",
+      "obere GI-Blutung",
+      "Sickerblutung bei Ulkus",
+      "Eisenmangelanämie bei Karzinom",
+      "Polyneuropathie",
+      "Vitamin-B12-Mangel durch Typ-A-Gastritis"
+    ],
+    "diagnostic_approach": [
+      "Labor",
+      "ÖGD bei Verdacht auf GI-Blutung",
+      "Vitamin-B12-Bestimmung"
+    ]
+  },
+  {
+    "title": "Herzinsuffizienz durch Myokarditis",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Symptome der Herzinsuffizienz"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Herzinsuffizienz durch Myokarditis"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung"
+    ]
+  }
+]

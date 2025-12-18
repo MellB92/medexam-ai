@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Oberschenkelhalsfraktur nach Sturz\",\n    \"patient_age\": \"67-jährige\",\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\n      \"gestürzt auf der Seite\",\n      \"kann das Bein nicht mehr bewegen\"\n    ],\n    \"accident_mechanism\": \"gestern nacht gestürzt auf der Seite\",\n    \"pre_existing_conditions\": [\n      \"Diabetes mellitus Typ 2\",\n      \"Z.n. Cholezystektomie\",\n      \"TVT\",\n      \"Analfistel\"\n    ],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\n      \"bradykardes HRS\",\n      \"alle Pulse tasten (Carotis, radial, ulnar, femoral, tibial posterior, pedis dorsalis)\",\n      \"Auskultation an ICR\",\n      \"neurologische Untersuchung mit Reflexen\"\n    ],\n    \"imaging_findings\": [\n      \"Beckenübersichtaufnahme mit Stauchungsfraktur des Oberschenkelhals\",\n      \"Oberschenkelhalsfraktur mit vollständiger Dislokation\",\n      \"mediale und laterale Femur-Kopf-Fraktur\"\n    ],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Oberschenkelhalsfraktur\"\n    ],\n    \"diagnostic_approach\": [\n      \"Beckenübersichtaufnahme\",\n      \"Klassifikation nach Garden und Pauwels\",\n      \"Winkelmessung bei Pauwels\"\n    ]\n  }\n]\n```"
+  }
+]

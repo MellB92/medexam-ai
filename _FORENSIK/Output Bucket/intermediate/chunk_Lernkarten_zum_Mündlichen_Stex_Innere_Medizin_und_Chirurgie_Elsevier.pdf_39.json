@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Lernkarten-Material zu Laborwerten und deren Interpretation:**\n   - Blutgasanalyse (BGA) - Normwerte und Interpretationsschema\n   - Elektrolytveränderungen (Kalium, Natrium, Kalzium) - Ursachen, Klinik, Therapie in Tabellenform\n   - Sepsis-Definitionen und Scores (SOFA, qSOFA)\n\n2. **Theoretisches Wissen in strukturierter Form:**\n   - Normwerte\n   - Differenzialdiagnosen\n   - Therapieschemata\n   - Pathophysiologische Erklärungen\n\nEs handelt sich um **didaktisches Lehrmaterial** ohne konkrete Patientenvorstellungen, Fallbeispiele oder klinische Szenarien mit individuellen Patienten."
+  }
+]

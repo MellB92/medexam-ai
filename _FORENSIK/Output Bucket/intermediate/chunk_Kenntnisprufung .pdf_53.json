@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Epigastrische Schmerzen und GERD bei NSAR-Einnahme",
+    "patient_age": "62 Jahre",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Brennende epigastrische Schmerzen seit 1-2 Wochen",
+      "Verschlimmerung beim Liegen und nach dem Essen",
+      "Appetitlosigkeit",
+      "Gewichtsverlust 3kg in 3 Monaten",
+      "Schlafstörungen wegen Aufstoßen",
+      "Linker Ellenbogenschmerz (belastungsabhängig, keine Ausstrahlung)"
+    ],
+    "accident_mechanism": "Motorradunfall vor 4 Monaten (Ellenbogenverletzung)",
+    "pre_existing_conditions": [
+      "Zustand nach Plattenosteosynthese linker Ellenbogen vor 4 Monaten",
+      "Zustand nach laparoskopischer APE vor kurzem",
+      "Hypothyreose"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Rauchen 1 Packung pro Tag",
+      "Alkoholkonsum (Wein, hat aufgehört wegen Beschwerden)"
+    ],
+    "family_history": [
+      "Vater: Bauchspeicheldrüsen-Karzinom",
+      "Mutter: lebt noch",
+      "Bruder: Milzentfernung nach Motorradunfall",
+      "Schwester: nimmt Cortisol, hat Vollmond-Gesicht"
+    ],
+    "social_history": [
+      "Beruf: Gärtner",
+      "Verheiratet",
+      "2 Kinder"
+    ],
+    "medications": [
+      "L-Thyroxin 100 mcg",
+      "Ibuprofen 600 mg 1-3x täglich"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "vital_signs": [
+      "RR gemessen beidseits"
+    ],
+    "physical_examination": [
+      "Körperliche Untersuchung durchgeführt (Details nicht spezifiziert)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "GERD (gastroösophageale Refluxkrankheit)",
+      "Ibuprofen-induzierte Gastritis",
+      "GERD mit Läsion",
+      "Halsbeschwerden durch Säurereflux"
+    ],
+    "diagnostic_approach": [
+      "ÖGD (Ösophagogastroduodenoskopie)",
+      "Probenentnahme bei ÖGD"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Halsbeschwerden durch Reflux"
+    ],
+    "follow_up": []
+  }
+]

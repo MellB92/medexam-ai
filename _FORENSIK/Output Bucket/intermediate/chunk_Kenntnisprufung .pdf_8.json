@@ -1,0 +1,224 @@
+[
+  {
+    "title": "Abdominales Trauma mit Darmperforation",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "Prellmarke am Abdomen",
+      "Abdominalschmerzen"
+    ],
+    "accident_mechanism": "Trauma mit Prellmarke am Abdomen",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Prellmarke am Abdomen"
+    ],
+    "imaging_findings": [
+      "Röntgen-Thorax mit Abdomenübersicht: Freie Luft unter rechter Zwerchfellkuppe",
+      "EFAST: Flüssigkeit in Morrison, Kollarpouch, Douglaus Raum bei Frau und Proust Raum bei Mann",
+      "Abdominale Perforation mit freier Luft am Zwerchfellkuppe rechts"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Darm- oder Magenperforation",
+      "Ulcus als Ursache"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax mit Abdomenübersicht",
+      "EFAST"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Mögliche Ruptur oder Verletzung im Bereich thorakales Duodenum"
+    ],
+    "follow_up": [
+      "Notfall-Laparotomie",
+      "Chirurgisches Fach oder Oberarzt rufen"
+    ]
+  },
+  {
+    "title": "Femurschaftfraktur bei Kind",
+    "patient_age": "Kind",
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Oberschenkel rechts AP-Aufnahme mit sichtbarer Epiphysenfuge",
+      "Links: Femurschaftfraktur mit Winkel 170 Grad",
+      "Röntgen mit elastischer Marknagelung - teilweise mit Komplikation (intraartikuläre Dislokation)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Femurschaftfraktur links"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Oberschenkel"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Intraartikuläre Dislokation"
+    ],
+    "follow_up": [
+      "Behandlung mit elastischer Marknagelung"
+    ]
+  },
+  {
+    "title": "Femurschaftfraktur bei Erwachsenem",
+    "patient_age": "Erwachsener",
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Oberschenkel rechts mit Femurschaftfraktur",
+      "Einfache schräge Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Femurschaftfraktur rechts, einfache schräge Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Oberschenkel"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Osteomyelitis bei Plattenosteosynthese"
+    ],
+    "follow_up": [
+      "Behandlung mit Marknagelung",
+      "Alternative: Platten- und Schraubenosteosynthese"
+    ]
+  },
+  {
+    "title": "Hinterwandinfarkt nach Sturz mit Kammerflimmern",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "Halsschmerzen seit 30 Minuten"
+    ],
+    "accident_mechanism": "Sturz",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Puls untersucht",
+      "Halsvenenstauungen geprüft"
+    ],
+    "physical_examination": [
+      "Herzauskultation: Systolikum oder Diastolikum",
+      "Lungen: Rasselgeräusche"
+    ],
+    "imaging_findings": [
+      "EKG mit Hinterwandinfarkt",
+      "2. EKG mit Kammerflimmern"
+    ],
+    "laboratory_findings": [
+      "hs-Troponin"
+    ],
+    "suspected_diagnosis": [
+      "Hinterwandinfarkt",
+      "Kammerflimmern"
+    ],
+    "diagnostic_approach": [
+      "SAMPLER-Schema Anamnese",
+      "EKG",
+      "hs-Troponin",
+      "Echokardiographie"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Kammerflimmern"
+    ],
+    "follow_up": [
+      "ASS 250mg i.v.",
+      "Heparin 70IE/kg",
+      "Sauerstoff",
+      "Nitrospray nach Bedarf",
+      "Morphin i.v. gegen Schmerz",
+      "Herzkatheter Labor",
+      "Betablocker vermeiden",
+      "Reanimationsmaßnahmen mit Defibrillation",
+      "Kompression 5-6cm tief, Frequenz 110-120/min",
+      "Adrenalin 1mg i.v. alle 3 Min",
+      "Amiodaron 300mg nach 3. Schock und 150mg nach 5. Schock"
+    ]
+  },
+  {
+    "title": "Colles Fraktur mit multiplen Verletzungen",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "HRS (Herzrhythmusstörungen)",
+      "Darmpolypen",
+      "Z.n. Bauchnabel Hernie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Normale körperliche Untersuchung"
+    ],
+    "imaging_findings": [
+      "Röntgen: Einfache Colles Fraktur",
+      "Weitere Röntgenbilder: Smith Fraktur",
+      "Hämothorax (schlechte Bildqualität)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Colles Fraktur",
+      "Verdacht auf Kahnbeinfraktur",
+      "Rippenfraktur",
+      "Verdacht auf Hämothorax"
+    ],
+    "diagnostic_approach": [
+      "Röntgenbilder"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Komplikationen von Reposition",
+      "Hämothorax durch Rippenbruch mit Verlust des negativen Drucks und Blutsammlung zwischen Pleuraspalten"
+    ],
+    "follow_up": [
+      "Reposition",
+      "Narkose erforderlich"
+    ]
+  }
+]

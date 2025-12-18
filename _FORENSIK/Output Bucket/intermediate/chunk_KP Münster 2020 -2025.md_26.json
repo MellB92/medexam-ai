@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Distale Tibiaschaftfraktur mit Fibulafrakturen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": "Unterschenkelfraktur",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Distale Tibia Schaftfraktur (Keilfraktur)",
+      "Proximale Fibulafraktur",
+      "Distale Fibulafraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Distale Tibiaschaftfraktur",
+      "Proximale und distale Fibulafraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Unterschenkel"
+    ]
+  },
+  {
+    "title": "Spirale Tibiafraktur mit subkapitaler Fibulafraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Spirale Fraktur der Tibia",
+      "Unkomplizierte subkapitale Fibulafraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Spirale Tibiafraktur",
+      "Subkapitale Fibulafraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen (4 Aufnahmen)"
+    ]
+  },
+  {
+    "title": "Spirale Tibiafraktur mit proximaler Fibulafraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Spirale Tibiafraktur",
+      "Proximale Fibulafraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Spirale Tibiafraktur",
+      "Proximale Fibulafraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen"
+    ]
+  },
+  {
+    "title": "Tibiakopffraktur ohne Gelenkbeteiligung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Tibiakopffraktur",
+      "Gelenk nicht beteiligt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tibiakopffraktur ohne Gelenkbeteiligung"
+    ],
+    "diagnostic_approach": [
+      "Röntgen"
+    ]
+  }
+]

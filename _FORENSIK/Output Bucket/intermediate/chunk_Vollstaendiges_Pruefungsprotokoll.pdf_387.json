@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Riesenzellarteritis (Arteriitis temporalis)\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\n      \"Kopfschmerzen seit ca. 2 Wochen\",\n      \"langsam aufgetreten, pochend\",\n      \"lokalisiert im Stirn- und Schläfenbereich\",\n      \"Schmerzen beim Kauen\",\n      \"Schmerzen beim Haare Kämmen\",\n      \"verschwommenes Sehen rechts\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"RZA (Riesenzellarteritis)\"\n    ],\n    \"diagnostic_approach\": [\n      \"Biopsie (Goldstandard)\",\n      \"Doppler-Untersuchung\"\n    ]\n  }\n]\n```"
+  }
+]

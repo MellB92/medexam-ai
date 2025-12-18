@@ -1,0 +1,99 @@
+[
+  {
+    "title": "GERD mit epigastrischen Schmerzen nach NSAID-Einnahme",
+    "patient_age": "67-jährige",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "epigastrische Schmerzen",
+      "brennende Schmerzen",
+      "retrosternale Ausstrahlung",
+      "vom Nahrung und Lage abhängig",
+      "Regurgitation",
+      "Meteorismus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Handgelenkfraktur (vor 5 Monaten)"
+    ],
+    "medications": [
+      "viel NSAID in letzten 5 Monaten"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Untersuchung von Kopf bis Fuß durchgeführt",
+      "Reflexe untersucht"
+    ],
+    "imaging_findings": [
+      "ÖGD Bilder"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "GERD",
+      "Angina Pectoris (DD)"
+    ],
+    "diagnostic_approach": [
+      "Anamnese (Schmerzanamnese, B-Symptomatik, Vorerkrankungen)",
+      "körperliche Untersuchung",
+      "Laborwerte",
+      "ÖGD",
+      "ÖGD Kontrolle"
+    ]
+  },
+  {
+    "title": "ACS Vorderwand STEMI",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [
+      "Medikamente nach Stent-Anlage",
+      "Sekundärprophylaxe"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit STEMI der Vorderwand",
+      "deutliche ST-Hebungen in V1-V6",
+      "Bild von PTCA",
+      "Gefäßdarstellung mit Verschluss"
+    ],
+    "laboratory_findings": [
+      "Troponin T",
+      "CK",
+      "CK-MB",
+      "proBNP"
+    ],
+    "suspected_diagnosis": [
+      "KHK",
+      "Vorderwand-STEMI"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Ergometrie",
+      "Stressecho (besser als Ergometrie, da Wandbewegungsstörungen vor EKG-Veränderungen sichtbar)",
+      "PTCA mit Stent-Anlage"
+    ]
+  },
+  {
+    "title": "Tuberkulose",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild Thorax mit TBC-typischen Veränderungen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tuberkulose"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Thorax"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 3/115) enthält **keine klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Abkürzungsverzeichnis** (AAA bis Z): Eine alphabetische Liste medizinischer und pharmakologischer Abkürzungen (z.B. DHT, DNA, GABA, HIV, etc.)\n\n2. **Abbildungsnachweis**: Quellenangaben für Grafiken und Abbildungen\n\n3. **Kapitelübersicht** (\"Tag 1\" mit Outline zu: Pharmakologische Parameter, Vegetatives Nervensystem, Hormone, etc.)\n\n4. **Theoretischer Lehrbuchtext**: Allgemeine pharmakologische Grundlagen zu:\n   - Pharmakokinetik (Resorption, Verteilung, Elimination)\n   - Transportmechanismen (Diffusion, aktiver Transport)\n   - Metabolismus\n\nEs handelt sich um rein theoretisches Lehrmaterial aus einem Pharmakologie-Lehrbuch ohne konkrete Patientenbeispiele oder klinische Falldarstellungen."
+  }
+]

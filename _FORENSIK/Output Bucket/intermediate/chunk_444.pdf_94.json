@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 95/155) enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Differentialdiagnostischer Tabelle** zu verschiedenen Anämieformen (mikrozytär, normozytär, makrozytär)\n2. **Lehrbuchinformationen zu Eisenmangel** und Eisenmangelanämie:\n   - Stadien\n   - Ätiologie\n   - Pathophysiologie\n   - Symptome/Klinik\n   - Diagnostik\n   - Therapie\n3. **Theoretischen Informationen zu Transfusionen**:\n   - AB0-System und Rhesus-System\n   - Verträglichkeitsprüfung\n   - Bedside-Test\n\nEs handelt sich um **didaktisches/theoretisches Material** ohne konkrete Patientenbeispiele, Kasuistiken oder klinische Präsentationsfälle."
+  }
+]

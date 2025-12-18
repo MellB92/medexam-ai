@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Pyelonephritis mit Asthma bronchiale und Diabetes mellitus Typ I",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen in der linken Flanke",
+      "Dysurie",
+      "Fieber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Asthma bronchiale",
+      "Diabetes mellitus Typ I",
+      "Knieverletzung vor 1 Woche"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Atemgeräusche beurteilt",
+      "Herztöne beurteilt",
+      "Herzgeräusche Ausstrahlung beurteilt",
+      "Knieuntersuchung: Tanzendepatella",
+      "Schubladentest",
+      "Lachmann-Test",
+      "Gravity-Sign"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pyelonephritis"
+    ],
+    "diagnostic_approach": [
+      "Urin-Stix",
+      "Urin-Sediment"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

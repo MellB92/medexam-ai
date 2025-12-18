@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Diabetes mellitus Typ II mit Leitsymptomen",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Müdigkeit",
+      "Leistungsminderung",
+      "Polyurie",
+      "Polydipsie",
+      "rezidivierende Infektionen seit fünf Monaten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Patient war freundlich und kooperativ"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "HbA1c-Wert 5,9 %"
+    ],
+    "suspected_diagnosis": [
+      "Diabetes mellitus Typ II"
+    ],
+    "diagnostic_approach": [
+      "HbA1c-Bestimmung",
+      "OGTT (oraler Glukosetoleranztest)",
+      "Laborwerte typisch bei DM"
+    ]
+  },
+  {
+    "title": "Vorderwandinfarkt mit Linksschenkelhemiblock",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: Vorderwandinfarkt mit Linksschenkelhemiblock"
+    ],
+    "laboratory_findings": [
+      "kardiales Troponin (Wert nicht spezifiziert)"
+    ],
+    "suspected_diagnosis": [
+      "Vorderwandinfarkt",
+      "Myokardinfarkt",
+      "Chronisches Koronarsyndrom (CCS)"
+    ],
+    "diagnostic_approach": [
+      "kardiales Troponin bestimmen",
+      "EKG-Diagnostik"
+    ]
+  }
+]

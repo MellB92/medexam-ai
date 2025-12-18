@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Akutes Koronarsyndrom mit retrosternalen Schmerzen",
+    "patient_age": "63J",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Retrosternale drückende Schmerzen mit Ausstrahlung in den linken Arm",
+      "Schmerzen hielten einige Minuten an und verschwanden in Ruhe",
+      "Schmerzintensität 7/10",
+      "Schwindel"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit Hinterwandinfarkt"
+    ],
+    "laboratory_findings": [
+      "Schnelltest beim Hausarzt initial unauffällig"
+    ],
+    "suspected_diagnosis": [
+      "ACS (Akutes Koronarsyndrom)",
+      "STEMI Hinterwand",
+      "Beteiligung der rechten Koronararterie"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Schnelltest",
+      "Herzkatheter-Verlegung geplant"
+    ]
+  }
+]

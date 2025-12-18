@@ -1,0 +1,161 @@
+[
+  {
+    "title": "Schub von Colitis ulcerosa bei 31-jähriger Frau",
+    "patient_age": "31 Jahre",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen im linken Abdomen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Colitis ulcerosa",
+      "Lebererkrankung in der Kindheit (Morbus Meulengracht)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Kein Fieber",
+      "Kein SIRS"
+    ],
+    "physical_examination": [
+      "Normal",
+      "Schmerzen bei der Palpation des linken Abdomens",
+      "Keine weiteren pathologischen Befunde"
+    ],
+    "imaging_findings": [
+      "Koloskopie: fibrinbelegte Ulcera",
+      "Koloskopie: gerötete Darmwand"
+    ],
+    "laboratory_findings": [
+      "Leukozyten: 14.000",
+      "Hb: 8,2 g/dL",
+      "Anämie mikrozytär hypochrom",
+      "CRP: 40"
+    ],
+    "suspected_diagnosis": [
+      "Schub von Colitis ulcerosa",
+      "Eisenmangelanämie"
+    ],
+    "diagnostic_approach": [
+      "Koloskopie",
+      "Eisenparameter bestimmen",
+      "Ferritin und Transferrin-Sättigung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Ärztliches Dilemma bei 81-jähriger Frau vor TEP-Operation",
+    "patient_age": "81 Jahre",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Tochter in den USA"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Keine Exsikkose",
+      "Keine Elektrolytstörungen",
+      "Normale Glukose"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Normale Glukose",
+      "Keine Elektrolytstörungen"
+    ],
+    "suspected_diagnosis": [
+      "Bedenken bezüglich der TEP-Operation"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Entscheidung über Entlassung oder OP"
+    ]
+  },
+  {
+    "title": "Patient aus Afghanistan mit Tuberkulose-Verdacht",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Husten",
+      "Fieber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "aus Afghanistan"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Reduzierter Allgemeinzustand"
+    ],
+    "imaging_findings": [
+      "Rö-Thorax: Verschattung in einem Lungenflügel mit Kaverne"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tuberkulose"
+    ],
+    "diagnostic_approach": [
+      "Tuberkulose-Bestätigung erforderlich"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Ältere Patientin mit Fraktur und nächtlichem Delir",
+    "patient_age": "älter",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "nächtliche Unruhe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Fraktur"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Unruhig in der Nacht"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Delir (hyperaktive Form)"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "stationär aufgenommen"
+    ]
+  }
+]

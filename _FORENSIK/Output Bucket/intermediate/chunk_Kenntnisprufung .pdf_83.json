@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Arterielle Hypertonie mit linksventrikulärer Hypertrophie und chronischer Bronchitis",
+    "patient_age": null,
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "chronische Bronchitis",
+      "arterielle Hypertonie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Lisinopril (ACE-Hemmer)"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck 150/90 mmHg"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: Sinusrhythmus",
+      "Linksachsenabweichung",
+      "ST-Senkung in V4",
+      "Sokolov-Lyon-Index positiv für linksventrikuläre Hypertrophie",
+      "Erhöhte R- und S-Wellen in Brustableitungen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Linksventrikuläre Hypertrophie bei arterieller Hypertonie",
+      "Zustand nach Myokardinfarkt (DD)"
+    ],
+    "diagnostic_approach": [
+      "Langzeit-Blutdruckmessung",
+      "Non-Dipper-Diagnostik bei fehlendem nächtlichem RR-Abfall",
+      "Selbstmessgerät mit zwei Manschetten (Herzhöhe und Handgelenk)"
+    ],
+    "treatment_response": [
+      "ACE-Hemmer-Therapie mit Lisinopril",
+      "Mögliche Nebenwirkung: chronischer Reizhusten bei ca. 10% der Patienten"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Cholelithiasis mit Cholezystitis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Ultraschall: Gallenblase mit Konkrementen",
+      "Dorsaler Schallschatten",
+      "Verdickte Gallenblasenwand mit Flüssigkeit im Inneren (Dreischicht-Zeichen)",
+      "Pericholezystitische Flüssigkeit um die Gallenblase",
+      "Morrison's Pouch: Raum zwischen Leber und rechter Niere"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Cholelithiasis",
+      "Cholezystitis"
+    ],
+    "diagnostic_approach": [
+      "Ultraschall"
+    ],
+    "treatment_response": [
+      "Asymptomatische Cholelithiasis: abwartende Haltung",
+      "Symptomatische Cholelithiasis: sofortige Cholezystektomie",
+      "Cholezystitis: Antibiotikatherapie und Cholezystektomie im entzündungsfreien Intervall"
+    ],
+    "complications": [
+      "Cholezystitis",
+      "Choledocholithiasis",
+      "Cholestase",
+      "Ikterus",
+      "Cholangitis bei bakterieller Besiedlung aus dem Darm",
+      "Biliäre Pankreatitis"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Instabile Beckenfraktur mit Beteiligung von vorderem und hinterem Beckenring",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Sichere Frakturzeichen: Achsenabweichung, Stufenbildung, Knochenlücke, gesteigerte Mobilität, Crepitation",
+      "Offene Fraktur",
+      "Unsichere Frakturzeichen: Calor, Rubor, Dolor, Tumor"
+    ],
+    "imaging_findings": [
+      "Röntgen Becken: kortikale Unterbrechung im hinteren Beckenring",
+      "Große dislozierte Fraktur des Schambeins (Os pubis)",
+      "Beteiligung von vorderem und hinterem Beckenring - instabile Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Instabile Beckenfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Becken"
+    ],
+    "treatment_response": [
+      "Osteosynthese"
+    ],
+    "complications": [
+      "Gefährliche Blutungen",
+      "Umliegende Gewebeschäden"
+    ],
+    "follow_up": []
+  }
+]

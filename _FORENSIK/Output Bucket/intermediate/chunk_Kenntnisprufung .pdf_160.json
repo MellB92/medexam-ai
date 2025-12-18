@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Präoperative Anämie vor geplanter Hüft-TEP bei Coxarthrose",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Anämie (durch Hausarzt bei Laborkontrolle festgestellt)",
+      "Hüftschmerzen bei fortgeschrittener Arthrose",
+      "Ungewollter Gewichtsverlust von 3kg in 5 Wochen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Fortgeschrittene Coxarthrose",
+      "Diabetes mellitus (nicht ganz gut eingestellt)",
+      "Arterielle Hypertonie",
+      "Perikarderguss (früher)"
+    ],
+    "comorbidities": [
+      "Hochgradige Abgangsstenose der A. Carotis interna"
+    ],
+    "risk_factors": [
+      "Langfristige NSAR-Einnahme (viel Ibuprofen)"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Ibuprofen (viel wegen Schmerzen)",
+      "Metformin (gut vertragen)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Patient wirkt blass",
+      "Kein Ikterus",
+      "Hüftgelenk: Arthrose mit Schmerzen",
+      "Kraftverminderung",
+      "Leichte Atrophie im M. Quadriceps",
+      "Keine Veränderung im Stuhlgang",
+      "Keine Bauchschmerzen"
+    ],
+    "imaging_findings": [
+      "Röntgenbild: Coxarthrose",
+      "Angiographie der hirnversorgenden Gefäße: hochgradige Abgangsstenose der A. Carotis interna"
+    ],
+    "laboratory_findings": [
+      "Anämie",
+      "iFOB negativ"
+    ],
+    "suspected_diagnosis": [
+      "Eisenmangelanämie",
+      "Ulkuskrankheit (wahrscheinlichste Ursache)"
+    ],
+    "diagnostic_approach": [
+      "Digitale rektale Untersuchung (DRU)",
+      "Immunologischer fäkaler okkulter Bluttest (iFOB) - negativ",
+      "Weitere Abklärung notwendig wegen falsch-negativer Rate",
+      "Echokardiographie (bei Perikarderguss-Anamnese)",
+      "Eisenstoffwechsel-Parameter"
+    ],
+    "treatment_response": [
+      "Metformin gut vertragen"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Geplante Hüft-TEP nach Anämie-Abklärung",
+      "ACE-Hemmer-Therapie (nephroprotektiv bei DM)",
+      "Weitere gastrointestinale Diagnostik bei negativem iFOB"
+    ]
+  }
+]

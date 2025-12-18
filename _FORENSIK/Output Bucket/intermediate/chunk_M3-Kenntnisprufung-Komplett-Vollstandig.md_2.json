@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 3/3) enthält **keine vollständigen klinischen Präsentationsfälle** im klassischen Sinne. \n\nDer gesamte Abschnitt besteht aus:\n\n1. **Frage-Antwort-Format (Fragen 27-45):** Theoretisches Wissen zu verschiedenen medizinischen Themen (Cushing-Syndrom, COPD, DMARDs, Rechtliche Grundlagen, etc.) - KEIN Patientenfall\n\n2. **Kategorisierte Themenlisten:**\n   - \"KLINISCHE FÄLLE NACH FACHBEREICHEN\" - Liste von Themen ohne ausgearbeitete Fälle\n   - \"FAKTENWISSEN KOMPAKT\" - Klassifikationssysteme und Referenzwerte\n   - Keine detaillierten Patientenpräsentationen\n\n3. **Statistik-Abschnitt:** Meta-Informationen über das Gesamtdokument\n\n**Was NICHT als klinischer Fall zählt:**\n- \"Milzruptur mit AAST-Klassifikation I-V\" → Nur Themennennung\n- \"Herzinsuffizienz (HFrEF vs. HFpEF)\" → Nur Kategorisierung\n- Frage 42 \"Phäochromozytom\" → Theoretische Beschreibung, kein konkreter Patient\n\n**Hinweis:** Die vollständigen klinischen Präsentationsfälle befinden sich wahrscheinlich in Chunk 1/3 oder 2/3 dieses Dokuments, wie in der Statistik erwähnt (\"Präsentationsfälle: 10\")."
+  }
+]

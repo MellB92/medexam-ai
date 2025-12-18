@@ -1,0 +1,60 @@
+[
+  {
+    "title": "63-jährige Patientin mit adrenaler Raumforderung (Inzidentalom) und Verdacht auf Osteoporose",
+    "patient_age": "63-jährig",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [
+      "Wespenstich-Allergie"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Ibuprofen",
+      "Diclofenac"
+    ],
+    "allergies": [
+      "Wespenstich mit Hals-Schwellung"
+    ],
+    "vital_signs": [
+      "RR 150/90 mmHg links",
+      "RR 140/80 mmHg rechts"
+    ],
+    "physical_examination": [
+      "Körperliche Untersuchung von Kopf bis Fuß durchgeführt",
+      "Ausführliche Wirbelsäulenuntersuchung"
+    ],
+    "imaging_findings": [
+      "Abdomensonographie: hypoechogene Raumforderung im Nebennierenbereich mit tiefer Lokalisation",
+      "Leber- und Adrenalsonographie durchgeführt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Adrenales Inzidentalom",
+      "DD: M. Conn (primärer Hyperaldosteronismus)",
+      "DD: Cushing-Syndrom",
+      "DD: Phäochromozytom",
+      "DD: Nebennierenmetastasen (SCLC, Mamma-Ca, Nieren-Ca, Malignes Melanom)",
+      "Verdacht auf Osteoporose",
+      "Grenzwertige Hypertonie"
+    ],
+    "diagnostic_approach": [
+      "Abdomensonographie (durchgeführt)",
+      "Weitere Laborbefunde ausstehend",
+      "Für M. Conn: Bestimmung von Aldosteron, Kalium, Natrium, RAAS-Aktivität",
+      "Für Osteoporose: Knochendichtemessung, Calcium, Phosphat, Alkalische Phosphatase, Parathormon, ggf. Vitamin D und Nierenparameter"
+    ],
+    "treatment_response": [
+      "Patientin war mit Anamnese und Untersuchung sehr zufrieden"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Weitere Maßnahmen nach Erhalt der Laborbefunde",
+      "Wiederholung Abdomensonographie geplant"
+    ]
+  }
+]

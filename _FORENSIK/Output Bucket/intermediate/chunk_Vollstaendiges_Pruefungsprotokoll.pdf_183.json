@@ -1,0 +1,88 @@
+[
+  {
+    "title": "Weber C Fraktur mit Syndesmosenbeteiligung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Weber C Fraktur",
+      "mögliche Beteiligung der Syndesmose"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Weber C Fraktur",
+      "Syndesmosenverletzung",
+      "hohes Risiko für Nerven- und Gefäßverletzungen"
+    ],
+    "diagnostic_approach": [
+      "Plattenosteosynthese der Fibula",
+      "Schraubenosteosynthese des Malleolus medialis",
+      "Versorgung der Syndesmose (Stellschraube oder Zuggurtung)",
+      "Teilbelastung für 6 Wochen",
+      "Thromboseprophylaxe mit NMH",
+      "Regelmäßige Wundkontrollen",
+      "Krankengymnastik und Übungen",
+      "Sportfreigabe nach 6-12 Monaten"
+    ]
+  },
+  {
+    "title": "Akute Ulkusblutung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Ulkusblutung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akute Ulkusblutung"
+    ],
+    "diagnostic_approach": [
+      "PPI i.v. (Pantoprazol 80mg i.v.)",
+      "Endoskopische Blutstillung (Unterspritzung, Clipping)",
+      "Gabe von Vasopressin/Terlipressin/Somatostatin",
+      "Operation bei Perforation oder nicht stillbaren Blutungen"
+    ]
+  },
+  {
+    "title": "Kolonkarzinom mit Lymphknotenbeteiligung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT-Abdomen: Verdacht auf Kolonkarzinom"
+    ],
+    "laboratory_findings": [
+      "Tumormarker: CEA, CA 19-9"
+    ],
+    "suspected_diagnosis": [
+      "Kolonkarzinom mit Lymphknotenbeteiligung"
+    ],
+    "diagnostic_approach": [
+      "Koloskopie mit Biopsieentnahme zur histologischen Sicherung",
+      "CT-Abdomen/Thorax",
+      "MRT-Becken",
+      "Sonographie Abdomen (Lebermetastasen)",
+      "ggf. PET-CT",
+      "Bestimmung von Tumormarkern (CEA, CA 19-9)",
+      "Je nach Staging: Operation (z.B. Hemikolektomie)",
+      "Adjuvante Chemotherapie",
+      "ggf. neoadjuvante Therapie"
+    ]
+  }
+]

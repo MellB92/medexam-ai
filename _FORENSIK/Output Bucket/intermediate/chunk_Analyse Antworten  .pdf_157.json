@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** aus Prüfungsprotokollen (z.B. \"Wie ist das Vorgehen bei einem Polytrauma?\", \"Welche Komplikationen können bei einer distalen Radiusfraktur auftreten?\")\n\n2. **Musterlösungen/Leitlinien** zu allgemeinen medizinischen Themen ohne konkrete Patientenpräsentation\n\n3. **Allgemeinem Wissensabfragen** (z.B. \"Welche Dialysemöglichkeiten gibt es?\", \"Was ist die maximale Dosierung von Ibuprofen?\")\n\nDie zwei Fälle, die am nächsten an Patientenfälle herankommen, sind **unvollständig**:\n\n- **Patellaluxation**: Nur eine kurze Antwort ohne vollständige Fallpräsentation (kein Alter, Geschlecht, keine detaillierte Anamnese)\n- **Cholecystolithiasis-Komplikationen**: Ebenfalls nur eine Antwort auf eine theoretische Frage ohne konkrete Patientendarstellung\n\nKeiner dieser Einträge erfüllt die Kriterien eines **vollständigen klinischen Präsentationsfalls** mit Patientendemographie, Anamnese, Befunden und strukturierter Darstellung."
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Dislozierte Humerusfraktur nach Sturz aus 2m Höhe",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "Sturz auf linke Schulter",
+      "Starke Schmerzen NRS 9",
+      "Schmerzmittel IV im Krankenhaus kaum wirksam"
+    ],
+    "accident_mechanism": "Sturz aus 2 Meter Höhe auf die linke Schulter",
+    "pre_existing_conditions": [
+      "Chronisch entzündliche Darmerkrankung"
+    ],
+    "comorbidities": [
+      "Kribbeln der Finger der rechten Hand abends"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Sulfasalazin"
+    ],
+    "allergies": [
+      "Schimmelpilzallergie mit Dyspnoe als Reaktion"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Pulse O.E und U.E überprüft",
+      "Sensibilität O.E und U.E überprüft",
+      "Motorik O.E rechts überprüft",
+      "Motorik O.E links schmerzbedingt nicht untersuchbar",
+      "Reflexe O.E und U.E überprüft",
+      "Cor und Pulmo untersucht",
+      "Vitalparameter erhoben",
+      "Neurologische Untersuchung grob durchgeführt",
+      "V-förmige Wunde vorhanden"
+    ],
+    "imaging_findings": [
+      "Röntgenbild: dislozierte Humerusfraktur links"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Dislozierte Humerusfraktur links",
+      "V-Wunde"
+    ],
+    "diagnostic_approach": [
+      "Klinische Untersuchung",
+      "Röntgenbildgebung",
+      "Überprüfung von Durchblutung, Motorik, Sensibilität"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

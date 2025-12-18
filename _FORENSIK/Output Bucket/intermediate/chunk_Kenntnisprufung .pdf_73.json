@@ -1,0 +1,111 @@
+[
+  {
+    "title": "Pyelonephritis mit Flankenschmerzen und Fieber",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Linksseitige Flankenschmerzen seit gestern mit Ausstrahlung in linken Unterbauch",
+      "Neu aufgetretenes Fieber",
+      "Übelkeit",
+      "Knieschmerzen nach Sturz beim Sport"
+    ],
+    "accident_mechanism": "Sturz beim Sport (Knie)",
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 1",
+      "Belastungsasthma",
+      "Rezidivierende Harnwegsinfekte",
+      "Atopische Dermatitis"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Diabetes mellitus Typ 1",
+      "Rezidivierende Harnwegsinfekte"
+    ],
+    "family_history": [
+      "Vater: operiert wegen Leistenhernie",
+      "Vater: Darmkrebs",
+      "Mutter: Schilddrüsenerkrankung",
+      "1 Sohn gesund"
+    ],
+    "social_history": [
+      "Kinderwunsch"
+    ],
+    "medications": [
+      "Salbutamol bei Bedarf",
+      "Beclometason inhalativ 1-0-1",
+      "Dulcolax"
+    ],
+    "allergies": [
+      "Nickel",
+      "Champignons"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Nierenlager schmerzhaft auf linker Seite",
+      "Knie untersucht",
+      "Atopische Dermatitis im Hinterkopf"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Trüber Urin mit ekeligem Geruch bei Miktion"
+    ],
+    "suspected_diagnosis": [
+      "Pyelonephritis",
+      "DD: Nephrolithiasis",
+      "DD: Harnwegsinfekt"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Musste sofort Antiemetikum bekommen"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Unterbauchschmerzen links mit Fieber bei Hypertonie",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Seit 5 Tagen stechende, plötzliche Unterbauchschmerzen links ohne Ausstrahlung",
+      "Fieber 38,5°C ohne Schüttelfrost oder Übelkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypertonie",
+      "Wechsel zwischen Obstipation und Diarrhö seit Jahren",
+      "Z.n. Cholezystektomie",
+      "Z.n. Appendektomie",
+      "Z.n. Verletzung Sprunggelenk links vor 1 Jahr"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater gestorben an Unfall",
+      "Mutter im Heim"
+    ],
+    "social_history": [
+      "Schauspielerin"
+    ],
+    "medications": [
+      "Lisinopril 1-0-0"
+    ],
+    "allergies": [
+      "Amoxicillin"
+    ],
+    "vital_signs": [
+      "Fieber 38,5°C"
+    ],
+    "physical_examination": [
+      "Gezielte Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

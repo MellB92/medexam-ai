@@ -1,0 +1,88 @@
+[
+  {
+    "title": "Meningitis mit Meningismus nach Äthiopienreise und HWS-Trauma",
+    "patient_age": "62",
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "Seit 2 Wochen progrediente globale Kopfschmerzen",
+      "Schmerzintensität 8/10",
+      "Seit gestern Verschlechterung",
+      "Nackensteifigkeit",
+      "Lichtempfindlichkeit (Photophobie)",
+      "Übelkeit",
+      "Fieber (nicht gemessen)",
+      "Heute morgen kurz bewusstlos"
+    ],
+    "accident_mechanism": "Vor 2 Wochen in Äthiopien Gepäck auf Nacken gefallen",
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Paroxysmales Vorhofflimmern",
+      "Zustand nach distaler Unterarmfraktur vor 6 Jahren mit persistierenden Schmerzen und Taubheit (?CRPS)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Reise nach Äthiopien"
+    ],
+    "family_history": [
+      "Vater mit 68 Jahren an Ösophaguskarzinom verstorben",
+      "Mutter mit 82 Jahren an Leberversagen verstorben"
+    ],
+    "social_history": [
+      "Verheiratet",
+      "Zwei erwachsene Kinder"
+    ],
+    "medications": [
+      "ASS 100",
+      "Antihypertensivum (Name nicht erinnerlich)"
+    ],
+    "allergies": [
+      "Pollen",
+      "Antibiotikum (Name nicht erinnerlich)"
+    ],
+    "vital_signs": [
+      "Puls gemessen",
+      "Blutdruck beidseits gemessen",
+      "Atemfrequenz gemessen"
+    ],
+    "physical_examination": [
+      "Kernig-Zeichen positiv",
+      "Brudzinski-Zeichen positiv",
+      "Hirnnerven unauffällig",
+      "Motorik unauffällig",
+      "Reflexe unauffällig",
+      "Herz-Auskultation unauffällig",
+      "Lungen-Auskultation unauffällig (von vorne, Patientin konnte nicht stehen)",
+      "HWS Inspektion unauffällig",
+      "HWS Palpation: Schmerzen in HWS 2-3",
+      "HWS Bewegungsumfang: 5-0-5 (Extension, Flexion, Seitneigung)",
+      "Venöser Zugang gelegt"
+    ],
+    "imaging_findings": [
+      "MRT: dicke Hirnhaut",
+      "EKG: Vorhofflimmern mit Linksschenkelblock"
+    ],
+    "laboratory_findings": [
+      "Blutbild angeordnet"
+    ],
+    "suspected_diagnosis": [
+      "Meningitis (viral oder bakteriell: H. Influenza, Strep. pneumoniae, N. Meningitidis)",
+      "Subarachnoidalblutung",
+      "Epiduralhämatom",
+      "Subduralhämatom",
+      "HWK-Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Blutbild",
+      "Fundoskopie zum Ausschluss erhöhten intrakraniellen Drucks",
+      "Lumbalpunktion in Seitenlagerung L3/L4 oder L4/L5 mit Öffnungsdruck und Farbbeurteilung",
+      "CCT",
+      "Hals-CT",
+      "MRT",
+      "Langzeit-Blutdruckmessung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

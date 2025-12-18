@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Diabetes Mellitus Typ 2 mit Polyurie und rezidivierenden Hautinfektionen",
+    "patient_age": "67-jährig",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Polyurie 5 Liter/Tag seit paar Monaten",
+      "Nykturie",
+      "Konzentrationsschwierigkeiten",
+      "Wiederholte Hautinfektionen (Mykose im Axillabereich)",
+      "Rhinitiden",
+      "Saures Aufstoßen",
+      "Völlegefühl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Hyperlipidämie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter 94 Jahre - Magenkarzinom",
+      "Vater verstorben an Morbus Bechterew",
+      "Bruder wartet auf Nierentransplantation"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [
+      "Hundehaare"
+    ],
+    "vital_signs": [
+      "RR beidseitig gemessen",
+      "Puls gemessen"
+    ],
+    "physical_examination": [
+      "Herz untersucht",
+      "Lunge untersucht",
+      "Abdomen untersucht",
+      "Neurologische Untersuchung: Visus",
+      "Okulomotorik",
+      "Fingerperimetrie",
+      "Reflexe"
+    ],
+    "imaging_findings": [
+      "Abdomen-Sonographie geplant zur Beurteilung der Nieren"
+    ],
+    "laboratory_findings": [
+      "Kreatinin 0,7 mg/dl",
+      "Thrombozytopenie 35.000",
+      "Urin auf Proteinurie/Albuminurie zu untersuchen",
+      "Albumin/Kreatinin-Quotient zu bestimmen",
+      "Retentionsparameter zu bestimmen"
+    ],
+    "suspected_diagnosis": [
+      "Diabetes Mellitus Typ 2",
+      "Diabetes insipidus",
+      "Metabolisches Syndrom",
+      "Anämie",
+      "Diabetische Nephropathie möglich"
+    ],
+    "diagnostic_approach": [
+      "Kreatinin und weitere Retentionsparameter",
+      "Urinuntersuchung auf Proteinurie/Albuminurie",
+      "Albumin/Kreatinin-Quotient",
+      "Abdomen-Sonographie",
+      "Abklärung der Thrombozytopenie-Ursache"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Thrombozytopenie 35.000 (DD: Medikamente, ITP, Leukämie, aplastische Anämie, Vit B12-Mangel, Hypersplenismus, Mikroangiopathie, HUS, TTP)"
+    ],
+    "follow_up": []
+  }
+]

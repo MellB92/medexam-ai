@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 12/12) enthält **keine klinischen Patientenfälle**. \n\nDer Inhalt besteht ausschließlich aus:\n\n1. **Bronchoskopie** - Auflistung von Indikationen und Verfahren (allgemeines Theoriewissen)\n2. **Zystoskopie** - Auflistung von:\n   - Komplikationen (Brennen, Blut bei Miktion, Harnwegsinfekte, etc.)\n   - Indikationen (bei Hämaturie, Verdacht auf Blasentumor, etc.)\n\nDiese sind als **didaktische Fragen** formuliert (\"Und wie würden Sie die Zystoskopie beschreiben?\", \"Worauf achten Sie bei der Aufklärung?\", \"Und welche Indikationen sind Ihnen bekannt?\") und dienen der theoretischen Wissensvermittlung.\n\nEs handelt sich um **Lehrmaterial** über endoskopische Verfahren, nicht um konkrete Patientenpräsentationen mit individuellen Anamnesen, Befunden oder diagnostischen Überlegungen."
+  }
+]

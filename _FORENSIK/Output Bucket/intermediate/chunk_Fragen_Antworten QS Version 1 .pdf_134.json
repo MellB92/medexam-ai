@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Präsentationsfälle** im eigentlichen Sinne. Es handelt sich um:\n\n1. **Meta-Instruktionen** für einen KI-Assistenten zur Validierung von Prüfungsfragen\n2. **Isolierte Prüfungsfragen** mit theoretischen Antworten zu:\n   - Fasziotomie-Verschluss (Frage 735)\n   - Postoperative Schwellung (Frage 736)\n   - AAA-Rupturgefahr (Frage 737)\n   - Aneurysmaformen (Frage 738)\n\nDiese Fragen enthalten zwar medizinische Informationen, präsentieren aber **keine konkreten Patientenfälle** mit:\n- Individueller Anamnese\n- Spezifischer klinischer Präsentation\n- Patientenspezifischen Befunden\n- Diagnostischem/therapeutischem Verlauf\n\nEs handelt sich um **theoretisches Prüfungswissen** in Frage-Antwort-Format, nicht um kasuistische Falldarstellungen."
+  }
+]

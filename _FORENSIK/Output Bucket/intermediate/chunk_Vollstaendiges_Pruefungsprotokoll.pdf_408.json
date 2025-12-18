@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Diuretika-Resistenz bei Anurie\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"geringe Urinausscheidung (nur 600 mL)\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [\"Furosemid\"],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Nephron Block (akutes Nierenversagen)\"],\n    \"diagnostic_approach\": []\n  },\n  {\n    \"title\": \"Vorhofflimmern mit symptomatischer Tachykardie\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"störende Tachykardie\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\"EKG: VHF (Vorhofflimmern)\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Vorhofflimmern\"],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

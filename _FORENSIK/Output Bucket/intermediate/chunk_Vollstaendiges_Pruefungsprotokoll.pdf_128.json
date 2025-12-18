@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 129/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Prüfungsfragen und Antworten zur Riesenzellarteriitis (RZA)** - theoretische Diskussion über Pathophysiologie, Diagnostik und Komplikationen, aber kein konkreter Patientenfall mit vollständiger Anamnese\n\n2. **Fragmentarische Fragen zu Lungenarterienembolie (LAE) und viraler Hepatitis** - am Ende des Chunks beginnen theoretische Fragen zu diesen Themen, aber es wird kein vollständiger Patientenfall präsentiert\n\nDer Text bezieht sich zwar auf einen Patienten im Kontext der RZA-Diskussion (erwähnt werden \"Anamnese, Medikation, Vorerkrankungen\" in der Fehleranalyse), aber die vollständigen Patienteninformationen sind **nicht in diesem Chunk enthalten** - sie wurden offensichtlich in einem vorherigen Abschnitt präsentiert.\n\nDa die Aufgabe explizit verlangt, **NUR vollständige Fälle** zu extrahieren und **abgeschnittene oder unvollständige Fälle zu ignorieren**, ist die korrekte Antwort ein leeres Array."
+  }
+]

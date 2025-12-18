@@ -1,0 +1,49 @@
+[
+  {
+    "title": "pAVK mit Claudicatio intermittens nach langer Reise",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Wadenschmerzen nach 400m"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "pAVK",
+      "Claudicatio intermittens",
+      "TVT (Differenzialdiagnose)"
+    ],
+    "diagnostic_approach": [
+      "Knöchel-Arm-Index"
+    ]
+  },
+  {
+    "title": "Unterschenkelfraktur - Tibiaschaftfraktur und Fibulafraktur",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild Unterschenkel: Tibiaschaftfraktur",
+      "proximale/distale Fibulafraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tibiaschaftfraktur",
+      "Fibulafraktur proximal/distal"
+    ],
+    "diagnostic_approach": [
+      "Plattenosteosynthese",
+      "Thromboseprophylaxe"
+    ]
+  }
+]

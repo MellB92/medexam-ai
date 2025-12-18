@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nEs handelt sich um:\n- **Frage 730**: Eine theoretische Frage zu toxischen Knochenmarksschädigungen\n- **Typ:** \"incomplete\" - explizit als unvollständig markiert\n- **Inhalt:** Reine Wissensvermittlung über:\n  - Bleivergiftung (Grenzwerte, Diagnostik, Therapie)\n  - Benzol-Exposition (MAK-Werte, Biomonitoring)\n  - Allgemeine toxikologische Informationen\n\nEs fehlen alle Elemente eines klinischen Falls:\n- Kein konkreter Patient\n- Keine Anamnese\n- Keine klinische Präsentation\n- Keine Untersuchungsbefunde eines spezifischen Falls\n\nDies ist reines theoretisches Lehrmaterial über Toxikologie und Arbeitsmedizin, keine Fallpräsentation."
+  }
+]

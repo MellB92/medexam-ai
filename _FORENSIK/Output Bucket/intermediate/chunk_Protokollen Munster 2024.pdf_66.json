@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Diabetes Mellitus Typ 2 mit Polyurie und Hautinfektionen",
+    "patient_age": "67-jährige",
+    "patient_gender": "Frau",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Polyurie 5 Liter/Tag seit einigen Monaten",
+      "Nykturie",
+      "Konzentrationsschwierigkeiten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Hyperlipidämie"
+    ],
+    "comorbidities": [
+      "Wiederholte Hautinfektionen (Mykosen im Axillabereich)",
+      "Rhinitiden"
+    ],
+    "risk_factors": [
+      "Metabolisches Syndrom"
+    ],
+    "family_history": [
+      "Mutter 94 Jahre mit Magenkarzinom",
+      "Vater verstorben an Morbus Bechterew",
+      "Bruder wartet auf Nierentransplantation"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [
+      "Hundehaare"
+    ],
+    "vital_signs": [
+      "Beidseitige RR-Messung durchgeführt",
+      "Puls gemessen"
+    ],
+    "physical_examination": [
+      "Herz untersucht",
+      "Lunge untersucht",
+      "Abdomen untersucht",
+      "Visus geprüft",
+      "Okulomotorik geprüft",
+      "Fingerperimetrie durchgeführt",
+      "Reflexe geprüft"
+    ],
+    "imaging_findings": [
+      "Abdomen-Sono indiziert"
+    ],
+    "laboratory_findings": [
+      "Kreatinin 0,7 mg/dl",
+      "Thrombozytopenie 35.000",
+      "Albumin/Kreatinin-Quotient angefordert",
+      "Urin auf Proteinurie/Albuminurie untersucht"
+    ],
+    "suspected_diagnosis": [
+      "Diabetes Mellitus Typ 2",
+      "Diabetes insipidus",
+      "Metabolisches Syndrom",
+      "Anämie"
+    ],
+    "diagnostic_approach": [
+      "Nierenparameter bestimmen wegen diabetischer Nephropathie",
+      "Retentionsparameter",
+      "Urinuntersuchung auf selektive glomeruläre Proteinurie (Albuminurie)",
+      "Albumin/Kreatinin-Quotient",
+      "Abdomen-Sonographie"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Thrombozytopenie (DD: Medikamente, Immunthrombozytopenien, Heparin-induziert, Leukämie, Aplastische Anämie, Vitamin B12-Mangel, Hypersplenismus, Mikroangiopathie, HUS, TTP)"
+    ],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 124/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Inhalt besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** zu medizinischem Wissen:\n   - Scores (NIHSS, CHA₂DS₂-VASc)\n   - Strahlenschutz (Energiedosis, Äquivalentdosis, Alpha-Strahlung)\n   - Rechtliche Grundlagen (Grundgesetz, BGB, Patientenrechtegesetz)\n   - Pharmakologie (Metformin, Ceiling-Effekt)\n   - Diagnostik (Sensitivität, Spezifität)\n   - Infektionsschutzgesetz\n   - Schädel-Hirn-Trauma (theoretisch)\n   - Handröntgenbild mit Wachstumsfuge (ohne konkrete Patientendaten)\n\n2. **Musterlösungen und Analysen** zu diesen theoretischen Fragen\n\nEs gibt **keine Patientenpräsentation** mit:\n- Konkretem Patientenalter/-geschlecht\n- Anamnese oder Unfallhergang\n- Klinischer Untersuchung eines spezifischen Patienten\n- Diagnostischem Vorgehen bei einem konkreten Fall\n\nDie Erwähnungen (z.B. Schädel-Hirn-Trauma, Handröntgenbild) sind rein theoretische Wissensfragen ohne vollständige Fallinformationen."
+  }
+]

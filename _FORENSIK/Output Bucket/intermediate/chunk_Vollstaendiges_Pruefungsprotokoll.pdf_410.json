@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Distale Radiusfraktur (Colles-Fraktur) nach Skiunfall",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Distale Radiusfraktur"
+    ],
+    "accident_mechanism": "Skiunfall",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Eingeschränkte Bewegung"
+    ],
+    "imaging_findings": [
+      "Distale Radiusfraktur",
+      "Colles-Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Colles-Fraktur",
+      "DD: Kahnbeinfraktur",
+      "DD: SL-Band-Verletzung",
+      "DD: TFCC-Verletzung",
+      "DD: Proc. Styl. Ulnae-Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen"
+    ]
+  },
+  {
+    "title": "Pneumothorax nach Lawinenunfall",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Pneumothorax"
+    ],
+    "accident_mechanism": "Unfall in Schneelawine",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Pneumothorax"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pneumothorax"
+    ],
+    "diagnostic_approach": [
+      "Thoraxdrainage",
+      "ICR 2-Punktion"
+    ]
+  },
+  {
+    "title": "Gonarthrose mit sichtbaren Menisken im Röntgen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Osteophyten",
+      "Menisken sichtbar"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Gonarthrose"
+    ],
+    "diagnostic_approach": [
+      "Knie-Röntgen"
+    ]
+  },
+  {
+    "title": "Aortenaneurysma mit Marfan/Ehlers-Danlos-Syndrom",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Marfan-Syndrom",
+      "Ehlers-Danlos-Syndrom",
+      "Stoffwechselstörung"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Aortenaneurysma"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Aortenaneurysma"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Colitis ulcerosa mit blutiger Diarrhoe",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Koloskopie: Hyperämie, Fibrinbeläge"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "CED insbesondere Colitis Ulcerosa",
+      "DD: Sigmadivertikulitis",
+      "DD: infektiöse Gastroenteritis",
+      "DD: Pyelonephritis",
+      "DD: HWI"
+    ],
+    "diagnostic_approach": [
+      "Entzündungsparameter",
+      "Hb",
+      "bakteriologische Stuhluntersuchung mit Antibiogramm",
+      "Abdomensonographie",
+      "CT-Abdomen",
+      "Koloskopie"
+    ]
+  },
+  {
+    "title": "Lungenembolie bei Z.n. Thrombose mit Dyspnoe",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Dyspnoe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Thrombose in der Vergangenheit",
+      "Antikoagulation abgesetzt"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: P-Pulmonale",
+      "Echo: Rechtsherzbelastungszeichen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenembolie"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Echokardiographie",
+      "Lagetyp",
+      "Rhythmus"
+    ]
+  },
+  {
+    "title": "Tuberkulose mit Husten, Dyspnoe und Hämoptyse",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Husten",
+      "Dyspnoe",
+      "Gewichtsabnahme",
+      "Hämoptyse"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax: hiläre Lymphknotenvergrößerung links",
+      "fleckige Verdichtung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tuberkulose"
+    ],
+    "diagnostic_approach": [
+      "Tuberkulin-Hauttest",
+      "Interferon-Y-Test",
+      "Erregerdiagnostik aus Körperflüssigkeiten",
+      "Mikroskopie in Ziehl-Neelsen-Färbung",
+      "PCR"
+    ]
+  }
+]

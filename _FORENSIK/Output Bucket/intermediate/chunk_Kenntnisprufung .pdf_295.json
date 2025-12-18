@@ -1,0 +1,230 @@
+[
+  {
+    "title": "Inzidentalom der Nebenniere",
+    "patient_age": null,
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "Inzidentalom"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Bruder mit kolorektalem Karzinom"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Ultraschall mit Konvex-Schallkopf auf Abdomen",
+      "Leber dargestellt",
+      "Nieren und Nierenkelch sichtbar",
+      "Raumforderung echoarm und homogen",
+      "Sono von Nebenniere"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Inzidentalom der Nebenniere",
+      "Conn-Syndrom",
+      "Hypercortisolismus",
+      "Phäochromozytom"
+    ],
+    "diagnostic_approach": [
+      "Clonidin-Test"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Arthralgie - Verdacht auf Rheumatoide Arthritis",
+    "patient_age": null,
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "Arthralgie",
+      "Schmerzen beim Händegeben"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Schmerzen beim Händegeben"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Rheumafaktor 40% am Anfang, dann 80%",
+      "Anti-CCP 60%"
+    ],
+    "suspected_diagnosis": [
+      "Rheumatoide Arthritis"
+    ],
+    "diagnostic_approach": [
+      "Rheumafaktor",
+      "Anti-CCP-Antikörper"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Beckenringfraktur mit hämorrhagischem Schock",
+    "patient_age": null,
+    "patient_gender": "männlich",
+    "severity": "severe",
+    "chief_complaints": [
+      "Beckenfraktur",
+      "hämorrhagischer Schock"
+    ],
+    "accident_mechanism": "Trauma mit Beckenfraktur",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "hämorrhagischer Schock"
+    ],
+    "physical_examination": [
+      "weder venöse noch arterielle Blutung"
+    ],
+    "imaging_findings": [
+      "2 Bilder von Beckenringfraktur",
+      "Sakrumfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Beckenringfraktur",
+      "Sakrumfraktur"
+    ],
+    "diagnostic_approach": [
+      "Bildgebung des Beckens"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "hämorrhagischer Schock ohne venöse oder arterielle Blutung",
+      "Dauerkatheter kontraindiziert"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Kind mit Pseudokrupp",
+    "patient_age": "Kind",
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Atemnot",
+      "Stridor"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "fehlende Impfung gegen Hämophilus influenza"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Eltern lassen Kind nicht impfen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Stridor"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pseudokrupp",
+      "Krupp",
+      "Hämophilus influenza Infektion"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Intubation nur durch erfahrenen Anästhesisten",
+      "ggf. Koniotomie notwendig"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Infektiöse Mononukleose",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Angina tonsillaris",
+      "Exanthem"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Blutausstrich auffällig",
+      "Neutrophile fehlen (Neutropenie)"
+    ],
+    "suspected_diagnosis": [
+      "Mononukleose"
+    ],
+    "diagnostic_approach": [
+      "Blutausstrich"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Mediastinale Raumforderung",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT Thorax",
+      "Raumforderung im Mediastinum",
+      "Skapula sichtbar"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenkarzinom",
+      "Tuberkulose",
+      "Lymphom"
+    ],
+    "diagnostic_approach": [
+      "CT Thorax"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

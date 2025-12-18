@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Anämie bei Hüft-TEP-Vorbereitung mit neurologischen Symptomen\",\n    \"patient_age\": null,\n    \"patient_gender\": \"m\",\n    \"chief_complaints\": [\n      \"Anämie (festgestellt bei Vorbereitung für Hüft-TEP)\",\n      \"Eingeschlafene Finger\",\n      \"Brennendes Gefühl auf der Zunge\",\n      \"Kribbeln in den Beinen\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Geplante Hüft-TEP\"\n    ],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\n      \"Anämie\"\n    ],\n    \"suspected_diagnosis\": [\n      \"Vitamin B12 Mangel\"\n    ],\n    \"diagnostic_approach\": [\n      \"Einweisung vom Hausarzt zur Abklärung der Anämie\",\n      \"Labor bei Anämie\"\n    ]\n  }\n]\n```"
+  }
+]

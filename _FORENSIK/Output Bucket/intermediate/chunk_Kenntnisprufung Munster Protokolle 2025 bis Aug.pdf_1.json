@@ -1,0 +1,51 @@
+[
+  {
+    "title": "VKB-Ruptur und proximale Tibia-Fraktur mit komplexer Vorgeschichte",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "VKB Ruptur",
+      "Tibia Fraktur"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Operation einer Geschwulst im Halsbereich (nicht bösartig, DD: Lipom)",
+      "Arterielle Hypertonie",
+      "Z.n. Angioödem mit Zungenödem und Luftnot nach Ramipril"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Bruder mit CML (Chronisch Myeloische Leukämie)"
+    ],
+    "social_history": [],
+    "medications": [
+      "Früher Ramipril für Bluthochdruck (abgesetzt wegen Angioödem)"
+    ],
+    "allergies": [
+      "Ramipril (Angioödem mit Zungenödem und Luftnot)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Polytrauma-Untersuchung durchgeführt",
+      "Z.n. Schulterschmerzen nach Halsoperation (N. accessorius Läsion)"
+    ],
+    "imaging_findings": [
+      "Röntgen: proximale Tibia Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "VKB Ruptur",
+      "Proximale Tibia Fraktur",
+      "Z.n. N. accessorius Läsion postoperativ"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Postoperative Komplikation diskutiert: Kompartment-Syndrom",
+      "N. accessorius Verletzung nach Operation der Halsgeschwulst mit resultierenden Schulterschmerzen"
+    ],
+    "follow_up": []
+  }
+]

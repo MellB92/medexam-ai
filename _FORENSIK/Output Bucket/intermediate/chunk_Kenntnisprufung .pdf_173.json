@@ -1,0 +1,156 @@
+[
+  {
+    "title": "Postoperatives Delir nach Schenkelhalsfraktur-OP",
+    "patient_age": "75-jährig",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Verwirrtheit",
+      "Schreien"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Schenkelhalsfraktur"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Alter 75 Jahre",
+      "postoperativer Zustand"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Patientin schreit",
+      "verwirrt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Postoperatives Delir"
+    ],
+    "diagnostic_approach": [
+      "Andere Ursachen ausschließen"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Postoperatives Delir"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Rückenschmerzen bei Verdacht auf sekundäre Hypertonie und Osteoporose",
+    "patient_age": "63-jährig",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "seit Monaten zunehmende Rückenschmerzen im LWS-Bereich",
+      "Verschlimmerung in den letzten 4 Wochen"
+    ],
+    "accident_mechanism": "vor 2 Wochen mit dem rechten Fuß umgeknickt",
+    "pre_existing_conditions": [
+      "chronische Rückenschmerzen seit 20 Jahren",
+      "BSV im LWS-Bereich",
+      "Osteoporose"
+    ],
+    "comorbidities": [
+      "Bänderriss OSG rechts"
+    ],
+    "risk_factors": [
+      "Osteoporose",
+      "positive Familienanamnese für Kolonkarzinom"
+    ],
+    "family_history": [
+      "Mutter Colon CA - operiert und bekommt Chemotherapie",
+      "Vater hatte COPD schwer einzustellen"
+    ],
+    "social_history": [],
+    "medications": [
+      "Vit D 20000IE wöchentlich",
+      "Ibuprofen gelegentlich"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "RR beidseits erhöht",
+      "erstmals erhöhter Blutdruckwert von 165 sys bei Hausärztin"
+    ],
+    "physical_examination": [
+      "RR bds. hoch",
+      "Abdomen unauffällig",
+      "Lasegue negativ",
+      "neurologische Untersuchungen unauffällig",
+      "Mennel-Test"
+    ],
+    "imaging_findings": [
+      "Abdomensonografie: Befund im rechten Flank",
+      "V.a. Nebennierentumor - unregelmäßige Raumforderung im oberen Pol der rechten Niere sichtbar"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "sekundäre arterielle Hypertonie a.e. bei endokriner Ursache (Phäochromozytom/Conn Syndrom/Cushing Syndrom)",
+      "Wirbelkörperfraktur infolge LWS Osteoporose",
+      "Rezidiv eines BSV"
+    ],
+    "diagnostic_approach": [
+      "Labor: Renin/Aldosteron, Metanephrin und Normetanephrin, Cortison",
+      "Abdomensonografie: Nieren und Nebennieren Beurteilung, Leber und Milz Beurteilung",
+      "Langzeitblutdruckmessung",
+      "Röntgen LWS 2 Ebenen",
+      "evtl. CT-Abdomen",
+      "Funktionelle Tests bei Conn Syndrom: Orthostase Test und Captopril Test"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Nachsorge Koloskopie gehabt (war OK)",
+      "weitere Untersuchung für Osteoporose geplant"
+    ]
+  },
+  {
+    "title": "Infektiöse Mononukleose mit Hautausschlag nach Penicillin",
+    "patient_age": "17-jährig",
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Angina tonsillaris mit Beläge"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Penicillin (mit nachfolgendem Hautausschlag)"
+    ],
+    "allergies": [
+      "Hautausschlag nach Penicillin-Gabe"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Angina tonsillaris mit Beläge",
+      "Hautausschlag nach Penicillin Gabe"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Blutausstrich (pathologisch)"
+    ],
+    "suspected_diagnosis": [
+      "infektiöse Mononukleose",
+      "EBV-Infektion",
+      "CMV-Infektion"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Hautausschlag nach Penicillin-Gabe"
+    ],
+    "complications": [
+      "Milzruptur als Risiko"
+    ],
+    "follow_up": [
+      "Sportverbot"
+    ]
+  }
+]

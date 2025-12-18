@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Immunthrombozytopenie (ITP) nach Infekt",
+    "patient_age": "39 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Petechien",
+      "blaue Flecken an den Beinen",
+      "Zahnfleischblutung",
+      "Hämaturie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Petechien",
+      "blaue Flecken an den Beinen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "ITP (Immunthrombozytopenie)",
+      "Thrombozytopenie"
+    ],
+    "diagnostic_approach": [
+      "Reflexuntersuchung",
+      "Pulsuntersuchung",
+      "Auskultation Herztöne"
+    ]
+  },
+  {
+    "title": "Thrombozytopenie mit Blutungsneigung nach Infekt",
+    "patient_age": "39 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "petechialem Hautausschlag auf dem Knöchel",
+      "Nausea",
+      "Hämaturie",
+      "Abgeschlagenheit",
+      "spontane Blauflecke",
+      "Blutung beim Zähneputzen",
+      "Schlafstörungen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Grippe vor 4 Wochen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Petechialem Hautausschlag auf dem Knöchel",
+      "Hautausschlag kam vor 2 Wochen und verschwand dann wieder",
+      "Gewichtsverlust -2 kg"
+    ],
+    "imaging_findings": [
+      "EKG: Rechtsschenkelblock",
+      "Rö-Thorax: Emphysem",
+      "Rö Pelvis: Hüftschenkel Frakturen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Thrombozytopenie unklarer Genese",
+      "Kardiomyopathie",
+      "COPD"
+    ],
+    "diagnostic_approach": [
+      "Wundnaht",
+      "EKG",
+      "Röntgen-Thorax",
+      "Röntgen Pelvis"
+    ]
+  },
+  {
+    "title": "Akute Meningitis nach Südfrankreich-Reise",
+    "patient_age": "66 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "1 Tag starke globale Kopfschmerzen",
+      "Photophobie",
+      "Fieber",
+      "Schüttelfrost",
+      "Abgeschlagenheit",
+      "Übelkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "Herzrhythmusstörungen (vor ein paar Jahren, medikamentös behandelt)",
+      "HWS-Verletzung nach Reitunfall (konservativ therapiert)",
+      "rechte Unterarmfraktur (konservativ behandelt, persistierende Schmerzen)"
+    ],
+    "medications": [
+      "eine Tablette morgens für Hypertonie",
+      "Medikamente für HRS"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Meningismus positiv",
+      "neurologische Untersuchung grob unauffällig"
+    ],
+    "imaging_findings": [
+      "Röntgen-Thorax zum Ausschluss Fokus Sepsis"
+    ],
+    "laboratory_findings": [
+      "Hinweis auf Multiorganversagen",
+      "Akute Nierenschädigung"
+    ],
+    "suspected_diagnosis": [
+      "Meningitis",
+      "FSME (Frühsommer-Meningoenzephalitis)",
+      "Sepsis"
+    ],
+    "diagnostic_approach": [
+      "Lumbalpunktion",
+      "Urin-Stix (Leukozyten)",
+      "Urin-Sediment",
+      "Röntgen-Thorax",
+      "Laborwerte zur Einstufung akuter Nierenschädigung"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Kreuzbandruptur mit geplanter Reise nach Südafrika",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Knieverletzung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "MRT: Vorderes Kreuzbandruptur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vorderes Kreuzbandruptur"
+    ],
+    "diagnostic_approach": [
+      "Klinische Untersuchung (Lachmann-Test)",
+      "MRT"
+    ]
+  },
+  {
+    "title": "Kreuzbandruptur bei Frau mit Asthma und Hyperlipidämie",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Knieverletzung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Asthma",
+      "Hyperlipidämie"
+    ],
+    "medications": [
+      "Pille (unregelmäßige Einnahme)"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Lachmann-Test",
+      "Steinmann 1 und 2",
+      "Schubladen-Test",
+      "Payr-Test",
+      "pDMS-Prüfung",
+      "Umfangsdifferenz",
+      "Tanzende Patella"
+    ],
+    "imaging_findings": [
+      "MRT des Knies (nativ, sagittaler Schnitt): Ruptur des vorderen Kreuzbandes",
+      "Arthroskopie: Teilweise Ruptur von Vorderkreuzband"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vorderes Kreuzbandruptur",
+      "Mögliche unhappy Trias",
+      "Großer Erguss"
+    ],
+    "diagnostic_approach": [
+      "Körperliche Untersuchung",
+      "MRT",
+      "Arthroskopie",
+      "Entlastungspunktion"
+    ]
+  }
+]

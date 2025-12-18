@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Eisenmangelanämie durch chronische Blutung (NSAID-Einnahme)",
+    "patient_age": null,
+    "patient_gender": "Mann",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "kürzlich überstandene Pneumonie"
+    ],
+    "medications": [
+      "NSAID"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Eisenmangelanämie durch chronische Blutung (NSAID-Einnahme)",
+      "Anämie bei chronischer Erkrankung",
+      "Vitamin-B12-Mangel",
+      "Folsäuremangel",
+      "Maligne Erkrankungen (z.B. Kolonkarzinom)",
+      "Chronische Nierenerkrankung"
+    ],
+    "diagnostic_approach": [
+      "Labor: Blutbild, Eisen, Ferritin, Transferrinsättigung, Vitamin B12, Folsäure, Nierenwerte (Kreatinin, GFR), CRP, BSG, Leberwerte, TSH",
+      "Stuhldiagnostik: Test auf okkultes Blut",
+      "Bildgebung: Abdomen-Sonographie, gegebenenfalls CT-Abdomen",
+      "Endoskopie: ÖGD und Koloskopie (bei Männern über 50 Jahre zur Abklärung von Kolonkarzinom)"
+    ]
+  },
+  {
+    "title": "Junger sportlicher Patient mit Fieber und Leistungsminderung (Myokarditis/Perikarditis)",
+    "patient_age": "jung",
+    "patient_gender": null,
+    "chief_complaints": [
+      "Fieber",
+      "Leistungsminderung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax: Kardiomegalie (Herz-Thorax-Quotient > 0,5)",
+      "Bocksbeutelform",
+      "Herzvergrößerung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perikarditis/Myokarditis"
+    ],
+    "diagnostic_approach": [
+      "Labor: Entzündungsparameter (CRP, BSG, Leukozyten), Troponin, CK-MB, NT-proBNP, Blutkulturen, Virusserologie, Autoantikörper",
+      "Therapie: Bei infektiöser Perikarditis/Myokarditis: Antibiotika/Virustatika",
+      "Bei nicht-infektiöser Perikarditis/Myokarditis: NSAID, Glukokortikoide",
+      "Bei Perikarderguss/Tamponade: Perikardpunktion"
+    ]
+  }
+]

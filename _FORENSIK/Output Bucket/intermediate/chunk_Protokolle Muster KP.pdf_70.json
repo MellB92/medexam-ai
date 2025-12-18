@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Achalasie bei 45-jähriger Patientin (Frau Meyer Ella)",
+    "patient_age": "45 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Augenzittern (gelegentlich)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Nierenleiden rechts"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Kardiopulmonale Untersuchung unauffällig",
+      "Abdomen unauffällig",
+      "Schilddrüsenuntersuchung unauffällig",
+      "Nystagmus horizontal und vertikal",
+      "Reflexe unauffällig",
+      "Nierenklopfschmerz rechts untersucht - unauffällig"
+    ],
+    "imaging_findings": [
+      "Breischluck (im Zusammenhang mit Achalasie)",
+      "Röntgen Thorax: Verbreiterung des Mediastinums wegen Achalasie",
+      "Verdickung des Ösophagus"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Achalasie"
+    ],
+    "diagnostic_approach": [
+      "Kardiopulmonale Untersuchung",
+      "Abdomenuntersuchung",
+      "Schilddrüsenuntersuchung",
+      "Neurologische Untersuchung",
+      "Breischluck",
+      "Röntgen Thorax"
+    ]
+  },
+  {
+    "title": "Myokardinfarkt mit ST-Hebung (inferiorer Infarkt)",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: ST-Hebung in II, III, aVF"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Myokardinfarkt (inferiorer Infarkt)"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Schmerztherapie mit Morphin",
+      "PTCA (primäre perkutane Koronarintervention)",
+      "Thrombolyse als Alternative"
+    ]
+  },
+  {
+    "title": "HIV mit Komplikationen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Pneumonie (Status nach)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "HIV"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "HIV",
+      "Toxoplasmose-Enzephalopathie (als Komplikation)",
+      "Leukoplakie (als Komplikation)",
+      "Candidose (als Komplikation)",
+      "Pneumocystis-Pneumonie (als Komplikation)"
+    ],
+    "diagnostic_approach": [
+      "Western Blot",
+      "ELISA",
+      "Antivirale Therapie"
+    ]
+  },
+  {
+    "title": "Femurdiaphysenfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Femurdiaphysenfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Femurdiaphysenfraktur"
+    ],
+    "diagnostic_approach": [
+      "AO-Klassifikation"
+    ]
+  }
+]

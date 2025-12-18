@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** mit Frage-Antwort-Paaren zu medizinischem Fachwissen:\n   - Anatomie (Calot-Dreieck, Arterien bei Thyreoidektomie)\n   - Pharmakologie (L-Thyroxin, Statine)\n   - Risikofaktoren (KHK)\n   - Pathophysiologie (Anämie, Perikarditis)\n   - Strahlenschutz (ALARA-Prinzip)\n\n2. **Musterlösungen und Analysen** von Kandidatenantworten\n\n3. **Einem fragmentarischen Notfallszenario** (Schockpatient mit Lungenembolie), das aber keine vollständige Fallpräsentation darstellt, sondern eine Prüfungsfrage zur Handlungsweise ist\n\nEs handelt sich um ein **Prüfungsprotokoll mit Wissensfragen**, nicht um klinische Fallpräsentationen mit strukturierter Anamnese, Befunden und diagnostischem Vorgehen für konkrete Patienten."
+  }
+]

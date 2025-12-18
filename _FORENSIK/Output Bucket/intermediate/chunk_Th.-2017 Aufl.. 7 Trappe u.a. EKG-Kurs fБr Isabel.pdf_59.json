@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 60/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält ausschließlich theoretisches Lehrmaterial über Vorhofflimmern und Vorhofflattern (Lektion 25).\n\nDer Text beschreibt:\n- Theoretische Grundlagen zu Vorhofflimmern und Vorhofflattern\n- EKG-Charakteristika (Flatterwellen, Sägezahnmuster)\n- Unterschiede zwischen Typ I und Typ II Vorhofflattern\n- Überleitungsmodi (2:1, 3:1, 4:1-Überleitung)\n- Schematische EKG-Abbildungen (Abb. 25.3 bis 25.7)\n- Praktische Erfahrungsregeln zur Diagnostik\n\nEs werden **keine konkreten Patientenfälle** präsentiert, sondern nur allgemeine diagnostische und pathophysiologische Konzepte erklärt. Dies ist rein didaktisches Material ohne Fallpräsentationen."
+  }
+]

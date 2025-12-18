@@ -1,0 +1,60 @@
+[
+  {
+    "title": "COPD-Patient mit Hämoptyse und Gewichtsverlust",
+    "patient_age": "74-jähriger",
+    "patient_gender": "Mann",
+    "severity": "moderate",
+    "chief_complaints": [
+      "zunehmender Husten",
+      "Auswurf",
+      "Hämoptyse seit 14 Tagen (helles Blut)",
+      "Gewichtsverlust in letzten 6 Wochen",
+      "Nachtschweiß",
+      "Inappetenz",
+      "Obstipation",
+      "zunehmende Dyspnoe unter Belastung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "COPD",
+      "arterielle Hypertonie",
+      "Z.n. Autounfall vor ca. 10 Jahren mit Beckenfraktur",
+      "Verkürzung des linken Beins"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Beruf als Bergmann"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Bergmann (Beruf)"
+    ],
+    "medications": [
+      "Atrovent Inhalation",
+      "Salbutamol bei Bedarf"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Benutzt Unterarmgestütze",
+      "körperliche Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [
+      "Röntgen Thorax pa und seitlich: Raumforderung zentral, perihilär rechts, unscharfe Begrenzung, mit Stenosierung distal der Läsion",
+      "Becken-Übersicht ap: vordere und hintere Beckenringfraktur links mit Rotation der rechten Seite (alt)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "V.a. Bronchialkarzinom"
+    ],
+    "diagnostic_approach": [
+      "körperliche Untersuchung",
+      "Laboruntersuchung",
+      "Röntgen Thorax",
+      "TNM-Klassifikation"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

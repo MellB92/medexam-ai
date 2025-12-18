@@ -1,0 +1,73 @@
+[
+  {
+    "title": "pAVK mit Claudicatio intermittens bei 59-jährigem Raucher",
+    "patient_age": "59",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen im Unterschenkel rechts",
+      "Gehstreckenverkürzung auf ca. 300 m schmerzfrei, dann Pause erforderlich"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Unterschenkelfraktur vor 20 Jahren (operativ mit Platte versorgt)",
+      "LWS-OP wegen Bandscheibenvorfall LWK4/5 vor 10 Jahren (damals ohne sensomotorische Defizite, aktuell beschwerdefrei)"
+    ],
+    "comorbidities": [
+      "Arterielle Hypertonie",
+      "Hypercholesterinämie"
+    ],
+    "risk_factors": [
+      "Rauchen 30 PY",
+      "Arterielle Hypertonie",
+      "Hypercholesterinämie"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Raucher 30 PY",
+      "Reiseanamnese: vor 10 Tagen in Japan mit Ehefrau"
+    ],
+    "medications": [
+      "Lisinopril 20/12,5 mg 1-0-0",
+      "Atorvastatin 30 mg 0-0-1",
+      "Ibuprofen 600 mg bei Bedarf",
+      "Dulcolax Tropfen bei Bedarf wegen Obstipation"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "RR gemessen",
+      "Puls gemessen",
+      "Fieber bis 38,3°C maximal (während Erkältung vor einigen Tagen)"
+    ],
+    "physical_examination": [
+      "Pulsstatus des ganzen Körpers",
+      "TVT-Zeichen geprüft: Meyer, Payr, Homan (unauffällig)",
+      "Keine Ödeme",
+      "Keine Rötung",
+      "Sensibilität der unteren Extremitäten geprüft",
+      "Aktive Dorsalextension und Plantarextension der Füße geprüft",
+      "ASR und PSR"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "pAVK (periphere arterielle Verschlusskrankheit)",
+      "Zunächst V.a. TVT (ausgeschlossen)"
+    ],
+    "diagnostic_approach": [
+      "Knöchel-Arm-Index",
+      "Duplex-Sonographie",
+      "CT mit Kontrastmittel",
+      "Klassifikation nach Fontaine/Rutherford"
+    ],
+    "treatment_response": [
+      "Symptomatische Therapie der Erkältung zu Hause (jetzt in Ordnung)"
+    ],
+    "complications": [
+      "Erkältung nach Flugreise mit Fieber bis 38,3°C und Husten ohne Auswurf",
+      "4 Tage Bettruhe",
+      "Obstipation (bis 2 Tage, dann Dulcolax)"
+    ],
+    "follow_up": []
+  }
+]

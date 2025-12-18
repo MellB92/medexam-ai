@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Bauchschmerzen mit gedeckter Divertikulitis-Perforation",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Bauchschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Peritonitis"
+    ],
+    "imaging_findings": [
+      "CT Abdomen: gedeckte Perforation"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perforation von Divertikulitis mit Peritonitis",
+      "gedeckte Perforation"
+    ],
+    "diagnostic_approach": [
+      "CT Abdomen"
+    ]
+  },
+  {
+    "title": "Alte Dame mit akuter Abgeschlagenheit und Unwohlsein",
+    "patient_age": "alte Dame",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "akut entwickelte Abgeschlagenheit",
+      "Unwohlsein"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Vitalparameter",
+      "ISAR Score"
+    ]
+  },
+  {
+    "title": "Rückenschmerzen mit Blasenschwäche nach Gartenarbeit",
+    "patient_age": "62-jährige",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "seit 5 Tagen bestehende Rückenschmerzen (Kreuzschmerzen)",
+      "Blasenschwäche",
+      "Harndrang",
+      "Schmerzausstrahlung ins rechte Bein bis zur lateralen Seite des Fußes"
+    ],
+    "accident_mechanism": "Gewichtshebung bei der Gartenarbeit",
+    "pre_existing_conditions": [
+      "seit 2 Wochen neu diagnostizierter Diabetes mellitus (nur unter Diät)",
+      "Belastungsasthma seit Jahren",
+      "Blasenentzündung vor 3 Wochen (mit Antibiotika behandelt)"
+    ],
+    "medications": [
+      "Foster 1/Tag",
+      "Salbutamol bei Bedarf",
+      "Dulcolax gegen Obstipation"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Druckschmerz und Klopfschmerz am Wirbelkörper L5, S1",
+      "Lasègue-Test rechts positiv",
+      "Reflexe Tibialis posterior und Achillessehne abgeschwächt"
+    ],
+    "imaging_findings": [
+      "MRT: L5 Nucleus pulposus Protrusion",
+      "S1 Nucleus pulposus Prolaps"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bandscheibenvorfall L5/S1",
+      "Radikulopathie"
+    ],
+    "diagnostic_approach": [
+      "Röntgen",
+      "MRT"
+    ]
+  }
+]

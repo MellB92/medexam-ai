@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Hyperthyreose mit Tachykardie, Schwitzen und Nervosität\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Tachykardie\", \"Schwitzen\", \"Nervosität\", \"seltsames Gefühl in den Augen\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Inspektion, Palpation, Perkussion und Auskultation des Abdomens inklusive Leber- und Milzgröße\", \"Auskultation und Perkussion der Lunge\", \"Überprüfung des Pulsstatus an den Beinen\", \"Neurologische Untersuchung\"],\n    \"imaging_findings\": [\"Ultraschall Schilddrüse: vaskuläres Inferno (verstärkte Vaskularisierung)\", \"Röntgen Thorax: Veränderungen hinweisend auf Herzinsuffizienz mit begleitendem Lungenödem\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Hyperthyreose\", \"Morbus Basedow\", \"Autoimmunthyreoiditis (AIT)\", \"Vorhofflimmern (VHF)\", \"Panikattacke\", \"Herzinsuffizienz mit Lungenödem\"],\n    \"diagnostic_approach\": [\"Körperliche Untersuchung\", \"Ultraschall Schilddrüse\", \"Röntgen Thorax\", \"Echokardiogramm\", \"Bestimmung Herz-Thorax-Quotient\"]\n  }\n]\n```"
+  }
+]

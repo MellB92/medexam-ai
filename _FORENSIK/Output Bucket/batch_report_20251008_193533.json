@@ -1,0 +1,968 @@
+{
+  "total_files": 1136,
+  "processed": 0,
+  "failed": 0,
+  "empty_docs": 1,
+  "duplicates_skipped": 153,
+  "duplicate_files": [
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild11.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild12.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild13.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild14.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild15.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild16.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild17.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild18.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild19.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild2.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild20.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild21.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild22.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild23.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild24.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild25.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild26.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild27.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild3.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild28.png",
+      "hash": "434f70a658881990",
+      "size_bytes": 79
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild4.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild5.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild28.png",
+      "hash": "434f70a658881990",
+      "size_bytes": 79
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild6.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild28.png",
+      "hash": "434f70a658881990",
+      "size_bytes": 79
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild7.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild28.png",
+      "hash": "434f70a658881990",
+      "size_bytes": 79
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild8.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite1_Bild9.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild10.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild11.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild12.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild13.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild14.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild15.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild16.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild17.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild18.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild19.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild2.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild20.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild28.png",
+      "hash": "434f70a658881990",
+      "size_bytes": 79
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild21.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild22.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild23.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild24.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild25.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild26.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild27.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild28.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild29.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild28.png",
+      "hash": "434f70a658881990",
+      "size_bytes": 79
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild3.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild4.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild5.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild6.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild7.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild8.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild28.png",
+      "hash": "434f70a658881990",
+      "size_bytes": 79
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite2_Bild9.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild10.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild11.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild12.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild28.png",
+      "hash": "434f70a658881990",
+      "size_bytes": 79
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild13.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild14.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild15.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild16.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild17.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild18.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild19.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild2.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild20.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild21.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild22.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild28.png",
+      "hash": "434f70a658881990",
+      "size_bytes": 79
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild23.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild24.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild25.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild26.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild27.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild28.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild29.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild3.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild30.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild31.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild4.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild5.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild6.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild7.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild8.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite3_Bild9.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild10.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild11.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild12.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild13.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild14.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild15.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild16.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild17.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild18.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild19.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild2.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild20.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild21.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild22.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild23.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild24.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild25.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild26.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild27.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild28.png",
+      "hash": "434f70a658881990",
+      "size_bytes": 79
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild3.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild4.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild5.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild6.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild7.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild28.png",
+      "hash": "434f70a658881990",
+      "size_bytes": 79
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild8.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anamnese Vorlesung_Seite4_Bild9.png",
+      "original": "Bilder\\Anamnese Vorlesung_Seite1_Bild10.png",
+      "hash": "7899d6ced5215978",
+      "size_bytes": 68
+    },
+    {
+      "duplicate": "Bilder\\Anmeldung AZAV - KP-24-04_Ausgefüllt_Seite2_Bild1.png",
+      "original": "Bilder\\Anmeldung AZAV - KP-24-04_Ausgefüllt_Seite1_Bild1.png",
+      "hash": "def26e1e9a7e1bea",
+      "size_bytes": 283
+    },
+    {
+      "duplicate": "Bilder\\Bildgebende Verfahren_Tag 1 _Seite60_Bild4.png",
+      "original": "Bilder\\Bildgebende Verfahren_Tag 1 _Seite58_Bild4.png",
+      "hash": "a2b58ff00e5176f8",
+      "size_bytes": 3733
+    },
+    {
+      "duplicate": "Bilder\\Bildgebende Verfahren_Tag 3_Seite15_Bild2.png",
+      "original": "Bilder\\Bildgebende Verfahren_Tag 3_Seite14_Bild5.png",
+      "hash": "ed1c58066efbf1a6",
+      "size_bytes": 553
+    },
+    {
+      "duplicate": "Bilder\\Bildgebende Verfahren_Tag 3_Seite15_Bild3.png",
+      "original": "Bilder\\Bildgebende Verfahren_Tag 3_Seite14_Bild3.png",
+      "hash": "a44f997161ebf786",
+      "size_bytes": 162
+    },
+    {
+      "duplicate": "Bilder\\Chirurgie Tag 2 _Seite32_Bild2.png",
+      "original": "Bilder\\Chirurgie Tag 2 _Seite2_Bild3.png",
+      "hash": "6e82a4492903ed18",
+      "size_bytes": 91
+    },
+    {
+      "duplicate": "Bilder\\Chirurgie Tag 2 _Seite32_Bild3.png",
+      "original": "Bilder\\Chirurgie Tag 2 _Seite2_Bild2.png",
+      "hash": "c2a8319f07acd0b0",
+      "size_bytes": 92
+    },
+    {
+      "duplicate": "Bilder\\Chirurgie_Tag 3_Seite27_Bild2.png",
+      "original": "Bilder\\Chirurgie_Tag 3_Seite26_Bild2.png",
+      "hash": "a2cf68749e61b663",
+      "size_bytes": 40571
+    },
+    {
+      "duplicate": "Bilder\\Medizinrecht Tag 1_Seite5_Bild4.png",
+      "original": "Bilder\\Medizinrecht Tag 1_Seite4_Bild3.png",
+      "hash": "a964ad6942e26c28",
+      "size_bytes": 6616
+    },
+    {
+      "duplicate": "Bilder\\Medizinrecht Tag 1_Seite6_Bild2.png",
+      "original": "Bilder\\Medizinrecht Tag 1_Seite5_Bild2.png",
+      "hash": "6adf8155d90c11cb",
+      "size_bytes": 117657
+    },
+    {
+      "duplicate": "Bilder\\Medizinrecht Tag 1_Seite6_Bild4.png",
+      "original": "Bilder\\Medizinrecht Tag 1_Seite4_Bild3.png",
+      "hash": "a964ad6942e26c28",
+      "size_bytes": 6616
+    },
+    {
+      "duplicate": "Bilder\\Medizinrecht Tag 1_Seite7_Bild2.png",
+      "original": "Bilder\\Medizinrecht Tag 1_Seite5_Bild2.png",
+      "hash": "6adf8155d90c11cb",
+      "size_bytes": 117657
+    },
+    {
+      "duplicate": "Bilder\\Medizinrecht Tag 1_Seite7_Bild4.png",
+      "original": "Bilder\\Medizinrecht Tag 1_Seite4_Bild3.png",
+      "hash": "a964ad6942e26c28",
+      "size_bytes": 6616
+    },
+    {
+      "duplicate": "Bilder\\Medizinrecht Tag 1_Seite8_Bild9.png",
+      "original": "Bilder\\Medizinrecht Tag 1_Seite8_Bild8.png",
+      "hash": "883e6de182a29779",
+      "size_bytes": 514
+    },
+    {
+      "duplicate": "Bilder\\Pharmakologie Tag 2_Seite20_Bild2.png",
+      "original": "Bilder\\Pharmakologie Tag 2_Seite19_Bild3.png",
+      "hash": "00395091623998e6",
+      "size_bytes": 31565
+    },
+    {
+      "duplicate": "Bilder\\Pharmakologie Tag 2_Seite27_Bild2.png",
+      "original": "Bilder\\Pharmakologie Tag 2_Seite26_Bild2.png",
+      "hash": "845681605035a740",
+      "size_bytes": 82608
+    },
+    {
+      "duplicate": "Dago\\Bildgebende Verfahren_Tag 3_Seite49_Bild3.png",
+      "original": "Bilder\\Bildgebende Verfahren_Tag 3_Seite49_Bild3.png",
+      "hash": "d199f0f87b258a99",
+      "size_bytes": 1461
+    },
+    {
+      "duplicate": "Dago\\Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation_Seite1_Bild1.png",
+      "original": "Bilder\\Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation_Seite1_Bild1.png",
+      "hash": "d4e3a1e1b619cf7b",
+      "size_bytes": 10146
+    },
+    {
+      "duplicate": "Dago\\Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation_Seite5_Bild1.jpeg",
+      "original": "Dago\\Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation_Seite4_Bild2.jpeg",
+      "hash": "4c562bc8e54174dc",
+      "size_bytes": 8504
+    },
+    {
+      "duplicate": "KP Medisim\\Epikrise.jpg",
+      "original": "Epikrise.jpg",
+      "hash": "f59457b3caa544ba",
+      "size_bytes": 127067
+    },
+    {
+      "duplicate": "Neurologie\\Hirnnerven\\Hemianopsien.png",
+      "original": "KP Medisim\\Neurologie\\Hirnnerven\\Hemianopsien.png",
+      "hash": "2eba1bed2df84bd5",
+      "size_bytes": 79311
+    },
+    {
+      "duplicate": "Neurologie\\Hirnnerven\\Hirnnervenkernen II.PNG",
+      "original": "KP Medisim\\Neurologie\\Hirnnerven\\Hirnnervenkernen II.PNG",
+      "hash": "6061ccd6e6dc26de",
+      "size_bytes": 423307
+    },
+    {
+      "duplicate": "Neurologie\\Hirnnerven\\Hirnnervenkernen.PNG",
+      "original": "KP Medisim\\Neurologie\\Hirnnerven\\Hirnnervenkernen.PNG",
+      "hash": "550893a7c5b8c4fa",
+      "size_bytes": 462604
+    },
+    {
+      "duplicate": "Neurologie\\Hirnnerven\\motorische Kerne.PNG",
+      "original": "KP Medisim\\Neurologie\\Hirnnerven\\motorische Kerne.PNG",
+      "hash": "1b9046ba9bc1927c",
+      "size_bytes": 325967
+    },
+    {
+      "duplicate": "Neurologie\\Hirnnerven\\Schlaganfall - AMBOSS-SOP - AMBOSS_files\\medium_6454b67ee2f266.94814705.jpg",
+      "original": "KP Medisim\\Neurologie\\Hirnnerven\\Schlaganfall - AMBOSS-SOP - AMBOSS_files\\medium_6454b67ee2f266.94814705.jpg",
+      "hash": "1e487ba9fc83f405",
+      "size_bytes": 8542
+    },
+    {
+      "duplicate": "Neurologie\\Hirnnerven\\Sensible Kerne.PNG",
+      "original": "KP Medisim\\Neurologie\\Hirnnerven\\Sensible Kerne.PNG",
+      "hash": "a646866ecfe368d3",
+      "size_bytes": 309478
+    },
+    {
+      "duplicate": "Neurologie\\Hirnnerven\\Somatoviszerale Sensibilität.PNG",
+      "original": "KP Medisim\\Neurologie\\Hirnnerven\\Somatoviszerale Sensibilität.PNG",
+      "hash": "56657dc94de3e2f5",
+      "size_bytes": 238980
+    },
+    {
+      "duplicate": "Neurologie\\Hirnnerven\\Tabelle.PNG",
+      "original": "KP Medisim\\Neurologie\\Hirnnerven\\Tabelle.PNG",
+      "hash": "e1b1a055b5f8bb6c",
+      "size_bytes": 258932
+    },
+    {
+      "duplicate": "Neurologie\\Hirnnerven\\Visceromotorische Kerne.PNG",
+      "original": "KP Medisim\\Neurologie\\Hirnnerven\\Visceromotorische Kerne.PNG",
+      "hash": "0603806b6e69ace7",
+      "size_bytes": 224570
+    },
+    {
+      "duplicate": "Neurologie\\Hirnnerven\\Viscerosensibler Kern Nucleus tractus solitarii.PNG",
+      "original": "KP Medisim\\Neurologie\\Hirnnerven\\Viscerosensibler Kern Nucleus tractus solitarii.PNG",
+      "hash": "53e435909cb0bf56",
+      "size_bytes": 337107
+    },
+    {
+      "duplicate": "Neurologie\\Schädelhirntrauma\\akute Subduralhämatom CT.PNG",
+      "original": "KP Medisim\\Neurologie\\Schädelhirntrauma\\akute Subduralhämatom CT.PNG",
+      "hash": "f7eb09f7d3f7644f",
+      "size_bytes": 357014
+    },
+    {
+      "duplicate": "Neurologie\\Schädelhirntrauma\\Akute Subduralhämatom.PNG",
+      "original": "KP Medisim\\Neurologie\\Schädelhirntrauma\\Akute Subduralhämatom.PNG",
+      "hash": "dc51f76ca445e83f",
+      "size_bytes": 786511
+    },
+    {
+      "duplicate": "Neurologie\\Schädelhirntrauma\\Das Epidural Hämatom 1.PNG",
+      "original": "KP Medisim\\Neurologie\\Schädelhirntrauma\\Das Epidural Hämatom 1.PNG",
+      "hash": "8c1e348428dab65c",
+      "size_bytes": 137516
+    },
+    {
+      "duplicate": "Neurologie\\Schädelhirntrauma\\Epidural Hämatom CT.PNG",
+      "original": "KP Medisim\\Neurologie\\Schädelhirntrauma\\Epidural Hämatom CT.PNG",
+      "hash": "1cbada32f0c34bab",
+      "size_bytes": 362404
+    },
+    {
+      "duplicate": "Neurologie\\Schädelhirntrauma\\Epidural Hämatom.PNG",
+      "original": "KP Medisim\\Neurologie\\Schädelhirntrauma\\Epidural Hämatom.PNG",
+      "hash": "c561a44f473c7110",
+      "size_bytes": 371545
+    },
+    {
+      "duplicate": "Neurologie\\Schädelhirntrauma\\Glasgow Koma Skala.PNG",
+      "original": "KP Medisim\\Neurologie\\Schädelhirntrauma\\Glasgow Koma Skala.PNG",
+      "hash": "4a36f7c3e1589e7d",
+      "size_bytes": 243832
+    },
+    {
+      "duplicate": "Neurologie\\Schädelhirntrauma\\Glasgow-Koma-Skala.PNG",
+      "original": "KP Medisim\\Neurologie\\Schädelhirntrauma\\Glasgow-Koma-Skala.PNG",
+      "hash": "dd4f5064c4e14cf3",
+      "size_bytes": 214979
+    },
+    {
+      "duplicate": "Neurologie\\Schädelhirntrauma\\Management bei Verdacht auf SHT.PNG",
+      "original": "KP Medisim\\Neurologie\\Schädelhirntrauma\\Management bei Verdacht auf SHT.PNG",
+      "hash": "023267bbfbca8a2f",
+      "size_bytes": 336799
+    },
+    {
+      "duplicate": "Neurologie\\Schädelhirntrauma\\Monro-Kellie Doktrin.PNG",
+      "original": "KP Medisim\\Neurologie\\Schädelhirntrauma\\Monro-Kellie Doktrin.PNG",
+      "hash": "c25059d1299016b2",
+      "size_bytes": 409356
+    },
+    {
+      "duplicate": "Neurologie\\Schädelhirntrauma\\Schädel-Hirn-Trauma 1.PNG",
+      "original": "KP Medisim\\Neurologie\\Schädelhirntrauma\\Schädel-Hirn-Trauma 1.PNG",
+      "hash": "69d04ecbc12533af",
+      "size_bytes": 92104
+    },
+    {
+      "duplicate": "Neurologie\\Schädelhirntrauma\\Schädel-Hirn-Trauma.PNG",
+      "original": "KP Medisim\\Neurologie\\Schädelhirntrauma\\Schädel-Hirn-Trauma.PNG",
+      "hash": "40d4342477a41404",
+      "size_bytes": 838590
+    },
+    {
+      "duplicate": "Neurologie\\Schädelhirntrauma\\Schädelfraktur.PNG",
+      "original": "KP Medisim\\Neurologie\\Schädelhirntrauma\\Schädelfraktur.PNG",
+      "hash": "fbdcca49df2a37d0",
+      "size_bytes": 348155
+    },
+    {
+      "duplicate": "Neurologie\\Schädelhirntrauma\\Subarachnoidalblutung CT.PNG",
+      "original": "KP Medisim\\Neurologie\\Schädelhirntrauma\\Subarachnoidalblutung CT.PNG",
+      "hash": "bd65128a59a13869",
+      "size_bytes": 299784
+    },
+    {
+      "duplicate": "Neurologie\\Schädelhirntrauma\\traumatische Subaracnoidalblutung.PNG",
+      "original": "KP Medisim\\Neurologie\\Schädelhirntrauma\\traumatische Subaracnoidalblutung.PNG",
+      "hash": "00f6ea183892c5f7",
+      "size_bytes": 624648
+    },
+    {
+      "duplicate": "Neurologie\\Schädelhirntrauma\\Zerebraler Perfusionsdruck.PNG",
+      "original": "KP Medisim\\Neurologie\\Schädelhirntrauma\\Zerebraler Perfusionsdruck.PNG",
+      "hash": "743c83eefd3108b4",
+      "size_bytes": 101046
+    }
+  ],
+  "anonymized": 0,
+  "quality_checked": 0,
+  "hallucinated": 0,
+  "auto_corrected": 0,
+  "rag_validated": 0,
+  "rag_consensus_avg": 0.0,
+  "start_time": "2025-10-08T19:33:41.837866",
+  "end_time": "2025-10-08T19:35:33.349533",
+  "duration_seconds": 111.511667,
+  "model_used": "Claude Sonnet 4.5",
+  "by_category": {},
+  "by_subject": {},
+  "by_format": {
+    ".apkg": 2,
+    ".pdf": 537,
+    ".md": 119,
+    ".png": 256,
+    ".docx": 91,
+    ".epub": 1,
+    ".jpg": 7,
+    ".jpeg": 24,
+    ".xlsx": 1,
+    ".txt": 67,
+    ".pptx": 3,
+    ".doc": 18,
+    ".html": 10
+  },
+  "errors": [],
+  "sim_patient_whitelist_size": 8,
+  "cost_savings_duplicates": 42.84,
+  "features_enabled": [
+    "1_empty_document_handling",
+    "2_subject_classification",
+    "3_quality_hallucination_check",
+    "4_auto_correction",
+    "5_learning_tracker",
+    "6_cli_gui_export",
+    "7_maximum_auditability",
+    "8_content_duplicate_detection",
+    "9_rag_enhanced_validation"
+  ]
+}

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. \n\nDer Text ist ein **theoretischer Lehrbuchabschnitt** aus einem pharmakologischen Lehrbuch (Amboss) und behandelt folgende theoretische Themen:\n\n1. **Biotransformation** (Metabolisierung von Medikamenten)\n2. **Exkretion** (Clearance, Halbwertszeit, renale/biliäre/pulmonale Elimination)\n3. **Pharmakodynamik** (Rezeptortypen, Agonisten, Antagonisten)\n4. **Dosis-Wirkungs-Beziehung** (ED50, LD50, therapeutische Breite)\n5. **Pharmakogenetik** (CYP2D6-Polymorphismus, N-Acetyltransferase, etc.)\n6. **Medikamenteninteraktionen** (Cytochrom-P450-System)\n\nEs werden zwar theoretische Beispiele genannt (z.B. \"ASS-Bindung an die Cyclooxygenase\", \"Penicillin mit großer therapeutischer Breite\", \"Lithium mit geringer therapeutischer Breite\"), aber es handelt sich um **keine konkreten Patientenpräsentationen** mit:\n- Anamnese\n- Symptomen\n- Untersuchungsbefunden\n- Diagnostik\n- Therapie\n\nDies ist rein didaktisches Material zur Vermittlung pharmakologischer Grundlagen."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 18/84) enthält **keine vollständigen klinischen Präsentationsfälle**. \n\nDer Text besteht aus:\n\n1. **Lernkarteninhalten zur Gicht (3.6)**: Therapie, Rezidivprophylaxe, Komplikationen - rein theoretisches Wissen ohne Patientenfall\n\n2. **Lernkarteninhalten zur Herzinsuffizienz (3.7)**: \n   - Definition\n   - Ätiologie\n   - Klinik (Linksherzinsuffizienz, Rechtsherzinsuffizienz)\n   - NYHA-Stadien\n   - Diagnostik (allgemeine Beschreibung)\n   - Therapie (Stufenschema)\n\nAlles sind **systematische Lehrbuchinformationen** ohne konkrete Patientenfälle mit individueller Anamnese, Vorstellung oder Präsentation.\n\nEs gibt keine Beschreibung wie \"Ein 65-jähriger Patient stellt sich vor mit...\" oder ähnliche Fallpräsentationen."
+  }
+]

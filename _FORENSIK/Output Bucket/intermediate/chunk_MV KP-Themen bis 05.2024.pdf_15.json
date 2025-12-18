@@ -1,0 +1,258 @@
+[
+  {
+    "title": "18-jähriger mit Gewichtsverlust und Polyurie - Diabetes mellitus Typ 1",
+    "patient_age": "18 Jahre",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "7 kg Gewichtsverlust in einem Monat",
+      "Polyurie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Urin kontrollieren auf Ketonkörper"
+    ],
+    "suspected_diagnosis": [
+      "Diabetes mellitus Typ 1",
+      "Ketoazidose"
+    ],
+    "diagnostic_approach": [
+      "Urinuntersuchung",
+      "Blutzuckerkontrolle"
+    ],
+    "treatment_response": [
+      "Flüssigkeitsgabe",
+      "Insulingabe initial intravenös"
+    ],
+    "complications": [
+      "Ketoazidose"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "25-jähriger mit diabetischer Ketoazidose",
+    "patient_age": "25 Jahre",
+    "patient_gender": "männlich",
+    "severity": "severe",
+    "chief_complaints": [
+      "Azidose",
+      "Hyperglykämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 1"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "BGA: Azidose",
+      "Hyperglykämie",
+      "Ketoazidose"
+    ],
+    "suspected_diagnosis": [
+      "diabetische Ketoazidose",
+      "schwere Dekompensation DM Typ 1"
+    ],
+    "diagnostic_approach": [
+      "BGA"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Ketoazidotisches Koma"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "29-jähriger mit Hypertonie und Hypokaliämie - Phäochromozytom",
+    "patient_age": "29 Jahre",
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Hypertonie",
+      "Hypokaliämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Hypokaliämie"
+    ],
+    "suspected_diagnosis": [
+      "Phäochromozytom"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit rektaler Blutung - Sigmakarzinom mit Metastasen",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "rektale Blutung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Staging-CT Abdomen: Metastasen in mesenterialen Lymphknoten und Leber"
+    ],
+    "laboratory_findings": [
+      "Anämie (Hb, Hkt, MCH, MCV, Transferrin niedrig)",
+      "Tumormarker: CEA, CA 19-9"
+    ],
+    "suspected_diagnosis": [
+      "Sigmakarzinom",
+      "kolorektales Karzinom",
+      "pT3N1R0M0"
+    ],
+    "diagnostic_approach": [
+      "Koloskopie mit Biopsie",
+      "Staging-CT Abdomen"
+    ],
+    "treatment_response": [
+      "linksseitige Hemikolektomie mit Lymphknoten und Gefäßen",
+      "adjuvante Therapie"
+    ],
+    "complications": [
+      "Lebermetastasen",
+      "mesenteriale Lymphknotenmetastasen"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit zweitem Tumor Colon descendens und postoperativer Sensibilitätsstörung",
+    "patient_age": null,
+    "patient_gender": "männlich",
+    "severity": "severe",
+    "chief_complaints": [
+      "zweiter Tumor im Colon descendens"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Zustand nach tiefer anteriorer Rektumresektion wegen Rektumkarzinom"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Zweitkarzinom Colon descendens"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "linksseitige Hemikolektomie mit doppelläufigem Kolostoma"
+    ],
+    "complications": [
+      "Sensibilitätsstörung am linken Oberschenkel postoperativ"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Rektumkarzinom 6 cm von Anokutanlinie entfernt",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "starre Rektoskopie: Rektumkarzinom 6 cm von Anokutanlinie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rektumkarzinom"
+    ],
+    "diagnostic_approach": [
+      "Staging",
+      "TNM-Klassifikation"
+    ],
+    "treatment_response": [
+      "neoadjuvante Radiochemotherapie",
+      "chirurgische Resektion",
+      "adjuvante Radiochemotherapie"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Rezidiv eines Rektumanastomosenkarzinoms mit postoperativem Subileus",
+    "patient_age": null,
+    "patient_gender": "männlich",
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Zustand nach Rektumkarzinom-Resektion"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rezidiv eines Rektumanastomosenkarzinoms"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "elektive Operation"
+    ],
+    "complications": [
+      "postoperative paralytische Darmatonie mit Subileus"
+    ],
+    "follow_up": []
+  }
+]

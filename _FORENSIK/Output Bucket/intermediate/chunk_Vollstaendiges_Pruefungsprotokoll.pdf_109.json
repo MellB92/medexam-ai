@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 110/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Prüfungsfragen und -antworten** zu theoretischem medizinischem Wissen:\n   - Analfisteln und Analabszesse\n   - Schilddrüsenfunktionsdiagnostik (TSH, T3, T4)\n   - Bilirubinbestimmung\n   - Urinuntersuchungen (Urinstatus, Parameter)\n   - Niereninsuffizienz (akut und chronisch)\n   - Therapierefraktäre Hypertonie\n\n2. **Didaktische Bewertungen** von Kandidatenantworten mit Musterlösungen und Fehleranalysen\n\nEs gibt **keine Patientenpräsentation** mit:\n- Konkreten Patientendaten (Alter, Geschlecht)\n- Anamnestischen Angaben\n- Untersuchungsbefunden\n- Diagnostischen Überlegungen zu einem spezifischen Fall\n\nDies ist ein Prüfungsprotokoll mit theoretischen Wissensfragen, keine Falldokumentation."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt stammt aus einem pharmakologischen Lehrbuch (\"Last Minute Pharmakologie\") und enthält ausschließlich theoretische Grundlagen der Pharmakologie:\n\n- **Pharmakokinetik:** Resorption, Verteilung, Elimination, Metabolismus\n- **Pharmakokinetische Parameter:** Bioverfügbarkeit, Verteilungsvolumen, Clearance, Halbwertszeit\n- **Pharmakodynamik:** Wirkstärke, Agonisten, Antagonisten, Dosis-Wirkungs-Beziehungen\n\nEs werden zwar einzelne Medikamente erwähnt (z.B. Paracetamol, Penicillin, Phenytoin, ASS, Ethanol), aber **nicht im Kontext konkreter Patientenfälle**, sondern als Beispiele für pharmakologische Prinzipien.\n\nDie CHECK-UP Fragen am Ende sind reine Wissensfragen ohne klinischen Fallbezug.\n\n**Fazit:** Keine klinischen Präsentationsfälle vorhanden."
+  }
+]

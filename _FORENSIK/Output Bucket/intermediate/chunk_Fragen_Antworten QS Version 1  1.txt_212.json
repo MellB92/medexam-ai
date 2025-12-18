@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. \n\nEs handelt sich ausschließlich um **theoretisches Wissen** zu Strahlenschutz und radiologischen Untersuchungen, speziell:\n\n- Strahlendosen verschiedener Untersuchungen (Abdomen-Röntgen, CT Abdomen)\n- Strahlenschutzmittel (Bleischürzen, Bleiglasscheiben, etc.)\n- Qualitätssicherungsmaßnahmen (Konstanzprüfung, Sachverständigenprüfung)\n- Kontraindikationen für Röntgenuntersuchungen\n- Dokumentationspflichten\n- Komplikationstypen (deterministisch, stochastisch, genetische Schäden)\n\nEs gibt:\n- Keine Patientenbeschreibung\n- Keine Anamnese oder Symptome\n- Keine klinische Präsentation\n- Keine diagnostische oder therapeutische Falldarstellung\n\nDies ist rein didaktisches Material ohne klinische Fallstruktur."
+  }
+]

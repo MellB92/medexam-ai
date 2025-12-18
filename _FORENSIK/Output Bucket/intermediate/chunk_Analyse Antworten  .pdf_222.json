@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Schneelawinenunfall mit Kammerflimmern und Hypothermie\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Kammerflimmern\", \"Hypothermie\"],\n    \"accident_mechanism\": \"Schneelawinenunfall\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Bewusstlos\", \"Kreislaufstillstand\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Kreislaufstillstand bei Hypothermie\", \"Kammerflimmern\"],\n    \"diagnostic_approach\": [\"CPR\", \"Defibrillation (max. 3 Versuche bei Hypothermie)\", \"ERC-Algorithmus\", \"Wärmeerhaltung\", \"Fortführung der Reanimation über längere Zeiträume\", \"Transport in geeignete Klinik mit ECMO-Möglichkeit\"]\n  }\n]\n```"
+  }
+]

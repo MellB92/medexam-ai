@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Rheumatoide Arthritis mit NSAR-induzierter oberer GI-Blutung",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Obere gastrointestinale Blutung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Rheumatoide Arthritis"
+    ],
+    "medications": [
+      "Ibuprofen"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rheumatoide Arthritis mit durch Ibuprofen induzierter oberer gastrointestinaler Blutung"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Subkapitale Humerusfraktur mit Schulterluxation nach Sturz",
+    "patient_age": "älterer Patient",
+    "patient_gender": null,
+    "chief_complaints": [
+      "Sturz zu Hause"
+    ],
+    "accident_mechanism": "Sturz zu Hause",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Subkapitale Humerusfraktur im Röntgenbild der Schulter",
+      "Mögliche Schulterluxation",
+      "Hill-Sachs-Läsion um die Akromionprozesse",
+      "Mögliche Verletzungen der Rotatorenmanschette"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Subkapitale Humerusfraktur",
+      "Schulterluxation",
+      "Hill-Sachs-Läsion",
+      "Rotatorenmanschettenverletzung"
+    ],
+    "diagnostic_approach": [
+      "cABCDE-Schema: Kontrolle kritischer Blutungen, Sicherung der Atemwege, Überprüfung Atmung und Kreislauf, neurologische Beurteilung, vollständige Untersuchung",
+      "SAMPLE-Schema Anamnese",
+      "Röntgenbild der Schulter"
+    ]
+  }
+]

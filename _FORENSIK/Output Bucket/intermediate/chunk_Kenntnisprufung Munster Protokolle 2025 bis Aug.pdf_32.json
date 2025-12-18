@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Hyperthyreose bei 15.03 #2",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Herzrasen",
+      "Nervosität",
+      "breiige Stuhl",
+      "Schwitzen auch am Tag",
+      "Wärme Intoleranz",
+      "Gewichtsabnahme trotz normale Appetit",
+      "Zittern"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Vitalzeichen",
+      "Herz Auskultation",
+      "Lungen Auskultation",
+      "Abdomen Untersuchung",
+      "neurologische Untersuchung"
+    ],
+    "imaging_findings": [
+      "EKG unauffällig",
+      "Echo: Echoarme Läsionen",
+      "Doppler: hypervaskuläre",
+      "Szintigraphie: Heiße Knoten",
+      "Röntgen Thorax: Kardiomegalie mit Stauungszeichen (Herzinsuffizienz)",
+      "CT Abdomen: Ileus"
+    ],
+    "laboratory_findings": [
+      "TSH",
+      "fT3 und fT4",
+      "TRAK",
+      "TAK",
+      "TPO AK",
+      "BGA: Diabetes ketoazidose"
+    ],
+    "suspected_diagnosis": [
+      "Hyperthyreose",
+      "Morbus Basedow",
+      "Autonomie",
+      "SD Adenom"
+    ],
+    "diagnostic_approach": [
+      "Labor: TSH, fT3, fT4, TRAK, TAK, TPO AK",
+      "EKG",
+      "Echo",
+      "Doppler",
+      "Szintigraphie",
+      "Röntgen Thorax",
+      "BGA"
+    ]
+  },
+  {
+    "title": "Hyperthyreose bei 15.03 #1 (nicht bestanden)",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Tachykardie",
+      "Schwitzen",
+      "Nervosität",
+      "seltsames Gefühl in den Augen",
+      "Beschwerden seit etwa 4 Wochen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "allergische Rhinitis",
+      "Unverträglichkeit gegenüber Milchprodukten",
+      "vor zwei Jahren 'Magenerreger' (vermutlich H. pylori)",
+      "Zustand nach Kaiserschnitt",
+      "vor 8 Wochen Bauchschmerzen mit Verdacht auf Darmverschluss (ausgeschlossen)"
+    ],
+    "medications": [
+      "regelmäßig keine Medikamente",
+      "vor zwei Jahren große Anzahl von Tabletten (vermutlich H. pylori Eradikation)"
+    ],
+    "allergies": [
+      "Unverträglichkeit gegenüber Milchprodukten"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT Abdomen vor 8 Wochen: Darmverschluss ausgeschlossen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Thyreotoxikose",
+      "M. Basedow",
+      "AIT",
+      "VHF",
+      "Panikattacke"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung"
+    ]
+  }
+]

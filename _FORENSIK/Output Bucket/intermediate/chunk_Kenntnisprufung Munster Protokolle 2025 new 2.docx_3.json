@@ -1,0 +1,129 @@
+[
+  {
+    "title": "Akute Cholezystitis mit postoperativem Leak",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Klassische Cholezystitis-Beschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Ellenbogen Fraktur links (osteosynthetisch behandelt)",
+      "Z.n. Lumbalgie mit Ausstrahlung ins linke Bein",
+      "Behandlung mit Infiltrationen"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter: TVT nach Hüft-OP",
+      "Schwester: CED",
+      "Bruder: Schlaganfall wegen kardialer Ursache"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Murphy-Zeichen positiv"
+    ],
+    "imaging_findings": [
+      "Ultraschall: Cholezystolithiasis"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akute Cholezystitis",
+      "Cholezystolithiasis"
+    ],
+    "diagnostic_approach": [
+      "Anamnese und körperliche Untersuchung",
+      "Laborwerte",
+      "Sonographie"
+    ],
+    "treatment_response": [
+      "Cholezystektomie (laparoskopisch)",
+      "ERCP mit Stentplatzierung bei postoperativem Leak"
+    ],
+    "complications": [
+      "Postoperatives Leak"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Akute Cholezystitis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Klassische Cholezystitis-Beschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter: TVT",
+      "Schwester: CED",
+      "Bruder: Schlaganfall wegen offenem Foramen ovale"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Körperliche Untersuchung unauffällig"
+    ],
+    "imaging_findings": [
+      "Ultraschall: Cholezystolithiasis"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akute Cholezystitis",
+      "Cholezystolithiasis"
+    ],
+    "diagnostic_approach": [
+      "Anamnese und körperliche Untersuchung",
+      "Laborwerte",
+      "Sonographie"
+    ],
+    "treatment_response": [
+      "Cholezystektomie (laparoskopisch)"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "VKB-Ruptur und Tibia-Fraktur (Polytrauma)",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "VKB-Ruptur",
+      "Tibia-Fraktur"
+    ],
+    "accident_mechanism": "Trauma (Details nicht spezifiziert)",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Untersuchung als Polytrauma durchgeführt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "VKB-Ruptur",
+      "Tibia-Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Polytrauma-Untersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

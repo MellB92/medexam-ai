@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Lehrbuchinhalten** zur Diagnostik und Therapie von Harnwegsinfekten (HWI)\n2. **Theoretische Darstellungen** zu akutem Nierenversagen (Definition, Ätiologie, Klinik, Diagnostik, Therapie)\n3. **Beginn einer Sektion** zur chronischen Niereninsuffizienz (Definition, Ätiologie, Klinik)\n\nEs handelt sich um strukturierte Lernkarten mit:\n- Diagnostischen Kriterien\n- Laborwerten und deren Interpretation\n- Therapieempfehlungen\n- Differentialdiagnosen nach Kategorien (prärenal, intrarenal, postrenal)\n\n**Keine** dieser Informationen wird in Form eines konkreten Patientenfalls mit individuellen Charakteristika (Alter, Geschlecht, spezifische Anamnese, konkreter Untersuchungsbefund) präsentiert."
+  }
+]

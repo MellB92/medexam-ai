@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Sprunggelenksfraktur (Weber-B-Fraktur)\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\n      \"Sprunggelenksfraktur\",\n      \"Weber-B-Fraktur\",\n      \"Röntgenbilder zeigen Sprunggelenksfraktur\"\n    ],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Weber-B-Fraktur\",\n      \"Maisonneuve-Fraktur (DD, muss ausgeschlossen werden)\"\n    ],\n    \"diagnostic_approach\": [\n      \"Röntgenbilder\",\n      \"Ausschluss zusätzlicher Frakturen, insbesondere Maisonneuve-Fraktur\"\n    ]\n  }\n]\n```"
+  }
+]

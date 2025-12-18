@@ -1,0 +1,48 @@
+[
+  {
+    "title": "pAVK mit Claudicatio intermittens nach Thailand-Reise",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Wadenschmerzen beim Laufen",
+      "Schmerzen nach ca. 400m Gehstrecke",
+      "ab und zu Luftnot"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Hyperlipidämie",
+      "Z.n. Bandscheiben-OP L4/L5 vor 20 Jahren"
+    ],
+    "medications": [
+      "Lisinopril 20 mg 1-0-0",
+      "Atorvastatin 20 mg 0-0-1",
+      "Zäpfchen bei Bedarf"
+    ],
+    "allergies": [
+      "Penicillinallergie mit Exanthem"
+    ],
+    "physical_examination": [
+      "Komplette körperliche Untersuchung durchgeführt",
+      "Alle Pulse untersucht",
+      "Lungenperkussion",
+      "Leberuntersuchung",
+      "Reflexe inklusive Babinski",
+      "Untersuchung auf Polyneuropathie"
+    ],
+    "imaging_findings": [
+      "Röntgen Unterschenkel: Tibia-Schaftfraktur",
+      "Proximale und distale Fibulafraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "pAVK Stadium IIa",
+      "DD: Tiefe Venenthrombose (TVT nach langer Reise)"
+    ],
+    "diagnostic_approach": [
+      "Knöchel-Arm-Index (ABI)",
+      "Klinische Differenzierung pAVK vs. TVT",
+      "Dopplerverschlussdruckmessung"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle** im eigentlichen Sinne, sondern ausschließlich **EKG-Beispiele aus einem Lehrbuch** (\"EKG-Kurs für Isabel\").\n\nEs handelt sich um:\n- **EKG-Beispiel 25**: Akuter inferiorer Infarkt (STEMI)\n- **EKG-Beispiel 26**: Akuter Vorderwandinfarkt (anteriorer STEMI)\n- **EKG-Beispiel 27**: Akuter inferiorer Infarkt (STEMI)\n- **EKG-Beispiel 28**: Vorderwandinfarkt im Zwischenstadium\n- **EKG-Beispiel 29**: Inferiorer Infarkt im Folgestadium (angeschnitten)\n\nDiese Beispiele enthalten:\n- EKG-Befunde und technische Beschreibungen\n- Deutungen/Diagnosen\n- Didaktische Kommentare\n\n**Es fehlen jedoch wesentliche Elemente echter Patientenfälle:**\n- Keine Patientenangaben (Alter, Geschlecht)\n- Keine Anamnese oder klinische Symptomatik\n- Keine Angaben zu Vorerkrankungen, Medikamenten\n- Keine körperliche Untersuchung\n- Keine Laborwerte\n\nDies sind **didaktische EKG-Beispiele** zur Ausbildung, keine dokumentierten Patientenpräsentationen."
+  }
+]

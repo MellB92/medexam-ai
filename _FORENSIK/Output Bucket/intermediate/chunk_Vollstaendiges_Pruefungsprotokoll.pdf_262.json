@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 263/585) enthält **keine vollständigen klinischen Patientenfälle**. Es handelt sich ausschließlich um:\n\n1. **Prüfungsfragen mit theoretischem Wissen** (z.B. Unterschied nephrotisches/nephritisches Syndrom, Merseburger Trias, ALARA-Prinzip)\n\n2. **Fragmentarische Szenarien ohne vollständige Falldarstellung** wie:\n   - \"Bilder von Basedow mit Merseburger Trias\" (nur Bildbeschreibung, kein Patientenfall)\n   - \"Schilddrüsensonographie mit Hyperämie\" (nur technische Frage zur Bildgebung)\n   - \"Patient nimmt Medikament für Prostatahyperplasie\" (isolierte Medikamentenfrage)\n   - \"Polytrauma mit Beckenringfraktur und Calcaneusfraktur\" (nur Definitionsfrage, kein ausgearbeiteter Fall)\n\n3. **Definitionen und Klassifikationen** (Wells-Score, Tile-Klassifikation, AO-Klassifikation)\n\nKeines dieser Elemente stellt einen vollständigen klinischen Präsentationsfall mit zusammenhängender Anamnese, Untersuchung und diagnostischem Vorgehen dar. Es sind lediglich isolierte Wissensfragen aus einem Prüfungsprotokoll."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 11/12) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Inhalt besteht ausschließlich aus:\n\n1. **Lehrbildern und radiologischen Beispielen** ohne Patientenkontext:\n   - Dünndarm-Ileus, Dickdarm-Ileus (nur Bilder mit \"Was sehen Sie?\")\n   - Freie Luft im Abdomen\n   - Kalzifiziertes Bauchaorten-Aneurysma\n   - Verschiedene Frakturen (mediale Schenkelhalsfraktur, Sprunggelenksfrakturen)\n\n2. **Theoretischem Lehrmaterial**:\n   - Systematik der Abdomen-Röntgen-Befundung (Ileus-Klassifikation)\n   - Frakturzeichen im Röntgenbild\n   - Osteosynthese-Verfahren\n   - Anatomische Darstellungen (Handskelett, Fußskelett)\n\n3. **Verfahrensbeschreibungen**:\n   - Bronchoskopie (Indikationen, Komplikationen, Aufklärung)\n   - Zystoskopie (Indikationen, Komplikationen)\n\nEs handelt sich um **Lehrmaterial** mit Beispielbildern und didaktischen Fragen, aber **keine narrativen Patientenfälle** mit Anamnese, Untersuchungsbefunden und diagnostischem Vorgehen."
+  }
+]

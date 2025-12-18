@@ -1,0 +1,313 @@
+[
+  {
+    "title": "Plötzlicher Kollaps mit AV-Block III° in Notaufnahme",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "critical",
+    "chief_complaints": [
+      "plötzliche Kollapsierung",
+      "nun in Notaufnahme"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit 3-Grad AV-Block"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "AV-Block III°",
+      "Bradykardie mit Kollaps"
+    ],
+    "diagnostic_approach": [
+      "ABCD-Schema",
+      "sofortiges EKG"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "passagere Herzschrittmacher",
+      "dann permanenter Schrittmacher mit DDD-Modus"
+    ]
+  },
+  {
+    "title": "Bewusstloser Alkoholiker mit Ösophagusvarizenblutung",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "critical",
+    "chief_complaints": [
+      "bewusstlos",
+      "Blut im Mund überall"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Alkoholismus"
+    ],
+    "comorbidities": [
+      "Ösophagusvarizen"
+    ],
+    "risk_factors": [
+      "Alkoholkonsum"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Mann von Haus mit Alkoholflaschen",
+      "Alkoholiker"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "RR 80/50 mmHg"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Abdominale Freiflüssigkeit im Sono",
+      "Endoskopie: Forrest 1a spritzende Blutung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Ösophagusvarizenblutung",
+      "hämorrhagischer Schock"
+    ],
+    "diagnostic_approach": [
+      "ABCD-Schema",
+      "sofortiger Venenzugang",
+      "Blutbild",
+      "Gerinnungsparameter",
+      "Kreuzblut",
+      "0-negativ-Blut-Gabe",
+      "Fast-Sono",
+      "Endoskopie nach Stabilisierung"
+    ],
+    "treatment_response": [
+      "Gummibandligatur nicht möglich",
+      "Blackmore-Tamponade als Überbrückung"
+    ],
+    "complications": [
+      "therapierefraktäre Blutung"
+    ],
+    "follow_up": [
+      "TIPS-Vorbereitung"
+    ]
+  },
+  {
+    "title": "Pankreaskopf-Raumforderung mit anfallsartiger Hypoglykämie (Insulinom)",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "anfallsartige Hypoglykämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT Abdomen axial: Pankreaskopf-Raumforderung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Insulinom"
+    ],
+    "diagnostic_approach": [
+      "CT Abdomen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "PKW-Unfall mit HWS-Distorsion",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "PKW-Unfall",
+      "HWS-Distorsion"
+    ],
+    "accident_mechanism": "PKW-Unfall",
+    "pre_existing_conditions": [
+      "Hypothyreose",
+      "Depression",
+      "Herzschrittmacher implantiert"
+    ],
+    "comorbidities": [
+      "AV-Block",
+      "Bradykardie"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "SSRI"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Venenzugang gelegt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "HWS-Distorsion"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Akute Cholezystitis mit Murphy-Zeichen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "rechter Oberbauchschmerz seit Vorabend",
+      "Ausstrahlung in rechte Schulter und Rücken",
+      "postprandial verstärkt",
+      "Übelkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Ellenbogenfraktur (anamnestisch)",
+      "Borreliose (anamnestisch)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Ibuprofen bei Bedarf"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Puls gemessen beidseitig",
+      "Blutdruck gemessen beidseitig"
+    ],
+    "physical_examination": [
+      "positives Murphy-Zeichen",
+      "Muskel-Sehnen-Reflexe obere und untere Extremitäten geprüft",
+      "sonst unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Cholezystitis"
+    ],
+    "diagnostic_approach": [
+      "körperliche Untersuchung",
+      "Aufklärung über ERCP und operative Optionen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Jugendlicher ischämischer Schlaganfall bei ASD mit paradoxer Embolie",
+    "patient_age": "14-jährig",
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "ischämischer Infarkt"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Vorhofseptumdefekt (ASD)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "paradoxe Embolie bei ASD",
+      "ischämischer Schlaganfall kardialer Genese"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "akute Lungenembolie als Auslöser"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Colitis ulcerosa in Koloskopie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Koloskopie: Fibrinbeläge",
+      "Hyperämie",
+      "punktförmige Blutungen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Colitis ulcerosa"
+    ],
+    "diagnostic_approach": [
+      "Koloskopie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "STEMI inferior",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit ST-Hebung in II, III, aVF"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "STEMI inferior"
+    ],
+    "diagnostic_approach": [
+      "EKG"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

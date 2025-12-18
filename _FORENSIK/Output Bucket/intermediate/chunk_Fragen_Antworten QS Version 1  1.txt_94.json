@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Subkapitale Humerusfraktur nach Sturz beim geriatrischen Patienten\",\n    \"patient_age\": \"80-jähriger\",\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Schulterschmerzen\", \"Bewegungseinschränkung nach Sturz\"],\n    \"accident_mechanism\": \"Sturz\",\n    \"pre_existing_conditions\": [\"Alter über 70 Jahre\", \"vermutlich Osteoporose\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Gefäß-/Nervenstatus (A. axillaris, N. axillaris)\"],\n    \"imaging_findings\": [\"Röntgen in 2 Ebenen (a.p. und axial/Y-View)\", \"CT bei komplexer/mehrfragmentärer Fraktur\", \"NEER-Klassifikation Typ I-IV\"],\n    \"laboratory_findings\": [\"DXA-Messung zur Osteoporose-Diagnostik\"],\n    \"suspected_diagnosis\": [\"Subkapitale Humerusfraktur\", \"Osteoporose\"],\n    \"diagnostic_approach\": [\"Röntgen in 2 Ebenen\", \"CT bei komplexer Fraktur\", \"NEER-Klassifikation\", \"Gefäß-/Nervenstatus prüfen\", \"Osteoporose-Diagnostik (DXA-Messung)\", \"Sturzanamnese\", \"Geriatrisches Assessment\"]\n  }\n]\n```"
+  }
+]

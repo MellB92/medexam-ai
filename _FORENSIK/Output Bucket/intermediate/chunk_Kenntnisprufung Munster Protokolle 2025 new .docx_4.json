@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"pAVK mit progredientem Unterschenkelschmerz rechts\",\n    \"patient_age\": \"79 Jahre\",\n    \"patient_gender\": \"m\",\n    \"chief_complaints\": [\n      \"progrediente Schmerzen im rechten Unterschenkel\",\n      \"schmerzfreie Gehstrecke ca. 400 m\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Unterschenkelfraktur vor 20 Jahren (operativ mit Platte versorgt)\",\n      \"LWS-OP (L4/5) vor 10 Jahren\"\n    ],\n    \"medications\": [\n      \"Lisinopril\",\n      \"Atorvastatin\",\n      \"Ibuprofen bei Bedarf\"\n    ],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"pAVK\",\n      \"TVT\",\n      \"Arthrose\"\n    ],\n    \"diagnostic_approach\": [\n      \"Duplex-Sonografie\",\n      \"Wells-Score\",\n      \"D-Dimere\",\n      \"CT-Angiografie\"\n    ]\n  }\n]\n```"
+  }
+]

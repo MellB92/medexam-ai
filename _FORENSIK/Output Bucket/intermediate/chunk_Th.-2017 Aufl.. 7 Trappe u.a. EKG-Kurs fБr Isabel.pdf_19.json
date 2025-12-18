@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 20/111) aus einem EKG-Lehrbuch enthält **keine klinischen Patientenfälle**. \n\nDer Abschnitt umfasst:\n\n1. **Lektion 7**: Technische Grundlagen zur Bestimmung von Herzrhythmus und Herzfrequenz\n   - Erklärung des Millimeterpapiers\n   - Berechnungsmethoden für die Herzfrequenz\n   - Technische Hinweise zur Papiervorschubgeschwindigkeit\n\n2. **Inhaltsverzeichnis**: Übersicht über Lektionen 8-36 des EKG-Kurses\n\n3. **Lektion 8 (Anfang)**: Theoretische Grundlagen zur Erkennung eines Sinusrhythmus\n   - Definition und Kriterien des Sinusrhythmus\n   - Variationen (Sinustachykardie, Sinusbradykardie, Sinusarrhythmie)\n   - Schematische Abbildungen zur Illustration\n\nEs handelt sich ausschließlich um **didaktisches Lehrmaterial** mit theoretischen Konzepten, Definitionen und schematischen Darstellungen. Es werden keine konkreten Patienten mit Anamnese, Befunden oder klinischer Präsentation vorgestellt."
+  }
+]

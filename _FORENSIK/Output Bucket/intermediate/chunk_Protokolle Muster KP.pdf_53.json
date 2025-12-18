@@ -1,0 +1,165 @@
+[
+  {
+    "title": "Geröter und geschwollener Fuß - V.a. Gicht",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "gerötet",
+      "geschwollen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Fuß gerötet",
+      "Fuß geschwollen"
+    ],
+    "imaging_findings": [
+      "Foto - Fuß"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Gicht"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Patient mit Krampfanfall in Notaufnahme",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Krampfanfall"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "krampft"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Krampfanfall stoppen - Benzodiazepine bukkal oder rektal",
+      "Vitalparameter messen",
+      "Ursache finden",
+      "Zugang legen",
+      "Antikonvulsiva",
+      "Hilfe von Kollegen holen"
+    ]
+  },
+  {
+    "title": "50-jähriger Patient mit Husten - V.a. Bronchialkarzinom",
+    "patient_age": "50 Jahre",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Husten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rö-Thorax pa und seitliche Aufnahme",
+      "Raumforderung zentral, perihilär rechts",
+      "unscharfe Begrenzung",
+      "Stenosierung distal der Läsion"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom"
+    ],
+    "diagnostic_approach": [
+      "Erstmal symptomatisch behandeln",
+      "Nach 3 Wochen Rö Thorax"
+    ]
+  },
+  {
+    "title": "Chronischer Husten mit Hämoptoe - V.a. Bronchialkarzinom",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "chronischer Husten",
+      "Blut im Auswurf seit 14 Tagen"
+    ],
+    "accident_mechanism": "Autounfall vor 10 Jahren mit Beckenringfraktur",
+    "pre_existing_conditions": [
+      "chronische Bronchitis seit vielen Jahren",
+      "arterielle Hypertonie",
+      "chronische Obstipation",
+      "Beckenringfraktur vor 10 Jahren",
+      "chronischer Raucher"
+    ],
+    "medications": [
+      "Lisinopril",
+      "Tiotropium",
+      "Salbutamol",
+      "Macrogol"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Patient mit Krücken am rechten Arm",
+      "Untersuchung der Lunge",
+      "Untersuchung des Pelvis",
+      "Untersuchung auf Uhrglasnägel und Trommelschlägelfinger"
+    ],
+    "imaging_findings": [
+      "Röntgen Thorax p.a Aufnahme",
+      "scharf begrenzte linke perihiläre Verschattung"
+    ],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom",
+      "Tuberkulose"
+    ],
+    "diagnostic_approach": [
+      "Vom Hausarzt zur weiteren Abklärung überwiesen"
+    ]
+  },
+  {
+    "title": "Ultraschall-Befund Gallenblase mit Gallensteinen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Ultraschall-Video mit Gallensteinen",
+      "Gallenwände sehr dick, steif und fibrosiert"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Gallensteine",
+      "Gefahr für Gallenstenose",
+      "billiäre Zirrhose",
+      "Gallengangkarzinom"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "EKG mit Kammerflimmern",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG - Kammerflimmern"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kammerflimmern"
+    ],
+    "diagnostic_approach": [
+      "Defibrillation - Schockgabe 200 J"
+    ]
+  }
+]

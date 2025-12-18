@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Knieverletzung nach Dreiradunfall",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Schmerzen im Knie 7/10"
+    ],
+    "accident_mechanism": "Kind fuhr Patient mit Dreirad an",
+    "pre_existing_conditions": [
+      "Pollenallergie",
+      "Asthma",
+      "Z.n. Cholezystektomie",
+      "Z.n. Entfernung eines gutartigen Lebertumors",
+      "Hämorrhoiden"
+    ],
+    "medications": [],
+    "allergies": [
+      "Pollenallergie"
+    ],
+    "physical_examination": [
+      "Steinzeichen positiv"
+    ],
+    "imaging_findings": [
+      "Röntgen Knie unauffällig",
+      "MRT T2: Seitenbandruptur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Verdacht auf Meniskusläsion",
+      "Seitenbandruptur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Knie",
+      "MRT",
+      "Kniepunktion"
+    ]
+  },
+  {
+    "title": "Schulterverletzung nach Sturz aus 2m Höhe",
+    "patient_age": "38 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Schmerzen im Bereich der Schulter",
+      "nächtliche Parästhesien palmar rechts"
+    ],
+    "accident_mechanism": "Sturz aus 2 Metern Höhe bei Gartenarbeit, nach vorne gebeugt, Gleichgewicht verloren, auf linke Schulter gefallen",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Sensibilitätsstörungen verneint",
+      "motorische Störungen verneint"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": []
+  }
+]

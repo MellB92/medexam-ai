@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nEs handelt sich ausschließlich um:\n\n1. **Theoretische Prüfungsfragen und -antworten** zu verschiedenen medizinischen Themen:\n   - Arterienerkrankungen (KHK, pAVK)\n   - Fontaine-Klassifikation\n   - Diagnostik (Knöchel-Arm-Index)\n   - Raynaud-Syndrom\n   - Prädiabetes-Grenzwerte\n   - EKG-Interpretation (abstrakte Frage)\n   - Belastungsasthma\n   - Medikamentenwirkungen (Beclomethason, Salmeterol)\n\n2. **Abstrakte diagnostische Szenarien** (z.B. \"Was sehen Sie im EKG mit ST-Senkung...\"), aber ohne konkrete Patientenangaben wie Alter, Geschlecht, Anamnese oder vollständige klinische Präsentation.\n\nEs gibt keine Patientenvorstellung mit:\n- Konkretem Alter/Geschlecht\n- Anamnese\n- Beschwerdeschilderung\n- Untersuchungsbefunden\n- Vollständiger diagnostischer Arbeitsweise\n\nDies ist reines Prüfungswissen ohne klinische Fallpräsentationen."
+  }
+]

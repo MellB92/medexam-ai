@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle** mit Patientenvorstellung. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** aus einem Prüfungsprotokoll:\n   - Was ist das Dumping-Syndrom?\n   - Was ist das Impingement-Syndrom?\n   - Was ist eine Doppelchirurgie?\n   - Organspende-Voraussetzungen\n   - Behandlung distale Humerusfraktur\n   - Röntgenstrahlen-Art\n   - Depression-Therapie\n   - Dyspnoe bei Kindern\n   - Rote-Hand-Brief\n   - Intoxikation bei Kindern\n   - Medikamentenausscheidung\n   - Nosokomiale Infektionen\n   - Sprunggelenksfraktur (allgemein)\n   - ALARA-Prinzip\n   - Sigmadivertikulitis (unvollständig am Ende abgeschnitten)\n\n2. **Format:** Frage-Antwort-Paare mit:\n   - \"antwort_kandidat\" (meist: \"Nicht im Protokoll enthalten\")\n   - \"musterloesung_leitlinie\" (theoretische Standardantworten)\n   - \"analyse_fehler_tipps\"\n\nEs handelt sich um **rein theoretisches Prüfungswissen** ohne konkrete Patientenfälle mit individueller Anamnese, Befunden oder Verlauf."
+  }
+]

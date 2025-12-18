@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Pneumonie/Tuberkulose mit Infiltrat und Fieber",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Husten",
+      "Fieber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rö Thorax p.a.: Infiltrat"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pneumonie",
+      "Tuberkulose mit Kaverne"
+    ],
+    "diagnostic_approach": [
+      "weitere Diagnostik für TBC"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Isolation",
+      "TBC-Medikamente"
+    ]
+  },
+  {
+    "title": "Psoriasis mit Psoriasis-Arthritis",
+    "patient_age": "ältere Pat.",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Schuppenfläche an Hand",
+      "DIP-Deformität am kleinen Finger",
+      "Schuppenfläche am Ellenbogen",
+      "keine Schmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Schuppenfläche an Hand",
+      "kleiner Finger in DIP deformiert",
+      "Schuppenfläche am Ellenbogen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Psoriasis",
+      "Arthritis Psoriatica"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

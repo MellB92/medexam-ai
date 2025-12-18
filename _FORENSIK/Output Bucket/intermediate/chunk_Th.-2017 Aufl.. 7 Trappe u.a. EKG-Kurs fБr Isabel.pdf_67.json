@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 68/111) aus einem EKG-Lehrbuch enthält **keine klinischen Patientenfälle**, sondern ausschließlich:\n\n1. **Theoretisches Wissen** über Schrittmacher-EKG:\n   - Beschreibung verschiedener Schrittmachertypen (AAI, VVI, DDD, VDD)\n   - Erklärung von Schrittmacherfehlfunktionen (Oversensing, Undersensing, Exitblock)\n   - Technische Details zu Elektrodenplatzierung und Stimulationsmodi\n\n2. **Schematische Abbildungen** und deren Beschreibungen:\n   - Abb. 29.2-29.10 zeigen schematische EKG-Befunde\n   - Keine realen Patientenfälle\n\n3. **Allgemeine medizinische Konzepte**:\n   - Indikationen für verschiedene Schrittmachertypen\n   - Mögliche technische Komplikationen\n   - Schrittmachertachykardien als Konzept\n\nEs handelt sich um ein **didaktisches Lehrbuchkapitel** (Lektion 29: Schrittmacher-EKG) ohne konkrete Patientenfallvorstellungen mit Anamnese, Befunden oder diagnostischem Vorgehen."
+  }
+]

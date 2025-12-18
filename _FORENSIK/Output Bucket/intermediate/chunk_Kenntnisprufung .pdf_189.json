@@ -1,0 +1,53 @@
+[
+  {
+    "title": "67-jährige Patientin mit epigastrischen Schmerzen nach NSAID-Einnahme (GERD)",
+    "patient_age": "67-jährig",
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Epigastrische Schmerzen, brennend",
+      "Retrosternale Ausstrahlung",
+      "Regurgitation",
+      "Meteorismus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Handgelenkfraktur (vor 5 Monaten)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "NSAID-Einnahme über 5 Monate"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "NSAID (5 Monate lang wegen Handgelenkfraktur)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Vollständige körperliche Untersuchung von Kopf bis Fuß",
+      "Reflexprüfung"
+    ],
+    "imaging_findings": [
+      "ÖGD-Bilder (beschrieben im Prüfungsverlauf)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "GERD (Gastroösophageale Refluxkrankheit)",
+      "DD: Angina pectoris"
+    ],
+    "diagnostic_approach": [
+      "Ausführliche Schmerzanamnese",
+      "B-Symptomatik",
+      "Vorerkrankungen erfasst",
+      "Laborwerte angekreuzt",
+      "ÖGD durchgeführt/geplant"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "ÖGD-Kontrolle geplant"
+    ]
+  }
+]

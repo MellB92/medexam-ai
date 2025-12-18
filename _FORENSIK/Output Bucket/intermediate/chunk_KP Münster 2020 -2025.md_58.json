@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Riesenzellarteritis (RZA) - Frau Weber mit Kopfschmerzen und Sehstörungen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Kopfschmerzen seit ca. 2 Wochen",
+      "langsam aufgetretene, pochende Kopfschmerzen im Stirn- und Schläfenbereich",
+      "Schmerzen beim Kauen",
+      "Schmerzen beim Haare Kämmen",
+      "verschwommenes Sehen rechts"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie (aHT)",
+      "Z.n. Appendektomie"
+    ],
+    "medications": [
+      "Candesartan"
+    ],
+    "allergies": [
+      "Diclofenac"
+    ],
+    "physical_examination": [
+      "Blutdruck, Herzfrequenz und Atemfrequenz gemessen",
+      "Neurologische Untersuchung durchgeführt",
+      "Lunge, Herz, Abdomen, Beine untersucht",
+      "Allgemeiner Eindruck: Patientin war nett und hilfsbereit"
+    ],
+    "imaging_findings": [
+      "Doppler-Sonographie empfohlen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Riesenzellarteritis (RZA)"
+    ],
+    "diagnostic_approach": [
+      "Goldstandard: Biopsie der A. temporalis",
+      "Doppler-Sonographie",
+      "Internistische Mitbeurteilung"
+    ]
+  }
+]

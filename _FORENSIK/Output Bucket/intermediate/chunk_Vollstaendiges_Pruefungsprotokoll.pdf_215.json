@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Prüfungsfragen mit theoretischen Antworten** zu verschiedenen medizinischen Themen:\n   - Komplikationen nach Hüft-TEP\n   - Thromboseprophylaxe\n   - Weber-Klassifikation von Sprunggelenkfrakturen\n   - Therapie von Weber-Frakturen\n   - Ileus-Formen und deren Management\n   - Ultraschall-Grundlagen\n   - Doppler-Sonographie\n   - Röntgenbildinterpretation\n\n2. **Einzelne bildgebende Befunde ohne klinischen Kontext**:\n   - MRT-Angiogramm mit KM-Abbruch in A. iliaca communis (wird als isolierte Frage präsentiert, ohne Patientenkontext)\n   - Röntgenbild bei Pneumonie (nur als Beispiel für systematische Interpretation)\n\nEs handelt sich um ein **Prüfungsprotokoll** mit Wissensfragen, nicht um Patientenfallpräsentationen. Es fehlen durchgehend:\n- Patientendemographie (Alter, Geschlecht)\n- Anamnese/Beschwerden\n- Untersuchungsbefunde\n- Zusammenhängende klinische Szenarien"
+  }
+]

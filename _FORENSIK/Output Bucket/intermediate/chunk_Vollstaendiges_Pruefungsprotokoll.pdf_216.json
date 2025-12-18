@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Thorakale Schmerzen mit linksseitigem Pneumothorax\",\n    \"patient_age\": \"junger Patient\",\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"thorakale Schmerzen\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\"Pneumothorax links mit kollabierter Lunge\", \"linksseitiger Pneumothorax mit Teilkollaps der linken Lunge\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Pneumothorax links\"],\n    \"diagnostic_approach\": [\"Röntgenbild\"]\n  },\n  {\n    \"title\": \"Polytrauma\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Polytrauma\"],\n    \"diagnostic_approach\": [\"CT Schädel\", \"FAST Sonographie\", \"Röntgen Thorax-Abdomen\", \"Röntgen Knie\", \"Ausschluss Blutung\", \"Ausschluss Rippen Frakture\", \"Ausschluss Milzruptur\", \"Ausschluss Hämatothorax\", \"Ausschluss Fraktur\"]\n  }\n]\n```"
+  }
+]

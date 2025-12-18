@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Frage-Antwort-Paaren** aus Prüfungsprotokollen:\n   - Fragen zu Ultraschallbefunden (Appendix)\n   - Fragen zu Röntgenbefunden (Olekranonfraktur)\n   - Behandlungsfragen (Bursitis, Chassaignac-Lähmung)\n   - Fragen zu Schilddrüsenerkrankungen\n   - Fragen zu Coxarthrose und Hüft-TEP\n   - Fragen zum Ileus\n\n2. **Musterlösungen und Bewertungen** für Prüfungsfragen\n\n3. **Keine konkreten Patientenpräsentationen** mit:\n   - Vollständiger Anamnese\n   - Konkretem Unfallhergang oder Vorstellung\n   - Individuellen Befunden eines spezifischen Patienten\n\nDie erwähnten klinischen Szenarien (z.B. \"Ein Kind stürzt von der Hand der Mutter\") sind theoretische Prüfungsfragen ohne ausreichende Details, um als vollständige Patientenfälle zu gelten."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 232/284) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Theoretischen Behandlungsrichtlinien** zur Divertikulitis:\n   - Indikationen zur stationären Aufnahme\n   - Antibiotikatherapie-Schemata (ambulant/stationär)\n   - Begründung der Antibiotikawahl\n   - Zusätzliche Maßnahmen\n   - Dokumentationsanforderungen\n\n2. **Metainformationen** zu einem Fragenkatalog:\n   - Hinweis auf Überprüfung von 73 Fragen (601-674)\n   - Beginn einer korrigierten Frage 614 zum ABI (Ankle-Brachial-Index), die am Ende abgeschnitten ist\n\nEs handelt sich um **allgemeines medizinisches Wissen und Leitlinien**, nicht um konkrete Patientenpräsentationen mit individuellen Angaben zu Alter, Geschlecht, Anamnese, Untersuchungsbefunden etc."
+  }
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "title": "Schilddrüsenvergrößerung mit papillärem Karzinom",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schilddrüsenvergrößerung",
+      "keine Beschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Schilddrüsenvergrößerung"
+    ],
+    "imaging_findings": [
+      "Sonographie durchgeführt",
+      "Szintigraphie durchgeführt"
+    ],
+    "laboratory_findings": [
+      "TSH im Normbereich",
+      "ft3 im Normbereich",
+      "ft4 im Normbereich"
+    ],
+    "suspected_diagnosis": [
+      "Struma"
+    ],
+    "diagnostic_approach": [
+      "Sonographie",
+      "Szintigraphie",
+      "Hemithyreodektomie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Pathologie am nächsten Tag: papilläres Karzinom",
+      "Diskussion über vollständige Thyreoidektomie bei Nichteinverständnis der Patientin"
+    ]
+  },
+  {
+    "title": "Akutes Abdomen bei Magenperforation und Magenkarzinom",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "diffuse Bauchschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "kürzlich Magenspiegelung mit Befund",
+      "Patient hat sich nicht weiter darum gekümmert"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalzeichen instabil",
+      "Hinweis auf Schock"
+    ],
+    "physical_examination": [
+      "klinisches Bild eines akuten Abdomens"
+    ],
+    "imaging_findings": [
+      "Sonographie zeigt freie Luft",
+      "Röntgenbild zeigt freie Luft"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "akutes Abdomen bei Verdacht auf Magenperforation"
+    ],
+    "diagnostic_approach": [
+      "Sonographie",
+      "Röntgenbild"
+    ],
+    "treatment_response": [
+      "Volumengabe",
+      "Schmerztherapie",
+      "kalkulierte/empirische Antibiotikatherapie",
+      "Entfernung des Ulcus",
+      "Verschließen des Magens"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Pathologie: Magenkarzinom"
+    ]
+  },
+  {
+    "title": "Magenperforation bei bekanntem Ulkus",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "bekanntes Ulkus"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Linkseitiges Röntgenbild zeigt freie Luft"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Magenperforation"
+    ],
+    "diagnostic_approach": [
+      "Linkseitiges Röntgenbild"
+    ],
+    "treatment_response": [
+      "medizinischer Notfall",
+      "Riss übernäht",
+      "Bauchhöhle gründlich gespült",
+      "Antibiotikatherapie",
+      "säurehemmende Medikamente nach OP"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Septischer Schock nach Amputation bei diabetischem Fuß",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "Fieber",
+      "Hypotonie",
+      "Tachykardie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus",
+      "Phlegmone des diabetischen Fußes",
+      "Zustand nach Amputation"
+    ],
+    "comorbidities": [
+      "Diabetes mellitus"
+    ],
+    "risk_factors": [
+      "Diabetes mellitus"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Fieber",
+      "hypoton",
+      "tachykard"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Septischer Schock"
+    ],
+    "diagnostic_approach": [
+      "Blutkultur entnehmen"
+    ],
+    "treatment_response": [
+      "Volumengabe",
+      "Breitband-Antibiotikum (Ceftriaxon und Meropenem)"
+    ],
+    "complications": [
+      "Septischer Schock am Tag nach Amputation"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Leberabszess nach Appendektomie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Fieber",
+      "Schüttelfrost",
+      "Verschlechterung des Allgemeinzustands"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Akute Appendizitis",
+      "Zustand nach Appendektomie vor 10 Tagen"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Fieber"
+    ],
+    "physical_examination": [
+      "Verschlechterung des Allgemeinzustands",
+      "Schüttelfrost"
+    ],
+    "imaging_findings": [
+      "CT-Abdomen: Abszess in der Leber über die Pfortader"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Leberabszess"
+    ],
+    "diagnostic_approach": [
+      "CT-Abdomen"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Leberabszess über die Pfortader nach Appendektomie"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Fuchsbiss im Wald",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "mild",
+    "chief_complaints": [
+      "Bisswunde vom Fuchs"
+    ],
+    "accident_mechanism": "vom Fuchs im Wald gebissen",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Impfgegner"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Impfgegner"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tetanus-Risiko"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Tetanustoxoid",
+      "Aufklärung und Überzeugung",
+      "passive und aktive Immunisierung"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Rupturiertes abdominelles Aortenaneurysma nach Pressmanöver auf Toilette",
+    "patient_age": "alter Mann",
+    "patient_gender": "m",
+    "severity": "critical",
+    "chief_complaints": [
+      "Platzwunde an der Stirn",
+      "Kollaps/Synkope"
+    ],
+    "accident_mechanism": "Sturz mit Kopfverletzung nach Kollaps beim Pressen auf Toilette (Defäkation)",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Hypotonie"
+    ],
+    "physical_examination": [
+      "Platzwunde an der Stirn"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "rupturiertes abdominelles Aortenaneurysma (AAA)"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Synkope",
+      "traumatische Kopfverletzung durch Sturz"
+    ],
+    "follow_up": []
+  }
+]

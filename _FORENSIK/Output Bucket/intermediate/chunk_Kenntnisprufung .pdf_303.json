@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Leberzirrhose mit Ösophagusvarizenblutung",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "critical",
+    "chief_complaints": [
+      "Hämatemesis",
+      "Hypotonie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Alkoholische Leberzirrhose",
+      "Portale Hypertension"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Alkoholkonsum"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Hypotonie"
+    ],
+    "physical_examination": [
+      "Ikterus",
+      "Spider-Nävi",
+      "Palmarerythem",
+      "Aszites"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Ösophagusvarizenblutung",
+      "Alkoholische Leberzirrhose"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Hämorrhagischer Schock",
+      "Hypovolämie",
+      "Risiko für hepatische Enzephalopathie",
+      "Gefahr einer hepatorenalen Dysfunktion"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Pyelonephritis bei Diabetes mellitus",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Dumpfe mittelstarke Schmerzen (6/10) in linker Flanke mit Ausstrahlung in Unterbauch seit gestern Abend",
+      "Fieber 39,5°C",
+      "Nausea ohne Vomitus",
+      "Appetitlosigkeit",
+      "Pollakisurie",
+      "Dysurie",
+      "Algurie",
+      "Hämaturie seit 3 Tagen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus seit 19. Lebensjahr",
+      "Belastungsasthma",
+      "Rezidivierende Harnwegsinfekte",
+      "Z.n. Unterarmbruch vor paar Jahren (konservativ mit Gips behandelt)"
+    ],
+    "comorbidities": [
+      "Knieverdrehung vor paar Wochen mit Schwellung und Schmerzen im rechten Knie"
+    ],
+    "risk_factors": [
+      "Ex-Raucherin (seit 19. LJ abstinent, vorher täglich 2 Zigaretten)",
+      "Gelegentlicher Alkoholkonsum"
+    ],
+    "family_history": [
+      "Vater: Z.n. Apoplex, hat ein Loch im Herz",
+      "Mutter: Schilddrüsenproblem"
+    ],
+    "social_history": [
+      "Verheiratet",
+      "Arbeitet Teilzeit",
+      "2 Kinder"
+    ],
+    "medications": [
+      "Insulinpumpe",
+      "Foster",
+      "Flohsamenschalen"
+    ],
+    "allergies": [
+      "Nickel (Exanthem)"
+    ],
+    "vital_signs": [
+      "Fieber 39,5°C"
+    ],
+    "physical_examination": [
+      "Klopfschmerzhaftigkeit der linken Nierenloge",
+      "Rechtes Knie: schmerzbedingte Funktionseinschränkung, ansonsten unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "U-Streifen positiv",
+      "Erythrozytenzylinder im Urin"
+    ],
+    "suspected_diagnosis": [
+      "Pyelonephritis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

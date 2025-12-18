@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 65/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle**, sondern ausschließlich **didaktisches Lehrmaterial** über das Brugada-Syndrom:\n\n1. **Theoretische Beschreibungen** der EKG-Veränderungen bei Brugada-Syndrom Typ I-III\n2. **Allgemeine EKG-Befunde** und deren Interpretation\n3. **Diagnostische Kriterien** und Differenzialdiagnosen (Tabelle 27.1)\n4. **Pharmakologische Testverfahren** (Ajmalin, Procainamid, Flecainid)\n5. **Beispiel-EKGs** (Abbildungen 27.1-27.4) als Lehrmaterial\n6. **Merke-Kasten** mit Zusammenfassung\n\nDie Abbildungen zeigen zwar EKG-Beispiele von Brugada-Syndrom-Patienten, aber es werden **keine individuellen Patientengeschichten, Anamnesen oder klinischen Verläufe** beschrieben. Es handelt sich um standardisierte Lehrbuch-Darstellungen ohne konkrete Fallpräsentationen."
+  }
+]

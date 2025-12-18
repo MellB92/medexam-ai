@@ -1,0 +1,133 @@
+[
+  {
+    "title": "KHK mit Myokardinfarkt Hinterwand",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "retrosternale Schmerzen",
+      "Hinterwandinfarkt im EKG"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit Hinterwandinfarkt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "ACS",
+      "Myokardinfarkt Hinterwand"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Herzkatheter"
+    ]
+  },
+  {
+    "title": "Klaus Schuster - retrosternale Schmerzen mit Ausstrahlung",
+    "patient_age": "63J",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "retrosternale drückende Schmerzen mit Ausstrahlung in den linken Arm",
+      "Schwindel",
+      "Schmerzintensität 7/10"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG beim Hausarzt unauffällig",
+      "Schnelltest unauffällig"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "KHK",
+      "instabile Angina pectoris"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Schnelltest"
+    ]
+  },
+  {
+    "title": "Patient mit Hyponatriämie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Hyponatriämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus",
+      "arterielle Hypertonie",
+      "chronische Nierenerkrankung"
+    ],
+    "medications": [
+      "ACE-Hemmer",
+      "SGLT2-Hemmer",
+      "Lercanidipin (Ehefrau)"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit STEMI Inferiorwand"
+    ],
+    "laboratory_findings": [
+      "Natrium 122 mmol/l",
+      "GFR-Abfall 3-5 ml/min/1,73m2"
+    ],
+    "suspected_diagnosis": [
+      "Hyponatriämie",
+      "STEMI Inferiorwand"
+    ],
+    "diagnostic_approach": [
+      "Urinosmolalität",
+      "Urinnatriumkonzentration",
+      "Glucose im Urin"
+    ]
+  },
+  {
+    "title": "Joachim Weber - Adynamie, Husten und Claudicatio intermittens",
+    "patient_age": "69 Jahre",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "zunehmende Adynamie seit einer Woche",
+      "Husten",
+      "Schmerzen in der linken Wade bei Gehstrecken über 200 Meter",
+      "Lumbalgie seit 20 Jahren"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "Dyslipidämie",
+      "Zustand nach Spondylodese vor 20 Jahren",
+      "Bandscheibenvorfall"
+    ],
+    "medications": [
+      "Lisinopril/HCT 20/12,5 mg morgens",
+      "Atorvastatin 30 mg abends",
+      "Ibuprofen 600 mg bei Bedarf",
+      "Kühlpacks"
+    ],
+    "allergies": [
+      "keine bekannt"
+    ],
+    "physical_examination": [
+      "Nykturie"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Coronatest: vor 8 Tagen positiv, seit 3 Tagen negativ"
+    ],
+    "suspected_diagnosis": [
+      "pAVK",
+      "Post-COVID-Syndrom",
+      "Pneumonie"
+    ],
+    "diagnostic_approach": []
+  }
+]

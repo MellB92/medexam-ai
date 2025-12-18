@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Kind mit hohem Fieber, schwerem Krankheitsbild und Atemnot\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"hohes Fieber\", \"schweres Krankheitsbild\", \"Atemnot\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Pneumonie\", \"Meningitis\", \"Sepsis\", \"Krupp\"],\n    \"diagnostic_approach\": [\"Sicherung der Atemwege\", \"Sauerstoffgabe\", \"Flüssigkeitszufuhr\", \"Fiebersenkung\", \"Ursachenabklärung und Einleitung einer gezielten Therapie\"]\n  }\n]\n```"
+  }
+]

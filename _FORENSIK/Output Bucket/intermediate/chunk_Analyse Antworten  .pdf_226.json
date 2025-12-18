@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 227/254) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** zu medizinischem Fachwissen:\n   - Wirkmechanismus von Metformin und Insulin\n   - Nebenwirkungen von Metformin (gastrointestinal, Laktatazidose)\n   - Rechtfertigende Indikation (Strahlenschutz)\n   - Ceiling-Effekt\n   - Sensitivität und Spezifität\n   - Infektionsschutzgesetz\n   - Commotio cerebri (theoretische Klinik)\n   - Schädel-Hirn-Trauma (theoretische Komplikationen)\n   - Magenkarzinom-Risikofaktoren\n\n2. **Abstrakten medizinischen Konzepten** ohne konkrete Patientenvorstellung\n\n3. **Prüfungsfragen-Format** mit:\n   - Kandidatenantworten\n   - Musterlösungen\n   - Fehleranalysen\n\nEs gibt **keine Patientenpräsentation** mit konkreten Angaben zu:\n- Individuellem Patienten (Alter/Geschlecht)\n- Aktueller Anamnese oder Vorstellung\n- Untersuchungsbefunden eines spezifischen Falls\n- Diagnostischem Prozess bei einem realen Patienten"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 40/84) enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischem Wissen zur Blutgasanalyse (BGA)**:\n   - Normwerte (pH, pO₂, pCO₂, Bicarbonat, Base Excess)\n   - Interpretationsschema für BGA\n   - Systematik zu Azidose/Alkalose (respiratorisch/metabolisch)\n\n2. **Elektrolytveränderungen (Theorie)**:\n   - Hyperkaliämie/Hypokaliämie (Ursachen, Klinik, Therapie)\n   - Hypernatriämie/Hyponatriämie (Ursachen, Klinik, Therapie)\n   - Hyperkalzämie/Hypokalzämie (Ursachen, Klinik, Therapie)\n\n3. **Sepsis-Definition und -Kriterien**:\n   - SOFA-Score, qSOFA-Score\n   - Septischer Schock\n   - SIRS-Kriterien\n\nEs handelt sich um **Lernkarten-Material** mit systematischer Darstellung von Normwerten, Differentialdiagnosen und Therapieoptionen, jedoch **ohne konkrete Patientenbeispiele** mit individueller Anamnese, Befunden oder diagnostischem Vorgehen."
+  }
+]

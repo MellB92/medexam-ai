@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 8/84) enthält **keine klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Untersuchungstechniken für das Herz** (Abschnitt 2.1):\n   - Inspektionsbefunde (Präkordium, OP-Narben)\n   - Palpationstechnik (Pulsstatus, Herzspitzenstoß)\n   - Auskultationstechnik (Herzklappen, Auskultationspunkte)\n   - Theoretisches Wissen über Herztöne und Herzgeräusche\n\n2. **Untersuchungstechniken für die Lunge** (Abschnitt 2.2):\n   - Inspektion (AZ, EZ, Thorax, Atmung)\n   - Palpation (Thoraxkompression, Atemexkursion, Stimmfremitus)\n   - Perkussion (Klangqualität, Lungengrenzen)\n   - Auskultation (Atemgeräusche)\n\nEs handelt sich um **didaktisches Lehrmaterial** über klinische Untersuchungsmethoden ohne konkrete Patientenbeispiele oder Fallpräsentationen."
+  }
+]

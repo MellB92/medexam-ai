@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Adynamie, Husten und Wadenschmerzen nach COVID-19 Infektion und Australienreise",
+    "patient_age": "69 Jahre",
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "Zunehmende Adynamie seit einer Woche",
+      "Husten seit einer Woche",
+      "Schmerzen in der linken Wade bei Gehstrecken über 200 Meter",
+      "Lumbalgie (seit 20 Jahren bestehend)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Dyslipidämie",
+      "Zustand nach Spondylodese vor 20 Jahren aufgrund Bandscheibenvorfall",
+      "Chronische Lumbalgie seit 20 Jahren"
+    ],
+    "comorbidities": [
+      "Nykturie"
+    ],
+    "risk_factors": [
+      "Rauchen seit 50 Jahren, 20 Zigaretten pro Tag (50 Packungsjahre)",
+      "Alkoholkonsum (eine Flasche Bier abends täglich)",
+      "Langstreckenflug (Australien-Rückflug vor 10 Tagen)",
+      "Exposition zu kranken Personen im Flugzeug"
+    ],
+    "family_history": [
+      "Vater verstorben mit 65 Jahren an Tuberkulose",
+      "Mutter verstorben mit 87 Jahren an akuter Herzinsuffizienz nach appendektomischer Operation"
+    ],
+    "social_history": [
+      "Lebt mit seiner Frau zusammen",
+      "2 Kinder",
+      "2 gesunde Enkelkinder",
+      "Rückkehr aus Australien vor 10 Tagen"
+    ],
+    "medications": [
+      "Lisinopril/HCT 20/12,5 mg morgens",
+      "Atorvastatin 30 mg abends",
+      "Ibuprofen 600 mg bei Bedarf",
+      "Kühlpacks für den Rücken"
+    ],
+    "allergies": [
+      "Keine bekannten Allergien"
+    ],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax mit Hinweis auf Tuberkulose"
+    ],
+    "laboratory_findings": [
+      "COVID-19 Test vor 8 Tagen positiv",
+      "COVID-19 Test seit 3 Tagen negativ"
+    ],
+    "suspected_diagnosis": [
+      "Periphere arterielle Verschlusskrankheit (pAVK) - Klassifikation nach Fontaine",
+      "Tiefe Venenthrombose (TVT) als Differentialdiagnose",
+      "Tuberkulose als Differentialdiagnose",
+      "Post-COVID-Syndrom"
+    ],
+    "diagnostic_approach": [
+      "Wells Score zur Ausschluss TVT",
+      "Klassifikation nach Fontaine",
+      "Röntgen-Thorax",
+      "Tuberkulose-Diagnostik und -Therapie"
+    ],
+    "treatment_response": [
+      "Beschwerden persistieren trotz negativem COVID-Test seit 3 Tagen"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

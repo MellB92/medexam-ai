@@ -1,0 +1,213 @@
+[
+  {
+    "title": "21-jährige Frau mit blutigen Durchfällen und Bauchschmerzen - Colitis ulcerosa",
+    "patient_age": "21 Jahre",
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Blutige Durchfälle 4-5x/Tag seit 1 Woche",
+      "Bauchschmerzen linker Unterbauch",
+      "Fieber 37.8°C",
+      "Gewichtsverlust 3 kg in 3 Wochen",
+      "Appetitlosigkeit",
+      "Entzündete Augen seit 3 Monaten",
+      "Rückenschmerzen seit 3 Monaten",
+      "Blässe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Schlüsselbeinfraktur vor 3 Jahren (konservativ behandelt)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Rauchen 5-10 Zigaretten/Tag seit 5 Jahren",
+      "Alkoholkonsum 2-3 Bier unter der Woche",
+      "Adipositas"
+    ],
+    "family_history": [
+      "Mutter mit 68 Jahren verstorben (Dialysepatientin, Sepsis)",
+      "Vater 71 Jahre alt (Herz- und Lungenerkrankung)",
+      "Bruder an der Leiste operiert"
+    ],
+    "social_history": [
+      "Lebt alleine",
+      "Trennung vom Partner vor 5 Monaten",
+      "Tätig in Autovermietung"
+    ],
+    "medications": [],
+    "allergies": [
+      "Kälteallergie im Kindesalter"
+    ],
+    "vital_signs": [
+      "Fieber 37.8°C"
+    ],
+    "physical_examination": [
+      "Adipöser Zustand",
+      "Druckschmerz im linken Unterbauch",
+      "Sonst unauffällig"
+    ],
+    "imaging_findings": [
+      "Koloskopie: Hyperämie, Fibrinbeläge, fibrinbelegte Ulcera, gerötete Darmwand"
+    ],
+    "laboratory_findings": [
+      "Mikrozytäre hypochrome Anämie",
+      "Entzündungsparameter erhöht"
+    ],
+    "suspected_diagnosis": [
+      "CED insbesondere Colitis ulcerosa",
+      "DD: Sigmadivertikulitis",
+      "DD: Infektiöse Gastroenteritis",
+      "DD: Pyelonephritis",
+      "DD: Harnwegsinfekt"
+    ],
+    "diagnostic_approach": [
+      "Labor: Entzündungsparameter, Hb",
+      "Bakteriologische Stuhluntersuchung mit Antibiogramm",
+      "Abdomensonographie (freie Flüssigkeit?)",
+      "Gegebenenfalls CT-Abdomen",
+      "Koloskopie",
+      "Eisenparameter (Ferritin, Transferrin-Sättigung)"
+    ],
+    "treatment_response": [
+      "Therapie: Mesalazin (vermindert Produktion entzündungsvermittelnder Prostaglandine)",
+      "Glukokortikoide",
+      "Biologika: Infliximab (TNF-Alpha-Hemmer)",
+      "Eisenpräparat i.v."
+    ],
+    "complications": [],
+    "follow_up": [
+      "Termin am Montag geplant, aber aufgrund Beschwerden früher vorgestellt"
+    ]
+  },
+  {
+    "title": "Patient mit Thrombose-Anamnese und Dyspnoe - Lungenembolie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Dyspnoe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Thrombose in der Vergangenheit"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Antikoagulation (abgesetzt)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: P-Pulmonale erkennbar",
+      "Echo: Rechtsherzbelastungszeichen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenembolie"
+    ],
+    "diagnostic_approach": [
+      "EKG (Lagetyp, Rhythmus, P-Pulmonale)",
+      "Echokardiographie (Rechtsherzbelastungszeichen)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient aus Afghanistan mit chronischem Husten - Tuberkulose",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Husten seit längerer Zeit",
+      "Dyspnoe",
+      "Gewichtsabnahme",
+      "Hämoptyse",
+      "Fieber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Herkunft aus Afghanistan"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Kommt aus Afghanistan",
+      "Reduzierter Allgemeinzustand"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Fieber"
+    ],
+    "physical_examination": [
+      "Reduzierter Allgemeinzustand"
+    ],
+    "imaging_findings": [
+      "Röntgen-Thorax: Hiläre Lymphknotenvergrößerung links",
+      "Fleckige Verdichtung",
+      "Kaverne in einem Lungenflügel"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tuberkulose"
+    ],
+    "diagnostic_approach": [
+      "Tuberkulin-Hauttest",
+      "Interferon-Gamma-Test",
+      "Direkte Erregerdiagnostik aus Körperflüssigkeiten (außer Blut)",
+      "Mikroskopie in Ziehl-Neelsen-Färbung",
+      "PCR (geht schnell)"
+    ],
+    "treatment_response": [
+      "TBC-Therapie mit spezifischen Antibiotika"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient nach Fraktur-OP mit Verwirrtheit - Postoperatives Delir",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Völlig durcheinander",
+      "Schreit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Fraktur-Operation"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Verwirrt",
+      "Agitiert"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Postoperatives Delir"
+    ],
+    "diagnostic_approach": [
+      "Ursachen ausschließen"
+    ],
+    "treatment_response": [
+      "Akut: Haloperidol",
+      "Bei Selbst-/Fremdgefährdung: Fixierung möglich",
+      "Dokumentation erforderlich"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

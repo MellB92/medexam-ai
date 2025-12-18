@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Patient mit rotem Gesicht und geröteten Armen\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"rotes Gesicht\", \"gerötete Arme\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Flush-Syndrom (Karzinoid, Menopausen-Flush, medikamentös)\",\n      \"Allergische Reaktion/Anaphylaxie\",\n      \"Rosazea\",\n      \"Alkoholabusus\",\n      \"Medikamentennebenwirkungen\"\n    ],\n    \"diagnostic_approach\": [\n      \"Anamnese (Trigger, Begleitsymptome, Auslöser, Medikation)\",\n      \"Körperliche Untersuchung: Vitalparameter, Fokus auf Allergie, Hautbild\",\n      \"Labordiagnostik: Bei Anaphylaxieverdacht Tryptase, bei Karzinoidverdacht 5-HIES im 24h-Urin\",\n      \"Ggf. Allergenabklärung (Prick-Test/RAST)\"\n    ]\n  }\n]\n```"
+  }
+]

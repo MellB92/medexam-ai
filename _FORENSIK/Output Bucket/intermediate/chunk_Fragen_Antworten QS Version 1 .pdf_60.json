@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle/Präsentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** aus einem Q&A-Dokument für Kenntnisprüfungen:\n   - Frage 192: Entgiftungsprozesse in der Leber (theoretisches Wissen über Enzyme)\n   - Frage 170: Stethoskop ohne Membran (theoretisches Wissen)\n   - Frage 171: DM1 Pathophysiologie (theoretisches Wissen)\n   - Frage 172: Novalgin Nebenwirkungen (theoretisches Wissen, abgeschnitten)\n\n2. **Allgemeinen medizinischen Informationen**:\n   - Diagnostik und Therapie der Metformin-assoziierten Laktatazidose (allgemeine Leitlinien)\n   - Biochemische Prozesse der Leber\n   - Pathophysiologie des Diabetes mellitus Typ 1\n\nEs gibt **keine konkreten Patientenvorstellungen** mit individuellen Charakteristika wie Alter, Geschlecht, spezifischer Anamnese oder Untersuchungsbefunden eines einzelnen Patienten."
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Bimalleoläre OSG-Fraktur und Metakarpale-Fraktur nach Sturz beim Aussteigen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen am rechten Fuß (OSG)",
+      "Schmerzen an der rechten Hand",
+      "Bewegungseinschränkung",
+      "Functio laesa"
+    ],
+    "accident_mechanism": "Sturz auf die rechte Seite beim Aussteigen aus dem Auto auf dem Weg zur Arbeit",
+    "pre_existing_conditions": [
+      "Rezidivierende Harnwegsinfektionen (Therapie mit Fosfomycin-Einmaleinnahme)",
+      "Hepatitis A nach Thailand-Urlaub",
+      "Raumforderung in der Leber",
+      "Allergisches Asthma als Kind"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Allergisches Asthma in der Anamnese"
+    ],
+    "family_history": [
+      "Mutter: Multiple Sklerose, verstorben an Covid",
+      "Vater: einseitige neurologische Gesichtsschmerzen"
+    ],
+    "social_history": [
+      "Berufstätig"
+    ],
+    "medications": [
+      "Keine regelmäßigen Medikamente",
+      "Fosfomycin bei rezidivierenden HWI"
+    ],
+    "allergies": [
+      "Pflaster (Manifestation als Urtikaria)"
+    ],
+    "vital_signs": [
+      "Später: RR 80 mmHg",
+      "Puls 150/min (bei Schock)"
+    ],
+    "physical_examination": [
+      "pDMS beidseitig überprüft",
+      "Functio laesa",
+      "Dermatome L3 bis S1 geprüft",
+      "Reflexe geprüft",
+      "Pulse palpiert",
+      "Lungen- und Abdominaluntersuchung unauffällig"
+    ],
+    "imaging_findings": [
+      "Röntgen OSG: bimalleoläre Fraktur (Weber-Klassifikation)",
+      "Röntgen Hand: Metakarpale-1-Fraktur",
+      "Ultraschall Niere: typische Veränderungen bei Pyelonephritis",
+      "Ultraschall Leber: echoreiche Raumforderung im rechten Lappen (Leberkapsel nicht betroffen)"
+    ],
+    "laboratory_findings": [
+      "Labor angefordert",
+      "Urinstreifentest durchgeführt",
+      "Urinkultur",
+      "Kreuzblut"
+    ],
+    "suspected_diagnosis": [
+      "Bimalleoläre OSG-Fraktur",
+      "Metakarpale-1-Fraktur",
+      "Rezidivierende Pyelonephritis (Vorerkrankung)",
+      "Lebertumor DD: maligne vs. benigne Raumforderung"
+    ],
+    "diagnostic_approach": [
+      "Anamnese und körperliche Untersuchung",
+      "Röntgen OSG in 2 Ebenen (ap und seitlich)",
+      "Röntgen Hand",
+      "pDMS-Kontrolle beidseitig",
+      "Dermatom- und Reflexprüfung",
+      "Urinstreifentest und Urinkultur",
+      "Ultraschall Niere und Leber"
+    ],
+    "treatment_response": [
+      "Viggo-Zugang",
+      "Kühlung und Hochlagerung",
+      "Ruhigstellung",
+      "Lokalanästhesie nach Oberst mit Lidokain 1mg",
+      "OP geplant: Platten-Osteosynthese und Stellschrauben"
+    ],
+    "complications": [
+      "Schock (RR 80 mmHg, Puls 150/min)",
+      "Verdacht auf Milzruptur mit zweizeitigem Verlauf"
+    ],
+    "follow_up": [
+      "Post-OP: Ruhigstellung",
+      "Rehabilitation",
+      "D-Arzt-Anmeldung (Arbeitsunfall)",
+      "BG-Meldung"
+    ]
+  }
+]

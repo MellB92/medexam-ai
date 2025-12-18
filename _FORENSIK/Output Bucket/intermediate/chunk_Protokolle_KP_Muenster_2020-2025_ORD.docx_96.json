@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Nebennieren-Inzidentalom bei 70-jähriger Patientin",
+    "patient_age": "70-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Zufallsbefund im rechten oberen Bauch bei Routine-Check-up",
+      "Leichte Atemnot bei körperlicher Belastung (z.B. Treppensteigen)",
+      "Rechte Fersenschmerzen seit Wochen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Vitalparameter stabil",
+      "Blutdruck normwertig beidseitig (beim HA 160 mmHg)",
+      "Allgemeine, Thorax und Abdomen Untersuchung ohne Besonderheiten",
+      "Rechte Ferse: Druckschmerz"
+    ],
+    "imaging_findings": [
+      "Abdomen-Sono: Echoarmer Befund zwischen Leber und Niere (Morrison Pouch)",
+      "Tumor in der Nebenniere",
+      "EKG: Vorhofflimmern"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Nebennieren-Inzidentalom",
+      "DD: Phäochromozytom",
+      "DD: Cushing-Syndrom",
+      "DD: Conn-Syndrom",
+      "Vorhofflimmern"
+    ],
+    "diagnostic_approach": [
+      "Abdomen-Sonographie",
+      "EKG",
+      "Labor: Hormondiagnostik für Nebennieren-Tumore",
+      "Diagnostik Phäochromozytom (Katecholamine, Metanephrine)",
+      "Diagnostik Cushing-Syndrom",
+      "Diagnostik Conn-Syndrom"
+    ]
+  }
+]

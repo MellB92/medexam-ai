@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 77/111) aus einem EKG-Lehrbuch enthält **keine klinischen Patientenfälle**.\n\nDer Text behandelt ausschließlich:\n\n1. **Systematik der EKG-Befundung** - Eine methodische Anleitung zur Analyse von Elektrokardiogrammen in 5 Schritten\n2. **Theoretische Grundlagen** - Erklärung der einzelnen Analyseschritte (Rhythmus, Frequenz, Lagetyp, Q-Zacken, R/S-Zacken, ST-Strecke, T-Welle)\n3. **Normalwerte und pathologische Befunde** - Allgemeine Beschreibung möglicher EKG-Veränderungen\n4. **Verweise auf andere Lektionen** - Querverweise zu spezifischen Themen wie Myokardinfarkt, Schenkelblock, etc.\n\nEs handelt sich um **didaktisches Lehrmaterial** ohne konkrete Patientenbeispiele, Fallpräsentationen oder klinische Szenarien."
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Akutes Abdomen bei 4-jährigem Jungen",
+    "patient_age": "4 Jahre",
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen im rechten Unterbauch"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Appendicitis",
+      "Leistenhernie",
+      "Hodentorsion"
+    ],
+    "diagnostic_approach": [
+      "Zeitfenster bis 6 Stunden bei Hodentorsion beachten"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Rückenschmerzen mit Radikulopathie bei 59-jähriger Frau",
+    "patient_age": "59 Jahre",
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "Rückenschmerzen mit Ausstrahlung ins rechte Bein",
+      "Taubheitsgefühl",
+      "Muskelschwäche seit einer Woche",
+      "Schulterschmerzen rechts mit Abduktionseinschränkungen"
+    ],
+    "accident_mechanism": "Tennis gespielt vor einer Woche",
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 2 (neu diagnostiziert vor 4 Wochen)",
+      "Asthma bronchiale (neu diagnostiziert vor 3 Wochen)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "spielt Tennis"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Perkussion und Auskultation bei Asthma durchgeführt",
+      "Zwerchfellveränderungen untersucht",
+      "Aortenklappe untersucht"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Radikulopathie",
+      "Schulterluxation"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Wespenstich vor 10 Tagen mit sekundärer Entzündung"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Refluxkrankheit in der Schwangerschaft",
+    "patient_age": null,
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "Refluxbeschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Schwangerschaft"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "PPI (sicher in der Schwangerschaft)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Endoskopie mit Erosionen und Hyperämie",
+      "Barrett-Ösophagus"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Gastroösophageale Refluxkrankheit",
+      "Barrett-Ösophagus"
+    ],
+    "diagnostic_approach": [
+      "ÖGD und Biopsie",
+      "Breischluck (nicht mehr angewendet)",
+      "Oropharyngeale pH-Metrie",
+      "Ösophagusmanometrie",
+      "ÖGD in Schwangerschaft zurückhalten, nur bei Blutung"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "hohes Entartungsrisiko bei Barrett-Ösophagus"
+    ],
+    "follow_up": [
+      "Kontrolle bei Barrett-Ösophagus wegen Karzinogenese"
+    ]
+  }
+]

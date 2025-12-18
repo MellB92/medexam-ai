@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Grippeähnliche Symptome mit Fieber - V.a. Endokarditis\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\n      \"Seit 4 Wochen bestehende grippeähnliche Symptome\",\n      \"3 Tage Fieber bis 39°C\",\n      \"Gliederschmerzen\",\n      \"Beinödeme\",\n      \"Halsschmerzen\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Hypothyreose\",\n      \"Bein-Fraktur in der Kindheit\"\n    ],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\n      \"Beinödeme\"\n    ],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Endokarditis\"\n    ],\n    \"diagnostic_approach\": [\n      \"Duke-Kriterien\",\n      \"Blutkulturen\",\n      \"Echokardiographie\"\n    ]\n  }\n]\n```"
+  }
+]

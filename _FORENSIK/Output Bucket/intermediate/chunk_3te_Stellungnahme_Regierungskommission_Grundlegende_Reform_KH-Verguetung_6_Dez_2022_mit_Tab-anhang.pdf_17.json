@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. \n\nEs handelt sich ausschließlich um:\n- **OPS-Codes** (Operationen- und Prozedurenschlüssel) für intensivmedizinische Verfahren\n- Technische Kodierungen für Hämodialyse, Hämofiltration und Hämodiafiltration\n- Intensivmedizinische Komplexbehandlungen mit Aufwandspunkten\n- Teil einer Tabelle (Tabelle A2) zur Leistungsgruppe \"Intensivmedizin Level 2\"\n\nDies ist ein administratives/kodierendes Dokument der Regierungskommission zur Reform der Krankenhausvergütung, keine klinische Falldokumentation mit Patientenpräsentationen."
+  }
+]

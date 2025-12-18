@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:** \n\nDer vorliegende Dokumentabschnitt (Chunk 74/115) besteht ausschließlich aus verschlüsseltem/kodiertem Text (Base64 oder ähnliche Kodierung). Es handelt sich um eine unleserliche Zeichenfolge ohne erkennbare medizinische Inhalte, Patientenfälle oder klinische Präsentationen.\n\nEs sind keine klinischen Fälle extrahierbar, da:\n1. Der Text nicht im Klartext vorliegt\n2. Keine medizinischen Begriffe, Symptome oder Diagnosen erkennbar sind\n3. Keine Patienteninformationen identifizierbar sind\n4. Keine strukturierten Falldaten vorliegen"
+  }
+]

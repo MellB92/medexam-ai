@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Herzinsuffizienz und Myokarditis",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "MRT und Echo Bilder"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Herzinsuffizienz",
+      "Myokarditis"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Herzinsuffizienz mit Schlappheit und geschwollenen Füßen nach grippalem Infekt",
+    "patient_age": "62-jährige",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "seit 4 Wochen bestehende Schlappheit",
+      "geschwollene Füße",
+      "Nykturie",
+      "Nachtschweiß",
+      "Fieber 37"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypothyreose"
+    ],
+    "medications": [
+      "L-Thyroxin",
+      "Vit D"
+    ],
+    "allergies": [
+      "keine Allergie"
+    ],
+    "physical_examination": [
+      "Übergewicht",
+      "geschwollene Füßen",
+      "sonst unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Knieverletzung nach Dreiradunfall",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Schmerzen im Knie 7/10"
+    ],
+    "accident_mechanism": "kleines Kind mit Dreirad angefahren",
+    "pre_existing_conditions": [
+      "Pollenallergie",
+      "Asthma",
+      "Z.n Cholezystektomie",
+      "Z.n Entfernung eines gutartigen Lebertumors",
+      "Hämorrhoiden"
+    ],
+    "medications": [],
+    "allergies": [
+      "Pollenallergie"
+    ],
+    "physical_examination": [
+      "Steinzeichen positiv"
+    ],
+    "imaging_findings": [
+      "Röntgen Knie unauffällig",
+      "MRT T2: Seitenbandruptur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "VD Meniskusläsion",
+      "Seitenbandruptur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Knie",
+      "MRT",
+      "Kniepunktion"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Roter Urin ohne Erythrozyten\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"roter Urin\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\"U-Stix ohne Erythrozyten\"],\n    \"suspected_diagnosis\": [\"Porphyrie\", \"Medikamenteneinfluss\", \"Lebensmittelfarbstoffe\"],\n    \"diagnostic_approach\": []\n  },\n  {\n    \"title\": \"Bewusstlose Person\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Bewusstlosigkeit\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"ABCDE-Schema erforderlich\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [],\n    \"diagnostic_approach\": [\"Sicherung der Unfallstelle\", \"Ansprechen\", \"Atemwege freimachen\", \"Atmung überprüfen\", \"Kreislauf (Puls tasten)\", \"Bewusstsein überprüfen (GCS)\", \"Notruf absetzen\"]\n  }\n]\n```"
+  }
+]

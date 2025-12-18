@@ -1,0 +1,250 @@
+[
+  {
+    "title": "Schauspielerin mit Diabetes mellitus und Leistungsminderung",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Leistungsminderung",
+      "Schwindel",
+      "Konzentrationsunfähigkeit",
+      "Müdigkeit",
+      "verschwommenes Sehen seit 5 Monaten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Hypercholesterinämie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "nicht besonders"
+    ],
+    "social_history": [
+      "Schauspielerin"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "nichts besonderes",
+      "Naht durchgeführt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Polyurie",
+      "Polydipsie",
+      "Polyphagie"
+    ],
+    "suspected_diagnosis": [
+      "Diabetes mellitus"
+    ],
+    "diagnostic_approach": [
+      "OGTT",
+      "HbA1c",
+      "Nüchternglukose"
+    ],
+    "treatment_response": [
+      "Lebensstilveränderung + Metformin"
+    ],
+    "complications": [
+      "Sodbrennen",
+      "Völlegefühl"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit AP-Beschwerden und Linksschenkelblock",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "AP-Beschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit Linksschenkelblock",
+      "Echo: Wandbewegungsstörung/Akinesie der Muskel"
+    ],
+    "laboratory_findings": [
+      "kein Troponin erhöht"
+    ],
+    "suspected_diagnosis": [
+      "KHK"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Echo",
+      "Troponin"
+    ],
+    "treatment_response": [
+      "Statine (Atorvastatin/Rosuvastatin)",
+      "Beta-Blocker (Metoprolol 47,5 mg)",
+      "ASS",
+      "ACE-Hemmer oder AT1-Blocker"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit Sprunggelenkhämatom nach Umknicken",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "mild",
+    "chief_complaints": [
+      "Sprunggelenkhämatom"
+    ],
+    "accident_mechanism": "Patient ist umgeknikt (beim Rennen)",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Sprunggelenkhämatom im Bild"
+    ],
+    "imaging_findings": [
+      "Bild mit Sprunggelenkhämatom"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Ligamentruptur möglich"
+    ],
+    "diagnostic_approach": [
+      "Röntgen nicht indiziert"
+    ],
+    "treatment_response": [
+      "Immobilisation für ca. 3 Wochen",
+      "dann Krankengymnastik",
+      "keine direkte Operation"
+    ],
+    "complications": [
+      "mögliche Ligamentruptur"
+    ],
+    "follow_up": [
+      "Krankengymnastik nach 3 Wochen"
+    ]
+  },
+  {
+    "title": "Patient mit Eisenmangelanämie durch NSAR ohne PPI",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Eisenmangelanämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Diclofenac ohne PPI"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Eisenmangelanämie"
+    ],
+    "suspected_diagnosis": [
+      "chronische Blutung durch NSAR"
+    ],
+    "diagnostic_approach": [
+      "ÖGD zuerst",
+      "Koloskopie"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "chronische Blutung"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit Ösophagus-Karzinom",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Ulkus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "US/CT Abdomen und Thorax zur Staging",
+      "kleine Läsion ohne Lymphknotenbeteiligung"
+    ],
+    "laboratory_findings": [
+      "Histologie: Ösophagus-Karzinom"
+    ],
+    "suspected_diagnosis": [
+      "Ösophagus-Karzinom"
+    ],
+    "diagnostic_approach": [
+      "Histologie",
+      "US/CT Abdomen und Thorax zur Staging"
+    ],
+    "treatment_response": [
+      "R0-Resektion mit Lymphknoten",
+      "Billroth II oder Roux-en-Y"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit Intoxikation",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Intoxikation"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Intoxikation"
+    ],
+    "diagnostic_approach": [
+      "Selbstschutz",
+      "ABCD-Schema"
+    ],
+    "treatment_response": [
+      "Antidote für Paracetamol, Opioid, Benzodiazepine"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

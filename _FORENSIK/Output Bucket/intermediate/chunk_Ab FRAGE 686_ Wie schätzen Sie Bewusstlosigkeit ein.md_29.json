@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Zufallsbefund Bauchaortenaneurysma 5 cm bei Patientin",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Ultraschall: Vergrößerung der Bauchaorta",
+      "Aortendurchmesser 5 cm"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bauchaortenaneurysma (AAA) 5 cm"
+    ],
+    "diagnostic_approach": [
+      "CT-Angiographie zur genauen Vermessung",
+      "Risikostratifizierung (Rauchen, Hypertonie, KHK)",
+      "Gefäßchirurgische Vorstellung innerhalb 2 Wochen",
+      "Präoperative Risikoabklärung (Kardio, Pulmonal, Renal)",
+      "Evaluation EVAR vs. offene OP"
+    ]
+  }
+]

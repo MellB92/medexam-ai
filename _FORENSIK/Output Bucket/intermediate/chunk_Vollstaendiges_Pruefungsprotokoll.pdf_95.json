@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"TEP-Planung bei 81-jähriger Patientin mit Operationsbedenken\",\n    \"patient_age\": \"81-jährig\",\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Geplante TEP\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\"Keine Exsikkose\", \"Keine Elektrolytstörungen\", \"Normale Glukose\"],\n    \"suspected_diagnosis\": [],\n    \"diagnostic_approach\": [\"Abwägung Risiko versus Nutzen der Operation\", \"Berücksichtigung des Patientenwillens\", \"Konsultation der Angehörigen (Tochter in USA)\", \"Ggf. Hinzuziehung Ethikkomitee\"]\n  }\n]\n```"
+  }
+]

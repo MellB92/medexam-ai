@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 73/148) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischem Wissen zu rechtfertigender Indikation** (ALARA-Prinzip, rechtliche Konsequenzen)\n\n2. **Frage 207**: Theoretische Erklärung zu FAST vs. e-FAST Sonographie (keine konkrete Patientenpräsentation)\n\n3. **Frage 208**: Theoretische Kriterien für OP-Indikation bei Kalkaneusfrakturen (keine konkrete Patientenpräsentation)\n\n4. **Frage 209**: Theoretisches Wissen zu GFR-relevanten Parametern (keine Patientenpräsentation)\n\n5. **Frage 210**: Theoretisches Wissen zu Tumormarkern (keine Patientenpräsentation)\n\nEs handelt sich durchgehend um **prüfungsrelevantes Faktenwissen und theoretische Konzepte**, aber um **keine narrativen Patientenfälle** mit konkreter Anamnese, Untersuchungsbefunden oder diagnostischem Vorgehen bei einem individuellen Patienten."
+  }
+]

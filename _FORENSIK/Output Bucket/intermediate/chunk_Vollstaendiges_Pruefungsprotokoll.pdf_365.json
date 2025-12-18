@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Kind mit Verbrühung am Bauch",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Verbrühung am Bauch"
+    ],
+    "accident_mechanism": "Verbrühung",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Verbrennung/Verbrühung"
+    ],
+    "diagnostic_approach": [
+      "Einschätzung des Verbrennungsgrades"
+    ]
+  },
+  {
+    "title": "Riesenzellarteriitis (RZA) - Kopfschmerzen und Sehstörungen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Kopfschmerzen seit ca. 2 Wochen",
+      "pochend",
+      "lokalisiert im Stirn- und Schläfenbereich",
+      "Schmerzen beim Kauen",
+      "Schmerzen beim Haare Kämmen",
+      "verschwommenes Sehen rechts"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Riesenzellarteriitis (RZA)"
+    ],
+    "diagnostic_approach": [
+      "Biopsie (Goldstandard)",
+      "Doppler"
+    ]
+  }
+]

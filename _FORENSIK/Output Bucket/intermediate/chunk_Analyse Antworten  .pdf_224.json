@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 225/254) enthält ausschließlich theoretische Fragen und Antworten aus einem medizinischen Prüfungsprotokoll. Es handelt sich um ein Q&A-Format mit Wissensfragen zu verschiedenen medizinischen Themen:\n\n- Diabetes mellitus (Definition, Arten, Therapie)\n- CT-Befunde der Leber\n- Genetische Untersuchungen\n- pAVK und KHK Prävalenz\n- Aortenaneurysma abdominalis (AAA) - Ursachen, Behandlung, Klassifikation\n- Thorakale Aortenaneurysmen\n\n**Es gibt KEINE vollständigen klinischen Patientenfälle mit:**\n- Konkreter Patientenvorstellung\n- Anamnese\n- Symptomatik\n- Untersuchungsbefunden\n- Diagnostischem Vorgehen bei einem spezifischen Patienten\n\nDie Erwähnung von \"Verdachtsdiagnose: Herzinfarkt - Maßnahmen\" am Anfang ist fragmentarisch und gehört offensichtlich zu einem abgeschnittenen Fall aus dem vorherigen Chunk."
+  }
+]

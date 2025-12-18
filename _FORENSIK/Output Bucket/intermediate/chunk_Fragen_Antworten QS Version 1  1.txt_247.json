@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text zeigt lediglich:\n- Theoretische Informationen über **Embolien** (Definition, Typen: Thromboembolie, Fettembolie, Fruchtwasserembolie, Luftembolie)\n- Diagnostische Kriterien bei Verdacht auf Lungenembolie (Wells-Score, D-Dimere, CT-Angiographie, V/Q-Szintigraphie)\n- Therapieoptionen für Thrombosen und Embolien (Heparin, Marcumar, DOAKs, Lysetherapie, mechanische Thrombektomie)\n\nEs handelt sich um **strukturiertes Lehrbuchwissen** im Listenformat, nicht um konkrete Patientenpräsentationen mit individuellen Symptomen, Anamnese oder spezifischen Befunden."
+  }
+]

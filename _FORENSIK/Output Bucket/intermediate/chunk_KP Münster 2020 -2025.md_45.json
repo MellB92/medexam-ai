@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Anaphylaxie nach Wespenbiss mit Schock\",\n    \"patient_age\": \"28-jährige\",\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Dyspnoe\", \"geschwollene Lippe\", \"Tachykardie\", \"Hypotonie\"],\n    \"accident_mechanism\": \"Wespenbiss\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"geschwollene Lippe\", \"Tachykardie\", \"Hypotonie\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Anaphylaxie\", \"Schock\"],\n    \"diagnostic_approach\": [\"ABCDE\", \"Basismonitoring\", \"kurze Untersuchung\", \"frühzeitig Zugänge legen\"]\n  }\n]\n```"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Polytrauma-Patient\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": \"Polytrauma\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\"Tibiakopffraktur im Röntgen Kniegelenk\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Schädel-Hirn-Trauma\", \"Rippenfraktur\", \"Milzruptur\", \"Hämatothorax\", \"Kniefraktur\"],\n    \"diagnostic_approach\": [\"CT Schädel\", \"FAST Sonographie\", \"Röntgen Thorax-Abdomen\", \"Röntgen Knie\"]\n  },\n  {\n    \"title\": \"Akutes Abdomen mit Mesenterialinfarkt\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"starke Bauchschmerzen seit 5 Stunden\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\"Laktat erhöht\"],\n    \"suspected_diagnosis\": [\"Mesenterialinfarkt\"],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

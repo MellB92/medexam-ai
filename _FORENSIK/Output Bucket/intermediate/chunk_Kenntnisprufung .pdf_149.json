@@ -1,0 +1,242 @@
+[
+  {
+    "title": "Luftnot, Hämoptysis und Gewichtsverlust bei V.a. Bronchialkarzinom",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "seit Jahren Luftnot und Kurzatmigkeit",
+      "Belastungsdyspnoe, verschlechtert in letzten 2 Wochen",
+      "produktiver Husten mit Hämoptysis 2 Mal pro Woche",
+      "Kaltnachtschweiß",
+      "Appetitlosigkeit",
+      "Gewichtsverlust ca 6 Kilos in letzten 3 Monaten",
+      "Obstipation wöchentlich"
+    ],
+    "accident_mechanism": "Autounfall vor 10 Jahren (geht mit Stock)",
+    "pre_existing_conditions": [
+      "Zustand nach Autounfall vor 10 Jahren mit Gehbehinderung"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter verstorben wegen Darmkrebs (Kolon oder Rektum-CA unklar)"
+    ],
+    "social_history": [],
+    "medications": [
+      "Respiriva (vor einem Monat vom HA verschrieben)",
+      "Salbutamol bei Bedarf (vor einem Monat vom HA verschrieben)",
+      "Makrogol 3-4x pro Woche wegen Obstipation"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "RR gemessen",
+      "AF gemessen",
+      "HF gemessen",
+      "SpO2 nicht gemessen (kein Oximetter)"
+    ],
+    "physical_examination": [
+      "Untersuchung von Kopf bis Fuß durchgeführt",
+      "Auskultation durchgeführt",
+      "Palpation durchgeführt",
+      "Reflexe geprüft (cubital, patellar, achillessehnenreflex)",
+      "neurologische Untersuchung: Zungenprotrusion, Pfeifen, Augen zu, Augenbrauen nach oben"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom (BC)",
+      "RektumCA des mittleren oder unteren Drittel (wegen familiäre Prädisposition und Obstipation)",
+      "sekundärer Tumor/Lungenmetastase",
+      "Lungenarterienembolie (LAE)",
+      "Tuberkulose"
+    ],
+    "diagnostic_approach": [
+      "großes Blutbild",
+      "BGA",
+      "Sputum Kultur",
+      "Röntgen-Thorax",
+      "Abdomen Sonographie",
+      "Tumormarker für BC und RektumCA",
+      "ggf. Bronchoskopie mit EBUS",
+      "Stufenbiopsien/transbronchiale Biopsie",
+      "CT Schädel/Abdomen/Becken",
+      "Knochenszintigraphie",
+      "ggf. Gastroskopie-Koloskopie und starre Rektoskopie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Gichtanfall am Hallux",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Gichtanfall am Hallux"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Foto von Hallux mit typischen Gichtzeichen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Gichtanfall"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Cholezystolithiasis mit Steinen und möglicher Entzündung",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Bild mit Cholezystolithiasis und Steinen",
+      "Gallenblase mit 3-Schichtung (möglicherweise beginnende Entzündung)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Cholezystolithiasis",
+      "möglicherweise beginnende Cholezystitis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "biliäre Pankreatitis (als mögliche Komplikation besprochen)",
+      "Mirizzi-Syndrom (besprochen)",
+      "Komplikationen von Pankreatitis"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Beckenfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "sichere Frakturzeichen",
+      "unsichere Frakturzeichen"
+    ],
+    "imaging_findings": [
+      "Bild von Beckenfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Beckenfraktur"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "mögliche Verletzung von Urether",
+      "mögliche Verletzung der Blase",
+      "Beteiligung verschiedener Strukturen"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Struma bei Morbus Basedow",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Struma"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Bild einer Patientin mit Struma"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Antikörper: TRAK (TSH-Rezeptor-Antikörper)",
+      "TPO (Thyreoperoxidase-Antikörper)",
+      "Tg-AK (Thyreoglobulin-Antikörper)",
+      "TSH-Kontrolle",
+      "T4-Kontrolle",
+      "T3-Kontrolle"
+    ],
+    "suspected_diagnosis": [
+      "Morbus Basedow"
+    ],
+    "diagnostic_approach": [
+      "Kontrolle von TSH, T4, T3",
+      "Antikörperbestimmung (TRAK, TPO, Tg-AK)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Nachsorgeuntersuchung alle 3-6 Monate",
+      "regelmäßige Hormonkontrollen",
+      "Kontrolle unter Therapie mit Zytostatika"
+    ]
+  },
+  {
+    "title": "Borreliose",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "mild",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Bild von Borreliose"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Borreliose"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

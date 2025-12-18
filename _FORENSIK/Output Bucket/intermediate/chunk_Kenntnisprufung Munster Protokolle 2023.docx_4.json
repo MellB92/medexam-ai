@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Akutes Abdomen bei Alkoholiker - Akute Pankreatitis",
+    "patient_age": null,
+    "patient_gender": "männlich",
+    "chief_complaints": [
+      "starke Bauchschmerzen seit letzter Nacht"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Coxarthrose seit 6 Monaten",
+      "Obstipation",
+      "OP rechte Hand vor 15 Jahren"
+    ],
+    "medications": [
+      "Diclofenac 1-0-0 seit 6 Monaten",
+      "Laxanzien Zäpfchen ab und zu"
+    ],
+    "allergies": [
+      "Alkoholabusus (Wein, Bier und Schnaps täglich)"
+    ],
+    "physical_examination": [
+      "Lipom rechte Schulter",
+      "Lipom linke temporal",
+      "mehr Schmerzen im linken Unterbauch bei Palpation"
+    ],
+    "imaging_findings": [
+      "Ultraschall Oberbauch: schwierig zu erkennen",
+      "CT Abdomen: Pankreas aufgetrieben, ödematös mit Flüssigkeit um den Pankreas"
+    ],
+    "laboratory_findings": [
+      "erhöhte Amylase/Lipase (spezifisch)"
+    ],
+    "suspected_diagnosis": [
+      "Akute Pankreatitis",
+      "initial Verdacht: Divertikulitis"
+    ],
+    "diagnostic_approach": [
+      "Bauchuntersuchung",
+      "Lungen- und Herzauskultation",
+      "Palpation Arterien, Lymphknoten, Schilddrüse",
+      "neurologische Untersuchung",
+      "Venenzugang",
+      "Ultraschall Oberbauch",
+      "CT Abdomen",
+      "Laborparameter (Amylase, Lipase)"
+    ]
+  },
+  {
+    "title": "Dyspnoe mit Kardiomegalie und vergrößerten Vorhöfen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Dyspnoe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax im Liegen: Kardiomegalie mit Infiltraten",
+      "Kardiothorax-Quotient erhöht",
+      "Echokardiographie: vergrößerte Vorhöfe (4-Kammer-Blick)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Herzinsuffizienz",
+      "initial DD: Pneumonie"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Thorax",
+      "Messung Kardiothorax-Quotient",
+      "Echokardiographie",
+      "Herzkatheteruntersuchung",
+      "ggf. Myokardbiopsie wenn Herzkatheter normal"
+    ]
+  },
+  {
+    "title": "Coxarthrose",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Hüftschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Coxarthrose seit 6 Monaten"
+    ],
+    "medications": [
+      "Diclofenac"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen: Geröllzysten",
+      "Osteophyten",
+      "subchondrale Sklerosierung",
+      "Gelenkspaltverschmälerung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Coxarthrose"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Hüfte",
+      "konservative Therapie: NSAR (oral, transkutan/Salbe)",
+      "Physikalische Therapie",
+      "operative Therapie: Prothesenversorgung"
+    ]
+  },
+  {
+    "title": "Katzenbisswunde",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Bisswunde durch Katze"
+    ],
+    "accident_mechanism": "Katzenbiss",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Bisswunde sichtbar"
+    ],
+    "imaging_findings": [
+      "Röntgenbild der Bisswunde"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "infizierte Bisswunde"
+    ],
+    "diagnostic_approach": [
+      "Wundversorgung",
+      "Antibiotikatherapie",
+      "chirurgische Vorstellung notwendig",
+      "Überwachung auf Komplikationen"
+    ]
+  }
+]

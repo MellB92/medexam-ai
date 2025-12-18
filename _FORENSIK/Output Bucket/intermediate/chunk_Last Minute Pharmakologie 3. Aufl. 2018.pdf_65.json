@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 66/115) aus \"Last Minute Pharmakologie, 3. Aufl. (2018).pdf\" enthält **keine klinischen Patientenfälle**.\n\nDer extrahierbare Text zeigt:\n\n1. **Therapieempfehlungen** für verschiedene Erkrankungen:\n   - Trigeminusneuralgie (Carbamazepin, Phenytoin)\n   - Analgetikakopfschmerz (durch Übergebrauch)\n   - Neuropathische Schmerzen (Gabapentin, Carbamazepin, Amitriptylin, Pregabalin)\n\n2. **CHECK-UP Fragen** (Prüfungsfragen):\n   - Einsatz von Analgetika bei Tumorschmerzen\n   - Was sind Adjuvanzien?\n   - Migräneanfall-Behandlung\n\n3. **Verschlüsselter/korrupter Text**: Der größte Teil des Chunks besteht aus unlesbarem, verschlüsseltem oder beschädigtem Text.\n\nEs handelt sich hier um **pharmakologisches Lehrmaterial** mit Therapierichtlinien und Prüfungsfragen, jedoch **ohne konkrete Patientenfälle** mit Anamnese, Befunden oder diagnostischem Vorgehen."
+  }
+]

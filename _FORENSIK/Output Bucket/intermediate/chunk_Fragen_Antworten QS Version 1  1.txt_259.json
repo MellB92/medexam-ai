@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**.\n\nDer Text besteht aus:\n\n1. **Fortsetzung eines Reanimationsalgorithmus** (Abschnitt 4-5):\n   - Allgemeine Handlungsanweisungen für CPR\n   - AED-Einsatz, Rhythmusanalyse\n   - Rechtliche Aspekte (§323c StGB, §630f BGB)\n   - Ergänzungen zu No-Flow-Time und Kapnographie\n   → Dies ist **theoretisches Wissen/Algorithmus**, kein konkreter Patientenfall\n\n2. **Beginn einer neuen Frage (FRAGE 703)**:\n   - \"Was sehen Sie im Urin bei interstitieller Nephritis?\"\n   - Dies ist eine **theoretische Wissensfrage**, kein Patientenfall\n   - Der Text bricht direkt nach der Fragestellung ab (Ende des Chunks)\n\nEs gibt keine Patientenpräsentation mit konkreten Angaben zu Alter, Geschlecht, Anamnese, Befunden oder einem spezifischen klinischen Szenario."
+  }
+]

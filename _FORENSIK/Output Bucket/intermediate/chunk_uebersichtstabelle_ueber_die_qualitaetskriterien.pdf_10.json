@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 11/11) enthält **keine klinischen Patientenfälle**. \n\nEs handelt sich um eine **Übersichtstabelle über Qualitätskriterien** für Krankenhausplanung, die folgende administrative/strukturelle Informationen enthält:\n\n- Anforderungen an Leistungsgruppen (LG) in der Psychiatrie, Psychotherapie und Psychosomatik\n- Fachärztliche Qualifikationsanforderungen (z.B. \"Mind. 2 FA (VZÄ)\")\n- Personalausstattung nach PPP-Konzept\n- Kooperationsvorgaben zwischen Fachabteilungen\n- Rechtliche Verweise (Bundesanzeiger, Richtlinien)\n- Auswahlkriterien (Deeskalationsschulung, Genesungsbegleiter)\n- Fußnoten zu strukturellen Anforderungen\n\nEs werden **keine individuellen Patienten** mit Anamnese, Symptomen, Befunden oder Diagnosen beschrieben. Dies ist ein rein administratives Planungsdokument für Krankenhausstrukturen."
+  }
+]

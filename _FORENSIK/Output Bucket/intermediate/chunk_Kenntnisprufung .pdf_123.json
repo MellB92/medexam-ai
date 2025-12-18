@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Rückenschmerzen mit Radikulopathie nach Gewichtshebung",
+    "patient_age": "62-jährige",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Rückenschmerzen (Kreuzschmerzen) seit 5 Tagen",
+      "Blasenschwäche nach Gewichtshebung",
+      "Harndrang",
+      "Verschlechterung der Schmerzen heute Morgen",
+      "Ausstrahlung ins rechte Bein bis zur lateralen Seite des Fußes"
+    ],
+    "accident_mechanism": "Gewichtshebung bei Gartenarbeit",
+    "pre_existing_conditions": [
+      "Diabetes mellitus (seit 2 Wochen diagnostiziert, unter Diät)",
+      "Belastungsasthma seit Jahren"
+    ],
+    "comorbidities": [
+      "Obstipation",
+      "Blasenentzündung vor 3 Wochen (mit Antibiotika behandelt)",
+      "Sturz auf rechte Schulter vor 3 Wochen"
+    ],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter: Nierenversagen unter Dialyse",
+      "Vater: vorangegangene Herz-OP mit nachfolgender Entzündung vom OP-Schnitt am Sternum",
+      "Bruder: Leber-OP"
+    ],
+    "social_history": [],
+    "medications": [
+      "Foster 1x täglich",
+      "Salbutamol bei Bedarf",
+      "Dulcolax gegen Obstipation"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Druckschmerz Wirbelkörper L5, S1",
+      "Klopfschmerz Wirbelkörper L5, S1",
+      "Lasègue-Test rechts positiv",
+      "Reflexe Tibialis posterior abgeschwächt",
+      "Reflexe Achillessehne abgeschwächt"
+    ],
+    "imaging_findings": [
+      "MRT Wirbelsäule: L5 NP Protrusion",
+      "MRT Wirbelsäule: S1 NP Prolaps",
+      "Röntgen Schulter: Akromioklavikulare Luxation mit Bänderruptur (Korakoklavikular und Akromioklavikular), Tossy 3"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bandscheibenvorfall L5/S1 mit Radikulopathie",
+      "Akromioklavikulare Luxation Tossy 3",
+      "Prädiabetes"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Wirbelsäule",
+      "MRT Wirbelsäule",
+      "Röntgen Schulter"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

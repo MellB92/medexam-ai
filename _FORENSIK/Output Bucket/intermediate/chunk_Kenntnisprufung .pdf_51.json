@@ -1,0 +1,66 @@
+[
+  {
+    "title": "pAVK mit Claudicatio intermittens bei 58-jährigem Raucher",
+    "patient_age": "58 Jahre",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Rechte Wadenschmerzen seit drei Monaten",
+      "Blässe",
+      "Kältegefühl",
+      "Tägliche Schmerzen beim Laufen",
+      "In Ruhe beschwerdefrei"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. BSV vor einigen Jahren"
+    ],
+    "comorbidities": [
+      "Arterielle Hypertonie",
+      "Hyperlipidämie",
+      "Obstipation (gelegentlich)"
+    ],
+    "risk_factors": [
+      "Starker Raucher",
+      "Täglicher Alkoholkonsum (ca. eine Flasche Bier, am Wochenende mehr)"
+    ],
+    "family_history": [
+      "Sohn (23 Jahre): chronische Darmentzündung",
+      "Mutter: Herzbeschwerden",
+      "Vater: Tuberkulose"
+    ],
+    "social_history": [
+      "Rentner",
+      "Starker Raucher (morgens Husten mit dunklem Auswurf seit mehreren Jahren)",
+      "Täglicher Alkoholkonsum"
+    ],
+    "medications": [
+      "Bisoprolol",
+      "ASS",
+      "Bisacodyl",
+      "Atorvastatin"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Pulsstatus am Fuß zu prüfen (impliziert verminderte periphere Pulse)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "pAVK (periphere arterielle Verschlusskrankheit)",
+      "Schaufensterkrankheit (Claudicatio intermittens)"
+    ],
+    "diagnostic_approach": [
+      "Ratschow-Lagerungsprobe",
+      "Knöchel-Arm-Index",
+      "Fontaine Stadium-Klassifikation",
+      "Pulse am Fuß tasten"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

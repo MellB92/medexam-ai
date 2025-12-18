@@ -1,0 +1,29 @@
+[
+  {
+    "title": "22-jähriger Mann mit druckenden Brustschmerzen und ST-Hebungen",
+    "patient_age": "22",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "druckende Brustschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "STEMI",
+      "Perikarditis"
+    ],
+    "diagnostic_approach": [
+      "EKG systematisch beschrieben",
+      "ST-Hebungen aller Brustableitungen",
+      "T-Negativierung",
+      "R-Verlust",
+      "Echokardiographie",
+      "ggf. Perikardpunktion"
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "title": "Bronchialkarzinom-Verdacht bei COPD-Patientin mit Hämoptysen und Gewichtsverlust",
+    "patient_age": "69-jährige",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Husten mit Auswurf",
+      "Belastungsdyspnoe bei vorbekannter COPD",
+      "Hämoptysen (2-3 Mal vor 14 Tagen)",
+      "Orthopnoe, kann nachts kaum flach liegen",
+      "Keine Treppen mehr steigen können",
+      "Spaziergänge nicht mehr möglich"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "COPD (chronische Bronchitis)",
+      "Arterielle Hypertonie (Diagnose vor 5 Jahren)",
+      "Gicht",
+      "Z.n. Cholezystektomie vor 40 Jahren",
+      "Z.n. Autounfall vor 20 Jahren mit Schwerverletzung des linken Beins und Beckenbruch",
+      "30% Schwerbehinderung, Mobilisation mit Gehstock"
+    ],
+    "comorbidities": [
+      "Obstipationsneigung"
+    ],
+    "risk_factors": [
+      "Nikotinabusus seit 40 Jahren (früher 30-40 Zigaretten/Tag, seit 10 Jahren 20 Zigaretten/Tag)",
+      "Alkoholkonsum 1-2 Flaschen Bier täglich",
+      "Übergewicht (80 kg, 168 cm, BMI 28.3)"
+    ],
+    "family_history": [
+      "Vater mit 71 Jahren an pAVK verstorben",
+      "Mutter 88 Jahre alt, im Heim, aktuell schwere Diarrhoe",
+      "Bruder im jungen Alter beim Sportunterricht plötzlich verstorben (V.a. Myokarditis/plötzlicher Herztod)"
+    ],
+    "social_history": [
+      "Rentnerin seit 4 Jahren",
+      "Früher in Gaststätte gearbeitet",
+      "Verheiratet, lebt mit Ehemann zusammen",
+      "2 Söhne und 2 Enkelkinder"
+    ],
+    "medications": [
+      "Lisinopril 1-0-0",
+      "Spiriva (Tiotropium) 1-0-0",
+      "Salbutamol bei Bedarf",
+      "Dulcolax (Bisacodyl) bei Bedarf"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "RR beidseits gemessen (Werte nicht dokumentiert)"
+    ],
+    "physical_examination": [
+      "Lymphknoten abgetastet",
+      "Pulse gemessen",
+      "Abdomen untersucht",
+      "Thorax untersucht",
+      "Untere Extremitäten untersucht",
+      "Herz- und Lungenauskultation",
+      "Perkussion",
+      "Atemverschieblichkeit geprüft",
+      "Stimmfremitus geprüft",
+      "Bronchophonie geprüft"
+    ],
+    "imaging_findings": [
+      "Röntgen Thorax: Raumforderung in der rechten Lunge"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom (Hauptverdacht)",
+      "DD: Herzinsuffizienz",
+      "DD: Exazerbierte COPD",
+      "DD: Lungenarterienembolie (LAE)",
+      "DD: Anämie",
+      "DD: Tuberkulose (aufgrund der Hämoptysen)"
+    ],
+    "diagnostic_approach": [
+      "Einweisung ins Krankenhaus zur weiteren Abklärung",
+      "Röntgen Thorax",
+      "Staging bei Bronchialkarzinom",
+      "Klassifikation und weitere Diagnostik"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Vom Hausarzt mit Einweisung ins Krankenhaus zur weiteren Abklärung geschickt"
+    ]
+  }
+]

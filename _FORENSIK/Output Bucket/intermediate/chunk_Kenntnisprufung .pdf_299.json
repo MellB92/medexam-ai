@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Pyelonephritis mit Sepsisverdacht nach Spanien-Urlaub",
+    "patient_age": "66-jährige",
+    "patient_gender": "Frau",
+    "severity": "severe",
+    "chief_complaints": [
+      "Persistierendes Fieber seit dem Vortag (39°C vom Ehemann gemessen)",
+      "Kopfschmerzen (unspezifisch)",
+      "Herzklopfen",
+      "Atemnot",
+      "Polyurie",
+      "Grippeähnliche Symptome mit Husten und Schnupfen während des Urlaubs"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Diabetes mellitus Typ II",
+      "Herzrhythmusstörung (lange medikamentös behandelt, Herzkatheteruntersuchung vor einem Jahr)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Reiseanamnese (3 Wochen Spanien-Urlaub)",
+      "Diabetes mellitus Typ II"
+    ],
+    "family_history": [
+      "Vater verstarb an Darmkrebs",
+      "Mutter hatte Lebererkrankung"
+    ],
+    "social_history": [
+      "3 Wochen Spanien-Urlaub",
+      "2 Tage vor Vorstellung zurückgereist"
+    ],
+    "medications": [
+      "Medikamente für Hypertonie und Diabetes (konnte Patientin nicht angeben)",
+      "Keine Medikamente für Herzrhythmusstörung seit Herzkatheteruntersuchung vor einem Jahr"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Fieber 39°C",
+      "Normofrequente Herzfrequenz",
+      "Normaler Blutdruck bei beidseitiger Messung"
+    ],
+    "physical_examination": [
+      "Desorientierung (Orientierungsfragen erst nach längerer Überlegung beantwortbar)",
+      "Positiver Nierenklopfschmerz rechts",
+      "Keine Dysurie",
+      "Auskultation durchgeführt",
+      "Pulstastung durchgeführt",
+      "Neurologische Untersuchung inklusive Meningismuszeichen",
+      "Ansonsten keine Auffälligkeiten"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "PCT-Bestimmung veranlasst"
+    ],
+    "suspected_diagnosis": [
+      "Pyelonephritis",
+      "Sepsis",
+      "DD: Pneumonie",
+      "DD: Virale Meningitis"
+    ],
+    "diagnostic_approach": [
+      "Auskultation",
+      "Monitor oder Pulsoximeter angefordert",
+      "Blutdruckmessung beidseitig",
+      "Pulstastung",
+      "Neurologische Untersuchung mit Meningismuszeichen",
+      "PCT-Bestimmung zur Sepsis-Diagnostik"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Zeichen der Desorientierung als mögliches Sepsis-Symptom"
+    ],
+    "follow_up": []
+  }
+]

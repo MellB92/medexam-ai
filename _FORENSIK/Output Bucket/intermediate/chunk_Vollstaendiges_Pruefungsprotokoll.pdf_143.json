@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle**. \n\nEs handelt sich ausschließlich um:\n- **Prüfungsfragen mit Antworten** aus einem medizinischen Examen/Kenntnissprüfung\n- **Theoretische Wissensfragen** zu verschiedenen medizinischen Themen wie:\n  - Thoraxdrainage (Bülau-/Monaldi-Drainage)\n  - Cholezystektomie (Calot-Dreieck)\n  - Thyreoidektomie\n  - L-Thyroxin\n  - KHK-Risikofaktoren\n  - Hyperlipidämie-Therapie\n  - Lungenembolie-Notfalltherapie\n  - Strahlenschutz (ALARA)\n  - Makrozytäre Anämie\n  - Vitamin B12-Mangel\n  - Perikarditis/Perikardtamponade\n  - Nebennierenhormone\n\n- **Keine strukturierten Patientenfälle** mit Anamnese, Befunden oder klinischer Präsentation\n- Die einzige Frage, die ansatzweise einen klinischen Kontext erwähnt (\"Schockpatient mit Lungenembolie\"), ist eine hypothetische Notfallsituation ohne konkrete Patientendaten"
+  }
+]

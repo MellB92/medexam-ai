@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 32/60) enthält **keine vollständigen klinischen Präsentationsfälle** mit Patientengeschichten. \n\nDer Text besteht aus:\n\n1. **Lernmaterial zu Tuberkulose** - Bildmaterial (CT Abdomen, Röntgen Thorax) und allgemeine Diskussionen über TBC-Diagnostik und -Therapie, aber keine konkreten Patientenfälle\n\n2. **Lernmaterial zu OSAS (Obstruktives Schlafapnoe-Syndrom)** - Theoretische Inhalte mit:\n   - Definitionen (Apnoe-Hypopnoe-Index)\n   - Diagnostik (Polysomnographie)\n   - Therapie (CPAP/BPAP, operative Optionen)\n   - Prüfungsfragen und Fragmenten von Prüfungsgesprächen\n\n3. **Lernmaterial zu Lungenödem** - Röntgenbefunde und theoretische Beschreibungen\n\nObwohl einzelne Elemente erwähnt werden (z.B. \"Patient hatte Sekundenschlaf\", \"Hypothyreose, dd: Obstruktive Schlafapnoe\"), handelt es sich dabei um **fragmentarische Prüfungsfragen** ohne vollständige Patientenanamnesen, körperliche Untersuchungen oder strukturierte Falldarstellungen.\n\nEs gibt keine vollständigen klinischen Fälle mit ausreichenden Details für eine strukturierte Extraktion gemäß den vorgegebenen Kriterien."
+  }
+]

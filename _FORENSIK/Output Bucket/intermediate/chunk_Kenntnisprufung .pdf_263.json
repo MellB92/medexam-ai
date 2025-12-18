@@ -1,0 +1,179 @@
+[
+  {
+    "title": "Arteriitis temporalis (Riesenzellarteriitis) mit drohender Erblindung",
+    "patient_age": "Rentner (geschätztes Alter >65 Jahre)",
+    "patient_gender": "männlich",
+    "severity": "severe",
+    "chief_complaints": [
+      "Plötzlich eingetretenes verschwommenes Sehen heute Morgen",
+      "AZ-Verschlechterung",
+      "Kopfschmerzen seit 2 Wochen (verstärken sich durch Sprechen, Kauen, Schlucken)",
+      "Keine Besserung nach Paracetamol",
+      "Vermehrtes Schwitzen in der Nachthälfte",
+      "Durstgefühl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Z.n. Sprunggelenksfraktur im Alter von 21 Jahren (Osteosynthese)",
+      "Z.n. Schilddrüsenknotenextirpation im Alter von 48 Jahren (komplikationslos)",
+      "Z.n. Hepatitis vor 15 Jahren nach Reise in den Osten"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Raucher (3 Zigaretten pro Tag)",
+      "Alkohol gelegentlich"
+    ],
+    "family_history": [
+      "Mutter 92 Jahre alt",
+      "Vater verstorben am Kolonkarzinom mit 75 Jahren",
+      "Schwester leide seit ca. 1 Woche an Lungenarterienembolie",
+      "Bruder leide an Gicht"
+    ],
+    "social_history": [
+      "Rentner",
+      "Vor 1 Jahr verwitwet",
+      "Wohnt allein in einer Wohnung",
+      "Hat zwei Söhne und einen Enkel (alle gesund)"
+    ],
+    "medications": [
+      "Candesartan Plus"
+    ],
+    "allergies": [
+      "Diclofenac (anaphylaktische Reaktion)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Typisches Bild einer Arteriitis temporalis",
+      "Komplette körperliche Untersuchung durchgeführt",
+      "Neurologische Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [
+      "Farbkodierte Duplex-Sono-Doppler zur Beurteilung des Gefäßlumens, Blutfluss, Dicke und Struktur der Gefäßwände",
+      "Weitere bildgebende Verfahren: MRT, PET, CTA möglich"
+    ],
+    "laboratory_findings": [
+      "CRP erhöht",
+      "BSG erhöht",
+      "Sonst Laborwerte unauffällig"
+    ],
+    "suspected_diagnosis": [
+      "Arteriitis temporalis (Riesenzellarteriitis, RZA)"
+    ],
+    "diagnostic_approach": [
+      "Diagnosestellung anhand der klinischen Untersuchung",
+      "Labor (CRP/BSG)",
+      "Farbkodierte Duplex-Sono-Doppler",
+      "Ggf. MRT, PET, CTA",
+      "Biopsie (wird heute kaum noch gemacht)"
+    ],
+    "treatment_response": [
+      "Prednisolon 1000mg i.v. mit Umstellung auf p.o. 5 mg/kg über ca. 24 Monate"
+    ],
+    "complications": [
+      "Drohende Erblindungsgefahr",
+      "Mögliche Aortendissektion",
+      "Apoplexrisiko",
+      "Erhöhtes Risiko für Malignome"
+    ],
+    "follow_up": [
+      "Langzeit-Steroidtherapie über 24 Monate"
+    ]
+  },
+  {
+    "title": "Bimalleoläre Weber C Fraktur nach Trampolinunfall",
+    "patient_age": "junger Mann",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Heftige Schmerzen im Sprunggelenk nach Trampolinunfall"
+    ],
+    "accident_mechanism": "Trampolinunfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalparameter gemessen (im Normbereich)"
+    ],
+    "physical_examination": [
+      "Schwellung im Sprunggelenk",
+      "Starke Schmerzen",
+      "pDMS durchgeführt (ohne pathologischen Befund)",
+      "Sonst o.B."
+    ],
+    "imaging_findings": [
+      "Röntgen Sprunggelenk a.p.: bimalleoläre Weber C Fraktur erkennbar",
+      "Röntgen seitlich: Bestätigung der Diagnose",
+      "Frakturlinie oberhalb der Syndesmose"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bimalleoläre Weber C Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Kurze Notfallanamnese",
+      "Vitalparameter",
+      "Körperliche Untersuchung inkl. pDMS",
+      "Röntgen Sprunggelenk in 2 Ebenen (a.p. und seitlich)"
+    ],
+    "treatment_response": [
+      "Operative Versorgung indiziert wegen Syndesmosenbeteiligung"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Postoperatives Management und Physiotherapie",
+      "Diskussion über Voll- oder Teilbelastung",
+      "Metallentfernung nach ca. 2 Jahren oder bei Beschwerden",
+      "Bei fehlenden Beschwerden kann Metall belassen werden"
+    ]
+  },
+  {
+    "title": "Kolonkarzinom rechts mit blutigen Stuhlabgängen",
+    "patient_age": "75 Jahre",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Blutige Stuhlabgänge"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Rektal-digitale Untersuchung durchgeführt",
+      "Körperliche Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [
+      "Koloskopie: Colon-CA auf der rechten Seite des Colons, gut erkennbar und beschreibbar"
+    ],
+    "laboratory_findings": [
+      "Labor durchgeführt"
+    ],
+    "suspected_diagnosis": [
+      "Kolonkarzinom T2N0M0 (rechte Seite)"
+    ],
+    "diagnostic_approach": [
+      "Rektal-digitale Untersuchung",
+      "Labor",
+      "Körperliche Untersuchung",
+      "Koloskopie mit Biopsie",
+      "Staging"
+    ],
+    "treatment_response": [
+      "Hemikolektomie mit Ileotransversaler Anastomose",
+      "Keine adjuvante Chemotherapie bei T2N0M0",
+      "Großzügige Resektion wegen Gefäßversorgung und Lymphabfluss inkl. Lymphknoten"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

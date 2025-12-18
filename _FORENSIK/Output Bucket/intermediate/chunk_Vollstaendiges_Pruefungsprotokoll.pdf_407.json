@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Postoperatives blutiges Erbrechen\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"blutiges Erbrechen\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [],\n    \"diagnostic_approach\": [\"Anamnese (Vorerkrankungen, Medikamente)\", \"Untersuchung\"]\n  }\n]\n```"
+  }
+]

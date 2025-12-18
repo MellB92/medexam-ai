@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 59/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle**, sondern ausschließlich:\n\n1. **Theoretische Beschreibungen** von Herzrhythmusstörungen:\n   - Multifokale atriale Tachykardie\n   - Ektop atriale Tachykardien\n   - Vorhofflimmern\n   - Vorhofflattern\n\n2. **EKG-Kriterien und Charakteristika** (elektrokardiografische Befunde)\n\n3. **Pathophysiologische Erklärungen** mit schematischen Darstellungen (Abb. 25.1, 25.2, 25.3)\n\n4. **Verweise auf EKG-Beispiele** (34-37), die sich vermutlich auf anderen Seiten befinden\n\nEs werden keine konkreten Patienten mit Alter, Geschlecht, Beschwerden oder klinischen Verläufen beschrieben. Es handelt sich um rein didaktisches Material zur Vermittlung von EKG-Wissen."
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Patient mit Angina pectoris und Linksschenkelblock bei KHK",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Angina pectoris Beschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit Linksschenkelblock",
+      "Echokardiographie: Wandbewegungsstörung/Akinesie der Muskulatur"
+    ],
+    "laboratory_findings": [
+      "Troponin negativ"
+    ],
+    "suspected_diagnosis": [
+      "Koronare Herzkrankheit"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Troponin-Bestimmung",
+      "Echokardiographie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit Ulkus und Ösophaguskarzinom",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Ulkus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT Abdomen und Thorax: kleine Läsion ohne Lymphknotenbeteiligung"
+    ],
+    "laboratory_findings": [
+      "Histologie: Ösophaguskarzinom"
+    ],
+    "suspected_diagnosis": [
+      "Ösophaguskarzinom"
+    ],
+    "diagnostic_approach": [
+      "Histologie",
+      "Sonographie Abdomen",
+      "CT Abdomen und Thorax zur Staging"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Schauspielerin mit akuter Pyelonephritis",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen in der linken Flanke",
+      "Dysurie",
+      "Fieber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Belastungsasthma",
+      "Diabetes mellitus Typ I",
+      "Zustand nach Unterarmfraktur (konservativ behandelt)",
+      "Knieverletzung vor 1 Woche (als Verrenkung beschrieben)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Schauspielerin"
+    ],
+    "medications": [
+      "Insulinpumpe seit 6 Monaten"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "akute Pyelonephritis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

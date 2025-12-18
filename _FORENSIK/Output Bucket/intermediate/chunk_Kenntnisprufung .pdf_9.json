@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Fahrradunfall mit Rippenfraktur und Colles-Fraktur",
+    "patient_age": "62-jähriger",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Atemabhängige Schmerzen im rechten Oberbauch (Schmerzskala 6/10)",
+      "Schmerzen im Handgelenk (Schmerzskala 8/10)"
+    ],
+    "accident_mechanism": "Patient wurde von einem Auto angefahren während er Fahrrad fuhr. Sturz auf die Handfläche. Helmtragend, kein Kopfaufprall",
+    "pre_existing_conditions": [
+      "Leistenhernie (vor 15 Jahren operiert)",
+      "Sigmadivertikulitis (vor 15 Jahren)",
+      "Darmpolyp-Entfernung (vor 2 Jahren)"
+    ],
+    "comorbidities": [
+      "Vorhofflattern",
+      "Niereninsuffizienz (akut versus chronisch zu klären)"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Herzmedikament (vermutlich Xarelto - Antikoagulans)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Deutlich reduzierter Allgemeinzustand",
+      "Druckschmerz im Bauch",
+      "Kompressionsschmerz auf den Rippen",
+      "Handgelenk-Bewegungen schmerzhaft",
+      "DMS (Durchblutung, Motorik, Sensibilität) unauffällig"
+    ],
+    "imaging_findings": [
+      "Röntgen: Typische Colles-Fraktur",
+      "Röntgen: Rippenfraktur"
+    ],
+    "laboratory_findings": [
+      "Hyperkaliämie (Kalium 5,8 mmol/l)",
+      "Kreatinin 2 mg/dl (erhöht)"
+    ],
+    "suspected_diagnosis": [
+      "Rippenfraktur",
+      "Colles-Fraktur",
+      "Niereninsuffizienz (DD: akut versus chronisch)"
+    ],
+    "diagnostic_approach": [
+      "Schmerzanamnese und Allergieabklärung",
+      "Körperliche Untersuchung inklusive DMS-Kontrolle",
+      "Röntgen Handgelenk und Thorax",
+      "Laboruntersuchung mit Elektrolyten und Nierenwerten",
+      "EKG",
+      "Weitere Abklärung NI: Phosphat, Calcium, Vitamin D, Parathormon"
+    ],
+    "treatment_response": [
+      "Reposition der Colles-Fraktur mit Mädchenfinger-Technik (5kg Gewicht am Oberarm, 30 Minuten)",
+      "OP-Planung abhängig vom Repositionsergebnis"
+    ],
+    "complications": [
+      "Potentieller Pneumothorax bei Rippenfraktur"
+    ],
+    "follow_up": []
+  }
+]

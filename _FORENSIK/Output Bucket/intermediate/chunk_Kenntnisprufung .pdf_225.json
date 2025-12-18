@@ -1,0 +1,105 @@
+[
+  {
+    "title": "Thrombozytopenie nach Infekt mit Petechien und Blutungsneigung",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Petechien",
+      "gingivale Blutungen",
+      "Leistungsminderung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Infekt vor 4 Wochen"
+    ],
+    "comorbidities": [
+      "KHK",
+      "Herzinsuffizienz",
+      "Lungenemphysem"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "vollständige körperliche Untersuchung"
+    ],
+    "imaging_findings": [
+      "EKG mit Linksschenkelblock",
+      "Rö mit Lungenemphysem"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Thrombozytopenie"
+    ],
+    "diagnostic_approach": [
+      "Labor",
+      "EKG",
+      "Röntgen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "ITP mit Petechien und COPD",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Knötchen am Knöchel",
+      "Petechien an beiden Beinen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [
+      "COPD",
+      "Herzinsuffizienz"
+    ],
+    "risk_factors": [
+      "Alpha-1-Antitrypsin-Mangel"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "SGLT-2 Hemmer",
+      "Glykoside"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Lunge untersucht",
+      "Herz untersucht",
+      "Reflexe geprüft",
+      "Mund untersucht",
+      "Abdomen untersucht",
+      "oberflächliche und tiefe Palpation",
+      "Milzloge palpiert",
+      "Leberloge palpiert und beklopft"
+    ],
+    "imaging_findings": [
+      "Petechien-Bild beider Beine",
+      "Röntgen: Leber tief verlegt in Bauchraum",
+      "Rippen weit auseinander",
+      "EKG: Linksschenkelblock",
+      "Sono-Bild Milz ohne pathologischen Befund"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "ITP",
+      "HIT als mögliche Ursache"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung",
+      "Bildgebung",
+      "Sonographie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

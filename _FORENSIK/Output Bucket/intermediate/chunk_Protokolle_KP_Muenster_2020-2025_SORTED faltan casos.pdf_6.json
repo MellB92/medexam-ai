@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Sepsis mit Kopfschmerzen, Fieber und Schüttelfrost\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Kopfschmerzen\", \"Fieber\", \"Schüttelfrost\", \"Krankheitsgefühl\", \"Übelkeit\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Abdomen teilweise untersucht\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\"Laborbild mit Multiorgandysfunktion\"],\n    \"suspected_diagnosis\": [\"Sepsis\"],\n    \"diagnostic_approach\": [\"Körperliche Untersuchung\", \"Abdomenuntersuchung\", \"Labordiagnostik\"]\n  },\n  {\n    \"title\": \"Vorhofflimmer mit Hyperkaliämie\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\"EKG mit Vorhofflimmern und Hyperkaliämie\"],\n    \"laboratory_findings\": [\"Hyperkaliämie\"],\n    \"suspected_diagnosis\": [\"Vorhofflimmern\", \"Hyperkaliämie\"],\n    \"diagnostic_approach\": [\"EKG\", \"Diagnostische Maßnahmen\"]\n  }\n]\n```"
+  }
+]

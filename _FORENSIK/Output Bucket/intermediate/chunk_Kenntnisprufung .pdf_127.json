@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Anämie bei Routinekontrolle vor TEP-Implantation bei Coxarthrose",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Anämie bei Routinekontrolle",
+      "Kribbelparästhesien in den Füßen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Coxarthrose mit geplanter TEP-Implantation",
+      "Diabetes mellitus schlecht eingestellt"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "chronischer NSAR-Abusus"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "NSAR (chronisch)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Kribbelparästhesien in den Füßen bei Untersuchung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Blutungsanämie bei chronischem NSAR-Abusus",
+      "obere GI-Blutung/Sickerblutung bei Ulkus",
+      "Eisenmangelanämie bei Karzinom",
+      "Polyneuropathie",
+      "Vitamin B12-Mangel durch Typ A Gastritis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "geplante TEP-Implantation"
+    ]
+  },
+  {
+    "title": "Herzinsuffizienz nach fieberhatem Infekt mit Verdacht auf Myokarditis",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Luftnot bei Belastung beim Treppensteigen",
+      "Luftnot bei Haushaltsarbeit",
+      "Beinödeme",
+      "Abgeschlagenheit",
+      "Zunahme der Beschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. fieberhatem Infekt vor 4 Wochen mit Fieber 39°C",
+      "Husten mit Auswurf ohne Verfärbung",
+      "Gliederschmerzen"
+    ],
+    "comorbidities": [
+      "Niereninsuffizienz (fraglich)"
+    ],
+    "risk_factors": [],
+    "family_history": [
+      "Vater mit Aderlasstherapie (V.a. Hämochromatose/Polycythemia vera)",
+      "Mutter mit Magenulkus"
+    ],
+    "social_history": [
+      "nicht beim Arzt gewesen trotz Fieber und Beschwerden"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Beinödeme",
+      "keine Ruhebeschwerden"
+    ],
+    "imaging_findings": [
+      "Herzechokardiographie (parasternale Längsachse): Pleuraerguss"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Herzinsuffizienz",
+      "Z.n. Pneumonie",
+      "Myokarditis (fraglich)",
+      "Niereninsuffizienz (fraglich)"
+    ],
+    "diagnostic_approach": [
+      "Herzechokardiographie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Polytrauma nach Fahrradunfall mit Abdominaltrauma und Femurfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Bauchtrauma",
+      "Femurfraktur"
+    ],
+    "accident_mechanism": "Unfall vom Fahrrad mit Lenker auf Bauchbereich verletzt",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Beckenübersicht und beide Hüftgelenke sowie Femur: dislozierte Femurschaftfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Milzruptur",
+      "Leberruptur",
+      "Pankreasruptur",
+      "dislozierte Femurschaftfraktur"
+    ],
+    "diagnostic_approach": [
+      "Traumacheck",
+      "FAST",
+      "Traumaspirale",
+      "Sonographie (Räume)",
+      "Röntgen Beckenübersicht und Femur"
+    ],
+    "treatment_response": [
+      "Plattenosteosynthese mit interfragmentären Schrauben",
+      "Leberpacking bei Leberruptur"
+    ],
+    "complications": [
+      "OPSI-Risiko nach Splenektomie",
+      "Blutung 1-2 Liter bei Femurfraktur"
+    ],
+    "follow_up": [
+      "Nachbehandlung nach DGOU",
+      "Thromboseprophylaxe",
+      "Plattenentfernung nach 1,5-2 Jahren bei jungen Patienten",
+      "Impfempfehlung nach Splenektomie"
+    ]
+  }
+]

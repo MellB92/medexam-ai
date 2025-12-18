@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 202/254) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Frage-Antwort-Paaren zu theoretischem Wissen** über Riesenzellarteriitis (RZA):\n   - Pathophysiologie (Riesenzellen, betroffene Gefäße)\n   - Komplikationen (Aneurysma, Erblindung, AION)\n   - Therapie (Prednisolon-Dosierung, Therapiedauer)\n   \n2. **Allgemeinen medizinischen/rechtlichen Fragen**:\n   - Strahlenschutzverordnung\n   - Berufshaftpflichtversicherung\n\n3. **Feedback zu Kandidatenantworten** (analyse_fehler_tipps, musterloesung_leitlinie)\n\n**Wichtig:** Es wird zwar eine Patientin mit verschwommenem Sehen am rechten Auge und Verdacht auf AION erwähnt (\"Weil die Patientin seit heute Morgen das verschwommene Sehen auf dem rechten Auge hat...\"), aber dies ist:\n- Nur ein **Fragment** innerhalb einer theoretischen Antwort zur Therapie\n- **Nicht als vollständiger Fall präsentiert** mit Anamnese, Untersuchung, etc.\n- Teil einer Prüfungsantwort, kein eigenständiger klinischer Fall\n\nDaher: **Leeres Array**"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. Es handelt sich ausschließlich um:\n\n1. **Theoretische Prüfungsfragen und Antworten** aus medizinischen Protokollen\n2. **Wissensfragen** zu medizinischen Themen wie:\n   - Entzündungsparametern (Interleukin-6)\n   - Antibiotikatherapie bei Meningitis\n   - Waterhouse-Friderichsen-Syndrom\n   - Kammerflimmern-Behandlung\n   - HWS-Frakturen (C1 Atlas, C2 Axis)\n   - Appendizitis-Symptomen\n   - Ikterus-Arten\n   - Frakturbehandlung\n\n3. **Eine hypothetische Frage** (\"Kann ein 80-jähriger Mann mit Ikterus gesund sein?\") - dies ist keine echte Patientenpresentation, sondern eine theoretische Wissensfrage\n\nEs werden zwar medizinische Szenarien erwähnt (z.B. \"80-jähriger Mann mit Ikterus\"), aber diese sind **keine vollständigen klinischen Fälle** mit Anamnese, Untersuchungsbefunden und diagnostischem Vorgehen, sondern lediglich Beispiele zur Veranschaulichung von Lehrfragen."
+  }
+]

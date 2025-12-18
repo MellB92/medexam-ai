@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Polytrauma nach Sturz von Leiter aus 4 Meter Höhe",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Starke Schmerzen im rechten Fuß",
+      "Starke Schmerzen in der rechten Hüfte",
+      "Beckenschmerzen"
+    ],
+    "accident_mechanism": "Auf Leiter abgerutscht und aus 4 Meter Höhe hingefallen",
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Hyperlipidämie",
+      "Z.n. Appendektomie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter: Diabetes mellitus Typ II",
+      "Schwester: Schilddrüsenerkrankung",
+      "Bruder: Leberzirrhose"
+    ],
+    "social_history": [],
+    "medications": [
+      "Schmerzmittel vom Notarzt"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "A. femoralis auskultiert (keine Stenose)",
+      "Händedesinfektion durchgeführt",
+      "Komplette körperliche Untersuchung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Multiple Frakturen (Fuß, Hüfte, Becken)",
+      "Beckeninstabilität",
+      "Synkope unklarer Genese (Nebendiagnose)"
+    ],
+    "diagnostic_approach": [
+      "Aktivierung des Schockraums",
+      "Notfallanamnese nach SAMPLE Schema",
+      "Sonographie",
+      "CT zur Abklärung multipler Frakturen und Beckeninstabilität"
+    ],
+    "treatment_response": [
+      "Schmerzen nach Schmerzmittelgabe reduziert"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

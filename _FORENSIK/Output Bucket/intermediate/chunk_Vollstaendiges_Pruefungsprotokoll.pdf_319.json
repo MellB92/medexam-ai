@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 320/585) enthält **keine vollständigen klinischen Patientenfälle** oder Fallpräsentationen. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen und -antworten** zu verschiedenen medizinischen Themen:\n   - Untersuchung des Kniegelenks\n   - Shunts und Portkatheter\n   - Metformin (Pharmakologie)\n   - Strahlenschutz\n   - Patientenrechte\n   - Morbus Basedow\n   - Herzfehler (ASD/VSD)\n   - Komplikationen bei Schilddrüsen-OP\n   - Pneumothorax\n\n2. **Allgemeinem medizinischem Wissen** ohne konkrete Patientendaten\n\n3. **Beschreibungen von Bildern** (z.B. \"Was ist auf dem Bild zu sehen?\") ohne vollständige Falldarstellungen\n\nZwar werden einzelne klinische Szenarien erwähnt (z.B. \"Pneumothorax mit beginnendem Spannungspneumothorax\" in Frage 26), jedoch handelt es sich dabei um theoretische Prüfungsfragen ohne Patientenalter, Geschlecht, Anamnese oder andere erforderliche Elemente eines vollständigen klinischen Falls."
+  }
+]

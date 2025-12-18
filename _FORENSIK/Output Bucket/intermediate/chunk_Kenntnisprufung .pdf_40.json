@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Akutes Abdomen bei perforierter Appendizitis",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "starke krampfartige Mittelbauchschmerzen seit gestern Mittag",
+      "Übelkeit und Erbrechen",
+      "Fieber",
+      "heute Morgen zunehmende diffuse abdominale Schmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Herzklappeninsuffizienz (welche Klappe unbekannt)",
+      "Z.n. Tonsillitis ohne OP",
+      "Z.n. mehrmalige Ellenbogenschmerzen bei Status nach Sturz auf Ellenbogen vor 3 Jahren",
+      "Z.n. TBVT während der Schwangerschaft"
+    ],
+    "comorbidities": [
+      "Herzklappeninsuffizienz"
+    ],
+    "risk_factors": [
+      "Z.n. tiefe Beinvenenthrombose in der Schwangerschaft"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Buscopan",
+      "Ibuprofen",
+      "Vitamin D (einmal wöchentlich)"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Puls getastet"
+    ],
+    "physical_examination": [
+      "positive Abwehrspannung (Peritonismus)",
+      "positive Appendizitis-Zeichen",
+      "Bronchophonie",
+      "Atemverschieblichkeit",
+      "Herzklappen-Auskultation",
+      "Blutdruckmessung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "gedeckte oder perforierte Appendizitis",
+      "Akutes Abdomen",
+      "Bursitis oder Olecranonfraktur (bei Ellenbogenschmerzen in Vorgeschichte)"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Puls- und Bauchpalpation",
+      "Abdomen-Sonographie geplant"
+    ],
+    "treatment_response": [
+      "temporäre Besserung nach Buscopan und Ibuprofen",
+      "erneute Verschlechterung heute Morgen"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

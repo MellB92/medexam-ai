@@ -1,0 +1,295 @@
+[
+  {
+    "title": "STEMI mit Ramus Interventrikularis anterior Beteiligung",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "pathologischer Befund"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Ramus Interventrikularis anterior betroffen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "STEMI"
+    ],
+    "diagnostic_approach": [
+      "Sauerstoffgabe",
+      "Heparin 5000 IE",
+      "ASS 500 mg",
+      "Morphin 5 mg",
+      "PCI (Perkutane Koronare Intervention) mit DES (Drug-eluting-Stent)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Duale Thrombozytenaggregationshemmer",
+      "Rehabilitationsaufnahme"
+    ]
+  },
+  {
+    "title": "Tako-Tsubo-Kardiomyopathie bei Patientin mit Angina pectoris",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Angina-Pectoris Beschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Stress"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Herzkatheteruntersuchung ohne Auffälligkeiten"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tako-Tsubo-Kardiomyopathie (stressinduziert)"
+    ],
+    "diagnostic_approach": [
+      "Herzkatheteruntersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Synkope bei Hypovolämie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Synkope"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Synkope bei Hypovolämie"
+    ],
+    "diagnostic_approach": [
+      "Beine anheben",
+      "Autotransfusion",
+      "Trendelenburg-Lagerung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Schock mit Tachykardie und Hypotonie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Tachykardie",
+      "Hypotonie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Herzfrequenz 120/min",
+      "Systolischer Blutdruck 60 mmHg"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schock"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Asystolie mit Atemstillstand",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "Asystolie",
+      "Atemstillstand"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Asystolie",
+      "Patient atmet nicht"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Herzkreislaufstillstand"
+    ],
+    "diagnostic_approach": [
+      "Reanimation",
+      "Intubation oder Defibrillation"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Viralbedingte COPD-Exazerbation bei 32-jährigem Raucher",
+    "patient_age": "32",
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "vermehrter Husten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "COPD"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Nikotinkonsum"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Nikotinkonsum"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax ohne wegweisende Befunde"
+    ],
+    "laboratory_findings": [
+      "Leukozytose 13",
+      "sonst keine Auffälligkeiten"
+    ],
+    "suspected_diagnosis": [
+      "viralbedingte Exazerbation bei COPD"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Körperliche Untersuchung",
+      "Labor",
+      "Röntgen-Thorax"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "MDT-Compliance prüfen",
+      "Inhalationstherapie",
+      "Codein erwogen"
+    ]
+  },
+  {
+    "title": "Pneumothorax links mit Pleuraerguss bei Drainage",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild: Pneumothorax links"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pneumothorax links"
+    ],
+    "diagnostic_approach": [
+      "Drainage (Bühlau oder Monaldi)",
+      "Wasserschloss mit Saugung",
+      "Erguss zur Mikrobiologie und Zytologie"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Erguss bei Drainageanlage",
+      "eitriger Erguss möglich (Pleuraempyem)"
+    ],
+    "follow_up": [
+      "Antibiogramm mit Resistogramm",
+      "ggf. Antibiotikatherapie (Tazobactam, Clindamycin)"
+    ]
+  },
+  {
+    "title": "COPD mit schwerer respiratorischer Azidose",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "COPD"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "pH 7,01",
+      "pCO2 110 mmHg",
+      "pO2 88 mmHg",
+      "HCO3 35 mmol/l",
+      "K 5,1 mmol/l"
+    ],
+    "suspected_diagnosis": [
+      "Schwere respiratorische Azidose bei COPD",
+      "Säure-Basen-Störung"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

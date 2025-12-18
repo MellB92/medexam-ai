@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle** im Sinne von konkreten Fallpräsentationen mit Patientendaten.\n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** mit Musterlösungen:\n   - Folsäuremangelanämie (Ursachen)\n   - Alkoholintoxikation (Symptome & Behandlung)\n   - Atmungstypen (Kussmaul, Cheyne-Stokes)\n   - Antihypertensiva (Nebenwirkungen)\n   - Colles-Fraktur (Theorie)\n   - Pneumothorax (Röntgenbefund allgemein)\n   - Hämothorax (CT-Befund allgemein)\n   - Strahlenschutz (Theorie)\n   - Unfallversicherungsgesetz\n   - Unhappy Triad (Beginn, abgeschnitten)\n\n2. **Bildbeispiele ohne Patientenkontext:**\n   - \"Röntgen mit Pneumothorax\" (keine Patientendaten)\n   - \"CT mit Hämothorax\" (keine Patientendaten)\n   - \"Bild einer Colles-Fraktur\" (keine Patientendaten)\n\nEs handelt sich um **Lernmaterial/Prüfungsprotokolle** mit theoretischen Fragen und Antworten, nicht um dokumentierte klinische Fälle mit konkreten Patienten, Anamnese, Untersuchungsbefunden etc."
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Akute Appendizitis bei 64-jähriger Patientin",
+    "patient_age": "64 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Seit gestern morgen bestehende epigastrale Schmerzen",
+      "Schmerzen im Verlauf auf rechten Unterbauch gewandert",
+      "Schmerzintensität 8/10",
+      "Übelkeit",
+      "Einmaliges Erbrechen",
+      "Belastungsdyspnoe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Herzklappeninsuffizienz (ambulante kardiologische Kontrolle)",
+      "Z.n. Fahrradunfall vor 3 Monaten mit Hand- und Ellenbogengelenkverletzung",
+      "Z.n. TVT bei 2. Schwangerschaft",
+      "Z.n. Mandelentzündung und rheumatisches Fieber",
+      "Allergisches Asthma in der Kindheit"
+    ],
+    "medications": [
+      "Vitamin D unklarer Dosierung einmal wöchentlich (Sonntags)",
+      "Buscopan 2 Tabletten (selbst eingenommen)",
+      "Ibuprofen 400 (selbst eingenommen)"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Hand/Ellenbogen vor 3 Monaten: laut Patientin keine Knochenfraktur bestätigt",
+      "Im 3. Teil der Prüfung: Olecranonfraktur im Röntgen sichtbar"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akute Appendizitis"
+    ],
+    "diagnostic_approach": []
+  }
+]

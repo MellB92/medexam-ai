@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle** im klassischen Sinne. Es handelt sich ausschließlich um:\n\n1. **EKG-Beispiele 15-20** - Didaktische Lehrbeispiele aus einem EKG-Kurs\n2. **Technische EKG-Befunde** - Beschreibungen von EKG-Mustern wie:\n   - Linksanteriorer Hemiblock\n   - Bifaszikulärer Block\n   - Gestörte R-Progression\n   - S-Persistenz\n   - Präterminale/Terminale T-Negativierung\n\n3. **Keine Patienteninformationen** wie:\n   - Alter oder Geschlecht\n   - Anamnese oder Beschwerden\n   - Unfallmechanismus\n   - Vorerkrankungen oder Medikamente\n   - Klinische Untersuchungsbefunde\n\nDie Beispiele sind rein **elektrokardiographische Lehrbefunde** ohne zugehörige klinische Fallpräsentationen. Sie dienen der Illustration spezifischer EKG-Muster in einem Lehrbuch, sind aber keine vollständigen klinischen Fälle mit Patientenkontext."
+  }
+]

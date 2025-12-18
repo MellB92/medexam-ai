@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Dilemma Organspende und Patientenverfügung bei Hirntod\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Schwere, unheilbare Krankheit\",\n      \"Hirntod\"\n    ],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Hirntod\"\n    ],\n    \"diagnostic_approach\": [\n      \"Standardisierte Hirntoddiagnostik durch zwei unabhängige Ärzte\",\n      \"Klärung des Widerspruchs zwischen Organspendeausweis und Patientenverfügung\",\n      \"Spezifizierung in Patientenverfügung: begrenzte Zeit (24-48h) organprotektive Therapie für Organentnahme\"\n    ]\n  }\n]\n```"
+  }
+]

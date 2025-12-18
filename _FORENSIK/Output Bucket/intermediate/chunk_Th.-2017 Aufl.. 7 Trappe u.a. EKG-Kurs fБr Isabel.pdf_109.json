@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 110/111) enthält ausschließlich:\n\n1. **Sachverzeichnis/Index** - alphabetische Auflistung von medizinischen Begriffen mit Seitenverweisen (z.B. \"SSS = Sick-Sinus-Syndrom 42\", \"Tachykardie\", \"ST-Strecke\", etc.)\n\n2. **EKG-Normwerte-Tabellen** - Übersichten zu normalen EKG-Parametern, Zeitintervallen und Lagetypen\n\n3. **Diagramme** - EKG-Normgrößen und Lagetyp-Darstellungen\n\nEs handelt sich um **Referenzmaterial** aus einem EKG-Lehrbuch, nicht um klinische Patientenfälle oder Fallpräsentationen. Es gibt keine Beschreibungen von konkreten Patienten, keine Anamnesen, keine klinischen Szenarien und keine diagnostischen Überlegungen zu individuellen Fällen."
+  }
+]

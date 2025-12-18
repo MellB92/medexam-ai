@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Fieber und grippeähnliche Symptome bei Verdacht auf Endokarditis\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Fieber\", \"grippeähnliche Symptome\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"Hypothyreose\", \"Bein-Fraktur in der Kindheit\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Endokarditis\"],\n    \"diagnostic_approach\": [\"Duke-Kriterien\", \"Blutkulturen\", \"Echokardiographie\"]\n  }\n]\n```"
+  }
+]

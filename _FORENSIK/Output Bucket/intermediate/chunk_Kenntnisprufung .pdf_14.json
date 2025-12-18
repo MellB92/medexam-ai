@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Akute Unterbauchschmerzen mit Erbrechen bei V.a. Appendizitis",
+    "patient_age": "63 Jahre",
+    "patient_gender": "weiblich",
+    "severity": "severe",
+    "chief_complaints": [
+      "Magenkrämpfe seit gestern Mittag",
+      "Erbrechen am Abend",
+      "Schmerzen im gesamten Unterbauch ausstrahlend",
+      "Schmerzintensität 8/10"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Asthma bronchiale",
+      "Mitralklappeninsuffizienz (Herzgeräusch vom Hausarzt festgestellt)",
+      "Bursitis als Kind (Trauma)",
+      "Nierenerkrankungen als Kind"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Buscopan 2x eingenommen",
+      "Ibuprofen 1x um 12 Uhr eingenommen"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "McBurney-Zeichen positiv",
+      "Blumberg-Zeichen positiv"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Appendizitis"
+    ],
+    "diagnostic_approach": [
+      "Komplette Anamnese",
+      "Körperliche Untersuchung",
+      "Abdomensonographie erwähnt"
+    ],
+    "treatment_response": [
+      "Novalgin 1g i.V.",
+      "Dipidolor 7,5 mg i.V.",
+      "ggf. Antiemetika z.B. Vomex"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Linke Unterbauchschmerzen mit Fieber bei Divertikulitis",
+    "patient_age": "62 Jahre",
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Linke Unterbauchschmerzen seit 3 Tagen",
+      "Fieber",
+      "Stuhlunregelmäßigkeiten",
+      "Frisches Blut auf Toilettenpapier vor 2 Wochen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Druckschmerzen im linken Unterbauch"
+    ],
+    "imaging_findings": [
+      "Sonographie: Divertikel mit umgebender Entzündung",
+      "Keine freie Flüssigkeit",
+      "Keine freie Luft",
+      "Nicht komplizierte Divertikulitis"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Divertikulitis (nicht kompliziert)",
+      "DD: Kolonkarzinom"
+    ],
+    "diagnostic_approach": [
+      "Stationäre Aufnahme",
+      "Tumormarker",
+      "Koloskopie später erwogen (nicht akut)"
+    ],
+    "treatment_response": [
+      "Antibiotika-Therapie geplant"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

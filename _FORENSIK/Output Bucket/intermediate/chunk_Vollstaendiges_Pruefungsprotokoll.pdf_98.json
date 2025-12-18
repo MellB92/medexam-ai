@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Kind mit Verbrühung am Bauch durch heißes Wasser\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Verbrühung am Bauch durch heißes Wasser\"],\n    \"accident_mechanism\": \"Kind hat sich heißes Wasser auf den Bauch geschüttet\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Verbrühung\", \"Verbrennung\"],\n    \"diagnostic_approach\": [\n      \"Sofortige Kühlung der betroffenen Stelle mit lauwarmem Wasser für ca. 20 Minuten\",\n      \"Kleidung entfernen, sofern sie nicht mit der Verbrennung verklebt ist\",\n      \"Schmerzmittelgabe (z.B. Paracetamol, Ibuprofen)\",\n      \"Sterile Wundabdeckung\",\n      \"Transport in eine Klinik oder zum Arzt, insbesondere bei größeren Verbrennungen oder Verbrennungen zweiten oder dritten Grades\"\n    ]\n  }\n]\n```"
+  }
+]

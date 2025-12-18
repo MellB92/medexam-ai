@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Q&A zu Röntgenbildern und Bildgebung** - Theoretische Fragen zur Entstehung von Röntgenbildern, CT-Bildgebung, Kontrastmittel, etc. Dies sind didaktische Fragen ohne konkreten Patientenfall.\n\n2. **Fragen zu Laboranforderungen** - Fragmentarische Fragen zu TSH, T3, T4, Bilirubin und Urinstatus, die sich auf eine nicht näher beschriebene \"Patientin\" beziehen. Diese Fragmente sind:\n   - Unvollständig (kein Fallbeginn erkennbar)\n   - Ohne Kontext (keine Anamnese, keine Hauptbeschwerde)\n   - Teil eines größeren Falls, der außerhalb dieses Chunks liegt\n   - Am Ende abgeschnitten (letzter Satz endet mitten im Thema \"Urinstatus\")\n\nEs gibt keine eigenständigen, vollständigen klinischen Präsentationsfälle, die alle wesentlichen Elemente (Vorstellung, Anamnese, Befunde, Diagnostik) in sich geschlossen darstellen."
+  }
+]

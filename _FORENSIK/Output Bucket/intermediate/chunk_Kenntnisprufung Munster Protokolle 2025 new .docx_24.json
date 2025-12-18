@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Allergisches Asthma mit anfallsartiger Dyspnoe",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Seit 3 Monaten anfallsartig bestehende Dyspnoe",
+      "Trockener Husten",
+      "Attacken 4-mal bei Belastung",
+      "Attacken 2-mal bei der Arbeit",
+      "Selbstlimitierend",
+      "Zurzeit beschwerdefrei"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z. n. rezidivierende Paronychie"
+    ],
+    "medications": [],
+    "allergies": [
+      "Birkenpollenallergie",
+      "Laktoseintoleranz",
+      "Raucht E-Zigaretten seit 2 Jahren"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Allergisches Asthma",
+      "COPD",
+      "Herzinsuffizienz",
+      "Panikattacke"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Pneumoperitoneum im Thorax-Röntgen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Thorax-Röntgenbild zeigt Pneumoperitoneum"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pneumoperitoneum"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Vordere Schultergelenkluxation nach Sturz",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": "Sturz auf rechte Schulter",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen von rechter Schulter mit vorderer Luxation",
+      "Bankart-Läsion"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "AC-Gelenksprengung",
+      "Schultergelenkluxation anterior",
+      "Bankart-Läsion"
+    ],
+    "diagnostic_approach": [
+      "Überprüfung der PDMS",
+      "Untersuchung N. axillaris (Sensibilität und Motorik)",
+      "Untersuchung N. medianus, ulnaris und radialis"
+    ]
+  }
+]

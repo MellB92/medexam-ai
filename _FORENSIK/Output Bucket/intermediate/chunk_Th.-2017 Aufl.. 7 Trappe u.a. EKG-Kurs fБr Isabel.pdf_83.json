@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 84/111) aus einem EKG-Lehrbuch enthält **keine klinischen Patientenfälle**. \n\nDer Abschnitt behandelt:\n\n1. **Abbildung 35.3**: Erklärung eines EKG-Lineals mit verschiedenen Skalen zur Messung von:\n   - Herzfrequenz\n   - Zeitintervallen\n   - Amplituden\n\n2. **Lektion 36**: \"Typische Fehlermöglichkeiten und EKG-Artefakte\"\n   - Technische Anleitungen zur korrekten EKG-Ableitung\n   - Farbkodierung der Extremitäten-Elektroden\n   - Beschreibung von Wechselstromüberlagerungen\n   - Beschreibung von Muskelpotentialen als Störfaktoren\n\nEs handelt sich ausschließlich um **didaktisches Material** und **technische Anleitungen** ohne konkrete Patientenfälle. Die Erwähnung von Patienten mit \"Angst\", \"Frieren\" oder \"Morbus Parkinson\" dient lediglich der Veranschaulichung technischer Probleme bei der EKG-Aufzeichnung, stellt aber keine vollständigen klinischen Fallpräsentationen dar."
+  }
+]

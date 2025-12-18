@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 220/284) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Kontraindikationen und Therapieoptionen** (Fragment):\n   - Auflistung von Kontraindikationen (schwere Leberfunktionsstörung, schwere Niereninsuffizienz)\n   - Therapeutische Alternativen (NSAR, Opioide)\n   - Prüfungshinweise zur Schmerztherapie\n   - Bezug zu S3-Leitlinien zur Urolithiasis-Therapie\n   - Dies ist offensichtlich das **Ende einer vorherigen Frage/eines vorherigen Falls** aus Chunk 219\n\n2. **Metainformation**:\n   - Administrative Notiz über Prüfung der Fragen 461-500\n   - Bestätigung der Leitlinienkonformität\n\n3. **Beginn einer neuen Frage (FRAGE 500)**:\n   - Theoretische Frage zu Sozialversicherungen in Deutschland\n   - Systematische Auflistung der 5 Säulen der Sozialversicherung\n   - **Keine klinische Fallpräsentation**, sondern reines Faktenwissen\n\nEs handelt sich um ein Prüfungsvorbereitungsdokument mit theoretischen Fragen, nicht um klinische Fallbeispiele mit Patientenpräsentationen."
+  }
+]

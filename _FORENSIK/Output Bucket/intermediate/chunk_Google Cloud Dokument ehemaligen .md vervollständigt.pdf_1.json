@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 2/6) enthält **keine vollständigen klinischen Patientenfälle**. \n\nEs handelt sich ausschließlich um:\n- **Frage-Antwort-Paare** zu theoretischem medizinischem Wissen (Frage 16-44)\n- **Allgemeine Krankheitsbilder** mit typischen Befunden und Therapieansätzen\n- **Differentialdiagnostische Übersichten** (z.B. Ileus, Strahlenschäden, AV-Block)\n- **Komplikationen und Klassifikationen** (z.B. Colles-Fraktur, Milzruptur)\n- **Medikamentenwissen** (z.B. Antihypertensiva, Benzodiazepine, SSRI)\n\n**Kein einziger Eintrag beschreibt:**\n- Einen konkreten Patienten mit Alter/Geschlecht\n- Eine spezifische Patientenpräsentation\n- Einen individuellen Unfallhergang\n- Konkrete Untersuchungsbefunde eines Einzelfalls\n\nAlle Inhalte sind **generalisiertes Lehrbuch-/Prüfungswissen** ohne patientenspezifische Falldarstellungen."
+  }
+]

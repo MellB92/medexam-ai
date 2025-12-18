@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Akutes Koronarsyndrom mit ST-Hebung (Hinterwandinfarkt)",
+    "patient_age": null,
+    "patient_gender": "Mann",
+    "severity": "critical",
+    "chief_complaints": [
+      "Blässe",
+      "Kaltschweiß",
+      "Druckgefühl im Brustkorb"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Lungenauskultation unauffällig"
+    ],
+    "imaging_findings": [
+      "EKG: ST-Hebung in III und AVF",
+      "Q-Zacke größer als 1/4 R-Zacke"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hinterwandinfarkt (HI)",
+      "akutes Koronarsyndrom mit ST-Hebung"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Laborbefunde abwarten",
+      "vor Nitratgabe Kontraindikationen ausschließen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Herzinsuffizienz bei Myokarditis nach Virusinfekt",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Leistungsminderung",
+      "Dyspnoe bei kleiner Arbeit",
+      "Unterschenkelödeme beidseitig",
+      "Schlappheit",
+      "Mattigkeit",
+      "Müdigkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Schilddrüsenunterfunktion",
+      "Hypovitaminosis D",
+      "Femurfraktur rechts im 6. Lebensjahr (konservativ behandelt)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Nichtraucherin",
+      "Gelegenheitsalkoholikerin"
+    ],
+    "medications": [
+      "L-Thyroxin 88 Mikrogramm 1x täglich",
+      "Vitamin D Kapsel 1x täglich"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Klinische Untersuchung nicht unauffällig",
+      "Vollständige Puls-Untersuchung (Radial, Ulnar, Carotis, Dorsalis pedis)",
+      "Auskultation Carotis",
+      "Komplette Lungen-, Herz- und Schilddrüsenuntersuchung",
+      "Vollständige Abdomenuntersuchung",
+      "Nierenlager abgeklopft"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "V.a. Myokarditis",
+      "Herzinsuffizienz bei Myokarditis",
+      "DD: Herzinsuffizienz bei Endo- und Perikarditis",
+      "DD: Myxödem",
+      "DD: Nierenversagen"
+    ],
+    "diagnostic_approach": [
+      "Blutentnahme"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

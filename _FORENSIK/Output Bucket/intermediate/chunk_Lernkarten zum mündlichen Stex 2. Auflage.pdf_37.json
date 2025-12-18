@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Präsentationsfälle**. Es handelt sich ausschließlich um **theoretisches Lehrmaterial** in Form von Lernkarten mit folgenden Inhalten:\n\n1. **Akutdialyse-Indikationen** (\"AEIOU\"-Merkregel)\n2. **Chronische Niereninsuffizienz** (Definition, Ätiologie, Klinik, Diagnostik, Therapie)\n3. **Rheumatoide Arthritis** (Definition, Ätiologie, Klinik, Diagnostik - teilweise abgeschnitten)\n\nAlle Abschnitte präsentieren:\n- Systematische Krankheitsbeschreibungen\n- Diagnostische Algorithmen\n- Therapierichtlinien\n- Stadien-Einteilungen (z.B. GFR-Stadien 1-5)\n- Laborwerte und deren Interpretation\n\nEs gibt **keine konkreten Patientengeschichten** mit individuellen Beschwerden, Untersuchungsbefunden oder Fallverläufen. Das Format entspricht einem Lehrbuch/Lernkarten-Stil ohne narrative Fallpräsentationen."
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "title": "pAVK mit progredienten Unterschenkelschmerzen rechts",
+    "patient_age": "79 Jahre",
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "progrediente Schmerzen im rechten Unterschenkel",
+      "Gehstrecke schmerzfrei ca. 400 m",
+      "Beinschmerzen seit Rückflug aus Japan vor 10 Tagen",
+      "Erkältung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Unterschenkelfraktur vor 20 Jahren (operativ mit Platte)",
+      "LWS-OP (L4/5) vor 10 Jahren",
+      "arterielle Hypertonie (Lisinopril)",
+      "Hyperlipidämie (Atorvastatin)"
+    ],
+    "comorbidities": [
+      "Obstipation",
+      "Fieber"
+    ],
+    "risk_factors": [
+      "arterielle Hypertonie",
+      "Hyperlipidämie",
+      "Alter 79 Jahre"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Rückflug aus Japan vor 10 Tagen"
+    ],
+    "medications": [
+      "Lisinopril",
+      "Atorvastatin",
+      "Ibuprofen bei Bedarf"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "VE bis auf Obstipation und Fieber unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "pAVK",
+      "TVT (DD)",
+      "Arthrose (DD)"
+    ],
+    "diagnostic_approach": [
+      "Wells-Score",
+      "D-Dimere",
+      "CT-Angiografie",
+      "Duplex-Sonografie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Choledocholithiasis mit Bauchschmerzen und Ikterus",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Bauchschmerzen",
+      "Ikterus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Choledocholithiasis"
+    ],
+    "diagnostic_approach": [
+      "Labor",
+      "Sonografie",
+      "ERCP"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Cholezystektomie innerhalb von 48 Stunden nach ERCP"
+    ]
+  },
+  {
+    "title": "Herzinsuffizienz infolge Myokarditis nach grippalem Infekt",
+    "patient_age": null,
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Belastungsdyspnoe seit ca. 4 Wochen",
+      "kann nur noch zwei Etagen bewältigen",
+      "benötigt mehrere Kissen zum Schlafen (Orthopnoe)",
+      "Beine schwellen abends an",
+      "nächtliche Nykturie",
+      "Beschwerden im Anschluss an grippalen Infekt"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 2",
+      "Rezidivierende Paronychien",
+      "Z. n. Oberschenkelfraktur im Kindesalter (mit 3 Jahren)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Diabetes mellitus Typ 2"
+    ],
+    "family_history": [
+      "Vater verstorben vor einem Jahr an Blutkrankheit mit regelmäßiger Aderlassbehandlung",
+      "Mutter hat Diabetes mellitus"
+    ],
+    "social_history": [],
+    "medications": [
+      "Metformin 500 mg",
+      "Vitamin-D-Präparat"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Körperliche Untersuchung unauffällig",
+      "keine Angina pectoris",
+      "keine Gewichtsveränderung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Herzinsuffizienz infolge einer Myokarditis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

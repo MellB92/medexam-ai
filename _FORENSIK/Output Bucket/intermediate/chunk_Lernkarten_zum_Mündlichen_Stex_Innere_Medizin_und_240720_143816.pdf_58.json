@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 59/84) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Lernkarteninhalten** zu:\n   - Ösophaguskarzinom (Resttherapie)\n   - Magenkarzinom (Definition, Ätiologie, Klinik, Diagnostik, Therapie, Komplikationen)\n   - Pankreaskarzinom (Definition, Ätiologie, Klinik, Diagnostik, Therapie)\n\n2. **Allgemeinen medizinischen Informationen** wie:\n   - Differentialdiagnosen\n   - Therapieschemata\n   - Diagnostische Algorithmen\n   - Komplikationen (z.B. Dumping-Syndrom)\n   - Anatomische und pathophysiologische Erklärungen\n\n3. **Keine konkreten Patientenpräsentationen** mit:\n   - Spezifischem Patientenalter/-geschlecht\n   - Individueller Anamnese\n   - Konkreten Untersuchungsbefunden eines Einzelfalls\n   - Fallspezifischer diagnostischer/therapeutischer Vorgehensweise\n\nEs handelt sich um strukturiertes Lehrbuchmaterial für das mündliche Staatsexamen, nicht um kasuistische Falldarstellungen."
+  }
+]

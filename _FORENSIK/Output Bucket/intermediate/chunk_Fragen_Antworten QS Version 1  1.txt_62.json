@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 63/284) enthält **keine vollständigen klinischen Präsentationsfälle**. \n\nDer Text besteht aus:\n\n1. **Fragmentarischer Abschluss eines vorherigen Falls** (am Anfang):\n   - Behandlungsoptionen für Stimmbandlähmung (Stimmbandaugmentation, Tracheotomie)\n   - Prognose, Präventivmaßnahmen\n   - Dies ist das **Ende** eines Falls aus dem vorherigen Chunk - daher nicht vollständig und wird ignoriert\n\n2. **Theoretische Frage (Frage 111)**:\n   - \"Konventionelle Therapie Vorteilen für die Kinder? Wie viel Prozent Konventionelle?\"\n   - Dies ist eine **allgemeine theoretische Frage** zur juvenilen idiopathischen Arthritis (JIA)\n   - Enthält keine konkrete Patientenpräsentation mit Anamnese, Symptomen oder Untersuchungsbefunden\n   - Es handelt sich um eine Wissensfrage zu Therapieoptionen und Ansprechraten\n\n3. **Allgemeine Fachinformationen**:\n   - Therapieregime bei JIA\n   - Ansprechraten (60-70%, 80%, 40-50%)\n   - Medikamentendosierungen\n   - Monitoring-Protokolle\n\n**Keine dieser Informationen stellt einen konkreten, vollständigen klinischen Patientenfall dar.**"
+  }
+]

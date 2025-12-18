@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Dyspnoe mit systolischem Herzgeräusch und Linksherzhypertrophie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Dyspnoe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Systolische Geräusche über 2. Intercostalraum"
+    ],
+    "imaging_findings": [
+      "EKG: Linksherzhypertrophie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Aortenstenose"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Rippenfraktur mit Dyspnoe",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Dyspnoe"
+    ],
+    "accident_mechanism": "Rippenfraktur",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hämothorax",
+      "Pneumothorax"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Junger Patient mit thorakalen Schmerzen und Vorderwandinfarkt",
+    "patient_age": "jung",
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Starke thorakale Schmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: Vorderwandinfarkt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vorderwandinfarkt"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

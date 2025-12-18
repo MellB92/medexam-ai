@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 3/148) enthält **KEINE vollständigen klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** zu medizinischen Themen:\n   - Paracetamol-Intoxikation (Pathomechanismus, Therapie)\n   - Nierenarterienstenose und Hypertonie (Epidemiologie, Diagnostik)\n   - Diabetes mellitus und Wundheilung (Pathophysiologie)\n   - Ibuprofen bei Perikarditis (Therapieprotokoll)\n   - Herzinsuffizienz-Klassifikation (Definitionen)\n   - Fieberkrampf-Therapie (Dosierungsschema)\n   - Adrenalin-Notfallapplikation (abgeschnitten)\n\n2. **Allgemeinem medizinischem Wissen** ohne konkrete Patientenbeispiele\n\nEs handelt sich um ein **Fragen-Antworten-Dokument** (erkennbar am Dateinamen \"Fragen_Antworten QS Version 1.pdf\") mit systematisch aufbereiteten medizinischen Informationen, **nicht** um Patientenakten oder klinische Fallberichte.\n\nEs fehlen typische Merkmale von Patientenfällen wie:\n- Konkrete Patientenangaben (Alter, Geschlecht)\n- Individuelle Anamnese\n- Spezifische Untersuchungsbefunde\n- Fallverlauf"
+  }
+]

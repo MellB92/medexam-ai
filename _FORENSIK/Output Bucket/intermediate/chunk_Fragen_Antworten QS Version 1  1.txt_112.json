@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 113/284) enthält **keine vollständigen klinischen Patientenfälle** oder Fallpräsentationen. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischem Wissen zur Metformin-assoziierten Laktatazidose** (Pathophysiologie, Risikofaktoren, Diagnostik, Therapie, Prophylaxe)\n\n2. **Frage 192**: Theoretische Darstellung der Entgiftungsprozesse in der Leber (Enzyme, Phase-I/II/III-Reaktionen) - KEIN Patientenfall\n\n3. **Frage 170**: Theoretische Erklärung zum Einsatz des Stethoskops ohne Membran - KEIN Patientenfall\n\n4. **Frage 171**: Pathophysiologie des Diabetes mellitus Typ 1 (beginnt am Ende des Chunks, ist abgeschnitten) - KEIN Patientenfall\n\nEs handelt sich durchweg um **Lehrbuch-artiges Faktenwissen** und **Prüfungsfragen mit theoretischen Antworten** für die ärztliche Kenntnisprüfung, nicht um konkrete Patientenpräsentationen mit individuellen Beschwerden, Befunden oder diagnostischen Abläufen."
+  }
+]

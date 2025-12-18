@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Adipositas mit Nephropathie - GLP-1-Analoga Therapie\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Adipositas\", \"Nephropathie\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"Nephropathie\", \"Diabetes mellitus Typ 2\"],\n    \"medications\": [\"SGLT2-Hemmer\", \"ACE-Hemmer\"],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Diabetische Nephropathie\", \"Adipositas\"],\n    \"diagnostic_approach\": [\"Empfehlung für GLP-1-Analoga zur Gewichtsreduktion und Nephoprotektion\"]\n  }\n]\n```"
+  }
+]

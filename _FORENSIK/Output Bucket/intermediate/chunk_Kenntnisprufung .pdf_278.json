@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Patientin mit Thrombozytopenie 35.000/µl",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Thrombozytopenie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Thrombozytopenie 35.000/µl",
+      "isolierte Thrombozytopenie"
+    ],
+    "suspected_diagnosis": [
+      "Medikamenteninduzierte Thrombozytopenie (Heparin, Rifampicin, NSAR)",
+      "Immunthrombozytopenie",
+      "Leukämie",
+      "Aplastische Anämie",
+      "Vitamin B12 Mangel",
+      "Hypersplenismus",
+      "Mikroangiopathie (HUS, TTP)"
+    ],
+    "diagnostic_approach": [
+      "Medikamentenanamnese",
+      "Shigatoxin im Stuhl bei Verdacht auf HUS",
+      "ADAMTS13-Aktivität bei Verdacht auf TTP"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit Thoraxtrauma, Lungencontusion und Rippenserienfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": "Thoraxtrauma",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax ap: Lungencontusion",
+      "Rippenserienfraktur",
+      "Pleuraerguss"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungencontusion",
+      "Rippenserienfraktur",
+      "Pleuraerguss nach Thoraxtrauma"
+    ],
+    "diagnostic_approach": [
+      "Pleura-Sonographie",
+      "ggf. Pleurapunktion"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

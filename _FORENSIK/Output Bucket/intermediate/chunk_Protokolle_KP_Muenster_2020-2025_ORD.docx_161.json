@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Colles-Fraktur nach Fahrradsturz bei 65-jähriger Frau",
+    "patient_age": "65 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Schmerzen am Handgelenk mit Schürfwunde",
+      "Atemabhängige Dyspnoe"
+    ],
+    "accident_mechanism": "Fahrradunfall, auf die rechte Seite gefallen",
+    "pre_existing_conditions": [
+      "Z.n. Bronchialkarzinom mit Radiotherapie",
+      "Vorhofflimmern",
+      "Arterielle Hypertonie",
+      "Leistenbruch",
+      "Z.n. Darm-OP nach Koloskopie",
+      "Omarthrose"
+    ],
+    "medications": [
+      "Marcumar",
+      "Lisinopril"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Hand: Distale Radiusfraktur",
+      "Extensionsfraktur mit Fourchette-Fehlstellung",
+      "Röntgen Thorax p.a.: Vergrößerte Herzschatten, paraösophageale Hernie",
+      "Röntgen Schultergelenk: a.p. und transskapulär (Y), Gelenkspaltverschmälerung, Abstand zwischen Kopf und Acromion vergrößert, Hills-Sachs-Läsion"
+    ],
+    "laboratory_findings": [
+      "INR 1,4",
+      "Kreatinin erhöht"
+    ],
+    "suspected_diagnosis": [
+      "Colles-Fraktur",
+      "Distale Radiusfraktur",
+      "Paraösophageale Hernie",
+      "Omarthrose"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Hand a.p. und seitlich",
+      "Röntgen Thorax p.a.",
+      "Röntgen Schultergelenk"
+    ]
+  }
+]

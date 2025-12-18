@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 23/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält ausschließlich theoretisches Lehrmaterial über:\n\n- SA-Block III° (sinuatriale Überleitungsstörungen)\n- Ersatzrhythmen bei Blockierungen\n- Sinusknotenfunktionsstörungen\n- Sick-Sinus-Syndrom (SSS)\n- Bradykardie-Tachykardie-Syndrom\n- AV-Block (Einführung in Lektion 10)\n\nEs handelt sich um rein didaktisches Material mit:\n- Schematischen Darstellungen\n- Theoretischen Erklärungen von EKG-Befunden\n- Klassifikationen von Blockierungsformen\n- Merksätzen und Definitionen\n\n**Es werden KEINE konkreten Patientenfälle mit individueller Anamnese, Symptomatik oder Diagnostik präsentiert.**"
+  }
+]

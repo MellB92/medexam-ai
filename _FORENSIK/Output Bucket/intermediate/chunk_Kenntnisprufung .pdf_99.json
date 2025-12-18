@@ -1,0 +1,65 @@
+[
+  {
+    "title": "LWS-Beschwerden mit Nebennierenraumforderung bei Hypertonie",
+    "patient_age": "65",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "LWS-Beschwerden",
+      "Einmalig erhöhter Blutdruck 165 mmHg",
+      "Unklare Raumforderung in Sonografie beim Hausarzt"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck 165 mmHg"
+    ],
+    "physical_examination": [
+      "Blutdruck beidseitig (dann einseitig gemessen)",
+      "Neurologische Untersuchung",
+      "Halsuntersuchung (Schilddrüse und Lymphknoten)",
+      "Perkussion der Lungen",
+      "Herzauskultation (S1, S2, Systolikum/Diastolikum)",
+      "Bauchuntersuchung",
+      "Nierenuntersuchung",
+      "Patella-Reflex"
+    ],
+    "imaging_findings": [
+      "Sonografie: Raumforderung zwischen rechter Niere und Leber",
+      "Verdacht auf Nebennierentumor (Inzidentalom)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Nebennierentumor (Inzidentalom)",
+      "DD: Cushing-Syndrom",
+      "DD: Conn-Syndrom",
+      "DD: Phäochromozytom (in 10% bösartig)",
+      "LWS-Beschwerden DD: Degenerative Wirbelveränderungen",
+      "LWS-Beschwerden DD: Traumatische Verletzungen",
+      "LWS-Beschwerden DD: Hämatogene Wirbelsäuleninfektion",
+      "LWS-Beschwerden DD: Pankreaskarzinom",
+      "LWS-Beschwerden DD: Aortendissektion",
+      "LWS-Beschwerden DD: Nierenstein"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Körperliche Untersuchung",
+      "Sonografie",
+      "Bildgebung zur Unterscheidung degenerative vs. traumatische Veränderungen",
+      "Vitalzeichen überprüfen",
+      "CHA2DS2-VASc-Score berechnen (bei Vorhofflimmern)"
+    ],
+    "treatment_response": [
+      "Bei Phäochromozytom: Zuerst Alpha-Blocker (z.B. Phenoxybenzamin) geben",
+      "Nicht sofort operieren bei Phäochromozytom (Risiko hypertensive Krise während OP)"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

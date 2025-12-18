@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Blutige Diarrhoen und Bauchschmerzen bei 31-jähriger Frau - Verdacht auf CED",
+    "patient_age": "31J",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Blutige Diarrhoen seit 2 Wochen",
+      "Bauchschmerzen links Unterbauch",
+      "Stuhlfrequenz 6 Mal pro Tag",
+      "Nächtliche Stuhlgänge"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypothyreose seit 5 Jahren (am ehesten Hashimoto Thyreoiditis)",
+      "Lumbalgie seit Jahren",
+      "Z.n. Klavikulafraktur vor 3 Jahren (konservativ behandelt)",
+      "Z.n. Morbus Gilbert-Meulengracht mit 16J ohne Komplikationen"
+    ],
+    "medications": [
+      "L-Thyroxin 75 mg 1-0-0",
+      "Ibuprofen 600 mg bei Bedarf",
+      "Imodium bei Bedarf (ohne wesentliche Verbesserung)"
+    ],
+    "allergies": [
+      "Aktuell keine",
+      "Im Kindesalter Kälteallergie (Kälteurtikaria)",
+      "Tabakkonsum 5-10 Zigaretten pro Tag seit 5 Jahren",
+      "Alkoholkonsum 2-3 Flaschen Bier pro Woche"
+    ],
+    "physical_examination": [
+      "RR 135/85",
+      "Leicht reduzierter AZ, adipöser EZ (167 cm, 90 kg)",
+      "Temperatur 37,8°C",
+      "Druckdolenz linker Unterbauch",
+      "Diskrete Unterschenkelödeme beidseits",
+      "Hautturgor normal",
+      "Konjunktiva rosig",
+      "Mundschleimhaut feucht",
+      "Halsvenen nicht gestaut",
+      "Lymphknoten nicht vergrößert",
+      "Schilddrüse nicht vergrößert, schluckverschieblich",
+      "Cor: Herztöne rein und rhythmisch",
+      "Pulmo: vesikuläre Atemgeräusche",
+      "Abdomen: Darmgeräusch regelrecht, Bauchdecke weich",
+      "Nierenlager beidseits klopfschmerzfrei",
+      "Periphere Pulse tastbar"
+    ],
+    "imaging_findings": [
+      "Koloskopie: deutlich gerötete und entzündete Schleimhaut",
+      "Pflastersteinrelief",
+      "Fibrin"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Verdachtsdiagnose: Chronisch-entzündliche Darmerkrankung (CED) - Colitis ulcerosa",
+      "DD: Bakterielle Diarrhö",
+      "DD: Divertikulitis",
+      "DD: Kolorektalkarzinom",
+      "DD: Harnwegsinfekt",
+      "DD: Gynäkologische Ursachen"
+    ],
+    "diagnostic_approach": [
+      "Blutentnahme: BB (Anämie, Leukozytose), CRP, BSG, Nierenwerte, Leberparameter",
+      "Bei Anämie: MCV, MCH, ggf. Eisenprofil, Retikulozyten",
+      "Abdomensonographie (freie Flüssigkeit, Darmwandverdickung, Kokardenphänomen)",
+      "EKG (bei Ödemen)",
+      "Koloskopie mit Biopsien bzw. Rektosigmoidoskopie/Proktoskopie",
+      "Akuttherapie lokal: Mesalazin",
+      "Bei schweren Verläufen systemisch: Prednisolon 1 mg/kg (ca. 100 mg)",
+      "Lokal: Budesonid"
+    ]
+  }
+]

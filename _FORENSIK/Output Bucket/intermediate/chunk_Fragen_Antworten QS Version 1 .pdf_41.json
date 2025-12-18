@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Subkapitale Humerusfraktur beim geriatrischen Patienten\",\n    \"patient_age\": \"80-jähriger\",\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Subkapitale Humerusfraktur\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Gefäß-/Nervenstatus (A. axillaris, N. axillaris) zu prüfen\"],\n    \"imaging_findings\": [\n      \"Röntgen in 2 Ebenen (a.p. und axial/Y-View)\",\n      \"CT bei komplexer/mehrfragmentärer Fraktur\",\n      \"NEER-Klassifikation (Typ I-IV)\"\n    ],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Subkapitale Humerusfraktur\"],\n    \"diagnostic_approach\": [\n      \"Röntgen in 2 Ebenen (a.p. und axial/Y-View)\",\n      \"CT bei komplexer/mehrfragmentärer Fraktur\",\n      \"NEER-Klassifikation beachten\",\n      \"Gefäß-/Nervenstatus prüfen\",\n      \"Sturzanamnese und -prophylaxe\",\n      \"Osteoporose-Diagnostik (DXA-Messung)\",\n      \"Geriatrisches Assessment\"\n    ]\n  }\n]\n```"
+  }
+]

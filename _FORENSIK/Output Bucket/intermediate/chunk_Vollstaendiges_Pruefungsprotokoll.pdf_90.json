@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 91/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** aus einem Prüfungsprotokoll:\n   - Definitionen (Bursae, Asthma bronchiale, CML, TNM-Klassifikation)\n   - Klassifikationen (Hiatushernien)\n   - Therapieoptionen (Ösophagusvarizen, Asthma bronchiale)\n   - Diagnostische Verfahren (EKG bei Myokardinfarkt, Bariumbreischluck)\n   - Komplikationen (nach Schlaganfall, nach Operation)\n   - Pharmakologisches Wissen (PPI-Hemmer Einnahmezeit)\n\n2. **Keine konkreten Patientenpräsentationen** mit:\n   - Spezifischen Patientendaten (Alter, Geschlecht)\n   - Anamnese oder Beschwerdeschilderung\n   - Klinischen Untersuchungsbefunden\n   - Individuellen diagnostischen oder therapeutischen Verläufen\n\nDies ist reines **Prüfungswissen** ohne narrative Falldarstellungen."
+  }
+]

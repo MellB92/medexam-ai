@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Mantelzell Lymphom Stadium 4 mit Tonsillen-Manifestation",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Hypertrophie der Tonsillen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Hypertrophie der Tonsillen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Mantelzell Lymphom, Stadium 4 nach Ann Arbor"
+    ],
+    "diagnostic_approach": [
+      "operative Entfernung der Tonsillen",
+      "histologische Untersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Aufnahme im Rahmen der chemotherapeutischen Behandlung"
+    ]
+  },
+  {
+    "title": "Epidurales Hämatom nach Kopftrauma bei betrunkenem Patient",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Kopfwunde",
+      "akute Schmerzen danach"
+    ],
+    "accident_mechanism": "Kopftrauma (Details nicht spezifiziert)",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Alkoholintoxikation"
+    ],
+    "family_history": [],
+    "social_history": [
+      "betrunken bei Vorstellung"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Kopfwunde",
+      "mögliche Bewusstlosigkeit"
+    ],
+    "imaging_findings": [
+      "CT: sehr deutliches epidurales Hämatom"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Epidurales Hämatom"
+    ],
+    "diagnostic_approach": [
+      "Suche nach möglicher Bewusstlosigkeit",
+      "CT-Bildgebung"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Epidurales Hämatom nach initialem Trauma"
+    ],
+    "follow_up": [
+      "Wundversorgung",
+      "Tetanus-Prophylaxe (Grundimmunisierung wenn keine vorherige Impfung)"
+    ]
+  }
+]

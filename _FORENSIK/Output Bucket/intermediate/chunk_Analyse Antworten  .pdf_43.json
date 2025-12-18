@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** zu verschiedenen medizinischen Themen:\n   - Herzrhythmusstörungen (Torsades de Pointes, QT-Verlängerung)\n   - AV-Block dritten Grades\n   - Schrittmachertherapie\n   - Tiefe Venenthrombose (TVT) und Lungenarterienembolie (LAE)\n   - Thrombophilien\n   - Gastritis\n\n2. **Musterlösungen und Leitlinien** ohne konkrete Patientenpräsentation\n\n3. **Medikamentendosierungen** (z.B. Eliquis) im theoretischen Kontext\n\n4. **Diagnostische und therapeutische Konzepte** als allgemeines Wissen\n\nEs gibt **keine Beschreibung eines konkreten Patienten** mit:\n- Individuellem Alter/Geschlecht\n- Spezifischer Anamnese\n- Konkreten Symptomen bei Vorstellung\n- Individuellen Untersuchungsbefunden\n- Einer zusammenhängenden Fallpräsentation\n\nDies ist ein Prüfungsprotokoll mit Wissensfragen, keine Sammlung von klinischen Fällen."
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Polytrauma nach Fahrrad-Auto-Unfall bei antikoagulierter Patientin",
+    "patient_age": "62 Jahre",
+    "patient_gender": "weiblich",
+    "severity": "severe",
+    "chief_complaints": [
+      "Atemabhängige rechtsseitige thorakale Schmerzen",
+      "Rechtsseitige Oberbauchschmerzen",
+      "Rechtsseitige Handgelenksschmerzen",
+      "Schmerzhafte Bewegungseinschränkung der rechten Hand"
+    ],
+    "accident_mechanism": "Fahrradunfall mit Auto, Helm getragen (Helm gebrochen - Hochrasanztrauma)",
+    "pre_existing_conditions": [
+      "Herzrhythmusstörung seit einem Jahr",
+      "Omarthrose beidseitig",
+      "Z.n. schwerer Salmonelleninfektion vor 10 Jahren",
+      "Z.n. Nabelhernie vor 15 Jahren (infiziert, konservativ behandelt)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter 92 Jahre: Anämie (aktuell im Krankenhaus zur weiteren Abklärung)",
+      "Vater an Sepsis verstorben",
+      "Bruder: Leukämie",
+      "Schwester: Schilddrüsenkarzinom"
+    ],
+    "social_history": [
+      "Keine Noxen",
+      "Mit Fahrrad unterwegs zur Tochter"
+    ],
+    "medications": [
+      "Xarelto 1-0-0"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Rechte Hand: Verletzung mit schmerzhafter Bewegungseinschränkung",
+      "Rechtsseitiger Oberbauch schmerzhaft bei Palpation (frühe Zeichen akutes Abdomen)",
+      "Pupillenreflex überprüft",
+      "Sensibilität überprüft",
+      "Meningealzeichen überprüft",
+      "Ulnar-, Radial- und Mediannerven in der Hand überprüft",
+      "Auskultation von Lunge und Herz durchgeführt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Distale Handgelenksverletzung rechts",
+      "Thoraxtrauma rechts",
+      "V.a. akutes Abdomen"
+    ],
+    "diagnostic_approach": [
+      "EFAST-Sonographie sofort",
+      "EKG (wegen Herzrhythmusstörung)",
+      "BGA (Blutgasanalyse)",
+      "Schmerzmedikation"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

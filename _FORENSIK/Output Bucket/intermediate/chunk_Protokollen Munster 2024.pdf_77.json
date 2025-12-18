@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Verkehrsunfall mit Liquorrhoe",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Liquorrhoe durch die Nase"
+    ],
+    "accident_mechanism": "Verkehrsunfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Liquorrhoe nasal"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Schnelltest mit Blutzuckerteststreifen zum Nachweis von Liquor"
+    ],
+    "suspected_diagnosis": [
+      "Schädelbasisfraktur mit Liquorleck"
+    ],
+    "diagnostic_approach": [
+      "Blutzuckerteststreifen zum Liquor-Nachweis"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Hubschraubertransfer in Krankenhaus mit Neurochirurgie"
+    ]
+  },
+  {
+    "title": "Interstitielle Pneumonie im Röntgen-Thorax",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax mit interstitieller Pneumonie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Interstitielle Pneumonie"
+    ],
+    "diagnostic_approach": [
+      "Laboruntersuchungen",
+      "Blutkulturen",
+      "Sputum-Untersuchung",
+      "Bronchoalveoläre Lavage"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Akuter Myokardinfarkt im EKG",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: T-Negativierung",
+      "EKG: ST-Hebung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Myokardinfarkt in akuter Phase"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Wirbelkörperfraktur bei Osteoporose",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Osteoporose"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Osteoporotische Veränderungen"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax seitlich: Wirbelkörperfraktur",
+      "Osteoporotische Veränderungen der Wirbelsäule"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Wirbelkörperfraktur"
+    ],
+    "diagnostic_approach": [
+      "Beurteilung: Alter des Patienten",
+      "Beurteilung: neurologische Ausfälle",
+      "Beurteilung: Schmerzsymptomatik",
+      "Mitbeurteilung Neurochirurgie/Orthopädie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Entscheidung ambulant vs. stationär abhängig von Alter, neurologischen Ausfällen und Schmerzsymptomatik"
+    ]
+  }
+]

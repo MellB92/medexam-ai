@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Pneumoperitoneum im Thorax-Röntgen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Thorax-Röntgenbild mit Pneumoperitoneum"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pneumoperitoneum"
+    ],
+    "diagnostic_approach": [
+      "Thorax-Röntgenbild"
+    ]
+  },
+  {
+    "title": "Sturz auf rechte Schulter mit AC-Gelenksprengung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": "Sturz auf rechte Schulter",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "AC-Gelenksprengung"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Vordere Schultergelenkluxation rechts nach Sturz",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": "Sturz auf Schulter",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen rechter Schulter mit vorderer Luxation",
+      "Bankart-Läsion",
+      "Zerstörung des Labrum glenoidale"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vordere Schultergelenkluxation",
+      "Bankart-Läsion"
+    ],
+    "diagnostic_approach": [
+      "Röntgen",
+      "Neurologische Untersuchung (N. axillaris, N. medianus, N. ulnaris, N. radialis)",
+      "PDMS-Kontrolle"
+    ]
+  },
+  {
+    "title": "Myokardinfarkt - Therapiemanagement",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Myokardinfarkt"
+    ],
+    "diagnostic_approach": []
+  }
+]

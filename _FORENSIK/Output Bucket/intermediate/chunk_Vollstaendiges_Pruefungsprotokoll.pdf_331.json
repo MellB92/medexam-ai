@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Katzenbiss mit Infektionsgefahr",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Katzenbiss"
+    ],
+    "accident_mechanism": "Katzenbiss",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Katzenbissverletzung",
+      "Infektionsgefahr durch Pasteurella multocida",
+      "Mögliche bakterielle Infektion durch Staphylokokken, Streptokokken und Anaerobier"
+    ],
+    "diagnostic_approach": [
+      "Wundinspektion",
+      "Überprüfung Tetanusimpfstatus",
+      "Engmaschige Kontrolle auf Infektionszeichen (Rötung, Schwellung, Schmerzen, Fieber)"
+    ]
+  },
+  {
+    "title": "Unscharf begrenzte Hautinfektion",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Unscharf begrenzte Hautinfektion"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Unscharf begrenzte Hautinfektion"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Phlegmone",
+      "Sepsis",
+      "Nekrotisierende Fasziitis"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Junge vegane Frau mit Anämie",
+    "patient_age": "junge",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Anämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "fit"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Eisenmangelanämie",
+      "Vitamin-B12-Mangelanämie"
+    ],
+    "diagnostic_approach": [
+      "Eisenresorption im Duodenum und oberen Jejunum prüfen",
+      "Vitamin B12-Resorption im terminalen Ileum prüfen"
+    ]
+  },
+  {
+    "title": "CT mit dilatierter Dünndarmschlinge",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT axial und koronar",
+      "Dilatierte Dünndarmschlinge (zentral)",
+      "Mit Flüssigkeit gefüllter Darm"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Morbus Crohn",
+      "Colitis ulcerosa"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "AV-Block mit inferiorem STEMI",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: AV-Block mit STEMI-Inferior-Infarkt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "AV-Block",
+      "STEMI inferior (Hinterwandinfarkt)"
+    ],
+    "diagnostic_approach": [
+      "EKG"
+    ]
+  }
+]

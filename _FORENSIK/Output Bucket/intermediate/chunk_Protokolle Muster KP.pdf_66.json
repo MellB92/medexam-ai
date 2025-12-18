@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Linksseitiger Flankenschmerz mit Fieber bei junger Frau mit Diabetes Typ 1",
+    "patient_age": "junge Frau",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "linksseitige Schmerzen",
+      "Fieber",
+      "getrübter Urin"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 1",
+      "Asthma"
+    ],
+    "medications": [
+      "Insulinpumpe",
+      "Folsäure",
+      "inhalative Steroide"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Insulinpumpe linksseitig",
+      "Prüfung ob Klopfschmerz vorhanden"
+    ],
+    "laboratory_findings": [
+      "letzte Periode vor 5 Wochen",
+      "mögliche Schwangerschaft"
+    ],
+    "imaging_findings": [],
+    "suspected_diagnosis": [
+      "Pyelonephritis",
+      "aszendierender Harnwegsinfekt",
+      "DD: vertebromuskuläre Ursache (eher unwahrscheinlich)"
+    ],
+    "diagnostic_approach": [
+      "Frage nach letzter Periode",
+      "Urin-Stix",
+      "Urinsediment",
+      "Ausschluss Schwangerschaft"
+    ]
+  },
+  {
+    "title": "Knie-Umknicken bei möglicherweise schwangerer Patientin",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Knie-Umknicken"
+    ],
+    "accident_mechanism": "Knie-Umknicken",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Ausschluss von Fraktur vor Bandtestung"
+    ],
+    "imaging_findings": [
+      "Röntgen Knie (gepixelt, schlechte Qualität)",
+      "MRT Knie: Kreuzbandruptur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bandruptur",
+      "Fraktur",
+      "Meniskusläsion",
+      "Kreuzbandruptur"
+    ],
+    "diagnostic_approach": [
+      "Prüfung sichere und unsichere Frakturzeichen",
+      "Röntgen mit Strahlenschutz (wegen möglicher Schwangerschaft)",
+      "Bandtests",
+      "MRT"
+    ]
+  }
+]

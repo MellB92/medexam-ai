@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Gastroösophageale Refluxkrankheit bei 62-jähriger Patientin\",\n    \"patient_age\": \"62-jährig\",\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"typische Symptome einer gastroösophagealen Refluxkrankheit\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\n      \"gesamte körperliche Untersuchung durchgeführt (außer neurologische Untersuchung)\",\n      \"kardiale Auskultation\",\n      \"Pulstastung\"\n    ],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Refluxkrankheit\", \"ACS (auszuschließen)\"],\n    \"diagnostic_approach\": [\n      \"EKG zum Ausschluss eines ACS\",\n      \"körperliche Untersuchung\",\n      \"Anamnese bezüglich aktueller Schmerzen\",\n      \"Medikamentenbedarf klären\"\n    ]\n  }\n]\n```"
+  }
+]

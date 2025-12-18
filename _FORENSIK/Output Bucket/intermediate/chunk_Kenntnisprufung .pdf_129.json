@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Sjögren-Syndrom bei 38-jähriger Frau mit Sicca-Symptomatik",
+    "patient_age": "38-jährig",
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "Schlafstörungen",
+      "Trockene Augen",
+      "Trockene Nase (verwendet Bepanten)",
+      "Schluckstörungen (muss Wasser trinken beim Essen)",
+      "Schwellung und Schmerzen der Ohrspeicheldrüse beidseitig (vor ein paar Wochen)",
+      "Polydipsie bis zu 3 Liter pro Tag",
+      "Beidseitige Schmerzen in den Kniegelenken"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Harnwegsinfekt vor einigen Wochen (mit einmaliger Antibiotika-Gabe behandelt)",
+      "Hepatitis mit Gelbsucht nach Urlaub (vom Hausarzt als vollständig geheilt bezeichnet)",
+      "Knieverletzung beim Reiten im Alter von 14 Jahren (rechtes Knie)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Installation einer Klimaanlage am Arbeitsplatz (Patientin verbindet Symptome damit)"
+    ],
+    "medications": [
+      "Bepanten für die Nase"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Reflexe überprüft",
+      "Bauchuntersuchung durchgeführt",
+      "Intrakutane Naht an Silikonpalette (praktische Prüfung)"
+    ],
+    "imaging_findings": [
+      "Röntgen Kniegelenke beim Orthopäden: keine Pathologie festgestellt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sjögren-Syndrom als eigenständige Krankheit",
+      "Kollagenose mit Multiorganbeteiligung (Speicheldrüsen, evtl. Bauchspeicheldrüse, Diabetes) sollte ausgeschlossen werden"
+    ],
+    "diagnostic_approach": [
+      "Schirmer-Test mit Filterpapier",
+      "Test mit Schäumchen",
+      "Histologische Probe aus Parotis für definitive Diagnose"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

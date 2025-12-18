@@ -1,0 +1,113 @@
+[
+  {
+    "title": "Patientin mit Herzrasen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Herzrasen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "frequente Herzfrequenz",
+      "normaler Blutdruck"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "subjektive Wahrnehmung"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Patientin mit Vorhofflimmern",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Vorhofflimmern"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit VHF"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vorhofflimmern"
+    ],
+    "diagnostic_approach": [
+      "Ablation",
+      "Pulmonalvenenisolation"
+    ]
+  },
+  {
+    "title": "Patient mit Vorhofflattern",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit typischen Zeichen eines Vorhofflatterns"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vorhofflattern"
+    ],
+    "diagnostic_approach": [
+      "Ablation"
+    ]
+  },
+  {
+    "title": "Polytrauma nach Verkehrsunfall mit HWS-Fraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": "Verkehrsunfall mit Schleudertrauma",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "HWS-Atlasfraktur (Hangman-Fraktur)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma",
+      "HWS-Atlasfraktur",
+      "Hangman-Fraktur"
+    ],
+    "diagnostic_approach": [
+      "FAST-Ultraschall"
+    ]
+  },
+  {
+    "title": "Femurschaftfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild mit Femurschaftfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Femurschaftfraktur"
+    ],
+    "diagnostic_approach": [
+      "Plattenosteosynthese"
+    ]
+  }
+]

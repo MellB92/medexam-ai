@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Fahrradunfall mit Colles-Fraktur und Pneumothorax",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Distale Radiusfraktur nach Fahrradunfall",
+      "rechtsseitiger Pneumothorax"
+    ],
+    "accident_mechanism": "Fahrradunfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Macumar"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild: Colles Fraktur",
+      "Röntgenbild: Rippenserienfraktur",
+      "rechtsseitiger Pneumothorax"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Colles-Fraktur (distale Radiusfraktur)",
+      "rechtsseitiger Pneumothorax",
+      "DD: Hämatothorax (bei Macumar-Einnahme)"
+    ],
+    "diagnostic_approach": [
+      "Röntgen",
+      "INR-Wert-Bestimmung"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "mögliche Skaphoidfraktur",
+      "DD Hämatothorax"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Nebennierenadenom mit chronischen Flankenschmerzen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "mild",
+    "chief_complaints": [
+      "Rückenschmerzen mit Ausstrahlung in die Flanken seit Jahren"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [
+      "Vorhofflatter"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Ultraschall: Befund in der rechten Flanke",
+      "CT-Abdomen mit Kontrastmittel (i.v. und p.o.): Nebennierenadenom",
+      "EKG: Vorhofflatter"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Nebennierenadenom",
+      "DD: Phäochromozytom"
+    ],
+    "diagnostic_approach": [
+      "Ultraschall",
+      "CT-Abdomen mit Kontrastmittel",
+      "Histologie von Nebenniere",
+      "Hormonbestimmung im Labor",
+      "EKG"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "LKW-Unfall mit Verdacht auf innere Blutung bei Schlafapnoe-Syndrom",
+    "patient_age": "62-jähriger",
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "diffuse Bauchschmerzen nach LKW-Unfall",
+      "tagsüber immer müde",
+      "beim Fahren eingeschlafen"
+    ],
+    "accident_mechanism": "LKW-Unfall: Schlag des Lenkers direkt auf den Bauch nach Einschlafen beim Fahren",
+    "pre_existing_conditions": [
+      "arterielle Hypertonie"
+    ],
+    "comorbidities": [
+      "Verdacht auf obstruktives Schlafapnoe-Syndrom"
+    ],
+    "risk_factors": [
+      "Schnarchen",
+      "Atempausen während des Schlafens",
+      "Gewichtszunahme 10 kg in 1 Jahr",
+      "Adipositas"
+    ],
+    "family_history": [
+      "Vater: Leberzirrhose bei Alkoholabusus, verstorben an Ösophagusvarizenblutung",
+      "Mutter: KHK",
+      "2 Kinder gesund"
+    ],
+    "social_history": [
+      "LKW-Fahrer"
+    ],
+    "medications": [
+      "Tablette gegen arterielle Hypertonie",
+      "Ibuprofen bei Bedarf (wegen Rückenschmerzen)",
+      "Nasen-Spray bei Bedarf"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Bauch: Schmerzen überall bei Perkussion",
+      "oberflächliche Palpation schmerzhaft",
+      "tiefe Palpation nicht durchgeführt wegen Schmerzen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Verdacht auf innere Blutung",
+      "Verdacht auf obstruktives Schlafapnoe-Syndrom"
+    ],
+    "diagnostic_approach": [
+      "weitere Untersuchungen geplant"
+    ],
+    "treatment_response": [
+      "Patient lehnte Schmerzmittel ab"
+    ],
+    "complications": [],
+    "follow_up": [
+      "stationäre Aufnahme für weitere Untersuchungen"
+    ]
+  }
+]

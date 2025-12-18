@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 31/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle**.\n\nDer Text behandelt:\n- Theoretische Erklärungen zu intraventrikulären Leitungsstörungen\n- Rechtsschenkelblock (RSB) und Linksschenkelblock (LSB)\n- Faszikuläre Blockierungen (LAH und LPH)\n- Elektrokardiografische Befunde und deren Interpretation\n- Schematische Darstellungen und Abbildungen\n- Merksätze zur Differenzierung von Schenkelblöcken\n\nEs werden zwar EKG-Beispiele erwähnt (Nr. 11-14), aber diese sind nur als Verweise auf andere Seiten des Lehrbuchs aufgeführt, ohne dass konkrete Patientendaten, Anamnesen oder klinische Präsentationen beschrieben werden.\n\nEs handelt sich um reines **didaktisches Lehrmaterial** ohne vollständige klinische Falldarstellungen."
+  }
+]

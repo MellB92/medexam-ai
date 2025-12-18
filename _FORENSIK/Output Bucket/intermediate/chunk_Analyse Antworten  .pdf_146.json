@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Hypothyreose bei Herrn Wagner\",\n    \"patient_age\": null,\n    \"patient_gender\": \"m\",\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Hypothyreose\", \"Herzinsuffizienz\", \"Anämie\", \"Depression\", \"Schlafapnoe-Syndrom\"],\n    \"diagnostic_approach\": [\n      \"Laboruntersuchungen: TSH, fT3, fT4, Antikörper (TPO-Ak, TRAK, Tg-Ak), Blutbild, Eisenstatus, CRP, BSG\",\n      \"Sonographie Schilddrüse\",\n      \"EKG\",\n      \"je nach Befund weitere Diagnostik (z.B. Schlaflabor bei Verdacht auf Schlafapnoe-Syndrom)\"\n    ]\n  }\n]\n```"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 50/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\" von Trappe) und behandelt die **theoretische Darstellung der Infarktlokalisation** im EKG.\n\nDer Text enthält:\n- Anatomische Beschreibungen (Hinterwand des Herzens, diaphragmale Wand, posteriore Wand)\n- EKG-Ableitungen und deren Zuordnung zu Herzregionen\n- Schematische Darstellungen verschiedener Infarkttypen:\n  - Inferiorer (diaphragmaler) Infarkt\n  - Posteriorer Infarkt\n  - Lateraler Infarkt\n- Elektrokardiografische Befunde und EKG-Zeichen\n- Abbildungen (Abb. 20.5, 20.6, 20.7, 20.8, 20.9)\n\nEs handelt sich um **rein didaktisches Material** ohne konkrete Patientenfälle. Es werden keine individuellen Patienten mit Beschwerden, Untersuchungsbefunden oder diagnostischen Verläufen präsentiert."
+  }
+]

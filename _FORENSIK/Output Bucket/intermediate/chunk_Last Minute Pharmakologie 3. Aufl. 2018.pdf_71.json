@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 72/115) enthält ausschließlich verschlüsselte/kodierte Daten ohne erkennbaren medizinischen Klartext. Der gesamte Text besteht aus einer langen Zeichenkette mit zufällig erscheinenden Buchstaben, Zahlen und Sonderzeichen (z.B. \"piFdUZQhjAfDimMlhTI1F02sQimD04GM7uNg6VxZ5gpHpJTJnHw+H9i6QTz7ryz5y1mOn0FP41RE3Md+c59hiLvJrBmRoq1Sqx7A35FDb2K6IlPooYXAY7SL6WkGuUugN1lsYTYqPKLoaYxTUr2Ktr8v...\").\n\nEs sind keine klinischen Patientenfälle, medizinischen Informationen, Symptombeschreibungen, Diagnosen oder andere relevante medizinische Inhalte erkennbar. Dies könnte eine Base64-Kodierung, Verschlüsselung oder beschädigte Datenextraktion aus dem PDF sein.\n\nDaher: **Keine extrahierbaren klinischen Fälle vorhanden.**"
+  }
+]

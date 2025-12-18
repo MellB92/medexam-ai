@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nEs handelt sich ausschließlich um:\n\n1. **Theoretische Prüfungsfragen** aus einer Kenntnisprüfung (z.B. \"Warum Thrombozytopenie? Ursachen?\", \"EKG-Befund: Rechtsschenkelblock. Ursache?\")\n\n2. **Musterlösungen/Leitlinien** mit allgemeinem medizinischem Wissen (z.B. Ursachen von Thrombozytopenie, COPD-Therapie, Klassifikationen von Hüftfrakturen)\n\n3. **Keine Patientenpräsentationen** mit konkreten Fällen, die folgende Elemente enthalten würden:\n   - Konkrete Patientenangaben (Alter, Geschlecht)\n   - Spezifische Anamnese oder Beschwerden eines einzelnen Patienten\n   - Individuelle Untersuchungsbefunde\n   - Fallbezogene diagnostische oder therapeutische Überlegungen\n\nAlle Inhalte sind rein **didaktisch-theoretischer Natur** (Prüfungsfragen mit Standardantworten) und erfüllen nicht die Kriterien für klinische Präsentationsfälle."
+  }
+]

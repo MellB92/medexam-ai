@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. Es handelt sich um eine **Übersichtstabelle über Qualitätskriterien** für verschiedene medizinische Leistungsbereiche in der Krankenhausplanung.\n\nDer Text beschreibt:\n- Anforderungen für Transplantationszentren (Herz-, Leber-, Lungen-, Nieren-, Pankreas-Transplantation)\n- Strukturelle Voraussetzungen für psychiatrische und psychosomatische Versorgung\n- Personelle Anforderungen (Fachärzte, VZÄ)\n- Technische Ausstattung (Geräte, Apparate)\n- Qualitätsmanagement-Vorgaben\n- Gesetzliche Regelungen (TPG, G-BA)\n\nEs werden **keine individuellen Patientenfälle** mit Anamnese, Symptomen, Befunden oder Diagnosen präsentiert."
+  }
+]

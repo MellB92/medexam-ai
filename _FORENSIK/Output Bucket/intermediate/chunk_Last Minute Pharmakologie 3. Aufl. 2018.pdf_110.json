@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 111/115) enthält ausschließlich einen alphabetisch sortierten Index/Register von Medikamentennamen mit ihren pharmakologischen Klassifikationen und Seitenzahlen aus dem Lehrbuch \"Last Minute Pharmakologie\".\n\nEs handelt sich um:\n- Eine Auflistung von Wirkstoffen (z.B. \"Oxycodon – Opioid, 107\")\n- Pharmakologische Kategorien (z.B. \"Parasympathomimetikum\", \"Antibiotika\")\n- Seitenverweise\n- Teilweise Hinweise auf spezielle Themen (z.B. \"Intoxikation\", \"Kontrastmittel-Prophylaxe\")\n\n**Es gibt keine klinischen Patientenfälle** mit:\n- Patientenangaben (Alter, Geschlecht)\n- Anamnese oder Beschwerden\n- Unfallhergang\n- Klinischen Untersuchungsbefunden\n- Diagnostischen Prozessen\n- Fallpräsentationen\n\nDies ist reines Indexmaterial eines pharmakologischen Lehrbuchs ohne narrative klinische Falldarstellungen."
+  }
+]

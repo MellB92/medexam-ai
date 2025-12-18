@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 76/148) enthält **keine vollständigen klinischen Patientenfälle**.\n\nDer Abschnitt besteht ausschließlich aus:\n\n1. **Frage 214**: Nebenwirkungen von Loperamid (theoretisches Pharmakologie-Wissen)\n2. **Frage 215**: Anatomische Strukturen bei Cholezystektomie (anatomisches/chirurgisches Theoriewissen)\n3. **Frage 216**: Strukturverletzungen bei Beckenfraktur (theoretisches Traumatologie-Wissen)\n4. **Frage 217**: Wer darf Kreuzblut abnehmen (rechtlich-organisatorisches Wissen)\n5. **Frage 218**: Definition des Multiplen Myeloms (theoretisches onkologisches Wissen - abgeschnitten)\n\nAlle Inhalte sind **allgemeine Wissensfragen** ohne konkrete Patientenpräsentation mit individuellen Charakteristika (Alter, Geschlecht, Beschwerden, Befunde, etc.).\n\nEs handelt sich um Prüfungsfragen mit standardisierten Antworten für die Kenntnisprüfung, nicht um klinische Fallbeispiele."
+  }
+]

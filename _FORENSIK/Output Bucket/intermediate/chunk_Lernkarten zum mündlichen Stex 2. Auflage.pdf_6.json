@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"NSTEMI mit Schwindel und Sturz\",\n    \"patient_age\": \"83-jähriger\",\n    \"patient_gender\": \"Mann\",\n    \"chief_complaints\": [\"plötzlicher Schwindel\", \"Sturz auf linke Schulter\"],\n    \"accident_mechanism\": \"Sturz auf linke Schulter nach plötzlichem Schwindel\",\n    \"pre_existing_conditions\": [\"keine kardialen Vorerkrankungen bekannt\", \"gelegentliche Palpitationen (nie ärztlich abgeklärt)\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"reduzierter Allgemeinzustand\", \"guter Ernährungszustand\"],\n    \"imaging_findings\": [\"Röntgen: Fraktur der Schulter ausgeschlossen\", \"EKG: Vorhofflimmern (VHF)\", \"EKG: neu aufgetretener Linksschenkelblock (LSB)\", \"Herzechokardiografie: Wandbewegungsstörungen\"],\n    \"laboratory_findings\": [\"Troponin negativ\"],\n    \"suspected_diagnosis\": [\"Nicht-ST-Streckenhebungsinfarkt (NSTEMI)\"],\n    \"diagnostic_approach\": [\"frühelektive Koronarangiografie\", \"ggf. PTCA mit Stentimplantation nach intrainterventionellem Befund\", \"Rehamaßnahme geplant\", \"fachärztliche Anbindung beim Kardiologen geplant\"]\n  }\n]\n```"
+  }
+]

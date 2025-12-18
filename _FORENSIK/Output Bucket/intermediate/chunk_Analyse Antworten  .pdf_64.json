@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Anämie mit makrozytären Erythrozyten und Thrombozytopenie\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\n      \"Hb niedrig\",\n      \"Hkt niedrig\",\n      \"MCV hoch\",\n      \"MCH hoch\",\n      \"Thrombozyten niedrig\",\n      \"Kreatinin hoch\",\n      \"LDH hoch\"\n    ],\n    \"suspected_diagnosis\": [\n      \"Makrozytäre Anämie\",\n      \"Hyperchrome makrozytäre Anämie\"\n    ],\n    \"diagnostic_approach\": [\n      \"Anamnese (Ernährung, Medikamente, Blutungsquellen, Symptome)\",\n      \"Körperliche Untersuchung (Blässe, Ikterus, Splenomegalie)\",\n      \"Blutbild (Hb, Hkt, MCV, MCH, Retikulozyten)\",\n      \"Eisenstatus (Ferritin, Transferrinsättigung)\",\n      \"Vitamin B12 und Folsäure\",\n      \"Nierenfunktion (Kreatinin)\",\n      \"Leberfunktion (Bilirubin, Transaminasen)\",\n      \"Entzündungsparameter (CRP, BSG)\",\n      \"Stuhltest auf okkultes Blut\",\n      \"ggf. Knochenmarkpunktion\"\n    ]\n  }\n]\n```"
+  }
+]

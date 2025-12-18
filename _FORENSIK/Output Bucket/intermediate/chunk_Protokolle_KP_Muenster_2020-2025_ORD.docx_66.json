@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Hypothyreose mit Stimmveränderung und Abgeschlagenheit\",\n    \"patient_age\": \"61-jähriger\",\n    \"patient_gender\": \"m\",\n    \"chief_complaints\": [\"Stimmveränderung\", \"Abgeschlagenheit\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"keine bekannten Vorerkrankungen\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Bauch\", \"Lunge\", \"Herz\", \"Beine\", \"Schilddrüse\", \"Puls\", \"Reflexe\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Hypothyreose\", \"Herzinsuffizienz\"],\n    \"diagnostic_approach\": [\"körperliche Untersuchung\", \"Schilddrüsenuntersuchung\", \"Reflexprüfung\"]\n  }\n]\n```"
+  }
+]

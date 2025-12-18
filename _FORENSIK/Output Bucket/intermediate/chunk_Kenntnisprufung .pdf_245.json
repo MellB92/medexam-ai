@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Hyperthyreose mit Verdacht auf M. Basedow",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Herzrasen",
+      "Nervosität",
+      "Tremor",
+      "Wärmeintoleranz",
+      "Gewichtsverlust"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Vitalparameter erhoben",
+      "Pupillen untersucht",
+      "Mundhöhle untersucht",
+      "Schilddrüse untersucht",
+      "Lymphknoten untersucht",
+      "Thorax komplett untersucht",
+      "Herz auskultiert",
+      "Abdomen untersucht",
+      "Gefäße abgetastet",
+      "Neurologische Untersuchung mit besonderer Aufmerksamkeit der Augen (Orbitopathie bei M. Basedow)",
+      "Reflexe geprüft (inkl. radialer Periostreflex)"
+    ],
+    "imaging_findings": [
+      "Sonographie: vaskuläres Inferno",
+      "Szintigraphie geplant (bei M. Basedow diffuse Aufnahme, bei Autonomie eher knotig)",
+      "Kalte Knoten bei Szintigraphie suspekt wenn sonographische Befunde ebenfalls suspekt"
+    ],
+    "laboratory_findings": [
+      "TSH zu bestimmen",
+      "T4 zu bestimmen",
+      "T3 zu bestimmen",
+      "TRAK zu bestimmen",
+      "TPO-Ak zu bestimmen"
+    ],
+    "suspected_diagnosis": [
+      "Hyperthyreose",
+      "M. Basedow",
+      "Autonomie (Adenome)"
+    ],
+    "diagnostic_approach": [
+      "Labor: TSH, T4, T3, TRAK und TPO-Ak",
+      "Sonographie der Schilddrüse",
+      "Szintigraphie zur weiteren Differenzierung",
+      "Bei suspekten kalten Knoten: Feinnadelpunktion (FNA)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Grundsätzlich ambulante Behandlung möglich",
+      "Propranolol zur Symptomlinderung",
+      "Carbimazol 12-18 Monate",
+      "Bei Rezidiv: Radiojodtherapie oder Operation",
+      "Bei Adenomen: Operation"
+    ]
+  }
+]

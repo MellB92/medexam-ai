@@ -1,0 +1,168 @@
+[
+  {
+    "title": "Humerusfraktur mit eingeschränkter Beweglichkeit",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "eingeschränkte Beweglichkeit im linken Arm",
+      "Fixationsstellung im Ellenbogen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "eingeschränkte Beweglichkeit im linken Arm",
+      "Fixationsstellung im Ellenbogen",
+      "Thrombosezeichen geprüft"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Humerusfraktur"
+    ],
+    "diagnostic_approach": [
+      "körperliche Untersuchung linker Arm",
+      "neurologische Untersuchung",
+      "Auskultation Lunge und Herz",
+      "Thrombosezeichen prüfen"
+    ]
+  },
+  {
+    "title": "Distale Radiusfraktur (Colles Fraktur) mit Thoraxtrauma",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "distale Radiusfraktur",
+      "zwei Wunden am Arm",
+      "eine Wunde an rechter Lunge"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "Vorhofflimmern",
+      "Z.n. Prostatektomie",
+      "Z.n. Chemotherapie"
+    ],
+    "medications": [
+      "Lisinopril 1-0-0",
+      "Marcumar nach INR"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Null-neutral-Methode für Handgelenk durchgeführt",
+      "pDMS geprüft",
+      "Thoraxstabilität geprüft (vordere und seitliche Thoraxkompression)",
+      "Krepitation fühlbar",
+      "Hämatom",
+      "Böhler-Winkel (normal 20-25°)"
+    ],
+    "imaging_findings": [
+      "Röntgen-Thorax",
+      "Röntgen-Handgelenk",
+      "Frakturlinie 3cm distal vom Handgelenk",
+      "Linie neben Processus styloideus"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Colles-Fraktur",
+      "Rippenfraktur"
+    ],
+    "diagnostic_approach": [
+      "Anamnese nach SAMPLE-Schema",
+      "pDMS",
+      "Zeichen von Hämatom/Kompartmentsyndrom ausschließen",
+      "Röntgen-Thorax",
+      "Röntgen-Handgelenk",
+      "Kontrolle nach Gipsverband nach 1, 3, 7 Tagen"
+    ]
+  },
+  {
+    "title": "Appendizitis mit epigastrischen Schmerzen",
+    "patient_age": "19",
+    "patient_gender": null,
+    "chief_complaints": [
+      "epigastrische Schmerzen",
+      "rechtsseitige Unterbauchschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "McBurney-Zeichen positiv",
+      "Lanz-Zeichen positiv",
+      "Blumberg-Zeichen positiv",
+      "Rovsing-Zeichen positiv",
+      "Douglas-Schmerz",
+      "Psoas-Zeichen (besonders für retrozekal)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Leukozyten 19.000/µl",
+      "CRP 125 mg/l"
+    ],
+    "suspected_diagnosis": [
+      "Appendizitis"
+    ],
+    "diagnostic_approach": [
+      "klinische Untersuchung mit Appendizitis-Zeichen",
+      "Laboruntersuchung",
+      "Notfall-OP innerhalb 6 Stunden (Perforationsgefahr)"
+    ]
+  },
+  {
+    "title": "Vorhofflimmern mit Hypertonie und Z.n. Prostatakarzinom",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "Vorhofflimmern",
+      "Z.n. Prostatektomie",
+      "Prostatakarzinom mit Metastasen (LWS, Leber)"
+    ],
+    "medications": [
+      "Lisinopril",
+      "Marcumar",
+      "Betablocker"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vorhofflimmern",
+      "Prostatakarzinom mit Metastasen"
+    ],
+    "diagnostic_approach": [
+      "Langzeit-EKG für Frequenzkontrolle",
+      "CHADSVASc-Score",
+      "EKG",
+      "Sono"
+    ]
+  },
+  {
+    "title": "Verkehrsunfall auf Autobahn",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": "Verkehrsunfall auf Autobahn",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "ABCDE-Schema"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "112/110 anrufen",
+      "zum Ort gehen und helfen",
+      "ABCDE-Schema",
+      "Erste Hilfe"
+    ]
+  }
+]

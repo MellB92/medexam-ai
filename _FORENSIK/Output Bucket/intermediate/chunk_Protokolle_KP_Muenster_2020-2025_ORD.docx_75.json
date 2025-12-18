@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Hyperthyreose mit kardiopulmonalen Beschwerden",
+    "patient_age": "44-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Herzrasen",
+      "Diarrhö",
+      "Unruhe",
+      "Zittern",
+      "Gewichtsabnahme",
+      "erhöhter Appetit",
+      "Schweißausbrüche",
+      "Engegefühl",
+      "Dyspnoe-Episoden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Verdacht auf Darmverschluss vor 8 Wochen",
+      "Mageninfektion (behandelt)"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Vitalzeichenmessung durchgeführt",
+      "Blutdruck gemessen",
+      "Herzfrequenz gemessen"
+    ],
+    "imaging_findings": [
+      "KM-CT vor 8 Wochen (wegen Verdacht auf Darmverschluss)"
+    ],
+    "laboratory_findings": [
+      "BGA zeigte diabetische Ketoazidose",
+      "Metabolische Azidose mit Hyperglykämie"
+    ],
+    "suspected_diagnosis": [
+      "Hyperthyreose",
+      "Helicobacter pylori Infektion",
+      "Diabetische Ketoazidose",
+      "Vorhofflimmern"
+    ],
+    "diagnostic_approach": [
+      "Urease-Schnelltest",
+      "Atemtest",
+      "Pathologie",
+      "Blutgasanalyse",
+      "EKG"
+    ]
+  }
+]

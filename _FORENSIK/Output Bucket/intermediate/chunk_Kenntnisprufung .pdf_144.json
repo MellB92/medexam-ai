@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Knieverletzung nach Sturz auf dem Weg zur Arbeit",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen in der Innenseite des Knies"
+    ],
+    "accident_mechanism": "Sturz auf dem Weg zur Arbeit auf die linke Hand, linkes Bein verdreht",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "pDMS durchgeführt",
+      "tanzende Patella untersucht",
+      "Schmerzen bei Berührung bei der ganzen Untersuchung"
+    ],
+    "imaging_findings": [
+      "MRT vom Knie mit 4 Bildern (koronare und sagittale Schichten)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "traumatische indirekte Meniskusverletzung",
+      "Kreuzbandverletzung",
+      "Seitenbandverletzung",
+      "Patellafraktur"
+    ],
+    "diagnostic_approach": [
+      "MRT vom Knie",
+      "Knieuntersuchung mit Tests für Meniskusverletzungen und Kreuzbandverletzungen (tanzende Patella, Pivot Shift, Lachman, vordere und hintere Schublade)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Sturzverletzung mit Knie- und Handverletzung bei Asthmatiker",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Verletzung des linken Knies",
+      "Verletzung der linken Hand"
+    ],
+    "accident_mechanism": "Sturz auf dem Weg zur Arbeit",
+    "pre_existing_conditions": [
+      "Asthma bronchiale seit Kindheit",
+      "Heuschnupfen",
+      "erhöhte Bluttfettwerte",
+      "Blut im Stuhl seit einigen Wochen (a.e. wegen Hämorrhoiden)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

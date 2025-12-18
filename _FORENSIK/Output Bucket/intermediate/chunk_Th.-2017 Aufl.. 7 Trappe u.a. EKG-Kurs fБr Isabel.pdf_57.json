@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 58/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle**.\n\nDer Text behandelt ausschließlich:\n- Theoretische Erklärungen zu supraventrikulären Tachykardien\n- Pathophysiologische Mechanismen (anterograde/retrograde Leitung, akzessorische Bahnen)\n- Ektop atriale Tachykardien und deren elektrophysiologische Grundlagen\n- Differenzialdiagnosen (Vorhoftachykardie vs. Vorhofflattern)\n- Multifokale atriale Tachykardien\n- Elektrokardiografische Charakteristika (Merke-Boxen mit diagnostischen Kriterien)\n- Schematische Darstellungen und EKG-Befunde (Abbildungen 24.7-24.11)\n\nEs handelt sich um rein didaktisches Material zur EKG-Interpretation ohne konkrete Patientenpräsentationen mit Anamnese, Symptomen oder individuellem Krankheitsverlauf."
+  }
+]

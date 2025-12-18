@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Unterschenkelfraktur mit Tibia- und Fibulabeteiligung",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Unterschenkelfraktur"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Distale Tibia Schaftfraktur (Keilfraktur)",
+      "Proximale und distale Fibulafraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Unterschenkelfraktur mit distaler Tibia Schaftfraktur und Fibulafrakturen"
+    ],
+    "diagnostic_approach": [
+      "Bildgebung (Röntgen Unterschenkel)"
+    ],
+    "treatment_response": [
+      "OP mit Platten, Schrauben (Titan) und Marknagelung durchgeführt",
+      "Post-OP: erstes Bild genähte Wunde dorsal am Unterschenkel, primäre Naht reizungslos",
+      "Zweites Bild: Wunde mit Drainage, Rötung und Schwellung, kleines Hämatom",
+      "Ödem vorhanden"
+    ],
+    "complications": [
+      "Rötung und Schwellung post-operativ",
+      "Hämatom",
+      "Ödem",
+      "Risiko für Kompartmentsyndrom",
+      "Risiko für N. peroneus Läsion",
+      "Risiko für TVT"
+    ],
+    "follow_up": [
+      "pDMS Kontrolle post-operativ",
+      "Thromboseprophylaxe mit NMH s.c.",
+      "Thrombozytenkontrolle bei Heparingabe",
+      "Hochlagerung bei Ödem",
+      "Kühlung",
+      "Lymphdrainage Massage"
+    ]
+  },
+  {
+    "title": "Patient mit Husten, Fieber und pulmonalem Infiltrat",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Husten",
+      "Fieber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax p.a.: Infiltrat sichtbar"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pneumonie",
+      "Tuberkulose mit Kaverne"
+    ],
+    "diagnostic_approach": [
+      "Weitere Diagnostik bei TBC-Verdacht",
+      "Isolation des Patienten bei TBC-Verdacht"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit Psoriasis und Arthritis psoriatica",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "mild",
+    "chief_complaints": [
+      "Schuppenfläche an Hand und Ellenbogen",
+      "Deformität kleiner Finger"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Methotrexat"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Hand mit Schuppenfläche",
+      "Kleiner Finger in DIP deformiert",
+      "Keine Schmerzen",
+      "Ellenbogen mit Schuppenfläche"
+    ],
+    "imaging_findings": [
+      "Bild: Hand mit Schuppenfläche und DIP-Deformität kleiner Finger"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Psoriasis",
+      "Arthritis psoriatica"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Mögliche schwere Komplikationen unter Methotrexat-Therapie inkl. Sepsis"
+    ],
+    "follow_up": []
+  }
+]

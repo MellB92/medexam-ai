@@ -1,0 +1,117 @@
+[
+  {
+    "title": "65-jährige Patientin mit chronischen Rückenschmerzen und unklarer Raumforderung",
+    "patient_age": "65J",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Intermittierende Rückenschmerzen seit 20 Jahren",
+      "Ausstrahlung in beide Flanken",
+      "In den letzten Monaten permanent zunehmende Schmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Bandscheibenvorfall vor 20 Jahren",
+      "Polypen (entfernt)",
+      "Vitamin D Mangel (sehr niedrig)",
+      "Einmalig erhöhter Blutdruck beim Hausarzt"
+    ],
+    "medications": [
+      "Vitamin D3 einmal wöchentlich (seit paar Wochen)"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Kopfschmerzen im LWS und Flanke",
+      "Aortenklappeninsuffizienz"
+    ],
+    "imaging_findings": [
+      "Ultraschall: unklare Raumforderung in rechter Flanke",
+      "Unauffällige Kolonoskopie vor 3 Jahren",
+      "Sono-Bild mit Raumforderung zwischen rechter Niere und Leber (Nebennieren-Raumforderung)",
+      "Keilförmige Wirbelkörperfraktur"
+    ],
+    "laboratory_findings": [
+      "Vitamin D sehr niedrig",
+      "Blutdruck einmalig erhöht"
+    ],
+    "suspected_diagnosis": [
+      "Osteoporose mit pathologischer Fraktur",
+      "LWS-Fraktur",
+      "Metastasen (DD wegen unklarer Raumforderung)",
+      "Bandscheibenvorfall",
+      "Nebennierentumor (Inzidentalom)"
+    ],
+    "diagnostic_approach": [
+      "Ultraschall Abdomen",
+      "Fokale neurologische Defizite prüfen",
+      "Bildgebung Osteoporose",
+      "Abklärung Nebennieren-Raumforderung (Cushing-Syndrom, Conn-Syndrom, Phäochromozytom)"
+    ]
+  },
+  {
+    "title": "17-jähriger Patient mit akuten Bauchschmerzen und freier Luft",
+    "patient_age": "17J",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Bauchschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sono Abdomen: freie Luft"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hohlorgan-Perforation"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Patient mit Ethanol-Intoxikation",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Ethanol-Intoxikation",
+      "Erbrechen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT Schädel axial mit Knochen- und Weichteinfenster: ohne pathologischen Befund"
+    ],
+    "laboratory_findings": [
+      "Elektrolytverlust beim Erbrechen"
+    ],
+    "suspected_diagnosis": [
+      "Ethanol-Intoxikation"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Patient bewusstlos auf der Straße gefunden",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Bewusstlosigkeit"
+    ],
+    "accident_mechanism": "Bewusstlos auf der Straße gefunden",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "ABCDE-Schema erforderlich"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "ABCDE-Schema",
+      "SAMPLER-Schema"
+    ]
+  }
+]

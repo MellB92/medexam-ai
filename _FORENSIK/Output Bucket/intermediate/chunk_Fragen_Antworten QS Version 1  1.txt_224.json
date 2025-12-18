@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Einer Fragenliste (FRAGE 501-520)**: Dies sind lediglich Themenüberschriften ohne ausgearbeitete Falldarstellungen:\n   - \"Chronische Niereninsuffizienz\"\n   - \"Citalopram und MAO Hemmer\"\n   - \"Nekrotisierende Fasziitis\"\n   - etc.\n\n2. **Beginn einer Fragenbearbeitung (FRAGE 521)**: Der Text zu \"Pneumothorax - warum gefährlich?\" ist am Ende abgeschnitten (\"Kompression der V.\") und daher **unvollständig**.\n\n3. **Theoretisches Wissen**: Die angedeutete Antwort zu FRAGE 521 ist eine theoretische Erklärung zur Pathophysiologie des Pneumothorax, **kein konkreter Patientenfall** mit Anamnese, Untersuchungsbefunden oder individueller Präsentation.\n\n**Keine der Informationen stellt einen vollständigen klinischen Präsentationsfall dar** mit spezifischen Patientendaten, Symptomen, Untersuchungsbefunden oder diagnostischem Vorgehen bei einem konkreten Patienten."
+  }
+]

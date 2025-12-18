@@ -1,0 +1,109 @@
+[
+  {
+    "title": "Herr Paul Wagner mit Stimmveränderung und Abgeschlagenheit",
+    "patient_age": "61-jähriger",
+    "patient_gender": "männlich",
+    "chief_complaints": [
+      "Stimmveränderung",
+      "Abgeschlagenheit",
+      "Dyspnoe NYHA II",
+      "Gewichtszunahme trotz Appetitverlust",
+      "Kopfschmerzen",
+      "Verstopfung",
+      "Verlangsamung",
+      "Leistungsminderung bei der Arbeit",
+      "Antriebslosigkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "keine bekannten Vorerkrankungen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Untersuchung von Bauch, Lunge, Herz, Beine",
+      "Schilddrüsenuntersuchung",
+      "Pulsuntersuchung",
+      "Reflexprüfung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Tabelle mit Parametern: TSH, T3, T4, TPO, TGO, TRAK"
+    ],
+    "suspected_diagnosis": [
+      "Hypothyreose",
+      "Herzinsuffizienz",
+      "Autoimmune Thyreoiditis (Hashimoto)"
+    ],
+    "diagnostic_approach": [
+      "Laboruntersuchung der Schilddrüsenparameter",
+      "Untersuchung auf polyendokrine Autoimmunerkrankungen"
+    ]
+  },
+  {
+    "title": "Patient mit Schnarchen und alltäglicher Leistungsminderung",
+    "patient_age": null,
+    "patient_gender": "männlich",
+    "chief_complaints": [
+      "Schnarchen",
+      "Alltägliche Leistungsverminderung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schlaf-Apnoe Syndrom"
+    ],
+    "diagnostic_approach": [
+      "Polysomnographie",
+      "Apnoe-Hypopnoe Index"
+    ]
+  },
+  {
+    "title": "Patientin mit akuter Appendizitis",
+    "patient_age": null,
+    "patient_gender": "weiblich",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Alle klinischen Zeichen und Punkte bei akuter Appendizitis"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akute Appendizitis"
+    ],
+    "diagnostic_approach": [
+      "Klinische Untersuchung",
+      "Appendektomie durchgeführt"
+    ]
+  },
+  {
+    "title": "Patient mit anaphylaktischem Schock nach Bienenstich",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Anaphylaktischer Schock"
+    ],
+    "accident_mechanism": "Bienenstich",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Anaphylaktischer Schock"
+    ],
+    "diagnostic_approach": [
+      "Notfalltherapie mit Dosierung"
+    ]
+  }
+]

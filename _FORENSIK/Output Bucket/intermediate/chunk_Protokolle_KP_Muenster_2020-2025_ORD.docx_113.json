@@ -1,0 +1,111 @@
+[
+  {
+    "title": "Bronchialkarzinom mit Hämoptysen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Hämoptysen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax mit Raumforderung in der rechten Lunge"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom",
+      "Herzinsuffizienz",
+      "exazerbierte COPD",
+      "Lungenarterienembolie",
+      "Anämie",
+      "Tuberkulose"
+    ],
+    "diagnostic_approach": [
+      "Staging",
+      "Klassifikation"
+    ]
+  },
+  {
+    "title": "Instabile Beckenfraktur nach Autounfall",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": "Autounfall",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild Beckenübersicht mit instabiler Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Instabile Beckenfraktur"
+    ],
+    "diagnostic_approach": [
+      "E-FAST Sonographie",
+      "Spiral-CT",
+      "Polytrauma-Schockraum-Management"
+    ]
+  },
+  {
+    "title": "Multiples Myelom mit Nierenversagen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Anämie",
+      "M-Gradient"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "M-Gradient",
+      "Gamma-Fraktion",
+      "Anämie",
+      "Hyperkalziämie"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom",
+      "Nierenversagen",
+      "chronisches Nierenversagen"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Multiples Myelom bei Frau Gabriele Weber",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Gewichtsverlust 8 kg in sechs Monaten",
+      "Müdigkeit und Fatigue seit 2 Monaten",
+      "Rückenschmerzen seit ein paar Monaten",
+      "nächtliche Schweißausbrüche",
+      "rezidivierende Erkältungen",
+      "Erschöpfung",
+      "starke Zahnfleischentzündung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "pathologische Nierenwerte",
+      "Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom",
+      "Osteoporose",
+      "Anämie"
+    ],
+    "diagnostic_approach": []
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "title": "Polymorbider 89-jähriger Patient mit Femurfraktur",
+    "patient_age": "89-jährig",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Femurfraktur"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Polymorbidität"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Femurfraktur"
+    ],
+    "diagnostic_approach": [
+      "Evaluation ob chirurgische oder konservative Behandlung",
+      "Abwägung der Komplikationen: Pneumonie, Dekubitus, Harnweginfektion bei konservativer Behandlung"
+    ]
+  },
+  {
+    "title": "Rechte intertrochantäre Femurhalsfraktur bei älterem Patienten",
+    "patient_age": "alt",
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Osteoporose",
+      "rheumatoide Arthritis"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenübersicht des Beckens",
+      "rechte intertrochantäre Femurhalsfraktur",
+      "Zeichen für Osteoporose",
+      "Zeichen für rheumatoide Arthritis"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Intertrochantäre Femurhalsfraktur rechts"
+    ],
+    "diagnostic_approach": [
+      "Röntgenübersicht Becken",
+      "Therapieoptionen besprochen"
+    ]
+  },
+  {
+    "title": "Hüftgelenksfraktur links - Verdachtsdiagnose",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Hüftbeschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rö-Beckenübersicht",
+      "Rö-Hüftgelenk links",
+      "spezielle Rö-Aufnahme für den Halsschenkel",
+      "kleine Frakturspalt sichtbar",
+      "Schenkelhalsfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hüftgelenksfraktur links",
+      "Femurfraktur",
+      "Arthrose"
+    ],
+    "diagnostic_approach": [
+      "Rö-Beckenübersicht",
+      "Rö-Hüftgelenk links",
+      "spezielle Rö-Aufnahme für Halsschenkel"
+    ]
+  },
+  {
+    "title": "Junge Patientin mit Schenkelhalsfraktur",
+    "patient_age": "jung",
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rö-Beckenübersicht",
+      "Schenkelhalsfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schenkelhalsfraktur"
+    ],
+    "diagnostic_approach": [
+      "Operative Versorgung notwendig wegen starker Durchblutung und Gefahr der Verletzung von A. femoralis",
+      "Dynamische Hüftschraube als Osteosynthese-Verfahren"
+    ]
+  },
+  {
+    "title": "Mediale Schenkelhalsfraktur links mit klinischen Zeichen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Beinlängedifferenz",
+      "Fehlstellung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Osteoporose"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Beinlängedifferenz",
+      "Außenrotation",
+      "Fehlstellung durch Zug der Muskulatur (M. Gluteus)"
+    ],
+    "imaging_findings": [
+      "Röntgen mit Osteoporose",
+      "mediale Schenkelhalsfraktur",
+      "Subkapsuläre Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Mediale Schenkelhalsfraktur links"
+    ],
+    "diagnostic_approach": [
+      "Rö Hüfte AP und axial",
+      "Klassifikation nach Pauwels und Garden",
+      "Beurteilung der Blutversorgung"
+    ]
+  },
+  {
+    "title": "Junger Sportler mit nächtlicher Femurkopffraktur um 1:00 Uhr",
+    "patient_age": "jung",
+    "patient_gender": "m",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Mediale Schenkelhalsfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Mediale Schenkelhalsfraktur"
+    ],
+    "diagnostic_approach": [
+      "Sofortige Operation notwendig",
+      "DHS (Dynamische Hüftschraube) zur Rettung des Femurkopfes",
+      "OA muss sofort gerufen werden"
+    ]
+  },
+  {
+    "title": "Kind mit diaphysärer Femurschaftfraktur links",
+    "patient_age": "Kind",
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rö-Oberschenkel links AP-Aufnahme",
+      "sichtbare Epiphysenfuge",
+      "Femurschaft-Fraktur mit Winkel 170 Grad"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Diaphysäre Femurschaftfraktur links"
+    ],
+    "diagnostic_approach": [
+      "Elastische Marknagelung"
+    ]
+  }
+]

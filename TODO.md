@@ -1,5 +1,14 @@
 # ✅ TODO List - MedExamAI
 
+> Aktualisierung: 2025-12-18 (Prioritäten)
+1) Höchste Priorität: 67 Problem-Items beheben (Batch-Review Run 20251216)
+   - Analyse, Korrektur (`batch_correct_with_reasoning.py --resume`), Web-Validierung (`batch_validate_with_perplexity.py --resume --retry-errors`), Finalisierung (`finalize_batch_review.py`)
+2) 79 "maybe"-Items revalidieren und dispositionieren
+3) Dokumentation aktualisieren (PROJECT_STATUS.md, TODO.md)
+4) Optional: Lern-Exports aktualisieren (`export_learning_materials.py --daily-plan`)
+5) Coverage-Check bestätigen (2.527/2.527)
+
+
 **Letzte Aktualisierung:** 2024-12-01
 **Priorität:** 🔴 Hoch | 🟡 Mittel | 🟢 Niedrig
 

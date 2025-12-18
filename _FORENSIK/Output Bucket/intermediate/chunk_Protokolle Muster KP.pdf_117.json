@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Sturz auf rechten Fuß und Hand auf dem Weg zur Arbeit",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Schmerzen am rechten Fuß (OSG)",
+      "Schmerzen an der rechten Hand",
+      "Funktionseinschränkung (functio laesa)",
+      "Bewegungseinschränkung"
+    ],
+    "accident_mechanism": "Sturz auf dem Weg zur Arbeit auf die rechte Seite beim Aussteigen aus dem Auto",
+    "pre_existing_conditions": [
+      "Rezidivierende Harnwegsinfekte (behandelt mit Fosfomycin Einmalgabe)",
+      "Hepatitis A (nach Urlaub in Thailand)",
+      "Raumforderung in der Leber",
+      "Allergisches Asthma als Kind"
+    ],
+    "medications": [
+      "Keine regelmäßige Medikation",
+      "Fosfomycin bei HWI"
+    ],
+    "allergies": [
+      "Pflasterallergie (manifestiert durch Urtikaria)"
+    ],
+    "physical_examination": [
+      "Lunge und Abdomen unauffällig",
+      "pDMS intakt",
+      "Functio laesa rechter Fuß und rechte Hand",
+      "Keine Übelkeit, kein Erbrechen, keine Amnesie, keine Dyspnoe"
+    ],
+    "imaging_findings": [
+      "Röntgen OSG ap: Sprunggelenkfraktur Weber B, bimalleolläre Fraktur",
+      "Röntgen Hand: Metakarpale 1 Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "OSG-Fraktur (Sprunggelenkfraktur Weber B, bimalleoläre Fraktur)",
+      "Handwurzelknochenfraktur",
+      "Metakarpale 1 Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Viggo legen",
+      "Labor",
+      "Röntgen OSG",
+      "Röntgen Hand",
+      "Kühlung, Hochlagerung, Ruhigstellung",
+      "Lokalanästhesie nach Oberst bei distalen Eingriffen"
+    ]
+  },
+  {
+    "title": "Verschlechterung postoperativ - Hypotension und Tachykardie",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Hypotension (RR 80 mmHg)",
+      "Tachykardie (Puls 150/min)",
+      "Allgemeinzustandsverschlechterung postoperativ"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Status nach OSG-Fraktur und Handfraktur",
+      "Rezidivierende HWI",
+      "Hepatitis A",
+      "Raumforderung in der Leber"
+    ],
+    "medications": [],
+    "allergies": [
+      "Pflasterallergie"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schock",
+      "Zweizeitige Milzruptur"
+    ],
+    "diagnostic_approach": [
+      "Schockindex berechnen",
+      "Ursachenabklärung",
+      "Ultraschall Abdomen"
+    ]
+  },
+  {
+    "title": "Rezidivierende Harnwegsinfekte mit Pyelonephritis",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Rezidivierende Harnwegsinfekte"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Rezidivierende HWI"
+    ],
+    "medications": [
+      "Fosfomycin (Einmaleinnahme)"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Nierensonographie: typische Veränderungen bei Pyelonephritis"
+    ],
+    "laboratory_findings": [
+      "Urinstreifentest: Befunde passend zu Pyelonephritis",
+      "Nitrit (nicht immer positiv)",
+      "Urinkultur"
+    ],
+    "suspected_diagnosis": [
+      "Komplizierte Pyelonephritis",
+      "Rezidivierende Harnwegsinfekte"
+    ],
+    "diagnostic_approach": [
+      "Urinstreifentest",
+      "Urinkultur",
+      "Nierensonographie",
+      "Antibiotikatherapie (1. Wahl, 2. Wahl)",
+      "Bei Schwangeren: spezielle Antibiose (keine Cephalosporine 1. Generation)"
+    ]
+  },
+  {
+    "title": "Echoarme Raumforderung in der Leber",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Raumforderung in der Leber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hepatitis A nach Thailandurlaub",
+      "Raumforderung in Leber"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Keine Schmerzen (Leberkapsel nicht betroffen)"
+    ],
+    "imaging_findings": [
+      "Sonographie Leber: Multiple echoarme Raumforderungen",
+      "Unregelmäßige Ränder",
+      "Flüssigkeitsansammlung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Maligne Lebertumoren (DD)",
+      "Lebermetastasen"
+    ],
+    "diagnostic_approach": [
+      "Lebersonographie",
+      "Weitere Bildgebung"
+    ]
+  },
+  {
+    "title": "Thoraxschmerzen mit EKG-Veränderungen",
+    "patient_age": "alter Mann",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Thorakale Schmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax: V.a. Metastasen, Bronchialkarzinom, DD Atelektase mit poststenotischer Pneumonie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perikarditis",
+      "Myokarditis",
+      "STEMI (Vorderwandinfarkt)",
+      "Bronchialkarzinom mit Metastasen",
+      "Atelektase mit poststenotischer Pneumonie"
+    ],
+    "diagnostic_approach": [
+      "EKG (ST-Strecken-Veränderungen in allen Ableitungen)",
+      "Röntgen Thorax",
+      "CT Thorax",
+      "Bronchoskopie"
+    ]
+  }
+]

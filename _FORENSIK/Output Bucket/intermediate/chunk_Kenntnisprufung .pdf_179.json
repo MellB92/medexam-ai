@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Humeruskopffraktur nach Sturz vom Garagendach",
+    "patient_age": "61-jähriger",
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "Oberarmschmerzen links",
+      "schmerzbedingte Bewegungseinschränkung"
+    ],
+    "accident_mechanism": "Ausgerutscht beim Helfen der Nachbarin Baumäste zu schneiden, Sturz auf die linke Schulter von einem Garagendach (2.30 m Höhe)",
+    "pre_existing_conditions": [
+      "Zustand nach Cholezystektomie vor 20 Jahren"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Gärtner von Beruf"
+    ],
+    "medications": [],
+    "allergies": [
+      "Antibiotika (nicht spezifiziert welche)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "DMS-Prüfung verletzter Arm",
+      "Sensibilität dorsaler Oberarm geprüft",
+      "RR gemessen",
+      "Puls gemessen",
+      "Lungen auskultiert",
+      "Herz auskultiert",
+      "Abdomen untersucht"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Humeruskopffraktur",
+      "Humerusschaftfraktur",
+      "Schultergelenkluxation"
+    ],
+    "diagnostic_approach": [
+      "Körperliche Untersuchung",
+      "DMS-Prüfung des verletzten Arms",
+      "Vitalzeichenkontrolle"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

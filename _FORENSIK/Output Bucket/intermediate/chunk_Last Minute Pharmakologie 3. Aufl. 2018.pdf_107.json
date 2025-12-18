@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 108/115) aus \"Last Minute Pharmakologie, 3. Aufl. (2018).pdf\" enthält **keine klinischen Patientenfälle**.\n\nEs handelt sich um ein **pharmakologisches Register/Index**, das alphabetisch sortierte Medikamentennamen mit ihren Wirkstoffklassen und Indikationen auflistet (z.B. \"Chloroquin – rheumatoide Arthritis, 117\", \"Cimetidin – H₂-Rezeptorantagonist, 79\", etc.).\n\nDies ist reines Nachschlage-/Indexmaterial ohne:\n- Patientenpräsentationen\n- Anamnesen\n- Klinische Verläufe\n- Untersuchungsbefunde\n- Diagnostische oder therapeutische Prozesse\n\nDaher: **Leeres Array** `[]`"
+  }
+]

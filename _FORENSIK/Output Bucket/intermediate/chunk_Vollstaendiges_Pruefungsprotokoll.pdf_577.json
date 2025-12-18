@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle** mit spezifischen Patientenszenarien. \n\nDer Text besteht aus:\n\n1. **Prüfungsfragen mit theoretischem Wissen** (z.B. \"Welche Impfungen für Afrika?\", \"Was verstehen Sie unter Nephrotischem Syndrom?\")\n\n2. **Allgemeinen medizinischen Definitionen und Fakten** (z.B. Impfempfehlungen, Klassifikationen der pAVK, Erklärungen zum Raynaud-Syndrom)\n\n3. **Fragmentarischen Erwähnungen** von Situationen ohne vollständige Falldarstellung (z.B. \"Patient mit Aszites und multiplen Metastasen\", \"70-jähriger Patient\" bei Kreuzbandruptur)\n\n4. **Prüfungsprotokoll-Auszügen** mit Frage-Antwort-Strukturen zu verschiedenen medizinischen Themen\n\nEs gibt keine zusammenhängenden Fallpräsentationen mit Anamnese, Befunden und diagnostischem/therapeutischem Vorgehen, die als vollständige klinische Fälle extrahiert werden könnten."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDer vorliegende Textabschnitt (Chunk 21/115) besteht ausschließlich aus nicht lesbarem, verschlüsseltem oder korrupt encodiertem Text. Es handelt sich um eine Aneinanderreihung von Zeichen ohne erkennbare medizinische Inhalte, Patientenfälle oder klinische Informationen.\n\nDer Text erscheint als Base64-ähnliche Zeichenkette oder beschädigter Binärcode und enthält keine interpretierbaren klinischen Fälle, Symptombeschreibungen, Diagnosen oder andere medizinisch relevante Informationen.\n\nDaher werden **keine klinischen Fälle** extrahiert."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 156/284) enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer Text besteht aus:\n\n1. **Frage 284 (implizit, nicht nummeriert im Ausschnitt):** Theoretische Informationen zu **ACE-Hemmern** (Pharmakologie):\n   - Indikationen\n   - Kontraindikationen\n   - Nebenwirkungen\n   - Dosierung (Beispiel Ramipril)\n   - Monitoring-Parameter\n\n2. **Frage 285:** Theoretische Informationen zu **NASH (Non-alcoholic steatohepatitis)**:\n   - Ursachen/Etiologie\n   - Risikofaktoren\n   - Pathogenese\n   - Prognose\n\nBeide Abschnitte sind **rein theoretisches medizinisches Wissen** ohne konkrete Patientenfälle, Fallbeispiele oder klinische Szenarien mit spezifischen Patienten."
+  }
+]

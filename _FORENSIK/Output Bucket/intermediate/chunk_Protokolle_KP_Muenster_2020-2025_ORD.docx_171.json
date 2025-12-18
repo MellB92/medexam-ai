@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Femurhalsfraktur nach Sturz bei 66-jähriger Patientin",
+    "patient_age": "66 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Starke Schmerzen im linken Bein",
+      "Fehlstellung des Beines in Außenrotation",
+      "Verkürzung des Beines",
+      "Schmerzen bei Bewegungsversuch im Hüftgelenk"
+    ],
+    "accident_mechanism": "Sturz auf der linken Seite am Morgen auf der Inneren Station (war dort zur Abklärung einer Herzrhythmusstörung)",
+    "pre_existing_conditions": [
+      "DM Typ II seit 8 Monaten",
+      "Z.n. TVT nach der Geburt vor ca. 33 Jahren",
+      "Z.n. Analfisteln",
+      "V.a. arterielle Hypertonie (einmal beim HA gemessen, sollte weiter abgeklärt werden)"
+    ],
+    "medications": [
+      "Metformin 1000 mg Tbl. 1-0-0-0"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Beinuntersuchung: DMS durchgeführt",
+      "Inspektion",
+      "Palpation",
+      "Bewegungs- und Funktionsuntersuchung",
+      "Neurologische Untersuchung",
+      "Lungenuntersuchung",
+      "Abdomenuntersuchung",
+      "Keine Hinweise auf Schädeltrauma",
+      "Keine Kopfschmerzen",
+      "Keine Übelkeit"
+    ],
+    "imaging_findings": [
+      "Röntgen: Schenkelhalsfraktur",
+      "Mediale Schenkelhalsfraktur bei Osteoporose",
+      "Subkapsuläre Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "V.a. Schenkelhalsfraktur",
+      "Femurhalsfraktur"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Körperliche Untersuchung mit DMS",
+      "Gezielte Beinuntersuchung",
+      "Röntgendiagnostik",
+      "Klassifikation nach Pauwels und Garten"
+    ]
+  },
+  {
+    "title": "Femurhalsfraktur nach Sturz durch Schlafmittel",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Femurhalsfraktur nach Sturz"
+    ],
+    "accident_mechanism": "Sturz als Folge der Einnahme vom Schlafmittel, andere mögliche Ursachen: HRST und TIA als Ursache einer möglichen Synkope",
+    "pre_existing_conditions": [
+      "Aufnahme in Innere wegen HRST (unklar)",
+      "OP-Narben auf beiden Knien (Z.n. beidseitige Knie-Operationen)",
+      "Familienanamnese: Bruder hat Bauchaortenaneurysma (wird beobachtet)",
+      "Familienanamnese: Tochter hat DM evtl. Typ II (kein Insulin)"
+    ],
+    "medications": [
+      "Schlafmittel"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Vitalzeichen",
+      "pDMS überprüft",
+      "Sichere Frakturzeichen",
+      "Lungen- und Herzuntersuchung in Rückenlage",
+      "Keine VHF oder andere permanente HRST feststellbar",
+      "OP-Narben auf beiden Knien",
+      "Beinlängendifferenz",
+      "Außenrotation"
+    ],
+    "imaging_findings": [
+      "Röntgen: Osteoporose sowie mediale Schenkelhalsfraktur",
+      "Subkapsuläre Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Femurhalsfraktur",
+      "Mediale Schenkelhalsfraktur"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Vitalzeichenkontrolle",
+      "Körperliche Untersuchung mit pDMS",
+      "Überprüfung auf sichere Frakturzeichen",
+      "Lungen- und Herzuntersuchung",
+      "Röntgendiagnostik",
+      "Klassifikation nach Pauwels und Garten",
+      "Einteilung Adduktion/Abduktion"
+    ]
+  }
+]

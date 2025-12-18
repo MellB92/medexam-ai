@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 5/50) aus einem pharmakologischen Lehrbuch enthält **keine klinischen Patientenfälle**. \n\nDer Text behandelt ausschließlich:\n\n1. **Pharmakologische Tabellen** zu Beta-Blockern (Propranolol, Carvedilol, Sotalol, Timolol) mit Angaben zu:\n   - Rezeptorspezifität\n   - Metabolisierung\n   - Halbwertszeit\n   - Lipophilie\n   - Speziellen Indikationen\n\n2. **Theoretische Wirkungen** von Beta-Blockern:\n   - Effekte an β1- und β2-Rezeptoren\n   - Auswirkungen auf verschiedene Organsysteme\n\n3. **Nebenwirkungen** von Beta-Blockern (systematisch nach β1- und β2-Hemmung)\n\n4. **Indikationen und Kontraindikationen** (als Listen therapeutischer Anwendungsbereiche)\n\n5. **Dosierungsempfehlungen** (allgemeine Hinweise zum Ein- und Ausschleichen)\n\n6. **Calciumantagonisten** (Übersichtstabelle, Wirkungen, Nebenwirkungen, Indikationen, Kontraindikationen)\n\n7. **Diuretika** (kurze Einleitung zum Abstract)\n\nEs handelt sich um **reines pharmakologisches Lehrbuchwissen** ohne narrative Patientenkasuistiken, Fallpräsentationen oder konkrete klinische Szenarien mit individuellen Patienten."
+  }
+]

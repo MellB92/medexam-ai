@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Polytrauma nach Fahrradunfall mit Thoraxtrauma, SHT und Radiusfraktur",
+    "patient_age": "62-jährige",
+    "patient_gender": "Frau",
+    "severity": "severe",
+    "chief_complaints": [
+      "Fahrradunfall",
+      "Rechter Thoraxschmerz",
+      "Rechte Handverletzung",
+      "Rechter Oberbauchschmerz"
+    ],
+    "accident_mechanism": "Fahrradunfall, Fall auf rechte ausgestreckte Hand, Aufprall rechter Thorax und Abdomen",
+    "pre_existing_conditions": [
+      "Omarthrose beidseits",
+      "HRST seit einem Jahr"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter 92J Anämie - in Krankenhaus zur weiteren Abklärung",
+      "Vater an Sepsis verstorben",
+      "Bruder mit Leukämie",
+      "Schwester mit Thyroid-Karzinom"
+    ],
+    "social_history": [
+      "Keine Noxen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Neurologisch orientiert",
+      "oPB (ohne pathologischen Befund) initial"
+    ],
+    "physical_examination": [
+      "PDMs, Bewegung, Habitus untersucht",
+      "Rechte Hand untersucht",
+      "Palpation und Auskultation der Lungen und Herz",
+      "Kopf-Check mit Pupillenreflex, Sensibilität, Meningealzeichen",
+      "Rechter Oberbauch schmerzhaft (frühe Zeichen akutes Abdomen)",
+      "Ulnar-, Radial- und Mediannerven in der Hand überprüft"
+    ],
+    "imaging_findings": [
+      "Hemithorax Röntgen: mehrere Rippenfrakturen bzw. Flail Chest (Rippenserienfraktur)",
+      "Lat CT HWS sagittal: C2 Dens-Fraktur (klassifiziert nach Alonso)",
+      "Rechte Hand Röntgen: distale Radiusfraktur, ventral disloziert, Gelenk beteiligt",
+      "FAST-Sonographie mit Bar code/Sea shore sign auf M-Modus"
+    ],
+    "laboratory_findings": [
+      "BGA durchgeführt"
+    ],
+    "suspected_diagnosis": [
+      "Pneumothorax/Hämothorax",
+      "Rippenserienfraktur/Flail Chest",
+      "SHT (? ICH, EDH, SDH)",
+      "Distale Radiusfraktur geschlossen (am ehesten Colles-Fraktur)",
+      "C2 Dens-Fraktur",
+      "Frühzeichen akutes Abdomen"
+    ],
+    "diagnostic_approach": [
+      "FAST-Sonographie",
+      "EKG (wegen HRST)",
+      "BGA",
+      "Röntgen Hand, Thorax, Abdomen",
+      "Spirale CT",
+      "HWS CT lateral/sagittal",
+      "ATLS-Protokoll"
+    ],
+    "treatment_response": [
+      "Patient nach starken Schmerzmitteln schmerzfrei"
+    ],
+    "complications": [
+      "Instabile Patientin bei Pneumothorax",
+      "Frühzeichen akutes Abdomen"
+    ],
+    "follow_up": [
+      "ORIF-Therapie mit winkelstabiler Plattenosteosynthese für distale Radiusfraktur",
+      "Drainage bei Pneumothorax",
+      "Osteosynthese für Dens-Fraktur (ventral und dorsal access)"
+    ]
+  }
+]

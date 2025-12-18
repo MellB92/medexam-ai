@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Schulterluxation/Humerusfraktur nach Sturz bei Gartenarbeit",
+    "patient_age": "38",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Akute Schulterschmerzen links",
+      "Sturz aus 2 Metern Höhe"
+    ],
+    "accident_mechanism": "Sturz aus 2 Metern Höhe auf die linke Schulter bei Gartenarbeiten, Gleichgewichtsverlust",
+    "pre_existing_conditions": [
+      "Keine relevanten Vorerkrankungen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Vitalparameter in Ordnung",
+      "Schürfwunde unter Pflaster",
+      "Keine aktive Blutung",
+      "Keine offene Fraktur",
+      "Pulse der Arteria radialis beidseitig tastbar",
+      "Sensibilität beidseitig gleich",
+      "Druckschmerz im Bereich der Schulter",
+      "Motorik im Handgelenk und Ellenbogen intakt",
+      "Schultergelenk sehr schmerzhaft und nicht mobil",
+      "Arteria dorsalis pedis tastbar"
+    ],
+    "imaging_findings": [
+      "Schulter AP-Aufnahme",
+      "Skapula Y-Aufnahme",
+      "Subkapitale Humerusfraktur",
+      "Tuberculum majus Ausrissfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schulterluxation",
+      "Humerusfraktur",
+      "Skapulafraktur"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Körperliche Untersuchung (Inspektion, Palpation, Funktionstest)",
+      "Röntgen Schulter AP",
+      "Röntgen Skapula Y-Aufnahme",
+      "Nachholende Untersuchung auf Karpaltunnelsyndrom auf Station"
+    ]
+  },
+  {
+    "title": "Humeruskopffraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Humeruskopffraktur"
+    ],
+    "diagnostic_approach": []
+  }
+]

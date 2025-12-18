@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 16/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle**.\n\nDer Text behandelt ausschließlich:\n- **Theoretische Grundlagen** zur Bestimmung des Lagetyps im EKG\n- **Definitionen** verschiedener Lagetypen (Linkstyp, Rechtstyp, Steiltyp, Indifferenztyp, etc.)\n- **Diagnostische Algorithmen** (Flussdiagramme zur Lagetyp-Bestimmung)\n- **Allgemeine klinische Bedeutung** verschiedener Lagetypen bei unterschiedlichen Altersgruppen\n- **Abbildungen** mit schematischen Darstellungen\n\nEs werden **keine konkreten Patienten** mit spezifischen Beschwerden, Befunden oder diagnostischen Abläufen beschrieben. Die Erwähnungen von pathologischen Zuständen (z.B. \"Hinterwandinfarkt\", \"Lungenembolie\", \"linksanteriorer Hemiblock\") erfolgen rein im Kontext der theoretischen Erklärung, wann bestimmte Lagetypen auftreten können."
+  }
+]

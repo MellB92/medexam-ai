@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 11/155) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text behandelt:\n\n1. **Lungenembolie** - Diagnostik und Therapie (theoretische Darstellung):\n   - Diagnostische Scores und Parameter\n   - EKG-Befunde\n   - Labordiagnostik (D-Dimere, Troponin, BNP)\n   - Bildgebende Verfahren\n   - Diagnostisches Vorgehen (Algorithmen)\n   - Therapieoptionen\n\n2. **Herzinsuffizienz** - Ätiologie und Klassifikation (theoretische Darstellung):\n   - Ätiologische Faktoren\n   - Klassifikationssysteme (HFrEF, HFmrEF, HFpEF)\n   - Allgemeine Symptomatik\n\nEs handelt sich um **Lehrbuchmaterial** mit allgemeinen diagnostischen und therapeutischen Informationen, jedoch ohne konkrete Patientenfälle mit individuellen Angaben zu Alter, Geschlecht, spezifischer Anamnese oder konkreter Falldarstellung."
+  }
+]

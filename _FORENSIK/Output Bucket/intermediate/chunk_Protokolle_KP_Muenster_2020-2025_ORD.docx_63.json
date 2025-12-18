@@ -1,0 +1,48 @@
+[
+  {
+    "title": "pAVK Stadium IIb - Schmerzen im rechten Unterschenkel",
+    "patient_age": "59 Jahre",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Schmerzen im Unterschenkel rechts",
+      "Gehstrecke schmerzfrei ca. 300 m, danach Pause erforderlich"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie (unter Lisinopril 20/12,5 mg)",
+      "Hyperlipidämie (unter Atorvastatin 30 mg)",
+      "Obstipation",
+      "Unterschenkelfraktur vor 20 Jahren (operativ mit Platte versorgt)",
+      "Bandscheibenvorfall LWK4/5 vor 10 Jahren (operiert, aktuell beschwerdefrei)"
+    ],
+    "medications": [
+      "Lisinopril 20/12,5 mg 1-0-0",
+      "Atorvastatin 30 mg 0-0-1",
+      "Ibuprofen 600 mg bei Bedarf",
+      "Dulcolax Tropfen bei Bedarf wegen Obstipation"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "RR und Puls gemessen",
+      "Pulsstatus des ganzen Körpers erhoben",
+      "TVT-Zeichen geprüft: Meyer, Payr, Homan negativ",
+      "Kein Ödem, keine Rötung",
+      "Sensibilität der unteren Extremitäten geprüft",
+      "Aktive Dorsalextension und Plantarextension der Füße geprüft",
+      "ASR, PSR geprüft"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "pAVK (periphere arterielle Verschlusskrankheit)",
+      "Initial DD: TVT (Thrombose nach Langstreckenflug und Bettlägerigkeit)"
+    ],
+    "diagnostic_approach": [
+      "Anamnese mit Fokus auf Gehstrecke und Schmerzcharakter",
+      "Pulsstatus",
+      "Knöchel-Arm-Index (ABI)",
+      "Duplex-Sonographie",
+      "CT mit Kontrastmittel"
+    ]
+  }
+]

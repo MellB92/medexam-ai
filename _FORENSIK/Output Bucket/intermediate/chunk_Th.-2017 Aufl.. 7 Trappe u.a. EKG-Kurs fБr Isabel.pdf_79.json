@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 80/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält ausschließlich theoretisches Lehrmaterial zu:\n\n- **Lektion 34**: Befundung des Elektrokardiogramms bei Rhythmusstörungen - Tipps und Tricks zur richtigen Diagnose\n- **Lektion 35**: Richtige technische EKG-Auswertung\n\nDer Text behandelt:\n- Differenzierung von Tachykardien (schmale vs. breite QRS-Komplexe)\n- Analyse von P-Wellen und deren Relation zu QRS-Komplexen\n- Unterscheidung zwischen ventrikulären und supraventrikulären Tachykardien\n- Technische Aspekte der EKG-Registrierung\n- Diagnostische Kriterien (RP/PR-Intervalle, AV-Dissoziation, etc.)\n\nEs werden **keine konkreten Patientenfälle** präsentiert, sondern lediglich diagnostische Algorithmen, EKG-Interpretationskriterien und technische Anweisungen zur korrekten EKG-Durchführung vermittelt."
+  }
+]

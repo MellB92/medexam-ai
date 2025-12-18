@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Patient mit Adipositas, Diabetes mellitus Typ 2 und diabetischer Nephropathie unter SGLT2-Hemmer und ACE-Hemmer",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Adipositas",
+      "Diabetes mellitus Typ 2",
+      "diabetische Nephropathie"
+    ],
+    "medications": [
+      "SGLT2-Hemmer",
+      "ACE-Hemmer"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Adipositas",
+      "Diabetes mellitus Typ 2",
+      "diabetische Nephropathie"
+    ],
+    "diagnostic_approach": [
+      "Überlegung bezüglich GLP-1-Analoga-Therapie"
+    ]
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Zentrales Lungenkarzinom mit Hämoptysen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Hämoptysen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rö-Thorax p.a. und seitlich: zentrales Lungenkarzinom",
+      "Verschattung im Bereich Herz und Aortenbogen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenkarzinom (SCLC vs. NSCLC)"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax p.a. und seitlich",
+      "CT mit Kontrastmittel zur Diagnosesicherung"
+    ]
+  },
+  {
+    "title": "Perikarditis mit ST-Hebung im EKG",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Schmerzen",
+      "Reibungsgeräusch"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Reibungsgeräusch"
+    ],
+    "imaging_findings": [
+      "EKG mit nicht-ischämischer ST-Hebung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perikarditis",
+      "Perimyokarditis - viral, urämisch oder tumorbedingt"
+    ],
+    "diagnostic_approach": [
+      "EKG"
+    ]
+  },
+  {
+    "title": "Akuter Gichtanfall",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Arthritis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hyperurikämie"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Arthritis urica"
+    ],
+    "imaging_findings": [
+      "Bild von Gichtanfall"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Arthritis urica",
+      "Gichtanfall"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Gallenblasenempyem postoperativ mit Sepsis",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Bauchschmerzen postoperativ",
+      "Schnelle Atmung",
+      "RR unter 100"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Gallensteine",
+      "Zustand nach Cholezystektomie"
+    ],
+    "medications": [
+      "Cefazolin (perioperativ)"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Tachypnoe",
+      "RR < 100 mmHg",
+      "QuickSOFA positiv"
+    ],
+    "imaging_findings": [
+      "US: Gallenblase mit Steinen",
+      "US: Gallenblasenempyem"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Galleleckage",
+      "Peritonitis",
+      "Sepsis"
+    ],
+    "diagnostic_approach": [
+      "Ultraschall"
+    ]
+  },
+  {
+    "title": "Morbus Bechterew mit Kolitis",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Morbus Bechterew"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Becken-Übersicht: Iliosakralgelenk-Veränderungen",
+      "Koloskopie: Kolon mit gelblichen Beulen (Kolitis)",
+      "CT: Colon ascendens Kolitis"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Morbus Bechterew",
+      "Kolitis assoziiert mit Bechterew"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Becken",
+      "Koloskopie",
+      "CT"
+    ]
+  },
+  {
+    "title": "Rippenfrakturen nach Trauma",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax: 2 Rippenfrakturen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rippenfrakturen"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax"
+    ]
+  },
+  {
+    "title": "Apoplex mit verwaschener Sprache",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Verwaschene Sprache"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Verwaschene Sprache"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Apoplex (hämorrhagisch vs. ischämisch)"
+    ],
+    "diagnostic_approach": [
+      "CT zum Ausschluss hämorrhagischer Apoplex",
+      "Lysetherapie oder Reperfusion bei ischämischem Apoplex",
+      "Neurochirurgische Konsultation bei hämorrhagischem Apoplex"
+    ]
+  },
+  {
+    "title": "Erythema migrans - Borreliose",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Erythema migrans"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Erythema migrans"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Borreliose",
+      "Insektenstich"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Beinfraktur in der Schule (Kind 10 Jahre)",
+    "patient_age": "10 Jahre",
+    "patient_gender": null,
+    "chief_complaints": [
+      "Beinfraktur"
+    ],
+    "accident_mechanism": "Fraktur in der Schule",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Bild Knie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Beinfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen"
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Bronchialkarzinom mit Hämoptysen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Hämoptysen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Bruder verstorben an plötzlichem Herztod durch Myokarditis"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax: Raumforderung in der rechten Lunge"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom",
+      "Herzinsuffizienz",
+      "exazerbierte COPD",
+      "Lungenarterienembolie",
+      "Anämie",
+      "Tuberkulose"
+    ],
+    "diagnostic_approach": [
+      "Klassifikation",
+      "Staging"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Instabile Beckenfraktur nach Autounfall (Polytrauma)",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": "Autounfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild Beckenübersicht: instabile Beckenfraktur mit sichtbaren Frakturlinien"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Instabile Beckenfraktur",
+      "Polytrauma"
+    ],
+    "diagnostic_approach": [
+      "E-FAST Sonographie",
+      "Spiral-CT",
+      "Schockraum-Management nach Polytrauma-Schema",
+      "AO-Klassifikation"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "30% Behinderung nach dem Unfall"
+    ],
+    "follow_up": []
+  }
+]

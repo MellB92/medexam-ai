@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Motorradunfall mit Sprunggelenkschmerzen rechts",
+    "patient_age": "junger Mann",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "heftige Schmerzen im Sprunggelenk rechts"
+    ],
+    "accident_mechanism": "Motorradunfall um 23:00 Uhr",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Inspektion: Schwellung, Hämatom, Deformierung zu prüfen",
+      "Palpation: Druckschmerz, Krepitationen zu prüfen",
+      "Bewegungsprüfung: Aktive und passive Beweglichkeit",
+      "pDMS: Periphere Durchblutung, motorische und sensible Funktion",
+      "Pulsstatus: A. dorsalis pedis, A. tibialis posterior",
+      "Sensibilität im Seitenvergleich"
+    ],
+    "imaging_findings": [
+      "AP-Aufnahme: Frakturlinie der distalen Fibula oberhalb der Syndesmose",
+      "AP-Aufnahme: Fraktur im Innenknöchelbereich (bimalleoläre Fraktur)",
+      "Seitliche Aufnahme: Frakturlinie an der hinteren Kante der Tibia (Volkmann-Dreieck)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Weber C Fraktur",
+      "Bimalleoläre Fraktur",
+      "Instabile Fraktur mit Risiko für Nerven- und Gefäßverletzung"
+    ],
+    "diagnostic_approach": [
+      "ABCDE-Schema (Airway, Breathing, Circulation, Disability, Exposure)",
+      "Notfallanamnese: Unfallhergang, Begleitverletzungen, Vorerkrankungen, Medikamente",
+      "Vitalparameterkontrolle: Blutdruck, Herzfrequenz, Sauerstoffsättigung",
+      "Körperliche Untersuchung: Inspektion, Palpation, Bewegungsprüfung, pDMS",
+      "Röntgenaufnahme des Sprunggelenks (AP und seitlich)",
+      "Sofortige operative Versorgung: Plattenosteosynthese der Fibula, Schraubenosteosynthese des Malleolus medialis, Stellschraube zur Stabilisierung von Tibia und Fibula und Heilung der Syndesmose"
+    ]
+  }
+]

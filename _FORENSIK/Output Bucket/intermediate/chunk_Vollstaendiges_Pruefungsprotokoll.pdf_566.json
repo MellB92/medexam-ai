@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 567/585) enthält **keine vollständigen klinischen Patientenfälle oder Präsentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen und -antworten** zu verschiedenen medizinischen Themen:\n   - Sick-Sinus-Syndrom (Diagnostik, Therapie)\n   - Pneumokoniosen (Silikose vs. Asbestose)\n   - Propofol (Pharmakologie)\n   - Red Flags bei Rückenschmerzen\n   - Sozialgesetzbücher\n   - Dialyse-Shunts\n   - Metformin (Wirkmechanismus, Kontraindikationen)\n   - Strahlenschutz\n   - Patientenrechte\n   - Harnwegsinfekte\n   - Morbus Basedow\n   - Herzfehler (ASD, VSD)\n   - Schilddrüsen-OP Komplikationen\n\n2. **Einzelne Bildbesprechungen** ohne Patientenkontext:\n   - Röntgenbild: Sinterungsfraktur Th12 (nur als Beispiel für Red Flags erwähnt)\n   - Herzfehler auf Bild (ASD/VSD) - keine Patienteninformation\n\nEs gibt **keine narrativen Patientenfälle** mit Anamnese, Untersuchungsbefunden, Verlauf oder diagnostischem/therapeutischem Management eines individuellen Patienten."
+  }
+]

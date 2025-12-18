@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 74/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer Text behandelt ausschließlich:\n- Theoretische Beschreibungen von EKG-Besonderheiten bei Kindern und Jugendlichen\n- Normwerte für verschiedene Altersgruppen (QRS-Komplex-Dauer, ST-Strecke, T-Wellen)\n- Allgemeine Informationen zu AV-Blocks, Schenkelblöcken und QT-Zeit-Verlängerungen\n- Krankheitsbilder werden nur als abstrakte Beispiele genannt (z.B. \"Fallot-Tetralogie\", \"Romano-Ward-Syndrom\"), nicht als konkrete Patientenfälle\n\nEs gibt keine individuellen Patienten mit spezifischen:\n- Anamnesen\n- Beschwerden\n- Untersuchungsbefunden\n- Diagnostischen oder therapeutischen Verläufen\n\nDies ist rein didaktisches Lehrmaterial ohne Fallbeispiele."
+  }
+]

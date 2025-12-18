@@ -1,0 +1,135 @@
+[
+  {
+    "title": "pAVK mit multiplen Komorbiditäten",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Beschwerden passend zu pAVK",
+      "Husten",
+      "Fieber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "pAVK"
+    ],
+    "comorbidities": [
+      "Parotitis",
+      "Psoriasis mit Arthritis Psoriatica"
+    ],
+    "risk_factors": [
+      "Risikofaktoren von pAVK"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Lisinopril kombi (wahrscheinlich mit HCT)",
+      "Methotrexat"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "vital_signs": [
+      "HF 50/min (Gerät)",
+      "Puls 40/min (gezählt)",
+      "Pulsdefizit"
+    ],
+    "physical_examination": [
+      "Hand mit Schuppenfläche",
+      "kleiner Finger in DIP deformiert",
+      "keine Schmerzen an Gelenken",
+      "Schuppenfläche am Ellenbogen"
+    ],
+    "imaging_findings": [
+      "Röntgen Thorax p.a.: Infiltrat",
+      "CT Bauch axial: Magen mit Kontrastmittel Barium"
+    ],
+    "laboratory_findings": [
+      "Thrombozytenkontrolle bei Heparingabe"
+    ],
+    "suspected_diagnosis": [
+      "pAVK",
+      "TVT",
+      "periphere Neuralgie",
+      "Parotitis durch Staphylococcus",
+      "Pneumonie vs. TBC mit Kaverne",
+      "Psoriasis mit Arthritis Psoriatica"
+    ],
+    "diagnostic_approach": [
+      "klinische pAVK Diagnostik",
+      "Anamnese mit Fontaine-Stadien",
+      "ABI-Messung",
+      "Diagnostik TBC",
+      "Sputumuntersuchung",
+      "Isolation des Patienten"
+    ],
+    "treatment_response": [
+      "Hustet (möglicherweise NW von ACE-Hemmer)"
+    ],
+    "complications": [
+      "ventrikuläre Extrasystole Bigeminus im EKG",
+      "Pulsdefizit",
+      "Parotitis"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Distale Tibia- und Fibulafraktur nach Trauma",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Unterschenkelfraktur"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "NMH s.c. in prophylaktischer Dosis (Thromboseprophylaxe)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "klinische Zeichen von Frakturen",
+      "pDMS Kontrolle postoperativ"
+    ],
+    "imaging_findings": [
+      "distale Tibia Schaftfraktur (Keilfraktur)",
+      "proximale und distale Fibulafraktur"
+    ],
+    "laboratory_findings": [
+      "PTT-Kontrolle",
+      "Thrombozytenzahl-Kontrolle"
+    ],
+    "suspected_diagnosis": [
+      "distale Tibia Schaftfraktur (Keilfraktur)",
+      "proximale und distale Fibulafraktur"
+    ],
+    "diagnostic_approach": [
+      "Bildgebung Unterschenkel"
+    ],
+    "treatment_response": [
+      "postoperativ: genähte Wunde dorsal am Unterschenkel, primäre Naht reizlos",
+      "später: Rötung und Schwellung, kleines Hämatom an Wunde mit Drainage"
+    ],
+    "complications": [
+      "Kompartmentsyndrom (gefährliche Komplikation)",
+      "N. peroneus Läsion",
+      "TVT",
+      "Ödem postoperativ",
+      "Wundheilungsstörung mit Rötung und Schwellung"
+    ],
+    "follow_up": [
+      "operative Therapie mit Platten und Schrauben aus Titan plus Marknagelung",
+      "aktive Drainage",
+      "Redondrainage",
+      "Hochlagerung, Kühlung, Lymphdrainage Massage gegen Ödem",
+      "Thromboseprophylaxe mit NMH",
+      "pDMS Kontrolle"
+    ]
+  }
+]

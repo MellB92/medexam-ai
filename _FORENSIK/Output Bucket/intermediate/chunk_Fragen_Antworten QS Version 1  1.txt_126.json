@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 127/284) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Zusammenfassenden Bewertungen** von Fragen 223-230 (erste Hälfte des Chunks)\n2. **Theoretischen Fragen mit Antworten** zu:\n   - FRAGE 211: Typen von Herzklappen (anatomische Klassifikation, Prothesen)\n   - FRAGE 212: Unterscheidung Hämothorax vs. Pneumothorax (Untersuchungstechnik)\n   - FRAGE 213: Definition offene Fraktur (Gustilo-Klassifikation)\n\nAlle drei Fragen sind **rein theoretisch-didaktischer Natur** und beschreiben:\n- Klassifikationssysteme\n- Untersuchungstechniken\n- Definitionen und therapeutische Prinzipien\n\nEs werden **keine konkreten Patienten** mit individuellen Charakteristika (Alter, Geschlecht, Beschwerden, Untersuchungsbefunde etc.) präsentiert, sondern allgemeines medizinisches Fachwissen für Prüfungszwecke vermittelt."
+  }
+]

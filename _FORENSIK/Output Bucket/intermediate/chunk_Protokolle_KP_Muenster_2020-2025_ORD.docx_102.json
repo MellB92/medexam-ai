@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Asthma bronchiale mit Belastungsdyspnoe",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Seit 3 Monaten Belastungsdyspnoe",
+      "Training Abbruch im Fitness Studio",
+      "Husten mit klarem Auswurf",
+      "Ab und zu saures Aufstoßen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Pollenallergie",
+      "Laktoseintoleranz",
+      "Schulterluxation nach Sturz",
+      "Paronychie"
+    ],
+    "medications": [
+      "Antihistaminika (Cetirizin bei Bedarf)"
+    ],
+    "allergies": [
+      "Pollenallergie",
+      "Laktoseintoleranz"
+    ],
+    "physical_examination": [
+      "Körperliche Untersuchung ohne Besonderheiten",
+      "Schulter mit Schmerzen untersucht"
+    ],
+    "imaging_findings": [
+      "Spirometrie durchgeführt",
+      "EKG mit Perimyokarditis",
+      "Bild einer Refluxösophagitis",
+      "Bild einer vorderen Schulterluxation mit Hill-Sachs-Delle",
+      "Bild von medialer Klavikulafraktur",
+      "Bild eines Pneumoperitoneum (p.a. Thorax-Aufnahme)"
+    ],
+    "laboratory_findings": [
+      "Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Asthma bronchiale",
+      "Refluxösophagitis",
+      "Perimyokarditis",
+      "Vordere Schulterluxation mit Hill-Sachs-Delle",
+      "Paronychie",
+      "Mediale Klavikulafraktur"
+    ],
+    "diagnostic_approach": [
+      "Lungenfunktionsprüfung (Spirometrie)",
+      "Metacholintest bei nicht-obstruktiver Situation",
+      "EKG",
+      "Bildgebung Thorax",
+      "Schulteruntersuchung"
+    ]
+  }
+]

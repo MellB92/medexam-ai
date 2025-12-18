@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Hämopneumothorax nach stumpfem Trauma",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "stumpfes Trauma"
+    ],
+    "accident_mechanism": "stumpfes Trauma",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax: Luft (Pneumothorax) und Blut (Hämothorax) im Pleuraspalt",
+      "Verdrängung der Lunge",
+      "kollabierte Lunge an der medialen Seite des Thorax",
+      "wahrscheinlich Rippenfraktur (nicht sichtbar auf dem Bild)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hämopneumothorax",
+      "Rippenfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax",
+      "Thoraxdrainage (Monaldi-Drainage im 2. ICR medioklavikulär oder Bülau-Drainage im 4./5. ICR)"
+    ]
+  },
+  {
+    "title": "Symptomfreie Cholelithiasis mit Gallenstein",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sono linkes Bild: Gallenblase mit Gallenstein und dorsalem Schallschatten",
+      "Sono rechtes Bild: Cholelithiasis mit Sludge, ohne dorsalen Schallschatten"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Cholelithiasis"
+    ],
+    "diagnostic_approach": [
+      "Sonographie",
+      "bei symptomatischer Cholelithiasis: elektive laparoskopische Cholezystektomie"
+    ]
+  },
+  {
+    "title": "Instabiler Patient nach Verkehrsunfall im Schockraum",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "instabiler Zustand nach Verkehrsunfall"
+    ],
+    "accident_mechanism": "Verkehrsunfall",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "ABCDE-Schema angewendet",
+      "Monitoring aller Vitalparameter"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma"
+    ],
+    "diagnostic_approach": [
+      "ABCDE-Schema",
+      "A (Airway): Sicherung der Atemwege",
+      "B (Breathing): Atmung",
+      "C (Circulation): Kreislauf",
+      "D (Disability): Neurologischer Status",
+      "E (Exposure): Entkleiden und Vermeidung von Hypothermie"
+    ]
+  },
+  {
+    "title": "Perikarderguss im Herzecho",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sono-Bild vom Herzen: Perikarderguss"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perikarderguss"
+    ],
+    "diagnostic_approach": [
+      "Echokardiographie",
+      "Perikardpunktion (z.B. nach Marfan)"
+    ]
+  },
+  {
+    "title": "Akute Verschlechterung auf Intensivstation mit Tachykardie und Tachypnoe",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "plötzliche Verschlechterung",
+      "Herzfrequenz 160/min",
+      "Atemfrequenz 40/min"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Herzfrequenz 160/min",
+      "Atemfrequenz 40/min"
+    ],
+    "imaging_findings": [
+      "Röntgen-Thorax: Beidseitige Lungeninfiltrate"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akute respiratorische Insuffizienz",
+      "Akutes Lungenödem",
+      "Pneumonie (z.B. COVID-19)"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax"
+    ]
+  }
+]

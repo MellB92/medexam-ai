@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Hyperthyreose mit typischer Symptomatik",
+    "patient_age": "40-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "typische Hyperthyreose-Symptome",
+      "Tremor",
+      "innere Unruhe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Zustand nach Hämorrhoidopexie vor 2 Jahren"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Schilddrüsenuntersuchung",
+      "Augenuntersuchung",
+      "gesteigerte Sehnenreflexe an Hand",
+      "gesteigerte Sehnenreflexe an Patella",
+      "Tremor"
+    ],
+    "imaging_findings": [
+      "CT-Abdomen bei Verdacht auf Ileus"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hyperthyreose"
+    ],
+    "diagnostic_approach": [
+      "gezielte körperliche Untersuchung",
+      "Schilddrüsenuntersuchung",
+      "Augenuntersuchung",
+      "Prüfung der Sehnenreflexe"
+    ]
+  }
+]

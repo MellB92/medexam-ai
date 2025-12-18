@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Makrozytäre hyperchrome Anämie bei Vitamin-B12-Mangel",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Anämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "atrophische Gastritis mit Antikörpern gegen Intrinsic Faktor"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Vegetarier",
+      "Alkoholabusus",
+      "Metformin Einnahme"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Alkoholabusus"
+    ],
+    "medications": [
+      "Metformin"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Glossitis",
+      "Lackzunge"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "kleines Blutbild: makrozytäre hyperchrome Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Vitamin-B12-Mangel-Anämie",
+      "Folsäure-Mangel"
+    ],
+    "diagnostic_approach": [
+      "kleines Blutbild",
+      "B12-Spiegel",
+      "Folsäure-Spiegel",
+      "Antikörper gegen Intrinsic Faktor"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

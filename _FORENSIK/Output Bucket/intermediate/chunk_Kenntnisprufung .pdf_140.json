@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Appendizitis bei 64-jährigem Mann (Herr Weber)",
+    "patient_age": "64 Jahre",
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "Kolikartige Schmerzen seit gestern Vormittag",
+      "Zunächst epigastrisch, dann im rechten Unterbauch lokalisiert",
+      "Übelkeit und Erbrechen",
+      "Subjektives Fieber (nicht gemessen)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Rheumatisches Fieber mit Glomerulonephritis",
+      "Mitralklappeninsuffizienz",
+      "Z.n. TVT",
+      "Z.n. Fahrradunfall",
+      "Allergisches Asthma in der Kindheit",
+      "Vitamin D Mangel"
+    ],
+    "comorbidities": [
+      "Belastungsabhängige Dyspnoe"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Alkohol- und Nikotinkonsum nicht erfragt"
+    ],
+    "medications": [
+      "Vitamin D einmal pro Woche"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck gemessen (Wert nicht dokumentiert)"
+    ],
+    "physical_examination": [
+      "Typische Appendizitiszeichen positiv",
+      "Viggo gelegt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Appendizitis (bestätigt als richtig)",
+      "DD: Akute mesenteriale Ischämie",
+      "DD: Pankreatitis",
+      "DD: Ileus"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Körperliche Untersuchung",
+      "Blutdruckmessung",
+      "Sonographie (geplant)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

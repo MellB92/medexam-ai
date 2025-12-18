@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Untersuchungstechniken** (McBurney-Punkt, Lanz-Punkt, Blumberg-Zeichen, digitale rektale Untersuchung, Leistenhernie-Untersuchung, etc.) - dies sind Lernkarten über Untersuchungsmethoden, keine Patientenfälle\n\n2. **Theoretische Krankheitsbeschreibungen** zur Hyperthyreose:\n   - Definition\n   - Ätiologie (Morbus Basedow, funktionelle Schilddrüsenautonomie, etc.)\n   - Klinik (allgemeine Symptome)\n   - Diagnostik (allgemeine Laborwerte, Bildgebung)\n   - Therapie (allgemeine Therapieansätze)\n   - Komplikationen (thyreotoxische Krise)\n\nEs handelt sich um **Lehrmaterial im Lernkartenformat** mit theoretischem Wissen über Untersuchungstechniken und Krankheitsbilder, aber **nicht um konkrete Patientenpräsentationen** mit individuellen Falldarstellungen.\n\nEin vollständiger klinischer Fall würde beispielsweise beginnen mit: \"Eine 45-jährige Frau stellt sich vor mit...\" und dann spezifische Symptome, Befunde und Verlauf eines konkreten Patienten beschreiben."
+  }
+]

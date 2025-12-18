@@ -1,0 +1,466 @@
+[
+  {
+    "title": "Hypothyreose mit Laborveränderungen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sono bei Hypothyreose"
+    ],
+    "laboratory_findings": [
+      "fT3",
+      "fT4",
+      "TSH",
+      "alle Antikörper",
+      "Thyreoglobulin"
+    ],
+    "suspected_diagnosis": [
+      "Hypothyreose",
+      "primäre/sekundäre/tertiäre Hypothyreose",
+      "latente/manifeste Hypothyreose"
+    ],
+    "diagnostic_approach": [
+      "Laborwerte: fT3, fT4, TSH, Antikörper, Thyreoglobulin",
+      "Sonographie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "RSB + LAH + WPW Syndrom im EKG",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: RSB + LAH (bifaszikulärer Block) + WPW Syndrom"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "WPW Syndrom",
+      "bifaszikulärer Block"
+    ],
+    "diagnostic_approach": [
+      "EKG"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Kammerflimmern/Kammerflattern",
+      "bei falscher Medikation: beschleunigte Überleitung und lebensbedrohliche Kammerflimmern"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Konkrement in Ductus hepaticus mit Cholestase",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "MRCP: V.a. Konkrement in Ductus hepaticus",
+      "Sono: V. portae >13 mm bei Stauungsleber"
+    ],
+    "laboratory_findings": [
+      "Cholestase Parameter",
+      "Bilirubin bei Ikterus"
+    ],
+    "suspected_diagnosis": [
+      "Konkrement in Ductus hepaticus",
+      "intra- und extrahepatische Cholestase",
+      "Ikterus",
+      "Stauungsleber"
+    ],
+    "diagnostic_approach": [
+      "MRCP",
+      "Sonographie",
+      "Cholestase Parameter",
+      "Bilirubinwerte"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Stauungsleber"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Schultergelenkluxation mit multifragmentärer proximaler Humerusfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen: multifragmentäre proximale Humerusfraktur",
+      "Schultergelenkluxation"
+    ],
+    "suspected_diagnosis": [
+      "Schultergelenkluxation",
+      "multifragmentäre proximale Humerusfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Akute Appendizitis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "alle Zeichen der akuten Appendizitis"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akute Appendizitis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Komplikationen von chronischer Appendizitis"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Pleuraerguss rechts im Röntgen Thorax",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax technisch inkorrekt",
+      "Pleuraerguss rechts"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pleuraerguss rechts",
+      "Differentialdiagnosen"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Thorax"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Schädel-Hirn-Trauma mit Fraktur und Hirnödem",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CCT: Fraktur",
+      "Kephalhämatom",
+      "Hirnödem"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schädelfraktur",
+      "Kephalhämatom",
+      "Hirnödem"
+    ],
+    "diagnostic_approach": [
+      "CCT"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "obere und untere Einklemmung"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Neuroborreliose nach Zeckenstich",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Erythema migrans"
+    ],
+    "accident_mechanism": "Zeckenstich",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Doxycylin 200 mg 1-0-0 für 21 Tage"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Erythema migrans"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Neuroborreliose"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Anaphylaktischer Schock nach Wespenstich",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "Wespenstich",
+      "anaphylaktischer Schock"
+    ],
+    "accident_mechanism": "Wespenstich",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "anaphylaktischer Schock"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Makrozytäre Anämie bei Veganerin",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Veganerin"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Veganerin"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Makrozytäre Anämie"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Ambulant erworbene Pneumonie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Amoxicillin",
+      "Clavulansäure (bei Nichtansprechen)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "ambulant erworbene Pneumonie"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Hüftarthrose mit alter Femurhalsfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "alte Femurhalsfraktur"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen: Hüftarthrose",
+      "alte Femurhalsfraktur",
+      "Winkel zwischen Femurhals und Femurschaft: 135°"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hüftarthrose",
+      "coxa vara/coxa valga"
+    ],
+    "diagnostic_approach": [
+      "Röntgen"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "häufigste Komplikation nach Hüft-OP erwähnt"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Luxation von Hüft-TEP",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hüft-TEP"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Bild: Luxation von TEP"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Luxation von TEP"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Reposition versuchen",
+      "wenn nicht erfolgreich: OP"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Aortoiliakale Verschlusskrankheit",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "MRT-Angiographie: Kontrastmittelaussparung in Aortoiliakaler Bifurkation"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "aortoiliakale Verschlusskrankheit"
+    ],
+    "diagnostic_approach": [
+      "MRT-Angiographie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

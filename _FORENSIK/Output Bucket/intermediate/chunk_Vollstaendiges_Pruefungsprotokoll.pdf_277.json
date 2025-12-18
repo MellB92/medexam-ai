@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 278/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Abschnitt besteht aus:\n\n1. **Prüfungsfragen mit Musterantworten** (Fragen 19-22 aus einem Protokoll):\n   - Endoskopische Blutstillung\n   - Vorgehen bei bewusstloser Person\n   - Lymphszintigraphie-Erkennung\n   - Radiojodtherapie\n\n2. **Unvollständige Protokolleinträge** (Kenntnispruefung-Allgemein-29.txt, Fragen 1-20):\n   - Alle Antworten sind mit \"Nicht im Protokoll/Bericht enthalten\" markiert\n   - Es handelt sich um theoretische Prüfungsfragen zu:\n     - Auskultation\n     - Körperliche Untersuchung\n     - Endokarditis\n     - Herzinsuffizienz\n     - Polycythemia Vera\n     - GERD/Gastritis\n     - Influenza/COVID\n     - Adipositas/Metabolisches Syndrom\n     - Diabetes\n     - Paronychium\n     - Femurschaftfraktur\n\n**Keine dieser Fragen stellt einen vollständigen klinischen Patientenfall mit Anamnese, Befunden und diagnostischem Vorgehen dar.** Es sind ausschließlich theoretische Wissensfragen aus einer medizinischen Prüfung."
+  }
+]

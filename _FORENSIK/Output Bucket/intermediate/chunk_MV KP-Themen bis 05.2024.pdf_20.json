@@ -1,0 +1,188 @@
+[
+  {
+    "title": "Pathologische Humerusfraktur bei Tumoranamnese",
+    "patient_age": "78 Jahre",
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "pathologische Fraktur des Humerus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Mammakarzinom beidseitig (behandelt)",
+      "Nierenkarzinom (behandelt)",
+      "Pharynxkarzinom (behandelt)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "pathologische Fraktur des Humerus"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "ossäre Metastase"
+    ],
+    "diagnostic_approach": [
+      "stationäre Aufnahme zum Ausschluss ossärer Metastasen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Multiple Osteolysen mit pathologischen Wirbelkörperfrakturen bei CUP-Syndrom",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "pathologische Fraktur LWK2 und LWK3"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Carcinoma of unknown primary"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Multiple Osteolyse",
+      "pathologische Fraktur im Bereich LWK2 und 3"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "ossäre Metastasen"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Weber-C-Fraktur mit Kompartmentsyndrom",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "Symptome eines Kompartmentsyndroms"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Kompartmentsyndrom"
+    ],
+    "imaging_findings": [
+      "Weber-C Fraktur",
+      "Abbruch von Volkmann-Dreieck"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Weber-C-Fraktur mit Kompartmentsyndrom"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Kompartmentsyndrom"
+    ],
+    "follow_up": [
+      "notfallmäßige OP",
+      "zweizeitiges Vorgehen mit Fixateur externe",
+      "später definitive Osteosynthese"
+    ]
+  },
+  {
+    "title": "Polytrauma mit Sprunggelenkfraktur und intraabdomineller Blutung",
+    "patient_age": null,
+    "patient_gender": "männlich",
+    "severity": "critical",
+    "chief_complaints": [
+      "Polytrauma",
+      "Sprunggelenkfraktur"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sprunggelenkfraktur",
+      "freie Flüssigkeit im Abdomen (FAST-Untersuchung)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma",
+      "intraabdominelle Blutung"
+    ],
+    "diagnostic_approach": [
+      "digitales Röntgen",
+      "Spiral-CT",
+      "FAST-Sonographie",
+      "CT Becken"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Zugänge anlegen"
+    ]
+  },
+  {
+    "title": "Schulterluxation mit Hill-Sachs-Läsion nach Reposition",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Schulterluxation"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Schulterluxation im Röntgen",
+      "Hill-Sachs-Läsion im Röntgen nach Reposition"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schulterluxation"
+    ],
+    "diagnostic_approach": [
+      "Röntgen vor Reposition",
+      "Röntgen nach Reposition"
+    ],
+    "treatment_response": [
+      "Reposition durchgeführt"
+    ],
+    "complications": [
+      "Hill-Sachs-Läsion"
+    ],
+    "follow_up": []
+  }
+]

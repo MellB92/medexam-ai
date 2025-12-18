@@ -1,0 +1,80 @@
+[
+  {
+    "title": "pAVK mit Claudicatio intermittens nach Flugreise",
+    "patient_age": "68 Jahre",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen im Unterschenkel/Wadenbereich bei Belastung",
+      "Schmerzfreie Gehstrecke bis 400 m",
+      "Husten morgens mit schleimigem Auswurf",
+      "Dyspnoe bei Belastung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie seit ca. 6 Jahren",
+      "Hyperlipidämie",
+      "Obstipation",
+      "Z.n. Speicheldrüsenentzündung (Parotitis) vor 8 Wochen",
+      "Z.n. Wirbelsäulen-OP vor 3-4 Jahren (L4-L5)",
+      "Z.n. Corona-Infektion während der Reise"
+    ],
+    "comorbidities": [
+      "Chronisch obstruktive Atemwegssymptomatik (Raucherhusten)"
+    ],
+    "risk_factors": [
+      "Raucher seit 50 Jahren, ca. 20 Zigaretten/Tag",
+      "Langer Flug vor 3 Wochen (Immobilisation)",
+      "Arterielle Hypertonie",
+      "Hyperlipidämie"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Raucher seit 50 Jahren, ca. 20 Zigaretten/Tag",
+      "Kürzlich längere Flugreise"
+    ],
+    "medications": [
+      "Lisinopril Kombi 20 mg 1-0-0",
+      "Atorvastatin 20 mg 0-0-1",
+      "Laxanzien"
+    ],
+    "allergies": [
+      "Penicillin (allergische Reaktion)"
+    ],
+    "vital_signs": [
+      "Blutdruck beidseits gemessen (Werte nicht dokumentiert)",
+      "Puls gemessen (Werte nicht dokumentiert)"
+    ],
+    "physical_examination": [
+      "Beidseitige Inspektion von Beinen und Füßen durchgeführt",
+      "Pulse palpiert",
+      "Sensibilität geprüft",
+      "Hauttemperatur bei Palpation verglichen",
+      "Lymphknoten am Kopf getastet (Z.n. Parotitis)",
+      "Lunge auskultiert",
+      "Herz auskultiert",
+      "Abdomen untersucht mit Auskultation von Aorta abdominalis und Aa. renalis",
+      "Keine Ödeme",
+      "Kein Kältegefühl festgestellt",
+      "Keine Temperaturveränderung",
+      "Keine sichtbaren Veränderungen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "pAVK (Hauptverdachtsdiagnose)",
+      "DD: Tiefe Venenthrombose (TVT)",
+      "DD: Periphere Neuralgie"
+    ],
+    "diagnostic_approach": [
+      "Anamnese und Erfassung subjektiver Beschwerden",
+      "Klinische Stadieneinteilung nach Fontaine",
+      "ABI (Ankle-Brachial-Index)",
+      "Pathogenese von Schmerzen bei pAVK erklärt",
+      "Differenzierung zwischen Arteriosklerose und Mediasklerose (Mönckeberg-Sklerose)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

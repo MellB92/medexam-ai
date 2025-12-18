@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Sjögren-Syndrom bei junger Patientin mit Sicca-Symptomatik",
+    "patient_age": "junge Patientin",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Müdigkeit",
+      "langer Schlaf",
+      "Polydipsie",
+      "Dysphagie",
+      "trockener Mund und Schleimhäute",
+      "Juckreiz in der Nase und Augen",
+      "sandähnliches Gefühl in Augen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Unterschenkelfraktur",
+      "Appendektomie (angeborene Darmausstülpung, V.a. Meckel-Divertikel)",
+      "Knieverletzung beim Reiten",
+      "Harnwegsinfekt (kürzlich vom Hausarzt behandelt)",
+      "Gelbsucht im Ausland"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Blutdruck",
+      "Puls an 18 Stellen getastet",
+      "Herzspitze",
+      "Herztöne",
+      "Lunge Auskultation",
+      "Verschieblichkeit",
+      "Abklopfen",
+      "Wirbelkörper klopfen",
+      "Nierenklopf",
+      "Abdomen vier Untersuchungen",
+      "Mund-, Schleimhaut- und Parotis-Untersuchung (nicht möglich wegen FFP2-Maske)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sjögren-Syndrom",
+      "Hepatitis A/E (bei Ikterus)",
+      "Meckel-Divertikel"
+    ],
+    "diagnostic_approach": [
+      "Labor (Anti-Ro und Anti-La AK)",
+      "Ultraschall"
+    ]
+  }
+]

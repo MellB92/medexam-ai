@@ -1,0 +1,135 @@
+[
+  {
+    "title": "Postoperatives Delir nach Operation",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Verwirrtheit",
+      "Agitation",
+      "Halluzinationen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Patient auf Station nach OP und Intensivstation"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Postoperatives Delir"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Femurhalsfraktur nach Sturz",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Femurhalsfraktur",
+      "kann Bein nicht bewegen"
+    ],
+    "accident_mechanism": "Heute Morgen gestolpert",
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "TVT bei Schwangerschaft",
+      "Diabetes mellitus Typ II",
+      "Analfistel",
+      "Knieergüsse"
+    ],
+    "comorbidities": [
+      "Herzrhythmusstörung noch unbekannt"
+    ],
+    "risk_factors": [],
+    "family_history": [
+      "Tochter hat auch Diabetes mellitus"
+    ],
+    "social_history": [
+      "verheiratet",
+      "2 Kinder",
+      "kein Nikotinabusus",
+      "kein Alkoholabusus"
+    ],
+    "medications": [
+      "Metformin 1000mg"
+    ],
+    "allergies": [
+      "Nickel-Allergie"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "PDMS am Bein durchgeführt",
+      "Durchblutung normal",
+      "Sensibilität normal",
+      "Patientin kann Bein nicht bewegen"
+    ],
+    "imaging_findings": [
+      "Röntgen zeigt Femurhalsfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Femurhalsfraktur"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Hyperthyreose bei Morbus Basedow mit Vorhofflimmern",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Hyperthyreose",
+      "Oberbauchschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Patientin will ein Kind"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Exophthalmus",
+      "Myxödeme",
+      "Merseburger Trias"
+    ],
+    "imaging_findings": [
+      "Schilddrüsensonografie zeigt Autonomes Adenom"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hyperthyreose",
+      "Morbus Basedow",
+      "Autonomes Adenom",
+      "Tachyarrhythmia absoluta bei Vorhofflimmern",
+      "Vorhofflattern",
+      "Gastritis"
+    ],
+    "diagnostic_approach": [
+      "Fein-Nadel-Biopsie",
+      "EKG",
+      "TEE"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Femurhalsfraktur nach Sturz mit HRST und weiteren Vorerkrankungen",
+    "patient_age": "67 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Sturz an der Hüfte",
+      "Herzklopfen seit mehreren Monaten",
+      "nächtliche Schmerzen in der Hand mit Kribbeln",
+      "klopfender Kopfschmerz"
+    ],
+    "accident_mechanism": "Sturz",
+    "pre_existing_conditions": [
+      "HRST",
+      "DM Typ II seit 1 Jahr",
+      "Z.n. CE",
+      "Z.n. Afterfistel OP",
+      "Z.n. Venenthrombose nach 2. Schwangerschaft"
+    ],
+    "medications": [
+      "Metformin",
+      "Ibuprofen bei Bedarf"
+    ],
+    "allergies": [
+      "Nickel"
+    ],
+    "physical_examination": [
+      "Blutdruck gemessen"
+    ],
+    "imaging_findings": [
+      "Rö-Becken Übersicht: Oberschenkelhalsfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Oberschenkelhalsfraktur",
+      "Karpaltunnelsyndrom (nächtliche Handschmerzen mit Kribbeln)",
+      "Herzrhythmusstörung"
+    ],
+    "diagnostic_approach": [
+      "Rö-Becken Übersicht",
+      "Lauenstein-Aufnahme"
+    ]
+  },
+  {
+    "title": "Sprunggelenkfraktur nach Umknicken",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Sprunggelenkschmerzen"
+    ],
+    "accident_mechanism": "Schauspielerin mit Sprunggelenkschmerzen",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [
+      "Metall-Allergie (zu erfragen)"
+    ],
+    "physical_examination": [
+      "pDMS Schema",
+      "RR Messung",
+      "alle Gelenke untersucht"
+    ],
+    "imaging_findings": [
+      "Rö Bilder mit Fraktur"
+    ],
+    "laboratory_findings": [
+      "Labor Anforderung"
+    ],
+    "suspected_diagnosis": [
+      "Sprunggelenkfraktur (Weber, Maisonneuve)"
+    ],
+    "diagnostic_approach": [
+      "Körperliche Untersuchung",
+      "Röntgen",
+      "Labor"
+    ]
+  },
+  {
+    "title": "Außenknöchelfraktur nach Umknicken",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Schmerzen im Außenknöchel"
+    ],
+    "accident_mechanism": "gerade umgeknickt",
+    "pre_existing_conditions": [
+      "ab und zu Entzündung der Nasennebenhöhle"
+    ],
+    "medications": [
+      "Ibuprofen bei Bedarf",
+      "Nasenspray bei Bedarf"
+    ],
+    "allergies": [
+      "Pollen",
+      "Haselnuss",
+      "fraglich Nickel (Hautrötung nach Schmucktragen)"
+    ],
+    "physical_examination": [
+      "Klopf- und Druckschmerzen im Außenknöchel",
+      "Prüfung seitliche Stabilität (lateraler und medialer Bandapparat des OSG)",
+      "Ausschluss Maisonneuve-Fraktur (keine Druckschmerzen in der Fibula proximal)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Außenknöchelfraktur",
+      "DD: Maisonneuve-Fraktur (ausgeschlossen)"
+    ],
+    "diagnostic_approach": [
+      "Palpation",
+      "Stabilitätsprüfung",
+      "Ausschluss proximaler Fibulafraktur"
+    ]
+  }
+]

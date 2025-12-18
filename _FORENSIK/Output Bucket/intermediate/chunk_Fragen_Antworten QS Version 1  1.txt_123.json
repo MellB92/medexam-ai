@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 124/284) enthält **keine klinischen Patientenfälle**, sondern ausschließlich **theoretisches Prüfungswissen** in Form von Frage-Antwort-Paaren:\n\n1. **Frage 203**: Bedside-Test/Urinteststreifen - rein theoretische Erklärung der Testfelder und Farbveränderungen\n2. **Frage 204**: ICD vs. ICF - Klassifikationssysteme (theoretisches Wissen)\n3. **Frage 205**: Säure- vs. Laugenverätzung - pathophysiologische Theorie ohne konkreten Patientenfall\n4. **Frage 206**: Rechtfertigende Indikation - rechtliche und theoretische Grundlagen\n\nEs werden zwar medizinische Sachverhalte (z.B. Verätzungen, Urindiagnostik) besprochen, aber **kein einziger konkreter Patient** mit individuellen Beschwerden, Untersuchungsbefunden oder diagnostischem Vorgehen präsentiert."
+  }
+]

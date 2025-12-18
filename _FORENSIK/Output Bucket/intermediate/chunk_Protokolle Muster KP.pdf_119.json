@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Akute Cholezystitis bei Schauspielerin\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"akutes Abdomen\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [\"die Pille\"],\n    \"allergies\": [\"Wespenstich\"],\n    \"physical_examination\": [\"Murphey positiv\", \"Abdomen: gezielt untersucht\", \"Neurologie: unauffällig\", \"Pulsstatus: unauffällig\", \"Schilddrüse: unauffällig\", \"Lymphknoten: unauffällig\"],\n    \"imaging_findings\": [\"Ultraschall: Konkrement in Gallenblase mit Hydrops und Cholezystitis\", \"Wanddicke >4mm (6mm)\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"akute Cholezystitis\", \"DD: Ulkus ventriculi\", \"DD: Appendizitis\", \"DD: HWI\", \"DD: Hinterwandinfarkt\"],\n    \"diagnostic_approach\": [\"Anamnese\", \"körperliche Untersuchung mit Murphy-Zeichen\", \"Ultraschall Abdomen\", \"ausführliche komplette Untersuchung\"]\n  }\n]\n```"
+  }
+]

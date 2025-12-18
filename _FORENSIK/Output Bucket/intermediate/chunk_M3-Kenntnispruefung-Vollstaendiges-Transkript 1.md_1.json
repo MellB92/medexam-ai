@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 2/6) enthält **keine vollständigen klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer gesamte Abschnitt besteht aus:\n\n1. **Theoretischen Fragen und Antworten** zu verschiedenen medizinischen Themen:\n   - Strahlenschutz & Bildgebung (Fragen 4-5)\n   - Kardiologie (Fragen 6-7)\n   - Anämien (Fragen 8-10)\n   - Chirurgie & Orthopädie (Frage 11 - abgeschnitten)\n\n2. **Allgemeines medizinisches Wissen**:\n   - Schutzmaßnahmen vor Röntgenstrahlung\n   - Voruntersuchungen bei Kontrastmittelgabe\n   - Therapeutische Breite und TDM\n   - AV-Block-Klassifikationen\n   - Anämie-Typen und deren Behandlung\n   - Hunter-Glossitis\n   - pAVK-Klassifikation (Beginn)\n\n3. **Frage 9** erwähnt zwar ein \"Laborergebnis beurteilen: makrozytäre hyperchrome Anämie\", aber dies ist eine **theoretische Übungsfrage** ohne konkrete Patientendaten (kein Alter, Geschlecht, Anamnese, spezifische Werte etc.)\n\nEs handelt sich um ein **Prüfungsvorbereitungs-Transkript** mit Wissensfragen, nicht um echte Patientenfalldarstellungen."
+  }
+]

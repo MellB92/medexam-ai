@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Riesenzellarteriitis (Arteriitis temporalis) mit akuter Sehstörung",
+    "patient_age": "62 Jahre",
+    "patient_gender": "weiblich",
+    "severity": "severe",
+    "chief_complaints": [
+      "Seit 2 Wochen zunehmende starke Schmerzen rechte Kopfhälfte (6/10 auf Schmerzskala)",
+      "Schmerzen im Bereich der Kaumuskulatur",
+      "Seit heute Morgen plötzliches verschwommenes Sehen rechtes Auge",
+      "Müdigkeit und fiebriges Gefühl seit 2 Wochen, keine Temperaturmessung",
+      "Schmerzen beim Schlucken und Kauen",
+      "Hypersensitivität der Haut im Frontal- und Temporalbereich des Schädels",
+      "Nächtliche Hyperhidrosis",
+      "Appetitlosigkeit",
+      "Paracetamol 500 mg ohne Erfolg eingenommen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie seit 3 Jahren",
+      "Z.n. Schädelgrundbruch-Fraktur (SG-Fraktur) im Alter von 21 Jahren, konservativ behandelt",
+      "Z.n. Schilddrüsenknotenextirpation im Alter von 48 Jahren, komplikationslos",
+      "Hepatitis vor 5 Jahren nach Reise in Italien, jetzt ausgeheilt"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Raucherin, 3 Zigaretten pro Tag",
+      "Gelegentlicher Alkoholkonsum (von Geburtstag zu Geburtstag)"
+    ],
+    "family_history": [
+      "Vater verstorben an Kolonkarzinom vor 5 Jahren",
+      "Schwester leidet an LAE",
+      "Bruder leidet an Gicht",
+      "Mutter rüstig"
+    ],
+    "social_history": [
+      "Rentnerin, früher als Mobilfunkanbieter gearbeitet",
+      "Jetzt teilweise in Katzenpflegeheim tätig",
+      "Verwitwet",
+      "Wohnt alleine in einer Wohnung",
+      "2 Söhne und 1 Enkel, alle gesund",
+      "Keine Haustiere",
+      "In letzter Zeit nicht gereist",
+      "Vollständig geimpft, 4x Corona-Impfung"
+    ],
+    "medications": [
+      "Candesartan 8 mg 1-0-0",
+      "Paracetamol 500 mg bei Bedarf"
+    ],
+    "allergies": [
+      "Diclofenac (Übelkeit und Pruritus)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Körperliche Untersuchung vom Kopf bis Fuß unauffällig",
+      "Schmerzen bei Beklopfen des Schädels",
+      "Reflexe wurden untersucht",
+      "Venöser Zugang gelegt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Riesenzellarteriitis (RZA) - Vaskulitis, autoimmune Erkrankung",
+      "Akute ischämische Optikusneuropathie (AION)",
+      "Befall der Arteria temporalis superficialis"
+    ],
+    "diagnostic_approach": [
+      "Zahnarzt konsultiert, Befund unauffällig"
+    ],
+    "treatment_response": [
+      "Geplante Therapie: Prednisolon 1000 mg i.v. initial (15 mg/kg KG)",
+      "Anschließend Prednisolon 40-60 mg oral (ca. 5 mg/kg KG) für 18-24 Monate",
+      "MTX 7,5 mg 1x pro Woche zusätzlich",
+      "Folinsäure-Substitution wegen Knochenmarksuppressionsrisiko"
+    ],
+    "complications": [
+      "Akute ischämische Optikusneuropathie (AION) mit Risiko der Blindheit (Red Flag)",
+      "Risiko für Aortenaneurysma",
+      "Risiko für Aortendissektion",
+      "Erhöhtes Risiko für Malignom nach Heilung",
+      "Befall großer Arterien: Aorta und ihre Äste"
+    ],
+    "follow_up": []
+  }
+]

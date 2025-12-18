@@ -1,0 +1,250 @@
+[
+  {
+    "title": "Arbeitsunfall mit Platzwunde Hand und Knieverletzung",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Platzwunde rechte Hand",
+      "Knieverletzung rechts",
+      "starke Schmerzen"
+    ],
+    "accident_mechanism": "Arbeitsunfall",
+    "pre_existing_conditions": [
+      "Asthma als Kind",
+      "Heuschnupfen mit Konjunktivitis und Sinusitis",
+      "Hypercholesterinämie"
+    ],
+    "comorbidities": [
+      "Verdacht auf Belastungsasthma vor 2 Wochen"
+    ],
+    "risk_factors": [],
+    "family_history": [
+      "Vater: PAVK",
+      "Vater: Hypercholesterinämie"
+    ],
+    "social_history": [],
+    "medications": [
+      "Novalgin 1g",
+      "Dipidolor 7,5 mg"
+    ],
+    "allergies": [
+      "Heuschnupfen"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Verband rechte Hand",
+      "2 Unterarmgehstützen wegen rechter Knieverletzung",
+      "komplette körperliche Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [
+      "MRT Knie"
+    ],
+    "laboratory_findings": [
+      "Schwangerschaftstest angeordnet"
+    ],
+    "suspected_diagnosis": [
+      "Kreuzbandruptur",
+      "Meniskusläsion"
+    ],
+    "diagnostic_approach": [
+      "MRT Knie",
+      "Schwangerschaftstest",
+      "komplette körperliche Untersuchung"
+    ],
+    "treatment_response": [
+      "Analgesie mit Novalgin und Dipidolor"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Venenzugang (Viggo) gelegt"
+    ]
+  },
+  {
+    "title": "Bewusstloser Patient mit Bluterbrechen und Alkoholintoxikation",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "Bewusstlosigkeit",
+      "Bluterbrechen",
+      "Alkoholintoxikation"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Alkoholabusus",
+      "positive Familienanamnese (nicht spezifiziert)"
+    ],
+    "family_history": [
+      "positive Familienanamnese für nicht näher bezeichnete Erkrankung"
+    ],
+    "social_history": [
+      "Alkoholkonsum"
+    ],
+    "medications": [
+      "Pille (bei weiblicher Patientin)",
+      "7 Dauermedikamente"
+    ],
+    "allergies": [
+      "Allergie vorhanden (nicht näher spezifiziert)"
+    ],
+    "vital_signs": [
+      "RR 90/70 mmHg"
+    ],
+    "physical_examination": [
+      "ABCDE-Schema angewendet"
+    ],
+    "imaging_findings": [
+      "Röntgen Thorax mit Upside-down-Magen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "obere gastrointestinale Blutung",
+      "Hiatushernie mit Upside-down-Magen"
+    ],
+    "diagnostic_approach": [
+      "ABCDE-Schema",
+      "Endoskopie geplant (nicht verfügbar)",
+      "Röntgen Thorax"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "hämorrhagischer Schock"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit Belastungsdyspnoe und Schwindel unklarer Genese",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Belastungsdyspnoe",
+      "Schwindel"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "kardiale DD erwogen",
+      "pulmonale DD erwogen",
+      "neurologische DD erwogen"
+    ],
+    "diagnostic_approach": [
+      "kardiale Abklärung unauffällig",
+      "pulmonale Abklärung unauffällig",
+      "neurologische Abklärung unauffällig",
+      "Kardiologie-Konsil unauffällig",
+      "Neurologie-Konsil unauffällig",
+      "Pneumologie-Konsil unauffällig"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Rücksprache mit Oberarzt erforderlich"
+    ]
+  },
+  {
+    "title": "Patientin mit chronischen Schluckbeschwerden",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schluckbeschwerden seit 6 Monaten",
+      "Schmerzen nur beim Essen",
+      "kann nur pürierte Nahrung essen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "gelegentliche Ibuprofen-Einnahme"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "3. Herzton gefragt",
+      "keine Heiserkeit"
+    ],
+    "imaging_findings": [
+      "Ösophagusbreischluck geplant",
+      "Schilddrüsen-Sonographie geplant",
+      "Schilddrüsenszintigraphie bei Knoten"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Achalasie",
+      "Schilddrüsenvergrößerung",
+      "Ösophagusmalignität"
+    ],
+    "diagnostic_approach": [
+      "ÖGD",
+      "Ösophagusbreischluck",
+      "Schilddrüsen-Sonographie",
+      "Schwangerschaft abgefragt"
+    ],
+    "treatment_response": [
+      "benötigt Wasserschlucke bei festen Speisen"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit Staphylococcus aureus Bakteriämie vor geplanter Entlassung",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "kein Fieber"
+    ],
+    "physical_examination": [
+      "Allgemeinzustand gut",
+      "wartet mit Gepäck auf Entlassungsbrief"
+    ],
+    "imaging_findings": [
+      "ECHO: Vegetation auf Herzklappe"
+    ],
+    "laboratory_findings": [
+      "Blutkultur positiv für Staphylococcus aureus (Last-minute-Ergebnis)"
+    ],
+    "suspected_diagnosis": [
+      "infektiöse Endokarditis"
+    ],
+    "diagnostic_approach": [
+      "ECHO",
+      "Blutkultur"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Risiko für septische Embolie (z.B. Gehirn)"
+    ],
+    "follow_up": [
+      "Patient muss im Krankenhaus bleiben trotz gutem Allgemeinzustand"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Präsentationsfälle**. Es handelt sich um eine **Übersichtstabelle über Qualitätskriterien** für verschiedene medizinische Leistungsbereiche und Leistungsgruppen.\n\nDer Text beschreibt:\n- Strukturelle Anforderungen an medizinische Einrichtungen\n- Personalvorgaben (Fachärzte, Zusatzweiterbildungen, VZÄ)\n- Geräteausstattung (CT, MRT, ECMO, etc.)\n- Organisatorische Anforderungen (Rufbereitschaft 24/7, Transplantationsbüros, etc.)\n- Qualitätsanforderungen für verschiedene Bereiche wie:\n  - Intensivmedizin\n  - Palliativmedizin\n  - Organtransplantation (Darm, Herz, Leber, Lunge)\n\nEs werden **keine individuellen Patientenfälle** mit Anamnese, Symptomen, Befunden oder Diagnosen präsentiert."
+  }
+]

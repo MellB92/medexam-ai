@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Hyperthyreose mit kardiovaskulären Symptomen - Fall 39.082202b",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Hyperthyreose-Symptomatik"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Tachyarrhythmia absoluta bei VHF"
+    ],
+    "imaging_findings": [
+      "Schilddrüsensonografie: Autonomes Adenom",
+      "EKG: Tachyarrhythmia absoluta bei Vorhofflimmern",
+      "Röntgen: Pertrochantäre mehrfragmentäre Fraktur",
+      "Röntgen: Spannungspneumothorax wegen 2. Rippenfraktur",
+      "Röntgen: Schenkelhalsfraktur in 2 Ebenen"
+    ],
+    "laboratory_findings": [
+      "Blutungsanämie"
+    ],
+    "suspected_diagnosis": [
+      "Hyperthyreose",
+      "Morbus Basedow",
+      "Autonomes Adenom",
+      "Vorhofflimmern",
+      "Pertrochantäre Femurfraktur",
+      "Spannungspneumothorax",
+      "Schenkelhalsfraktur",
+      "Hypovolämischer Schock"
+    ],
+    "diagnostic_approach": [
+      "Schilddrüsensonografie",
+      "Fein-Nadel-Biopsie",
+      "EKG",
+      "TEE",
+      "Röntgen",
+      "H.Pylori-Diagnostik"
+    ]
+  },
+  {
+    "title": "Hyperthyreose mit Herzrasen und Gewichtsverlust - Fall 40.082403",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Herzrasen",
+      "Nervosität",
+      "Tremor",
+      "Wärmeintoleranz",
+      "Gewichtsverlust"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Vitalparameter",
+      "Pupillen",
+      "Mundhöhle",
+      "Schilddrüse",
+      "Lymphknoten",
+      "Thorax komplett",
+      "Herz",
+      "Abdomen",
+      "Gefäße",
+      "Klappen auskultiert",
+      "Pulse in den Armen",
+      "Neurologische Untersuchung",
+      "Reflexe am Arm (radialer Periostreflex)",
+      "Orbitopathie bei M. Basedow"
+    ],
+    "imaging_findings": [
+      "EKG: Vorhofflimmern",
+      "EKG: inferiorer Myokardinfarkt",
+      "Sonographie: vaskuläres Inferno",
+      "Szintigraphie: bei M. Basedow diffuse Aufnahme, bei Autonomie eher knotig",
+      "Kalte Knoten"
+    ],
+    "laboratory_findings": [
+      "TSH",
+      "T4",
+      "T3",
+      "TRAK",
+      "TPO-Ak"
+    ],
+    "suspected_diagnosis": [
+      "Hyperthyreose",
+      "Morbus Basedow",
+      "Autonomie",
+      "Adenome",
+      "Vorhofflimmern",
+      "Inferiorer Myokardinfarkt"
+    ],
+    "diagnostic_approach": [
+      "Labor: TSH, T4, T3, TRAK, TPO-Ak",
+      "Schilddrüsensonographie",
+      "Szintigraphie",
+      "FNA (Feinnadelaspiration) bei suspekten kalten Knoten",
+      "EKG"
+    ]
+  }
+]

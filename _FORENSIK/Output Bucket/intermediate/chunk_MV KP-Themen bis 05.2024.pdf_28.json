@@ -1,0 +1,424 @@
+[
+  {
+    "title": "Patientin mit Hämatemesis auf Station",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "Hämatemesis mit kaffeesatzartigem Blut",
+      "geschlossene Augen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "geschlossene Augen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "gastrointestinale Blutung"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "22-jähriger Patient mit Ketoazidose",
+    "patient_age": "22-jährig",
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Zittern",
+      "Tachykardie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Tachykardie"
+    ],
+    "physical_examination": [
+      "Zittern"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "BGA: Ketoazidose"
+    ],
+    "suspected_diagnosis": [
+      "Ketoazidose"
+    ],
+    "diagnostic_approach": [
+      "BGA"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Post-Appendektomie mit Fieber und Leberabszess",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Fieber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Post-Appendektomie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Fieber"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Leberabszess"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Leberabszess"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Junger Mann mit Ketoazidose",
+    "patient_age": "junger Mann",
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Zittern",
+      "Schwitzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Zittern",
+      "Schwitzen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Ketoazidose"
+    ],
+    "diagnostic_approach": [
+      "Ketoazidose-Management"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Kind mit Darminvagination",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Blut im Stuhl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sonographie: Kokardenphänomen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Invagination"
+    ],
+    "diagnostic_approach": [
+      "Sonographie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Post-ERCP-Pankreatitis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "rezidivierende Oberbauchschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "nach ERCP"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "post-ERCP-Pankreatitis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "post-ERCP-Pankreatitis"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Meningitis bei 1-jährigem Kind",
+    "patient_age": "1-jährig",
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Meningitis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Säugling mit Meningokokkenmeningitis",
+    "patient_age": "8 Monate",
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Fieber",
+      "Erbrechen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Fieber"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Meningokokkenmeningitis"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Körperuntersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Akute Leukämie mit extremer Leukozytose",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Kleines Blutbild: Leukozytose 150000"
+    ],
+    "suspected_diagnosis": [
+      "Akute Leukämie"
+    ],
+    "diagnostic_approach": [
+      "Großes Blutbild",
+      "Knochenmarkbiopsie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Kind mit Darminvagination und diffusen Bauchschmerzen",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "diffuse Bauchschmerzen",
+      "Blut im Stuhl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sonographie: Target Zeichen, Kokarden",
+      "Kontrastmittel: Claw sign"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Darminvagination (Ileocekum)"
+    ],
+    "diagnostic_approach": [
+      "Sonographie",
+      "Kontrastmitteluntersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "4-jähriges Kind mit Erbrechen und Blut im Stuhl",
+    "patient_age": "4-jährig",
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Erbrechen",
+      "Blut im Stuhl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Kind mit Invagination nach Gastroenteritis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "ausgeprägte Bauchschmerzen",
+      "Blut im Stuhl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Gastroenteritis"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sonographie: Kokardenphänomen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Invagination"
+    ],
+    "diagnostic_approach": [
+      "Sonographie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Schwangere mit Vena-cava-inferior-Syndrom",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Schwangerschaft"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Fetus in Horizontallage"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vena-cava-inferior-Syndrom"
+    ],
+    "diagnostic_approach": [
+      "Bildgebung"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Vena-cava-inferior-Syndrom"
+    ],
+    "follow_up": []
+  }
+]

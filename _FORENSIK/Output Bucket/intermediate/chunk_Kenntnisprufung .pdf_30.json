@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Bewusstlosigkeit beim Volleyballspielen am Strand - Hypoglykämie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "Bewusstlosigkeit beim Volleyball spielen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Volleyball spielen am Strand"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Bewusstlosigkeit"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "BZ-Messung durchgeführt (niedriger Wert impliziert)"
+    ],
+    "suspected_diagnosis": [
+      "Hypoglykämie"
+    ],
+    "diagnostic_approach": [
+      "BZ-Messung",
+      "BGA (erwähnt aber vergessen)"
+    ],
+    "treatment_response": [
+      "Patient kommt nach 40% Glucose i.v. wieder zu sich"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Transport ins Krankenhaus"
+    ]
+  },
+  {
+    "title": "Akute Lumboischialgie mit Ausstrahlung ins rechte Bein - V.a. Bandscheibenvorfall",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "Seit heute morgen plötzlich beginnende Rückenschmerzen",
+      "Ausstrahlung ins rechte Bein",
+      "Schmerzen in Ruhe und bei Bewegung",
+      "Sehr starke Schmerzen (8/10)",
+      "Übelkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Früher Rückenschmerzen, aber nie so stark",
+      "Rezidivierende Harnwegsinfekte (zuletzt vor 1 Monat mit Fosfomycin behandelt)",
+      "Schultertrauma vor ein paar Wochen"
+    ],
+    "comorbidities": [
+      "Diabetes mellitus Typ 1 mit Insulinpumpe",
+      "Belastungsasthma",
+      "Neigung zur Obstipation"
+    ],
+    "risk_factors": [],
+    "family_history": [
+      "Vater hatte Myokardinfarkt",
+      "Mutter aktuell stationär mit Diarrhö",
+      "Bruder ist Sportler mit Knieproblemen",
+      "Tochter und Ehemann gesund"
+    ],
+    "social_history": [],
+    "medications": [
+      "Insulinpumpe",
+      "Medikamentenliste wurde abgegeben"
+    ],
+    "allergies": [
+      "Nickel",
+      "Pilze"
+    ],
+    "vital_signs": [
+      "RR beidseits gemessen",
+      "Pulse gemessen"
+    ],
+    "physical_examination": [
+      "Hirnnerven grob geprüft",
+      "Herzauskultation durchgeführt",
+      "Stimmfremitus",
+      "Lungenperkussion",
+      "Lungenauskultation",
+      "Abdomen: Auskultation und oberflächliche Palpation",
+      "Rückeninspektion und Palpation",
+      "Flankenklopfen",
+      "Sensibilität des Körpers grob geprüft",
+      "Lasègue-Test durchgeführt",
+      "Bragard-Test durchgeführt"
+    ],
+    "imaging_findings": [
+      "MRT: Bandscheibenvorfall nachgewiesen",
+      "Röntgenbild mit Spondylodese (Fixateur interne mit Platte, Schrauben und Diskusersatz)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lumboischialgie mit V.a. Bandscheibenvorfall",
+      "DD: Coxarthrose (Schmerzen im Bereich des Trochanter major)",
+      "DD: Nierenkolik",
+      "DD: Spondylitis",
+      "DD: Spondylodiszitis"
+    ],
+    "diagnostic_approach": [
+      "Sonographie als nicht-invasive Methode (Abdomen, Hüfte)",
+      "Röntgen",
+      "MRT (Goldmethode)"
+    ],
+    "treatment_response": [
+      "Oxycodon 5 mg i.v. gegeben",
+      "Schmerzen verbesserten sich von 8/10 auf 5/10"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Weitere Diagnostik angekündigt"
+    ]
+  }
+]

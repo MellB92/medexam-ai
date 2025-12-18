@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 13/17) aus \"Rechtsmedizin.pdf\" enthält **keine klinischen Präsentationsfälle**. \n\nDer gesamte Abschnitt besteht ausschließlich aus:\n\n1. **Theoretischem Wissen zu Gesetzen:**\n   - Heilberufegesetz\n   - Approbationsordnung\n   - Infektionsschutzgesetz\n   - Meldesysteme (Demis, RKI)\n\n2. **Rechtlichen Grundlagen:**\n   - Meldepflicht bei Infektionskrankheiten\n   - Körperverletzung und ärztliche Eingriffe\n   - Einwilligungsfragen\n   - Erzwungene Eingriffe\n\n3. **Hypothetischen Beispielen in Frageform:**\n   - \"Was passiert, wenn die Eltern eines minderjährigen Patienten...\"\n   - \"Wie wird mit einem suizidalen Patienten umgegangen...\"\n   - \"Ist ein kultureller Nachweis von Meningokokken...\"\n\nDiese Fragen dienen der rechtlichen Ausbildung und stellen **keine konkreten Patientenfälle** mit spezifischen klinischen Daten, Befunden oder Diagnostikverläufen dar.\n\nEs gibt keine Patienten mit Alter, Geschlecht, Beschwerden, Untersuchungsbefunden oder diagnostischen Abläufen, die als klinischer Fall extrahiert werden könnten."
+  }
+]

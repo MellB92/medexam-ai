@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Anämie bei Patient mit Coxarthrose und B-Symptomatik",
+    "patient_age": null,
+    "patient_gender": "Mann",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Anämie in Laborwerten beim Hausarzt",
+      "Schmerzen in der Hüfte links",
+      "Abgeschlagenheit",
+      "Leistungsknick",
+      "Dyssomnie",
+      "Kribbeln in den Füßen",
+      "häufige Erkältung",
+      "3 kg Gewichtsabnahme in paar Wochen",
+      "Inappetenz"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Coxarthrose links mit bereits geplanter operativer Behandlung"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "RR beidseits Oberschenkel gemessen"
+    ],
+    "physical_examination": [
+      "allgemeine körperliche Untersuchung",
+      "pDMS durchgeführt",
+      "Vibration Test angefragt (nicht durchgeführt)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "hyperchrom-makrozytäre Anämie",
+      "LDH erhöht",
+      "Blutbild mit Elektrolyten durchgeführt"
+    ],
+    "suspected_diagnosis": [
+      "Anämie",
+      "Coxarthrose",
+      "DD: Leukämien",
+      "DD: Lymphome",
+      "DD: Coxarthritis"
+    ],
+    "diagnostic_approach": [
+      "Labor",
+      "Okkulte Blut im Stuhl",
+      "Gastro-Koloskopie",
+      "Knochenmarkbiopsie (wenn indiziert)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Perikarditis mit Perikardtamponade bei 22-jährigem Mann",
+    "patient_age": "22 Jahre",
+    "patient_gender": "Mann",
+    "severity": "severe",
+    "chief_complaints": [
+      "druckender Brustschmerz"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: ST-Hebungen aller Brustableitungen",
+      "EKG: T-Negativierung",
+      "EKG: R-Verlust",
+      "Echo: große Perikard-Tamponade"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perikarditis",
+      "DD: STEMI"
+    ],
+    "diagnostic_approach": [
+      "EKG systematisch beschrieben",
+      "Echokardiographie"
+    ],
+    "treatment_response": [
+      "Ibuprofen (Dosierung angeordnet)",
+      "Colchicin mit Hinweis auf 3 Monate Verhütungsmethoden bei Geschlechtsverkehr"
+    ],
+    "complications": [
+      "Perikard-Tamponade"
+    ],
+    "follow_up": [
+      "Punktion der Perikard-Tamponade erforderlich"
+    ]
+  }
+]

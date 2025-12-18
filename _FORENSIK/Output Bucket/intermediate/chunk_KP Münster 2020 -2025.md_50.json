@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 51/60) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischem Wissen und Leitlinien:**\n   - HIV-Therapieschemata (NRTI, NNRTI, Protease-Inhibitoren)\n   - HWI-Klassifikation und Therapie\n   - Divertikulitis-Klassifikation und Therapie\n   - Magenkarzinom-Operationstechniken (Billroth I/II, Roux-Y)\n\n2. **Auflistungen von Krankheitsbildern mit Häufigkeitsangaben:**\n   - \"Herpes Zoster 19\"\n   - \"Appendizitis 86\"\n   - \"Divertikulitis 75\"\n   - etc.\n\n3. **Allgemeinen Wissensfragen:**\n   - \"was ist schwierig bei Antiviral Therapie?\"\n   - \"Warum kann man nicht HIV einfach behandeln?\"\n\n4. **Leitlinien-Links und Diagramme**\n\nEs gibt **keine narrativen Patientenfälle** mit konkreten Angaben wie:\n- Alter/Geschlecht eines spezifischen Patienten\n- Individuelle Anamnese oder Beschwerden\n- Spezifische Untersuchungsbefunde eines Einzelfalls\n- Diagnostischer oder therapeutischer Verlauf einer Person\n\nDer Abschnitt am Ende (\"Paraplegie nach TEVAR\") ist unvollständig abgeschnitten und beginnt erst mit einer anatomischen Erklärung."
+  }
+]

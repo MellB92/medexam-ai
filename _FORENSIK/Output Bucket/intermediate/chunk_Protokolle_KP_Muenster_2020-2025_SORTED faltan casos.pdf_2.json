@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 3/38) zeigt ausschließlich ein **Inhaltsverzeichnis** des Dokuments \"Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf\". \n\nEs handelt sich um eine reine Auflistung von Fallnummern mit diagnostischen Überschriften und Seitenzahlen:\n\n- Einträge 40-67 listen Themen wie:\n  - Hyperthyreose (Einträge 40-46)\n  - DM Typ II / Diabetes mellitus Typ 2 (Einträge 47-57)\n  - Nebennieren Inzidentalom (Einträge 58-65)\n  - Asthma bronchiale (Einträge 66-67)\n\n**Es werden KEINE vollständigen klinischen Fälle präsentiert**, sondern lediglich:\n- Fallnummern (z.B. 082403b, 092101)\n- Diagnose-Überschriften\n- Seitenzahlen (99-172)\n\nEin vollständiger klinischer Fall würde Patienteninformationen, Anamnese, Befunde, Diagnostik etc. enthalten. Diese Informationen befinden sich vermutlich auf den angegebenen Seiten im Hauptdokument, nicht in diesem Inhaltsverzeichnis-Chunk."
+  }
+]

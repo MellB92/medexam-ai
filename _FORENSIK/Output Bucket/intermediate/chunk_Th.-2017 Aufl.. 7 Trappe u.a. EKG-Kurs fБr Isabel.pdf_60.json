@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 61/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer Text behandelt:\n- Theoretische Erklärungen zu Vorhofflimmern und Vorhofflattern\n- EKG-Befunde und deren Interpretation (Abb. 25.6 - 25.10)\n- Diagnostische Kriterien (z.B. elektrokardiografische Kriterien einer Aberranz)\n- Praktische Erfahrungsregeln für die EKG-Diagnostik\n- Merksätze zu Rhythmusstörungen\n- Verweise auf EKG-Beispiele (38, 39, 40)\n\nEs werden **keine konkreten Patienten** mit individuellen Charakteristika (Alter, Geschlecht, Anamnese, Beschwerden, Untersuchungsbefunden) beschrieben. Es handelt sich um rein didaktisches Material zur EKG-Interpretation."
+  }
+]

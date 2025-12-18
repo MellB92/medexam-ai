@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 1/38) enthält **ausschließlich das Inhaltsverzeichnis** der Protokoll-Datei. Es werden lediglich die Titel und Seitenzahlen der folgenden klinischen Fälle aufgelistet:\n\n- Verschiedene Sepsis-Fälle (012401, 012401b)\n- Meningitis/Sepsis-Fälle (012502)\n- Pyelonephritis-Fälle (022001, 022402, etc.)\n- Meningitis-Fälle (032201, 032302, etc.)\n- Herzinsuffizienz/Myokarditis-Fälle (042401)\n- KHK/MI-Fälle (052101, 052502, etc.)\n- pAVK-Fälle (062401)\n\nEs sind **keine vollständigen klinischen Fälle** mit Patienteninformationen, Anamnese, Befunden oder diagnostischen Daten vorhanden. Das Inhaltsverzeichnis dient nur der Navigation zu den eigentlichen Fällen, die in den nachfolgenden Chunks (2-38) zu erwarten sind."
+  }
+]

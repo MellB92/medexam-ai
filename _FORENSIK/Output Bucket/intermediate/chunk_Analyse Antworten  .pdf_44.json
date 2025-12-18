@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** zu medizinischem Wissen:\n   - Gastritis-Typen und Diagnostik\n   - Heilmittel vs. Hilfsmittel\n   - Medikamentenwissen (Citalopram, Johanniskraut, SSRIs)\n   - Definitionen (Antidot, Teratogen, Embryo/Fötus)\n\n2. **Kurzen Bildbefund-Fragen** ohne Patientenkontext:\n   - \"Was ist das?\" → Ileus (nur CT-Befund genannt)\n   - \"Was ist das (Bild: Rö Thorax)?\" → Pneumonisches Infiltrat (nur Röntgenbefund)\n\nDiese Bildfragen stellen **keine vollständigen klinischen Fälle** dar, da sie:\n- Keine Patienteninformationen enthalten\n- Keine Anamnese bieten\n- Keine klinische Präsentation darstellen\n- Nur isolierte diagnostische Bildinterpretationen sind\n\nEs handelt sich um ein Prüfungsprotokoll mit Wissensfragen, nicht um Fallpräsentationen."
+  }
+]

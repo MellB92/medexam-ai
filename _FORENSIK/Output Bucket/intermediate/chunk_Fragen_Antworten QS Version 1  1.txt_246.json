@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text ist eine **theoretische Lehrmaterial-Darstellung**, die:\n\n1. **Didaktisches Material** zur Differenzierung zwischen Thrombus und Embolie darstellt\n2. **Allgemeine medizinische Konzepte** erklärt (Virchow-Trias, Embolietypen)\n3. **Diagnostische Verfahren** auflistet (D-Dimere, Doppler, Angio-CT)\n4. **Keine konkrete Patientenpräsentation** enthält mit:\n   - Keinem spezifischen Patienten\n   - Keiner Anamnese\n   - Keinen individuellen Symptomen\n   - Keinem Fallverlauf\n\nDies ist Teil eines Frage-Antwort-Dokuments zur Qualitätssicherung, das theoretisches Wissen vermittelt, aber keine realen oder simulierten Patientenfälle präsentiert."
+  }
+]

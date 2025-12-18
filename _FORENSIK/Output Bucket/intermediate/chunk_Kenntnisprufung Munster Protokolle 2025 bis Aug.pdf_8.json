@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Polytrauma mit Milzruptur und Scaphoid-Fraktur nach Sekundenschlaf beim LKW-Fahren",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Sekundenschlaf beim LKW-Fahren vor 2 Stunden",
+      "Aus der Spur gekommen",
+      "Starke Abdomenschmerzen nach Anprall am Lenkrad",
+      "Schmerzen rechte Hand nach Abstützen"
+    ],
+    "accident_mechanism": "Sekundenschlaf beim LKW-Fahren vor 2 Stunden, aus der Spur gekommen, am Lenkrad angeprallt, mit rechter Hand abgestützt",
+    "pre_existing_conditions": [
+      "Zustand nach Entfernung der Knoten aus der Nebenschilddrüse",
+      "Arterielle Hypertonie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Rauchen seit 30 Jahren, 10 Zigaretten pro Tag",
+      "LKW-Fahrer Beruf"
+    ],
+    "family_history": [
+      "Mutter verstorben an Aortenaneurysmaruptur",
+      "Vater verstorben an Leberzirrhose"
+    ],
+    "social_history": [
+      "LKW Fahrer seit 20 Jahren",
+      "Verheiratet",
+      "Ein gesunder Sohn",
+      "Raucher: 30 Jahre, 10 Zigaretten/Tag",
+      "Kein Alkoholkonsum"
+    ],
+    "medications": [
+      "RR-Senker (Handelsname nicht dokumentiert)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "cABCDE durchgeführt",
+      "SAMPLER durchgeführt",
+      "Starke Abdomenschmerzen bei Untersuchung",
+      "Rechte Hand untersucht"
+    ],
+    "imaging_findings": [
+      "eFAST: Morison Pouch unklar, möglicherweise Blutung unterhalb der Leberrand",
+      "CT Abdomen mit Kontrastmittel: Milzruptur",
+      "Röntgen Unterarm a.p. und seitlich: Scaphoid-Fraktur Herbert Klassifikation B2"
+    ],
+    "laboratory_findings": [
+      "Hb 10,7 g/dl"
+    ],
+    "suspected_diagnosis": [
+      "Polytrauma",
+      "Milzruptur",
+      "Scaphoid-Fraktur Herbert B2",
+      "Anämie",
+      "Bradykarde Herzrhythmusstörung",
+      "Obstruktives Schlafapnoe-Syndrom (als Ursache des Sekundenschlafs)"
+    ],
+    "diagnostic_approach": [
+      "eFAST Ultraschall",
+      "Monitoring",
+      "CT Abdomen mit Kontrastmittel",
+      "Röntgen Handgelenk a.p. und seitlich"
+    ],
+    "treatment_response": [
+      "Patient lehnte initial Schmerzmittel ab (Schmerzen aushaltbar)",
+      "Venöser Zugang erfolgreich gelegt"
+    ],
+    "complications": [
+      "Anämie (Hb 10,7)",
+      "Bradykarde Herzrhythmusstörung",
+      "Risiko für Pseudoarthrose bei Scaphoid-Fraktur (Durchblutungsproblematik)"
+    ],
+    "follow_up": []
+  }
+]

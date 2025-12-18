@@ -1,0 +1,181 @@
+[
+  {
+    "title": "Lungenembolie nach Wadenkontusion beim Fußball",
+    "patient_age": "junger Mann",
+    "patient_gender": "männlich",
+    "severity": "severe",
+    "chief_complaints": [
+      "starke Brustschmerzen",
+      "Atemnot"
+    ],
+    "accident_mechanism": "Nachmittag beim Fußball spielen, Anprall/jemand hat seine Wade getreten",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Fußballspieler"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenembolie"
+    ],
+    "diagnostic_approach": [
+      "DD-Dimere Schnelltest",
+      "CT ohne KM",
+      "bei nicht eindeutigem Befund KM nachspritzen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Bewusstloser Diabetiker mit unklarer Blutzuckerlage",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "Bewusstlosigkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus (Typ unbekannt)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hypoglykämie",
+      "Hyperglykämie"
+    ],
+    "diagnostic_approach": [
+      "Blutzuckermessung",
+      "Antikörperbestimmung zur Differenzierung DM1/DM2",
+      "Antikörper gegen Beta-Zellen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "CO-Intoxikation bei häuslicher Verbrennung",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "Bewusstlosigkeit",
+      "rote Gesichtsfarbe",
+      "gerötete Arme"
+    ],
+    "accident_mechanism": "häusliche Verbrennung, Patient selbst nicht verbrannt",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "rote Gesichtsfarbe",
+      "gerötete Arme"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "inhalative Intoxikation",
+      "CO-Vergiftung"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Verlegung ins Verbrennungszentrum"
+    ]
+  },
+  {
+    "title": "Dekompressionskrankheit/Barotrauma bei Taucher",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Sensibilitätsverlust beider Beine",
+      "Hämoptyse (Bluthusten)"
+    ],
+    "accident_mechanism": "Tauchen in 40m Tiefe für 5 Minuten, schnelles Auftauchen",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Urlaub in Ägypten",
+      "Taucher"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "keine Sensibilität in beiden Beinen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Barotrauma",
+      "Dekompressionskrankheit",
+      "HWS-Verletzung",
+      "Pneumothorax",
+      "bronchiale Verletzungen"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Druckveränderung von 5 Bar unter Wasser zu normalem Atmosphärendruck"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Maisonneuve-Fraktur bei Triple-malleolär-Fraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen in der Nähe vom Knie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Triple-malleolär-Fraktur"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "begleitende proximale Fibulafraktur",
+      "Maisonneuve-Fraktur"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "proximale Fibulafraktur als Begleitverletzung"
+    ],
+    "follow_up": []
+  }
+]

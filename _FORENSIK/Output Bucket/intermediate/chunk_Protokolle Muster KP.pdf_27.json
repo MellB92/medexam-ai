@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Oberschenkelhalsfraktur nach Sturz bei 67-jähriger Frau mit Meningiom",
+    "patient_age": "67-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "sehr starke Schmerzen in der linken Hüfte",
+      "Ausstrahlung der Schmerzen ins linke Femur bis zur Knie",
+      "linkes Bein in Fehlstellung (außenrotiert)",
+      "kann das linke Bein nicht bewegen",
+      "Schwindel kurz vor dem Sturz"
+    ],
+    "accident_mechanism": "heute Morgen auf dem Weg zur neurologischen Ambulanz auf die linke Körperseite gefallen, vorher schwindelig gewesen, Bewusstsein nicht verloren",
+    "pre_existing_conditions": [
+      "Meningiom seit einem Jahr diagnostiziert",
+      "Diabetes mellitus Typ 2 seit 10 Jahren",
+      "Z.n. Cholezystektomie vor 15 Jahren",
+      "Z.n. TVT links vor 10 Jahren",
+      "ab und zu Kopfschmerzen",
+      "Obstipation",
+      "8 kg Gewichtsabnahme (wegen Lifestyle-Änderung)"
+    ],
+    "medications": [
+      "Ibuprofen bei Bedarf (Dosis unbekannt)",
+      "Metformin 1000 mg 1-0-0",
+      "Schlafmittel ab und zu (Name nicht genannt)"
+    ],
+    "allergies": [
+      "Nickel"
+    ],
+    "physical_examination": [
+      "linkes Bein in Fehlstellung (außenrotiert)",
+      "Bewegungsunfähigkeit des linken Beins",
+      "körperliche Untersuchung: Kopf, Hals, Herz, Lunge, Abdomen, Gefäßstatus",
+      "neurologische Untersuchung grob: nur Reflexe und Sensibilität",
+      "TVT-Zeichen geprüft (Payr, Meyer und Homans-Zeichen)"
+    ],
+    "imaging_findings": [
+      "Beckenübersicht",
+      "Röntgenbild: mediale Schenkelhalsfraktur (sehr deutlich)",
+      "Apoplex ausgeschlossen (keine Blutung, keine Ischämie)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Femurfraktur",
+      "DD: Hüftgelenkluxation",
+      "DD: Beckenringfraktur",
+      "DD: TIA",
+      "DD: Apoplex",
+      "bestätigt: mediale Schenkelhalsfraktur"
+    ],
+    "diagnostic_approach": [
+      "Beckenübersicht",
+      "Röntgenbild",
+      "neurologische Abklärung (Apoplex ausgeschlossen)"
+    ]
+  }
+]

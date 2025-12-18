@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 74/84) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Lernkarten-Format** zu verschiedenen Erkrankungen:\n   - Morbus Crohn (Diagnostik und Therapie)\n   - Colitis ulcerosa (Definition, Klinik, Diagnostik, Therapie)\n   - Kolorektales Karzinom (Beginn der Definition)\n\n2. **Systematische Darstellung** von:\n   - Definitionen\n   - Ätiologie/Risikofaktoren\n   - Klinik (typische Symptome)\n   - Diagnostik (Anamnese, KU, Labor, Apparativ)\n   - Therapie (Allgemein, Medikamentös, Chirurgisch)\n   - Differentialdiagnosen\n   - Komplikationen\n   - Prognose\n\n3. **Theoretisches Wissen** ohne konkrete Patientenbeispiele\n\nEs handelt sich um ein **Lehrbuch/Lernkartensystem** mit strukturierten Krankheitsbeschreibungen, aber **keine narrativen Patientenfälle** mit konkreten Angaben zu Alter, Geschlecht, individuellem Unfallhergang oder spezifischen Untersuchungsbefunden eines einzelnen Patienten."
+  }
+]

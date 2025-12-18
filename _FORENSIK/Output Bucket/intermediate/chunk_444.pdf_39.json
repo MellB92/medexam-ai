@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 40/155) enthält **keine klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Lehrbuchmaterial zur Röntgen-Thorax-Befundung** - systematische Anleitung zur Interpretation von Thoraxröntgenbildern\n2. **Anatomische Beschreibungen** - Auflistung normaler anatomischer Strukturen (Thoraxwand, Zwerchfell, Pleura, Lunge, Mediastinum, etc.)\n3. **Befundungs-Checklisten** - strukturierte Auflistung, was bei der Bildbeurteilung zu beachten ist\n4. **Beispielformulierungen für normale Befunde** (in Anführungszeichen), z.B.:\n   - \"Die Trachea ist mittelständig und die Bronchien sind frei einsehbar...\"\n   - \"Das Zwerchfell ist scharf abgrenzbar...\"\n   - \"Das Mediastinum ist mittelständig...\"\n\nDiese Beispielbefunde sind **generische Musterbefunde** für die Lehre, nicht reale Patientenfälle mit klinischer Präsentation, Anamnese oder spezifischen Befunden.\n\nEs handelt sich um einen **didaktischen Lehrabschnitt** zur radiologischen Befundung, nicht um Fallpräsentationen."
+  }
+]

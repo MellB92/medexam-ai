@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Akute Pyelonephritis bei Schauspielerin mit Diabetes Typ I",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen in der linken Flanke",
+      "Dysurie",
+      "Fieber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Belastungsasthma",
+      "Diabetes mellitus Typ I",
+      "Z.n. Unterarmfraktur (konservativ behandelt)",
+      "Knieverletzung vor 1 Woche"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Diabetes mellitus Typ I"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Schauspielerin"
+    ],
+    "medications": [
+      "Insulinpumpe (seit 6 Monaten)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akute Pyelonephritis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

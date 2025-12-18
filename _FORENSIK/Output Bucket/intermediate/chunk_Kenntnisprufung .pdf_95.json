@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Akute Appendizitis mit Peritonitis bei Patientin mit Klappenfehler",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "Diffuse unerträgliche Bauchschmerzen",
+      "Schmerzverlauf: akut beginnend, dann schmerzfrei, dann diffuse Schmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Klappenfehler (Mitralklappeninsuffizienz)",
+      "TVT vor 34 Jahren"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Ibuprofen (in den letzten Tagen eingenommen)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Abwehrspannung bei Palpation des Abdomens",
+      "Mitralklappeninsuffizienz bei Auskultation (am besten in Linksseitenlage zu hören)"
+    ],
+    "imaging_findings": [
+      "Appendizitis in Sonographie mit Ödem an der Wand"
+    ],
+    "laboratory_findings": [
+      "Leukozyten 16.000/µl"
+    ],
+    "suspected_diagnosis": [
+      "Akute Appendizitis mit Peritonitis (komplizierte Appendizitis)",
+      "Mesenteriale Ischämie (DD - wegen Schmerzverlauf)",
+      "Ileus (DD - wegen Bauchschmerzen und kein Stuhlgang vor 2 Tagen)",
+      "Perforiertes Ulkus (DD - wegen Ibuprofen-Einnahme)"
+    ],
+    "diagnostic_approach": [
+      "Abdomensonographie",
+      "Röntgenaufnahme des Abdomens im Stehen oder Linksseitenlage",
+      "Suche nach Spiegelbildung (bei Ileus) oder freier Luft (bei Perforation)"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Peritonitis"
+    ],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 123/284) enthält **keine klinischen Patientenfälle oder Präsentationsfälle**.\n\nDer Text besteht ausschließlich aus:\n\n1. **Medikamentenleitlinien** (Metformin-Gabe mit Parametern wie eGFR, Dosierung, Kontraindikationen)\n2. **Theoretischen Fragen und Antworten** aus einem Fragenkatalog:\n   - Frage 200: Off-Label-Use Definition\n   - Frage 201: GLP-1 Wirkmechanismus\n   - Frage 202: Gelbfieber-Impfung bei kurzer Vorlaufzeit\n   - Frage 203: Bedside-Test (Urinteststreifen)\n\nEs handelt sich um **Lehrmaterial und Prüfungsvorbereitung** ohne konkrete Patientenfälle mit individueller Anamnese, Befunden oder diagnostischem Vorgehen."
+  }
+]

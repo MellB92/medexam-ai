@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 6/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle**.\n\nDer Text behandelt ausschließlich:\n- Grundlagen der kardialen Erregungsleitung (Sinusknoten, AV-Knoten, His-Bündel, Purkinje-Fasern)\n- Theoretische Erklärungen zum Elektrokardiogramm (EKG)\n- Nomenklatur der EKG-Zacken (P-Welle, QRS-Komplex, ST-Strecke, T-Welle)\n- Schematische Darstellungen des Erregungsleitungssystems\n- Technische Aspekte der EKG-Ableitung\n\nEs handelt sich um rein didaktisches Material ohne Patientenbeispiele, Fallpräsentationen oder klinische Szenarien."
+  }
+]

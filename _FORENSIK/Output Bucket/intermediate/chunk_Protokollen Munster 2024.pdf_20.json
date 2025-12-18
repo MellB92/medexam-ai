@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer gesamte Text besteht aus:\n\n1. **Prüfungsfragen zu theoretischem Wissen:**\n   - EKG-Befunde (Sinusbradykardie, AV-Block) ohne konkrete Patientenvorstellung\n   - Bildmaterial (TVT, Ileus, pneumonisches Infiltrat) ohne vollständige Falldarstellung\n   - Theoretische Fragen zu Gastritis, Medikamenten, Antidota etc.\n\n2. **Fragmentarische Bildbesprechungen:**\n   - \"Er zeigte mir ein EKG...\" - keine Patientengeschichte\n   - \"Dann zeigte er mir ein Bild mit einer ausgeprägten tiefen Venenthrombose\" - kein vollständiger Fall\n   - \"Sie hat mir ein CT-Abdomen gezeigt...\" - nur Bildbefund, keine Anamnese\n   - \"Nächstes Bild, Rö Thorax?\" - isolierter Befund\n\n3. **Lehrgespräch/Prüfungsdialog:**\n   - Definitionen (Heilmittel, Hilfsmittel, Antidot, Teratogen)\n   - Pharmakologie (Citalopram, Johanniskraut)\n\nEs fehlen bei allen erwähnten Befunden die wesentlichen Elemente eines klinischen Falls: Anamnese, vollständige Symptombeschreibung, Patientenkontext und eine zusammenhängende Falldarstellung."
+  }
+]

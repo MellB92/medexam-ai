@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"ST-Hebungsinfarkt (STEMI) Hinterwand\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"ST-Hebungsinfarkt (STEMI) im Bereich der Hinterwand\"],\n    \"diagnostic_approach\": [\"Sofortige Kontaktaufnahme mit interventionellem Zentrum\", \"Primäre perkutane Koronarintervention (PCI/PTCA)\", \"ASS + Prasugrel oder Ticagrelor (Plättchenaggregationshemmer)\", \"Heparin (Antikoagulans)\", \"Morphin (Analgesie)\", \"MCP/Antiemetika\"]\n  }\n]\n```"
+  }
+]

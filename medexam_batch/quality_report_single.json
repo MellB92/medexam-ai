@@ -1,0 +1,21 @@
+{
+  "summary": {
+    "total_files": 1,
+    "total_entries": 4505,
+    "problematic_entries": 0,
+    "empty_answers": 0,
+    "server_errors": 0,
+    "short_answers": 0
+  },
+  "files": [
+    {
+      "filename": "evidenz_antworten.json",
+      "entries": 4505,
+      "problematic_entries": 0,
+      "empty_answers": 0,
+      "server_errors": 0,
+      "short_answers": 0
+    }
+  ],
+  "problematic_entries": []
+}

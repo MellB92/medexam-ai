@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Achalasie mit retrosternalen Schmerzen und Gewichtsverlust",
+    "patient_age": "46 Jahre",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Retrosternale, postprandiale Schmerzen seit ca. 6 Monaten",
+      "Nicht ausstrahlend, progredient",
+      "Foetor ex ore",
+      "Aufstoßen",
+      "Zeitweise Dyspnoe",
+      "Globusgefühl, eher retrosternal",
+      "6 kg Gewichtsverlust in den letzten 6 Monaten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Zustand nach Appendektomie",
+      "Rezidivierende Harnwegsinfekte",
+      "Motorradunfall mit Oberarmfraktur (konservativ mit Gips behandelt)",
+      "Mumps und Windpocken in der Kindheit",
+      "Chronische Schmerzen im LWS-Bereich"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater an Herzerkrankung verstorben",
+      "Mutter vor Kurzem wegen Struma operiert",
+      "Bruder an AIDS verstorben",
+      "Zweiter Bruder mit Entzündung am großen Zeh"
+    ],
+    "social_history": [
+      "Verheiratet",
+      "Zwei gesunde Kinder"
+    ],
+    "medications": [
+      "Ibuprofen bei Bedarf",
+      "Ein Mittel gegen Aufstoßen"
+    ],
+    "allergies": [
+      "Erdnüsse",
+      "Penicillin (Urtikaria)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Keine Dysphonie",
+      "Keine Odynophagie",
+      "Keine weitere B-Symptomatik"
+    ],
+    "imaging_findings": [
+      "Bild mit Breischluck zur Interpretation"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Achalasie",
+      "Ösophaguskarzinom",
+      "Struma maligna",
+      "GERD"
+    ],
+    "diagnostic_approach": [
+      "Breischluck",
+      "Weitere Diagnostik zur Achalasie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

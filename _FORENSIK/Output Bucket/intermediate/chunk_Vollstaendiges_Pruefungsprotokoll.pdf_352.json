@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Patientin mit Handkribbeln und anamnestischer Fraktur",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Kribbeln in der rechten Hand"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Karpaltunnelsyndrom"
+    ],
+    "diagnostic_approach": []
+  }
+]

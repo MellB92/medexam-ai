@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 5/6) enthält **keine vollständigen, extrahierbaren klinischen Präsentationsfälle**.\n\nDer Text besteht aus:\n\n1. **Fragment eines körperlichen Untersuchungsbefundes** (Anfang abgeschnitten) - Teil eines größeren Falls aus vorherigen Chunks\n2. **Fragment eines psychiatrischen Entlassungsberichts** - ohne Patientenidentifikation am Anfang, therapeutischer Verlauf und Entlassung\n3. **Verwaltungsdokument** - Bescheid über Schwerbehindertenrecht mit GdB 30\n\n**Warum keine Extraktion:**\n\n- Der körperliche Befund am Anfang ist ein **Fragment** ohne Kontext (kein Patientenalter, Geschlecht, Anamnese erkennbar)\n- Der psychiatrische Bericht ist **unvollständig** - beginnt mitten im Text ohne vollständige Aufnahmeinformationen\n- Der Verwaltungsbescheid ist **kein klinischer Präsentationsfall**, sondern ein administratives Dokument\n\nGemäß den Anweisungen werden nur **vollständige** klinische Fälle extrahiert, keine abgeschnittenen oder fragmentarischen Berichte."
+  }
+]

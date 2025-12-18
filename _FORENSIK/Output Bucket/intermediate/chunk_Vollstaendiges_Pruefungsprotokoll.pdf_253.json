@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 254/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nEs handelt sich ausschließlich um:\n\n1. **Theoretische Prüfungsfragen** mit Musterantworten zu verschiedenen medizinischen Themen:\n   - Händedesinfektion (hygienisch vs. chirurgisch)\n   - Arbeitsunfall/Berufsgenossenschaft\n   - Pyelonephritis (Therapie, Diagnostik, Komplikationen)\n   - Leberbefunde im Ultraschall\n   - EKG-Beschreibung und Myokarditis\n   - Thoraxschmerzen in der Notaufnahme\n\n2. **Fragmentarische Informationen**: \n   - Bei \"Thoraxschmerzen\" wird zwar ein Szenario erwähnt (\"Patient mit Thoraxschmerzen in der Notaufnahme\"), aber es fehlen alle charakteristischen Elemente eines klinischen Falls (Alter, Geschlecht, konkrete Anamnese, spezifische Befunde)\n   - Die EKG-Beschreibung erwähnt \"V.a. Myokarditis\", aber ohne Patientenkontext\n\n3. **Keine vollständigen Fallpräsentationen** mit:\n   - Patientendemographie\n   - Strukturierter Anamnese\n   - Klinischen Befunden\n   - Diagnostischem Verlauf\n\nDies ist ein Prüfungsprotokoll mit theoretischen Wissensfragen, keine Fallsammlung."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 48/254) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** zu medizinischen Themen wie:\n   - Therapie der arteriellen Hypertonie (aHT)\n   - Aldosteronantagonisten (Spironolacton)\n   - Niereninsuffizienz und GFR\n   - Antihypertensive Medikamentenkombinationen\n   - Betablocker und Diuretika\n   - Thiamazol und dessen Nebenwirkungen\n   - Strahlenschutz\n   - Transfusionsgesetz\n   - Herzinsuffizienz\n\n2. **Einer einzelnen radiologischen Befundung**:\n   - \"Was ist pathologisch im Röntgen-Thorax?\" → \"Lobärpneumonie (rechter Oberlappen)\"\n   \n   Dies ist jedoch **kein vollständiger klinischer Fall**, da keine Patienteninformationen (Alter, Geschlecht, Anamnese, Symptome, weitere Befunde) vorliegen, sondern nur eine isolierte Bildgebungsfrage.\n\nEs handelt sich um ein **Prüfungsprotokoll oder eine Lernkartensammlung** mit Frage-Antwort-Paaren, nicht um eine Fallsammlung mit Patientenpräsentationen."
+  }
+]

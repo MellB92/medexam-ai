@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Luxierte Hüft-TEP\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Luxierte Hüft-TEP\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"Zustand nach Hüft-TEP\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\"Luxierte Hüft-TEP\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Luxierte Hüft-TEP\"],\n    \"diagnostic_approach\": [\"Bildgebung\", \"Geschlossene Reposition unter Analgosedierung\", \"Offene Reposition in seltenen Fällen\"]\n  },\n  {\n    \"title\": \"Cholezystolithiasis\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\"Cholezystolithiasis\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Cholezystolithiasis\"],\n    \"diagnostic_approach\": [\"Bildgebung\", \"Therapieoptionen: abwartende Beobachtung, medikamentöse Behandlung oder Cholezystektomie\"]\n  }\n]\n```"
+  }
+]

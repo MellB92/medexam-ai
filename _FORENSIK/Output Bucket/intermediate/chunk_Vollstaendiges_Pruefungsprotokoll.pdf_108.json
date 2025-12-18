@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 109/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** zu bildgebenden Verfahren (CT-Bildgebung, Kontrastmittel)\n2. **Allgemeinen medizinischen Wissensfragen** zu:\n   - Operativen Verfahren bei Hüftproblemen\n   - Laparoskopie-Technik und -Durchführung\n   - Fisteln und deren Komplikationen\n   - Laborwertinterpretation (TSH, T3, T4, Bilirubin)\n\n3. **Fragmentarische Erwähnungen** ohne vollständige Falldarstellung:\n   - \"junge Patientin mit Hüftproblemen\" (keine Anamnese, keine detaillierten Befunde)\n   - CT-Abdomen mit freier Luft (nur als Bildinterpretationsübung, kein vollständiger Fall)\n\nEs handelt sich um ein **Prüfungsprotokoll mit Frage-Antwort-Sequenzen** zur Wissensabfrage, nicht um klinische Fallpräsentationen mit vollständiger Anamnese, Untersuchungsbefunden und diagnostischem Vorgehen."
+  }
+]

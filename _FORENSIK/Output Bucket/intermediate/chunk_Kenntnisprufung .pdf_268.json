@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Stimmveränderung und Abgeschlagenheit mit Verdacht auf Hypothyreose",
+    "patient_age": "61-jähriger",
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "Stimmveränderung",
+      "Abgeschlagenheit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Verlangsamung",
+      "Weniger Leistung bei der Arbeit",
+      "Antriebslosigkeit"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Bauchuntersuchung",
+      "Lungenuntersuchung",
+      "Herzuntersuchung",
+      "Beinuntersuchung",
+      "Schilddrüsenuntersuchung",
+      "Pulsuntersuchung",
+      "Reflexuntersuchung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "TSH, T3, T4, TPO, TG, TRAK Parameter angefordert"
+    ],
+    "suspected_diagnosis": [
+      "Hypothyreose",
+      "Herzinsuffizienz"
+    ],
+    "diagnostic_approach": [
+      "Überweisung vom HNO",
+      "Körperliche Untersuchung",
+      "Laboruntersuchung mit Schilddrüsenparametern"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Hypothyreose mit mikrozytärer Anämie",
+    "patient_age": "38J",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Abgeschlagenheit seit ein paar Wochen",
+      "Heiserkeit",
+      "Haarausfall"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Frühblüherallergie",
+      "Katzenallergie",
+      "chronische Nackenschmerzen",
+      "Z.n. Appendektomie",
+      "Z.n. distale Unterarm-Fraktur nach Fahrradunfall (OP-versorgt)",
+      "Z.n. Korrektur einer Septumdeviation",
+      "Z.n. Mole-Entfernung vor einem Monat"
+    ],
+    "medications": [
+      "Ibuprofen bei Bedarf",
+      "Folsäure (wegen Schwangerschaftswunsch)",
+      "Macrogol (wegen Verstopfungsneigung)",
+      "Cetirizin",
+      "Nasenspray"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "RR Messung",
+      "Schilddrüsenuntersuchung",
+      "Untersuchung der Hand mit Beschwerden (Kribbeln)",
+      "orientierende neurologische Untersuchung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "hypochrome, mikrozytäre Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Hypothyreose",
+      "Anämie (Eisenmangel)",
+      "Schwangerschaft (DD)",
+      "Beckerasthma (DD)",
+      "Glucosestoffwechselstörung (DD)"
+    ],
+    "diagnostic_approach": [
+      "Labor: TSH, fT3, fT4",
+      "Eisenstatus (Ferritin, Transferrin, Transferrinsättigung)",
+      "Blutungsquelle ausschließen",
+      "ggf. Schwangerschaftstest"
+    ]
+  },
+  {
+    "title": "Cholezystitis",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "neurologische Untersuchung",
+      "chirurgischer Wundverschluss"
+    ],
+    "imaging_findings": [
+      "Sono-Bild Leber mit Cholestase und Steine"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Cholezystitis",
+      "akutes Abdomen"
+    ],
+    "diagnostic_approach": [
+      "ERCP"
+    ]
+  },
+  {
+    "title": "Humerusfraktur nach Sturz",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "starke Schmerzen",
+      "eingeschränkte Beweglichkeit in linken Arm",
+      "Fixationsstellung im Ellenbogen"
+    ],
+    "accident_mechanism": "Sturz auf den linken Arm beim Hochranzanz Trauma von 2 m Höhe",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Untersuchung linker Arm",
+      "neurologische Untersuchung",
+      "Lunge abhören",
+      "Herz abhören",
+      "Thrombosezeichen prüfen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Humerusfraktur (Humeruskopf oder Humerusschaft)"
+    ],
+    "diagnostic_approach": [
+      "Röntgen linker Arm",
+      "Prüfung auf Frühkomplikationen bei Frakturen"
+    ]
+  },
+  {
+    "title": "Schultertrauma nach Sturz bei Morbus Crohn-Patientin",
+    "patient_age": "jung",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "frisches Trauma linke Schulter",
+      "kleine Schürfwunde"
+    ],
+    "accident_mechanism": "Trauma linke Schulter",
+    "pre_existing_conditions": [
+      "Morbus Crohn",
+      "Z.n. Splenektomie (traumabedingt)",
+      "Z.n. Analabszess"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "DMS überprüft",
+      "Wunde untersucht",
+      "Händedesinfektion demonstriert"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Tetanusimpfung-Status abfragen"
+    ]
+  }
+]

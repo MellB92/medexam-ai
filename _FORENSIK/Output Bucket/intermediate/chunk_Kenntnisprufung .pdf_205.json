@@ -1,0 +1,74 @@
+[
+  {
+    "title": "pAVK Stadium IIa mit Claudicatio intermittens",
+    "patient_age": null,
+    "patient_gender": "Mann",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Wadenschmerzen beim Laufen nach ca. 400m",
+      "Claudicatio intermittens - Schmerzen bessern sich in Pause",
+      "gelegentlich Luftnot"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Hyperlipidämie",
+      "Z.n. Bandscheiben-OP L4/L5 vor 20 Jahren",
+      "Z.n. COVID-19 mit Geschmackverlust, Husten und Fieber (vor 3 Wochen nach Thailand-Reise)"
+    ],
+    "comorbidities": [
+      "Obstipation (mit Zäpfchen behandelt)"
+    ],
+    "risk_factors": [
+      "Rauchen 52 Pack Years",
+      "Alkoholkonsum 1 Flasche Bier täglich",
+      "Hyperlipidämie",
+      "Arterielle Hypertonie"
+    ],
+    "family_history": [
+      "Vater: Tuberkulose",
+      "Mutter: Gallenblasenerkrankung (nicht genau bekannt)",
+      "Sohn: gesund, Z.n. Skiunfall mit Fraktur"
+    ],
+    "social_history": [
+      "52 Pack Years Rauchen",
+      "Alkohol: 1 Flasche Bier abends",
+      "Reise nach Thailand vor 3 Wochen",
+      "Vollständig geimpft in Deutschland inkl. COVID-19",
+      "Keine zusätzlichen Reiseimpfungen vor Thailand"
+    ],
+    "medications": [
+      "Lisinopril 20mg 1-0-0 (ACE-Hemmer)",
+      "Atorvastatin 20mg 0-0-1",
+      "Zäpfchen bei Bedarf (Name unbekannt)"
+    ],
+    "allergies": [
+      "Penicillinallergie mit Exanthem"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Komplette körperliche Untersuchung durchgeführt",
+      "Alle Pulse untersucht",
+      "Lungenperkussion durchgeführt",
+      "Leberuntersuchung",
+      "Alle Reflexe inklusive Babinski untersucht",
+      "Untersuchung auf Polyneuropathie",
+      "IV-Zugang gelegt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "pAVK Stadium IIa (Verdachtsdiagnose)"
+    ],
+    "diagnostic_approach": [
+      "Knöchel-Arm-Index mit Normwerten und Bewertung",
+      "Differentialdiagnose: TVT nach langer Reise",
+      "Klinische Unterscheidung zwischen pAVK und TVT",
+      "Stadien-Einteilung der pAVK",
+      "Ätiologie und betroffene Arterienschichten untersuchen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

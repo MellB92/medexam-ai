@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Anämie bei geplantem Hüft-TEP, Eisenmangelanämie bei NSAID-Einnahme",
+    "patient_age": "63 Jahre",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Anämie",
+      "Kopfschmerzen (3/10)",
+      "Hüftschmerzen (6/10)",
+      "Fatigue",
+      "Leistungsminderung",
+      "Gewichtsabnahme von 3 kg in 6 Wochen",
+      "schmerzbedingte Insomnie",
+      "Obstipation ohne Blut im Stuhl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "DM Typ II",
+      "Perikarditis mit 21 Jahren",
+      "Unterschenkelfraktur mit 25 Jahren (konservativ behandelt)",
+      "inkarzerierte Leistenhernie rechts vor 30 Jahren (Not-OP)",
+      "fortgeschrittene Koxarthrose links"
+    ],
+    "medications": [
+      "Diclofenac 75 mg 1-0-1",
+      "Metformin 750 mg 1-0-1"
+    ],
+    "allergies": [
+      "Nickelallergie",
+      "Ex-Raucher (15 Pack Years), seit 5 Jahren rauchfrei",
+      "Alkoholkonsum: 1-2 Bier am Wochenende"
+    ],
+    "physical_examination": [
+      "180 cm groß",
+      "80 kg"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Eisenmangelanämie durch chronische Blutung (NSAID-Einnahme)",
+      "Anämie bei chronischer Erkrankung",
+      "Vitamin-B12-Mangel",
+      "Folsäuremangel",
+      "Maligne Erkrankungen (z.B. Kolonkarzinom)",
+      "Chronische Nierenerkrankung"
+    ],
+    "diagnostic_approach": [
+      "Labordiagnostik: Blutbild, Eisen, Ferritin, Transferrinsättigung, Vitamin B12, Folsäure, Nierenwerte (Kreatinin, eGFR), Leberwerte, CRP, BSG, TSH, Blutzucker, HbA1c",
+      "Stuhldiagnostik: Hämokult-Test",
+      "Bildgebung: Abdomen-Sonographie",
+      "Ösophagogastroduodenoskopie (ÖGD)",
+      "Koloskopie"
+    ]
+  }
+]

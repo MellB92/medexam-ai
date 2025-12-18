@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 26/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** zu medizinischen Themen:\n   - Pneumohemothorax-Beschreibung und Behandlung\n   - Zytostatika-Wirkungsorte\n   - Helicobacter pylori-Therapie (Wismut, Tetrazykline)\n   - Strahlenschutz\n   - Patientenrechte\n\n2. **Frage-Antwort-Paaren (qa_paare)** ohne konkrete Patientenfälle:\n   - Verletzungen bei stumpfem Bauchtrauma (allgemeine Aufzählung)\n   - Thoraxtrauma-Verletzungen (allgemeine Aufzählung)\n   - Diagnostikmaßnahmen bei Bauchtrauma (theoretisch)\n   - Skaphoidfraktur-Besonderheiten (theoretisch)\n   - Tropfenberechnung\n   - KHK-Risikofaktoren (theoretisch)\n\nEs handelt sich um **theoretisches Prüfungswissen** und **Musterlösungen**, nicht um konkrete Patientenpräsentationen mit Anamnese, Untersuchungsbefunden und individuellem Krankheitsverlauf."
+  }
+]

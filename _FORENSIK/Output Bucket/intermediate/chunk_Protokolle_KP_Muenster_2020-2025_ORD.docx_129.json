@@ -1,0 +1,217 @@
+[
+  {
+    "title": "Sjögren-Syndrom mit Multiorganbeteiligung",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Trockene Augen (Sicca-Symptomatik)",
+      "Trockener Mund",
+      "Fremdkörper- und Ermüdungsgefühl in Augen",
+      "Trockene Nahrung kann nicht geschluckt werden ohne zusätzliches Trinken",
+      "Lokale Schwellung und Arthralgien in den Kniegelenken",
+      "Diffuse Cephalgien",
+      "Hyposomnie",
+      "Fatigue",
+      "Appetitverminderung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Passagere Parotitis vor ein paar Monaten",
+      "Z. n. Entfernung eines gutartigen Hauttumors am Kopf",
+      "Z. n. Appendektomie im Jugendalter mit Feststellung von Darmdivertikel"
+    ],
+    "medications": [
+      "Bepanthen Salbe bis 5x täglich bei Bedarf",
+      "Novalgin Tropfen bei Bedarf"
+    ],
+    "allergies": [
+      "Pruritus beim Tragen von Kleidungen mit Elasthan"
+    ],
+    "physical_examination": [
+      "Gesichtshautkolorit rosig",
+      "Gerötete Augen, keine Sehbeeinträchtigung, Okulomotorik regelrecht",
+      "Keine Absonderung von Augensekret",
+      "Reizloser Kocher-Kragenschnitt in situ",
+      "Midvastus-Zugang an den Kniegelenken",
+      "Lokaler temporaler Schmerzdruckpunkt beidseits",
+      "Keine Lymphadenopathie",
+      "Hörtest mit Stimmgabel: Knochenleitung links aufgehoben",
+      "HWS frei beweglich",
+      "Grobe Untersuchung der Schilddrüse ohne Besonderheiten",
+      "RR 130/70 mmHg",
+      "Reine und rhythmische Herztöne",
+      "VAG über alle Lungenabschnitte",
+      "Inspektorisch keine Knieschwellungen oder lokale Infektzeichen",
+      "Druckschmerz über laterale Menisken",
+      "Keine tanzende Patella",
+      "Reflexe normal, seitengleich (Patella- und Achillessehnenreflex)"
+    ],
+    "imaging_findings": [
+      "Röntgen Knie vor 1 Woche unauffällig"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sjögren-Syndrom eventuell mit Gelenkbeteiligung",
+      "Pulmonale und renale Manifestation möglich",
+      "DD: Mikulicz-Syndrom im Rahmen einer Leukämie (z.B. CLL)",
+      "DD: Durch Klimaanlage ausgelöste Schleimhautaustrocknung",
+      "DD: Riesenzellarteriitis",
+      "DD: Rheumatoide Arthritis als Overlap-Syndrom"
+    ],
+    "diagnostic_approach": [
+      "Stationäre Aufnahme zur weiteren Diagnostik",
+      "Labor: Entzündungswerte und Antikörper (ANA, ANCA)",
+      "U-Status/U-Kultur",
+      "EKG",
+      "Sonographie",
+      "Röntgen-Thorax",
+      "Schirmer-Test",
+      "HNO-ärztliche Vorstellung",
+      "Augenärztliche Vorstellung"
+    ]
+  },
+  {
+    "title": "Schulterluxation nach Trauma",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Schulterluxation nach Trauma"
+    ],
+    "accident_mechanism": "Trauma",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen a.p.: Schulterluxation",
+      "Bankart-Läsion bei wiederkehrenden Luxationen",
+      "Hill-Sachs-Läsion bei wiederkehrenden Luxationen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schulterluxation",
+      "Bei Rezidiven: Bankart- und Hill-Sachs-Läsion"
+    ],
+    "diagnostic_approach": [
+      "Röntgen in anderen Ebenen zum Ausschluss einer Fraktur",
+      "PDMS-Prüfung (Periphere Durchblutung, Motorik, Sensibilität)",
+      "Bei Rezidiven: Schulter-Arthroskopie",
+      "Ggf. offene OP zur Aufhebung der Läsionen",
+      "Ggf. Schulterprothese je nach Alter, Wunsch, Komorbidität"
+    ]
+  },
+  {
+    "title": "Kniegelenksarthrose",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Kniegelenk in 2 Ebenen: Typische Arthrose mit Kalkablagerungen",
+      "Subchondrale Zyste",
+      "Meniskusverschleiß"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kniegelenksarthrose"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "LWS-Degeneration mit Spondylolisthesis",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen LWS seitlich: Facettenarthrose",
+      "Spondylolisthesis",
+      "Verminderung der Bandscheibenhöhe"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Facettenarthrose",
+      "Spondylolisthesis",
+      "Bandscheibendegeneration"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Refluxösophagitis mit Verdacht auf Barrett-Ösophagus",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Dysphagie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Endoskopie Ösophagus: Ausgedehnte Erosionen",
+      "Hyperämie",
+      "Fibrinbelag",
+      "Fraglich Z. n. Blutung",
+      "An der 7 bis 9 Uhr verdächtiger Knoten"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Barrett-Ösophagus",
+      "GERD (Gastroösophageale Refluxkrankheit)"
+    ],
+    "diagnostic_approach": [
+      "Probeentnahme und Histologie des verdächtigen Knotens",
+      "Los-Angeles-Klassifikation"
+    ]
+  },
+  {
+    "title": "Hinterwandinfarkt",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: Hinterwandinfarkt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hinterwandinfarkt (HWI)"
+    ],
+    "diagnostic_approach": [
+      "PTCA (Perkutane transluminale Koronarangioplastie)"
+    ]
+  },
+  {
+    "title": "Lebermetastasen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT Leber mit KM in transversalem Schnitt: 4 homogene Raumforderungen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lebermetastasen",
+      "Lebertumoren"
+    ],
+    "diagnostic_approach": []
+  }
+]

@@ -1,0 +1,463 @@
+[
+  {
+    "title": "Akuter Brustschmerz mit inferierem Myokardinfarkt",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Akuter Brustschmerz"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit ausgeprägtem inferioren Myokardinfarkt",
+      "ST sehr hoch",
+      "AV-Block Grad III",
+      "P versteckt in ST"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Inferiorer Myokardinfarkt",
+      "AV-Block Grad III"
+    ],
+    "diagnostic_approach": [
+      "EKG"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "AV-Block Grad III"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Lobärpneumonie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild mit Lobärpneumonie"
+    ],
+    "laboratory_findings": [
+      "CRP 56"
+    ],
+    "suspected_diagnosis": [
+      "Lobärpneumonie"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax",
+      "CRP"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Lebermetastasen mit Aszites",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Aszites"
+    ],
+    "imaging_findings": [
+      "Sonografie: Leber mit Aszites",
+      "Vollknotig nur klein Kanal"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Metastasen mit Aszites"
+    ],
+    "diagnostic_approach": [
+      "Sonografie"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Aszites"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Zentrales Lungenkarzinom mit Hämoptysen",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Hämoptysen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax p.a. und seitlich: zentrales Lungenkarzinom",
+      "Verschattung am Aortenbogen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Zentrales Lungenkarzinom",
+      "SCLC vs NSCLC"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax",
+      "CT mit Kontrastmittel notwendig"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Hämoptysen durch Gefäßarrosion"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Perikarditis mit nicht-ischämischer ST-Hebung",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen",
+      "Reibungsgeräusch"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "NSAR",
+      "ggf. Glukokortikoide",
+      "Colchizin zur Prophylaxe"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Reibungsgeräusch"
+    ],
+    "imaging_findings": [
+      "EKG mit nicht-ischämischer ST-Hebung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perikarditis",
+      "Perimyokarditis - viral, urämisch oder tumorbedingt"
+    ],
+    "diagnostic_approach": [
+      "EKG"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Perikarderguss",
+      "Rezidiv-Perikarditis in 30%",
+      "Verwachsungen",
+      "Schwiele"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Akuter Gichtanfall",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Arthritis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Primäre Hyperurikämie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Purinreiche Ernährung (Fleisch, Würste, Bier)"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "NSAR",
+      "ggf. Glukokortikoide",
+      "ggf. Colchizin"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Bild von Gichtanfall"
+    ],
+    "laboratory_findings": [
+      "Hyperurikämie durch Überschreiten der Filtrationsniveau in den Nieren"
+    ],
+    "suspected_diagnosis": [
+      "Arthritis urica",
+      "Gichtanfall",
+      "Primäre Hyperurikämie"
+    ],
+    "diagnostic_approach": [
+      "Purinarme Diät bei beschwerdefreien Intervallen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Cholezystolithiasis mit postoperativer Sepsis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Ab und zu Beschwerden",
+      "postoperativ Bauchschmerzen",
+      "schnelle Atmung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Cholezystolithiasis"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Cefazolin präoperativ",
+      "Pip/Taz postoperativ"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "RR unter 100",
+      "Tachypnoe",
+      "QuickSOFA positiv"
+    ],
+    "physical_examination": [
+      "Bauchschmerzen"
+    ],
+    "imaging_findings": [
+      "US-Bild mit Gallenblase mit Steinen",
+      "Gallenblaseempyem"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Cholezystolithiasis",
+      "Postoperative Komplikationen",
+      "Sepsis"
+    ],
+    "diagnostic_approach": [
+      "Elektive Cholezystektomie durchgeführt"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Galleleckage",
+      "Peritonitis",
+      "Sepsis",
+      "Aufklärungsfehler (fehlende Alternative in Dokumentation)"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Morbus Bechterew mit Kolitis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Morbus Bechterew"
+    ],
+    "comorbidities": [
+      "Chronisch entzündliche Darmerkrankung",
+      "Kolitis"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "NSAR",
+      "ggf. Glukokortikoide",
+      "Biologikals"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Beckenfraktur",
+      "Becken-Übersicht: Iliosakralgelenk betroffen",
+      "Koloskopisches Bild: Kolon mit gelblichen Beulen",
+      "CT mit Colon ascendens Kolitis"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Morbus Bechterew",
+      "Assoziierte Kolitis"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Becken",
+      "Koloskopie",
+      "CT"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Rippenfrakturen",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax mit 2 Rippenfrakturen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rippenfrakturen"
+    ],
+    "diagnostic_approach": [
+      "Systematische Röntgen-Analyse"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Akuter Apoplex mit verwaschener Sprache",
+    "patient_age": null,
+    "patient_gender": "Mann",
+    "severity": "severe",
+    "chief_complaints": [
+      "Verwaschene Sprache"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Verwaschene Sprache"
+    ],
+    "imaging_findings": [],
+    "suspected_diagnosis": [
+      "Hämorrhagischer Apoplex",
+      "Ischämischer Apoplex"
+    ],
+    "diagnostic_approach": [
+      "CT zum Ausschluss hämorrhagischer Apoplex",
+      "Bei ischämischem Apoplex: Lysetherapie oder Reperfusion",
+      "Bei hämorrhagischem Apoplex: Neurochirurg konsultieren, ggf. OP"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Erythema migrans - Verdacht auf Borreliose",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "mild",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Tetracycline - Doxycyclin"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Erythema migrans"
+    ],
+    "imaging_findings": [
+      "Bild von Erythema migrans"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Borreliose",
+      "Differentialdiagnose: Insektenstich"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Beinfraktur bei Kind in der Schule",
+    "patient_age": "10 Jahre",
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Bein gebrochen"
+    ],
+    "accident_mechanism": "In der Schule",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Schüler"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Bild von Knie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Beinfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Knie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

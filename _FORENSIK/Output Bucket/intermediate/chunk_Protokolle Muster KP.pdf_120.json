@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Multiples Myelom mit Nierenversagen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "M-Gradient",
+      "Gamma Fraktion erhöht",
+      "Hyperkalziämie"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom",
+      "Nierenversagen bei Multiplem Myelom",
+      "Anämie bei Multiplem Myelom",
+      "chronisches Nierenversagen"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Spontanpneumothorax mit mediastinaler Verlagerung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "mediastinale Verlagerung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Spontanpneumothorax"
+    ],
+    "diagnostic_approach": [
+      "Bülau Drainage",
+      "Monaldi Drainage"
+    ]
+  },
+  {
+    "title": "Gonarthrose",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Gonarthrose"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Gonarthrose"
+    ],
+    "diagnostic_approach": [
+      "Arthroskopie"
+    ]
+  }
+]

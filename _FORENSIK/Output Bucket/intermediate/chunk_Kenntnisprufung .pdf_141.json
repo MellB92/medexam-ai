@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Kind mit Husten und Stridor (Krupp)",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Husten seit mehreren Tagen",
+      "Verschlimmerung des Hustens",
+      "Stridor"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "wird von Eltern in Notaufnahme gebracht"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Stridor"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Krupp"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patientin mit Müdigkeit und Polyurie bei neu diagnostiziertem Diabetes mellitus Typ 2",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Müdigkeit seit 4-5 Monaten",
+      "Schwindelepisoden",
+      "Konzentrationsstörungen",
+      "Schlafstörungen",
+      "Infektanfälligkeit mit öfteren Erkältungen",
+      "Pilzinfektion der Achselhöhle",
+      "saures Aufstoßen",
+      "Polydipsie",
+      "Polyurie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie medikamentös eingestellt",
+      "Hyperlipidämie mit Statinen eingestellt",
+      "FSM mit 25 Jahren",
+      "distale Radiusfraktur mit 25 Jahren"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Überweisung vom Hausarzt"
+    ],
+    "medications": [
+      "Medikamente gegen arterielle Hypertonie",
+      "Statine"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Diabetes mellitus Typ 2"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

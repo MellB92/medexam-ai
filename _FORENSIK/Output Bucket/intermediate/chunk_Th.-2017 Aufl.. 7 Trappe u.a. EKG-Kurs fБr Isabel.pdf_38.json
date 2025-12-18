@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 39/111) aus einem EKG-Lehrbuch enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text behandelt:\n\n1. **Theoretische Inhalte** über ST-Strecken-Veränderungen und T-Wellen-Veränderungen (Lektion 16)\n2. **Differenzialdiagnostische Auflistungen** von EKG-Befunden bei verschiedenen Zuständen (z.B. Hyperkaliämie, Vagotonus, Myokardinfarkt, Perikarditis)\n3. **Allgemeine Beschreibungen** von Syndromen (Jervell-Lange-Nielsen-Syndrom) ohne konkrete Patientenfälle\n4. **Verweise auf EKG-Beispiele** (19, 20, 21) auf anderen Seiten\n5. **Theoretische Erklärungen** zur QT-Zeit-Messung und Bazett-Formel\n\nEs handelt sich um **Lehrbuchinhalte mit didaktischen Erklärungen**, nicht um konkrete Patientenpräsentationen mit individuellen Anamnesen, Befunden und diagnostischen Überlegungen."
+  }
+]

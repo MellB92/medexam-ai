@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 4/12) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Lehrmaterial zu bildgebenden Verfahren** (Röntgen-Thorax)\n2. **Technische Anleitungen** zur Beurteilung von:\n   - Fremdkörpern (Magensonde, Tubus, ZVK, Thoraxdrainage, Herzschrittmacher)\n   - Korrekter/fehlerhafter Lage medizinischer Devices\n   - Komplikationen\n3. **Anatomische Beschreibungen** (Thoraxwand, Weichteile)\n4. **Formulierungshilfen** für Befundungen\n5. **Theoretisches Wissen** (z.B. Reexpansionsödem)\n\nEs handelt sich um Schulungsmaterial ohne konkrete Patientenfälle mit individuellen Beschwerden, Anamnese oder spezifischen Befundkonstellationen."
+  }
+]

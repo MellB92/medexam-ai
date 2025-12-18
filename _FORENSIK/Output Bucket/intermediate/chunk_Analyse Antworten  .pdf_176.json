@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 177/254) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Prüfungsfragen und Antworten** im Frage-Antwort-Format\n2. **Theoretischem Wissen** zu verschiedenen medizinischen Themen:\n   - Hypertensive Krise (Folgen, Funduskopie)\n   - Polytrauma-Management (ABCDE-Schema, FAST-Ultraschall)\n   - HWS-Frakturen (Densfraktur, Hangman-Fraktur, Klassifikationen)\n   - Femurfrakturen (Osteosynthese-Methoden, Klassifikationen)\n   - AV-Fisteln und Ports\n   - Kolorektale Karzinome (Klassifikationen, Therapie)\n   - Medikamentenwirkmechanismen (Methotrexat, Aciclovir)\n   - Herpesviren\n   - Strahlenschutz\n\n3. **Bewertungen von Kandidatenantworten** mit Vergleich zu Musterlösungen\n\nEs handelt sich um ein **Ausbildungs-/Prüfungsdokument** mit theoretischen Wissensfragen, **nicht um echte Patientenpräsentationen** mit Anamnese, Untersuchungsbefunden und diagnostischem Vorgehen bei konkreten Patienten."
+  }
+]

@@ -1,0 +1,15 @@
+# Sim-Patienten Whitelist
+# Diese Namen werden NICHT anonymisiert
+# Generiert von: core/anonymizer.py
+#============================================================
+
+Der
+Die
+Fr.
+Frau
+Herr
+Hr.
+Patient
+Patientin
+
+# Gesamt: 8 Namen

@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Unterbauchschmerzen links mit Fieber - Divertikulitis",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Stechende, plötzliche Unterbauchschmerzen links ohne Ausstrahlung seit 5 Tagen",
+      "Fieber 38,5°C ohne Schüttelfrost",
+      "Keine Übelkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypertonie",
+      "Cholezystektomie (Z.n.)",
+      "Appendektomie (Z.n.)",
+      "Verletzung des Sprunggelenks links vor 1 Jahr"
+    ],
+    "medications": [
+      "Lisinopril 1-0-0"
+    ],
+    "allergies": [
+      "Amoxicillin"
+    ],
+    "physical_examination": [
+      "Gezielte Untersuchung durchgeführt (unvollständig dokumentiert)"
+    ],
+    "imaging_findings": [
+      "Sonographie: Divertikulitis mit Wandverdickung und freier Flüssigkeit"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Divertikulitis",
+      "Appendizitis (DD)",
+      "Gynäkologische Erkrankungen/Adnexitis (DD)",
+      "Harnwegsinfekt (DD)",
+      "Ileus (DD)"
+    ],
+    "diagnostic_approach": [
+      "Sonographie Abdomen",
+      "Körperliche Untersuchung (vollständig erforderlich)"
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Schulterschmerzen nach Sturz aus 2m Höhe bei Gartenarbeit",
+    "patient_age": "38 Jahre",
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen im Bereich der linken Schulter nach Sturz",
+      "nächtliche Parästhesien palmar rechts"
+    ],
+    "accident_mechanism": "Sturz aus 2 Metern Höhe bei der Gartenarbeit, nach vorne gebeugt, Gleichgewicht verloren, auf die linke Schulter gefallen",
+    "pre_existing_conditions": [
+      "Z.n. Cholezystektomie (laparoskopisch)",
+      "Z.n. Weichteilinfektion des Unterschenkels mit antibiotischer Behandlung"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Ex-Raucherin seit 10 Jahren"
+    ],
+    "family_history": [
+      "Mutter mit Nieren- und Herzerkrankung",
+      "Vater verstorben an schlechter Durchblutung der Beine",
+      "Schwester mit Autoimmunerkrankung"
+    ],
+    "social_history": [
+      "Gärtnerin",
+      "verheiratet",
+      "1 Sohn",
+      "Alkohol gelegentlich"
+    ],
+    "medications": [],
+    "allergies": [
+      "Allergien gegen viele Antibiotika (Namen unbekannt, Reaktionsart nicht erfragt)",
+      "verträgliche Antibiotika unbekannt"
+    ],
+    "vital_signs": [
+      "Vitalparameter in normalen Bereichen"
+    ],
+    "physical_examination": [
+      "Schürfwunde im Schulterbereich (unter Pflaster)",
+      "keine aktive Blutung",
+      "keine offene Fraktur",
+      "Pulse der A. radialis beidseitig tastbar",
+      "Sensibilität beidseitig gleich",
+      "Druckschmerzen im Bereich der linken Schulter",
+      "Motorik im Handgelenk und Ellenbogen intakt",
+      "Schultergelenk sehr schmerzhaft und nicht mobil",
+      "A. dorsalis pedis palpabel",
+      "keine Sensibilitätsstörungen",
+      "keine motorischen Störungen",
+      "vegetative Anamnese unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schulterverletzung nach Trauma",
+      "Verdacht auf Karpaltunnelsyndrom rechts (nächtliche Parästhesien palmar)"
+    ],
+    "diagnostic_approach": [
+      "Karpaltunnel-Tests auf Station nachzuholen",
+      "vollständige Körperuntersuchung von Kopf bis Fuß durchgeführt"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Wundversorgung durchgeführt (Einzelknopfnaht und Donati-Naht)"
+    ]
+  }
+]

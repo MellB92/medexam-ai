@@ -1,0 +1,108 @@
+[
+  {
+    "title": "Colonkarzinom mit rektalen Blutungen bei 70-Jährigem",
+    "patient_age": "70-jährig",
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "starke Blutungen aus Analkanal"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalparameter stabil und unauffällig"
+    ],
+    "physical_examination": [
+      "DRU (digitale rektale Untersuchung) durchgeführt"
+    ],
+    "imaging_findings": [
+      "Koloskopie: Tumor im Colon sichtbar",
+      "keine normale Darmstruktur erkennbar",
+      "keine Haustren sichtbar",
+      "keine Gefäßzeichen",
+      "glatte Schleimhaut nicht erkennbar",
+      "Tumor zentral im Bild lokalisiert",
+      "am Rand normale Struktur erkennbar",
+      "Lokalisation: Colon Ascendens"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Colonkarzinom Stadium T2-N0-M0 im Colon Ascendens"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Vitalparameter-Messung",
+      "körperliche Untersuchung",
+      "DRU",
+      "Koloskopie",
+      "Staging",
+      "geplante Hemikolektomie rechts",
+      "komplette Resektion: Ileum, Zökum, Colon Ascendens, Teil des Colon Transversum mit Fettgewebe und Lymphknoten",
+      "Ileotransversostomie-Anlage",
+      "keine adjuvante Chemotherapie bei T2-N0-Stadium"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Koloskopie im nächsten Jahr",
+      "dann 5 Jahre lang jährliche Koloskopien"
+    ]
+  },
+  {
+    "title": "Anaphylaktischer Schock nach Wespenstich",
+    "patient_age": "ältere Frau",
+    "patient_gender": "w",
+    "severity": "critical",
+    "chief_complaints": [
+      "plötzliche Schwellung von Lippen und Zunge",
+      "Symptome entwickelten sich wenige Minuten nach Aufenthalt im Garten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "war mit Freundinnen im Garten",
+      "hatte Kuchen gefrühstückt"
+    ],
+    "medications": [],
+    "allergies": [
+      "Wespengift (neu diagnostiziert)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Schwellung von Lippen und Zunge"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "allergische Reaktion auf Wespenstich",
+      "anaphylaktischer Schock",
+      "distributiver Schock"
+    ],
+    "diagnostic_approach": [
+      "Notfallanamnese",
+      "gezielte körperliche Untersuchung",
+      "sofortige i.m.-Gabe von Adrenalin 0,5 mg in Oberschenkel",
+      "Sauerstoffgabe",
+      "bei Nichtansprechen: verdünnter Adrenalin in 9 ml NaCl i.v.",
+      "Prednisolon 0,5-1 mg i.v."
+    ],
+    "treatment_response": [],
+    "complications": [
+      "anaphylaktischer Schock",
+      "massive Vasodilatation",
+      "generalisierte Hypoperfusion der Organe",
+      "relative Hypovolämie",
+      "potentiell tödlicher Verlauf (Entwicklung in Sekunden bis Minuten)"
+    ],
+    "follow_up": []
+  }
+]

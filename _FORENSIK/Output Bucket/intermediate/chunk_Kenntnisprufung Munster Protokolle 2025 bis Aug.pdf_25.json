@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Allergisches Asthma mit anfallsartiger Dyspnoe\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\n      \"seit 3 Monaten anfallsartig bestehende Dyspnoe\",\n      \"trockener Husten\",\n      \"Attacken 4-mal bei Belastung\",\n      \"2-mal bei der Arbeit aufgetreten\",\n      \"selbstlimitierend\",\n      \"zurzeit beschwerdefrei\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Z. n. rezidivierende Paronychie\"\n    ],\n    \"medications\": [],\n    \"allergies\": [\n      \"Birkenpollenallergie\",\n      \"Laktoseintoleranz\",\n      \"E-Zigaretten seit 2 Jahren\"\n    ],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"allergisches Asthma\",\n      \"COPD\",\n      \"Herzinsuffizienz\",\n      \"Panikattacke\"\n    ],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

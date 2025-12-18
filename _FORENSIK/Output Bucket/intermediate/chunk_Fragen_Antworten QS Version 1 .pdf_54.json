@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 55/148) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Abschnitt besteht ausschließlich aus:\n\n1. **Kontraindikationen** für ein nicht näher spezifiziertes Medikament (Allergie, Analgetika-Asthma-Syndrom, etc.)\n\n2. **Theoretische Prüfungsfragen** mit Standardantworten:\n   - Frage 173: Unfallchirurgische DD von Nackensteifigkeit (theoretische Differentialdiagnosen)\n   - Frage 174: cABCDE-Schema (Notfallprotokoll)\n   - Frage 175: 5A-Regel (Raucherentwöhnung)\n   - Frage 176: Sichere Todeszeichen (forensisches Wissen)\n   - Frage 177: Unterschied Todesart/Todesursache (Fragment, unvollständig)\n\nEs handelt sich um **allgemeines medizinisches Wissen und Prüfungsmaterial**, nicht um konkrete Patientenpräsentationen mit individuellen Charakteristika (Alter, Geschlecht, spezifische Anamnese, Befunde eines einzelnen Patienten)."
+  }
+]

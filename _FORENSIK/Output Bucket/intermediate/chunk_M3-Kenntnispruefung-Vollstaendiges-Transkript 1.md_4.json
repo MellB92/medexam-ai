@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 5/6) enthält **keine vollständigen klinischen Patientenpräsentationsfälle**.\n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** (Fragen 23-28):\n   - Cushing-Syndrom vs. Cushing-Krankheit (Theoriewissen)\n   - Patientenverfügung und Vorsorgevollmacht (Rechtliche Grundlagen)\n   - Infektionsschutzgesetz und Meldepflichten (Rechtliches)\n   - Off-Label-Use und Aufbewahrungsfristen (Rechtliches/Pharmakologie)\n   - DMARDs (Pharmakologisches Theoriewissen)\n   - VHF-Behandlung (Therapeutisches Theoriewissen)\n\n2. **Übersichtskapitel** am Ende:\n   - \"KLINISCHE FÄLLE NACH FACHBEREICHEN\" - dies ist nur eine **Auflistung/Inhaltsverzeichnis** von Fallthemen\n   - \"FAKTENWISSEN KOMPAKT\" - Beginn einer Wissenssammlung\n   - \"KLASSIFIKATIONSSYSTEME\" - abgebrochen\n\n**Keine dieser Komponenten stellt einen vollständigen klinischen Patientenfall dar** mit konkreter Anamnese, Untersuchungsbefunden, Diagnostik und Verdachtsdiagnosen.\n\nDie am Ende aufgelisteten Themen (Milzruptur, Polytrauma, Humeruskopffraktur etc.) sind lediglich **Überschriften/Themenliste**, keine ausformulierten Fälle."
+  }
+]

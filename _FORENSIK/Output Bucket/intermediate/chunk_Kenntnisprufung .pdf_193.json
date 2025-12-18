@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Hypothyreose bei Mann mit Stimmveränderung und Abgeschlagenheit",
+    "patient_age": "61-jähriger",
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "Stimmveränderung",
+      "Abgeschlagenheit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "verlangsamt",
+      "weniger Leistung bei der Arbeit"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Bauchuntersuchung durchgeführt",
+      "Lungenuntersuchung durchgeführt",
+      "Herzuntersuchung durchgeführt",
+      "Beine untersucht",
+      "Schilddrüse untersucht",
+      "Puls untersucht",
+      "Reflexe untersucht"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "TSH, T3, T4, TPO, TGO, TRAK bestimmt"
+    ],
+    "suspected_diagnosis": [
+      "Hypothyreose",
+      "Herzinsuffizienz",
+      "Autoimmune Thyreoiditis (Hashimoto)"
+    ],
+    "diagnostic_approach": [
+      "Überweisung vom HNO",
+      "Körperliche Untersuchung",
+      "Labordiagnostik Schilddrüsenparameter"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

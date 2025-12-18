@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 45/284) enthält **keine vollständigen klinischen Patientenfälle** im Sinne von konkreten Präsentationsfällen mit individuellen Patienten.\n\nDer Abschnitt enthält stattdessen:\n\n1. **Frage 95**: Theoretische Frage zur **Behandlung der Coxarthrose** mit einer systematischen Antwort zu Therapieoptionen bei jüngeren vs. älteren Patienten. Dies ist allgemeines medizinisches Wissen ohne konkreten Patientenfall.\n\n2. **Frage 96** (Fragment): Beginn einer theoretischen Frage zur **Vierfachtherapie bei Helicobacter pylori** - ebenfalls allgemeines Wissen, kein konkreter Patientenfall. Der Text ist zudem am Ende abgeschnitten.\n\nBeide Fragen sind vom Typ \"incomplete\" und behandeln allgemeine medizinische Themen zur Vorbereitung auf eine Kenntnisprüfung, enthalten aber keine konkreten Patientenpräsentationen mit Anamnese, Untersuchungsbefunden oder spezifischen klinischen Szenarien."
+  }
+]

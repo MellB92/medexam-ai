@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Schenkelhalsfraktur links nach Sturz im Krankenhaus",
+    "patient_age": "66-jährige",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "starke Schmerzen linke Hüfte",
+      "Immobilität der linken Hüfte"
+    ],
+    "accident_mechanism": "Im Krankenhaus auf dem Weg ins Bad gestolpert und auf die linke Seite gefallen, kein Schwindel, keine Synkope",
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 2 in Behandlung",
+      "TVT rechtes Bein vor 30 Jahren",
+      "unregelmäßiges Herzstolpern (zur weiteren Abklärung stationär aufgenommen)",
+      "Schlafstörung",
+      "Z.n. CEA vor 28 Jahren",
+      "Z.n. Analfistel-OP vor 28 Jahren",
+      "Z.n. Arthroskopie rechtes Knie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Diabetes mellitus Typ 2",
+      "Schlafmitteleinnahme am Vorabend",
+      "Sturzrisiko bei stationärer Aufnahme"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Verheiratet",
+      "lebt mit dem Mann zusammen",
+      "2 Kinder"
+    ],
+    "medications": [
+      "Metformin 1000 mg 1-0-0"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Beinlängendifferenz",
+      "Außenrotation linker Hüfte",
+      "ansonsten unauffällig",
+      "Gewichtsabnahme 10 kg seit Metformin-Einnahme"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "mediale Schenkelhalsfraktur links"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Hüfte AP und axial",
+      "Reflexprüfung",
+      "Prüfung der Sensibilität (diabetische Polyneuropathie)",
+      "D-Fall (Durchgangsarztverfahren)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

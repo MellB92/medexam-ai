@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Akute Beschwerden mit Fieber und Kopfschmerzen nach Spanienaufenthalt\",\n    \"patient_age\": \"66-jährige\",\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\n      \"Kopfschmerzen\",\n      \"Fieber\",\n      \"Schüttelfrost\",\n      \"Herzrasen\",\n      \"Müdigkeit\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"arterielle Hypertonie\",\n      \"Diabetes mellitus (ED vor 3 Jahren)\",\n      \"Herzrhythmusstörung (vor 1 Jahr durch Katheteruntersuchung behandelt)\",\n      \"Z.n. Femurfraktur rechts (operativ versorgt)\",\n      \"Z.n. HWK-Fraktur\"\n    ],\n    \"medications\": [\n      \"keine Medikamente für Herzrhythmusstörung\"\n    ],\n    \"allergies\": [\n      \"Penicillin\",\n      \"Pollen\"\n    ],\n    \"physical_examination\": [\n      \"KU unauffällig\"\n    ],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [],\n    \"diagnostic_approach\": [\n      \"gezielte Anamnese: Polyurie ohne Dysurie\",\n      \"Anamnese: vor ca. 14 Tagen Erkältung in Spanien mit trockenem Husten und Schnupfen\"\n    ]\n  }\n]\n```"
+  }
+]

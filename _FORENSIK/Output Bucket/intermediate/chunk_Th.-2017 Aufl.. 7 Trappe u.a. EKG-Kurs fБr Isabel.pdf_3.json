@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 4/111) enthält **keine klinischen Präsentationsfälle**. Es handelt sich ausschließlich um:\n\n1. **Vorworte** (zur 7. Auflage und zur 1. Auflage) des EKG-Lehrbuchs\n2. **Inhaltsverzeichnis** mit Auflistung der 36 Lektionen\n3. **Didaktische Einführung** über die Konzeption des Kurses für die fiktive Medizinstudentin \"Isabel\"\n\nDer Text beschreibt:\n- Die Struktur und Zielsetzung des EKG-Kurses\n- Die pädagogische Herangehensweise\n- Die Gliederung in Lektionen (z.B. \"Lektion 1: Die Bedeutung der einzelnen EKG-Zacken\", \"Lektion 19: EKG bei ST-Strecken-Hebungs-Myokardinfarkt\", etc.)\n\nEs werden zwar Krankheitsbilder und EKG-Befunde **erwähnt** (Hypertrophie, Infarkt, Rhythmusstörungen, etc.), aber es handelt sich dabei nur um Themenüberschriften und nicht um konkrete Patientenfälle mit klinischer Präsentation.\n\nDie eigentlichen klinischen Fälle und EKG-Beispiele beginnen erst ab \"EKG-Beispiel 1\" (wie im Inhaltsverzeichnis aufgeführt), die in späteren Chunks des Dokuments zu erwarten sind."
+  }
+]

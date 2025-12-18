@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 522/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer gesamte Abschnitt besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** aus einem Prüfungsprotokoll (Frage 12-41)\n2. **Allgemeinem medizinischem Wissen** zu verschiedenen Themen wie:\n   - Strahlenschutz\n   - Abdomenuntersuchung\n   - Sepsis-Diagnostik\n   - Antibiotikawahl\n   - Vorhofflimmern-Therapie\n   - Leberzirrhose\n   - Hypertonie\n   - Polytrauma-Management (als allgemeines Vorgehen, nicht als konkreter Fall)\n   - Frakturen und Klassifikationen\n   - Rektumkarzinom\n   - Dialyse-Indikationen\n\nEs handelt sich um **theoretisches Prüfungswissen** ohne konkrete Patientenvorstellungen mit individuellen Anamnesen, Befunden oder Verläufen."
+  }
+]

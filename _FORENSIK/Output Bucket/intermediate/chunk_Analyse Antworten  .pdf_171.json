@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** aus einem medizinischen Prüfungsprotokoll/einer Analyse, z.B.:\n   - Spiraltorsionsfraktur-Mechanismus\n   - Mirizzi-Syndrom (Definition)\n   - 6 F's der Cholezystolithiasis (Risikofaktoren)\n   - Maisonneuve-Fraktur (Definition)\n   - Dyslipidämien (Klassifikation)\n   - Vorhofflimmern (Behandlung)\n   - ABI-Messung\n   - Schenkelhalsfrakturen (Klassifikationen)\n   - Fisteln (Definitionen)\n   - Delir (Definition)\n\n2. **Musterlösungen und Leitlinien** zu theoretischen medizinischen Konzepten\n\n3. **Hinweisen wie** \"Nicht im Protokoll enthalten\" und \"Keine Analyse möglich\"\n\nEs werden **keine konkreten Patienten** mit Alter, Geschlecht, Beschwerden, Anamnese, Unfallhergang oder spezifischen Untersuchungsbefunden präsentiert. Es handelt sich um rein theoretisches Lehrmaterial/Prüfungsvorbereitung ohne Fallbeispiele."
+  }
+]

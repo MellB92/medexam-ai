@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Hyperthyreose bei 40-jähriger Patientin",
+    "patient_age": "40 Jahre",
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "typische Hyperthyreose-Symptome",
+      "Tremor",
+      "innere Unruhe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Zustand nach Helicobacter pylori Infektion vor 2 Jahren",
+      "Afterriss (in Anamnese erwähnt)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Schilddrüsenuntersuchung durchgeführt",
+      "Augenuntersuchung durchgeführt",
+      "gesteigerte Sehnenreflexe an Hand und Patella"
+    ],
+    "imaging_findings": [
+      "CT: sehr großer Struma, retrosternal",
+      "Sonografie: echoarme Region (vermutlich Zysten)",
+      "Duplex-Sonografie: vermehrte Durchblutung",
+      "Exophthalmus",
+      "EKG: unauffällig bei der Patientin"
+    ],
+    "laboratory_findings": [
+      "T3 erhöht"
+    ],
+    "suspected_diagnosis": [
+      "Hyperthyreose"
+    ],
+    "diagnostic_approach": [
+      "Schilddrüsenlaborwerte (TSH, T3, T4)",
+      "Sonografie",
+      "Duplex-Sonografie",
+      "CT",
+      "EKG"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Karpaltunnelsyndrom rechts bei Busfahrer",
+    "patient_age": null,
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen im Bereich des rechten Handgelenks",
+      "Kribbeln und Taubheitsgefühl in den drei lateralen Fingern",
+      "Kann Glas Wasser nicht mehr gut halten",
+      "Schmerzen seit gestern zugenommen",
+      "Konnte in Nachtschicht nicht arbeiten",
+      "Schmerzskala NRS 5"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Cholezystektomie",
+      "Nephrolithiasis",
+      "Z.n. distale Radiusfraktur rechts",
+      "Gastritis vor langer Zeit (medikamentös behandelt)"
+    ],
+    "comorbidities": [
+      "Schlafstörungen"
+    ],
+    "risk_factors": [
+      "Ex-Raucher, 40 Packungsjahre",
+      "Mechanische Belastung (beruflich als Busfahrer)",
+      "Z.n. Radiusfraktur rechts"
+    ],
+    "family_history": [
+      "Mutter mit Diabetes mellitus Typ 2",
+      "Vater an Osteomyelitis nach Bypass-OP verstorben",
+      "Schwester leidet an unbekannter Autoimmunerkrankung"
+    ],
+    "social_history": [
+      "Busfahrer",
+      "Verheiratet",
+      "Gesunder Sohn"
+    ],
+    "medications": [
+      "Baldrian",
+      "Johanniskraut",
+      "Keine weiteren Medikamente"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Schmerzskala NRS 5/10"
+    ],
+    "physical_examination": [
+      "Typische Symptome: nächtliche Schmerzen, Hypästhesie",
+      "Klinische Zeichen: Schwurhand, Phalen-Zeichen, Tinel-Zeichen, Flaschenzeichen"
+    ],
+    "imaging_findings": [
+      "Bildgebung zur Ausschluss anderer Ursachen wie Pseudoarthrose bei Z.n. Radiusfraktur",
+      "Bild zeigte Lipom im Bereich der Dekompressionsstelle"
+    ],
+    "laboratory_findings": [
+      "Labor aufgeführt (keine Details genannt)"
+    ],
+    "suspected_diagnosis": [
+      "Karpaltunnelsyndrom (Kompressionssyndrom des N. medianus)"
+    ],
+    "diagnostic_approach": [
+      "Elektroneurografie (Nervenleitungsgeschwindigkeit)",
+      "Elektromyografie des M. abductor pollicis brevis (Muskelkraft)",
+      "Elektrode am M. opponens pollicis",
+      "Bildgebung zum Ausschluss anderer Ursachen",
+      "Labor"
+    ],
+    "treatment_response": [
+      "Konservative Therapie mit NSAR plus PPI (wegen Gastritis-Anamnese)",
+      "Alternative: operative Dekompression des N. medianus"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Arbeitsunfähigkeitsbescheinigung (AU) benötigt"
+    ]
+  }
+]

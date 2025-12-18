@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 63/111) aus einem EKG-Lehrbuch enthält **keine klinischen Patientenfälle oder Präsentationsfälle**.\n\nDer Text beschreibt ausschließlich:\n- Theoretische Informationen über ventrikuläre Rhythmusstörungen\n- Klassifikationen von Tachykardien (monomorph/polymorph, Bigeminus/Trigeminus)\n- EKG-Differenzialdiagnose-Kriterien (V1, V6-Ableitungen, QRS-Morphologie)\n- Elektrokardiografische Befunde bei:\n  - Ventrikulären Tachykardien\n  - Kammerflattern\n  - Kammerflimmern\n- Schematische Abbildungen und diagnostische Algorithmen\n\nEs handelt sich um rein didaktisches Material ohne konkrete Patientenbeispiele mit Anamnese, Untersuchungsbefunden oder individuellen Krankheitsverläufen."
+  }
+]

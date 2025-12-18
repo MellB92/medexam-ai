@@ -1,0 +1,284 @@
+[
+  {
+    "title": "Junger Patient mit Pneumothorax nach thorakalen Schmerzen",
+    "patient_age": "jung",
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "thorakale Schmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax: Pneumothorax links mit kollabierter Lunge"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pneumothorax links",
+      "Gefahr eines Spannungspneumothorax durch Ventilmechanismus"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Thorax"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Ventilmechanismus",
+      "Entwicklung Spannungspneumothorax",
+      "kann sehr schnell zum Tod führen"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Herr Fischer mit makrozytärer hyperchrome Anämie",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Anämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Vegetarier",
+      "atrophische Gastritis mit AK gegen Intrinsic Faktor",
+      "Alkoholabusus",
+      "Metformin Einnahme"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Metformin"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Glossitis",
+      "Lackzunge"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Kleines BB mit makrozytärer hyperchrome Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Vitamin B12 Mangel-Anämie",
+      "Folsäure Mangel"
+    ],
+    "diagnostic_approach": [
+      "Einweisung vom Hausarzt zwecks Anämie Abklärung",
+      "Kleines Blutbild"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Perikarditis mit Perikardtamponade",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit Perikarditis",
+      "Echo mit Perikarderguss",
+      "Echo mit Perikardtamponade",
+      "Röntgen-Thorax mit Lungenödem und Herzvergrößerung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perikarditis",
+      "Perikardtamponade"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Echokardiographie",
+      "Röntgen-Thorax"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Perikardtamponade",
+      "Lungenödem"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Säugling mit Screening für Adrenogenital Syndrom",
+    "patient_age": "Säugling",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Histologie von Nebennieren"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Adrenogenital Syndrom (Screening)"
+    ],
+    "diagnostic_approach": [
+      "Screening für Adrenogenital Syndrom",
+      "Histologie Nebennieren"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Ambulant erworbene Pneumonie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [
+      "Penicillin Allergie"
+    ],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax mit Pneumonie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Ambulant erworbene Pneumonie"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax",
+      "CURB 65 Score"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Koxarthrose links mit TEP",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Becken Übersicht a.p. mit Koxarthrose links",
+      "Geröllzysten",
+      "Osteophyten",
+      "Röntgen mit TEP von Hüftgelenk links"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Koxarthrose links"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Becken a.p."
+    ],
+    "treatment_response": [],
+    "complications": [
+      "TVT",
+      "Lockerung der Prothese"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Akuter arterieller Verschluss der Arteria iliaca communis links",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "MRT Angiographie mit KM Abbruch in linker Iliaca communis"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akuter arterieller Verschluss der Arteria iliaca communis links"
+    ],
+    "diagnostic_approach": [
+      "MRT Angiographie mit Kontrastmittel"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Spannungspneumothorax",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT Thorax mit Spannungspneumothorax",
+      "Röntgen Thorax mit Spannungspneumothorax"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Spannungspneumothorax"
+    ],
+    "diagnostic_approach": [
+      "CT Thorax",
+      "Röntgen Thorax"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

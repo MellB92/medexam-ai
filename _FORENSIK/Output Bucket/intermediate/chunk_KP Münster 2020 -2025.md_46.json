@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Thrombozytopenie 35.000/µl - Ursachenabklärung\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Thrombozytopenie\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\"Thrombozytenzahl 35.000/µl\"],\n    \"suspected_diagnosis\": [\"Medikamenten-induzierte Thrombozytopenie\", \"Immunthrombozytopenie\", \"Heparin-induzierte Thrombozytopenie\", \"Leukämie\", \"Aplastische Anämie\", \"Vitamin B12 Mangel\", \"Hypersplenismus\", \"Mikroangiopathie\"],\n    \"diagnostic_approach\": [\"Anamnese auf Medikamente (Rifampicin, NSAR, Heparin)\", \"Ausschluss hämatologischer Erkrankungen\", \"Abklärung von HUS/TTP\", \"Shigatoxin im Stuhl bei HUS-Verdacht\"]\n  }\n]\n```"
+  }
+]

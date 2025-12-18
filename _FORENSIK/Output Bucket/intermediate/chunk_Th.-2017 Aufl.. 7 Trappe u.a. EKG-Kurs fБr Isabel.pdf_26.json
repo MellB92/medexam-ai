@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 27/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle**.\n\nDer Text behandelt:\n- Theoretische Erklärungen zum **AV-junktionalen Rhythmus**\n- Pathophysiologische Erklärungen zur **retrograden Vorhoferregung**\n- Elektrokardiografische Befunde und deren Interpretation\n- Klassifikationen von Rhythmusstörungen\n- Allgemeine Lehrinhalte zu **Vorhofleitungsstörungen** (P-dextroatriale, P-sinistroatriale, P-biatriale)\n- Einen Verweis auf \"EKG-Beispiele\" (Seite 164)\n\nEs handelt sich ausschließlich um **didaktisches Lehrmaterial** ohne konkrete Patientenpräsentationen mit individuellen Anamnesen, Befunden oder diagnostischen Überlegungen zu spezifischen Fällen."
+  }
+]

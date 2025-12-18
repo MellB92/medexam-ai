@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Theoretischen Informationen zu Herzklappenerkrankungen:**\n   - Hauptursache (Rheumatisches Fieber)\n   - Therapieindikationen nach ESC-Leitlinien\n   - Prüfungsrelevante Informationen (NYHA-Klassifikation, Endokarditisprophylaxe, rechtliche Aspekte)\n   - Prognosefaktoren\n\n2. **Beginn einer Frage zum Wells-Score für TVT (Frage 349):**\n   - Dies ist eine theoretische Frage über diagnostische Kriterien\n   - Es wird kein konkreter Patient mit TVT-Verdacht präsentiert\n   - Es handelt sich um reines Faktenwissen über die Punktevergabe beim Wells-Score\n   - Die Auflistung ist zudem am Ende abgeschnitten (unvollständig)\n\n**Fazit:** Keine extrahierbaren klinischen Fälle vorhanden."
+  }
+]

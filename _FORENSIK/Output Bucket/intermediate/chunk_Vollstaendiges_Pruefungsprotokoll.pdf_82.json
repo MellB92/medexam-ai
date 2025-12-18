@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 83/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** wie:\n   - \"Was ist auf dem Röntgenbild vom Knie auffällig?\" → Antwort: Patellahochstand\n   - \"Wie funktioniert die Verneblung?\"\n   - \"Wie wirkt IV IM?\"\n   - \"Welche Barrieren gibt es im Körper?\"\n\n2. **Isolierten Bildbefunden ohne Patientenkontext**:\n   - \"Subkapsuläres Hämatom\" auf CT-Bild (ohne Patienteninformationen, Anamnese oder klinischen Kontext)\n   - \"Patellahochstand\" auf Röntgenbild (nur Bildbeschreibung)\n\n3. **Rechtlichen/Ethischen Fragen**:\n   - Auskunft an Angehörige\n   - Umgang mit Polizeianfragen\n\n4. **Pharmakologie-Fragen**:\n   - Nebenwirkungen von Ibuprofen\n\nEs handelt sich um ein **Prüfungsprotokoll mit Einzelfragen**, nicht um strukturierte Fallpräsentationen mit Anamnese, Untersuchungsbefunden und diagnostischem/therapeutischem Vorgehen."
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Multiples Myelom bei 68-jährigem Mann",
+    "patient_age": "68",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "nicht explizit genannt"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Vorhofflimmern"
+    ],
+    "medications": [
+      "nicht spezifiziert"
+    ],
+    "allergies": [
+      "unauffällig"
+    ],
+    "physical_examination": [
+      "Inspektion",
+      "neurologische Untersuchung (kraniale Nerven, periphere Reflexe)",
+      "RR-Messung beidseits",
+      "Lunge: Stimmfremitus, Perkussion, Auskultation",
+      "Herz: Herzgeräusche",
+      "Abdomen: Inspektion, Auskultation, Perkussion"
+    ],
+    "imaging_findings": [
+      "Humerus rechts mit osteolytischen Läsionen im distalen Bereich",
+      "Low-Dose-CT geplant",
+      "Röntgen"
+    ],
+    "laboratory_findings": [
+      "BSG erhöht",
+      "Serumelektrophorese: M-Gradient",
+      "Urintest",
+      "Blutbild geplant",
+      "Kalzium geplant",
+      "Nierenwerte geplant",
+      "Immunfixation geplant"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom",
+      "Vorhofflimmern"
+    ],
+    "diagnostic_approach": [
+      "Blutbild",
+      "BSG",
+      "Kalzium",
+      "Nierenwerte",
+      "Immunfixation",
+      "Serumelektrophorese",
+      "Low-Dose-CT",
+      "Röntgen",
+      "Knochenmarkbiopsie"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 6/6) enthält **keine vollständigen klinischen Präsentationsfälle** mit Patientendetails, sondern ausschließlich:\n\n1. **Zusammenfassungen/Auflistungen** von Fallthemen ohne Details:\n   - \"Milzruptur mit zweizeitiger Blutungsgefahr\"\n   - \"Polytrauma mit FAST-Sonographie\"\n   - \"Humeruskopffraktur mit Nervus axillaris-Risiko\"\n   - etc.\n\n2. **Faktenwissen und Klassifikationssysteme:**\n   - CHA₂DS₂-VASc-Score Kriterien\n   - Klassifikationssysteme (Fontaine, Garden, Weber)\n   - Medikamentendosierungen\n   - Grenzwerte\n\n3. **Prüfungsstatistik und Meta-Informationen:**\n   - Anzahl analysierter Dokumente\n   - Häufigste Prüfungsthemen\n   - Qualitätssicherungshinweise\n\n**Keine dieser Auflistungen** enthält die für einen vollständigen klinischen Fall erforderlichen Elemente wie:\n- Konkrete Patientenvorstellung (Alter, Geschlecht)\n- Anamnese/Beschwerden\n- Untersuchungsbefunde\n- Diagnostischer Verlauf\n\nDie tatsächlichen vollständigen klinischen Fälle befinden sich in den vorherigen Chunks (1-5) dieses Dokuments."
+  }
+]

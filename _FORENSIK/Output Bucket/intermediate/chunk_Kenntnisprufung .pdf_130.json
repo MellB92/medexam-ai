@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Milztrauma mit Hämoperitoneum nach Sturz",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [],
+    "accident_mechanism": "Sturz aus großer Höhe oder Motorradunfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Schock"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT mit freier Flüssigkeit",
+      "Milzschädigung mit Kontrastmittelansammlung in Form eines Sternchens im Parenchym",
+      "Hämoperitoneum"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Traumatische Milzschädigung",
+      "Hämoperitoneum",
+      "Zweizeitige Milzverletzung"
+    ],
+    "diagnostic_approach": [
+      "CT-Bildgebung",
+      "Blutkreuzung"
+    ],
+    "treatment_response": [
+      "Transfusion von 4 Blutkonserven ohne Besserung",
+      "Laparotomie und Splenektomie durchgeführt"
+    ],
+    "complications": [
+      "Schock",
+      "Persistierende Blutung trotz Transfusion"
+    ],
+    "follow_up": [
+      "Impfung gegen Hämophilus influenzae und Pneumokokken nach Splenektomie"
+    ]
+  },
+  {
+    "title": "Sjögren's Syndrom mit Sicca-Symptomatik",
+    "patient_age": "junge Patientin",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Müdigkeit und langer Schlaf",
+      "Polydipsie",
+      "Dysphagie",
+      "Trockener Mund und Schleimhäute",
+      "Juckreiz in Nase und Augen",
+      "Sandähnliches Gefühl in den Augen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Unterschenkelfraktur",
+      "Appendektomie bei angeborener Darmausstülpung (Meckel-Divertikel)",
+      "Knieverletzung beim Reiten",
+      "Harnwegsinfekt (kürzlich behandelt)",
+      "Gelbsucht im Ausland (V.a. Hepatitis A/E)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Bruder mit Herzentzündung",
+      "Mutter starke Raucherin"
+    ],
+    "social_history": [
+      "Büroangestellte",
+      "Neue Klimaanlage im Büro seit einigen Monaten",
+      "Kollegen haben ähnliche Trockenheitssymptome",
+      "Reiten"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck gemessen",
+      "Puls an 18 Stellen getastet"
+    ],
+    "physical_examination": [
+      "Herzspitze lokalisiert",
+      "Herztöne auskultiert",
+      "Lunge auskultiert",
+      "Verschieblichkeit der Lunge geprüft",
+      "Perkussion durchgeführt",
+      "Wirbelkörper geklopft",
+      "Nierenklopfschmerz geprüft",
+      "Abdomenuntersuchung (vier Quadranten)"
+    ],
+    "imaging_findings": [
+      "Ultraschall der Parotis mit Linearschallkopf: Areale von Hypo- und Hyperechogenität"
+    ],
+    "laboratory_findings": [
+      "Anti-Ro Antikörper (Sensitivität ca. 70%)",
+      "Anti-La Antikörper (Sensitivität ca. 70%)"
+    ],
+    "suspected_diagnosis": [
+      "Sjögren's Syndrom"
+    ],
+    "diagnostic_approach": [
+      "Labor mit Anti-Ro und Anti-La Antikörpern",
+      "Ultraschall der Parotis",
+      "Schirmer-Test"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Harnwegsinfekt"
+    ],
+    "follow_up": []
+  }
+]

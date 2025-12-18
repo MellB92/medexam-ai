@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 83/111) enthält **keine klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n- Technischen Darstellungen/Diagrammen mit Zahlenreihen\n- EKG-Kurven-Darstellungen (erkennbar an Begriffen wie \"Amplitude\", \"sec\", \"mm/s\", \"mV\")\n- Grafischen Elementen und Achsenbeschriftungen\n- Periodendauer-Messungen (\"Periodendauer in ms\")\n- RR-Intervall-Markierungen (\"RR × 1\", \"RR × 2\")\n\nEs handelt sich um didaktisches Material aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\"), aber **keine narrativen Patientenfälle** mit klinischen Angaben zu Anamnese, Beschwerden, Befunden oder Diagnosen."
+  }
+]

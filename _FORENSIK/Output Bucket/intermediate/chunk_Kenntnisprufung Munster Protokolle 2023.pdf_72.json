@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Meningitis Verdacht bei 62-jähriger Frau nach Äthiopienreise",
+    "patient_age": "62-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Globale Kopfschmerzen seit 2 Wochen, progredient",
+      "Verschlechterung der Schmerzen seit gestern (Intensität 8/10)",
+      "Nackensteifigkeit",
+      "Lichtempfindlichkeit",
+      "Übelkeit",
+      "Fieber (nicht gemessen)",
+      "Kurze Bewusstlosigkeit heute morgen"
+    ],
+    "accident_mechanism": "Vor 2 Wochen in Äthiopien: Gepäck auf Nacken gefallen",
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Herzrhythmusstörung (paroxysmales Vorhofflimmern, kurz gedauert)",
+      "Vor 6 Jahren distale Unterarmfraktur mit konservativer Behandlung, anhaltende Schmerzen und Taubheit (V.a. CRPS)"
+    ],
+    "medications": [
+      "ASS 100",
+      "Antihypertensivum (Name nicht erinnerlich)"
+    ],
+    "allergies": [
+      "Pollen",
+      "Antibiotikum (Name nicht erinnerlich)"
+    ],
+    "physical_examination": [
+      "Vitalparameter: Puls, Blutdruck beidseits und Atemfrequenz gemessen",
+      "Neurologisch: Kernig-Zeichen positiv",
+      "Brudzinski-Zeichen positiv",
+      "Hirnnerven unauffällig",
+      "Motorik und Reflexe unauffällig",
+      "Herz- und Lungenuntersuchung unauffällig",
+      "Lungen von vorne untersucht (Patientin kann nicht stehen)",
+      "HWS-Inspektion unauffällig",
+      "HWS-Palpation: Schmerzen in HWS 2-3",
+      "Bewegungsumfang: 5-0-5 (Extension, Flexion und Seitenneigung eingeschränkt)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Meningitis",
+      "Subarachnoidalblutung (SAB)",
+      "Epidurales Hämatom",
+      "Subdurales Hämatom",
+      "HWK-Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Venöser Zugang gelegt",
+      "Aufklärung der Patientin über Verdachtsdiagnose und Befunde"
+    ]
+  }
+]

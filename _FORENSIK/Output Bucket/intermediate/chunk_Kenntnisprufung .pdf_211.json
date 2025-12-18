@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Riesenzellarteritis (Temporalarteritis) mit Kopfschmerzen und Sehstörung",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Kopfschmerzen seit ca. 2 Wochen, langsam aufgetreten, pochend",
+      "Lokalisiert im Stirn- und Schläfenbereich",
+      "Schmerzen beim Kauen",
+      "Schmerzen beim Haare Kämmen",
+      "Verschwommenes Sehen rechts"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Rauchen: 3 Zigaretten/Tag seit 30 Jahren",
+      "Alkohol: ca. 1 Glas Wein/Woche"
+    ],
+    "family_history": [
+      "Vater: Darmkrebs (verstorben)",
+      "Mutter: GERD",
+      "Bruder: Gicht",
+      "Schwester: Lungenarterienembolie"
+    ],
+    "social_history": [
+      "Geschieden",
+      "Eine Tochter, zwei Enkelkinder"
+    ],
+    "medications": [
+      "Candesartan"
+    ],
+    "allergies": [
+      "Diclofenac"
+    ],
+    "vital_signs": [
+      "Blutdruck gemessen",
+      "Herzfrequenz gemessen",
+      "Atemfrequenz gemessen"
+    ],
+    "physical_examination": [
+      "Neurologische Untersuchung durchgeführt",
+      "Lunge untersucht",
+      "Herz untersucht",
+      "Abdomen untersucht",
+      "Beine untersucht",
+      "Vegetative Anamnese: Unauffällig",
+      "Allgemeiner Eindruck: Patientin nett und hilfsbereit"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "RZA (Riesenzellarteritis)"
+    ],
+    "diagnostic_approach": [
+      "Goldstandard: Biopsie",
+      "Doppler-Sonographie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Divertikulitis mit blutigem Stuhlgang",
+    "patient_age": "64",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Zunehmende Schmerzen im linken Unterbauch seit Tagen (7/10)",
+      "Nausea ohne Emesis",
+      "Obstipation (chronisch, zuletzt etwas ausgeprägter)",
+      "Einmalige Episode von blutigem Stuhlgang"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Chronische Obstipation"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Schlechte Ernährung aufgrund des Jobs"
+    ],
+    "family_history": [
+      "Vater jung an Herzproblemen verstorben",
+      "Mutter aktuell stationär nach Sturz und Kreislaufproblemen",
+      "Bruder: OSAS"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalparameter gemessen"
+    ],
+    "physical_examination": [
+      "Schmerzhafte Palpation im Unterbauch",
+      "Keine Anzeichen einer Peritonitis",
+      "Neurologische Untersuchung unauffällig",
+      "Herz/Lungen/Abdomen untersucht",
+      "Pulse abgetastet",
+      "Keine Varizen oder Wunden",
+      "Sonst alles normal"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Divertikulitis"
+    ],
+    "diagnostic_approach": [
+      "Labor geplant",
+      "Sonographie geplant"
+    ],
+    "treatment_response": [
+      "Metamizol iv für Schmerztherapie angeboten"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

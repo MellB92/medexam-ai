@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Epigastrische Schmerzen bei NSAID-Einnahme",
+    "patient_age": "67-jährig",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "epigastrische Schmerzen, brennend",
+      "retrosternale Ausstrahlung, von Nahrung und Lage abhängig",
+      "Regurgitation",
+      "Meteorismus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Handgelenkfraktur"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "5 Monate NSAID-Einnahme"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "viel NSAID (aufgrund Handgelenkfraktur)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Untersuchung von Kopf bis Fuß durchgeführt",
+      "Reflexuntersuchung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "GERD (gastroösophageale Refluxkrankheit)",
+      "DD: Angina Pectoris"
+    ],
+    "diagnostic_approach": [
+      "Schmerzanamnese",
+      "B-Symptomatik",
+      "Vorerkrankungen",
+      "ÖGD",
+      "Laborwerte ankreuzen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

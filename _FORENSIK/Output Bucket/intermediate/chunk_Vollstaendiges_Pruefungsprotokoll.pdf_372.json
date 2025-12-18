@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Lungenarterienembolie mit SIQ3-Typ im EKG",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "typische Symptome einer Lungenembolie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit SIQ3"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenarterienembolie (LAE)"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Rheumatoide Arthritis der Hand",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Gelenkschmerzen",
+      "Gelenksteife",
+      "Schwellung",
+      "Bewegungseinschränkung",
+      "Morgensteifigkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Schwellungen der betroffenen Gelenke",
+      "Schwanenhalsdeformität",
+      "Knopflochdeformität",
+      "Ulnardeviation",
+      "Rheumaknoten",
+      "Schmerzhafte und eingeschränkte Beweglichkeit",
+      "Synovitis"
+    ],
+    "imaging_findings": [
+      "Deformitäten der Gelenke"
+    ],
+    "laboratory_findings": [
+      "Positive Rheumafaktoren",
+      "Anti-CCP-Antikörper"
+    ],
+    "suspected_diagnosis": [
+      "Rheumatoide Arthritis"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Passagere Angina pectoris nach körperlicher Belastung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "passagere Angina pectoris nach körperlicher Belastung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG ohne pathologischen Befund"
+    ],
+    "laboratory_findings": [
+      "Troponin ohne pathologischen Befund"
+    ],
+    "suspected_diagnosis": [
+      "Angina pectoris"
+    ],
+    "diagnostic_approach": [
+      "weitere Untersuchungen zum Ausschluss eines Herzinfarkts"
+    ]
+  },
+  {
+    "title": "STEMI mit Vorhofflimmern im EKG",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit STEMI",
+      "EKG mit VHF (Vorhofflimmern)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "STEMI",
+      "Vorhofflimmern"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Echinokokkus-Zysten der Leber",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "MRT: Vergrößerte Leber mit 4 hypodensen Raumforderungen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Echinokokkus-Zysten"
+    ],
+    "diagnostic_approach": []
+  }
+]

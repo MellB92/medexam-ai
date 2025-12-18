@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Subduralhämatom nach Kopfsturz",
+    "patient_age": "älterer Mann",
+    "patient_gender": "m",
+    "severity": "critical",
+    "chief_complaints": [
+      "zunehmende Schläfrigkeit seit einer Woche"
+    ],
+    "accident_mechanism": "Sturz auf den Kopf vor 3 Wochen",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Subduralblutung (sichelförmig)",
+      "Mittellinienverlagerung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Subduralblutung"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Gefahr der oberen oder unteren Einklemmung mit Schädigung der Medulla oblongata"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Unhappy-Triad nach Verdrehtrauma im Knie",
+    "patient_age": "17-jährig",
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "starke Verdrehung im Kniegelenk beim Sport"
+    ],
+    "accident_mechanism": "Verdrehtrauma im Kniegelenk beim Sport",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Unhappy-Triad (Verletzung von ACL, Innenmeniskus, medialem Seitenband)"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

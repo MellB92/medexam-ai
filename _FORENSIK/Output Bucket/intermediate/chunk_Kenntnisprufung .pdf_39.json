@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Allergisches Asthma mit Atemnot-Attacken und Z.n. Schulterluxation",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Atemnot Attacke",
+      "Husten",
+      "Auswurf"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Schulterluxation vor ein paar Wochen (manuell reponiert)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [
+      "allergisches Asthma"
+    ],
+    "vital_signs": [
+      "Blutdruck gemessen",
+      "Herzfrequenz gemessen"
+    ],
+    "physical_examination": [
+      "Lunge untersucht",
+      "Herz untersucht",
+      "Abdomen untersucht",
+      "Extremitäten untersucht",
+      "Puls untersucht",
+      "Schulter untersucht",
+      "alle Reflexe untersucht",
+      "Vibrationssinn mit Diapason geprüft"
+    ],
+    "imaging_findings": [
+      "Fluss-Volumen-Kurve gezeigt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "allergisches Asthma",
+      "Panik Attack",
+      "COPD",
+      "Bronchitis",
+      "Herzinsuffizienz",
+      "atypische Angina Pectoris"
+    ],
+    "diagnostic_approach": [
+      "FEV1",
+      "TLC",
+      "RV",
+      "VC"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Appendizitis mit krampfartigen Bauchschmerzen und Übelkeit",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "sehr starke krampfartige Mittelbauchschmerzen seit gestern Mittag",
+      "Übelkeit",
+      "Erbrechen",
+      "seit heute Morgen wieder aufgetretene zunehmende Bauchschmerzen mit Ausstrahlung in rechte Seite",
+      "Atemnot in letzter Zeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Herzklappeninsuffizienz (welche Klappe unbekannt)",
+      "Z.n. Tonsillitis",
+      "Z.n. Ellenbogenprellung und Bursitis",
+      "Z.n. Lungenembolie während der Schwangerschaft"
+    ],
+    "comorbidities": [
+      "Herzklappeninsuffizienz"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Vitamin einmal in der Woche (unbekannt welches)",
+      "Buscopan 2 Tabletten",
+      "Ibuprofen"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "RR gemessen"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sono Abdomen: vergrößerte Appendix"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Appendizitis"
+    ],
+    "diagnostic_approach": [
+      "Laparoskopie geplant",
+      "Labor"
+    ],
+    "treatment_response": [
+      "Beschwerden besserten sich temporär nach Einnahme von 2 Tbl. Buscopan und Ibu"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

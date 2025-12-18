@@ -1,0 +1,53 @@
+[
+  {
+    "title": "pAVK - Belastungsabhängige Wadenschmerzen nach Langstreckenflug",
+    "patient_age": "68 Jahre",
+    "patient_gender": "Mann",
+    "chief_complaints": [
+      "Schmerzen im Unterschenkel im Wadenbereich bei Belastung seit 3 Wochen",
+      "Schmerzfreies Gehen bis 400m",
+      "Dyspnoe bei Belastung",
+      "Morgendlicher Husten mit schleimigem Auswurf"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie seit ca. 6 Jahren",
+      "Hyperlipidämie",
+      "Obstipation",
+      "Speicheldrüsenentzündung vor 8 Wochen",
+      "Wirbelsäulen-OP (L4-L5) vor 3-4 Jahren",
+      "Corona-Infektion nach der Reise"
+    ],
+    "medications": [
+      "Lisinopril Kombi 20 mg 1-0-0",
+      "Atorvastatin 20 mg 0-0-1",
+      "Laxanzien"
+    ],
+    "allergies": [
+      "Penicillin (allergische Reaktion bei Speicheldrüsenentzündung)"
+    ],
+    "physical_examination": [
+      "Beidseitige Inspektion von Beinen und Füßen",
+      "Pulse palpiert",
+      "Sensibilität geprüft",
+      "Hauttemperatur bei Palpation verglichen",
+      "Blutdruck beidseits gemessen",
+      "Lymphknoten am Kopf getastet (nach Parotitis)",
+      "Lunge auskultiert",
+      "Herz auskultiert",
+      "Bauch untersucht mit Auskultation der Aorta abdominalis und Aa. renales"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "pAVK",
+      "TVT (Differentialdiagnose)",
+      "Periphere Neuralgie (Differentialdiagnose)"
+    ],
+    "diagnostic_approach": [
+      "Klinische Diagnostik mit Fontaine-Stadien",
+      "ABI (Ankle-Brachial-Index)",
+      "Langzeit-Blutdruckmessung"
+    ]
+  }
+]

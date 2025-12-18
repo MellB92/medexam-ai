@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Junge Frau mit Pyelonephritis bei Typ-1-Diabetes und möglicher Schwangerschaft",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "linksseitige Schmerzen",
+      "Fieber",
+      "getrübter Urin",
+      "Harnweginfektion"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Typ-1-Diabetes mellitus mit Insulinpumpe",
+      "Asthma mit inhalativen Steroiden",
+      "rezidivierende unkomplizierte Harnweginfekte"
+    ],
+    "comorbidities": [
+      "mögliche Schwangerschaft (letzte Periode vor 5 Wochen)"
+    ],
+    "risk_factors": [
+      "positive Familienanamnese für Darmkrebs"
+    ],
+    "family_history": [
+      "Vater mit Darmkrebs"
+    ],
+    "social_history": [
+      "letzte Menstruation vor 5 Wochen"
+    ],
+    "medications": [
+      "Insulin per Insulinpumpe",
+      "Folsäure",
+      "inhalative Steroiden"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Fieber"
+    ],
+    "physical_examination": [
+      "linksseitige Schmerzen bei Palpation"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "getrübter Urin"
+    ],
+    "suspected_diagnosis": [
+      "Pyelonephritis (aszendierende Harnweginfektion)",
+      "vertebromuskuläre Ursache (DD, unwahrscheinlich)"
+    ],
+    "diagnostic_approach": [
+      "Labor/Routineprofil",
+      "Schwangerschaftstest erwogen"
+    ],
+    "treatment_response": [
+      "Paracetamol statt NSAID bei V.a. Schwangerschaft geplant",
+      "Warnung vor Laxantien wegen familiärer Darmkrebsbelastung"
+    ],
+    "complications": [
+      "Urosepsis (mögliche Komplikation)"
+    ],
+    "follow_up": []
+  }
+]

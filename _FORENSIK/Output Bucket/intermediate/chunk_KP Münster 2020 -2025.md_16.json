@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Achillessehnenruptur beim Tennisspielen\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"plötzlich starke Schmerzen\", \"kann nicht mehr laufen\"],\n    \"accident_mechanism\": \"beim Tennisspielen\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Thompson Test\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Achillessehnenruptur\"],\n    \"diagnostic_approach\": [\"Thompson Test\", \"klinische Untersuchung\"]\n  },\n  {\n    \"title\": \"Geschwollenes Sprunggelenk mit Delle\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"geschwollenes Sprunggelenk\", \"Delle\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Schwellung\", \"Delle im Bereich des Sprunggelenks\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Achillessehnenruptur\"],\n    \"diagnostic_approach\": [\"klinische Untersuchung\", \"Bildgebung\"]\n  }\n]\n```"
+  }
+]

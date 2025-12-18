@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Sturz von Leiter nach Schwindelanfall mit Fersen- und Beckenschmerzen",
+    "patient_age": "60 Jahre",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Schwindel",
+      "Schmerzen rechte Ferse",
+      "Beckenschmerzen"
+    ],
+    "accident_mechanism": "Sturz von Leiter aus 4 Meter Höhe nach Schwindelanfall, Landung auf dem Fuß",
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "familiäre Stoffwechselstörung",
+      "chronische Gastritis Typ A",
+      "Karpaltunnelsyndrom (operiert)"
+    ],
+    "medications": [
+      "Vitamin B12 intramuskulär 1× monatlich"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Schmerzen rechte Ferse",
+      "Beckenschmerzen"
+    ],
+    "imaging_findings": [
+      "Calcaneusfraktur im Röntgen",
+      "pertrochantere Fraktur",
+      "Beckenfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Calcaneusfraktur",
+      "pertrochantere Femurfraktur",
+      "Beckenfraktur",
+      "Pilon-Tibia-Fraktur",
+      "Schenkelhalsfraktur",
+      "rezidivierende Schwindelanfälle"
+    ],
+    "diagnostic_approach": [
+      "Röntgen",
+      "Abklärung Schwindel",
+      "FAST-Sonographie bei hämodynamischer Instabilität",
+      "Ausschluss innere Organläsionen (Milz, Leber, Aortenruptur)"
+    ]
+  },
+  {
+    "title": "Motorradfahrer bewusstlos auf der Straße",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "bewusstlos auf der Straße liegend"
+    ],
+    "accident_mechanism": "Motorradunfall",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma",
+      "mögliche HWS-Fraktur"
+    ],
+    "diagnostic_approach": [
+      "ABCDE-Schema",
+      "Helm nicht ausziehen bis Krankenhaus wegen Gefahr HWS-Fraktur",
+      "Polytrauma-CT"
+    ]
+  },
+  {
+    "title": "Somnolenter Mann in der Bahn mit Verdacht auf Schlaganfall",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Somnolenz"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Aphasie"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "ischämischer Schlaganfall",
+      "TIA"
+    ],
+    "diagnostic_approach": [
+      "fokaler neurologischer Funktionsausfall abklären",
+      "Schlaganfalldiagnostik"
+    ]
+  },
+  {
+    "title": "Junger Mann mit Verdacht auf Hirnödem auf Intensivstation",
+    "patient_age": "jung",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Hirnödem"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Vigilanzminderung"
+    ],
+    "imaging_findings": [
+      "Hirntod durch Radiologen festgestellt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hirntod"
+    ],
+    "diagnostic_approach": [
+      "Hirnreflexe prüfen",
+      "Glasgow Koma Score",
+      "Hirntod-Diagnostik",
+      "Organspende-Gesetz beachten"
+    ]
+  }
+]

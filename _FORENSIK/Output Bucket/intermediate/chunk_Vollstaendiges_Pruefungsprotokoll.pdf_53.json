@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Patient mit seit 30 Minuten bestehenden Halsschmerzen - Verdacht auf akutes Koronarsyndrom",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "seit 30 Minuten bestehende Halsschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Puls",
+      "Halsvenenstauungen",
+      "Herzauskultation: Systolikum oder Diastolikum",
+      "Lungen: Rasselgeräusche"
+    ],
+    "imaging_findings": [
+      "Echokardiographie"
+    ],
+    "laboratory_findings": [
+      "hs-Troponin",
+      "Entzündungsparameter"
+    ],
+    "suspected_diagnosis": [
+      "Akutes Koronarsyndrom"
+    ],
+    "diagnostic_approach": [
+      "Anamnese nach SAMPLER-Schema",
+      "Gezielte klinische Untersuchung: Inspektion, Palpation, Auskultation des Herzens und der Lunge",
+      "Vitalparameterkontrolle: Blutdruck, Puls, Sauerstoffsättigung, Temperatur",
+      "EKG: Ausschluss eines akuten Koronarsyndroms",
+      "Laboruntersuchungen: Troponin, Entzündungsparameter",
+      "Bei Verdacht auf akutes Koronarsyndrom: Echokardiographie"
+    ]
+  },
+  {
+    "title": "Hinterwandinfarkt",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [
+      "ASS (250mg i.v. bzw. 300 mg oral oder 500 mg i.v.)",
+      "Heparin (70IE/kg bzw. 5000 IE i.v. als Bolus, dann kontinuierliche Infusion)",
+      "Sauerstoff bei Hypoxämie",
+      "Nitrospray/Nitroglycerin sublingual oder intravenös bei anhaltenden Schmerzen oder Hypertonie",
+      "Morphin i.v. bei starken Schmerzen",
+      "Betablocker (sofern keine Kontraindikationen bestehen)"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hinterwandinfarkt"
+    ],
+    "diagnostic_approach": [
+      "Transport zum Herzkatheterlabor zur Durchführung einer primären PCI"
+    ]
+  }
+]

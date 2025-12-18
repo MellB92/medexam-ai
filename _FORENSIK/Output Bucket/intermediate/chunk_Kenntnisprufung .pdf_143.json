@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Knieverletzung nach Laufrad-Kollision",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen im Knie"
+    ],
+    "accident_mechanism": "von einem Kind mit einem kleinen Laufrad angefahren, auf die rechte Hand gestürzt und das rechte Bein verdreht",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "vorderer Schubladetest",
+      "hinterer Schubladetest",
+      "tanzende Patella",
+      "pDMS",
+      "Bewegungsprüfung im Knie nach Neutral-0-Methode"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Innenbandriss",
+      "DD: Unhappy Triad",
+      "DD: Außenbandriss",
+      "DD: Meniskusriss"
+    ],
+    "diagnostic_approach": [
+      "Sonographie (Ergussdiagnostik)",
+      "MRT"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

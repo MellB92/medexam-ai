@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Temporale Kopfschmerzen mit Nachtschweiß - V.a. Arteriitis Temporalis",
+    "patient_age": "65-jähriger",
+    "patient_gender": "Mann",
+    "chief_complaints": [
+      "Seit zwei Wochen bestehende progrediente anhaltende Kopfschmerzen am temporalen Bereich (Schläfenbereich) beidseits",
+      "Keine Ausstrahlung in andere Körperregionen",
+      "Paracetamol nicht hilfreich",
+      "Nachtschweiß",
+      "Polyurie",
+      "Polydipsie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypertonie",
+      "Sturz auf das rechte Knöchel und Operation wegen OSG-Fraktur",
+      "Appendektomie",
+      "Leberentzündung nach Rückkehr aus Italien (medikamentös behandelt)"
+    ],
+    "medications": [
+      "Lisinopril 20mg morgens",
+      "Paracetamol bei Bedarf"
+    ],
+    "allergies": [
+      "Penicillinallergie (Hautausschläge und Mundtrockenheit)",
+      "Raucht 3-4 Zigaretten täglich",
+      "Trinkt 1 Glas Wein am Wochenende",
+      "Keine Drogen"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Arteritis Temporalis (Riesenzellarthritis)",
+      "DD: Hypertensive Krise",
+      "DD: Hirnblutung",
+      "DD: Hirntumor"
+    ],
+    "diagnostic_approach": [
+      "Stationäre Aufnahme",
+      "Laboruntersuchung",
+      "Dopplersonografie der Arteria Karotis interna und Arteria Temporalis",
+      "CT-Schädel (Hirntumor ausschließen)",
+      "Hochdosierte Steroide (Prednisolon 50 mg) wegen Gefahr von Erblindung"
+    ]
+  }
+]

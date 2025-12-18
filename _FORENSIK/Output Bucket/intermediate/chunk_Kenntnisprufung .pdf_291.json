@@ -1,0 +1,263 @@
+[
+  {
+    "title": "Chronische Nierenerkrankung mit DM und Hypertonie",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus",
+      "arterielle Hypertonie",
+      "chronische Nierenerkrankung"
+    ],
+    "comorbidities": [
+      "Diabetes mellitus",
+      "arterielle Hypertonie",
+      "chronische Nierenerkrankung"
+    ],
+    "risk_factors": [],
+    "family_history": [
+      "Ehefrau nimmt Lercanidipin"
+    ],
+    "social_history": [],
+    "medications": [
+      "ACE Hemmer",
+      "SGLT2 Hemmer"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "GFR Abfall um 3-5ml/min/1.73m2 nach 3 Wochen",
+      "Glucose im Urin (zum Nachweis SGLT2-Inhibitoren-Einnahme)"
+    ],
+    "suspected_diagnosis": [
+      "chronische Nierenerkrankung unter nephroprotektiver Therapie"
+    ],
+    "diagnostic_approach": [
+      "Glucose im Urin zur Adhärenz-Kontrolle"
+    ],
+    "treatment_response": [
+      "GFR-Abfall durch Senkung des intraglomerulären Drucks (erwartete Wirkung)"
+    ],
+    "complications": [
+      "Patient wütend wegen GFR-Abfall"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Humerusfraktur nach Sturz mit Commotio cerebri",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Sturz zu Hause"
+    ],
+    "accident_mechanism": "Sturz zu Hause aus 2-3m Höhe",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Commotio cerebri mit Retrogradeamnesie",
+      "Zufluss aus der Nase (Liquorrhoe bei Schädel-Hirn-Trauma diskutiert)"
+    ],
+    "imaging_findings": [
+      "Röntgen: subkapitale Humerusfraktur",
+      "Polytrauma-CT wurde diskutiert"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "subkapitale Humerusfraktur",
+      "Commotio cerebri",
+      "mögliche Schädelbasisbruch"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Aufnahme",
+      "Polytrauma-CT diskutiert"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Sick-Sinus-Syndrom mit Bradykardie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Ermüdigkeit",
+      "Synkope (diskutiert)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Bradykardie mit 44 bpm"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: Sick-Sinus-Syndrom mit Bradykardie",
+      "EKG: horizontale ST-Hebung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sick-Sinus-Syndrom mit Bradykardie"
+    ],
+    "diagnostic_approach": [
+      "EKG"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Pausen über 3 Sekunden führen zu Synkope"
+    ],
+    "follow_up": [
+      "medikamentöse Therapie: Atropin und Schrittmacher",
+      "Herzschrittmacher-Implantation via Vena jugularis/subclavia"
+    ]
+  },
+  {
+    "title": "Inferiorer STEMI mit AV-Block III",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: ausgeprägter inferiorer Myokardinfarkt mit sehr hoher ST-Hebung",
+      "EKG: AV-Block Grad III (P-Wellen versteckt in ST)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "STEMI Inferiorwand",
+      "AV-Block Grad III"
+    ],
+    "diagnostic_approach": [
+      "EKG"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "AV-Block Grad III"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Lobärpneumonie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild: Lobärpneumonie"
+    ],
+    "laboratory_findings": [
+      "CRP 56"
+    ],
+    "suspected_diagnosis": [
+      "Lobärpneumonie"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Thorax",
+      "CRP"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Lebermetastasen mit Aszites",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sonografie: Teil der Leber mit Aszites",
+      "vollknotig nur kleiner Kanal",
+      "Metastasen mit Aszites"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lebermetastasen mit Aszites"
+    ],
+    "diagnostic_approach": [
+      "Abdomensonografie"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Aszites"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Sturz mit Humerusfraktur bei Metallarbeiter",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Sturz zu Hause"
+    ],
+    "accident_mechanism": "Sturz zu Hause",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Tätigkeit im Metallbau in der Vergangenheit"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "gezielte Untersuchung Becken, Kopf, Neurologie"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "körperliche Untersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

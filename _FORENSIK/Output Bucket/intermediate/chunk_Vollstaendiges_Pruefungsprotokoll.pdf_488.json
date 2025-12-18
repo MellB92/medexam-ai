@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Sprunggelenk-Hämatom nach Umknicken beim Rennen\",\n    \"patient_age\": null,\n    \"patient_gender\": \"m\",\n    \"chief_complaints\": [\"Sprunggelenk-Hämatom\"],\n    \"accident_mechanism\": \"Umknicken beim Rennen\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Hämatom am Sprunggelenk\"],\n    \"imaging_findings\": [\"Röntgen abgelehnt durch Patient\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Ligamentruptur\", \"Fraktur (möglich)\"],\n    \"diagnostic_approach\": [\"Röntgenaufnahme zur Diagnosesicherung indiziert\", \"konservative Therapie mit Immobilisation für ca. 3 Wochen\", \"anschließend Krankengymnastik\", \"keine direkte Operation ohne Diagnosesicherung\"]\n  }\n]\n```"
+  }
+]

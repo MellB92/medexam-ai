@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 35/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle**.\n\nDer Text behandelt ausschließlich:\n- **Lektion 16**: \"Intraventrikuläre Erregungsrückbildungsstörungen – Veränderungen von ST-Strecke und T-Welle\"\n- Theoretische Beschreibung von EKG-Veränderungen (ST-Strecken-Hebung/-Senkung, T-Wellen-Veränderungen)\n- Klassifikationskriterien (Form, Ausmaß, Verteilung)\n- Messpunkte und technische Definitionen (J-Punkt, 80 msek-Latenz)\n- Abbildungen 16.1-16.6 mit schematischen Darstellungen\n\nEs handelt sich um rein didaktisches Lehrmaterial ohne konkrete Patientenbeispiele, Fallvignetten oder klinische Präsentationen."
+  }
+]

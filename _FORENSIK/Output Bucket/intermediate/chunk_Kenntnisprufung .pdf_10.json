@@ -1,0 +1,182 @@
+[
+  {
+    "title": "CED bei 29-jähriger Frau mit blutiger Diarrhö",
+    "patient_age": "29 Jahre",
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Diarrhö seit 5 Monaten",
+      "blutige Diarrhö seit 3 Wochen",
+      "10-15 Stuhlgänge am Tag",
+      "Gewichtsverlust 3 kg",
+      "Konjunktivitis",
+      "Rückenschmerzen seit 3 Wochen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Ibuprofen 600mg"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "neurologische Untersuchung durchgeführt",
+      "Reflexe geprüft",
+      "Blutabnahme durchgeführt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "CED (Chronisch entzündliche Darmerkrankung)"
+    ],
+    "diagnostic_approach": [
+      "Koloskopie",
+      "Blutuntersuchung",
+      "Stuhluntersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "CED bei 29-jähriger Patientin mit Hämatochezie",
+    "patient_age": "29 Jahre",
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Diarrhö seit 5 Monaten",
+      "10-15 Stuhlgänge pro Tag",
+      "Hämatochezie",
+      "krampfartige Bauchschmerzen",
+      "Konjunktivitis",
+      "Anämie-Symptome"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Rheuma in der Familie"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Druckschmerz im Abdomen",
+      "arterielle Untersuchung durchgeführt",
+      "Reflexe geprüft",
+      "sonst körperliche Untersuchung unauffällig"
+    ],
+    "imaging_findings": [
+      "Koloskopie: Fibrinbelag und Rötungen, kontinuierlich",
+      "Haustrenverlust"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "CED",
+      "Colitis ulcerosa",
+      "Morbus Crohn",
+      "bakterielle Gastroenteritis"
+    ],
+    "diagnostic_approach": [
+      "Koloskopie",
+      "Stuhluntersuchung",
+      "Blutuntersuchung"
+    ],
+    "treatment_response": [
+      "akuter Schub diagnostiziert"
+    ],
+    "complications": [
+      "GCS 9 nach Koloskopie",
+      "V.a. Sepsis"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Lungenembolie bei jungem Mann mit Atemnot",
+    "patient_age": "jung",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Atemnot"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "SpO2 92%"
+    ],
+    "physical_examination": [
+      "keine Schmerzen"
+    ],
+    "imaging_findings": [
+      "Rechtsherzbelastungszeichen in Echo"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenembolie",
+      "Pneumothorax",
+      "Boerhaave-Syndrom",
+      "Myokardinfarkt (unwahrscheinlich)"
+    ],
+    "diagnostic_approach": [
+      "Wells Score",
+      "D-Dimer",
+      "CT-Angiographie",
+      "Echokardiographie",
+      "Röntgen-Thorax",
+      "MRT",
+      "TVT-Diagnostik"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Rechtsherzinsuffizienz",
+      "pulmonale Hypertonie"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Dislozierte Klavikulafraktur bei Frau",
+    "patient_age": null,
+    "patient_gender": "weiblich",
+    "severity": "mild",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "mögliche Schwangerschaft"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen: dislozierte Klavikulafraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "dislozierte Klavikulafraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen",
+      "Schwangerschaftstest",
+      "MRT bevorzugt"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

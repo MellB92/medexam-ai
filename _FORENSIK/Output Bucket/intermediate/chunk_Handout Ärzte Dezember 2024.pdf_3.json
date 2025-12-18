@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 4/9) enthält **keine klinischen Patientenfälle**. \n\nDer Text ist ein **Schulungshandout für Ärzte zum Thema Strahlenschutz** (Dezember 2024) und behandelt ausschließlich:\n\n- Grundlagen des Strahlenschutzes\n- Baulicher Strahlenschutz (Bleiabschirmungen, Raumkennzeichnung)\n- Einteilung der Arbeitsbereiche (Kontrollbereich, Überwachungsbereich, Sperrbereich)\n- Dosisgrenzwerte für Personal\n- Apparativer Strahlenschutz (Röntgengeräte, Prüfkörper)\n- Personendosimetrie (TL-DOS Dosimeter, Fingerringdosimeter, Augendosimeter)\n- Regelmäßige Überprüfungen durch Sachverständige\n- Strahlenschutzregister und SSR-Nummern\n\nEs handelt sich um **theoretisches Ausbildungsmaterial** ohne konkrete Patientenfälle mit Anamnese, klinischer Präsentation oder Diagnostik."
+  }
+]

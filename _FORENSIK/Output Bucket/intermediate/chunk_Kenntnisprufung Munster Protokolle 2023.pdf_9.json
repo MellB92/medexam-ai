@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Akute Appendizitis mit Peritonitis",
+    "patient_age": "66-jährige",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "krampfartige abdominelle Schmerzen seit gestern",
+      "initial Mittelbauch, dann rechter Unterbauch, aktuell diffus",
+      "Übelkeit",
+      "1x Erbrechen gestern"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Klappeninsuffizienz (nicht näher spezifiziert)",
+      "TVT vor 34 Jahren nach Schwangerschaft"
+    ],
+    "medications": [
+      "Ibuprofen 600 mg seit 3 Tagen",
+      "Buscopan (von Patientin selbst genommen)"
+    ],
+    "allergies": [
+      "Pflasterallergie"
+    ],
+    "physical_examination": [
+      "Abwehrspannung Abdomen",
+      "diffuse Bauchschmerzen bei Palpation",
+      "Ellenbogenschmerzen (Vorbefund nach Sturz)"
+    ],
+    "imaging_findings": [
+      "Sonographie: Appendizitis mit Ödem an der Wand"
+    ],
+    "laboratory_findings": [
+      "Leukozyten 16.000"
+    ],
+    "suspected_diagnosis": [
+      "Akute Appendizitis mit Peritonitis",
+      "DD: Mesenteriale Ischämie",
+      "DD: Ileus",
+      "DD: Perforiertes Ulkus"
+    ],
+    "diagnostic_approach": [
+      "Anamnese und körperliche Untersuchung",
+      "Abdomensonographie",
+      "ggf. Röntgen Abdomen (im Stehen oder Linksseitenlage)",
+      "Venöser Zugang",
+      "Labordiagnostik (Leukozyten)"
+    ]
+  }
+]

@@ -1,0 +1,3207 @@
+{
+  "total_files": 988,
+  "processed": 0,
+  "failed": 791,
+  "empty_docs": 185,
+  "anonymized": 0,
+  "quality_checked": 0,
+  "hallucinated": 0,
+  "auto_corrected": 0,
+  "start_time": "2025-10-02T16:27:30.240793",
+  "end_time": "2025-10-02T21:13:37.766909",
+  "duration_seconds": 17167.526116,
+  "model_used": "Claude Sonnet 4.5",
+  "by_category": {},
+  "by_subject": {},
+  "by_format": {
+    ".apkg": 1,
+    ".pdf": 461,
+    ".png": 89,
+    ".epub": 1,
+    ".jpg": 7,
+    ".jpeg": 25,
+    ".txt": 11,
+    ".xlsx": 1,
+    ".docx": 96,
+    ".pptx": 3,
+    ".doc": 18,
+    ".md": 265,
+    ".html": 10
+  },
+  "errors": [
+    {
+      "file": "3te_Stellungnahme_Regierungskommission_Grundlegende_Reform_KH-Verguetung_6_Dez_2022_mit_Tab-anhang.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Abbildung-2-Taschenkarte-SAMPLE-Schema-Wesentlicher-Bestandteil-der-didaktischen.png",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Analyse Antworten  .pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Anamnese Vorlesung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Anmeldung AZAV - KP-24-04_Ausgefüllt.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "BeekoGut22.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "BeekoSozmed24.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "BeekoÄrzte24.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Bildgebende Verfahren_Tag 1 .pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Bildgebende Verfahren_Tag 2 .pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Bildgebende Verfahren_Tag 3.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Bildungsgutschein_DBS_20240528_0001.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Briefe schreiben.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Das EKG Auf einen Blick und im Detail (Prof. Dr. Marc Gertsch (auth.)) (Z-Library).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Das EKG Auf einen Blick und im Detail.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "ECG from Basics to Essentials Step by Step (Roland X. Stroobandt, S. Serge Barold etc.) (Z-Library).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "EKG-Diagnostik.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Interpretation des EKG (Nathan Orwell) (Z-Library).epub",
+      "error": "page 1000 not in document"
+    },
+    {
+      "file": "Schnellinterpretation des EKG Ein programmierter Kurs (Dr. med. Udo Klaus Lindner (auth.)) (Z-Library).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Last Minute Pharmakologie, 3. Aufl. (2018).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Last-Minute-Pharmakologie.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Lernkarten zum mündlichen Stex (2. Auflage).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Lernkarten_zum_Mündlichen_Stex_Innere_Medizin_und_240720_143816.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Lernkarten_zum_Mündlichen_Stex_Innere_Medizin_und_Chirurgie_Elsevier.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Appendizitis Algorithmus.jpg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Mittelfingerknoten (rechts).PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nadelformen.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nahtmaterial_Einsatzgebiet_Handelsnamen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Nahttechnik.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nicht resorbierbare Materialien.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Resorbierbare Materialien.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "USP und Metric.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Vor- und Nachteile verschiedener Nahttypen.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nadelformen.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nahtmaterial nach Einsatzgebiet 2.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nahtmaterial nach Einsatzgebiet 3.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nahtmaterial nach Einsatzgebiet 4.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "nahtmaterial nach Einsatzgebiet 5.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nahtmaterial nach Einsatzgebiet 6.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nahtmaterial nach Einsatzgebiet.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Chirurgie Tag 1 .pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Chirurgie Tag 2 .pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Chirurgie_Tag 3.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "COVID-19 und Frakturlehre.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Bildgebende Verfahren_Tag 3_Seite49_Bild3.png",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Bildungsgutschein_DBS_20240528_0001_Seite1_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Bildungsgutschein_DBS_20240528_0001_Seite2_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Bildungsgutschein_DBS_20240528_0001_Seite3_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Bildungsgutschein_DBS_20240528_0001_Seite4_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Bildungsgutschein_DBS_20240528_0001_Seite5_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Bildungsgutschein_DBS_20240528_0001_Seite6_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "IMG_20240605_0001_Seite1_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Maßnahmevertrag_DBS_Seite1_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Maßnahmevertrag_DBS_Seite2_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Maßnahmevertrag_DBS_Seite3_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Maßnahmevertrag_DBS_Seite4_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Medizinrecht Tag 3_Seite131_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation_Seite10_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation_Seite11_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation_Seite12_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation_Seite13_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation_Seite1_Bild1.png",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation_Seite2_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation_Seite4_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation_Seite4_Bild2.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation_Seite5_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation_Seite6_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation_Seite7_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation_Seite8_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation_Seite9_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Rechnung Osteopath_20240607_0001_Seite1_Bild1.jpeg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "DIE ANAMNESE - Formulierungshilfen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Die körperliche Untersuchung plus Ortho.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Dokumentation-Vorlesung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "DRV_Gutachten.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Eckpunktepapier_Krankenhausreform.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "003-001l_S3_VTE-Prophylaxe_2015-10-abgelaufen_01.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "AWMF Diagnostik und Therapie der Venenthrombose und Lungenembolie.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Vergleich der Sepsis-Scores (aktueller Stand).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "187-023k_S3_Polytrauma-Schwerverletzten-Behandlung_2023-06 Kursversion.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "187-023l_S3_Polytrauma-Schwerverletzten-Behandlung_2023-06.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Empfehlungen Fibrinogen + zentrale Zugänge.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Empfehlungen Herzkreislaufstillstand.png",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Empfehlungen zur Blutungskontrolle  und Pneumothorax.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "GanzkörperCT.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Gerinnungsdiagnose und Therapie (Viskoelastische Verfahren).PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Innerklinische Thorakotomie.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Kardiopulmonale Reanimation.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Koxarthrose.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kriterien GanzkörperCT.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "MRT Trauma.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Neue B Kriteria.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Notfallthorakotomie.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Pneumo- und Hematothorax Drainage Kateter Größe.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "REBOA.png",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "S3Leitlinie Polytrauma geriatrische Patienten.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Schockraum Aktivierungskriterien II.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Schockraum Aktivierungskriterien.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Sequentielles Vorgehen bei einem Trauma assozierte Herzstillstand.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Tranexansäure.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Vergleich s3 Leitlinie 2016 mit 2022.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "ENHANCED_Medical_Analysis_20250909_1013.txt",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\ENHANCED_Medical_Analysis_20250909_1013.txt"
+    },
+    {
+      "file": "Epikrise.jpg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Fallpauschalenkatalog_2021_20201112.xlsx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "FINAL_Sonnet4_Analyse_20250909_0214.txt",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\FINAL_Sonnet4_Analyse_20250909_0214.txt"
+    },
+    {
+      "file": "Fragen_Antworten-QS-Version-1.txt",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Fragen_Antworten-QS-Version-1.txt"
+    },
+    {
+      "file": "Angelika Förster-Wenger (Dokumentation KORRIGIERT).docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Angelika Förster-Wenger.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "das_vegetative_nervensystem_md.jpg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Deutsch für Ärztinnen und Ärzte Trainingsbuch für die Fachsprachprüfung und den klinischen Alltag (Ulrike Schrimpf, Markus Bahnemann etc.) (z-lib.org)(1).pdf",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\FSP Medisim\\Deutsch für Ärztinnen und Ärzte Trainingsbuch für die Fachsprachprüfung und den klinischen Alltag (Ulrike Schrimpf, Markus Bahnemann etc.) (z-lib.org)(1).pdf"
+    },
+    {
+      "file": "Abkürzungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Anamnesebogen_2021_interaktiv.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Begleitsymptome.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Buchstabier-Hilfe  Beispiele.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Häufige Krankheiten.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Häufige Symptome.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Lagebezeichnungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Präfixe.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Untersuchungen-fachliche Erklärungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Untersuchungen-Patientenerklärung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Vornamen in Deutschland.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Düsseldorf Fälle .pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Düsseldorf Fälle 2.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fachbigriffe2_Dusseldorf[1].pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fachsprache Medizin im Schnellkurs  - für Studium und Berufspraxis (Karenberg, Axel  Axel Karenberg) (z-lib.org).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fachsprachprüfung erfolgreich bestehen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Begleitsymptome.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP FSP 1. Tag.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Sätze zur Anamneseerhebung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "der schwierige Patient Beispielsätze.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "der schwierige Patient Textbeispiele.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP FSP 2. Tag.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "aktuelle Anamnese schreiben.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Begleitsymptome.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Grundwortschatz aktuelle Anamnese.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP FSP 3. Tag.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1 aktuelle Beschwerden.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü2 und 3 indirekte Rede u. stichwortartig.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Allergien.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "allergische Reaktionen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Anamnesebogen ausfüllen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Lösung Übung 1 A-G-S-F.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Lösung Übung 1 V-O-M.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Lösung Übung 2 A-G-S-F.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Lösung Übung 2 V-O-M.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "online- Arztbericht Potsdam.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "online-Anamnesebogen  Düsseldorf.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "online-Anamnesebogen München.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "online-Anamnesebogen Münster.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "online-Arztbericht Berlin.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "online-Arztbrief Rostock.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP FSP 4. Tag.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Adjektive in der Medizin.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Begriffe aus dem Gesundheitswesen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Druckarten, Zeilen, Spalten, Punkt.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Infos zum Hühnerauge.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Laborzettel Vokabular.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Lagebezeichnungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "meldepflichtige Krankheiten.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Normwerte Labor.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Operationen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP FSP 5. Tag.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Präfixe.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Sätze zur Patientenvorstellung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Tipps für die Fachsprachprüfung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Untersuchungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fall 1.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fall 2.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fall 3.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fall 4.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fall 5.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fall 7.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fall 8.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fall 9.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "FSP Schritt für Schritt.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Übung 1 Lösungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Übung 1.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Übung 2 Lösungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Übung 2.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Übung 3 Lösungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Übung 3.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Übung Operationen Lösung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Bilder von Darreichungsformen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Die Darreichungsformen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Einstieg Medikamente Lösung 1.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Einstieg Medikamente Lösung 2.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Einstieg Medikamente Lösung 3.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Einstieg Medikamente mit Aufgaben.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kennenlernrunde.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Nominalisierung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Kurstag 01.pptx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Verbalstil und Nominalstil Lösung 1.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Verbalstil und Nominalstil Lösung 2.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Verbalstil und Nominalstil mit Aufgaben.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Verbenkärtchen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Grundwortschatz Medikamente.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Notizen Med 1 ÄF23-11.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Medikamente 1.d.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Skript Medikamente.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü 3s Lückentext Medikamente Lösung.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü 4s EinnahmeMedikamentenplan.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1m APG erklären Medikamenteneinnahme-medisim-SP-09.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü2m APG Einnahme erklären.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü2s Verordnung schreiben.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü3m Medikamentenanwendung.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü3s Lückentext Medikamente.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Erklärungen Injektionen und Infusionen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Mitschrift 2023-11-08 Medikamente Tag 2.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Medikamente Tag 2.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Skript Medikamente.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü3m Inj. und Inf. erklären Gruppe.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü4 m APG Injektion und Infusion.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Üs Lückentext Lösung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Üs Lückentext.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Üs Silbenrätsel Lösung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Üs Silbenrätsel.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Beipack+ Begriffe.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Beipackzettel verstehen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Medikamente mit Handelsnamen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Medikamentengruppen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Medikamente 3. Tag.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "2MAPGZ~1.DOC",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "3MAPGM~1.DOC",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1m APG Beipackzettel.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "3ASDRU~1.PDF",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "3BSDRU~1.DOC",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "3BSKK-~1.DOC",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "KREUZW~1.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "1SSILB~1.PDF",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "2SLCKE~1.PDF",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "4BEIPA~1.DOC",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Lösung Kreuzworträtsel.png",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Ü1s Silbenrätsel.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü2s Lückentext.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü4 Beipackzettel Buscop.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Buchstabier-Hilfe  Beispiele.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Einteilung der Schmerzen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fragen zum Schmerz.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Grundwortschatz Schmerz 1.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Schmerz Tag 1.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "SCHMER~1.PDF",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "1SUMFO~1.DOC",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fragen zum Schmerz.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Lückentext Lösung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "refl. oder nicht.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Umformulierung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Lückentext.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü2s Fragen zum Schmerz.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü3s Lückentext Temporalpräp..docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü4s reflexiv oder nicht reflexiv.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Begleitsymptome.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Grundwortschatz Schmerz 2.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "KT 06-Schmerz Tag2 Mitschriften.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Schmerz Tag 2.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Schmerz KUSS-Skala.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Schmerztherapie.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Skript der Schmerz.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Lösung Kreuzworträtsel Schmerz.png",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Ü1s Erklären Sie es auf Deutsch Lösungen.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Übung WHO-Stufenschema Lückentext Lösung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Schmerz Tag 2.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Schmerzpatienten Beispiele.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1m Schmerz und Schmerzbeeinflussung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü2m APG 1 Schmerztherapie erklären.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü3m APG 2 chron. Schmerzen.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kreuzworträtsel Schmerz.png",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Schmerzpatienten Beispiele.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü10s Fall für Schmerztagebuch.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1s Erklären Sie es auf Deutsch .docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Übung WHO-Schema Lückentext.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Üs Umformulierung in Adjektive.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "dermatologische Befundbeschreibung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Grundwortschatz Haut.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Hautkrankheiten.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Immunisierung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "KT 07-Mitschriften.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Haut.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Skript Haut.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1 APG Hautveränderung Gesprächsführung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1 APG Hautveränderungen Bilder.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü2 APG Wunde Bilder.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü2 APG Wunde Gesprächsführung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1s Effloreszenzen Lösung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü2s Lückentext Lösung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü3s Wunden Lösung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1s Effloreszenzen Zuordnung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü2s Lückentext Hausaufgabe.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü3s Wunden Zuordnung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Blutröhrchen Amboss Video .pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Die häufigsten Untersuchungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "KT 08.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Labor (1).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Skript Labor.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Labor-medisim-SP-09.pptx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü03m Begriffserklärung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü01m Laboruntersuchungen erklären.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü02m Kulturen + Abstrich erklären.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü05m APG.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü02s Kreuzworträtsel Labor Lösung.png",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Ü1s Laborwerte Lösung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1s Laborwerte.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü02s Kreuzworträtsel Labor.png",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "APG Fälle + passendes EKG.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Blutdruck.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Grundwortschatz EKG.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Notizen APG ÄF 11 23 EKG.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP 1 EKG.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Puls.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Skript EKG.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Begriffe bildgebender Verfahren.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Notizen APG 23-11.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Röntgen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Rö-Abd Beurteilung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Skript Röntgen .pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Endoskopie Erklärung für Ärzte.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Endoskopien Erklärung für  Patienten.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Endoskopien mit kurzer Erklärung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Grundwortschatz Endo + Sono.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Notizen ÄF23-11 Diagnostik 4.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Endoskopien.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Sonographie.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Wiederholung Diagnostik.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Skript Endoskopien.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Skript Sonografie.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Untersuchungen-fachliche  Erklärung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Untersuchungen-Patientenerklärung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Anamnesesätze.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fachausdrücke.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Grundwortschatz Anamnese.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Krankheiten.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Notizzettel.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Operationen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Anamnese.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Skript  Anamnese.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "SOKRATES Anamnese Mnemo.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Symptome.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "ÄF 2311 Notizen KT 12 211123.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fachgebiete.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Grundwortschatz spez. Anamnese.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Notizen Anamnese Gesrpäche ÄF 23 11.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Spez. Anamnese.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1 s spez. Anamnese schreiben.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü2 s Fachworte Lösung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Aekno Lehrvideos zu NURSE und WWSZ.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Gefühle und Bedürfnisse.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Gesprächsführung, WWSZ, NURSE.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Gesprächstechniken WWSZ & NURSE.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "SOKRATES Anamnese Mnemo.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Untersuchungen-Patientenerklärung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Zeitmanagment Anamnesegespräch ( 1.Teil FSP).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Üm Gesprächstechniken.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Üs Gesprächstechniken.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Deutsche Redewendungen mit Körperteilen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Grundwortschatz körperliche Untersuchung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Lagebezeichnungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP sprachliche Vorentlastung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Verben KU.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Was sind Partikeln.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "2SZUOR~1.PDF",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "3STELC~1.PDF",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "4SAAUF~1.PDF",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "4SBVER~1.PDF",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "5SUMWA~1.DOC",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "6SPART~1.PDF",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "7SANWE~1.DOC",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1s Präpositionen Lösungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1s Verben Lösungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü2s Zuordnung SatzteiLösungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü3s  telc Lösungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü4s Aufford. Lösungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü5s Umwandlung in Adj. Lsg..pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü6s  Partikeln Lösungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü7s Anweisungen an Pat. .pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Grundwortschatz körperliche Untersuchung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "KT 14-Mitschriften.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "KT 16.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Körperliche Untersuchung Tag 2.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP körperliche Untersuchung Thorax und Herz.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Sätze körperlichen Untersuchung Sätze.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP körperliche Untersuchung.pptx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1m Positionsübung.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü2m  Kopf Hals.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü3m  Thorax.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1s Lösungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1s Präpositionen.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü2s Aufforderungen.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü2s Lösung Aufforderungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP körperliche Untersuchung 3. Tag.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Skript körperliche Untersuchung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Untersuchung Abdomen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Medizinrecht.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Medizinrecht.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Schweigepflicht.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Gastroskopie Aufklärungsbogen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Grundwortschatz Aufklärung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Aufklärung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Skript Aufklärung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Sätze schlechte Nachricht.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Zuordnung Aufklärung Lösung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Zuordnung Aufklärung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Arztbrief Einteilung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Arztbrief Pneumonie Beispiel.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Grundwortschatz Arztbrief.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Grundwortschatz z. Doku.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP aktuelle Anamnese in indirekter Rede.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Arztbrief.pdf.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Skript Arztbrief.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fälle kompl. Anamnese Doku.PDF",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Beispiel Dokumentation.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "4ASKUR~1.DOC",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "5SARZT~1.DOC",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "6SFLLE~1.DOC",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Arztbrief Beispiel.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "ARZTBR~2.DOC",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "ARZTBR~4.DOC",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "1ASTZE~1.DOC",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "2SINDI~1.DOC",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "3SAKTU~1.DOC",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "4SAKTB~1.PDF",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1bs indir. Rede.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Adjektive in der Medizin.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Allergien.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Begleitsymptome.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Druckvorlage KU Doku.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Grundwortschatz Doku.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Grundwortschatz Traumatologie.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Krankheiten.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Medikamentengruppen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "meldepflichtige Krankheiten.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Normalbefund.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Dokumentation.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Präfixe.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Untersuchungen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Wundbeschreibung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Bsp. Anamnesebogen Charlotta .....PDF",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Bsp. Anamnesebogen Christian Schwaiger.PDF",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Arzt-Arzt-Gespräch Sätze.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Grundwortschatz Arzt-Arzt-Gespräch.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Arzt-Arzt-Gespräch.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Skript Arzt-Arzt-Gespräch.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fall Körner.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fall Zeiger.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1m Anamnesen für Vorstellung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "FB 1 für 8.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "FB 1 für 8.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "FB 2 für 8.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "FB 3 für 7.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "FB 4 für 6.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "FB 5 für 6.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "FB 6 für 5.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "KT 24.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "PP Telefonat.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Skript Telefonat.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü1 m für 6.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü2m für 4.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü3m für 4.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü4m frei für 9.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ü5m frei für 8.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Lebenslauf Foto.png",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Liste aller Konjunktionen _ Übersicht mit Beispielsätzen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "REBLIQ SChema.jpg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Screenshot 2023-11-24 135105.png",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "1.TEIL FSP Zeitmanagement Anamnesegespräch ( 1.Teil FSP).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Anamneseerhebung APG A. Niedermeyer.DOC",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "2. Teil Doku Anamnesebogen stichwortartig_interaktiv A. Niedermeyer ÄF 23-07.docx",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\FSP Medisim\\Strategien, Formulare und Zeitmanagement\\2. Teil Dokus Bsp. Vollsätze & stichwortartig\\Bsp. A. Niedermeyer Anamnesebogen\\2. Teil Doku Anamnesebogen stichwortartig_interaktiv A. Niedermeyer ÄF 23-07.docx"
+    },
+    {
+      "file": "2. Teil Doku Anamnesebogen Vollsätze A. Niedermeyer PROTOTYP.pdf",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\FSP Medisim\\Strategien, Formulare und Zeitmanagement\\2. Teil Dokus Bsp. Vollsätze & stichwortartig\\Bsp. A. Niedermeyer Anamnesebogen\\2. Teil Doku Anamnesebogen Vollsätze A. Niedermeyer PROTOTYP.pdf"
+    },
+    {
+      "file": "2. TEIL FSP Zeitmanagement Anamnesebogen Dokumentation .pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "3. TEIL FSP  Beispiel Patientenvorstellung Ambulanz.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "FSP Berlin Aufgabenstellung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "online-Arztbericht Berlin.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Präsenz-Arztbericht Berlin.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ablauf FSP München.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "online-Anamnesebogen München.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Präsenz Anamnesebogen München.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Aufklärungsbögen webseite Ammerlandklinik.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "FACHSPRACHENPRÜFUNG Mecklenburg-Vorpommern.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "online-Arztbrief Rostock.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Präsenz Arztbrief für KI, HR, P, J.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "FSP Brandenburg.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "online Anamnesebogen für KI, HR, P, J.docx",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\FSP Medisim\\Strategien, Formulare und Zeitmanagement\\Anamnesebogen (Vorlage) und Arztbrief Vorlage\\ÄK Brandenburg Potsdam\\online Anamnesebogen für KI, HR, P, J.docx"
+    },
+    {
+      "file": "Präsenz Anamnesebogen für KI, HR, P, J.docx",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\FSP Medisim\\Strategien, Formulare und Zeitmanagement\\Anamnesebogen (Vorlage) und Arztbrief Vorlage\\ÄK Brandenburg Potsdam\\Präsenz Anamnesebogen für KI, HR, P, J.docx"
+    },
+    {
+      "file": "Ablauf FSP Düsseldorf.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "alt__Anamnesebogen Düsseldorf 2021 FSP blanko.pdf",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\FSP Medisim\\Strategien, Formulare und Zeitmanagement\\Anamnesebogen (Vorlage) und Arztbrief Vorlage\\ÄK Düsseldorf\\alt__Anamnesebogen Düsseldorf 2021 FSP blanko.pdf"
+    },
+    {
+      "file": "online-Anamnesebogen Stichworte D.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ablauf FSP Münster.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Berichtsbogen_FSP_Muster (3).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "FSP weitere Anamnese in ganzen Sätzen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Bewertungsbogen-1.Teil APG.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Bewertungsbogen-2. Teil DOK.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Bewertungsbogen-3. Teil AAG.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Notizzettel.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "SOKRATES Anamnese Mnemo.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Zeitmanagement Anamnesegespräch ( 1.Teil FSP).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Synkope 2 .png",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Synkope 3 .png",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Zeitmanagement Anamnesegespräch ( 1.Teil FSP).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Epikrise für Prüfungssimulation.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "ESC Herzinsuffizienz Kommentar.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Herzinsuffizienz NVL.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Leitlinie Diabetes mellitus S.112.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Lernplan NEU medisim.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Musterepikrise Prüfungssimulation.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Prüfungstermine KP 24-04.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Trainingskalender für TN KP 24-04.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Gerinnungsparammeter.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Google Cloud Dokument ehemaligen .md vervollständigt.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Google Cloud Dokument ehemaligen .md.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Handout Ärzte Dezember 2024.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Heparine Wirkmechanismus.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "PraxisLive+Differenzialdiagnostik+bei+Anämie+vom+05.10.2023.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "IMG_20240605_0001.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Innere Tag 1.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Innere Tag 2.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Innere Tag 3.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Intensivmedizin und Notfallmedizin Tag 1.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Intensivmedizin und Notfallmedizin Tag 2.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Intensivmedizin und Notfallmedizin Tag 3.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "2023 ESC Guidelines for the management.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Karathanos-Inhibitoren-STEMI.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kenntnisprüfung .pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kenntnisprüfung _teil1_verarbeitet.txt",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Kenntnisprüfung _teil1_verarbeitet.txt"
+    },
+    {
+      "file": "Konsolidiertes_Prüfungsprotokoll_20250908_1220.txt",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Konsolidiertes_Prüfungsprotokoll_20250908_1220.txt"
+    },
+    {
+      "file": "Alles.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Impfungen 77.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Schwangerschaft 59.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Allgemeinmedizin.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Aortendissektion 18.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Divertikulose, Divertikulitis 75.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Magenkarzinom 18.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Chirurgie.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "DM, Hyper, Hypoglikämie 130.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Hyperthyreose 60.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Nebennieresyndrome.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Neuroendokrine Neoplasien MEN.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Endokrinologie.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "virale Hepatitis 24.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Gastroenterologie.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Blutkrebs.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Maligne Lymphom 16 + 4CLL + 31 MM.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Thrombozytopenie 23.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Hämatologie.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "HIV_AIDS 9.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "HWI 50.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Infektologie alles low yield.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "ACS 63.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "aHT und Hypertensive Krise Notfall 100.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Chronische und Akute Herzinsuffizienz von hier unten low yield 81.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "EKG 7.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Infektiösen Endokarditis IE.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "VHF 88.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kardiologie.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Andere.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "BGA Elektrolytstörungen von hier unten Low yield.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Nephrologie.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Intrakranielle Blutung 18.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Neurologie.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "ABCD Triage.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "AMI.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Anaphylaxie 37.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "atemwege verlegung.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "LAE und Cor Pulmonale 44.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Pneumothorax 84.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Polytrauma 56.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Schädel Hirn Trauma 20.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Sepsis 43.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Notfallmedizin.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Achillessehneruptur 16.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Acromioklavikulargelenkluxation.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Arthrose 33.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Bandscheibenprolaps 13.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Bandverletzungen des oberen Sprunggelenkes  39.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Beckenfraktur 61.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Bursitis 10.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "CRPS Morbus Zudeck 7.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Humerusfraktur 19.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Impigement Syndrom 6.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kalkaneusfraktur 16.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Karpaltunnelsyndrom 22.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Klavikulafraktur 19.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kniegelenkverletzungen 19.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Olekranonfraktur 3.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Proximal Fermurfraktur 14.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Rippenseriefraktur 45.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Scaphoidfraktur (Kahnbeinfraktur) 15.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Schultergelenkluxation 17.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Sprunggelenkfraktur 11.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Unterarmfrakturen 19.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Unterschenkelschaftfrakturen.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Wirbelkorperfraktur 9.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Orthopädie.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Antiarrhythmika 5.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Antibiotika 49.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Diuretika 16.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "DM.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Gerinnung.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Imunnsupresiva 9.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Onkologische medikamente.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Pharmakologie.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Schmerzen.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Pharmakologie.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "COPD und exazerbierte COPD 50.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fremdkorperaspiration 12.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "LUFU Asthma bronchiale und Status asthamaticus 61.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Lungenödem 15.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "OSAS   17.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Pneumonie 73.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Pseudokrupp 11.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Tuberkulose 24.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Pneumologie.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Rheumatoide arthritis 66.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Riesenzellarteritis 25.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Sjögren Syndrom 23.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Rheuma.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Strahlenschutz, rechts und fragen.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Über die Prüfung.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "KP Münster 2020 -2025.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "M3-Korrekturen-Ergaenzungen.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "M3-Korrekturen-Ergaenzungen_1.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "M3-Korrekturen-Ergaenzungen_2.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "M3-Korrekturen-Ergaenzungen_3.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "M3-Pruefung-Korrekturen-Ergaenzungen.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "M3-Pruefung-Korrekturen-Ergaenzungen_1.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "M3-Pruefung-Korrekturen-und-Ergaenzungen.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "M3-Pruefung-Verbesserungen.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Maßnahmevertrag_DBS.pdf",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Maßnahmevertrag_DBS.pdf"
+    },
+    {
+      "file": "Medizinische-Antworten-Korrekturen-Ergaenzungen.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "medizinische-korrekturen-ergaenzungen.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "medizinische-korrekturen-ergaenzungen_1.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "medizinische-korrekturen-ergaenzungen_2.md",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Medizinrecht Tag 1.pdf",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Medizinrecht Tag 1.pdf"
+    },
+    {
+      "file": "Medizinrecht Tag 2.pdf",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Medizinrecht Tag 2.pdf"
+    },
+    {
+      "file": "Medizinrecht Tag 3.pdf",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Medizinrecht Tag 3.pdf"
+    },
+    {
+      "file": "Mibeg Krankenhausbetriebslehre 12 2024.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation.pdf",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Nachweise Humanmedizin,Sprachniveau und Antrag auf Approbation.pdf"
+    },
+    {
+      "file": "gesichtsfeld.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Hemianopsien.png",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Hirnnervenkernen II.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Hirnnervenkernen.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "motorische Kerne.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Schlaganfall - AMBOSS-SOP - AMBOSS.html",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "medium_6454b67ee2f266.94814705.jpg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Sensible Kerne.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Somatoviszerale Sensibilität.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Tabelle.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Visceromotorische Kerne.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Viscerosensibler Kern Nucleus tractus solitarii.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Neurologie Tag 1.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Neurologie Tag 2.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Neurologie Tag 3.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "akute Subduralhämatom CT.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Akute Subduralhämatom.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Das Epidural Hämatom 1.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Epidural Hämatom CT.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Epidural Hämatom.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Glasgow Koma Skala.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Glasgow-Koma-Skala.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Management bei Verdacht auf SHT.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Monro-Kellie Doktrin.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Schädel-Hirn-Trauma 1.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Schädel-Hirn-Trauma.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Schädelfraktur.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Subarachnoidalblutung CT.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "traumatische Subaracnoidalblutung.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Zerebraler Perfusionsdruck.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Nuklearmedizin Tag 1.pdf",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Nuklearmedizin Tag 1.pdf"
+    },
+    {
+      "file": "Nuklearmedizin Tag 2.pdf",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Nuklearmedizin Tag 2.pdf"
+    },
+    {
+      "file": "Nuklearmedizin Tag 3.pdf",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Nuklearmedizin Tag 3.pdf"
+    },
+    {
+      "file": "Pharmakologie Tag 1.pdf",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Pharmakologie Tag 1.pdf"
+    },
+    {
+      "file": "Pharmakologie Tag 2.pdf",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Pharmakologie Tag 2.pdf"
+    },
+    {
+      "file": "Pharmakologie Tag 3.pdf",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Pharmakologie Tag 3.pdf"
+    },
+    {
+      "file": "Pharmakologie-Amboss (2).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Protokolle KP Münster 2020-2025 Sortiert.txt",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Protokolle KP Münster 2020-2025 Sortiert.txt"
+    },
+    {
+      "file": "Protokolle.txt",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Protokolle.txt"
+    },
+    {
+      "file": "Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Prüfungsvorbereitung.pdf",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Prüfungsvorbereitung.pdf"
+    },
+    {
+      "file": "Q  109 November 2024.doc",
+      "error": "Package not found at 'C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Q  109 November 2024.doc'"
+    },
+    {
+      "file": "KORRIGIERTE UND ERGÄNZTE MEDIZINISCHE PRÜFUNGSFRAGEN.txt",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Rechts.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Rechtsmedizin.pdf",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Rechtsmedizin.pdf"
+    },
+    {
+      "file": "2010-Rheumatoid-arthritis-classification-criteria-.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Differentiation zwischen verschiedenen Formen von Arthritiden.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Rheumatoide Artritis.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Strahlenschutz (2).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Strahlenschutz-Zusammenfassung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Strahlenschutz.pdf",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Strahlenschutz.pdf"
+    },
+    {
+      "file": "00_Themen Münster .docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "02.04.2025_Münster (2).docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "02.04.2025_Münster (3).docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "02.04.2025_Münster.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "2_5256178696217194970.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "2_5325915667885479378.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "2_5386546467072665969.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Anamnesebogen_Düsseldorf_neu.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Anlage 9 – Prüffähigkeit Gleichwertigkeitsprüfung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Dritte Teil der Protokolle .pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Erste Hälfte der Protokollen .pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Fallkonzepte und relevante Themen für KP im Münster.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "IMG_20250715_184941_334.jpg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "j-c-goligher-a-controlled-trial-of-inverting-versus.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "KenntnisprÃ¼fung MÃ¼nster Protokolle 2025.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kenntnisprüfung Münster Protokolle 2024(2) (2).docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kenntnisprüfung Münster Protokolle 2024(2).docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kenntnisprüfung Münster Protokolle 2025 (2).docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kenntnisprüfung Münster Protokolle 2025.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kenntnisprüfung Münster Protokolle 2022.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kenntnisprüfung Münster Protokolle 2022.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kenntnisprüfung Münster Protokolle 2023.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kenntnisprüfung Münster Protokolle 2023.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kenntnisprüfung Münster Protokolle 2024(3).docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kenntnisprüfung Münster Protokolle 2024.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kenntnisprüfung Münster Protokolle 2024.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kenntnisprüfung Münster Protokolle 2025 (2).docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kenntnisprüfung Münster Protokolle 2025 bis Aug.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kenntnisprüfung Münster Protokolle 2025 new .docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kenntnisprüfung Münster Protokolle 2025.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "KP 10.01.25 .pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "kp 10.01.25.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "KP Protokoll 04.06.2025.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "kp_august 2023.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "MediDoceo FrühkursSchnellkurs.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "MUSTER ARZTBRIEF.pdf.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "MV KP-Themen bis 05.2024.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Pharmakologie-Amboss (2).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Protokoll - 20.09.2024 .docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Protokoll 17.9.2019 (2).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Protokoll 17.9.2019.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Protokoll 29.10.2024.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Protokoll-KP-Münster (2).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Protokoll-KP-Münster.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Protokolle Müster KP.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Protokolle Münster 2020-2023 (2).docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Protokolle Münster 2020-2023.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Protokolle Münster 2020-2025.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Protokolle_KP_Muenster_2020-2025_ORD.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Protokollen Münster 2020-2023.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Protokollen Münster 2024.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "QE Rechtsmedizin (2).docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "QE Rechtsmedizin.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Rechts.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Rechtsmedizin.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Roos_Radiologie GL (1) (2).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Roos_Radiologie GL (1).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Strahlenschutz (2).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Strahlenschutz (3).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Strahlenschutz-Zusammenfassung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Strahlenschutz.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Strahlenschütz.pdf · إصدار ١.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Themen Münster (1).docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Themen Münster (2).docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Themen Münster.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Vorlage Ã_rztliches Attest_BRMS.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "wolfgang-rüther-christoph-h-lohmann-orthopädie-und.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "zweites teil der Protokolle bis 21.02.#4.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ärzte_Antrag auf Teilnahme an der Kenntnisprüfung (2).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ärzte_Antrag auf Teilnahme an der Kenntnisprüfung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Themen Teil 1 und Fallkonzepte für die Kenntnisprüfung in Münster.txt",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Themen Teil 1 und Fallkonzepte für die Kenntnisprüfung in Münster.txt"
+    },
+    {
+      "file": "TOKEN_SAFE_Medical_Analysis_20250909_1949.txt",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\TOKEN_SAFE_Medical_Analysis_20250909_1949.txt"
+    },
+    {
+      "file": "Antikoagulationsampel.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Duplexunterstützter vollständiger Kompressionsultraschall und limitierter bzw. Point-of-Care-Ultraschall.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Handlungsoptionen bei gesicherter Rezidv-VTE unter adäquater Antikoagulation.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Klinischer Verdacht auf eine TVT.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Klinischer Verdacht auf Rezidivthrombose.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Prävalenz der TVT bei verschidenen Patientengruppen.jpg",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Rezidiv TVT unter AK.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Thrombophilie-Häufigkeit und relatives Risiko bei VTE und Rezidiv-VTE.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Wellsscore.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "uebersichtstabelle_ueber_die_qualitaetskriterien.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "030-116l_S1_Schmerzsyndrome_CRPS_2018-09-abgelaufen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "AO Klassifikation Olekranon.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "AO-Klassifikation.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Einsetzen der Verriegelungskopfschraube.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ellenbogen Anatomie.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Grundsätze für Zugschrauben.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kalkar Schrauben humerus.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kischner-draht.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Kopflose Kompressionsschraube.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Ligamente Ellenbogen.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Mayo-Klassifikation Ellenbogen.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Olekranon Management.PNG",
+      "error": "tesseract is not installed or it's not in your PATH. See README file for more information."
+    },
+    {
+      "file": "Olekranonfraktur.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Proximale Humerusfraktur.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Schrauben.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Tetanus Prophilaxe (Epidemiologisches Bulletin 31-2018).pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Thorakolumbale Frakturen.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Zuggurtung.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Zugschrauben.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Vollstaendiges_Pruefungsprotokoll.pdf",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Vollstaendiges_Pruefungsprotokoll.txt",
+      "error": "File not found: C:\\Users\\Dagob\\Documents\\Approbation\\Kenntnissprüfung\\Prüfungsvorbereitung\\Comet API\\Input Bucket\\Vollstaendiges_Pruefungsprotokoll.txt"
+    },
+    {
+      "file": "Wiederholungsaufgaben4.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    },
+    {
+      "file": "Übungsaufgaben.docx",
+      "error": "'MedicalSubjectClassifier' object has no attribute 'classify_subject'"
+    }
+  ],
+  "sim_patient_whitelist_size": 4,
+  "features_enabled": [
+    "1_empty_document_handling",
+    "2_subject_classification",
+    "3_quality_hallucination_check",
+    "4_auto_correction",
+    "5_learning_tracker",
+    "6_cli_gui_export",
+    "7_maximum_auditability"
+  ]
+}

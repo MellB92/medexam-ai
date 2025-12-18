@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Anfallsartige Atemnot bei Bäckereiarbeiterin\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"anfallsartige Atemnot seit drei Monaten\", \"Husten\"],\n    \"accident_mechanism\": \"Sturz auf der rechten Seite vor zwei Wochen (keine Fraktur)\",\n    \"pre_existing_conditions\": [\"Pollenallergie\", \"Laktoseintoleranz\"],\n    \"medications\": [\"Cetirizin\", \"orale Kontrazeptiva\", \"Schlafmittel\"],\n    \"allergies\": [\"Pollenallergie\"],\n    \"physical_examination\": [\"Blutdruckmessung durchgeführt\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Asthma bronchiale\", \"COPD\", \"Herzinsuffizienz\", \"KHK\"],\n    \"diagnostic_approach\": [\"NT-proBNP zur Bestätigung Herzinsuffizienz\", \"Lungenfunktionsprüfung (FEV1 bei 50%)\", \"Tiffeneau-Index Berechnung\", \"D-Dimer\", \"Wells-Score\", \"TTE\"]\n  }\n]\n```"
+  }
+]

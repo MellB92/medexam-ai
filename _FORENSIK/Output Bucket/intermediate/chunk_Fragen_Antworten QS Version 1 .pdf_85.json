@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 86/148) enthält **keine vollständigen klinischen Patientenfälle**. \n\nEs handelt sich ausschließlich um:\n\n1. **Frage 250**: Theoretische Frage zu Benzodiazepinen (\"Was machen die?\") - rein pharmakologisches Wissen ohne konkreten Patientenfall\n\n2. **Frage 251**: Theoretische Frage zu Aciclovir-Risiken (\"Warum ist gefährlich das zu geben\") - allgemeine Pharmakologie ohne Patientenkontext\n\n3. **Frage 252**: Theoretische Frage zum Glaukom-Management (\"was machen Sie?\") - allgemeines diagnostisch-therapeutisches Vorgehen ohne konkreten Fall\n\n4. **Frage 253**: Definitionsfrage zu R0/R1/R2-Klassifikation - reine Nomenklatur\n\n5. **Frage 254** (Anfang): Definitionsfrage zu \"Bleistiftstuhl\" - terminologische Frage, am Ende abgeschnitten\n\nAlle Fragen sind **theoretischer Natur** aus einem Prüfungsvorbereitungs-Q&A-Dokument. Es werden keine konkreten Patienten mit Alter, Geschlecht, Beschwerden oder spezifischen Untersuchungsbefunden präsentiert."
+  }
+]

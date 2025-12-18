@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Multiples Myelom mit erhöhtem Gamma-Globulin",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT-Schädel: Schrotschusskranium",
+      "Multiple Osteolysen im Schädelknochen",
+      "Schwarze Flecken auf dem Schädel"
+    ],
+    "laboratory_findings": [
+      "Serum Elektrophorese: Gamma-Globulin erhöht",
+      "BSG 72 mm/h (erhöht)",
+      "Hyperkalzämie durch Knochenabbau"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom",
+      "Nierenversagen/Niereninsuffizienz",
+      "Nephrokalzinose"
+    ],
+    "diagnostic_approach": [
+      "Serum Elektrophorese",
+      "Blutsenkungsgeschwindigkeit (BSG)",
+      "Niedrigdosis-CT",
+      "CT-Schädel",
+      "Labordiagnostik: Kreatinin und Harnstoff bei Nierenversagen"
+    ]
+  },
+  {
+    "title": "AV-Block II Typ Wenckebach im EKG",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: AV-Block II Typ Wenckebach"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "AV-Block II Typ Wenckebach"
+    ],
+    "diagnostic_approach": [
+      "EKG"
+    ]
+  }
+]

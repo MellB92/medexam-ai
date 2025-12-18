@@ -1,0 +1,271 @@
+[
+  {
+    "title": "Anfallsartige Atemnot seit drei Monaten bei Bäckerin",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "anfallsartige Atemnot seit drei Monaten",
+      "Husten"
+    ],
+    "accident_mechanism": "Sturz auf der rechten Seite vor zwei Wochen",
+    "pre_existing_conditions": [
+      "Pollenallergie",
+      "Laktoseintoleranz"
+    ],
+    "medications": [
+      "Cetirizin",
+      "orale Kontrazeptiva",
+      "Schlafmittel"
+    ],
+    "allergies": [
+      "Pollenallergie"
+    ],
+    "physical_examination": [
+      "Blutdruckmessung durchgeführt"
+    ],
+    "imaging_findings": [
+      "Keine Fraktur nach Sturz",
+      "Lungenfunktion mit FEV1 bei 50%"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Asthma bronchiale",
+      "COPD",
+      "Herzinsuffizienz",
+      "KHK"
+    ],
+    "diagnostic_approach": [
+      "NT-proBNP",
+      "Lungenfunktion mit Tiffeneau-Index",
+      "Anamnese bezüglich Herzinsuffizienz"
+    ]
+  },
+  {
+    "title": "ST-Hebung im EKG bei 20-jährigem Patient",
+    "patient_age": "20",
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit ST-Hebung in II, III, aVF, klein V2-3"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perikarditis",
+      "inferiorer Myokardinfarkt"
+    ],
+    "diagnostic_approach": [
+      "TTE",
+      "Labor"
+    ]
+  },
+  {
+    "title": "Cushing-Syndrom mit typischer Klinik",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Stiernacken",
+      "Striae",
+      "Adipositas"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Stiernacken",
+      "Striae",
+      "Adipositas"
+    ],
+    "imaging_findings": [
+      "Tumor (4 cm) in der Nebenniere"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Cushing-Syndrom exogen",
+      "Cushing-Syndrom endogen",
+      "Cushing-Syndrom ektopisch"
+    ],
+    "diagnostic_approach": [
+      "Dexamethason-Test",
+      "CRH-Test",
+      "Speichel-Cortisol",
+      "CT Abdomen/Thorax zur Suche nach ektopischem ACTH-produzierendem Tumor"
+    ]
+  },
+  {
+    "title": "Ösophagusulzera in der Endoskopie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Endoskopie: Ösophagus mit multiplen Ulzera"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Refluxösophagitis"
+    ],
+    "diagnostic_approach": [
+      "Los-Angeles-Klassifikation",
+      "Ausschluss Barrett-Ösophagus als Komplikation"
+    ]
+  },
+  {
+    "title": "Schulterluxation anterior",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Schulterluxation"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "pDMS prüfen (Puls, Durchblutung, Motorik, Sensibilität)"
+    ],
+    "imaging_findings": [
+      "Röntgen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Anteriore Schulterluxation",
+      "Bankart-Läsion"
+    ],
+    "diagnostic_approach": [
+      "Reposition",
+      "Gilchrist-Verband für 2-3 Wochen",
+      "Prüfung auf Begleitverletzungen"
+    ]
+  },
+  {
+    "title": "Claviculafraktur im mittleren Drittel",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Claviculafraktur"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Fraktur im mittleren Drittel der Clavicula"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Claviculafraktur mittleres Drittel"
+    ],
+    "diagnostic_approach": [
+      "Ausschluss Begleitverletzungen (Pneumothorax, Nerven-, Arterienverletzungen)",
+      "meist konservative Therapie",
+      "ggf. Plattenosteosynthese oder ESIN"
+    ]
+  },
+  {
+    "title": "Radialisparese mit Fallhand",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Fallhand"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Fallhand"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Radialisparese"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Pneumoperitoneum nach herzchirurgischer Operation",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "kürzlich herzchirurgisch operiert"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Pneumoperitoneum im Röntgen",
+      "intraoperativ: heller Darmschnitt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "mesenteriale Ischämie",
+      "Darmperforation"
+    ],
+    "diagnostic_approach": [
+      "explorative Laparotomie",
+      "ggf. Laparoskopie",
+      "Darmentfernung",
+      "Thrombektomie",
+      "Second Look"
+    ]
+  },
+  {
+    "title": "Paronychie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Paronychie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Paronychie"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Paronychie"
+    ],
+    "diagnostic_approach": [
+      "Drainage",
+      "Regionalanästhesie (nicht Lokalanästhesie im entzündeten Gewebe)"
+    ]
+  },
+  {
+    "title": "Augenverletzung bei der Arbeit",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Augenverletzung"
+    ],
+    "accident_mechanism": "Arbeitsunfall",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Augenverletzung"
+    ],
+    "diagnostic_approach": [
+      "Augenarzt",
+      "Meldung an Durchgangsarzt"
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Thorax-Röntgen mit ARDS oder atypischer Pneumonie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Thorax-Röntgen mit Befund vereinbar mit ARDS oder atypischer Pneumonie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "ARDS",
+      "atypische Pneumonie"
+    ],
+    "diagnostic_approach": [
+      "Thorax-Röntgen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Herztamponade mit Beck-Trias",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Symptome einer Herztamponade",
+      "Beck-Trias"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Beck-Trias"
+    ],
+    "imaging_findings": [
+      "Echokardiogramm mit Perikarderguss"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Herztamponade"
+    ],
+    "diagnostic_approach": [
+      "Echokardiogramm"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "mögliche Komplikationen bei Drainage",
+      "ST-Hebung bei Berührung des Epikards während Punktion"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "65-jähriger Patient mit Schwindel, Linksherzherzhypertrophie und Systolikum",
+    "patient_age": "65",
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Schwindel"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Systolikum"
+    ],
+    "imaging_findings": [
+      "EKG mit Linksherzherzhypertrophie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "EKG"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit Adipositas, Diabetes mellitus Typ 2 und diabetischer Nephropathie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Adipositas",
+      "Diabetes mellitus Typ 2",
+      "diabetische Nephropathie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Adipositas"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "SGLT2-Hemmer",
+      "ACE-Hemmer"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Eingestauchte Humeruskopffraktur und Spiral-Humerusschaftfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen: eingestauchte Humeruskopffraktur",
+      "Röntgen: Spiral-Humerusschaftfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "eingestauchte Humeruskopffraktur",
+      "Spiral-Humerusschaftfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen (true ap/axial/Y-Aufnahmen)"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "mögliche begleitende Nerven- und Gefäßverletzungen"
+    ],
+    "follow_up": []
+  }
+]

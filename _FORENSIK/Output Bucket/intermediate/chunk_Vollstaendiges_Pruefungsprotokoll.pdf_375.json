@@ -1,0 +1,196 @@
+[
+  {
+    "title": "Gastroösophageale Refluxkrankheit mit Hinterwandinfarkt im EKG",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Gastroösophageale Refluxkrankheit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: Hinterwandinfarkt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Gastroösophageale Refluxkrankheit",
+      "Hinterwandinfarkt"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Diagnostik Refluxkrankheit"
+    ]
+  },
+  {
+    "title": "Colles-Fraktur im Röntgen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen: Colles-Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Colles-Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen"
+    ]
+  },
+  {
+    "title": "Dislozierte Humerusfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Dislozierte Humerusfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Dislozierte Humerusfraktur"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Hinterwandinfarkt mit Mesotheliom",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "KHK"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: Hinterwandinfarkt",
+      "Röntgen: Mesotheliom"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hinterwandinfarkt",
+      "Mesotheliom",
+      "KHK"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Röntgen",
+      "Echokardiographie"
+    ]
+  },
+  {
+    "title": "Sturz auf den Kopf mit zunehmender Schläfrigkeit",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Zunehmende Schläfrigkeit"
+    ],
+    "accident_mechanism": "Sturz auf den Kopf",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Bild: Subduralblutung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Subduralblutung"
+    ],
+    "diagnostic_approach": [
+      "Bildgebung"
+    ]
+  },
+  {
+    "title": "Verdrehtrauma im Knie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Verdrehtrauma im Knie"
+    ],
+    "accident_mechanism": "Verdrehtrauma",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Unhappy Triad"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Anämie bei Eisenmangel",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Anämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes",
+      "Arterielle Hypertonie"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Echokardiographie"
+    ],
+    "laboratory_findings": [
+      "Eisenmangel"
+    ],
+    "suspected_diagnosis": [
+      "Eisenmangelanämie",
+      "Ulkuskrankheit",
+      "Perikarderguss",
+      "Urämische Perikarditis"
+    ],
+    "diagnostic_approach": [
+      "Diagnostik Anämie",
+      "Echokardiographie"
+    ]
+  },
+  {
+    "title": "Coxarthrose mit hochgradiger Stenose A. carotis interna",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen: Coxarthrose",
+      "Angiographie hirnversorgender Gefäße",
+      "Hochgradige Abgangsstenose A. carotis interna"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Coxarthrose",
+      "Hochgradige Stenose A. carotis interna",
+      "Kolorektales Karzinom mit Ileus",
+      "Subclavia-Steal-Phänomen"
+    ],
+    "diagnostic_approach": [
+      "Röntgen",
+      "Angiographie"
+    ]
+  }
+]

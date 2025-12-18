@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 32/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\" von Trappe) und enthält **keine klinischen Patientenfälle**.\n\nDer Text behandelt ausschließlich:\n- Theoretische Grundlagen zu Erregungsleitungsstörungen\n- Anatomische Beschreibungen (Tawara-Schenkel, Faszikel)\n- Klassifikation von Blockbildern (LAH, LPH, bifaszikulär, trifaszikulär)\n- EKG-Erkennungsmerkmale verschiedener Hemiblöcke\n- Schematische Abbildungen zur Erregungsleitung\n\nEs handelt sich um rein didaktisches Lehrmaterial ohne konkrete Patientenpräsentationen, Fallbeispiele oder klinische Szenarien."
+  }
+]

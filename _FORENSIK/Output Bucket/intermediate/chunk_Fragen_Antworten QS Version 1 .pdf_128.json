@@ -1,0 +1,176 @@
+[
+  {
+    "title": "Thrombozytopenie mit Blutungen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Blutungen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Thrombozytopenie"
+    ],
+    "suspected_diagnosis": [
+      "Thrombozytopenie als Ursache der Blutungen"
+    ],
+    "diagnostic_approach": [
+      "Blutabstrich",
+      "Abklärung der Thrombozytopenie-Ursache"
+    ]
+  },
+  {
+    "title": "ITP mit schwerer Thrombozytopenie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "22.000 Thrombozyten"
+    ],
+    "suspected_diagnosis": [
+      "ITP (Immunthrombozytopenie)"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Pseudomembranöse Colitis",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Kolonbild mit weiß-gelben Belägen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pseudomembranöse Colitis"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Distale Radiusfraktur nach Sturz auf Hand",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Sturz auf Hand"
+    ],
+    "accident_mechanism": "Sturz auf Hand",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Handgelenk mit Radiusfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Radiusfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Handgelenk",
+      "Therapieplanung: Osteosynthese mit winkelstabilen Platten"
+    ]
+  },
+  {
+    "title": "Kompartmentsyndrom nach Gipsverband",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Starke Schmerzen 2 Stunden nach Gipsverband"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kompartmentsyndrom"
+    ],
+    "diagnostic_approach": [
+      "Fasziotomie"
+    ]
+  },
+  {
+    "title": "Bauchaortenaneurysma 5 cm - Zufallsbefund",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Ultraschall: Vergrößerung der Bauchaorta auf 5 cm"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bauchaortenaneurysma (AAA)"
+    ],
+    "diagnostic_approach": [
+      "Risikostratifizierung",
+      "OP-Indikation prüfen"
+    ]
+  },
+  {
+    "title": "Fazialisparese",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Gesichtslähmung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Gesichtslähmung"
+    ],
+    "imaging_findings": [
+      "Bild einer Gesichtslähmung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Fazialisparese (peripher vs. zentral zu differenzieren)"
+    ],
+    "diagnostic_approach": [
+      "Differenzierung zwischen peripherer und zentraler Parese"
+    ]
+  },
+  {
+    "title": "Kniegelenksbefund im Röntgen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Kniegelenk mit pathologischem Befund"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Anatomische Lokalisation",
+      "Befundinterpretation"
+    ]
+  }
+]

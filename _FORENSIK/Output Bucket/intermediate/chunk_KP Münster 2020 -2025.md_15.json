@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Achillessehnenruptur beim Tennisspieler\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\n      \"plötzliche starke Schmerzen\",\n      \"kann nicht mehr laufen\"\n    ],\n    \"accident_mechanism\": \"beim Tennisspielen\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Achillessehnenruptur\"\n    ],\n    \"diagnostic_approach\": [\n      \"Thompson-Test\",\n      \"Anamnese\",\n      \"klinische Untersuchung\"\n    ]\n  }\n]\n```"
+  }
+]

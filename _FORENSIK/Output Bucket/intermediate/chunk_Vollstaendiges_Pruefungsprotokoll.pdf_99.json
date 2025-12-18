@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 100/585) enthält **keine vollständigen klinischen Patientenfälle** oder Präsentationsfälle. \n\nDer Abschnitt besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** zu verschiedenen medizinischen Themen:\n   - Differenzialdiagnosen der Divertikulitis\n   - Komplikationen von Rippenserienfrakturen\n   - Erreger der Spondylodiszitis\n   - OSAS (Diagnostik, Therapie, Folgen)\n   - Erste Hilfe bei Motorradunfall\n   - GKV vs. PKV\n   - Strahlungsbiologie\n   - Allergietypen nach Coombs\n   - Anaphylaxie-Stadien\n   - Wirkung von Tiopental\n   - Dünndarmileus (Ursachen)\n\n2. **Kandidatenantworten** auf diese theoretischen Fragen\n\n3. **Musterlösungen** und Analysen\n\nEs handelt sich um ein **Prüfungsprotokoll** mit Wissensfragen, **nicht** um konkrete Patientenfälle mit spezifischen Patienten, Anamnesen, Befunden oder individuellen Krankheitsverläufen.\n\nEin klinischer Fall würde z.B. lauten: \"Ein 65-jähriger Patient stellt sich mit linksseitigen Unterbauchschmerzen vor...\" - solche konkreten Fallschilderungen sind in diesem Chunk nicht vorhanden."
+  }
+]

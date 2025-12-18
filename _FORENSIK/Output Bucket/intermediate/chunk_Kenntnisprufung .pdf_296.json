@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Inzidentalom - Nebennierenadenom mit sekundärer Hypertonie",
+    "patient_age": "69 Jahre",
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "Bluthochdruck 165 mmHg",
+      "Auffälliger Befund in Sonographie der rechten Flankenregion"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Rückenschmerzen seit 20 Jahren aufgrund Beckenbruch",
+      "Belastungsabhängige Dyspnoe",
+      "Fersenschmerzen"
+    ],
+    "comorbidities": [
+      "Beckenbruch (Zustand nach)",
+      "Belastungsdyspnoe",
+      "Fersenschmerzen"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck 165 mmHg"
+    ],
+    "physical_examination": [
+      "Alle körperlichen Untersuchungen in 10 Minuten durchgeführt"
+    ],
+    "imaging_findings": [
+      "Sonographie der rechten Flankenregion: auffälliger Befund",
+      "Sonographie: echoarme Raumforderung am vorderen Nierenpole",
+      "Sono zeigt Leber und rechte Niere"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sekundäre arterielle Hypertonie aufgrund Nebennierenadenom",
+      "Conn-Syndrom",
+      "Cushing-Syndrom",
+      "Phäochromozytom"
+    ],
+    "diagnostic_approach": [
+      "Routinemäßige Untersuchung beim Hausarzt",
+      "Sonographie der rechten Flankenregion",
+      "Überweisung ins Krankenhaus zur weiteren Diagnostik",
+      "Aldosteron/Renin-Quotient Bestimmung",
+      "Serumbestimmungen (Cortisol, ACTH)",
+      "Urinbestimmungen",
+      "Zirkadianenrhythmus von Cortisol beachten (Mitternacht)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Akute Appendizitis bei Kind",
+    "patient_age": "Kind",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen im rechten Unterbauch"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Appendizitiszeichen positiv",
+      "Psoaszeichen positiv (Hinweis auf retrozäkal liegenden Appendix)"
+    ],
+    "imaging_findings": [
+      "Sonographie durchgeführt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Appendizitis"
+    ],
+    "diagnostic_approach": [
+      "Sonographie",
+      "Kein CT (zur Vermeidung von Strahlenbelastung)",
+      "Appendizitis ist eine klinische Diagnose"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Thromboseprophylaxe nach Abdomenoperation",
+      "WHO Stufenschema für Schmerztherapie"
+    ]
+  }
+]

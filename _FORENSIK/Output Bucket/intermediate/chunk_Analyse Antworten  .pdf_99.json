@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Kind mit Verbrennung durch heißes Wasser am Bauch\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Verbrennung am Bauch durch heißes Wasser\"],\n    \"accident_mechanism\": \"Kind hat sich heißes Wasser auf den Bauch geschüttet\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Thermische Verbrennung\"],\n    \"diagnostic_approach\": [\n      \"Beurteilung des Verbrennungsgrades\",\n      \"Bestimmung der betroffenen Körperoberfläche\"\n    ]\n  },\n  {\n    \"title\": \"Motorradunfall\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": \"Motorradunfall\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [],\n    \"diagnostic_approach\": [\n      \"Notruf absetzen (112)\",\n      \"Eigenschutz beachten\",\n      \"Unfallstelle sichern\",\n      \"Erste Hilfe nach CABCDE-Schema\"\n    ]\n  }\n]\n```"
+  }
+]

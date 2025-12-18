@@ -1,0 +1,81 @@
+[
+  {
+    "title": "Divertikulitis nach Sturz und Kreislaufproblemen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Sturz",
+      "Kreislaufprobleme",
+      "Unterbauchschmerzen"
+    ],
+    "accident_mechanism": "Sturz",
+    "pre_existing_conditions": [
+      "Zustand nach Appendektomie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Bruder mit OSAS"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Schmerzhafte Palpation im Unterbauch",
+      "Keine Anzeichen einer Peritonitis",
+      "Neurologische Untersuchung unauffällig",
+      "Herz/Lungen/Abdomen untersucht",
+      "Pulse palpabel",
+      "Keine Varizen oder Wunden"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Divertikulitis"
+    ],
+    "diagnostic_approach": [
+      "Laboruntersuchung",
+      "Sonographie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Knieschmerzen und Handwunde nach Sturz mit Rotation",
+    "patient_age": "49J",
+    "patient_gender": "w",
+    "severity": "mild",
+    "chief_complaints": [
+      "Schmerzen am linken Knie",
+      "Wunde an der Hand"
+    ],
+    "accident_mechanism": "Sturz mit innerer Rotation des Knies",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Patientin mit 2 Unterarmgehstützen",
+      "Lächelnd, nicht besonders belastet wirkend",
+      "Platte Wunde an der Hand",
+      "Komplette körperliche Untersuchung von Kopf bis Fuß durchgeführt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Versorgung durch Krankenschwester",
+      "Unterarmgehstützen erhalten"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

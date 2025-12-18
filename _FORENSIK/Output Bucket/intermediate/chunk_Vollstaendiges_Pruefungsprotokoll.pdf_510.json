@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 511/585) enthält ausschließlich **theoretische Prüfungsfragen und Antworten** aus einem Prüfungsprotokoll. Es handelt sich um isolierte Wissensfragen zu verschiedenen medizinischen Themen wie:\n\n- Phäochromozytom und Nebennierentumoren\n- Conn-Syndrom und Cushing-Syndrom\n- Mononukleose\n- Vorhofflimmern (VHF)\n- Rückenschmerzen (Red Flags)\n- Kolorektale Karzinome und Polypen\n- Sprunggelenksverletzungen\n- Diabetischer Fuß\n- Lokalanästhetika\n\n**Es gibt KEINEN zusammenhängenden klinischen Patientenfall** mit:\n- Konkreter Patientenvorstellung\n- Anamnese\n- Symptompräsentation\n- Untersuchungsbefunden eines spezifischen Patienten\n- Diagnosestellung für einen individuellen Fall\n\nDie Fragen beziehen sich zwar teilweise auf einen vorherigen Fall (z.B. Frage 2 erwähnt durchgeführte Verfahren, Frage 4 ein Sonobild), aber dieser Fall selbst ist in diesem Chunk **nicht vollständig präsentiert** - nur Fragmente in Form von Antworten auf Prüfungsfragen sind vorhanden."
+  }
+]

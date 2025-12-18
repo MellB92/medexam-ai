@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenpresentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** zu medizinischen Themen wie:\n   - Fachkunde/Sachkunde bei Röntgenaufnahmen\n   - Beingefäße (anatomische Auflistung)\n   - Therapie des diabetischen Fußes\n   - Unterschied pAVK vs. diabetischer Fuß\n   - Epitheltypen in Magen und Ösophagus\n   - Komplikationen und OP-Indikationen bei Hiatushernie\n   - Strahlenarten in der Szintigraphie\n   - PsychKG-Anwendung\n\n2. **Kurzen Erwähnungen** ohne vollständige Falldarstellung:\n   - \"Upside-Down-Magen bei Kindern\" - wird nur als theoretische Frage behandelt, kein konkreter Patient mit Anamnese, Befunden etc.\n\nEs handelt sich um ein **Prüfungsprotokoll oder Lernmaterial** mit Frage-Antwort-Paaren, nicht um dokumentierte klinische Fälle mit Patientenvorstellung, Anamnese, klinischen Befunden und diagnostischem Vorgehen."
+  }
+]

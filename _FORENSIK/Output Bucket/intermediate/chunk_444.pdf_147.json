@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 148/155) enthält **keine klinischen Patientenfälle**. Es handelt sich ausschließlich um:\n\n1. **Systematische Untersuchungsanleitungen** für die körperliche Untersuchung:\n   - Herz-Auskultation (Auskultationspunkte, Beurteilungskriterien)\n   - Lungenuntersuchung (Inspektion, Palpation, Perkussion, Auskultation)\n   - Abdominaluntersuchung (Inspektion, Auskultation, Perkussion, Palpation)\n   - Digital-rektale Untersuchung\n   - Extremitätenuntersuchung\n   - Neurologische Untersuchung\n\n2. **Technische Beschreibungen** von Untersuchungstechniken (z.B. Stimmfremitus, Romberg-Test, Kratzauskultation)\n\n3. **Normalbefunde und pathologische Befunde** als theoretische Beispiele (z.B. \"Asymmetrische Atembewegungen bei z.B. Pneumothorax\", \"fehlende Darmgeräusche bei paralytischem Ileus\")\n\nDiese Beispiele sind **keine konkreten Patientenfälle**, sondern dienen der Illustration möglicher Befunde im Rahmen einer Lehrbuchdarstellung oder Untersuchungsanleitung.\n\nEs gibt keine Beschreibung eines spezifischen Patienten mit Anamnese, konkreten Beschwerden und diagnostischem Vorgehen."
+  }
+]

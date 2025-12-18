@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Humeruskopffraktur nach Sturz",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen im linken Schultergelenk",
+      "Kribbeln in der rechten Hand"
+    ],
+    "accident_mechanism": "Sturz auf die linke obere Extremität",
+    "pre_existing_conditions": [],
+    "comorbidities": [
+      "Karpaltunnelsyndrom (Kribbeln in der rechten Hand)"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Sensibilität beidseits gleich",
+      "Motorik: Beugung und Streckung von Handgelenk und Ellenbogengelenk möglich",
+      "Palpation der Traumastelle schmerzbedingt unmöglich",
+      "Bewegung im linken Schultergelenk schmerzhaft eingeschränkt"
+    ],
+    "imaging_findings": [
+      "Röntgenaufnahme der linken oberen Extremität geplant",
+      "Eindeutige Humeruskopffraktur bestätigt"
+    ],
+    "laboratory_findings": [
+      "Blutabnahme geplant"
+    ],
+    "suspected_diagnosis": [
+      "Fraktur im linken Oberarmknochen",
+      "Humeruskopffraktur (bestätigt)"
+    ],
+    "diagnostic_approach": [
+      "Stationäre Aufnahme",
+      "Zugang legen",
+      "Blutabnahme",
+      "Röntgenaufnahme der linken oberen Extremität"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Operation möglich, falls Verdachtsdiagnose sich bestätigt",
+      "Osteosynthetische Versorgung mittels Schraubenosteosynthese und ggf. Endoprothese",
+      "Bei älteren Patienten: konservative Therapie mit Ruhigstellung in Gilchrist-Verband"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieses Dokument enthält **keine klinischen Präsentationsfälle**. \n\nEs handelt sich um ein **Korrektur- und Ergänzungsdokument** zur M3-Prüfung mit:\n\n- Systematischen Überarbeitungen medizinischer Antworten\n- Korrekturen zu Dosierungen und Therapieschemata\n- Ergänzungen zu Leitlinien und Klassifikationen\n- Theoretischem Wissen zu verschiedenen Fachgebieten\n\n**Was fehlt für einen klinischen Fall:**\n- Keine konkreten Patienten mit Alter/Geschlecht\n- Keine Fallpräsentationen mit Anamnese\n- Keine spezifischen Symptome bei bestimmten Patienten\n- Keine Untersuchungsbefunde zu individuellen Fällen\n- Keine diagnostischen Fragestellungen zu konkreten Patienten\n\nDas Dokument ist rein **didaktisch-theoretischer Natur** und dient der Wissensvermittlung, nicht der Falldemonstration."
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Calcaneus-Fraktur nach Sturz aus 4 Metern",
+    "patient_age": "58-jähriger",
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen im Fuß",
+      "Schmerzen im Becken",
+      "Schmerzen im Kopf"
+    ],
+    "accident_mechanism": "Sturz aus 4 Metern Höhe",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Patient wusste nicht genau wie der Unfallhergang war"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Calcaneus-Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "initial V.a. Polytrauma (wegen Sturz >4m und mehr als 2 Verletzungen)",
+      "Calcaneus-Fraktur (bestätigt)",
+      "kein Polytrauma"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Arteriitis temporalis mit visuellen Symptomen",
+    "patient_age": "65-jährige",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "temporale Kopfschmerzen rechts mehr als links (6/10 auf NRS)",
+      "verschwommenes Sehen auf dem rechten Auge",
+      "Nachtschweiß ohne Gewichtsverlust",
+      "Schluckbeschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater wegen Kolonkarzinom verstorben"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Lunge untersucht",
+      "Herz untersucht",
+      "Abdomen untersucht",
+      "vollständige neurologische Untersuchung"
+    ],
+    "imaging_findings": [
+      "Duplex-Sonographie der A. temporalis: entzündliche Ödeme der Gefäßwand mit echoarmen Gefäßwandverdickung im Transversalschnitt"
+    ],
+    "laboratory_findings": [
+      "erhöhtes CRP",
+      "erhöhte BSG"
+    ],
+    "suspected_diagnosis": [
+      "Verdachtsdiagnose: Arteriitis temporalis",
+      "DD: Migräneanfall",
+      "DD: unkontrollierte arterielle Hypertonie",
+      "DD: Hirntumor",
+      "DD: Spannungskopfschmerzen"
+    ],
+    "diagnostic_approach": [
+      "Labor mit CRP und BSG",
+      "Duplex-Sonographie der A. temporalis"
+    ],
+    "treatment_response": [
+      "Behandlung mit Prednisolon 30 mg/Tag",
+      "Ausschleichschema: Dosisreduktion um 2,5 mg alle 2-4 Wochen bis 10 mg, danach Reduktion um 1 mg/Monat"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

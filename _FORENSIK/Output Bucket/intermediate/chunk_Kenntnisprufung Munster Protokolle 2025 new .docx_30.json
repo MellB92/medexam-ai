@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Hyperthyreose mit typischen Beschwerden\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\n      \"Herzrasen\",\n      \"Nervosität\",\n      \"breiige Stühle\",\n      \"Schwitzen auch am Tag\",\n      \"Wärmeintoleranz\",\n      \"Gewichtsabnahme trotz normaler Appetit\",\n      \"Zittern\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Helicobacter pylori Infektion (mit Pillen behandelt)\"\n    ],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\n      \"Vitalzeichenmessung (Blutdruck und Herzfrequenz erhoben)\",\n      \"Herz Auskultation\",\n      \"Lungen Auskultation\",\n      \"Abdomen Untersuchung\",\n      \"neurologische Untersuchung\"\n    ],\n    \"imaging_findings\": [\n      \"CT mit Kontrastmittel (kürzlich durchgeführt)\"\n    ],\n    \"laboratory_findings\": [\n      \"TSH\",\n      \"fT3 und fT4\",\n      \"TRAK\",\n      \"TAK\",\n      \"TPO-AK\"\n    ],\n    \"suspected_diagnosis\": [\n      \"Hyperthyreose\",\n      \"Morbus Basedow\"\n    ],\n    \"diagnostic_approach\": [\n      \"Körperliche Untersuchung mit Vitalzeichenmessung\",\n      \"Labor: TSH, fT3, fT4, TRAK, TAK, TPO-AK\",\n      \"EKG (unauffällig)\"\n    ]\n  }\n]\n```"
+  }
+]

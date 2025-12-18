@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Rückenschmerzen und Flankenschmerz bei V.a. Nebennierenandenom",
+    "patient_age": "65-jährige",
+    "patient_gender": "Frau",
+    "severity": null,
+    "chief_complaints": [
+      "Hartnäckige Rückenschmerzen seit einiger Zeit",
+      "Ziehende Schmerzen in der linken Flanke",
+      "Sehr starke Schmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Bandscheibenvorfall vor 30 Jahren",
+      "Rezidivierende Rückenschmerzen seit 30 Jahren",
+      "Schwere Infektion mit Beteiligung von Milz und Leber vor 21 Jahren",
+      "Sprunggelenkverletzung vor 6 Wochen (Bandapparat, konservativ mit Gipsschiene behandelt)",
+      "Erhöhte BZ-Werte bei Sprunggelenkverletzung"
+    ],
+    "comorbidities": [
+      "V.a. Osteoporose (durch Orthopäden)"
+    ],
+    "risk_factors": [
+      "Erhöhte BZ-Werte",
+      "Neu aufgetretene arterielle Hypertonie"
+    ],
+    "family_history": [
+      "Mutter: Colon Ca vor 2 Jahren (Hemikolektomie)",
+      "Vater: Herzerkrankung",
+      "Bruder: COPD"
+    ],
+    "social_history": [],
+    "medications": [
+      "Diclofenac bei Bedarf"
+    ],
+    "allergies": [
+      "Wespenstich (anaphylaktischer Schock in Anamnese, hat Notfallspritze vom HA)"
+    ],
+    "vital_signs": [
+      "RR beim HA: 165 mmHg systolisch (erstmalig)",
+      "RR beide Seiten: 140/80 mmHg bei Untersuchung"
+    ],
+    "physical_examination": [
+      "Druckschmerz in Höhe LWK 1-5",
+      "Druckschmerz in Flanken links > rechts",
+      "Lunge und Herz: o.B.",
+      "Bauch: o.B., keine Hepatosplenomegalie",
+      "Fuß: Bewegung, Puls, Sensibilität überprüft"
+    ],
+    "imaging_findings": [
+      "Sono beim HA: etwas in linker Flanke gesehen (kein Befund vorhanden, Patientin wusste nicht was es ist)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "V.a. Nebennierenandenom (wahrscheinlich Conn-Syndrom)",
+      "DD: Multiples Myelom",
+      "DD: Metastasiertes Karzinom",
+      "DD: Morbus Bechterew"
+    ],
+    "diagnostic_approach": [
+      "Sonographie",
+      "Röntgen",
+      "Labor",
+      "BZ-Messung",
+      "Diagnostische Maßnahmen bzgl. Conn-Syndrom"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

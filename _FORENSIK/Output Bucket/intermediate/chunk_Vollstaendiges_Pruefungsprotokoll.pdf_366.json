@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 367/585) enthält **keine vollständigen klinischen Präsentationsfälle**. \n\nEs handelt sich ausschließlich um:\n\n1. **Prüfungsfragen mit theoretischem Wissen**, z.B.:\n   - \"Diagnostik für RZA?\"\n   - \"Therapie bei RZA, Dosis, Dauer?\"\n   - \"Leitsymptome einer Lungenarterienembolie (LAE)?\"\n   - \"Risikofaktoren für Kolonkarzinom?\"\n   - \"Kontrastmittelarten, warum schädigen sie Nieren und Schilddrüse?\"\n\n2. **Fragmentarische Fallhinweise ohne vollständige Präsentation**:\n   - Frage 2 erwähnt \"Kopfschmerzen seit ca. 2 Wochen\" im Kontext einer RZA-Frage, aber dies ist nur eine Musterlösung zu Leitsymptomen, kein vollständiger Fall\n   - Frage 17 erwähnt \"Kind mit Verbrühung am Bauch\", aber es gibt keine Fallinformationen, nur die Frage \"Was machen Sie?\"\n\n3. **Prüflingsantworten und Analysen** - keine strukturierten Patientenfälle\n\nEs fehlen die charakteristischen Elemente eines vollständigen klinischen Falls (strukturierte Anamnese, vollständige Untersuchungsbefunde, diagnostischer Verlauf, etc.)."
+  }
+]

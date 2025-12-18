@@ -1,5 +1,14 @@
 # 📊 MedExamAI - Project Status Report
 
+> Aktualisierung: 2025-12-18
+- Kanonische Q&A: 4.505 (READ-ONLY)
+- Review-Queue (Run 20251216_064700): 431 Items → ok=285, maybe=79, problem=67
+- Coverage meaningful: 2.527/2.527 = 100%
+- needs_context: 133/133 gematcht (prepared)
+- Wichtige Artefakte: `batch_input_prepared_20251216_064043.json`, `batch_corrected_20251216_064700.json`, `batch_validated_20251216_064700.json`, `batch_review_report_20251216_142834.md`, `evidenz_antworten_updated_20251216_142834.json`
+
+
+
 **Datum:** 2024-12-01
 **Status:** ✅ Neustart abgeschlossen - Entwicklung läuft
 **Nächstes Milestone:** Erste 100 Fragen extrahiert & validiert

@@ -1,0 +1,60 @@
+[
+  {
+    "title": "52-jährige Patientin mit Herzrasen und Vorhofflimmern",
+    "patient_age": "52-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Herzrasen",
+      "Episoden von Herzrasen über mehrere Minuten in den vergangenen Monaten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "12-Kanal-EKG: Tachykardie",
+      "QRS schmal",
+      "RR-Abstand unregelmäßig",
+      "Keine P-Wellen",
+      "Flimmerförmige Ausschläge der isoelektrischen Linie"
+    ],
+    "suspected_diagnosis": [
+      "TAA bei VHF (Tachyarrhythmia absoluta bei Vorhofflimmern)"
+    ],
+    "diagnostic_approach": [
+      "12-Kanal-EKG",
+      "Ursachenabklärung",
+      "CHA2DS2-VASc-Score zur Risikoabschätzung",
+      "HAS-BLED-Score zur Blutungsrisiko-Beurteilung"
+    ]
+  },
+  {
+    "title": "Patient mit Ösophagusvarizenblutung und schwerer Anämie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Ösophagusvarizenblutung",
+      "Schneller Hämoglobin-Abfall"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Aktueller Hb: 5,7 g/dl"
+    ],
+    "suspected_diagnosis": [
+      "Schwere Anämie bei Ösophagusvarizenblutung"
+    ],
+    "diagnostic_approach": [
+      "Kreuzblut abnehmen",
+      "Kreuzprobe mit Spenderblut im Transfusionslabor",
+      "ÖGD (Ösophagogastroduodenoskopie)",
+      "Bedside-Test von Patient und Probe"
+    ]
+  }
+]

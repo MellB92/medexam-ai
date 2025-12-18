@@ -1,0 +1,113 @@
+[
+  {
+    "title": "Colitis ulcerosa",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit inkomplettem Rechtsschenkelblock"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Colitis ulcerosa",
+      "Morbus Crohn"
+    ],
+    "diagnostic_approach": [
+      "Klinische Unterscheidung CU vs M.Crohn",
+      "Histologische Unterscheidung",
+      "Kryptitis mit Mikroabszessen in Krypten",
+      "Atrophie der Becherzellen",
+      "Kontinuierlich vs diskontinuierlich",
+      "Befall Darmwandschichten",
+      "Extraintestinale Manifestationen",
+      "HLA-B27 Assoziation",
+      "M.Bechterew"
+    ]
+  },
+  {
+    "title": "Klavikulafraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rö-Bild Klavikula ap",
+      "Rö-Bild Klavikula tangential"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Klavikulafraktur",
+      "Laterale Klavikulafraktur"
+    ],
+    "diagnostic_approach": [
+      "Frakturtyp-Klassifikation",
+      "Tossy-Klassifikation",
+      "Ruhigstellung: Gilchrist-Verband für Erwachsene",
+      "Rücksackverband für Kinder",
+      "Desault",
+      "Armschlinge",
+      "OP-Möglichkeiten: Platten-OP mit WSP",
+      "ESIN"
+    ]
+  },
+  {
+    "title": "Kniegelenksarthrose",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rö-Bild Knie ap",
+      "Arthrose-Zeichen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Arthrose"
+    ],
+    "diagnostic_approach": [
+      "Arthrose-Ursachen: Trauma",
+      "Vorerkrankungen systemisch",
+      "Stoffwechselerkrankungen",
+      "Rheuma",
+      "Lokale Gelenkursachen",
+      "Angeborene/erworbene Bein- oder Gelenkfehlstellung",
+      "Inadäquate Belastung",
+      "Kniegelenkprothese-Typen",
+      "Komplikationen"
+    ]
+  },
+  {
+    "title": "Miliartuberkulose mit Weichteilabszess",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT Abdomen axial: Weichteilabszess bei Miliartuberkulose",
+      "Rö-Bild Thorax ap mit typischem TBC-Herd"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Miliartuberkulose",
+      "Weichteilabszess"
+    ],
+    "diagnostic_approach": []
+  }
+]

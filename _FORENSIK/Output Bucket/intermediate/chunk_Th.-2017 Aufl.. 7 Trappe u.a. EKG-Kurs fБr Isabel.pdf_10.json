@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 11/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\" von Trappe) und enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer Text behandelt ausschließlich:\n- Theoretische Grundlagen der EKG-Interpretation\n- AV-Blockierungen und AV-Überleitung\n- Pathophysiologie verkürzter PQ-Zeiten\n- Präexzitationssyndrome (James-Bündel, Kent-Bündel, WPW-Syndrom)\n- Anatomische und elektrophysiologische Grundlagen\n- Analyse von P-Wellen und QRS-Komplexen\n- Schematische Abbildungen zur EKG-Messung\n\nEs handelt sich um rein didaktisches Material ohne konkrete Patientenbeispiele, Fallberichte oder klinische Präsentationen."
+  }
+]

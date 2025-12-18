@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Allergisches Asthma bronchiale mit anfallsartiger Belastungsdyspnoe\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\n      \"Seit 3 Monaten anfallsartig bestehende Dyspnoe\",\n      \"Trockener Husten\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Z. n. rezidivierende Paronychie\"\n    ],\n    \"medications\": [],\n    \"allergies\": [\n      \"Birkenpollenallergie\",\n      \"Laktoseintoleranz\",\n      \"E-Zigaretten seit 2 Jahren\"\n    ],\n    \"physical_examination\": [\n      \"Zurzeit beschwerdefrei\"\n    ],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Allergisches Asthma\",\n      \"COPD\",\n      \"Herzinsuffizienz\",\n      \"Panikattacke\"\n    ],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

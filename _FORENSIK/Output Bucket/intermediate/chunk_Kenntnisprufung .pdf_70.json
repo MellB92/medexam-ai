@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Dysphagie und Gewichtsverlust bei 45-jähriger Frau (Achalasie)",
+    "patient_age": "45 Jahre",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Dysphagie seit 6 Monaten, zunächst bei hartem Essen, dann auch bei Flüssigkeiten",
+      "Gewichtsverlust 5 kg in 4-5 Monaten",
+      "Reflux/Regurgitation unverdauten Essens",
+      "Schlafstörungen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Appendektomie",
+      "Z.n. Femurfraktur mit Osteosynthese",
+      "2 Kolonpolypen endoskopisch entfernt",
+      "Rezidivierende unkomplizierte Harnweginfekte"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Ex-Raucherin (aufgehört vor 3 Jahren)",
+      "Alkohol gelegentlich"
+    ],
+    "family_history": [
+      "Mutter: Z.n. Thyreoidektomie bei Hyperthyreose",
+      "Vater: verstorben an Spätfolgen von Myokardinfarkt (vermutlich Herzinsuffizienz)",
+      "Bruder 1: an HIV verstorben",
+      "Bruder 2: Große Zehentzündung"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [
+      "Erdnüsse",
+      "Penicillin"
+    ],
+    "vital_signs": [
+      "Blutdruck gemessen (Wert nicht dokumentiert)"
+    ],
+    "physical_examination": [
+      "Bauch abgetastet",
+      "Schilddrüse untersucht",
+      "Herz auskultiert",
+      "Anämiezeichen untersucht (Konjunktiva, periphere Pulse)",
+      "Neurologische Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [
+      "Rö-Thorax typisch für Achalasie",
+      "Sektglas-Phänomen"
+    ],
+    "laboratory_findings": [
+      "Labor zum Routineprofil und Anämiestatus geplant"
+    ],
+    "suspected_diagnosis": [
+      "Achalasie"
+    ],
+    "diagnostic_approach": [
+      "Labor (Routine, Anämiestatus)",
+      "Rö-Thorax (Breischluck)",
+      "ÖGD zur DD-Ausschluss (DES, paraösophageale Hiatushernie, Ösophaguskarzinom, Struma)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

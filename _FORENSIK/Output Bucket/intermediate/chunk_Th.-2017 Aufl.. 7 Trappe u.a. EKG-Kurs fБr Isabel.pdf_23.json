@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 24/111) aus einem EKG-Lehrbuch enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text behandelt ausschließlich:\n- Theoretische Beschreibungen von kardialen Leitungsstörungen (SA-Block, Sick-Sinus-Syndrom)\n- Systematische Erklärungen verschiedener AV-Block-Grade (I°, II° Typ Wenckebach und Mobitz, III°)\n- Elektrokardiografische Kriterien und Befunde\n- Pathophysiologische Erklärungen\n- Schematische Darstellungen (Abbildungen 10.1 und 10.2)\n- Prognostische Informationen zu verschiedenen Blockformen\n\nEs handelt sich um ein **didaktisches Lehrbuchmaterial** ohne konkrete Patientenbeispiele, Fallvorstellungen oder klinische Szenarien."
+  }
+]

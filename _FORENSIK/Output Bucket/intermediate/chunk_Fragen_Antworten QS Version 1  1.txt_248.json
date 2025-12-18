@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 249/284) enthält **keine vollständigen klinischen Patientenfälle**.\n\nDer Text besteht aus:\n\n1. **Therapie-Leitlinien zur Lungenembolie:**\n   - Notfallmanagement\n   - Lysetherapie bei hämodynamischer Instabilität\n   - Antikoagulation\n   - Mechanische Thrombektomie\n   - Rechtliche Aspekte (Dokumentationspflicht, GOP-Abrechnungsziffern)\n\n2. **Theoretische Frage (FRAGE 692):**\n   - Fragt nach Auskultationspunkten der Herzklappen\n   - Typ: \"incomplete\" (unvollständig)\n   - Keine Patientenvorstellung\n   - Rein anatomisches/praktisches Wissen\n\n3. **Beginn einer Antwort:**\n   - Erklärt Auskultationspunkte (anatomische Theorie)\n   - Der Text bricht ab bei \"2.\" (am Ende des Chunks)\n\nEs handelt sich um **theoretisches Lehrmaterial** und **Prüfungsfragen**, nicht um konkrete Patientenfälle mit Anamnese, Befunden und diagnostischem Vorgehen."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Therapieempfehlungen** zur Divertikulitis (Antibiotic Stewardship, Verlaufskontrolle von CRP und Leukozyten) mit Verweis auf S2k-Leitlinie\n\n2. **Hinweis zu 73 Fragen** (601-674), die auf Vollständigkeit überprüft wurden\n\n3. **Korrigierte Frage 614** zum Ankle-Brachial-Index (ABI) mit:\n   - Normwerten (0,9-1,3)\n   - Pathologischen Werten bei pAVK (verschiedene Schweregrade)\n   - Interpretation erhöhter Werte (>1,3 = Mediasklerose)\n   - Durchführungstechnik\n\nDies ist **theoretisches Wissen** und eine **Fragenbeantwortung** zu diagnostischen Grenzwerten, aber **kein konkreter Patientenfall** mit spezifischer klinischer Präsentation, Anamnese oder individueller Diagnostik."
+  }
+]

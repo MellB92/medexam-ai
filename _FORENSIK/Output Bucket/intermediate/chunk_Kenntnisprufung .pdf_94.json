@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Akute Appendizitis bei 66-jähriger Patientin mit abdominellen Schmerzen",
+    "patient_age": "66 Jahre",
+    "patient_gender": "weiblich",
+    "severity": "severe",
+    "chief_complaints": [
+      "seit gestern krampfartige abdominelle Schmerzen",
+      "Schmerzen zunächst im Mittelbauch lokalisiert",
+      "heute im rechten Unterbauch lokalisiert",
+      "aktuell diffuse Schmerzen",
+      "Übelkeit",
+      "1x Erbrechen gestern",
+      "letzter Stuhlgang vor 2 Tagen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Klappeninsuffizienz (nicht näher spezifiziert, in regelmäßiger Kontrolle)",
+      "TVT vor 34 Jahren nach Schwangerschaft"
+    ],
+    "comorbidities": [
+      "Sturz am Unterarm vor ein paar Wochen (keine Fraktur, aber Ellenbogen schmerzt noch)",
+      "zahnärztliche Intervention letzte Woche"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "keine Noxen"
+    ],
+    "medications": [
+      "Buscopan (wegen Bauchschmerzen)",
+      "Ibuprofen 600 mg seit 3 Tagen (wegen zahnärztlicher Intervention)"
+    ],
+    "allergies": [
+      "Pflasterallergie"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Palpation Abdomen mit Abwehrspannung",
+      "Auskultation Herz: Aortenklappenstenose hörbar (2 ICR rechts, Fortleitung in die Karotiden)",
+      "Auskultation Herz: Mitralklappeninsuffizienz (am besten in Linksseitenlage zu hören)",
+      "neurologische Untersuchung: Reflexe durchgeführt (Maseterine, Bizepssehnenreflex, Trizepssehnenreflex, Patellarreflex, Achillessehnenreflex, Radiusperiostreflex)",
+      "Ellenbogen: weiterhin schmerzhaft nach Sturz"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "akute Appendizitis",
+      "mesenteriale Ischämie",
+      "Ileus",
+      "perforiertes Ulkus"
+    ],
+    "diagnostic_approach": [
+      "komplette körperliche Untersuchung einschließlich neurologischer Untersuchung und Reflexe",
+      "Bauchultraschall",
+      "ggf. Röntgenaufnahme des Abdomens",
+      "Zugang legen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

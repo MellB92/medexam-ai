@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieses Dokument enthält **keine vollständigen klinischen Patientenfälle**. Es handelt sich um eine **nummerierte Liste von 40 Diagnosen/Krankheitsbildern** ohne jegliche patientenspezifische Informationen wie:\n\n- Keine Patientenangaben (Alter, Geschlecht)\n- Keine Anamnese oder Beschwerden\n- Keine Untersuchungsbefunde\n- Keine Labor- oder Bildgebungsergebnisse\n- Keine klinischen Präsentationen\n\nDies erscheint eine **Übersichtsliste oder ein Inhaltsverzeichnis** von medizinischen Themen/Diagnosen zu sein, möglicherweise für Lehrzwecke oder als Referenz, aber **keine tatsächlichen Patientenfälle**."
+  }
+]

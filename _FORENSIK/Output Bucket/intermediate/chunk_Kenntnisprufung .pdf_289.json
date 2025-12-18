@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Pyelonephritis mit rezidivierenden Harnwegsinfektionen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Seit gestern Abend zunehmende dumpfe mittelstarke Schmerzen (6/10) in linker Flanke",
+      "Ausstrahlung der Schmerzen in Unterbauch",
+      "Fieber 39.5°C",
+      "Nausea ohne Vomitus",
+      "Appetitlosigkeit",
+      "Pollakisurie seit 3 Tagen",
+      "Dysurie seit 3 Tagen",
+      "Algurie seit 3 Tagen",
+      "Hämaturie seit 3 Tagen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus seit 19. Lebensjahr",
+      "Rezidivierende Harnwegsinfektionen (letzte vor paar Monaten, konservativ behandelt)",
+      "Belastungsasthma (neulich diagnostiziert)",
+      "Z.n. Unterarmbruch vor paar Jahren (mittels Gips behandelt)"
+    ],
+    "comorbidities": [
+      "Knieschmerzen und Schwellung rechts seit Verdrehung vor paar Wochen (Untersuchungen unauffällig)"
+    ],
+    "risk_factors": [
+      "Ex-Raucherin (seit 19. LJ abstinent, vorher täglich 2 Zigaretten)",
+      "Gelegentlicher Alkoholkonsum"
+    ],
+    "family_history": [
+      "Vater: Z.n. Apoplex, angeborener Herzfehler (Loch im Herz)",
+      "Mutter: Schilddrüsenerkrankung"
+    ],
+    "social_history": [
+      "Verheiratet",
+      "Arbeitet Teilzeit",
+      "2 Kinder",
+      "Keine Drogenanamnese"
+    ],
+    "medications": [
+      "Insulinpumpe",
+      "Foster (Inhalativum)",
+      "Flohsamenschalen"
+    ],
+    "allergies": [
+      "Nickel (Exanthem)"
+    ],
+    "vital_signs": [
+      "Fieber 39.5°C"
+    ],
+    "physical_examination": [
+      "Klopfschmerzhaftigkeit des linken Nierenlagers",
+      "Knie rechts: schmerzbedingte Funktionseinschränkung, ansonsten unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Urin-Teststreifen durchgeführt",
+      "Erythrozyten-Zylinder im Urin"
+    ],
+    "suspected_diagnosis": [
+      "Pyelonephritis"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Körperliche Untersuchung",
+      "Urin-Teststreifen",
+      "Urinmikroskopie",
+      "Diskussion stationäre vs. ambulante Aufnahme"
+    ],
+    "treatment_response": [
+      "Venöser Zugang gelegt"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

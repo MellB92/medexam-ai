@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle** mit konkreten Patientenbeispielen. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Frage-Antwort-Paaren** zu medizinischen Themen wie:\n   - Strahlenbiologie (deterministische vs. stochastische Schäden)\n   - Unfallversicherungsgesetz\n   - Unhappy Triad (theoretische Beschreibung)\n   - Bandapparat des Kniegelenks\n   - Hiatushernie (Klassifikation und Therapie)\n   - Milzruptur (Diagnostik, Klassifikation, Therapie)\n\n2. **Hypothetischen Szenarien** ohne konkrete Patientendetails:\n   - \"Welche Verletzung kann ein Hämatom im linken Oberbauch nach einem Trauma verursachen?\" → Dies ist eine allgemeine Frage, kein konkreter Patientenfall\n   - \"Was ist die häufigste Ursache für eine freie Perforation im Röntgen-Thorax?\" → Theoretische Frage\n\n3. **Musterlösungen und Leitlinien** ohne spezifische Patientenangaben\n\nEs fehlen bei allen erwähnten Szenarien konkrete Patientenmerkmale wie Alter, Geschlecht, detaillierter Unfallhergang, spezifische Untersuchungsbefunde oder Laborwerte, die einen vollständigen klinischen Fall ausmachen würden."
+  }
+]

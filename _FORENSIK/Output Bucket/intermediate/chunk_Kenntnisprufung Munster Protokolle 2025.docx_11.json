@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Asthma bronchiale mit Belastungsdyspnoe\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\n      \"Seit 3 Monaten Belastungsdyspnoe\",\n      \"Training Abbruch im Fitness Studio\",\n      \"Husten mit klarem Auswurf\",\n      \"ab und zu saures Aufstoßen\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Pollenallergie\",\n      \"Laktoseintoleranz\",\n      \"Schulterluxation nach Sturz (Zustand nach)\",\n      \"Paronychie (Zustand nach)\"\n    ],\n    \"medications\": [\n      \"Antihistaminika (Cetrizin bei Bedarf)\"\n    ],\n    \"allergies\": [\n      \"Pollenallergie\"\n    ],\n    \"physical_examination\": [\n      \"Körperliche Untersuchung ohne Besonderheiten\",\n      \"Schulterschmerzen\"\n    ],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Asthma bronchiale\",\n      \"Anämie (als Differentialdiagnose genannt)\",\n      \"Refluxösophagitis\"\n    ],\n    \"diagnostic_approach\": [\n      \"Lungenfunktion (Spirometrie)\",\n      \"Metacholintest (Provokationstest)\",\n      \"EKG (Perimyokarditis)\",\n      \"Endoskopie (Refluxösophagitis)\"\n    ]\n  }\n]\n```"
+  }
+]

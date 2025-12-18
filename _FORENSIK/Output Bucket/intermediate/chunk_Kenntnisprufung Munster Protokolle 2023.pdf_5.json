@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Fahrradunfall mit Verletzungen",
+    "patient_age": "62J",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Re atemabhängiger Thorakale bzw Re Oberbauch Schmerzen",
+      "Re Handgelenk, schmerzhafte Bewegungseinschränkung"
+    ],
+    "accident_mechanism": "Unfall mit Auto beim Fahrradfahren",
+    "pre_existing_conditions": [
+      "Schwere Salmonella Infektion vor 10 Jahren",
+      "Nabelhernie vor 15 Jahren - infiziert (konservativ behandelt)"
+    ],
+    "comorbidities": [
+      "Omarthrose bds",
+      "HRST seit einem Jahr"
+    ],
+    "family_history": [
+      "Mutter 92J Anämie - in Krankenhaus zur weiteren Abklärung",
+      "Vater an Sepsis verstorben",
+      "Bruder - Leukämie",
+      "Schwester Schilddrüsenkrebs"
+    ],
+    "medications": [
+      "Xarelto 1-0-0"
+    ],
+    "vital_signs": [
+      "RR nicht gemessen (wegen Handverletzung)"
+    ],
+    "physical_examination": [
+      "Palpation, Auskultation Lunge und Herz",
+      "Pupillenreflex, Sensibilität, meningeal Zeichen überprüft",
+      "Reflexe an den Beinen überprüft"
+    ],
+    "imaging_findings": [
+      "Röntgen der Verletzungen geplant"
+    ],
+    "suspected_diagnosis": [
+      "Akutes Abdomen (Re Oberbauchschmerzen)"
+    ],
+    "diagnostic_approach": [
+      "FAST-Sonographie",
+      "EKG",
+      "BGA"
+    ],
+    "treatment_response": [
+      "Starke Schmerzmittel verabreicht, Patientin schmerzfrei"
+    ],
+    "follow_up": [
+      "Wundversorgung geplant"
+    ]
+  },
+  {
+    "title": "Morgenbesprechung: Fahrradunfall bei 62-jähriger Frau",
+    "patient_age": "62J",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Fahrradunfall"
+    ],
+    "accident_mechanism": "Unfall mit Auto beim Fahrradfahren"
+  }
+]

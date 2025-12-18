@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Diabetes mellitus Typ 2 mit Hypertonie und Dyslipidämie bei 66-jähriger Rentnerin",
+    "patient_age": "66J",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Fatigue seit 4-5 Monaten",
+      "Polyurie seit 4-5 Monaten",
+      "Polydipsie seit 4-5 Monaten",
+      "Nykturie seit 4-5 Monaten",
+      "Pruritus seit 4-5 Monaten",
+      "Kribbeln in Händen beidseits seit 4-5 Monaten",
+      "Sodbrennen",
+      "Saures Aufstoßen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Dyslipidämie",
+      "FSME mit 25J",
+      "Humerus Fraktur vor 25J (konservativ behandelt)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Rauchen (1 Zigarette gelegentlich seit Jahren)",
+      "Alkoholkonsum (1 Glas Wein gelegentlich seit Jahren)"
+    ],
+    "family_history": [
+      "Mutter: Magen Geschwulst OP",
+      "Vater: M. Bechterew"
+    ],
+    "social_history": [
+      "Rentnerin (früher Finanzamt)",
+      "Verheiratet",
+      "2 Kinder",
+      "Viele Enkelkinder",
+      "Backt gerne Kuchen für Enkelkinder"
+    ],
+    "medications": [
+      "Sevikar 20mg/5mg 1-0-0",
+      "Simvastatin 10 mg 0-0-1"
+    ],
+    "allergies": [
+      "Hund Haare"
+    ],
+    "vital_signs": [
+      "RR 150/90 mmHg"
+    ],
+    "physical_examination": [
+      "Vital Parameter im Übrigen unauffällig",
+      "Körperliche Untersuchung unauffällig",
+      "Striae bei abdominaler Inspektion",
+      "Leicht erhöhter Blutdruck"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Diabetes mellitus Typ 2",
+      "Diabetes Insipidus (Differentialdiagnose)"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

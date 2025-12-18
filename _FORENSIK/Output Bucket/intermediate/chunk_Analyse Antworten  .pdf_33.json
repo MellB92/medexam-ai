@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** zu rechtlichen Themen (Ärztekammer, Klagen, Beweislast)\n2. **Physikalisch-technischen Fragen** zur Röntgenstrahlung (Entstehung, Bildgebung, Kalziumdarstellung)\n3. **Regulatorischen Fragen** zu Fachkunde und Sachkunde\n4. **Einer abgeschnittenen Frage** am Ende zum \"Upside-Down-Magen bei Kindern\" - diese ist unvollständig und wird am Chunk-Ende abgebrochen\n\nEs handelt sich um ein Prüfungsprotokoll mit Wissensfragen, nicht um klinische Fallpräsentationen mit Patientenvorstellungen, Anamnese, Untersuchungsbefunden oder diagnostischen Abläufen."
+  }
+]

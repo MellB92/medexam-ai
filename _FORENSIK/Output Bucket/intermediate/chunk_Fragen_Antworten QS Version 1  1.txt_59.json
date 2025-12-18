@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Therapierichtlinien zu GERD (Gastroösophageale Refluxkrankheit):**\n   - Medikamentöse Therapieoptionen (Ranitidin, Famotidin, Antazida)\n   - Chirurgische Optionen (Fundoplicatio nach Nissen)\n   - Komplikationen, Verlaufskontrolle, rechtliche Aspekte, Prognose\n\n2. **Beginn einer theoretischen Antwort zu ACS (Akutes Koronarsyndrom):**\n   - Sofortmaßnahmen\n   - Medikamentöse Ersttherapie\n   - Der Text bricht mitten im Satz ab (\"4.\")\n\nEs handelt sich um **rein theoretisches Wissen** im Frage-Antwort-Format für eine Kenntnisprüfung, **nicht um konkrete Patientenfälle** mit individuellen Anamnesen, Untersuchungsbefunden oder spezifischen klinischen Präsentationen."
+  }
+]

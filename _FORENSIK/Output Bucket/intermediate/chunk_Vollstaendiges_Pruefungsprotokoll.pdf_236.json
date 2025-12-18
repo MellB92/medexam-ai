@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Patientin mit rezidivierenden Harnwegsinfekten nach Thailand-Urlaub mit Hepatitis A und Leberraumforderung\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"rezidivierende Harnwegsinfekte\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"Hepatitis A (nach Thailand-Urlaub)\", \"Raumforderung in der Leber\"],\n    \"medications\": [\"Fosfomycin (einmalige Medikamenteneinnahme bei Harnwegsinfekt)\"],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\"Raumforderung in der Leber\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Leberraumforderung bei Z.n. Hepatitis A\"],\n    \"diagnostic_approach\": [\"Laboruntersuchungen (Leberenzyme, Gerinnungsparameter, Tumormarker)\", \"Bildgebung (Ultraschall, CT, MRT)\", \"ggf. Biopsie der Raumforderung zur histologischen Abklärung\"]\n  }\n]\n```"
+  }
+]

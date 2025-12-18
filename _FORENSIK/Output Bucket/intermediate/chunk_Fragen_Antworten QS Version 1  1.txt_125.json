@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 126/284) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischem Fachwissen** zu:\n   - GFR-Berechnungsformeln (CKD-EPI, MDRD, Cockcroft-Gault)\n   - KDIGO-Stadieneinteilung der chronischen Niereninsuffizienz\n   - Tumormarkern und deren Referenzbereichen (AFP, CEA, CA 15-3, CA 19-9, CA 125, PSA, β-HCG, Calcitonin, Thyreoglobulin, NSE)\n\n2. **Qualitätssicherungs-Kommentaren** zu verschiedenen Prüfungsfragen (FRAGE 211-230), die folgende theoretische Themen behandeln:\n   - Herzklappen-Typen\n   - Differentialdiagnostik Hämothorax vs. Pneumothorax\n   - Frakturklassifikationen\n   - Medikamentennebenwirkungen\n   - Chirurgische Anatomie\n   - Multiples Myelom (theoretische Pathophysiologie)\n   - Nierenversagen (Mechanismen)\n   - Radiologische Befunde bei Gonarthrose\n\nEs gibt **keine Patientenpräsentationen** mit konkreten Einzelfällen, Anamnesen, Unfallhergängen oder individuellen Befundkonstellationen. Alle Inhalte sind rein didaktisch-theoretischer Natur für Prüfungsvorbereitung."
+  }
+]

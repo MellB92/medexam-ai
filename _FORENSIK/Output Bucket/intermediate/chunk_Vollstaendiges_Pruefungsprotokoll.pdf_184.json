@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** mit Musterlösungen zu medizinischem Fachwissen:\n   - Impfempfehlungen für Patienten über 60 Jahre\n   - Auskultationspunkte der Herzklappen\n   - Ödemprüfung\n   - Strahlenschäden (stochastisch vs. deterministisch)\n   - Medikamentenwissen (Amiodaron, Adenosin)\n   - Krankheitsbilder (Aortenklappenstenose, Alkoholentzugssyndrom, Divertikulitis, Pyelonephritis, Schlafapnoe-Syndrom, Osteoporose)\n   - Rechtliche Aspekte (Organspende, Hirntod)\n   - Diagnostische Grundlagen (Sensitivität, Spezifität)\n   - Strahlenschutzprinzipien\n\n2. **Keine konkreten Patientenpräsentationen** mit:\n   - Anamnese\n   - Klinischer Präsentation\n   - Untersuchungsbefunden\n   - Diagnostik\n   - Therapieplanung\n\nAlle Fragen sind rein wissensbasiert und theoretisch. Es werden keine individuellen Patienten mit spezifischen Beschwerden, Befunden oder Fallverläufen beschrieben."
+  }
+]

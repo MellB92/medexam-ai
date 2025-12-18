@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischem Wissen über Kalkaneusfrakturen:**\n   - Diagnostische Verfahren (Röntgen, CT)\n   - Messungen (Böhler-Winkel, Gissane-Winkel)\n   - Klassifikationssysteme (Sanders-Klassifikation)\n   - Komplikationen\n\n2. **Behandlungsalgorithmen (FRAGE 279):**\n   - Konservative Therapieoptionen\n   - Operative Therapieindikationen\n   - OP-Techniken\n   - Nachbehandlungsschemata\n   - Komplikationsmanagement\n\nEs handelt sich um **strukturierte Lehrinhalte** in Form von Fragen und Antworten für Prüfungsvorbereitung, **nicht um konkrete Patientenfälle** mit individuellen Charakteristika (Alter, Geschlecht, spezifischer Unfallhergang, individuelle Beschwerden, konkrete Untersuchungsbefunde)."
+  }
+]

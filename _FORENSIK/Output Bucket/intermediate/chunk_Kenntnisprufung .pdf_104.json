@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Traumatisches akutes Abdomen mit Handgelenksverletzung nach Verkehrsunfall (Sekundenschlaf)",
+    "patient_age": null,
+    "patient_gender": "Mann",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Starke Bauchschmerzen im gesamten Bauch",
+      "Schmerz im rechten Handgelenk"
+    ],
+    "accident_mechanism": "Sekundenschlaf beim LKW-Fahren, Kontrolle verloren, Autounfall, Patient hat sich mit dem Bauch und rechter Hand gegen den Lenkrad geschlagen",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "LKW Fahrer (Herr Wagner)"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Vitalparameter erhoben",
+      "Herz auskultiert",
+      "Lunge auskultiert",
+      "Bauch untersucht",
+      "Handgelenk pDMS geprüft"
+    ],
+    "imaging_findings": [
+      "Leberhämatom im Bildgebung erkannt",
+      "Röntgen mit Kahnbeinfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Stumpfes Bauchtrauma",
+      "Kahnbeinfraktur",
+      "Leberhämatom",
+      "Mögliche Zwerchfellverletzung"
+    ],
+    "diagnostic_approach": [
+      "Gesamte körperliche Untersuchung",
+      "FAST Sonographie",
+      "Röntgen Handgelenk",
+      "Urinuntersuchung bei Trauma"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Akutes Abdomen nach Verkehrsunfall mit Skaphoidfraktur und OSAS",
+    "patient_age": "64-jähriger",
+    "patient_gender": "Mann",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Bauchschmerzen (5/10 NRS)",
+      "Schmerzen am Handgelenk"
+    ],
+    "accident_mechanism": "Verkehrsunfall (Z.n. Unfall) als LKW Fahrer",
+    "pre_existing_conditions": [],
+    "comorbidities": [
+      "OSAS (obstruktive Schlafapnoe)",
+      "Lobäre Pneumonie rechter Oberlappen",
+      "AV Block III",
+      "QT-Verlängerung"
+    ],
+    "risk_factors": [
+      "10 kg Gewichtszunahme in letzter Zeit",
+      "Macht ab und zu Mittagsschläfchen"
+    ],
+    "family_history": [],
+    "social_history": [
+      "LKW Fahrer (Herr Wagner)"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Bauch war bretthart"
+    ],
+    "imaging_findings": [
+      "Sonographie Morisson Pouch (wahrscheinlich mit freier Flüssigkeit)",
+      "4 Röntgenbilder mit nicht dislozierter distaler Skaphoid-Fraktur",
+      "Röntgenthorax p.a. und seitlich mit lobärer Pneumonie des rechten Oberlappens"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akutes Abdomen (traumatisch)",
+      "Nicht dislozierte distale Skaphoidfraktur",
+      "OSAS (obstruktive Schlafapnoe)"
+    ],
+    "diagnostic_approach": [
+      "Körperliche Untersuchung",
+      "FAST Sonographie",
+      "Spezielle Röntgenaufnahmen Skaphoid",
+      "Polysomnographie für OSAS-Diagnose",
+      "EKG",
+      "Röntgen Thorax"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

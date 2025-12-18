@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Patientin mit Lumbalgie, Hämatomen und B-Symptomatik - Multiples Myelom\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Lumbalgie\", \"Hämatome\", \"B-Symptomatik\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Hämatome\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\"erhöhte Blutsenkungsgeschwindigkeit\", \"Urinveränderungen\", \"Proteinurie\", \"Leichtkettenproteinurie (Bence-Jones-Proteine)\"],\n    \"suspected_diagnosis\": [\"Multiples Myelom\", \"malignes Geschehen\"],\n    \"diagnostic_approach\": [\"Elektrophorese\", \"SLIM und CRAB Kriterien\"]\n  }\n]\n```"
+  }
+]

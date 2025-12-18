@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle** im Sinne von Fallpräsentationen. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischem Lehrbuchwissen** zur akuten arteriellen Verschlusskrankheit (Fortsetzung vom vorherigen Chunk)\n\n2. **Differentialdiagnose-Schemata** (DD):\n   - DD Thoraxschmerz (Herzinfarkt, Aortendissektion, Lungenembolie, Pneumothorax)\n   - DD Akutes Abdomen (Appendizitis, Cholezystitis, Ileus, Perforation, Pankreatitis, Sigmadivertikulitis)\n   - DD Dyspnoe (Lungenembolie, Pneumothorax, Asthma, COPD, Pneumonie, Pleuraerguss, Fremdkörperaspiration)\n\n3. **Systematische Übersichten** mit:\n   - Definition\n   - Klinik/Leitsymptome\n   - Diagnostik\n   - Therapie\n\nEs handelt sich um **Lernkarten-Material** mit standardisierten Krankheitsbildern, aber ohne konkrete Patientenbeispiele mit individuellen Angaben zu Alter, Geschlecht, spezifischen Beschwerden oder Untersuchungsbefunden."
+  }
+]

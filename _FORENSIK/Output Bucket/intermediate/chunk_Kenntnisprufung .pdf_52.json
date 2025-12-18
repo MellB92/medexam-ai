@@ -1,0 +1,60 @@
+[
+  {
+    "title": "64-jährige Patientin mit oberen Bauchschmerzen und GERD-Symptomatik",
+    "patient_age": "64",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Obere Bauchschmerzen ohne Ausstrahlung",
+      "Beschwerden häufig nach dem Essen",
+      "Beschwerden beim Liegen",
+      "Morgenheiserkeit",
+      "Reizhusten",
+      "Gewichtabnahme"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypothyreose",
+      "Z.n. laparoskopischer Appendektomie",
+      "Z.n. Ellbogenoperation nach Unfall vor 3 Monaten am linken Ellbogen"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Rauchen 30 pack years"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Rauchen 30 pack years",
+      "Alkohol gelegentlich"
+    ],
+    "medications": [
+      "L-Thyroxin (für Hypothyreose)",
+      "Ibuprofen 600mg mehrmals täglich gegen Schmerzen"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Abdomen untersucht",
+      "Thorax untersucht",
+      "Ellbogen untersucht - Schmerzen, Bewegungseinschränkung, Muskelschwäche",
+      "Schilddrüse untersucht"
+    ],
+    "imaging_findings": [
+      "Röntgen Ellbogen mit K-Draht"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "GERD (Gastroösophageale Refluxkrankheit)",
+      "Akute Tubulusnekrose durch Ibuprofen-Überdosierung",
+      "Barrett-Ösophagus als mögliche Komplikation"
+    ],
+    "diagnostic_approach": [
+      "ÖGD (Ösophagogastroduodenoskopie) - Aufklärung erfolgt",
+      "pH-Metrie",
+      "Manometrie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Fragment einer allgemeinen Behandlungsanweisung** (am Anfang) - Teil von \"Weitere Maßnahmen\" mit Monitoring, Venenzugang, Labor und Bildgebung. Dies ist kein vollständiger Fall, sondern ein abgeschnittenes Fragment.\n\n2. **FRAGE 116: WHO-Stufenschema Schmerztherapie** - Dies ist eine rein theoretische Wissensfrage mit einer systematischen Erklärung des WHO-Stufenschemas. Es handelt sich um:\n   - Medikamentenlisten nach Stufen\n   - Dosierungsangaben\n   - Zusatzaspekte (Ko-Analgetika, Prophylaxe)\n   - Dokumentationshinweise\n   - Prüfungsrelevante Merksätze\n\nEs wird **kein konkreter Patient** mit Anamnese, Beschwerden, Untersuchungsbefunden oder spezifischer Diagnose präsentiert. Es handelt sich ausschließlich um theoretisches Lehrbuchwissen zur systematischen Schmerztherapie."
+  }
+]

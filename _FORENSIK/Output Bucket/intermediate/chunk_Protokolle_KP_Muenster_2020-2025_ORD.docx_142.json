@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Divertikulitis mit linksseitigen Unterbauchschmerzen",
+    "patient_age": "63-jährige",
+    "patient_gender": "Frau",
+    "chief_complaints": [
+      "linksseitige Unterbauchschmerzen seit 3 Tagen",
+      "Obstipation",
+      "Fieber",
+      "Übelkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Appendektomie",
+      "Z.n. Cholezystektomie",
+      "Blasenschwäche",
+      "Z.n. Knietrauma (konservativ behandelt)"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "einmal Blutstränge auf dem Klopapier beobachtet"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "V.a. Divertikulitis"
+    ],
+    "diagnostic_approach": [
+      "Entzündungsparameter"
+    ]
+  },
+  {
+    "title": "Akute Divertikulitis (Münster Prüfungsfall)",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "typische Beschwerden einer akuten Divertikulitis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sonographie Bild mit einer Divertikulitis"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "akute Divertikulitis"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung",
+      "Sonographie",
+      "Koloskopie"
+    ]
+  },
+  {
+    "title": "Sigmadivertikulitis (Prüfungsfall Oktober 2022)",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Pulse tasten",
+      "Auskultationspunkte",
+      "Kratzauskultation der Leber",
+      "Reflexe der oberen und unteren Extremitäten",
+      "Bronchophonie",
+      "Stimmfremitus"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sigmadivertikulitis"
+    ],
+    "diagnostic_approach": [
+      "körperliche Untersuchung"
+    ]
+  }
+]

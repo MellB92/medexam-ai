@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Varizenblutung in der Notaufnahme\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Varizenblutung\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Vitalparameter bestimmt\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\"Kreuzprobe mit EK bereitgestellt\", \"Labordiagnostik durchgeführt\"],\n    \"suspected_diagnosis\": [\"Varizenblutung\", \"Obere gastrointestinale Blutung\"],\n    \"diagnostic_approach\": [\n      \"Vitalparameter bestimmen\",\n      \"2 großlumige Zugänge legen\",\n      \"Labordiagnostik\",\n      \"Kreuzprobe mit EK bereitstellen\",\n      \"Kristalloide geben\",\n      \"Terlipressin\",\n      \"Antibiotika\",\n      \"ÖGD (Ösophagogastroduodenoskopie)\",\n      \"Gummibandligatur\",\n      \"Bei nicht stillbarer Blutung: Ballontamponade (Sengstaken-Blakemore-Sonde)\"\n    ]\n  }\n]\n```"
+  }
+]

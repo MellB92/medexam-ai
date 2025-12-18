@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text besteht ausschließlich aus:\n- **OPS-Codes** (Operationen- und Prozedurenschlüssel) für medizinische Prozeduren\n- **Tabellarischen Auflistungen** von Prozedurencodes für Intensivmedizin Level 2\n- **Technischen Spezifikationen** für verschiedene Dialyseverfahren (CVVHDF, CVVH) mit unterschiedlichen Antikoagulationsformen und Zeitdauern\n- **Administrativen Informationen** zur Klassifikation intensivmedizinischer Komplexbehandlungen\n\nEs handelt sich um einen **Tabellen-Anhang** zu einer Stellungnahme der Regierungskommission zur Reform der Krankenhausvergütung, nicht um klinische Falldarstellungen mit Patienten, Symptomen, Diagnostik oder Behandlungsverläufen."
+  }
+]

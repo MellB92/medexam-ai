@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält ausschließlich **Multiple-Choice-Aufgaben (MC 9-13) mit EKG-Interpretationen**. \n\nEs handelt sich um:\n- Didaktische EKG-Übungsfälle zur Befundung\n- Technische EKG-Auswertungen (P-Wellen, QRS-Komplexe, ST-Strecken, etc.)\n- Lösungen zu Aufgaben mit elektrophysiologischen Diagnosen\n\n**KEINE vollständigen klinischen Patientenpräsentationen** mit:\n- Anamnese\n- Klinischer Vorstellung\n- Vollständiger diagnostischer Aufarbeitung\n\nDie wenigen klinischen Hinweise (z.B. \"zunehmende Dyspnoe und periphere Ödeme\" bei MC 9, \"arterielle Hypertonie\" bei MC 12) sind fragmentarisch und dienen nur der EKG-Interpretation, stellen aber keine vollständigen Fallpräsentationen dar."
+  }
+]

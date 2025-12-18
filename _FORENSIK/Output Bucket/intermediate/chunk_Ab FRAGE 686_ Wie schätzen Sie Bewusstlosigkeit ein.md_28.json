@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle** mit Patientenvorstellung. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** zu verschiedenen medizinischen Themen:\n   - Blutausstrich bei mechanischen Herzklappen\n   - ITP-Therapie\n   - Medikamenteninduzierte Thrombozytopenie\n   - HIT (Heparin-induzierte Thrombozytopenie)\n   - Myeloproliferative/lymphoproliferative Erkrankungen\n   - Pseudomembranöse Kolitis\n   - Distale Radiusfraktur\n   - Kompartmentsyndrom\n   - TNM-Klassifikation beim Kolonkarzinom\n\n2. **Leitlinienbasierte Therapieempfehlungen** ohne konkrete Patientenfälle\n\n3. **Am Ende abgeschnittene Fälle:**\n   - Frage 38 zu \"Vergrößerung der Bauchaorta\" ist unvollständig und bricht ab\n\nEs handelt sich um ein **Prüfungsprotokoll mit Wissensfragen**, nicht um klinische Fallpräsentationen mit konkreten Patienten (Alter, Geschlecht, Anamnese, Befunde)."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text zeigt:\n1. **Therapieempfehlungen** für pAVK (periphere arterielle Verschlusskrankheit) - allgemeine Behandlungsrichtlinien\n2. **Differentialdiagnosen** - theoretische Liste (TVT, Spinale Claudicatio, Periphere Polyneuropathie)\n3. **Prognosedaten** - statistische Informationen zur 5-Jahres-Mortalität\n4. **Pathophysiologie** - theoretisches Wissen über Gefäßwandschichten\n\nEs handelt sich um **Lehrmaterial/Theoriewissen** aus einem Fragen-Antworten-Dokument, nicht um konkrete Patientenpräsentationen mit individuellen Symptomen, Untersuchungsbefunden oder Fallverläufen.\n\nDie Erwähnung \"Z.n. LWS-OP L4/L5\" unter der Differentialdiagnose \"Spinale Claudicatio\" ist lediglich ein beispielhafter anamnestischer Hinweis im Kontext der DD-Liste, kein vollständiger Fall."
+  }
+]

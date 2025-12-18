@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDas Dokument ist ein **theoretisches Lehrmaterial zum Strahlenschutz** und behandelt ausschließlich:\n\n- Grundlagen der Strahlenexposition (ionisierende Strahlung, externe/interne Bestrahlung)\n- Natürliche und künstliche Strahlenquellen\n- Physikalische Grundlagen (Abstandsquadratgesetz)\n- Dosisgrößen (Energiedosis, Äquivalenzdosis, effektive Dosis, Ortsdosis, Personendosis)\n- Strahlenschutzbereiche und bauliche Maßnahmen\n- Dosimeter und deren Verwendung\n- Strahlenschutzgrundsätze\n- Definitionen und Erklärungen\n\nEs werden zwar **Beispiele** genannt (z.B. \"Radon kann Bronchialkarzinome verursachen\", \"Röntgen\", \"Radiojodtherapie\", \"Kardiologen mit Doppeldosimetrie\"), aber dies sind **keine konkreten Patientenfälle** mit individuellen klinischen Präsentationen, Symptomen, Befunden oder diagnostischen Abläufen."
+  }
+]

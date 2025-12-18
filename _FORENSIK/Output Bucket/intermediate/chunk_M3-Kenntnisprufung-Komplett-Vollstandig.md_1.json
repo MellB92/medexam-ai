@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 2/3) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer gesamte Text besteht aus:\n\n1. **Theoretischen Fragen und Antworten** im Frage-Antwort-Format (z.B. \"Frage 8: Was ist das ALARA-Prinzip?\", \"Frage 9: Alle Anämie-Typen...\")\n\n2. **Systematischem Faktenwissen** zu verschiedenen medizinischen Themen:\n   - Radiologie (ALARA-Prinzip)\n   - Anämien (Klassifikation, Therapie)\n   - Kardiologie (Perikarditis, AV-Block, Herzinsuffizienz)\n   - Chirurgie (pAVK-Klassifikation, Frakturen)\n   - Gastroenterologie (Pneumonie, Ileus)\n   - Endokrinologie (Conn-Syndrom, Cushing)\n   - Pneumologie (COPD, Emphysem)\n   - Pharmakologie (therapeutische Breite, DMARDs)\n\n3. **Klassifikationssystemen** (Fontaine, Garden, CRB-65, GOLD-Stadien)\n\nEs gibt **keine narrativen Patientenpräsentationen** mit konkreten Falldetails wie:\n- \"Ein 65-jähriger Patient stellt sich vor mit...\"\n- Spezifische Anamnese eines individuellen Patienten\n- Konkrete Untersuchungsbefunde eines Falls\n- Fallbasierte diagnostische oder therapeutische Überlegungen\n\nDies ist ein **Lernkatalog/Prüfungsvorbereitung** mit theoretischem Wissen, keine Fallsammlung."
+  }
+]

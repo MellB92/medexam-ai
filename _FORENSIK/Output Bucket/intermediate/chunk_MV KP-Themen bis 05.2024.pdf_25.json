@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Therapierefraktäre Hypertonie mit Hypokaliämie und Raumforderung Nebenniere",
+    "patient_age": "29",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Therapierefraktäre Hypertonie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT-Abdomen: Raumforderung im Bereich der Leber und Nieren in Höhe der rechten Niere"
+    ],
+    "laboratory_findings": [
+      "Hypokaliämie"
+    ],
+    "suspected_diagnosis": [
+      "Nebennierenadenom",
+      "Conn-Syndrom",
+      "Sekundäre Hypertonie"
+    ],
+    "diagnostic_approach": [
+      "Laboruntersuchung",
+      "CT-Abdomen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

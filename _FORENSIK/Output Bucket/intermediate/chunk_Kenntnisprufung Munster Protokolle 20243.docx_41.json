@@ -1,0 +1,145 @@
+[
+  {
+    "title": "Anämie bei geplanter Hüft-TEP bei Koxarthrose",
+    "patient_age": "63 Jahre",
+    "patient_gender": "männlich",
+    "chief_complaints": [
+      "Kopfschmerzen (3/10 auf Schmerzskala)",
+      "Hüftgelenkschmerzen (6/10 auf Schmerzskala)",
+      "Fatigue",
+      "Leistungsminderung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "DM Typ II",
+      "Perikarditis mit 21 Jahren",
+      "Z.n. Unterschenkel-Fraktur bei Skifahren mit 25 Jahren (konservativ mit Schiene behandelt)",
+      "Z.n. Inkarzierierte Leistenhernie rechts vor 30 Jahren (Notfall-OP)",
+      "Fortgeschrittene Koxarthrose links"
+    ],
+    "medications": [
+      "Diclofenac 75 mg 1-0-1",
+      "Metformin 750 mg 1-0-1"
+    ],
+    "allergies": [
+      "Allergie gegen Nickel",
+      "Ex-Raucher: 15 Pack-years, seit 5 Jahren aufgehört",
+      "Alkohol: 1-2 Bier am Wochenende"
+    ],
+    "physical_examination": [
+      "Herz untersucht",
+      "Lungen untersucht",
+      "Bauch untersucht",
+      "Lymphknoten untersucht",
+      "Beinödeme geprüft",
+      "Periphere Pulse geprüft",
+      "Blutdruck beidseits gemessen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Makrozytäre hyperchrome Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Eisenmangel-Anämie wegen gastrointestinalem Blutverlust",
+      "Vitamin B12- und Folsäure-Mangel",
+      "DD: Kolonkarzinom (bei Mann über 50 Jahre mit Anämie auszuschließen)"
+    ],
+    "diagnostic_approach": [
+      "Labor: BB, Eisen, Ferritin, Transferrinsättigung",
+      "Vitamin B12 & Folsäure",
+      "Nierenwerte wegen DM",
+      "Stuhldiagnostik (Blut im Stuhl)",
+      "Abdomensonographie",
+      "ÖGD",
+      "Koloskopie"
+    ]
+  },
+  {
+    "title": "Vorderwandinfarkt (STEMI)",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: ST-Hebungs-Myokardinfarkt (STEMI)",
+      "Vorderwandinfarkt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "ST-Hebungs-Myokardinfarkt (STEMI)",
+      "Vorderwandinfarkt"
+    ],
+    "diagnostic_approach": [
+      "Sauerstoff bei SpO2 unter 94%",
+      "Doppelte Thrombozytenaggregationshemmung mit ASS und Prasugrel",
+      "Heparin",
+      "Morphin wegen Angst und Schmerzen",
+      "Transport ins Katheter-Labor innerhalb 120 Minuten"
+    ]
+  },
+  {
+    "title": "Perikarditis mit Kardiomegalie",
+    "patient_age": "jung",
+    "patient_gender": null,
+    "chief_complaints": [
+      "Fieber",
+      "Leistungsminderung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Sportlich"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax: Herzvergrößerung (Bocksbeutelform)",
+      "Kardiomegalie (Herz-Thorax-Quotient in p.a.-Projektion größer als 0,5)"
+    ],
+    "laboratory_findings": [
+      "Entzündungsparameter",
+      "Troponin",
+      "CK-MB",
+      "NT-pro BNP"
+    ],
+    "suspected_diagnosis": [
+      "Perikarditis"
+    ],
+    "diagnostic_approach": [
+      "Labor: Entzündungsparameter, Troponin, CK-MB, NT-pro BNP",
+      "Ätiologie: Viral, Autoimmun bei Rheumaerkrankung, Neoplastisch, Niereninsuffizienz (Urämie)",
+      "Therapie je nach Ursache: bei infektiös Antibiotikum, bei nicht infektiös NSAID und Glukokortikoide"
+    ]
+  },
+  {
+    "title": "Fortgeschrittene Koxarthrose",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Beckenübersicht in a.p.-Strahlengang",
+      "Gelenkspalt-Verschmälerung",
+      "Sklerosierung",
+      "Osteophyten"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Fortgeschrittene Koxarthrose"
+    ],
+    "diagnostic_approach": [
+      "Konservative Therapie: Gewichtsabnahme, Physiotherapie (körperliche Aktivität im Schwimmbad), NSAID für 3-6 Monate",
+      "Indikation für Endoprothese: Beschwerdepersistenz und verminderte Lebensqualität trotz konservativer Therapie",
+      "Komplikationen nach Endoprothese: Infektion, Luxation, TVT, LAE bei Immobilität",
+      "Thromboseprophylaxe: Mono-Embolex 3000 IE subkutan"
+    ]
+  }
+]

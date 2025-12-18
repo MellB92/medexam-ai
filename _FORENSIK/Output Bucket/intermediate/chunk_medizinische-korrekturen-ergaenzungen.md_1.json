@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 2/2) enthält **keine klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n- Empfehlungen für Dokumentverbesserungen (QT-Zeit verlängernde Substanzen, Schwangerschaftskategorien)\n- Rechtlichen Aspekten (BGB, AMG, BtMG Paragraphen)\n- Qualitätsverbesserungsvorschlägen (Evidenz-Level, Literatur-Referenzen)\n- Empfohlenen Korrekturen (Adrenalin-Dosierungen, Antibiotika-Dosierungen, etc.)\n- Fazit und Meta-Informationen über das Gesamtdokument\n\nEs handelt sich um ein **Metadokument** zur Qualitätssicherung und Korrektur eines medizinischen Fragenkatalogs, enthält aber selbst keine konkreten Patientenpräsentationen oder klinischen Fälle."
+  }
+]

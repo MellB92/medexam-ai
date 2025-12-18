@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 45/84) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Lernkarteninhalten** zu verschiedenen Notfallthemen:\n   - Beckenfraktur (4.3)\n   - Pneumothorax (4.4)\n   - Milzruptur (4.5) - am Ende abgeschnitten\n\n2. **Strukturierte medizinische Lehrinhalte** mit:\n   - Definitionen\n   - Ätiologie/Risikofaktoren\n   - Klinik (typische Symptome)\n   - Diagnostik (Anamnese, KU, Labor, Apparativ)\n   - Therapie\n   - Komplikationen\n\n3. **Keine konkreten Patientenfälle** mit:\n   - Spezifischen Patientenangaben (Alter, Geschlecht)\n   - Individuellen Anamnesen\n   - Konkreten Untersuchungsbefunden\n   - Fallspezifischen Diagnosen\n\nDies sind **theoretische Lehrmaterialien** für die mündliche Prüfung (Stex), keine dokumentierten klinischen Fälle oder Fallbeispiele."
+  }
+]

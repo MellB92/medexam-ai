@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 124/254) enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Frage-Antwort-Paaren** aus einer medizinischen Wissensprüfung (Kenntnispruefung)\n2. **Theoretischem Medizinwissen** zu Themen wie:\n   - Shunt-Typen für Dialyse\n   - Port-Systeme für Chemotherapie\n   - Metformin (Wirkmechanismus, Nebenwirkungen, Kontraindikationen)\n   - Strahlenschutz (Energiedosis, Äquivalentdosis)\n   - Medizinrecht (Grundgesetz, BGB, Patientenrechte)\n   - Medizinische Scores (CURB-65, NIHSS, CHA₂DS₂-VASc)\n   - Pharmakokinetik (Ceiling-Effekt)\n   - Testgütekriterien (Sensitivität, Spezifität)\n\n3. **Standardisierten Antworten** (\"Nicht im Protokoll enthalten\", \"Keine Analyse möglich\")\n\nEs handelt sich um ein **Prüfungsprotokoll mit Musterlösungen**, nicht um echte Patientenfälle mit Anamnese, Symptomen, Befunden und diagnostischen Überlegungen."
+  }
+]

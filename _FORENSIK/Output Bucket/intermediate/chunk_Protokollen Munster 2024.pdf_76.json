@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Polytrauma nach Verkehrsunfall",
+    "patient_age": "Mittel 60-jährig",
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "starke Schmerzen rechtes Bein",
+      "Kopfschmerzen",
+      "Luftnot"
+    ],
+    "accident_mechanism": "Verkehrsunfall, mit Rettungsdienstwagen ins Krankenhaus gebracht",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalparameter gemessen",
+      "Patient stabil"
+    ],
+    "physical_examination": [
+      "Patient lag auf Liege",
+      "orientiert zu Name, Datum, aktuellem Befinden"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma",
+      "Verdacht auf Fraktur rechtes Bein",
+      "Schädel-Hirn-Trauma möglich",
+      "Thoraxtrauma möglich"
+    ],
+    "diagnostic_approach": [
+      "schnelle Anamnese",
+      "Bildgebung Kopf geplant",
+      "Bildgebung Thorax geplant",
+      "Bildgebung rechtes Knie geplant"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

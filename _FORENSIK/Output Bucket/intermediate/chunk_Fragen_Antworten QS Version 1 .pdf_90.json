@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle** mit konkreten Patienten. \n\nDer Text besteht aus:\n\n1. **Therapie-Anweisungen** zur Schulterluxation (Fortsetzung eines vorherigen Falls):\n   - Ruhigstellung, Dokumentation, Prognose\n   - Keine konkrete Patientenpräsentation\n\n2. **FRAGE 266**: Theoretische Frage zu Divertikulose/Divertikulitis\n   - Pathophysiologie-Erklärung\n   - Keine konkrete Fallpräsentation\n\n3. **FRAGE 267**: Theoretische Frage zu Komplikationen der Divertikulitis\n   - Auflistung von Komplikationen\n   - Keine konkrete Fallpräsentation\n\n4. **FRAGE 268**: Polytrauma mit Milz- und Leberruptur\n   - **Beginn einer theoretischen Algorithmus-Beschreibung**\n   - Kein konkreter Patient mit Alter, Geschlecht, spezifischen Befunden\n   - Allgemeine Handlungsanweisung nach ATLS-Schema\n   - Fall ist zudem am Ende **abgeschnitten** (endet mitten im Satz \"Dokumentation:\")\n\nAlle drei Fragen sind **theoretische Wissensfragen** ohne konkrete Patientenfälle mit individuellen Charakteristika."
+  }
+]

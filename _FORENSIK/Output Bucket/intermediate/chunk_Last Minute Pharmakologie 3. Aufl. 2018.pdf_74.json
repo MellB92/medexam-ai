@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDer vorliegende Textabschnitt (Chunk 75/115) besteht ausschließlich aus verschlüsseltem/encodiertem Text. Es handelt sich um eine lange Zeichenkette aus Base64-ähnlichen oder anderweitig verschlüsselten Zeichen ohne erkennbaren Klartext.\n\nEs sind keine klinischen Fälle, Patientenpräsentationen, medizinische Informationen oder sonstige lesbare Inhalte erkennbar. Daher können keine klinischen Fälle extrahiert werden."
+  }
+]

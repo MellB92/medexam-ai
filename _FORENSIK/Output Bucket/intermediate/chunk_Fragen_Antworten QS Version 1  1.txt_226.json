@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 227/284) enthält **keine vollständigen klinischen Patientenfälle**.\n\nDer Abschnitt besteht aus:\n\n1. **Notfalltherapie-Protokoll für Spannungspneumothorax** - Dies ist ein allgemeines Behandlungsprotokoll ohne konkreten Patientenfall\n\n2. **Fragensammlung (Fragen 522-600)** - Eine Liste von medizinischen Prüfungsfragen mit Standardantworten:\n   - Thoracic Outlet Syndrom (Theorie)\n   - Nosokomiale Infektionen (Theorie)\n   - ACE/SGLT2-Hemmer Wirkmechanismus (Pharmakologie)\n   - Doppler-Verschlussdruckmessung (Diagnostik-Methode)\n   - Thromboseprophylaxe (Theorie)\n   - Dialyseindikationen (Theorie)\n   - TEP/Osteosynthese-Verfahren (Theorie)\n   - Ziel-Sauerstoffsättigung (Referenzwerte)\n\n3. **Dokumentationshinweise** - Administrative Anforderungen nach § 630f BGB\n\nAlle genannten Inhalte sind theoretisches Wissen, Behandlungsprotokolle und Prüfungsfragen **ohne konkrete Patientendarstellung** mit Anamnese, Befunden und individueller Diagnostik/Therapie."
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "title": "pAVK mit Belastungsschmerzen nach Langstreckenflug",
+    "patient_age": "68 Jahre",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Schmerzen im Unterschenkel im Wadenbereich bei Belastung",
+      "Schmerzfreies Gehen bis 400m",
+      "Dyspnoe bei Belastung",
+      "Morgendlicher Husten mit schleimigem Auswurf"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie seit ca. 6 Jahren",
+      "Hyperlipidämie",
+      "Obstipation",
+      "Wirbelsäulen-OP vor ca. 3-4 Jahren (L4-L5)",
+      "Speicheldrüsenentzündung vor 8 Wochen",
+      "Zustand nach Corona-Infektion"
+    ],
+    "medications": [
+      "Lisinopril Kombi 20 mg 1-0-0",
+      "Atorvastatin 20 mg 0-0-1",
+      "Laxanzien"
+    ],
+    "allergies": [
+      "Penicillin (allergische Reaktion)"
+    ],
+    "physical_examination": [
+      "Beidseitige Inspektion der Beine und Füße",
+      "Pulspalpation",
+      "Sensibilitätsprüfung",
+      "Hauttemperaturvergleich bei Palpation",
+      "Blutdruckmessung beidseitig",
+      "Pulsmessung",
+      "Lymphknotentastung am Kopf",
+      "Herzauskultation",
+      "Lungenauskultation",
+      "Abdomenuntersuchung mit Auskultation der Aorta abdominalis und Aa. renales",
+      "Keine Ödeme",
+      "Kein Kältegefühl",
+      "Keine Temperaturveränderung",
+      "Keine sichtbaren Veränderungen",
+      "Große Schwellung (Parotitis)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "pAVK",
+      "DD: TVT",
+      "DD: periphere Neuralgie"
+    ],
+    "diagnostic_approach": [
+      "Anamnese und subjektive Beschwerden",
+      "Klinische Untersuchung",
+      "ABI (Ankle-Brachial-Index)",
+      "Stadieneinteilung nach Fontaine",
+      "Langzeit-Blutdruckmessung"
+    ]
+  },
+  {
+    "title": "Distale Tibia-Schaftfraktur mit Fibulafraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Distale Tibia Schaftfraktur (Keilfraktur)",
+      "Proximale Fibulafraktur",
+      "Distale Fibulafraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Distale Tibia-Schaftfraktur mit Fibulafrakturen"
+    ],
+    "diagnostic_approach": [
+      "Bildgebung (Röntgen)",
+      "pDMS-Kontrolle postoperativ",
+      "Thrombozytenkontrolle bei Heparingabe"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 60/148) enthält **keine klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Informationen zu klinischen Scores** (CHA2DS2-VASc, HAS-BLED, GRACE, Wells, TIMI, APACHE II, SOFA, qSOFA, ASA, GCS, NIHSS, etc.)\n\n2. **Fachfragen mit theoretischen Antworten:**\n   - **FRAGE 190:** Anatomie und Funktion der Plazenta (rein theoretische Wissensfrage)\n   - **FRAGE 191:** Pathophysiologie der Metformin-induzierten Laktatazidose (theoretische Erklärung ohne konkreten Patientenfall)\n   - **FRAGE 192:** Entgiftungsprozesse in der Leber/Enzyme (theoretische Aufzählung, unvollständig abgeschnitten)\n\nEs werden **keine konkreten Patienten** mit spezifischen:\n- Beschwerden\n- Untersuchungsbefunden\n- Bildgebungsergebnissen\n- Verlaufsdaten\n\nbeschrieben. Alle Inhalte sind rein didaktisch/theoretisch für Prüfungsvorbereitung aufbereitet."
+  }
+]

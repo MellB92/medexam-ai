@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 35/155) enthält **keine vollständigen klinischen Patientenfälle oder Präsentationsfälle**.\n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischem Lehrmaterial** zu:\n   - Pneumothorax (Diagnostik, Therapie, Komplikationen)\n   - COPD (Definition, Ätiologie, Klassifikation, Symptome, Diagnostik)\n\n2. **Differentialdiagnostischen Tabellen** (z.B. Asthma bronchiale vs. COPD)\n\n3. **Klassifikationssystemen** (GOLD-Klassifikation)\n\n4. **Diagnostischen und therapeutischen Algorithmen**\n\nEs werden zwar klinische Symptome und Befunde beschrieben (z.B. \"Starke Dyspnoe und Thoraxschmerzen → V.a. Spannungspneumothorax\"), aber dies sind **allgemeine diagnostische Kriterien** und keine konkreten Patientenfälle mit individuellen Charakteristika wie Alter, Geschlecht, spezifischem Unfallhergang oder einer narrativen Fallpräsentation."
+  }
+]

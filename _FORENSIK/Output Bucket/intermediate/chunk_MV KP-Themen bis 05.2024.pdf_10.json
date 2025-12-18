@@ -1,0 +1,351 @@
+[
+  {
+    "title": "Abgeschlagener Patient mit anhaltendem trockenem Husten",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Abgeschlagenheit",
+      "anhaltender trockener Husten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "kein Auswurf"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom",
+      "Tuberkulose"
+    ],
+    "diagnostic_approach": [
+      "Bronchoskopie bei zentralem Tumor",
+      "transthorakale oder thorakoskopische Biopsie bei peripherem Tumor",
+      "Biopsie mit Schlinge und Bronchialsekret"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Leberzirrhose-Patient mit Leberrundherden im CT",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Gewichtsabnahme",
+      "Müdigkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Leberzirrhose"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT mit Leberrundherde",
+      "Hypodense Leberläsion",
+      "CT in arterieller Phase"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "HCC (Hepatozelluläres Karzinom)"
+    ],
+    "diagnostic_approach": [
+      "Sonografie",
+      "CT-Abdomen",
+      "Child-Pugh-Score"
+    ],
+    "treatment_response": [
+      "Lebertransplantation geplant"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit Ikterus und Choledochusstein",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Ikterus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "ERCP mit großem Stein"
+    ],
+    "laboratory_findings": [
+      "Cholestaseparameter erhöht"
+    ],
+    "suspected_diagnosis": [
+      "posthepatischer Ikterus",
+      "Choledocholithiasis"
+    ],
+    "diagnostic_approach": [
+      "ERCP"
+    ],
+    "treatment_response": [
+      "Papillotomie"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "60-jähriger Patient mit unteren gastrointestinalen Blutungen",
+    "patient_age": "60-jähriger",
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "untere gastrointestinale Blutungen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kolorektalkarzinom",
+      "Divertikulitis",
+      "Divertikulose",
+      "CED (Chronisch-entzündliche Darmerkrankung)"
+    ],
+    "diagnostic_approach": [
+      "Koloskopie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Kolonkarzinom im Colon ascendens",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "semizerkuläre Raumforderung im Colon ascendens"
+    ],
+    "imaging_findings": [
+      "semizerkuläre Raumforderung im Colon ascendens",
+      "Staging: uT3 uN1 cM0 R0"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kolonkarzinom",
+      "Adenokarzinom"
+    ],
+    "diagnostic_approach": [
+      "Staging",
+      "Tumorkonferenz",
+      "mindestens 12 Lymphknoten zur Resektion"
+    ],
+    "treatment_response": [
+      "Hemikolektomie rechts mit totaler mesokolischer Exzision und Lymphknotenresektion",
+      "adjuvante Therapie mit Folfox-Schema"
+    ],
+    "complications": [],
+    "follow_up": [
+      "adjuvante Chemotherapie nach OP"
+    ]
+  },
+  {
+    "title": "Patient mit Hämatemesis in Notaufnahme",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Hämatemesis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalparameter kontrolliert"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax: Hohlorganperforation",
+      "Fremdmaterial sichtbar: Schrittmacher und Port"
+    ],
+    "laboratory_findings": [
+      "Blutentnahme durchgeführt"
+    ],
+    "suspected_diagnosis": [
+      "obere gastrointestinale Blutung",
+      "Magenkarzinom"
+    ],
+    "diagnostic_approach": [
+      "Vitalparameter",
+      "venöse Zugänge",
+      "parenterale Volumenzusfuhr",
+      "PPI-Gabe",
+      "ÖGD",
+      "Forrest-Klassifikation",
+      "Staging für Magen-Ca"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Hohlorganperforation"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit langanhaltendem Sodbrennen",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "langanhaltend Sodbrennen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Ulkus",
+      "GERD (Gastroösophageale Refluxkrankheit)"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patientin mit GERD und multiplen Voroperationen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Refluxösophagitis",
+      "Reflux"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "viele Erkrankungen",
+      "mehrmals operiert",
+      "adipös (dolent)"
+    ],
+    "comorbidities": [
+      "Hiatus Hernie"
+    ],
+    "risk_factors": [
+      "Adipositas",
+      "Druckdifferenz zwischen Thorax und Abdomen"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "GERD",
+      "Refluxösophagitis"
+    ],
+    "diagnostic_approach": [
+      "medikamentöse Therapie",
+      "chirurgische Therapie bei Hiatus Hernie"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Regurgitation"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit epigastrischen Schmerzen und Helicobacter pylori",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "epigastrische Schmerzen",
+      "Säureaufstoßen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "positiv für HP (Helicobacter pylori)"
+    ],
+    "suspected_diagnosis": [
+      "GERD",
+      "Ulkus ventriculi/duodeni",
+      "bei Therapieresistenz: Karzinom"
+    ],
+    "diagnostic_approach": [
+      "ÖGD",
+      "pH-Messung",
+      "bei Therapieversagen: Antibiogramm"
+    ],
+    "treatment_response": [
+      "Triple-Therapie (französisches oder italienisches Protokoll)",
+      "keine Milch mit Clarithromycin"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Kontrolle bei therapieresistentem Ulkus"
+    ]
+  }
+]

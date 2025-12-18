@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Frau Schuster mit Verdacht auf entzündliche Darmerkrankung\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"blutige Durchfälle\", \"Bauchschmerzen\", \"Ödeme\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Ödeme\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Colitis ulcerosa\", \"Infektiöse Gastroenteritis (Salmonellen, Campylobacter, Shigellen)\", \"Morbus Crohn\", \"Divertikulitis\", \"Reizdarmsyndrom\", \"Kolorektales Karzinom\", \"Mikroskopische Kolitis\", \"Ischämische Kolitis\"],\n    \"diagnostic_approach\": [\"Labordiagnostik: Blutbild, CRP, BSG, Elektrolyte, Leber- und Nierenwerte\", \"Stuhluntersuchungen (pathogene Keime, Calprotectin)\", \"Abdomensonographie\", \"Koloskopie mit Biopsie\", \"EKG (zum Ausschluss kardialer Ursachen bei Ödemen)\", \"bei Anämie: Ferritin, Transferrinsättigung, Serum-Eisen, Retikulozytenzahl, Vitamin B12, Folsäure\"]\n  }\n]\n```"
+  }
+]

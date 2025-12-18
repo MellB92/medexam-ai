@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischem Wissen zur Strahlendokumentation** (RöV-Anforderungen)\n2. **Frage 316: \"Wie misst man Strahlenbelastung?\"** - Eine allgemeine Wissensfrage\n3. **Systematischer Antwort mit:**\n   - Grundlegenden Strahlenschutz-Einheiten (Gray, Sievert, Becquerel)\n   - Gesetzlichen Grenzwerten nach RöV und StrlSchV\n   - Messmethoden (Dosimeter, Messgeräte)\n   - Typischen Strahlenexpositionen (Beispielwerte für verschiedene Untersuchungen)\n   - Dokumentationspflichten\n\nEs handelt sich um **rein theoretisches Prüfungswissen** für die Kenntnisprüfung ohne konkreten Patientenfall, Anamnese, Symptome oder klinische Präsentation."
+  }
+]

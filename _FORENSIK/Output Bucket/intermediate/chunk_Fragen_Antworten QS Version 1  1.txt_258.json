@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. \n\nEs handelt sich um:\n- **Allgemeine Reanimationsrichtlinien** (Basic Life Support/BLS-Algorithmus)\n- **Theoretisches Wissen** über kardiopulmonale Reanimation\n- **Standardverfahren** für Thoraxkompressionen, Atemwegsmanagement und AED-Einsatz\n- **Keine spezifischen Patientenpräsentationen** mit individuellen Beschwerden, Befunden oder diagnostischen Überlegungen\n\nEs fehlen alle Elemente eines klinischen Falls:\n- Kein Patient mit Alter/Geschlecht\n- Keine Hauptbeschwerden\n- Keine Anamnese oder Unfallhergang\n- Keine individuelle körperliche Untersuchung\n- Keine Bildgebung oder Laborwerte\n- Keine spezifische Diagnosestellung\n\nDies ist rein **didaktisches Material** zur Vermittlung von Reanimationsprotokollen."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle**. \n\nDer Text besteht aus:\n\n1. **Theoretischen Prüfungsfragen** zu verschiedenen medizinischen Themen:\n   - Röntgen-Thorax-Befundung\n   - Rechtliche Begriffe (Approbation, Fachkunde, Sachkunde)\n   - Lebertumoren (FNH, Hämangiom, etc.) - rein theoretisch\n   - Denguefieber - theoretisches Wissen\n   - Akutes Nierenversagen (ANV) - theoretische Ursachen\n   - EKG-Interpretation - abgebrochener Fall am Ende\n\n2. **Fragmentierte/unvollständige Fälle:**\n   - Der Röntgen-Thorax-Fall am Anfang ist Teil einer allgemeinen Befundungsdiskussion ohne konkrete Patientenvorstellung\n   - Der EKG-Fall am Ende (\"Der Patient kam mit Synkope bei unbek.\") ist **abgeschnitten** und daher nicht vollständig\n\n3. **Keine konkreten Patientenpräsentationen** mit:\n   - Alter/Geschlecht\n   - Anamnese\n   - Klinischer Vorstellung\n   - Vollständiger diagnostischer/therapeutischer Aufarbeitung\n\nAlle Inhalte sind Prüfungsfragen mit theoretischen Antworten, keine echten klinischen Fallpräsentationen."
+  }
+]

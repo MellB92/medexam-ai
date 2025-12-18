@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 4/84) enthält **keine klinischen Patientenfälle**. \n\nDer Abschnitt besteht ausschließlich aus:\n\n1. **Abkürzungsverzeichnis** (PTH, PTT, QF, qSOFA, RA, RAAS, etc.) - eine alphabetische Liste medizinischer Abkürzungen und deren Bedeutungen\n\n2. **Quellenverzeichnis** - Literaturangaben und Referenzen (AWMF-Leitlinien, Lehrbücher von Güthoff, Herold, Müller, etc.)\n\n3. **Inhaltsverzeichnis** - Kapitelübersicht des Buches mit Themen wie:\n   - Grundlagen (Epikrise, Patientenvorstellung)\n   - Körperliche Untersuchung (Herz, Lunge, Abdomen)\n   - Innere Medizin (Hyperthyreose, Hypothyreose, Diabetes mellitus, Herzinsuffizienz, etc.)\n\nEs handelt sich um **Metainformationen und Strukturelemente** eines medizinischen Lehrbuchs (\"Lernkarten zum mündlichen Stex\"), nicht um konkrete Patientenfälle mit Anamnese, Befunden oder klinischen Präsentationen."
+  }
+]

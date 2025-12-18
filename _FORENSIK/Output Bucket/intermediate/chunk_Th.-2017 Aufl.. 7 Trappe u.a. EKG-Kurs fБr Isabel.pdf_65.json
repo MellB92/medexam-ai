@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text ist ein **Lehrbuchkapitel** (EKG-Kurs) und beschreibt:\n\n1. **Brugada-Syndrom** (Lektion 27):\n   - Theoretische Beschreibung der EKG-Typen I-III\n   - Diagnostische Kriterien\n   - Pharmakologische Testverfahren\n   - Allgemeine Charakteristika der Erkrankung\n\n2. **Arrhythmogene rechtsventrikuläre Dysplasie/Kardiomyopathie (ARVD/C)** (Lektion 28):\n   - Pathophysiologie und Genetik\n   - Typische EKG-Befunde (Epsilon-Potenzial, T-Negativierungen)\n   - Tachykardie-Muster\n   - Allgemeine epidemiologische Daten (z.B. \"Verhältnis Männer:Frauen 6:1\")\n\nEs werden zwar **typische klinische Präsentationen** erwähnt (z.B. \"jüngere, scheinbar herzgesunde Patienten\", \"Palpitationen, Herzrasen oder Synkopen\"), aber dies sind **keine individuellen Patientenfälle**, sondern **allgemeine Beschreibungen** typischer Manifestationen dieser Erkrankungen.\n\nDie EKG-Abbildungen (Abb. 28.1, 28.2, 28.3) sind **Beispiel-EKGs** zur Illustration der theoretischen Konzepte, nicht dokumentierte Einzelfälle mit vollständiger klinischer Präsentation."
+  }
+]

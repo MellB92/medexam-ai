@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Dialysepatient mit metabolischer Azidose und Hyperkaliämie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Dialyseausfall seit 3-4 Tagen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Nierenversagen",
+      "Dialysepflichtigkeit"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "pH 7,1",
+      "K 5,6",
+      "Na 150",
+      "BE -12",
+      "pCO2 normal"
+    ],
+    "suspected_diagnosis": [
+      "Metabolische Azidose mit Hyperkaliämie und Hypernatriämie"
+    ],
+    "diagnostic_approach": [
+      "Blutgasanalyse",
+      "Sofortige Einleitung einer Dialyse"
+    ]
+  },
+  {
+    "title": "Patient mit Vorhofflimmern im EKG",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG zeigt Vorhofflimmern (VHF)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vorhofflimmern (VHF)"
+    ],
+    "diagnostic_approach": [
+      "EKG"
+    ]
+  },
+  {
+    "title": "Hüftfraktur nach Fahrradsturz",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Hüftfraktur"
+    ],
+    "accident_mechanism": "Sturz vom Fahrrad",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Hüftfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hüftfraktur"
+    ],
+    "diagnostic_approach": [
+      "Bildgebung",
+      "Klassifikation nach Garden oder Weber"
+    ]
+  },
+  {
+    "title": "Pneumohemothorax im Röntgen-Thorax",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Pneumohemothorax",
+      "Luft und Blut im Pleuraspalt",
+      "Kollabierte Lunge"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pneumohemothorax"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax",
+      "Thoraxdrainage (Bülau-Drainage)"
+    ]
+  }
+]

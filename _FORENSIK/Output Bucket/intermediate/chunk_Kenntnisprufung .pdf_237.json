@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Multiples Myelom bei 67-jähriger Patientin mit B-Symptomen und Knochenschmerzen",
+    "patient_age": "67 Jahre",
+    "patient_gender": "weiblich",
+    "severity": "severe",
+    "chief_complaints": [
+      "Seit 4 Wochen grippeähnliche Symptome",
+      "Trockener Husten",
+      "Schmerzen im rechten Rippenbogen",
+      "Rückenschmerzen",
+      "Schmerzen im rechten Arm",
+      "Inappetenz",
+      "Müdigkeit bei Anstrengung",
+      "Gewichtsverlust 8 kg in 6 Monaten",
+      "Übermäßiger Nachtschweiß",
+      "Fieber (nicht gemessen)",
+      "Schlaflosigkeit",
+      "Verstopfung",
+      "Veränderung des Urins",
+      "Herzklopfen seit zwei Jahren"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Rhinitis seit der Kindheit",
+      "Thrombose im Bein mit 55 Jahren (nicht behandelt, fragliche Diagnose)",
+      "Z.n. schwerem Autounfall mit 45 Jahren mit gebrochenen Rippen",
+      "Z.n. Ellenbogen-Arthroskopie vor 2 Jahren"
+    ],
+    "comorbidities": [
+      "Allergische Rhinitis"
+    ],
+    "risk_factors": [
+      "Postmenopause seit 17 Jahren",
+      "Höheres Alter"
+    ],
+    "family_history": [
+      "Vater 96 Jahre alt mit Herzproblemen",
+      "Mutter verstorben mit 76 Jahren an Komplikation nach Gallenblasenoperation",
+      "Bruder verstorben mit 56 Jahren an entzündlicher Darmerkrankung"
+    ],
+    "social_history": [
+      "Im Ruhestand",
+      "Früher als Buchhändlerin gearbeitet",
+      "Verheiratet, lebt mit Ehemann zusammen",
+      "Zwei gesunde Töchter",
+      "Nie geraucht",
+      "Trinkt fast nie Alkohol",
+      "Nie Drogen",
+      "Spielt Golf"
+    ],
+    "medications": [
+      "Ducolax bei Bedarf",
+      "Cetirizin 1-0-0 (Dosis unbekannt)",
+      "Ibuprofen 400 mg bei Bedarf",
+      "Olynt Nasenspray"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Größe 172 cm",
+      "Gewicht 80 kg",
+      "Blutdruck beidseitig zu messen"
+    ],
+    "physical_examination": [
+      "Lungenuntersuchung durchgeführt",
+      "Herzuntersuchung durchgeführt",
+      "Bauchuntersuchung durchgeführt",
+      "Pulse abgetastet",
+      "Ergebnisse im dritten Teil mitgeteilt"
+    ],
+    "imaging_findings": [
+      "Röntgen-Thorax: keine Veränderungen"
+    ],
+    "laboratory_findings": [
+      "BSG erhöht (möglicherweise über 100)",
+      "Urinveränderung (nicht näher spezifiziert)"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom (Morbus Kahler)",
+      "MGUS (Monoklonale Gammopathie unklarer Signifikanz)",
+      "Smouldering Myelom"
+    ],
+    "diagnostic_approach": [
+      "BSG",
+      "Elektrophorese",
+      "Urinuntersuchung",
+      "Peripherer Blutausstrich",
+      "Knochenbiopsie",
+      "Stadien-Einteilung bei Multiplem Myelom",
+      "Blutdruckmessung beidseitig"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

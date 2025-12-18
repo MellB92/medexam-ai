@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Achalasie bei 46-jähriger Frau mit retrosternalen Schmerzen und Gewichtsverlust",
+    "patient_age": "46 Jahre",
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "Seit ca. 6 Monaten retrosternale, postprandiale Schmerzen (nicht ausstrahlend, progredient)",
+      "Foetor ex ore",
+      "Aufstoßen",
+      "Zeitweise Dyspnoe",
+      "Globusgefühl, eher retrosternal",
+      "6 kg Gewichtsverlust in den letzten 6 Monaten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Zustand nach Appendektomie",
+      "Rezidivierende Harnwegsinfekte",
+      "Z.n. Motorradunfall mit Oberarmfraktur (konservativ mit Gips behandelt)",
+      "Mumps in der Kindheit",
+      "Windpocken in der Kindheit",
+      "Chronische Schmerzen im LWS-Bereich"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater an Herzerkrankung verstorben",
+      "Mutter vor Kurzem wegen Struma operiert",
+      "Bruder an AIDS verstorben",
+      "Zweiter Bruder mit Entzündung am großen Zeh"
+    ],
+    "social_history": [],
+    "medications": [
+      "Ibuprofen bei Bedarf",
+      "Ein Mittel gegen Aufstoßen"
+    ],
+    "allergies": [
+      "Erdnüsse",
+      "Penicillin (Urtikaria)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Achalasie",
+      "Ösophaguskarzinom",
+      "Struma maligna",
+      "GERD"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

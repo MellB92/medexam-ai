@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 477/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nEs handelt sich ausschließlich um:\n\n1. **Theoretische Prüfungsfragen** mit Standardantworten zu verschiedenen Themen:\n   - Anämie-Diagnostik (Fragen 1-4)\n   - Vorderwandinfarkt-Therapie (Frage 5)\n   - Cheyne-Stokes-Atmung (Frage 6)\n   - Perikarditis (Frage 7) - zwar wird ein \"junger, sportlicher Patient\" erwähnt, aber es fehlen konkrete Details wie Alter, spezifische Symptome, Vorgeschichte etc.\n   - Hypoaldosteronismus (Fragen 8-9)\n   - Koxarthrose (Fragen 10-14)\n   - Endoprothesen-Komplikationen (Fragen 15-16)\n   - Sprunggelenksfrakturen (Fragen 17-18)\n   - Ileus (Fragen 19-20)\n   - Arterieller Verschluss (Frage 21)\n\n2. **Generische Lehrbuchinhalte** ohne konkrete Patientenvorstellung\n\nBei Frage 7 wird zwar ein Patient beschrieben (\"junger, sportlicher Patient mit Fieber, Leistungsminderung und Kardiomegalie\"), jedoch fehlen:\n- Konkretes Alter\n- Geschlecht\n- Detaillierte Anamnese\n- Spezifische Untersuchungsbefunde\n- Labordaten\n\nDies ist eine **theoretische Aufgabenstellung**, kein vollständiger klinischer Fall."
+  }
+]

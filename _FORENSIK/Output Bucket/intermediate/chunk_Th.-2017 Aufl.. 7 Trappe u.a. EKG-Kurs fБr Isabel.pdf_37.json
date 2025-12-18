@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 38/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\" von Trappe) und enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer Text behandelt ausschließlich theoretisches Wissen über:\n- Erregungsrückbildungsstörungen bei Hypertrophie\n- Digitalis-bedingte EKG-Veränderungen (Halbseiteneffekt)\n- ST-Strecken-Veränderungen bei Schenkelblock\n- Veränderungen bei Präexzitationssyndromen\n- T-Wellen-Veränderungen bei verschiedenen Zuständen\n\nEs werden zwar hypothetische Patientensituationen beschrieben (z.B. \"ein Patient mit einer Linksherzhypertrophie, der Digitalis erhält\"), aber dies sind **didaktische Beispiele** zur Erklärung von EKG-Phänomenen, keine konkreten klinischen Fallpräsentationen mit individuellen Patienten, Anamnese, Untersuchungsbefunden oder diagnostischem Vorgehen."
+  }
+]

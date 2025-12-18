@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 203/284) enthält **keine vollständigen klinischen Patientenfälle**.\n\nDer Abschnitt behandelt:\n\n1. **Dokumentationspflichten bei Strahlenexposition** - technische/administrative Anforderungen:\n   - CT-Dosislängenprodukt\n   - Anzahl der Aufnahmen\n   - Röntgenpass-Dokumentation\n   - Qualitätssicherung nach DIN 6868-3\n   - Grenzwerte für Strahlenexposition\n\n2. **FRAGE 342: Metamizol Ampullendosis** - reine Arzneimittelinformation:\n   - Dosierungsangaben (2,5g/5ml)\n   - Maximaldosen\n   - Applikationshinweise\n\nDies sind **allgemeine Wissensfragen und administrative Vorgaben**, keine klinischen Patientenpräsentationen mit Anamnese, Befunden und diagnostischem Vorgehen."
+  }
+]

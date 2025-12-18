@@ -1,0 +1,220 @@
+[
+  {
+    "title": "Herzinsuffizienz bei Myokarditis mit beidseitigen Beinödemen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Ödeme an beiden Füßen",
+      "Dyspnoe bei geringer Belastung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Schilddrüsenunterfunktion",
+      "Hypovitaminose D",
+      "Fraktur Bein rechts im 6. Lebensjahr (konservativ behandelt)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Nichtraucherin",
+      "Gelegenheitsalkoholikerin"
+    ],
+    "medications": [
+      "L-Thyroxin 88 Mikrogramm einmal täglich",
+      "Vitamin D Kapsel einmal täglich"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Tachykardie"
+    ],
+    "physical_examination": [
+      "Ödeme beidseitig an Füßen",
+      "Klinische Untersuchung nicht unauffällig"
+    ],
+    "imaging_findings": [
+      "Echo: Klappenveränderungen, Wandbewegungsstörungen, reduzierte LV-Funktion, evtl. Perikarderguss bei Perikardbeteiligung (Myoperikarditis)",
+      "Röntgen-Thorax: Schmetterlingsödem, Kerley-B-Linien"
+    ],
+    "laboratory_findings": [
+      "CK",
+      "CK-MB",
+      "Troponin",
+      "BSG",
+      "CRP",
+      "AMLA",
+      "ANA",
+      "ASA",
+      "Blutkultur",
+      "dauerhaft Troponin-Erhöhung"
+    ],
+    "suspected_diagnosis": [
+      "Herzinsuffizienz bei Myokarditis",
+      "Rechts- und linksseitige Herzinsuffizienz",
+      "Endokarditis (DD)",
+      "Myoperikarditis (DD)"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Kardio-MRT",
+      "Echokardiographie",
+      "Myokardbiopsie mit Virus-PCR",
+      "Röntgen-Thorax",
+      "Labor: CK, CK-MB, Troponin, BSG, CRP, AMLA, ANA, ASA, Blutkultur"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Ulkus im Pylorus",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Endoskopie: Antrum und Pylorus mit Geschwür im Pylorus"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Ulkus im Pylorus"
+    ],
+    "diagnostic_approach": [
+      "Endoskopie",
+      "H. pylori-Diagnostik"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Karzinom (Risiko)",
+      "Blutung (Risiko)",
+      "Anämie (Risiko)"
+    ],
+    "follow_up": [
+      "Kontrolle nach Therapie nach 10-14 Tagen"
+    ]
+  },
+  {
+    "title": "Abdominale Verletzung mit Darmperforation nach Schlägerei",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Abdomenschmerzen"
+    ],
+    "accident_mechanism": "Schlägerei zwischen zwei Gefangenen",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Gefangener"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Prellmarke am Abdomen"
+    ],
+    "imaging_findings": [
+      "Röntgen-Thorax mit Abdomenübersicht: Freie Luft unter rechter Zwerchfellkuppe (Darm- oder Magenperforation)",
+      "EFAST: Flüssigkeit in Morrison, Koller-Pouch, Douglas-Raum (bei Frau) bzw. Proust-Raum (bei Mann)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Darmperforation",
+      "Magenperforation",
+      "Ruptur oder Verletzung im Bereich Thorakal-Duodenum (DD)",
+      "Ulkus (als schnelle Ursache für Darmperforation)"
+    ],
+    "diagnostic_approach": [
+      "SAMPLER-Anamnese",
+      "Gezielte klinische Untersuchung",
+      "Röntgen-Thorax mit Abdomenübersicht",
+      "EFAST"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Notfall-Laparotomie",
+      "Chirurgisches Fach/Oberarzt kontaktieren"
+    ]
+  },
+  {
+    "title": "Femurschaftfraktur links bei Kind",
+    "patient_age": "Kind",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Oberschenkel rechts AP-Aufnahme: Kind mit sichtbarer Epiphysenfuge links, Femurschaftfraktur mit Winkel 170 Grad"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Femurschaftfraktur links"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Oberschenkel AP"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Behandlung mit elastischer Marknagelung"
+    ]
+  },
+  {
+    "title": "Femurschaftfraktur rechts bei Erwachsenem",
+    "patient_age": "Erwachsener",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Oberschenkel rechts mit Femurschaftfraktur, einfache schräge Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Femurschaftfraktur rechts, einfache schräge Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Oberschenkel"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Osteomyelitis (bei Plattenosteosynthese)"
+    ],
+    "follow_up": [
+      "Behandlung mit Marknagelung",
+      "Alternative: Platten- und Schraubenosteosynthese"
+    ]
+  }
+]

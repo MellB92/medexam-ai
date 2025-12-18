@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Polytrauma nach LKW-Unfall mit Sekundenschlaf\",\n    \"patient_age\": \"58 Jahre\",\n    \"patient_gender\": \"m\",\n    \"chief_complaints\": [\"Bauchschmerzen\", \"kurz eingenickt\"],\n    \"accident_mechanism\": \"LKW-Unfall, Patient ist kurz eingenickt\",\n    \"pre_existing_conditions\": [\"arterielle Hypertonie\", \"OSAS\", \"Z.n. Paratroidektomie\", \"Z.n. Achillessehnenruptur OP\"],\n    \"medications\": [],\n    \"allergies\": [\"Bienenallergie\", \"Desensitisierung Therapie\"],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Polytrauma\", \"Stumpfes Bauchtrauma\"],\n    \"diagnostic_approach\": [\"FAST\", \"Polytrauma CT\", \"ABCDE Schema\"]\n  }\n]\n```"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle**. \n\nEs handelt sich ausschließlich um:\n\n1. **Prüfungsfragen ohne dokumentierte Antworten** (Fragen 5-13 im ersten Teil)\n   - Diese Fragen behandeln theoretisches Wissen (z.B. Mechanismus der Fettgewebsnekrose bei Marcumar, Neuner-Regel bei Verbrennungen, Todeszeichen)\n   - Keine konkreten Patientenfälle mit klinischer Präsentation\n\n2. **Theoretische Fragen mit teilweise dokumentierten Antworten** (Fragen 2-9 im zweiten Teil)\n   - Frage zu Schilddrüsenparametern (theoretisch)\n   - Frage zu autoimmunen Thyreoiditiden (theoretisch)\n   - Frage zu Gallengangsstenose (DD-Frage ohne Patientenkontext)\n   - Frage zu Gefäßstrukturen in der Sonographie (technisch)\n   - EKG-Befunde (isolierte Befunde ohne Patientenkontext)\n   - Schultergelenksluxation (theoretische Fragen zu Ursachen, Nervenverletzungen, Repositionstechniken)\n\nZwar werden einzelne klinische Elemente erwähnt (z.B. \"Erythema migrans\", \"anaphylaktischer Schock\", \"Pleuraerguss\", \"Schultergelenksluxation\"), diese sind jedoch **nicht als vollständige Patientenfälle** präsentiert, sondern als isolierte Prüfungsthemen ohne zusammenhängende Falldarstellung mit Anamnese, Befunden und diagnostischem Vorgehen."
+  }
+]

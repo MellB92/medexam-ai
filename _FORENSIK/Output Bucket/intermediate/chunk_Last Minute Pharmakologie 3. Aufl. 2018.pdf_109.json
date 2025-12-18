@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 110/115) aus \"Last Minute Pharmakologie, 3. Aufl. (2018).pdf\" enthält **keine klinischen Patientenfälle**.\n\nEs handelt sich um einen **Index/Stichwortverzeichnis** pharmakologischer Wirkstoffe mit folgender Struktur:\n- Medikamentennamen (z.B. \"Ledispavir\", \"Leflunomid\", \"Lithium\")\n- Wirkstoffklassen (z.B. \"Virustatikum\", \"Pyrimidinsynthesehemmer\", \"Neuroleptikum\")\n- Indikationen (z.B. \"rheumatoide Arthritis\", \"Intoxikation\")\n- Seitenzahlen\n\nEs gibt keine:\n- Patientenvorstellungen\n- Anamnesen\n- Klinische Beschwerden\n- Untersuchungsbefunde\n- Diagnostische Abklärungen\n- Fallbeschreibungen\n\nDies ist reines Nachschlage-/Indexmaterial ohne narrative klinische Fälle."
+  }
+]

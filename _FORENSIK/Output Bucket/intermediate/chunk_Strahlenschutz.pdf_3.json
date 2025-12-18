@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text behandelt ausschließlich theoretisches Wissen zum Thema Strahlenschutz, darunter:\n\n- Strahlenschutzbereiche (Sperrbereich, Kontrollbereich, etc.)\n- Streustrahlung und ihre Vermeidung\n- Überwachung von medizinischem Personal\n- Schutzregeln für Patienten\n- Zelluläre Reaktionen auf ionisierende Strahlung\n- Dosis-Effekt-Kurven\n- Deterministische vs. stochastische Strahlenschäden\n- Strahlenempfindlichkeit verschiedener Gewebe\n- Strahlenschäden an Organen (als theoretische Auflistung)\n- Technische Fragen zu Röntgenröhren\n\nEs gibt keine Beschreibung konkreter Patienten mit Alter, Geschlecht, spezifischen Beschwerden, Unfallhergang oder individuellen Befunden. Die erwähnten Beispiele (z.B. \"Bronchialkarzinom nach Radon-Exposition\", \"Radiodermatitis ab 2 Gy\") sind rein theoretische Illustrationen von Strahlenschäden, keine konkreten Fallpräsentationen."
+  }
+]

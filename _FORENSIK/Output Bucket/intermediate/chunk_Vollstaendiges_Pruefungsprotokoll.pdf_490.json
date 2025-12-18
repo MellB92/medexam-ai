@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Schneelawinenunfall mit Kammerflimmern und Hypothermie",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Kammerflimmern",
+      "Hypothermie"
+    ],
+    "accident_mechanism": "Schneelawinenunfall",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Bewusstlosigkeit",
+      "Kreislaufstillstand"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kammerflimmern bei Hypothermie",
+      "Kreislaufstillstand"
+    ],
+    "diagnostic_approach": [
+      "Sicherung der Unfallstelle",
+      "Sofortige CPR",
+      "Defibrillation gemäß ERC-Algorithmus (max. 3 Versuche bei Hypothermie)",
+      "Wärmeerhaltung",
+      "Wärmezufuhr (warme Infusionen, ggf. ECMO)",
+      "Fortführung der Reanimation über längere Zeiträume",
+      "Transport in Klinik mit ECMO-Möglichkeit"
+    ]
+  }
+]

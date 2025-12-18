@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Nebennieren-Inzidentalom mit arterieller Hypertonie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "arterielle Hypertonie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [
+      "COPD",
+      "Emphysem",
+      "Vorhofflimmern"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "systolischer Blutdruck 165 mmHg"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Ultraschall: Nebennierentumor",
+      "Röntgen-Thorax: Emphysem",
+      "EKG: Vorhofflimmern"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Nebennieren-Inzidentalom",
+      "Conn-Syndrom",
+      "Cushing-Syndrom",
+      "Phäochromozytom"
+    ],
+    "diagnostic_approach": [
+      "Ausschluss Phäochromozytom",
+      "Ausschluss Conn-Syndrom",
+      "Ausschluss Cushing-Syndrom",
+      "Überlegung MEN-Syndrom",
+      "Prüfung auf bilaterale Beteiligung",
+      "Alpha-1-Antitrypsin-Bestimmung",
+      "Endosonographie (wegen Invasion und TNM)",
+      "MRT (Metastasen in Lymphknoten)",
+      "CT (Lunge)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

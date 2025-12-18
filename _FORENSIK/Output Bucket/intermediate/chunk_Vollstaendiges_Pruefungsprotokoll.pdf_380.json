@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Postoperatives Delir nach Fraktur-OP",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "völlig durcheinander",
+      "schreit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Fraktur-OP"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Postoperatives Delir"
+    ],
+    "diagnostic_approach": [
+      "Ursachen ausschließen"
+    ]
+  },
+  {
+    "title": "Rückenschmerzen mit Ausstrahlung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Rückenschmerzen",
+      "Ausstrahlung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Dermatome L3, L4, L5, S1"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bandscheibenvorfall"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung",
+      "Dermatomprüfung"
+    ]
+  },
+  {
+    "title": "Abgeschlagenheit, Heiserkeit und Haarausfall bei Bäckerei-Mitarbeiterin",
+    "patient_age": "38-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Abgeschlagenheit seit ein paar Wochen",
+      "Heiserkeit",
+      "Haarausfall"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "vor einem Monat Muttermal entfernt"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "hypochrome, mikrozytäre Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Hypothyreose",
+      "Eisenmangelanämie"
+    ],
+    "diagnostic_approach": [
+      "Labor",
+      "Parameter für Eisenmangel",
+      "Blutungsquelle ausschließen",
+      "Schilddrüsendiagnostik"
+    ]
+  }
+]

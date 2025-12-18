@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Sturz auf dem Weg zur Arbeit mit Knieschmerzen und Handplatzwunde",
+    "patient_age": "62 Jahre",
+    "patient_gender": "männlich",
+    "chief_complaints": [
+      "Linksseitige Knieschmerzen",
+      "Platzwunde rechte Hand",
+      "Heuschnupfen seit paar Wochen",
+      "Frischblut auf Klopapier vor 2 Tagen"
+    ],
+    "accident_mechanism": "Sturz auf dem Weg zur Arbeit auf gestrecktem Arm",
+    "pre_existing_conditions": [
+      "Asthma bronchiale als Kind",
+      "Z.n. Appendektomie 2021",
+      "Heuschnupfen",
+      "Hämorrhoiden bekannt",
+      "Fettstoffwechselstörung (vom Hausarzt festgestellt)"
+    ],
+    "medications": [
+      "Cetirizin",
+      "Nasenspray"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Linksseitige Knieschmerzen",
+      "Platzwunde rechte Hand"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Erhöhte Fettwerte im Blut"
+    ],
+    "suspected_diagnosis": [
+      "V.a. Innenmeniskusverletzung"
+    ],
+    "diagnostic_approach": [
+      "Klinische Knieuntersuchung",
+      "Ligamentprüfung",
+      "Test auf tanzende Patella",
+      "Punktion bei Erguss"
+    ]
+  },
+  {
+    "title": "V.a. Bronchialkarzinom bei bekannter COPD",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "COPD bekannt"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "V.a. Bronchialkarzinom",
+      "COPD",
+      "COPD-Exazerbation",
+      "Tuberkulose",
+      "Lungenembolie",
+      "Lungenödem"
+    ],
+    "diagnostic_approach": []
+  }
+]

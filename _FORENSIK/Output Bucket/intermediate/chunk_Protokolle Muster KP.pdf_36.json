@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Riesenzellarteriitis mit Polimyalgia rheumatica",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Schluckbeschwerden",
+      "Verschwommenes Sehen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie"
+    ],
+    "medications": [
+      "Paracetamol (in den letzten Tagen)"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Blutdruckmessung durchgeführt",
+      "Gefäßstatus: Puls A. dorsalis pedis getastet",
+      "Herz auskultiert",
+      "Lungen auskultiert",
+      "Bauch auskultiert",
+      "A. Temporalis verhärtet"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Kreatinin 2,2 mg/dl",
+      "Albuminurie",
+      "Alpha-2-Mikroglobulinurie",
+      "Gemischte Proteinurie"
+    ],
+    "suspected_diagnosis": [
+      "Riesenzellarteriitis mit Polimyalgia rheumatica",
+      "Hypertensive Nephropathie",
+      "Tubuläre Schädigung",
+      "DD: Morbus Wegener (Granulomatose mit Polyangiitis)"
+    ],
+    "diagnostic_approach": [
+      "Abtasten der A. Temporalis",
+      "cANCA",
+      "24h-Urin oder Spontanurin auf Albumin",
+      "Urinmikroskopie nach Zentrifugation (Sediment)",
+      "Hämaturie mit Erythrozytenzylindern bei tubulärer Nekrose",
+      "Differenzialblutbild (Eosinophilie bei tubulärer Nekrose)",
+      "Hochdosierte Glukokortikoidtherapie"
+    ]
+  }
+]

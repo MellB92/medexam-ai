@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 2/32) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** mit Standardantworten:\n   - FRAGE 692: Herzklappen-Auskultationspunkte (anatomisches Grundwissen)\n   - FRAGE 694: Herzbiomarker bei KHK (diagnostische Theorie)\n   - FRAGE 696: Ethik-Kommission (rechtlich-organisatorisches Wissen)\n   - FRAGE 697: Alkoholintoxikation (toxikologische Grenzwerte)\n   - FRAGE 700: BLS-Ablauf (nur als Überschrift erwähnt)\n\n2. **Allgemeinen medizinischen Informationen**:\n   - Auskultationspunkte und -techniken\n   - Biomarker-Kinetik und Grenzwerte\n   - Rechtliche Grundlagen\n   - Laborwert-Algorithmen\n\nEs werden **keine konkreten Patienten** mit individuellen Beschwerden, Untersuchungsbefunden oder Krankheitsverläufen beschrieben. Die Erwähnungen von Diagnosen (z.B. Lungenembolie, NSTEMI) erfolgen rein im theoretischen Kontext ohne Patientenbezug."
+  }
+]

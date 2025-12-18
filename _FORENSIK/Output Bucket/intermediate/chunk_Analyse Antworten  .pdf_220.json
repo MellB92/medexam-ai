@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n- **Prüfungsfragen und -antworten** zu verschiedenen medizinischen Themen (Niereninsuffizienz, Ulcus ventriculi, H. pylori, Drogenklassifikation, Johanniskraut, Vorhofflimmern, etc.)\n- **Theoretischen Wissensfragen** ohne konkrete Patientenszenarien\n- **Musterlösungen und Analysen** von Kandidatenantworten\n\nEs handelt sich um ein Prüfungsprotokoll/Analyseprotokoll der \"Kenntnispruefung-Allgemein-19.txt\" aus dem Jahr 2021, nicht um klinische Falldarstellungen mit konkreten Patienten, Anamnesen oder diagnostischen Szenarien."
+  }
+]

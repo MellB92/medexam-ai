@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 314/585) enthält ausschließlich theoretische Prüfungsfragen und -antworten zu verschiedenen medizinischen Themen, aber **keine vollständigen klinischen Patientenfälle**.\n\nDie Fragen behandeln:\n- Omarthrose und Humeruskopffrakturen (theoretisch)\n- Cholezystitis (Symptome und Pathomechanismus)\n- Mirizzi-Syndrom (Definition)\n- Erysipeloid (Definition)\n- Bradykardien und AV-Blockierungen (Klassifikation und Therapie)\n- Niereninsuffizienz (Parameter und Therapie)\n- Ulcus ventriculi und H. pylori (Diagnostik und Therapie)\n- Drogenklassifikation\n- Medikamenteninteraktionen\n- Sozialversicherungen in Deutschland\n- Eine einzelne Frage zur Leberuntersuchung (methodische Fehlerkorrektur)\n\n**Keiner dieser Einträge stellt einen konkreten Patientenfall mit:**\n- Spezifischem Patienten (Alter/Geschlecht)\n- Anamnese/Beschwerdebild\n- Untersuchungsbefunden\n- Diagnostischem Vorgehen an einem individuellen Fall\n\ndar. Es handelt sich ausnahmslos um theoretisches Faktenwissen in Frage-Antwort-Format."
+  }
+]

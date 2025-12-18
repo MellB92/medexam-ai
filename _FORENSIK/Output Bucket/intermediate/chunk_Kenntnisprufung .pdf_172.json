@@ -1,0 +1,220 @@
+[
+  {
+    "title": "Schub von Colitis Ulcerosa bei 31-jähriger Patientin",
+    "patient_age": "31 Jahre",
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen bei Palpation des linken Abdomens"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Colitis Ulcerosa"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Kein Fieber",
+      "Kein SIRS"
+    ],
+    "physical_examination": [
+      "Körperliche Untersuchung: Normal",
+      "Schmerzen bei der Palpation des linken Abdomens"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Leukozyten: 14.000",
+      "Hb: 8,2 g/dL (Anämie, mikrozytär, hypochrom)",
+      "CRP: 40"
+    ],
+    "suspected_diagnosis": [
+      "Schub von Colitis Ulcerosa"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Anämie"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "81-jährige Patientin mit geplanter TEP und Operationsbedenken",
+    "patient_age": "81 Jahre",
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "Bedenken bezüglich der Operation"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Tochter in den USA"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Keine Exsikkose",
+      "Keine Elektrolytstörungen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Normale Glukose"
+    ],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Chronische entzündliche Darmerkrankung - Colitis Ulcerosa bei 31-jähriger Patientin",
+    "patient_age": "31 Jahre",
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "Seit 5 Monaten blutige schleimige Diarrhoe",
+      "Krampfartige Abdomenschmerzen",
+      "B-Symptomatik"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Koloskopie: kontinuerliche Befall des Kolon mit Hyperämie und punktförmige Blutung in Schleimhaut sowie Fibirin Beläge"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Colitis Ulcerosa",
+      "Chronische entzündliche Darmerkrankung"
+    ],
+    "diagnostic_approach": [
+      "Koloskopie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Inkazerierte Leistenhernie bei Mann mit nächtlichen Leistenschmerzen",
+    "patient_age": null,
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "In der Nacht sehr starke Schmerzen in die Leiste"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Inkazerierte Hernie"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "In ZNA reponiert"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Kann entlassen werden mit Termin zur OP wenn keine Schmerzen"
+    ]
+  },
+  {
+    "title": "Sepsis mit Petechien und Fieber",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Fieber",
+      "Reduzierte AZ"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Fieber"
+    ],
+    "physical_examination": [
+      "Petechien auf der Haut",
+      "Reduzierte AZ"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sepsis"
+    ],
+    "diagnostic_approach": [
+      "SOFA und qSOFA"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Postoperatives Delir nach Schenkelhalsfraktur-OP bei 75-jähriger Patientin",
+    "patient_age": "75 Jahre",
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "Schreit",
+      "Verwirrt"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Schenkelhalsfraktur"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Verwirrt",
+      "Schreit"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Postoperatives Delir"
+    ],
+    "diagnostic_approach": [
+      "Andere Ursachen ausschließen"
+    ],
+    "treatment_response": [
+      "Haloperidol"
+    ],
+    "complications": [
+      "Postoperatives Delir"
+    ],
+    "follow_up": []
+  }
+]

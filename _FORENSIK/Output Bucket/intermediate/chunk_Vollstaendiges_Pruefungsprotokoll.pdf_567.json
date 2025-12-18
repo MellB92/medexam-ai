@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 568/585) enthält **keine vollständigen klinischen Patientenfälle** im Sinne von konkreten Patientenpräsentationen.\n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** aus einem Prüfungsprotokoll:\n   - Patientenrechte\n   - Nicht-medikamentöse Maßnahmen bei Harnwegsinfekten\n   - Krankheitsbilder (Morbus Basedow, Divertikulitis, Colles-Fraktur)\n   - Medikamentenwissen (Paracetamol in der Schwangerschaft, NSAIDs)\n   - Komplikationen von Operationen\n   - Risikofaktoren\n\n2. **Bildbeschreibungen ohne Patientenkontext**:\n   - \"Was ist auf dem Bild zu sehen?\" (Pneumothorax, Pneumoperitoneum, luxierte Hüft-TEP, Cholezystolithiasis)\n   - Diese sind theoretische Bildbefunde ohne konkrete Patientenanamnese\n\n3. **Allgemeine medizinische Wissensfragen**:\n   - Anatomie (Mediastinum, Gefäße/Nerven der Hüfte)\n   - Therapieoptionen\n   - Differentialdiagnosen (generisch, nicht patientenbezogen)\n\nEs fehlen bei allen erwähnten Szenarien die essentiellen Elemente eines klinischen Falls:\n- Konkrete Patientenangaben (Alter, Geschlecht)\n- Spezifische Anamnese\n- Individuelle Symptomatik/Beschwerden\n- Konkreter Vorstellungsgrund\n\nDaher: **Leeres Array**"
+  }
+]

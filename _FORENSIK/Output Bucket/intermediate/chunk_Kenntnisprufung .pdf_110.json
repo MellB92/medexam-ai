@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Teerstuhl bei Z.n. Osteosynthese mit starken Schmerzen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Teerstuhl",
+      "starke Schmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Osteosynthese"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "obere gastrointestinale Blutung"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Akute Divertikulitis - Schmerzen linker Unterbauch mit Fieber",
+    "patient_age": "63-jährige",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "stechende zunehmende starke Schmerzen Unterbauch links seit 3 Tagen (VAS 6-7)",
+      "Fieber 38.4°C seit 2 Tagen",
+      "Müdigkeit und Schlappgefühl",
+      "Kopfschmerzen",
+      "Übelkeit ohne Erbrechen",
+      "Blähungsgefühl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Appendektomie",
+      "Z.n. Cholezystektomie",
+      "Z.n. Helicobacter pylori Eradikation vor 15 Jahren",
+      "Z.n. Fahrradunfall mit Knieverletzung links und Rippenserienfraktur",
+      "Blasenschwäche mit Inkontinenz",
+      "Obstipationsneigung wechselnd mit weichen Stuhlgängen"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "schlechte Ernährung wegen Überstunden",
+      "unvollständiger Impfstatus"
+    ],
+    "family_history": [
+      "Vater verstorben vor 6-7 Jahren an schwerer Herzerkrankung",
+      "Brüder mit Nierenerkrankung (nicht dialysepflichtig)",
+      "Mutter aktuell stationär wegen Ellenbogenfraktur"
+    ],
+    "social_history": [
+      "Kassenbesitzerin in Drogerie",
+      "Katzenbesitzerin",
+      "Katzenbiss vor 1 Monat ohne Arztbesuch (gut geheilt)"
+    ],
+    "medications": [
+      "Ibuprofen/Diclofenac bei Bedarf (bei Knieschmerzen)",
+      "Laxantien bei Bedarf bei Obstipation",
+      "Vitamin D 1x pro Woche (Dosis unbekannt)"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Fieber 38.4°C",
+      "RR beidseitig gemessen (keine genauen Werte dokumentiert)"
+    ],
+    "physical_examination": [
+      "Schmerzen verstärkt durch Drücken und Bewegung",
+      "keine lindernden Faktoren",
+      "Herzauskultation durchgeführt",
+      "keine Ödeme",
+      "keine B-Symptomatik außer Fieber"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "akute Divertikulitis",
+      "DD: Pyelonephritis",
+      "DD: Kolon-Karzinom mit Kompressionseffekt",
+      "DD: gynäkologische Ursache (Ovarialtorsion, Ovarialkarzinom)",
+      "DD: Kolitis",
+      "DD: Subileus mit paradoxen Diarrhoen"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Rektorrhagie vor 2 Wochen nach Stuhlgang im Toilettenpapier"
+    ],
+    "follow_up": [
+      "Physiotherapie-Termine für Blasenschwäche noch ausstehend"
+    ]
+  }
+]

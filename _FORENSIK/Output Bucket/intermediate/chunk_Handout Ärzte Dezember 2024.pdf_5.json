@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 6/9) enthält **keine klinischen Patientenfälle**. \n\nDer Text behandelt ausschließlich:\n\n1. **Rechtliche Grundlagen des Strahlenschutzes:**\n   - Auszüge aus StrschG §83\n   - Strahlenschutzverordnung (StrSchV)\n   - Rechtfertigende Indikation\n\n2. **Fachkunde im Strahlenschutz:**\n   - Kursstruktur (Grundkurs, Sachkunde, Spezialkurs)\n   - Aktualisierungspflicht alle 5 Jahre\n   - Kontaktdaten der Ärztekammern\n\n3. **Strahlenschutzprinzipien:**\n   - ALARA und ALASTA-Prinzipien\n   - Rechtfertigung, Dosisbegrenzung, Optimierung\n   - Patienteneinwilligung\n\n4. **Diagnostische Referenzwerte:**\n   - Dosisangaben für verschiedene Röntgenuntersuchungen\n   - CT-Dosisindizes\n   - Interventionelle Referenzwerte\n\n5. **Leitlinien:**\n   - Aufnahmetechnische Vorgaben (z.B. Thoraxaufnahme)\n\nEs handelt sich um **didaktisches Material/Schulungsunterlagen** für Ärzte zum Thema Strahlenschutz, nicht um konkrete Patientenpräsentationen."
+  }
+]

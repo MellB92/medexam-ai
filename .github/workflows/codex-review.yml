@@ -1,0 +1,341 @@
+name: Codex Pull Request Review
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
+jobs:
+  # ============================================
+  # Codex AI Review – Dagobert (OpenAI/Codex Account 1)
+  # ============================================
+  codex-review-dagobert:
+    name: Codex Review (Dagobert)
+    runs-on: ubuntu-latest
+    # Run when:
+    #  - PR event, and label explicitly selects Dagobert (codex:dagobert), OR
+    #  - PR event, and iCloud secret is NOT configured (fallback to Dagobert)
+    if: ${{ github.event_name == 'pull_request' && ( contains(toJson(github.event.pull_request.labels), 'codex:dagobert') || secrets.CODEX_API_KEY_ICLOUD == '' ) }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup tools (jq, gh)
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y jq curl
+          gh --version || true
+
+      - name: Get changed files
+        id: changed-files
+        run: |
+          git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} > changed_files.txt
+          echo "files=$(cat changed_files.txt | tr '\n' ' ')" >> $GITHUB_OUTPUT
+
+      # Option 1: Codex CLI (falls codex-cli installiert werden kann)
+      - name: Codex Review via CLI
+        if: ${{ secrets.CODEX_API_KEY_DAGO != '' }}
+        env:
+          CODEX_API_KEY: ${{ secrets.CODEX_API_KEY_DAGO }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Prüfe ob Codex CLI verfügbar ist
+          if command -v codex &> /dev/null || [ -n "$CODEX_API_KEY" ]; then
+            # Installiere Codex CLI falls nicht vorhanden (Beispiel - anpassen je nach tatsächlichem Paket)
+            # pip install codex-cli || npm install -g codex-cli || echo "Codex CLI nicht verfügbar, verwende API-Fallback"
+
+            # Get diff content
+            DIFF=$(git diff ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} -- '*.py' '*.js' '*.ts' '*.tsx' '*.md' '*.yaml' '*.yml' | head -c 15000)
+
+            if [ -z "$DIFF" ]; then
+              echo "No code changes to review"
+              exit 0
+            fi
+
+            # Codex CLI Review (Beispiel - anpassen je nach tatsächlichem CLI)
+            # REVIEW=$(codex review --pr ${{ github.event.pull_request.number }} --repo ${{ github.repository }} --diff "$DIFF" --api-key "$CODEX_API_KEY")
+
+            # Fallback: Verwende Codex API direkt falls CLI nicht verfügbar
+            echo "Codex CLI nicht verfügbar, verwende API-Fallback"
+          fi
+
+      # Option 2: Codex API Review (direkter API-Call)
+      - name: Codex Review via API
+        if: ${{ secrets.CODEX_API_KEY_DAGO != '' }}
+        env:
+          CODEX_API_KEY: ${{ secrets.CODEX_API_KEY_DAGO }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Get diff content (limit size to avoid request limits)
+          DIFF=$(git diff ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} -- '*.py' '*.js' '*.ts' '*.tsx' '*.md' '*.yaml' '*.yml' | head -c 15000)
+
+          if [ -z "$DIFF" ]; then
+            echo "No code changes to review"
+            exit 0
+          fi
+
+          # Get PR context
+          PR_TITLE=$(gh pr view ${{ github.event.pull_request.number }} --json title -q '.title')
+          PR_BODY=$(gh pr view ${{ github.event.pull_request.number }} --json body -q '.body' || echo "")
+
+          # Codex API Call (Beispiel - anpassen je nach tatsächlicher Codex API)
+          # Falls Codex eine OpenAI-kompatible API ist:
+          RESPONSE=$(curl -s https://api.openai.com/v1/chat/completions \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bearer $CODEX_API_KEY" \
+            -d "{
+              \"model\": \"gpt-4-turbo-preview\",
+              \"messages\": [{
+                \"role\": \"system\",
+                \"content\": \"Du bist Codex, ein spezialisierter Code-Reviewer für medizinische AI-Projekte. Fokussiere auf: 1) Medizinische Genauigkeit und Risiken 2) Sicherheitsprobleme 3) Code-Qualität und Best Practices 4) Performance-Optimierungen. Sei präzise und konstruktiv.\"
+              }, {
+                \"role\": \"user\",
+                \"content\": \"Review diesen Code-Diff für das MedExamAI Projekt:\\n\\nPR Titel: $PR_TITLE\\n\\nPR Beschreibung: $PR_BODY\\n\\nDiff:\\n$DIFF\"
+              }],
+              \"max_tokens\": 2048,
+              \"temperature\": 0.3
+            }" | jq -r '.choices[0].message.content // "Review failed"') || \
+
+          # Falls Codex eine Anthropic-kompatible API ist:
+          RESPONSE=$(curl -s https://api.anthropic.com/v1/messages \
+            -H "Content-Type: application/json" \
+            -H "x-api-key: $CODEX_API_KEY" \
+            -H "anthropic-version: 2023-06-01" \
+            -d "{
+              \"model\": \"claude-3-7-sonnet-20250219\",
+              \"max_tokens\": 2048,
+              \"messages\": [{
+                \"role\": \"user\",
+                \"content\": \"Du bist Codex, ein spezialisierter Code-Reviewer für medizinische AI-Projekte. Review diesen Code-Diff für das MedExamAI Projekt. Fokussiere auf: 1) Medizinische Genauigkeit und Risiken 2) Sicherheitsprobleme 3) Code-Qualität.\\n\\nPR Titel: $PR_TITLE\\n\\nPR Beschreibung: $PR_BODY\\n\\nDiff:\\n$DIFF\"
+              }]
+            }" | jq -r '.content[0].text // "Review failed"') || \
+
+          # Fallback: Einfache Review mit verfügbaren Tools
+          RESPONSE="Codex API nicht verfügbar. Bitte konfiguriere CODEX_API_KEY oder verwende einen der anderen AI-Reviewer (Claude/Gemini)."
+
+          # Post comment via file to avoid YAML quoting issues
+          printf '## 🤖 Codex Code Review (Dagobert)\n\n%s\n\n---\n*Reviewed by Codex — Account: dagobertduck@…*\n' "$RESPONSE" > review_codex.md
+
+          # Post PR comment via GitHub REST API
+          curl -s -X POST \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments \
+            -d "$(jq -n --rawfile body review_codex.md '{body: $body}')" >/dev/null || \
+
+          # Fallback: Verwende gh CLI
+          gh pr comment ${{ github.event.pull_request.number }} --body-file review_codex.md || echo "Konnte Review-Kommentar nicht posten"
+
+      - name: Codex without API key (instructions)
+        if: ${{ secrets.CODEX_API_KEY_DAGO == '' }}
+        run: |
+          echo "⚠️ No CODEX_API_KEY_DAGO provided."
+          echo ""
+          echo "Um Codex Reviews zu aktivieren:"
+          echo "1. Erstelle einen API-Key für Codex (Account dagobertduck@…)"
+          echo "2. Füge ihn als Secret 'CODEX_API_KEY_DAGO' im Repository hinzu"
+          echo "3. Alternativ: Installiere die Codex GitHub App (falls verfügbar)"
+          echo ""
+          echo "Repository Settings > Secrets and variables > Actions > New repository secret"
+
+  # ============================================
+  # Codex AI Review – iCloud (OpenAI/Codex Account 2)
+  # ============================================
+  codex-review-icloud:
+    name: Codex Review (iCloud)
+    runs-on: ubuntu-latest
+    # Run when:
+    #  - PR event, and label explicitly selects iCloud (codex:icloud), OR
+    #  - PR event, and Dagobert secret is NOT configured (fallback to iCloud)
+    if: ${{ github.event_name == 'pull_request' && ( contains(toJson(github.event.pull_request.labels), 'codex:icloud') || secrets.CODEX_API_KEY_DAGO == '' ) }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup tools (jq, gh)
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y jq curl
+          gh --version || true
+
+      - name: Get changed files
+        id: changed-files
+        run: |
+          git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} > changed_files.txt
+          echo "files=$(cat changed_files.txt | tr '\n' ' ')" >> $GITHUB_OUTPUT
+
+      - name: Codex Review via CLI
+        if: ${{ secrets.CODEX_API_KEY_ICLOUD != '' }}
+        env:
+          CODEX_API_KEY: ${{ secrets.CODEX_API_KEY_ICLOUD }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Prüfe ob Codex CLI verfügbar ist
+          if command -v codex &> /dev/null || [ -n "$CODEX_API_KEY" ]; then
+            echo "Codex CLI nicht verfügbar, verwende API-Fallback"
+          fi
+
+      - name: Codex Review via API
+        if: ${{ secrets.CODEX_API_KEY_ICLOUD != '' }}
+        env:
+          CODEX_API_KEY: ${{ secrets.CODEX_API_KEY_ICLOUD }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Get diff content (limit size to avoid request limits)
+          DIFF=$(git diff ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} -- '*.py' '*.js' '*.ts' '*.tsx' '*.md' '*.yaml' '*.yml' | head -c 15000)
+
+          if [ -z "$DIFF" ]; then
+            echo "No code changes to review"
+            exit 0
+          fi
+
+          # Get PR context
+          PR_TITLE=$(gh pr view ${{ github.event.pull_request.number }} --json title -q '.title')
+          PR_BODY=$(gh pr view ${{ github.event.pull_request.number }} --json body -q '.body' || echo "")
+
+          # Codex API Call (Beispiel - OpenAI-kompatibel)
+          RESPONSE=$(curl -s https://api.openai.com/v1/chat/completions \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bearer $CODEX_API_KEY" \
+            -d "{
+              \"model\": \"gpt-4-turbo-preview\",
+              \"messages\": [{
+                \"role\": \"system\",
+                \"content\": \"Du bist Codex, ein spezialisierter Code-Reviewer für medizinische AI-Projekte. Fokussiere auf: 1) Medizinische Genauigkeit und Risiken 2) Sicherheitsprobleme 3) Code-Qualität und Best Practices 4) Performance-Optimierungen. Sei präzise und konstruktiv.\"
+              }, {
+                \"role\": \"user\",
+                \"content\": \"Review diesen Code-Diff für das MedExamAI Projekt:\\\n\\\\nPR Titel: $PR_TITLE\\\\n\\\\nPR Beschreibung: $PR_BODY\\\\n\\\\nDiff:\\\n$DIFF\"
+              }],
+              \"max_tokens\": 2048,
+              \"temperature\": 0.3
+            }" | jq -r '.choices[0].message.content // "Review failed"') || \
+
+          # Anthropic-kompatible Alternative
+          RESPONSE=$(curl -s https://api.anthropic.com/v1/messages \
+            -H "Content-Type: application/json" \
+            -H "x-api-key: $CODEX_API_KEY" \
+            -H "anthropic-version: 2023-06-01" \
+            -d "{
+              \"model\": \"claude-3-7-sonnet-20250219\",
+              \"max_tokens\": 2048,
+              \"messages\": [{
+                \"role\": \"user\",
+                \"content\": \"Du bist Codex, ein spezialisierter Code-Reviewer für medizinische AI-Projekte. Review diesen Code-Diff für das MedExamAI Projekt. Fokussiere auf: 1) Medizinische Genauigkeit und Risiken 2) Sicherheitsprobleme 3) Code-Qualität.\\\\n\\\\nPR Titel: $PR_TITLE\\\\n\\\\nPR Beschreibung: $PR_BODY\\\\n\\\\nDiff:\\\\n$DIFF\"
+              }]
+            }" | jq -r '.content[0].text // "Review failed"') || \
+
+          RESPONSE="Codex API nicht verfügbar. Bitte konfiguriere CODEX_API_KEY_ICLOUD oder verwende einen der anderen AI-Reviewer (Claude/Gemini)."
+
+          printf '## 🤖 Codex Code Review (iCloud)\n\n%s\n\n---\n*Reviewed by Codex — Account: dbsnuklearmedizin@…*\n' "$RESPONSE" > review_codex.md
+
+          curl -s -X POST \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments \
+            -d "$(jq -n --rawfile body review_codex.md '{body: $body}')" >/dev/null || \
+
+          gh pr comment ${{ github.event.pull_request.number }} --body-file review_codex.md || echo "Konnte Review-Kommentar nicht posten"
+
+      - name: Codex (iCloud) without API key (instructions)
+        if: ${{ secrets.CODEX_API_KEY_ICLOUD == '' }}
+        run: |
+          echo "⚠️ No CODEX_API_KEY_ICLOUD provided."
+          echo ""
+          echo "Um Codex Reviews (iCloud Account) zu aktivieren:"
+          echo "1. Erstelle einen API-Key für Codex (Account dbsnuklearmedizin@…)"
+          echo "2. Füge ihn als Secret 'CODEX_API_KEY_ICLOUD' im Repository hinzu"
+          echo ""
+          echo "Repository Settings > Secrets and variables > Actions > New repository secret"
+
+  # ============================================
+  # Codex-Triggered Actions on Issue Comments
+  # ============================================
+  codex-assist-comment:
+    name: Codex Assist on Comment
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'issue_comment' && github.event.issue.pull_request }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup jq
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y jq curl
+
+      - name: Codex Response
+        if: contains(github.event.comment.body, '@codex') || contains(github.event.comment.body, '@codex-dago') || contains(github.event.comment.body, '@codex-icloud')
+        env:
+          CODEX_API_KEY_DAGO: ${{ secrets.CODEX_API_KEY_DAGO }}
+          CODEX_API_KEY_ICLOUD: ${{ secrets.CODEX_API_KEY_ICLOUD }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          QUESTION="${{ github.event.comment.body }}"
+
+          post_comment() {
+            local body="$1"
+            curl -s -X POST \
+              -H "Authorization: Bearer $GITHUB_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              -H "X-GitHub-Api-Version: 2022-11-28" \
+              https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments \
+              -d "$(jq -n --arg body "$body" '{body: $body}')" >/dev/null || \
+            gh issue comment ${{ github.event.issue.number }} --body "$body"
+          }
+
+          # Auswahl des Kontos basierend auf der Erwähnung
+          SELECTED_KEY=""
+          SELECTED_NAME=""
+          if [[ "$QUESTION" == *"@codex-dago"* ]]; then
+            SELECTED_KEY="$CODEX_API_KEY_DAGO"
+            SELECTED_NAME="Dagobert"
+          elif [[ "$QUESTION" == *"@codex-icloud"* ]]; then
+            SELECTED_KEY="$CODEX_API_KEY_ICLOUD"
+            SELECTED_NAME="iCloud"
+          elif [[ "$QUESTION" == *"@codex"* ]]; then
+            # Fallback-Reihenfolge: iCloud -> Dagobert
+            if [ -n "$CODEX_API_KEY_ICLOUD" ]; then
+              SELECTED_KEY="$CODEX_API_KEY_ICLOUD"
+              SELECTED_NAME="iCloud"
+            else
+              SELECTED_KEY="$CODEX_API_KEY_DAGO"
+              SELECTED_NAME="Dagobert"
+            fi
+          fi
+
+          if [ -n "$SELECTED_KEY" ]; then
+            RESPONSE=$(curl -s https://api.anthropic.com/v1/messages \
+              -H "Content-Type: application/json" \
+              -H "x-api-key: $SELECTED_KEY" \
+              -H "anthropic-version: 2023-06-01" \
+              -d "{
+                \"model\": \"claude-3-7-sonnet-20250219\",
+                \"max_tokens\": 1024,
+                \"messages\": [{
+                  \"role\": \"user\",
+                  \"content\": \"$QUESTION\"
+                }]
+              }" | jq -r '.content[0].text // "Could not generate response"') || \
+            RESPONSE="Codex API nicht verfügbar. Bitte konfiguriere die Secrets."
+
+            post_comment "**Codex ($SELECTED_NAME) responds:**\n\n$RESPONSE"
+            exit 0
+          else
+            post_comment "⚠️ Kein Codex-API-Key konfiguriert (CODEX_API_KEY_ICLOUD bzw. CODEX_API_KEY_DAGO). Bitte Secrets setzen."
+          fi
+

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 9/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle**. \n\nDer Text behandelt ausschließlich:\n- Technische Aspekte der EKG-Ableitung (Kalibrierung, Papiervorschub)\n- Anatomische Zuordnung der EKG-Ableitungen zu Herzregionen (V1-V9, Extremitätenableitungen)\n- Theoretische Grundlagen der P-Wellen-Analyse\n- Allgemeine EKG-Interpretation (reziproke Veränderungen, ST-Strecken)\n\nEs handelt sich um rein didaktisches Lehrmaterial ohne konkrete Patientenbeispiele oder klinische Fallpräsentationen."
+  }
+]

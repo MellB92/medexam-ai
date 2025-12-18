@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Multiples Myelom mit Infektanfälligkeit und Gewichtsverlust",
+    "patient_age": "68 Jahre",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Erhöhte Infektanfälligkeit",
+      "Rechtsseitige Brustschmerzen seit 4 Wochen",
+      "Gewichtsabnahme 8 kg in 6 Monaten",
+      "Nachtschweiß",
+      "Rechtseitige Oberkörperbeugung",
+      "Rückenschmerzen",
+      "Linksseitige Armschmerzen",
+      "Unregelmäßiger Puls"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "TVT rechts mit 55 Jahren",
+      "Multiple Operationen nach Autounfall mit 45 Jahren",
+      "Fieber 38,2°C"
+    ],
+    "medications": [],
+    "allergies": [
+      "Polen",
+      "Katze"
+    ],
+    "physical_examination": [
+      "Rechtseitige Oberkörperbeugung",
+      "Inspektion",
+      "Neurologische Untersuchung (kraniale Nerven, periphere Reflexe)",
+      "RR-Messung beidseits",
+      "Lunge: Stimmfremitus, Perkussion, Auskultation",
+      "Herz: Herzgeräusche",
+      "Abdomen: Inspektion, Auskultation, Perkussion"
+    ],
+    "imaging_findings": [
+      "Röntgen-Thorax unauffällig",
+      "Humerus rechts mit osteolytischen Läsionen im distalen Bereich"
+    ],
+    "laboratory_findings": [
+      "Auffällige Urinwerte",
+      "BSG erhöht",
+      "M-Gradient in Serumelektrophorese"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom",
+      "Vorhofflimmern"
+    ],
+    "diagnostic_approach": [
+      "Blutbild",
+      "BSG",
+      "Kalzium",
+      "Nierenwerte",
+      "Immunfixation",
+      "Serumelektrophorese",
+      "Low-Dose-CT",
+      "Röntgen",
+      "Knochenmarkbiopsie",
+      "Urintest",
+      "EKG"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Lungenfunktionsdiagnostik bei Asthma mit FEV1 50%\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\"FEV1 bei 50%\", \"Tiffeneau-Index nicht angegeben\"],\n    \"suspected_diagnosis\": [\"Asthma\"],\n    \"diagnostic_approach\": [\"Lungenfunktionstest\", \"Spirometrie\", \"Berechnung Tiffeneau-Index\", \"Einteilung und Therapie\"]\n  }\n]\n```"
+  }
+]

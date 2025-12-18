@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Pyelonephritis mit Flankenschmerzen und Knietrauma bei Diabetikerin",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Linke Flankenschmerzen seit gestern mit Ausstrahlung in linken Unterbauch",
+      "Neu aufgetretenes Fieber heute",
+      "Übelkeit",
+      "Knieschmerzen nach Sturz beim Sport"
+    ],
+    "accident_mechanism": "Sturz beim Sport (Knie)",
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 1",
+      "Belastungsasthma",
+      "Rezidivierende Harnwegsinfekte"
+    ],
+    "comorbidities": [
+      "Atopische Dermatitis am Hinterkopf",
+      "Obstipation"
+    ],
+    "risk_factors": [],
+    "family_history": [
+      "Vater: Leistenhernie operiert, Darmkrebs",
+      "Mutter: Schilddrüsenerkrankung",
+      "1 Sohn gesund"
+    ],
+    "social_history": [
+      "Kinderwunsch",
+      "Sportlich aktiv"
+    ],
+    "medications": [
+      "Salbutamol bedarfsweise",
+      "Beclometason inhalativ 1-0-1",
+      "Dulcolax"
+    ],
+    "allergies": [
+      "Nickel",
+      "Champignons"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Nierenlager links schmerzhaft",
+      "Knie untersucht",
+      "Atopische Dermatitis am Hinterkopf sichtbar"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Trüber Urin bei Miktion",
+      "Urin mit üblem Geruch"
+    ],
+    "suspected_diagnosis": [
+      "Pyelonephritis",
+      "DD: Nephrolithiasis",
+      "DD: Harnwegsinfektion"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Antiemetikum verabreicht"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

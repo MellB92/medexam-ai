@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Staphylococcus aureus Bakteriämie mit infektiöser Endokarditis",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "gelegentliche Ibuprofen-Einnahme"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Ibuprofen gelegentlich"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "kein Fieber",
+      "Allgemeinzustand gut"
+    ],
+    "physical_examination": [
+      "guter Allgemeinzustand"
+    ],
+    "imaging_findings": [
+      "ECHO: Vegetation auf der Herzklappe"
+    ],
+    "laboratory_findings": [
+      "Blutkultur positiv für Staphylococcus aureus"
+    ],
+    "suspected_diagnosis": [
+      "Infektiöse Endokarditis",
+      "Staphylococcus aureus Bakteriämie"
+    ],
+    "diagnostic_approach": [
+      "Blutkultur",
+      "Echokardiographie"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Risiko für septische Embolie (z.B. Gehirn)"
+    ],
+    "follow_up": [
+      "Patient soll im Krankenhaus bleiben trotz gutem Allgemeinzustand wegen Endokarditis-Risiko"
+    ]
+  },
+  {
+    "title": "Patientin mit Diabetes, infizierter Wunde und Schultertrauma",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "infizierte Wunde",
+      "Schulterschmerzen nach Sturz"
+    ],
+    "accident_mechanism": "Sturz auf die Schulter vor einer Woche",
+    "pre_existing_conditions": [
+      "Diabetes mellitus",
+      "Asthma"
+    ],
+    "comorbidities": [
+      "PAVK"
+    ],
+    "risk_factors": [
+      "Diabetes mellitus",
+      "metabolisches Syndrom"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Metformin",
+      "Foster Spray"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Schulter: Kapselriss des Acromioclaviculargelenks",
+      "DSA: Okklusion bei PAVK"
+    ],
+    "suspected_diagnosis": [
+      "Kapselriss des AC-Gelenks",
+      "infizierte Wunde",
+      "PAVK"
+    ],
+    "diagnostic_approach": [
+      "Röntgenuntersuchung Schulter",
+      "körperliche Untersuchung",
+      "Peak-Flow-Meter",
+      "DSA"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Hypoglykämie bei Volleyball-Spieler",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Bewusstlosigkeit beim Volleyball spielen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes (impliziert)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "spielt Volleyball"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "bewusstlos"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Blutzucker gemessen (impliziert niedrig)"
+    ],
+    "suspected_diagnosis": [
+      "Hypoglykämie"
+    ],
+    "diagnostic_approach": [
+      "Blutzuckermessung"
+    ],
+    "treatment_response": [
+      "Patient kommt nach 40% Glucose i.v. zu sich"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Einweisung ins Krankenhaus nach Stabilisierung"
+    ]
+  }
+]

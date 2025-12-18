@@ -1,0 +1,62 @@
+[
+  {
+    "title": "VHF-Patientin mit Marcumar-Therapie und Fraktur",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Vorhofflattern"
+    ],
+    "accident_mechanism": "Fraktur (Details nicht spezifiziert)",
+    "pre_existing_conditions": [
+      "Vorhofflimmern",
+      "Mitralklappenstenose (valvuläres VHF)"
+    ],
+    "medications": [
+      "Marcumar"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit Vorhofflattern"
+    ],
+    "laboratory_findings": [
+      "INR 1,4 (subtherapeutisch)"
+    ],
+    "suspected_diagnosis": [
+      "Vorhofflimmern bei Mitralklappenstenose",
+      "Fraktur"
+    ],
+    "diagnostic_approach": [
+      "EKG für Frequenzkontrolle und Pausen",
+      "INR-Kontrolle",
+      "Evaluation der Heparin-Notwendigkeit vor OP"
+    ]
+  },
+  {
+    "title": "VHF-Patientin mit Diabetes und Hypertonie",
+    "patient_age": "65",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Vorhofflimmern"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Vorhofflimmern",
+      "Diabetes mellitus",
+      "Arterielle Hypertonie"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vorhofflimmern mit hohem Thromboembolierisiko"
+    ],
+    "diagnostic_approach": [
+      "CHA2DS2-VASc-Score Berechnung (Wert >2)",
+      "HAS-BLED-Score",
+      "Indikationsstellung zur Antikoagulation"
+    ]
+  }
+]

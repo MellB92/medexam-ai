@@ -1,0 +1,174 @@
+[
+  {
+    "title": "Riesenzellarteriitis mit Beteiligung der A. ophthalmica",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Schädelkalottenkopfschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Neurologische Untersuchung: kein Defizit der Schädelhirn-Nerven",
+      "Meningitis-Zeichen Kernig, Brudzinski, Lasègue negativ",
+      "Bauch-Untersuchung unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "BSG stark erhöht",
+      "C-reaktives Protein stark erhöht",
+      "Leukozyten erhöht",
+      "Erythrozyten erniedrigt"
+    ],
+    "suspected_diagnosis": [
+      "Migräne-Attacke (initial)",
+      "Kluster-Schmerzen (DD)",
+      "Riesenzellarteriitis mit Beteiligung A. ophthalmica (final)"
+    ],
+    "diagnostic_approach": [
+      "Neurologisches Konsil",
+      "Sonographie (Blutungsminderung, Ödem)",
+      "MRT",
+      "Biopsie"
+    ]
+  },
+  {
+    "title": "Weber-B-Fraktur OSG mit dorsaler Dislokation",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": "Supinationstrauma",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen OSG 2 Ebenen: dorsal dislozierte Weber-B-Fraktur",
+      "Röntgen-Unterschenkel erforderlich zum Ausschluss hohe Weber-C und Maisonneuve-Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Weber-B-Fraktur",
+      "DD: Ruptur Lig. deltoideum",
+      "DD: Nervenverletzung (N. tibialis posterior)",
+      "DD: Blutungen"
+    ],
+    "diagnostic_approach": [
+      "Röntgen OSG 2 Ebenen",
+      "Röntgen Unterschenkel",
+      "MRT bei V.a. Bandruptur",
+      "pDMS-Prüfung"
+    ]
+  },
+  {
+    "title": "Reflux-Ösophagitis mit Aufstoßen",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Aufstoßen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Reflux-Ösophagitis",
+      "DD: Ösophagushernie (axial, paraösophageal)",
+      "DD: Thorax-Magen",
+      "DD: Barrett-Ösophagus (Komplikation)"
+    ],
+    "diagnostic_approach": [
+      "ÖGDS",
+      "Breischluck",
+      "CT Thorax (besonders bei Thorax-Magen)"
+    ]
+  },
+  {
+    "title": "Hinterwandinfarkt",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "plötzliche Schmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hinterwandinfarkt"
+    ],
+    "diagnostic_approach": [
+      "EKG (ST-Hebungen II, III, aVR, ST-Senkungen I, V-Ableitungen)",
+      "Troponine",
+      "Myoglobin",
+      "Kreatinkinase",
+      "CK-MB"
+    ]
+  },
+  {
+    "title": "Riesenzellarteriitis (Temporal arteritis) - Fall 170001b",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Riesenzellarteriitis",
+      "Temporal arteritis"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Tibia proximal Schaftfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Tibia proximal Schaftfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tibia proximal Schaftfraktur"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Riesenzellarteriitis - Fall 172102",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Blutdruck gemessen",
+      "Gefäßstatus untersucht",
+      "A. dorsalis pedis palpiert"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Riesenzellarteriitis"
+    ],
+    "diagnostic_approach": []
+  }
+]

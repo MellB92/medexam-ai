@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 3/84) enthält ausschließlich eine **Abkürzungsliste** medizinischer Fachbegriffe und enthält **keine klinischen Patientenfälle**.\n\nEs handelt sich um alphabetisch sortierte Abkürzungen von:\n- Laborwerten (GFR, Hb, HbA1c, LDH, etc.)\n- Medikamenten (5-FU, G-CSF, HAART, etc.)\n- Erkrankungen (GERD, HIT, HUS, KHK, etc.)\n- Anatomischen Begriffen (HWS, LWS, MCL, etc.)\n- Diagnostischen Verfahren (MRT, PET-CT, Sono, etc.)\n- Klassifikationssystemen (GCS, NYHA, SOFA, etc.)\n\nEs gibt keine Patientenpräsentationen, Anamnesen, Fallbeschreibungen oder klinische Szenarien in diesem Abschnitt."
+  }
+]

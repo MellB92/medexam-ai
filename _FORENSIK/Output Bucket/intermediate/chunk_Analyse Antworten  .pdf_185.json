@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Colitis ulcerosa bei 31-jähriger Patientin",
+    "patient_age": "31-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Blutige Diarrhoen seit 2 Wochen",
+      "Bauchschmerzen im linken Unterbauch",
+      "Fieber",
+      "Gewichtsverlust",
+      "Entzündete Augen",
+      "Rückenschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Koloskopie: Hyperämie",
+      "Koloskopie: Fibrin Beläge"
+    ],
+    "laboratory_findings": [
+      "Entzündungsparameter erhöht",
+      "Hb-Wert"
+    ],
+    "suspected_diagnosis": [
+      "Colitis ulcerosa",
+      "Morbus Crohn",
+      "Sigmadivertikulitis",
+      "Infektiöse Gastroenteritis (Salmonellen, Shigellen, Campylobacter)",
+      "Ischämische Kolitis",
+      "Pyelonephritis",
+      "HWI",
+      "Reizdarmsyndrom",
+      "Medikamenteninduzierte Kolitis"
+    ],
+    "diagnostic_approach": [
+      "Entzündungsparameter",
+      "Hb-Bestimmung",
+      "Bakteriologische Stuhluntersuchung mit Antibiogramm",
+      "Calprotectin im Stuhl",
+      "Elektrolyte",
+      "Leber- und Nierenwerte",
+      "Stuhluntersuchungen (Mikrobiologie, Parasitologie)",
+      "Abdomensonographie (Ausschluss freie Flüssigkeit)",
+      "Koloskopie mit Biopsieentnahme",
+      "ggf. CT-Abdomen",
+      "ggf. MRT Becken"
+    ]
+  }
+]

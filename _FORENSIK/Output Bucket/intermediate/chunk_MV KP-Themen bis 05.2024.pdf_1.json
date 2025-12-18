@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Vorwölbung im Epigastrium bei Bauchmuskelanspannung",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Vorwölbung im Epigastrium beim Aufstehen",
+      "Vorwölbung beim Pressen der Bauchmuskeln"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Vorwölbung im Epigastrium bei Bauchmuskelkontraktion und Pressen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Diastase der Musculi recti abdomini"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Schmerzen und Schwellung in der linken Leiste",
+    "patient_age": "alte",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen in der linken Leiste",
+      "Schwellung in der linken Leiste"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Schwellung in der linken Leiste"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hernia femoralis"
+    ],
+    "diagnostic_approach": [
+      "3-Finger-Test zur Unterscheidung von Hernien",
+      "Leistenkanaluntersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Tiefe Venenthrombose mit postthrombotischem Syndrom",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Tiefe Venenthrombose (TVT)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Keine Ödeme",
+      "Dunkle Haut aufgrund von Hämosiderinablagerungen",
+      "Ulcus oberhalb Malleolus medialis"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Postthrombotisches Syndrom"
+    ],
+    "diagnostic_approach": [
+      "Vergleichende Untersuchung beider Beine"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Ulcus cruris"
+    ],
+    "follow_up": []
+  }
+]

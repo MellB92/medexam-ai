@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieses Dokument ist eine **Metadaten-Statistik** über die M3-Dokumentation und enthält **keine vollständigen klinischen Präsentationsfälle**.\n\nDas Dokument enthält:\n- Statistiken über verarbeitete Dokumente (11 Protokolle, 40 Dateien)\n- Zusammenfassungen von extrahierten Inhalten (10 Präsentationsfälle, 60 Prüfungsfragen etc.)\n- Fachbereichsverteilungen in Prozent\n- Schwierigkeitsgrade mit **thematischen Schlagworten** (z.B. \"Anaphylaxie\", \"Trauma/Polytrauma\", \"Herzinsuffizienz\")\n- Update-Empfehlungen\n\nDie aufgelisteten Begriffe unter \"Schwierigkeitsgrade\" (wie Anaphylaxie, Divertikulitis, RZA, Phäochromozytom) sind **lediglich Themenkategorien** und keine ausgearbeiteten Patientenfälle mit Anamnese, Befunden, Diagnostik etc.\n\nUm tatsächliche klinische Fälle zu extrahieren, müssten die **ursprünglichen 40 Quelldokumente** (PDF, TXT) vorliegen, auf die sich diese Statistik bezieht."
+  }
+]

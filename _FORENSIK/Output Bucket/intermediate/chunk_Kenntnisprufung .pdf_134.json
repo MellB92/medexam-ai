@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Polytrauma mit Tibiakopffraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Polytrauma"
+    ],
+    "accident_mechanism": "Trauma (Details nicht spezifiziert)",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Knieverletzung"
+    ],
+    "imaging_findings": [
+      "CT Schädel geplant (Blutung auszuschließen)",
+      "Röntgen Thorax durchgeführt",
+      "Kein Pneumothorax",
+      "Kein Pleuraerguss",
+      "Röntgen Knie AP und seitlich: Tibiakopffraktur",
+      "Fraktur nicht disloziert, nicht offen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma",
+      "Tibiakopffraktur",
+      "Pneumothorax-Verdacht",
+      "Milzruptur-Verdacht",
+      "Hämatothorax-Verdacht",
+      "Rippenfrakturen-Verdacht"
+    ],
+    "diagnostic_approach": [
+      "CT Schädel",
+      "FAST-Sonographie (Morison Pouch, Koller Pouch, Douglas Raum)",
+      "Röntgen Thorax-Abdomen",
+      "Röntgen Knie",
+      "Überwachung 48-72 Stunden wegen zweizeitiger Milzruptur (Stunden bis Tage)"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Kapselriss und Blutungsgefahr bei Milz",
+      "Zweizeitige Milzruptur möglich"
+    ],
+    "follow_up": [
+      "Patientenüberwachung 48-72 Stunden",
+      "OP mit Plattenosteosynthese bei Tibiakopffraktur"
+    ]
+  },
+  {
+    "title": "Akutes Abdomen - Mesenterialinfarkt bei Vorhofflimmern",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "critical",
+    "chief_complaints": [
+      "Starke Bauchschmerzen seit 5 Stunden",
+      "Nachts um 3 Uhr vorstellig"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Vorhofflimmern"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Laktat erhöht"
+    ],
+    "suspected_diagnosis": [
+      "Mesenterialinfarkt",
+      "Arterielle Thrombose/Embolie bei Vorhofflimmern"
+    ],
+    "diagnostic_approach": [
+      "Blutentnahme mit Laktat",
+      "Stadien-Einteilung für arteriellen Mesenterialinfarkt"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Ischämie-Risiko hoch"
+    ],
+    "follow_up": [
+      "Notfall-Therapie erforderlich",
+      "Katheterembolektomie mit Fogarty-Katheter",
+      "Schnelle Reaktion notwendig wegen Ischämie-Gefahr"
+    ]
+  },
+  {
+    "title": "Angioödem nach ACE-Hemmer",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Atemnot nach Antihypertensiva-Einnahme"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "ACE-Hemmer"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Angioödem"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Angioödem durch ACE-Hemmer"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Atemnot nach ACE-Hemmer-Einnahme"
+    ],
+    "complications": [
+      "Angioödem"
+    ],
+    "follow_up": [
+      "Keine Sartane als Alternative (ähnlicher Wirkmechanismus)",
+      "Alternative: Kalziumkanalblocker (Amlodipin, Lercanidipin), Betablocker, Diuretika"
+    ]
+  }
+]

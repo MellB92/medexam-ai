@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 2/2) enthält **keine vollständigen klinischen Patientenfälle** mit konkreten Fallpräsentationen.\n\nDer Text besteht ausschließlich aus:\n\n1. **Thematischen Listen/Katalogen:**\n   - Komplikationen (z.B. Abstoßungsreaktionen)\n   - Leitsymptome (Dyspnoe, Thoraxschmerz, etc.)\n   - Neurologische Erkrankungen (Migräne, Meningitis, Epilepsie, etc.)\n   - Notfallmedizinische Themen (Polytrauma, Pneumothorax, etc.)\n   - Pharmakologische Themen (Antibiotika, Analgetika, etc.)\n\n2. **EKG-Befundlisten:**\n   - Beschreibungen von EKG-Mustern (z.B. \"Sinusbradykardie\", \"VHF\", \"STEMI der Vorderwand\")\n   - Diese sind isolierte Befunde ohne Patientenkontext\n\n3. **Fachgebiets-Überschriften:**\n   - Rechtsmedizin, Strahlenschutz, Röntgendiagnostik\n\n**Keine der aufgeführten Informationen stellt einen vollständigen klinischen Fall dar** mit:\n- Patientendemographie\n- Anamnese\n- Klinischer Präsentation\n- Untersuchungsbefunden\n- Diagnostischem Vorgehen\n\nDies ist offensichtlich ein **Lernkatalog oder Themenkompendium** für die klinische Prüfungsvorbereitung, kein Falldokument."
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "title": "Milzruptur nach Sturz mit Rollator bei geriatrischem Patient",
+    "patient_age": "80-jähriger",
+    "patient_gender": "männlich",
+    "severity": "critical",
+    "chief_complaints": [
+      "Bauchschmerzen",
+      "Bauchhämatom"
+    ],
+    "accident_mechanism": "Sturz mit Rollator",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "geriatrischer Patient",
+      "Rollator-abhängig"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Rentner",
+      "Bewohner eines Altenheims"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "BD 90/60 mmHg",
+      "HF 120/min"
+    ],
+    "physical_examination": [
+      "Bauchhämatom",
+      "Abwehrspannung"
+    ],
+    "imaging_findings": [
+      "FAST-Echo: freie Flüssigkeit"
+    ],
+    "laboratory_findings": [
+      "BB",
+      "Gerinnung",
+      "Retentionsparameter",
+      "GFR",
+      "Blutgruppe gekreuzt"
+    ],
+    "suspected_diagnosis": [
+      "Stumpfes/geschlossenes Bauchtrauma",
+      "Akutes Abdomen bei Milzruptur"
+    ],
+    "diagnostic_approach": [
+      "FAST-Echo"
+    ],
+    "treatment_response": [
+      "Notfallversorgung",
+      "Zugänge legen",
+      "Flüssigkeitsgabe",
+      "Blutkonserven bereitgestellt",
+      "Splenektomie durchgeführ"
+    ],
+    "complications": [
+      "hämodynamische Instabilität"
+    ],
+    "follow_up": [
+      "Verlegung in Geriatrie",
+      "kann nicht ins alte Heim zurück"
+    ]
+  },
+  {
+    "title": "Post-infektiöse kardiale Beschwerden mit V.a. Myokarditis",
+    "patient_age": "64-jähriger",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "leichter Husten ohne Auswurf",
+      "nächtliches Schwitzen",
+      "Belastungsdyspnoe",
+      "Herzrasen bei körperlicher Belastung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypothyreose",
+      "Hämorrhoiden",
+      "Z.n. Oberschenkelfraktur rechts nach Autounfall im Alter von 6 Jahren (konservativ behandelt)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Schwester mit Adipositas (bariatrische OP)",
+      "Mutter mit Magenulkus und Magenblutung (endoskopisch behandelt, lebt im Altenheim)",
+      "Vater verstorben, hatte Rheuma"
+    ],
+    "social_history": [
+      "Mitarbeiter eines Telefonanbieters in Kundenbeschwerdenabteilung",
+      "geht in 1 Jahr in Rente",
+      "verheiratet",
+      "Vater von 2 erwachsenen Kindern (1 Tochter, 1 Sohn)",
+      "4x gegen COVID-19 geimpft"
+    ],
+    "medications": [
+      "L-Thyroxin 100 mcg morgens",
+      "Hämorrhoiden Salbe"
+    ],
+    "allergies": [
+      "keine"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Herzauskultation durchgeführt",
+      "körperliche Untersuchung von Kopf bis Fuß",
+      "Venenkatheter-Anlage demonstriert"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "herzbezügliche Parameter angeordnet"
+    ],
+    "suspected_diagnosis": [
+      "Myokarditis",
+      "Endokarditis",
+      "Perikarditis"
+    ],
+    "diagnostic_approach": [
+      "Labor (herzbezügliche Parameter)",
+      "EKG (Zeichen von Myokarditis, Niedervoltage)",
+      "Echokardiographie (Links- und Rechtsherzbelastung ausschließen)",
+      "Virusserologie (Coxsackie-Viren)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "vor 6 Wochen starke Erkältung mit Fieber 39,2°C, Husten, nächtliche Schweißausbrüche und Zittern für mehrere Tage",
+      "COVID-19 Schnelltests negativ"
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Multiple Myelom - Visite Frau Paula Wagner",
+    "patient_age": "67 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Grippeähnliche Symptome seit 4 Wochen",
+      "Trockener Husten",
+      "Schmerzen im rechten Rippenbogen",
+      "Rückenschmerzen",
+      "Schmerzen im rechten Arm",
+      "Inappetenz",
+      "Müdigkeit bei Anstrengung",
+      "Veränderter Urin",
+      "Gewichtsverlust von 8 kg in 6 Monaten",
+      "Übermäßiger Nachtschweiß",
+      "Fieber",
+      "Schlaflosigkeit",
+      "Verstopfung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Rhinitis seit der Kindheit",
+      "Beinvenenthrombose im Alter von 55 Jahren",
+      "Z.n. schwerem Autounfall mit Rippenfrakturen im Alter von 45 Jahren",
+      "Z.n. Arthroskopie des Ellenbogens vor zwei Jahren"
+    ],
+    "medications": [
+      "Ducolax",
+      "Cetirizin",
+      "Ibuprofen 400 mg",
+      "Olynt Nasenspray"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Multiples Myelom"
+    ],
+    "diagnostic_approach": [
+      "Blutbild",
+      "BSG",
+      "Elektrolyte",
+      "Kreatinin",
+      "Kalzium",
+      "Serum- und Urinelektrophorese",
+      "Freie Leichtketten im Serum und Urin",
+      "Immunfixation",
+      "Röntgen",
+      "MRT",
+      "PET-CT",
+      "Knochenmarkbiopsie",
+      "Knochenmarkpunktion"
+    ]
+  }
+]

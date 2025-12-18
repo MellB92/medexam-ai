@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 79/84) enthält **keine vollständigen klinischen Patientenfälle oder Präsentationen**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Lehrbuchmäßigen Definitionen und Übersichten** zur peripheren arteriellen Verschlusskrankheit (pAVK):\n   - Definition und Ätiologie\n   - Klinik und Stadieneinteilung nach Fontaine\n   - Diagnostische Verfahren\n   - Therapeutische Optionen\n\n2. **Theoretischem Wissen** über:\n   - Leriche-Syndrom\n   - Akuten arteriellen Verschluss (als Differentialdiagnose)\n   - Komplikationen\n   - Differentialdiagnosen\n\n3. **Beginn eines neuen Kapitels** (Kapitel 6: Leitsymptome) mit DD Thoraxschmerz, das am Ende des Chunks abgeschnitten ist\n\nEs handelt sich um strukturiertes Lernmaterial in Form von Lernkarten ohne konkrete Patientenbeispiele, Fallvignetten oder klinische Präsentationen mit spezifischen Patienten."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Verdacht auf Bronchialkarzinom bei bekannter COPD",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Leistungsminderung mit Dyspnoe",
+      "Hämoptyse seit 2 Wochen",
+      "Schlappheit, Mattigkeit, Müdigkeit",
+      "Gewichtsverlust 6kg in 6 Monaten trotz gutem Appetit",
+      "Nachtschweiß mit Schlafanzugwechsel",
+      "Dyspnoe bei geringer Belastung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "COPD",
+      "Arterielle Hypertonie",
+      "Gicht"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Unterarmgehstock rechts tragend"
+    ],
+    "family_history": [
+      "Mutter: Mammakarzinom",
+      "Mutter: Darmkrebs",
+      "Vater: pAVK mit Unterschenkelamputation links"
+    ],
+    "social_history": [],
+    "medications": [
+      "Lisinopril 1-0-0",
+      "Salmeterol",
+      "Salbutamol b.B.",
+      "Movikol b.B."
+    ],
+    "allergies": [
+      "Penicillinallergie (Hautausschlag)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Gezielte körperliche Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Eisen gekreuzt"
+    ],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom"
+    ],
+    "diagnostic_approach": [
+      "DD: COPD-Exazerbation",
+      "DD: TBC",
+      "DD: Lungenembolie",
+      "DD: Lungenödeme"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Vor 10 Jahren Beckenfraktur nach Unfall mit Plattenosteosynthese",
+      "Cholezystektomie in der Vergangenheit"
+    ]
+  },
+  {
+    "title": "75-jähriger Rentner mit Hämoptyse und Dyspnoe bei COPD",
+    "patient_age": "75",
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Hämoptyse seit 2 Wochen",
+      "Belastungsabhängige Dyspnoe teilweise in Ruhe bzw. im Liegen",
+      "Husten mit Auswurf"
+    ],
+    "accident_mechanism": "Vor 10 Jahren Autounfall mit Beckenringfraktur",
+    "pre_existing_conditions": [
+      "COPD seit 2-3 Jahren",
+      "Arterielle Hypertonie seit 5 Jahren",
+      "Akute Podagra rechts vor 3 Jahren",
+      "Beckenringfraktur infolge Autounfall vor 10 Jahren",
+      "Cholezystektomie bei Cholezystolithiasis vor 40 Jahren",
+      "Achillessehnenruptur links im Jugendalter"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Raucher"
+    ],
+    "family_history": [
+      "Kolorektales Karzinom in Familie",
+      "Diabetes mellitus Typ 2 in Familie",
+      "Ulcus cruris in Familie"
+    ],
+    "social_history": [
+      "Rentner",
+      "Automechaniker (Beruf)"
+    ],
+    "medications": [
+      "Spiriva 1-0-0-0",
+      "Salbutamol b.B.",
+      "Lisinopril 1-0-0"
+    ],
+    "allergies": [
+      "Penicillinallergie mit Exanthem"
+    ],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax: zentrale hiläre Raumforderung rechts"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Thorax in 2 Ebenen",
+      "Bronchoskopie mit Biopsie",
+      "Klassifikation Bronchialkarzinom erforderlich"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

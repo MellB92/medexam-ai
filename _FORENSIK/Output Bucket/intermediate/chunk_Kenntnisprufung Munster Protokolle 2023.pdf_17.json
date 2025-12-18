@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Akutes Abdomen und Handgelenksschmerzen nach LKW-Unfall",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "akutes Abdomen",
+      "Handgelenksschmerzen"
+    ],
+    "accident_mechanism": "LKW-Unfall",
+    "pre_existing_conditions": [
+      "arterielle Hypertonie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Lercanidipin"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruckdifferenz zwischen beiden Seiten"
+    ],
+    "physical_examination": [
+      "Untersuchung von Abdomen und Handgelenk",
+      "Anlage einer Venenverweilkanüle"
+    ],
+    "imaging_findings": [
+      "Röntgenbild einer Skaphoidfraktur",
+      "CT-Bild einer akuten Appendizitis",
+      "Sonografisches Bild des Morrison-Pouches",
+      "Natives CT-Bild des Schädels mit Raumforderung in der rechten Hemisphäre"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "stumpfes Bauchtrauma",
+      "Skaphoidfraktur"
+    ],
+    "diagnostic_approach": [
+      "Abdomensonografie",
+      "Röntgen der Lendenwirbelsäule",
+      "Röntgen des rechten Sprunggelenks"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

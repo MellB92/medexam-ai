@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** aus einer medizinischen Prüfung (z.B. \"Welche lokale Behandlungsmöglichkeiten gibt es für eine Analfissur?\", \"Was bedeutet SGLT-2?\")\n\n2. **Kurzen klinischen Szenarien ohne ausreichende Details** (z.B. \"Bei einem inferioren Myokardinfarkt\", \"Was sehen Sie auf dem Röntgenbild des Thorax?\")\n\n3. **Allgemeinem medizinischem Wissen** (z.B. Definition von SGLT-2-Inhibitoren, Vitalparameter, SAMPLE-Schema, vier I's der Geriatrie)\n\nKeines dieser Elemente stellt einen **vollständigen klinischen Präsentationsfall** dar mit:\n- Spezifischer Patientenvorstellung (Alter, Geschlecht)\n- Detaillierter Anamnese\n- Systematischer körperlicher Untersuchung\n- Diagnostischem Vorgehen\n- Diagnosestellung\n\nDie erwähnten klinischen Szenarien (Myokardinfarkt, Hämatopneumothorax, Nabelhernie) sind lediglich **fragmentarische Erwähnungen** im Kontext von Prüfungsfragen, nicht vollständige Fallpräsentationen."
+  }
+]

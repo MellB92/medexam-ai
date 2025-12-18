@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält keine vollständigen klinischen Patientenfälle im klassischen Sinne. Es handelt sich ausschließlich um:\n\n1. **Theoretische Prüfungsfragen** mit Antworten zu:\n   - Bradykardien (allgemeine Behandlungsprinzipien)\n   - Ionisierende Strahlung (physikalische Grundlagen)\n   - MRI-Mechanismus (technisches Verständnis)\n   - CT-Abdomen Bildbeschreibung (Bildinterpretation)\n   - Röntgen-Thorax Systematik (Bildinterpretation)\n   - Rechtliche Fragen (Approbation, Fachkunde, Sachkunde)\n   - Lebertumoren (theoretisches Wissen zu FNH, Hämangiom, etc.)\n\n2. **Bildinterpretationsübungen** ohne konkrete Patientenangaben:\n   - CT-Abdomen mit hypodensen Arealen und Leberzysten\n   - Röntgen-Thorax mit basalen Infiltraten\n\nDiese Fälle sind **nicht vollständig** genug, um als klinische Präsentationsfälle extrahiert zu werden, da:\n- Keine Patientendemografie (Alter/Geschlecht) angegeben ist\n- Keine Anamnese oder Chief Complaints vorhanden sind\n- Es sich um reine Bildinterpretationsaufgaben handelt\n- Der Kontext eine mündliche Prüfungssituation ist, keine Patientenvorstellung"
+  }
+]

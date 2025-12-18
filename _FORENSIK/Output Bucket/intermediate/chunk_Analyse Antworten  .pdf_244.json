@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Frage-Antwort-Paaren zu theoretischem Wissen:**\n   - AAA-Screening\n   - Stanford-Klassifikation für thorakale Aortenaneurysmen\n   - Shunt-Funktion bei Hämodialyse\n   - Portkatheter\n   - Metformin-Pharmakologie\n   - Strahlungsphysik (Energiedosis, Äquivalentdosis, Alpha-Strahlung)\n\n2. **Prüfungsprotoll-ähnliche Strukturen:**\n   - Kandidatenantworten\n   - Musterlösungen\n   - Fehleranalysen und Tipps\n\nEs gibt **keine Patientenpräsentationen** mit:\n- Konkreten Patienten (Alter/Geschlecht)\n- Anamnese/Beschwerden\n- Unfallmechanismen\n- Klinischen Untersuchungsbefunden\n- Bildgebungsergebnissen\n- Diagnostischen Überlegungen für einen spezifischen Fall\n\nDies ist rein didaktisches/theoretisches Prüfungsmaterial ohne klinische Falldarstellungen."
+  }
+]

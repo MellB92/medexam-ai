@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 72/84) enthält **keine vollständigen klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Systematischen Therapieprotokollen** zur Divertikulitis (Stadien I-IV mit entsprechenden Behandlungsstrategien)\n2. **Allgemeinen Krankheitsbeschreibungen** zu:\n   - Pankreatitis (Definition, Ätiologie, Klinik, Diagnostik, Therapie)\n   - Cholezystitis (Definition, Ätiologie, Klinik)\n3. **Theoretischem Lehrbuchwissen** ohne konkrete Patientenbeispiele\n4. **Differentialdiagnostischen Listen**\n5. **Komplikationsübersichten**\n\nEs handelt sich um strukturierte Lernkarten für das mündliche Staatsexamen in Innerer Medizin, die **konzeptionelles Wissen vermitteln**, aber **keine konkreten Patientenfälle mit individuellen Charakteristika** (wie Alter, Geschlecht, spezifische Anamnese, individuelle Befunde) präsentieren.\n\nFür eine Extraktion als klinischer Fall wären notwendig:\n- Ein konkreter Patient mit Alter/Geschlecht\n- Eine spezifische Vorstellungssituation\n- Individuelle Befunde oder Untersuchungsergebnisse\n- Eine konkrete diagnostische/therapeutische Fragestellung"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Bewusstseinsstörung mit Blässe, Tachykardie und Hunger - Hypoglykämie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Bewusstseinsstörung",
+      "Blässe",
+      "Tachykardie",
+      "Hunger"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Blässe",
+      "Tachykardie"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hypoglykämie"
+    ],
+    "diagnostic_approach": [
+      "Blutzuckermessung"
+    ]
+  },
+  {
+    "title": "Junge Patientin mit Hypoglykämie nach Alkoholkonsum",
+    "patient_age": "jung",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Hypoglykämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Alkohol-induzierte Hypoglykämie"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Blutzuckermessung"
+    ]
+  },
+  {
+    "title": "Sjögren Syndrom - Fallpräsentation 23.05 #3",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Herzuntersuchung",
+      "Lungenuntersuchung",
+      "neurologische Untersuchung mit Muskeleigenreflexen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sjögren Syndrom"
+    ],
+    "diagnostic_approach": [
+      "körperliche Untersuchung vom Kopf bis Fuß",
+      "Herzuntersuchung",
+      "Lungenuntersuchung",
+      "Pulsstatusbeurteilung",
+      "neurologische Untersuchung"
+    ]
+  },
+  {
+    "title": "Sjögren Syndrom - Fallpräsentation 23.05 #2",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sjögren Syndrom",
+      "Sicca-Syndrom"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "80-jähriger Mann mit Ikterus",
+    "patient_age": "80 Jahre",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Ikterus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Ikterus"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Gilbert Syndrom"
+    ],
+    "diagnostic_approach": [
+      "Bilirubin-Bestimmung"
+    ]
+  }
+]

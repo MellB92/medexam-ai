@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Patientin mit blutigen Diarrhoen, Bauchschmerzen, Fieber und Gewichtsverlust",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Blutige Diarrhoen",
+      "Bauchschmerzen",
+      "Fieber",
+      "Gewichtsverlust"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Abdomensonographie: Beurteilung freie Flüssigkeit",
+      "Gegebenenfalls CT-Abdomen",
+      "Koloskopie: Hyperämie, Fibrin Beläge"
+    ],
+    "laboratory_findings": [
+      "Entzündungsparameter",
+      "Hb",
+      "Bakteriologische Stuhluntersuchung mit Antibiogramm",
+      "CRP",
+      "BSG",
+      "Calprotectin",
+      "Elektrolyte",
+      "Leber- und Nierenwerte"
+    ],
+    "suspected_diagnosis": [
+      "CED insbesondere Colitis Ulcerosa",
+      "Sigmadivertikulitis",
+      "Infektiöse Gastroenteritis",
+      "Pyelonephritis",
+      "HWI",
+      "Darminfektionen (Salmonellen, Shigellen, Campylobacter)",
+      "Reizdarmsyndrom",
+      "Ischämische Kolitis"
+    ],
+    "diagnostic_approach": [
+      "Labor: Blutbild, Entzündungsparameter, Elektrolyte, Leber- und Nierenwerte, Calprotectin",
+      "Stuhluntersuchung: Bakteriologische Kultur, Parasiten, Calprotectin",
+      "Sonographie: Abdomen-Ultraschall zur Beurteilung der Darmwand",
+      "Koloskopie mit Biopsie: Goldstandard zur Diagnosesicherung",
+      "Bildgebung (MRT oder CT): Bei unklarer Diagnose oder Komplikationen"
+    ]
+  },
+  {
+    "title": "Intoxikierter Patient",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Intoxikation"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "ABCD-Schema",
+      "Neurologischer Status (GCS, Pupillen)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Gezielte Labordiagnostik"
+    ],
+    "suspected_diagnosis": [
+      "Intoxikation"
+    ],
+    "diagnostic_approach": [
+      "Eigenschutz sicherstellen",
+      "Airway: Atemwege freimachen und sichern",
+      "Breathing: Atmung überprüfen und unterstützen",
+      "Circulation: Kreislauf stabilisieren",
+      "Disability: Neurologischer Status",
+      "Exposure/Environment: Vollständige Untersuchung",
+      "Anamnese (Art und Menge des Toxins, Zeitpunkt der Einnahme)",
+      "Vitalparameterkontrolle",
+      "EKG",
+      "Therapie (Antidote, Elimination des Giftes)"
+    ]
+  }
+]

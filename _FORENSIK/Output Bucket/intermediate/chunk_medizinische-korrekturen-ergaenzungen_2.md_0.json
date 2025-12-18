@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Präsentationsfälle** im Sinne von konkreten Patientenkasuistiken. \n\nDas Dokument ist eine **Metaanalyse** bzw. ein **Verbesserungsvorschlag** für ein anderes medizinisches Analysedokument (\"TOKEN_SAFE_Medical_Analysis_20250909_1949.txt\"). Es beschreibt:\n\n1. **Systematische Mängel** in der ursprünglichen Analyse (fehlende Dosierungen, rechtliche Aspekte)\n2. **Ergänzungsbedarf** nach Fachbereichen (Notfallmedizin, Pharmakologie, etc.)\n3. **Allgemeine medizinische Konzepte** und deren unvollständige Darstellung\n\nDie erwähnten medizinischen Informationen sind:\n- **Dosierungsbeispiele** (Adrenalin, Doxycyclin, Metformin, Morphin)\n- **Klassifikationssysteme** (NYHA, GOLD, TNM)\n- **Therapieschemata** (WHO-Stufenschema, Antibiotikatherapie)\n- **Rechtliche Grundlagen** (BGB, IfSG, BtMG)\n\nEs gibt **keine einzelnen Patienten** mit:\n- Konkreter Anamnese\n- Spezifischen Symptomen/Beschwerden\n- Untersuchungsbefunden\n- Diagnostischem Prozess\n\nDies ist ein **Strukturdokument zur Qualitätssicherung**, kein Fallsammlungsdokument."
+  }
+]

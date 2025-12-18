@@ -1,0 +1,73 @@
+[
+  {
+    "title": "pAVK bei 68-jährigem Raucher mit Claudicatio intermittens",
+    "patient_age": "68 Jahre",
+    "patient_gender": "Mann",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen im Unterschenkel (Wadenbereich) bei Belastung seit 3 Wochen",
+      "Schmerzfreie Gehstrecke bis 400m",
+      "Kältegefühl im Bein",
+      "Husten morgens mit schleimigem Auswurf",
+      "Dyspnoe bei Belastung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie seit ca. 6 Jahren",
+      "Hyperlipidämie",
+      "Obstipation",
+      "Z.n. Wirbelsäulen-OP vor 3-4 Jahren (L4-L5)",
+      "Z.n. Speicheldrüsenentzündung vor 8 Wochen",
+      "Z.n. Corona-Infektion vor 3 Wochen"
+    ],
+    "comorbidities": [
+      "Chronische Bronchitis (morgendlicher produktiver Husten)"
+    ],
+    "risk_factors": [
+      "Raucher seit 50 Jahren, ca. 20 Zigaretten/Tag",
+      "Arterielle Hypertonie",
+      "Hyperlipidämie",
+      "Langer Flug vor 3 Wochen"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Raucher seit 50 Jahren, ca. 20 Zigaretten/Tag"
+    ],
+    "medications": [
+      "Lisinopril Kombi 20 mg 1-0-0",
+      "Atorvastatin 20 mg 0-0-1",
+      "Laxanzien"
+    ],
+    "allergies": [
+      "Penicillin (allergische Reaktion)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Beidseitige Inspektion der Beine und Füße - keine sichtbaren Veränderungen",
+      "Keine Ödeme",
+      "Pulse beidseits palpiert",
+      "Sensibilität beidseits geprüft",
+      "Hauttemperatur verglichen",
+      "Blutdruck beidseitig gemessen",
+      "Herzauskultation",
+      "Lymphknoten am Kopf getastet (Z.n. Parotitis)",
+      "Lungen- und Herzauskultation",
+      "Abdomenauskultation inkl. Aorta abdominalis und Aa. renalis"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "pAVK (periphere arterielle Verschlusskrankheit)",
+      "DD: TVT (Tiefe Venenthrombose)",
+      "DD: Periphere Neuralgie"
+    ],
+    "diagnostic_approach": [
+      "Klinische Diagnose der pAVK (Anamnese und subjektive Beschwerden)",
+      "Stadien-Einteilung nach Fontaine",
+      "ABI-Messung (Ankle-Brachial-Index)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

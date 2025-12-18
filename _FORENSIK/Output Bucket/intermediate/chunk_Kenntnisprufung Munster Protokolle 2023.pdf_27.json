@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Divertikulitis mit linksseitigen Unterbauchschmerzen",
+    "patient_age": "63 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "seit 3 Tagen zunehmende stechende Unterbauchschmerzen links",
+      "Übelkeit ohne Erbrechen",
+      "Fieber",
+      "Obstipation wechselnd mit dünnem Stuhl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Appendektomie",
+      "Z.n. Cholezystektomie",
+      "Z.n. Unterschenkelfraktur links",
+      "Z.n. Rippenfraktur links",
+      "Z.n. H. Pylori Infektion (behandelt)"
+    ],
+    "medications": [
+      "Vitamin D regelmäßig",
+      "Ibuprofen bei Bedarf",
+      "Diclofenac bei Bedarf",
+      "Dulcolax bei Bedarf"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "komplette körperliche Untersuchung durchgeführt",
+      "Fußpulse getastet",
+      "Keine Abwehrspannung erwähnt"
+    ],
+    "imaging_findings": [
+      "Ultraschall: Wandverdickung, Divertikel und kleine Flüssigkeit",
+      "Zusätzlich gezeigt: Rippenserienfraktur mit Hämatopneumothorax (alte Aufnahme)",
+      "Röntgen Knie: laterale Tibiaplateaufraktur (alte Aufnahme, Schatzker-Klassifikation)",
+      "EKG vom Vater (82J): Linkstyp mit T-Negativierung in II, aVL, V4-6"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Divertikelkrankheit",
+      "Divertikulitis (ohne Abwehrspannung nur Divertikelkrankheit laut Prüfer)"
+    ],
+    "diagnostic_approach": [
+      "Anamnese und körperliche Untersuchung",
+      "Sonographie Abdomen",
+      "Zugang anlegen"
+    ]
+  },
+  {
+    "title": "Sturz von Leiter aus 4 Metern Höhe mit präsynkopalem Schwindel",
+    "patient_age": "64 Jahre",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Sturz aus 4 Metern Höhe von einer Leiter",
+      "Schwindel vor dem Unfall"
+    ],
+    "accident_mechanism": "Sturz von Leiter aus 4 Metern Höhe beim Pflaumenpflücken",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": []
+  }
+]

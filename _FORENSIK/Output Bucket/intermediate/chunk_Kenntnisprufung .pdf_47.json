@@ -1,0 +1,150 @@
+[
+  {
+    "title": "SHT nach Synkope mit AV-Block III und Aortenklappenstenose",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schwindel",
+      "Kopfschmerzen",
+      "Fehlstellung kleiner Finger rechts",
+      "rezidivierende Synkopen"
+    ],
+    "accident_mechanism": "Synkope mit nachfolgendem Sturz",
+    "pre_existing_conditions": [
+      "Z.n. X-Beine und Umstellungsosteotomie",
+      "Z.n. Venenstripping",
+      "Z.n. Hepatitis A nach Japan-Reise"
+    ],
+    "comorbidities": [
+      "AV-Block III",
+      "Aortenklappenstenose",
+      "chronische venöse Insuffizienz",
+      "Ulcus cruris"
+    ],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter mit Hüft-TEP",
+      "Vater mit Multiplem Myelom"
+    ],
+    "social_history": [],
+    "medications": [
+      "Ibuprofen gelegentlich"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT: Subduralhämatom",
+      "CT: Epiduralhämatom",
+      "CT: Densfraktur",
+      "Röntgen: akute kardiale Dekompensation",
+      "CT: Multiples Myelom (in Familienanamnese beim Vater)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schädelhirntrauma nach Synkope",
+      "AV-Block III",
+      "Aortenklappenstenose",
+      "chronische venöse Insuffizienz mit Ulcus cruris"
+    ],
+    "diagnostic_approach": [
+      "CT Schädel",
+      "EKG",
+      "Kipptischtest",
+      "Szintigraphie"
+    ],
+    "treatment_response": [
+      "Ulcus cruris mit Granulationsgewebe, gut behandelt"
+    ],
+    "complications": [
+      "Subduralhämatom",
+      "Epiduralhämatom",
+      "Densfraktur"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Heiserkeit seit 3 Monaten bei 37-jähriger Patientin mit Hypothyreose",
+    "patient_age": "37-jährige",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Heiserkeit seit 3 Monaten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [
+      "typische Hypothyreose-Symptome",
+      "WPW-Syndrom"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Schilddrüsenuntersuchung",
+      "neurologische Untersuchung",
+      "Lungenuntersuchung",
+      "Abdominaluntersuchung",
+      "Extremitätenuntersuchung",
+      "RR-Messung"
+    ],
+    "imaging_findings": [
+      "EKG: WPW-Syndrom mit Deltawelle",
+      "EKG: QRS-Komplex verbreitert",
+      "EKG: PQ-Zeit verkürzt",
+      "EKG: ST-Senkung Brustwand"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hypothyreose",
+      "Schilddrüsenkarzinom mit Infiltration Nervus recurrens",
+      "Aortenbogenaneurysma mit Kompression des Nervus recurrens links",
+      "Pancoast-Tumor rechts"
+    ],
+    "diagnostic_approach": [
+      "Schilddrüsenuntersuchung",
+      "TSH-Bestimmung",
+      "T3/T4-Bestimmung",
+      "EKG",
+      "Einteilung nach primär/sekundär/tertiär"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Lungenembolie nach Wadenkontusion beim Fußballspielen",
+    "patient_age": "junger Mann",
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "starke Brustschmerzen",
+      "Atemnot"
+    ],
+    "accident_mechanism": "Anprall/Tritt gegen die Wade beim Fußballspielen am Nachmittag",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Fußballspieler"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenembolie"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

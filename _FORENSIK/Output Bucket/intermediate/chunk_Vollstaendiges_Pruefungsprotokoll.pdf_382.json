@@ -1,0 +1,91 @@
+[
+  {
+    "title": "88-jährige Patientin mit lautem Schreien nach SHF-OP",
+    "patient_age": "88-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "schreit sehr laut"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Postoperatives Delir",
+      "Durchgangssyndrom"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Spannungspneumothorax im Röntgen-Thorax",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax mit Spannungspneumothorax"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Spannungspneumothorax"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Multiple Leberraumforderungen mit Aszites in Abdomensonographie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Abdomensonographie mit multiplen Raumforderungen",
+      "Aszites"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "HCC auf dem Boden einer Leberzirrhose",
+      "Metastasen",
+      "Kolon-CA als Primärtumor",
+      "Brust-CA als Primärtumor",
+      "Pankreas-CA als Primärtumor"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Junge Patientin mit Schultertrauma und proximaler Humerusfraktur",
+    "patient_age": "jung",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "linke Schulter",
+      "kleine Schürfwunde"
+    ],
+    "accident_mechanism": "frisches Trauma",
+    "pre_existing_conditions": [
+      "Morbus Crohn",
+      "Z.n. Splenektomie (Traumabedingt)",
+      "Z.n. Analabszess"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen: proximale dislozierte Humerusfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "proximale dislozierte Humerusfraktur"
+    ],
+    "diagnostic_approach": []
+  }
+]

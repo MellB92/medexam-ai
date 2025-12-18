@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle oder Präsentationsfälle**. \n\nDer Text ist ein **pharmakologisches Lehrbuch-Kapitel** aus \"Pharmakologie-Amboss\" und behandelt:\n\n1. **Antisympathotonika** (Clonidin, α-Methyldopa, Urapidil, Moxonidin, Reserpin, Tizanidin)\n2. **Alpha-Blocker** (Doxazosin, Prazosin, Terazosin, Tamsulosin, etc.)\n3. **Parasympatholytika/Anticholinergika** (Atropin, Scopolamin, Tropicamid, Biperiden, etc.)\n\nDer Inhalt besteht aus:\n- Wirkmechanismen\n- Indikationen\n- Nebenwirkungen\n- Pharmakologischen Eigenschaften\n- Übersichtstabellen\n\nEs werden zwar **Indikationen** genannt (z.B. \"Hypertensive Krise\", \"Alkoholentzugstherapie\", \"Benigne Prostatahyperplasie\"), aber dies sind **keine individuellen Patientenfälle** mit spezifischen klinischen Präsentationen, Anamnese, Befunden oder diagnostischen Überlegungen.\n\nDies ist reines **theoretisches Pharmakologie-Wissen** ohne Falldarstellungen."
+  }
+]

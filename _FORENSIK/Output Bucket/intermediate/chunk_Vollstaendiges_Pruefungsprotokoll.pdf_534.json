@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Allergische Reaktion mit Schwellung nach Gartenaufenthalt\",\n    \"patient_age\": \"ältere Frau\",\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Schwellung der Lippen\", \"Schwellung der Zunge\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Schwellung von Lippen und Zunge\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Allergische Reaktion\", \"Anaphylaktischer Schock\", \"Insektenstich (z.B. Wespe)\"],\n    \"diagnostic_approach\": [\"Notfallanamnese\", \"Körperliche Untersuchung\", \"Adrenalin 0,5 mg i.m. in den Oberschenkel\", \"Sauerstoffgabe\", \"Bei Bedarf Adrenalin-Infusion (verdünnt in 9 ml NaCl)\", \"Steroide (z.B. Prednisolon 0,5-1 mg i.v.)\"]\n  }\n]\n```"
+  }
+]

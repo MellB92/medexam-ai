@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Chronische Lumbalgie mit auffälligem Oberbauchbefund bei 65-jähriger Frau",
+    "patient_age": "65J",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Dumpfe Schmerzen im Lendenbereich seit ca. einem Jahr ohne Ausstrahlung",
+      "Schmerzen 5/10 auf Schmerzskala",
+      "Bewegungseinschränkung seit zwei Wochen",
+      "Unspezifische Gewichtszunahme in den letzten zwei Wochen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Bandscheibenvorfall LWS vor 20 Jahren operativ behandelt",
+      "Z.n. Koloskopie und Polypektomie vor 2 Jahren",
+      "Z.n. Koloskopie 2023 mit unauffälligem Befund"
+    ],
+    "comorbidities": [
+      "Verdacht auf Osteoporose",
+      "Adipositas",
+      "Erhöhter Blutdruck (160 mmHg bei Hausärztin gemessen)"
+    ],
+    "risk_factors": [
+      "Adipositas",
+      "Positive Familienanamnese für Kolonkarzinom"
+    ],
+    "family_history": [
+      "Mutter: Z.n. Kolonresektion 2021 bei Kolonkarzinom",
+      "Vater: COPD, Diabetes mellitus mit Komplikationen (diabetischer Fuß)",
+      "Bruder: Z.n. Sturz nach Fahrradunfall bei Synkope kardialer Genese (HRS)"
+    ],
+    "social_history": [
+      "Rentnerin",
+      "Vorher Stadtbibliotekerin",
+      "Verheiratet",
+      "2 Töchter",
+      "Hausärztin: Frau Weber"
+    ],
+    "medications": [
+      "Ibuprofen 400 mg bei Bedarf",
+      "Diclofenac bei Bedarf",
+      "Vitamin D 3000 IE 1x wöchentlich"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "RR 130/80 mmHg bei aktueller Untersuchung",
+      "RR 160 mmHg bei Hausärztin"
+    ],
+    "physical_examination": [
+      "Guter Allgemeinzustand und adipöses Erscheinungsbild",
+      "Schleimhaut rosig und gut befeuchtet",
+      "Cervikale Lymphknoten beidseits nicht vergrößert tastbar",
+      "Cor: Herztöne rein und rhythmisch, keine Nebengeräusche",
+      "Pulmo: Atemexkursion symmetrisch, vesikuläres Atemgeräusch, keine Nebengeräusche",
+      "Abdomen: weich, keine Druckschmerzen, Milz und Leber nicht vergrößert tastbar",
+      "Murphy negativ",
+      "McBurney negativ",
+      "Nierenlager nicht klopfschmerzhaft",
+      "Extremitäten: Kraft 5/5, keine Unterschenkelödeme",
+      "Pulse (dorsalis pedis, tibialis posterior, popliteal, radialis) beidseits sicher tastbar",
+      "Wirbelsäule: harmonisches Gangbild, LWS klopfschmerzhaft",
+      "Lasegue negativ",
+      "Motorik und Sensibilität unauffällig"
+    ],
+    "imaging_findings": [
+      "Auffällige Abdomensonographie mit Befund im Oberbauch rechts",
+      "Sonographie mit Hinweis auf Nebennierenkarzinom",
+      "Densitometrie geplant zur Osteoporose-Abklärung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Chronische Lumbalgie (Verdachtsdiagnose)",
+      "Nebennierenkarzinom",
+      "DD: Bandscheibenprolaps",
+      "DD: Wirbelsäulenfraktur bei Osteoporose",
+      "DD: Malignität",
+      "DD: Knochenmetastase"
+    ],
+    "diagnostic_approach": [
+      "Fokussierte körperliche Untersuchung der LWS",
+      "Abdomensonographie durchgeführt",
+      "Blutdruckmessung",
+      "Densitometrie nächste Woche geplant",
+      "Weitere Abklärung der Befunde notwendig"
+    ],
+    "treatment_response": [
+      "Leichte Minderung der Schmerzen unter Ibuprofen 400 mg"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Termin zur Densitometrie nächste Woche",
+      "Weitere Abklärung der auffälligen Abdomensonographie erforderlich"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Myokarditis nach Grippeinfekt mit Herzinsuffizienz\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\n      \"Leistungsminderung\",\n      \"Dyspnoe\",\n      \"Unterschenkelödeme beidseits\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Grippeinfekt (vorangegangen)\"\n    ],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\n      \"Unterschenkelödeme beidseits\"\n    ],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Herzinsuffizienz bei Myokarditis\",\n      \"Perikarditis\",\n      \"Endokarditis\",\n      \"Myxödem\",\n      \"Nierenversagen\"\n    ],\n    \"diagnostic_approach\": [\n      \"Auskultation des Herzens (Herzgeräusche, Rhythmusstörungen)\",\n      \"Untersuchung der Lunge (Rasselgeräusche, Pleurareiben)\",\n      \"Periphere Pulse (Überprüfung der Extremitätenperfusion)\",\n      \"Blutdruckmessung\",\n      \"Überprüfung auf Ödeme (Unterschenkel, Sakrum, Gesicht)\",\n      \"Halsvenenstauung\",\n      \"Lebergröße und -konsistenz\",\n      \"Körpertemperatur\",\n      \"Blutentnahme für Laboruntersuchungen\"\n    ]\n  }\n]\n```"
+  }
+]

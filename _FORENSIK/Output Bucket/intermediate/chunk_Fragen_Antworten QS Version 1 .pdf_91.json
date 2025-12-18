@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 92/148) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Frage 268 (teilweise)**: Systematische Darstellung des Polytrauma-Managements nach ATLS-Prinzip - dies ist allgemeines theoretisches Wissen ohne konkreten Patientenfall\n\n2. **Frage 269**: Hirntod-Diagnostik - Vorgehen und Protokoll - theoretisches/prozedurales Wissen ohne Patientenfall\n\n3. **Frage 270**: Monoklonale Antikörper - Einteilung, Mechanismus und Unterschiede - rein theoretisches pharmakologisches Wissen\n\n4. **Frage 271**: Beginnt mit \"TB-Diagnostik?\" - aber der eigentliche Inhalt ist im nächsten Chunk abgeschnitten\n\nEs handelt sich um ein Fragen-Antworten-Dokument zur Prüfungsvorbereitung mit theoretischem Wissen, nicht um klinische Fallpräsentationen mit konkreten Patienten."
+  }
+]

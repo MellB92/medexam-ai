@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Frau mit retroperitonealer Blutung nach Sturz\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Sturz\"],\n    \"accident_mechanism\": \"Sturz\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\n      \"CT-Abdomen axial Schnitt\",\n      \"keine Wirbelkörperfraktur\",\n      \"hypodense Flüssigkeit links\",\n      \"retroperitoneale Blutung\"\n    ],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Retroperitoneale Blutung nach Sturz\"],\n    \"diagnostic_approach\": [\"CT-Abdomen\"]\n  }\n]\n```"
+  }
+]

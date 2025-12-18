@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 136/155) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Lehrbuchinformationen zur Pyelonephritis:**\n   - Diagnostische Verfahren (CT, Urodynamik, Szintigraphie)\n   - Pathologie und Differentialdiagnosen\n   - Therapieprotokolle (empirische antibiotische Therapie)\n   - Komplikationen\n   - Besondere Patientengruppen (Schwangerschaft)\n\n2. **Lehrbuchinformationen zur Urozystitis:**\n   - Definitionen und Klassifikationen\n   - Ätiologie und Erreger\n   - Symptome und Diagnostik\n   - Differentialdiagnosen\n   - Therapierichtlinien\n\nEs handelt sich um **rein theoretisches, systematisches Wissen** ohne konkrete Patientenvorstellungen mit individuellen Angaben zu Alter, Geschlecht, spezifischen Beschwerden oder Untersuchungsbefunden."
+  }
+]

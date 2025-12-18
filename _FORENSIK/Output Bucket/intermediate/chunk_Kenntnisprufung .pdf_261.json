@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Trimalleoläre Sprunggelenksfraktur nach Motorradunfall",
+    "patient_age": "junger Mann",
+    "patient_gender": "Mann",
+    "severity": "moderate",
+    "chief_complaints": [
+      "heftige Schmerzen im Sprunggelenk rechts"
+    ],
+    "accident_mechanism": "Motorradunfall um 23:00 Uhr",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalparameter gemessen und unauffällig"
+    ],
+    "physical_examination": [
+      "pDMS durchgeführt",
+      "Puls über A. dorsalis pedis tastbar",
+      "Puls über A. tibialis posterior tastbar",
+      "Sensibilität im Seitenvergleich geprüft und intakt"
+    ],
+    "imaging_findings": [
+      "Röntgen Sprunggelenk rechts AP und seitlich",
+      "Frakturlinie der distalen Fibula oberhalb der Syndesmose",
+      "Fraktur im Innenknöchelbereich (Malleolus medialis)",
+      "Frakturlinie an der hinteren Kante der Tibia (Volkmann-Dreieck)",
+      "Trimalleoläre Fraktur",
+      "Weber C Fraktur - instabil"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Weber C Fraktur",
+      "Instabile trimalleoläre Fraktur mit Risiko der Nerven- und Gefäßverletzung"
+    ],
+    "diagnostic_approach": [
+      "Notfallanamnese",
+      "Vitalparameter-Messung",
+      "Körperliche Untersuchung mit pDMS",
+      "Röntgen Sprunggelenk in 2 Ebenen"
+    ],
+    "treatment_response": [
+      "Sofortoperation durchgeführt",
+      "Plattenosteosynthese der Fibula",
+      "Schraubenosteosynthese für Malleolus medialis",
+      "Stellschraube zur Stabilität von Tibia und Fibula für Syndesmosenheilung",
+      "Zuggurtungsosteosynthese",
+      "Postoperativ Teilbelastung",
+      "Thromboseprophylaxe mit NMH an Körpergewicht angepasst"
+    ],
+    "complications": [
+      "Risiko der Nerven- und Gefäßverletzung",
+      "Große Gefahr der Steifigkeit"
+    ],
+    "follow_up": [
+      "Teilbelastung postoperativ",
+      "Übungen und Krankengymnastik obligat",
+      "Thromboseprophylaxe zu Hause",
+      "Sport nach 6 Monaten erlaubt"
+    ]
+  },
+  {
+    "title": "Kolonkarzinom im Colon ascendens mit rektaler Blutung",
+    "patient_age": "70-jähriger",
+    "patient_gender": "Mann",
+    "severity": "moderate",
+    "chief_complaints": [
+      "starke Blutungen aus Analkanal"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalparameter alle gut/unauffällig"
+    ],
+    "physical_examination": [
+      "DRU (Digitale Rektale Untersuchung) durchgeführt",
+      "Hämorrhoiden nicht tastbar (nur sichtbar)",
+      "Tumore/Polypen potenziell tastbar"
+    ],
+    "imaging_findings": [
+      "Koloskopie: Normale Kolonstruktur nicht erkennbar",
+      "Keine Haustren sichtbar",
+      "Keine Gefäßzeichen erkennbar",
+      "Glatte Schleimhaut nicht zu sehen",
+      "Tumor zentral im Koloskopie-Bild sichtbar",
+      "Am Rand normale Struktur erkennbar",
+      "Tumor lokalisiert in Colon ascendens"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kolonkarzinom Colon ascendens",
+      "Stadium T2-N0-M0",
+      "Lokalisierter Tumor ohne Lymphknotenbefall oder Fernmetastasen"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Vitalparameter-Messung",
+      "Körperliche Untersuchung",
+      "Digitale Rektale Untersuchung",
+      "Koloskopie"
+    ],
+    "treatment_response": [
+      "Hemikolektomie rechts durchgeführt",
+      "Komplette Resektion: Ileum, Zökum, Colon ascendens und Teil des Colon transversum",
+      "Mitresektion von Fettgewebe und Lymphknoten",
+      "Ileotransversostomie als Anastomose",
+      "Keine adjuvante Chemotherapie bei T2-N0-M0 (leitliniengerecht)"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Koloskopie im nächsten Jahr nach Operation",
+      "Danach jährliche Koloskopie für 5 Jahre",
+      "Langfristig lebenslange Kontrollen zu bestimmten Zeitpunkten"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Patient mit Vorhofflimmern, Z.n. Apoplex und INR 4,5\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"Vorhofflimmern\", \"Z.n. Apoplex\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\"INR-Wert von 4,5\"],\n    \"suspected_diagnosis\": [],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

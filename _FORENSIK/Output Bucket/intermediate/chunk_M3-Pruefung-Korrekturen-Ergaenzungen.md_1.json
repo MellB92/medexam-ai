@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 2/2) enthält **keine klinischen Präsentationsfälle**. \n\nDas Dokument ist eine systematische Zusammenstellung von:\n- **Diagnostischen Kriterien** (z.B. IHS-Kriterien für Migräne)\n- **Klassifikationssystemen** (AO-Klassifikation, Child-Pugh-Score, Glasgow Coma Scale)\n- **Algorithmen** (ATLS-Schema, cABCDE)\n- **Rechtlichen Grundlagen** (Patientenrechtegesetz, Meldepflichten)\n- **Dosierungsempfehlungen** (Antibiotika, Analgetika, Antihypertensiva)\n- **Medizinischen Formeln** (Cockcroft-Gault, APACHE II)\n- **Prüfungsempfehlungen**\n\nEs handelt sich um **theoretisches Referenzmaterial** für die M3-Prüfungsvorbereitung, **nicht um konkrete Patientenfälle** mit individueller Anamnese, Befunden oder diagnostischem Vorgehen bei spezifischen Patienten."
+  }
+]

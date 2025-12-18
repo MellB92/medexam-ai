@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Schulterverletzung nach Sturz aus 2m Höhe - Subkapitale Humerusfraktur",
+    "patient_age": "38 Jahre",
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Akute Schmerzen in der linken Schulter",
+      "Eingeschränkte Schultermobilität"
+    ],
+    "accident_mechanism": "Sturz aus 2 Metern Höhe auf die linke Schulter vor einer Stunde bei Gartenarbeit, Gleichgewicht verloren",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Gartenarbeit"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalparameter in Ordnung"
+    ],
+    "physical_examination": [
+      "Inspektion: Pflaster entfernt, darunter Schürfwunde",
+      "Keine aktive Blutung",
+      "Keine offene Fraktur",
+      "Palpation: Durchblutung/Pulse der A. Radialis beidseitig tastbar",
+      "Sensibilität beidseitig gleich",
+      "Druckschmerzen im Bereich der Schulter",
+      "Funktionstest: Motorik in Handgelenk und Ellenbogen intakt",
+      "Schultergelenk sehr schmerzhaft und nicht mobil",
+      "A. dorsalis pedis tastbar",
+      "Vollständige Körperuntersuchung von Kopf bis Fuß durchgeführt",
+      "Motorik und Sensibilität anamnestisch intakt"
+    ],
+    "imaging_findings": [
+      "Schulter AP Aufnahme: Subkapitale Humerusfraktur",
+      "Skapula Y Aufnahme: Tuberculum majus Ausrissfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Subkapitale Humerusfraktur (bestätigt)",
+      "Tuberculum majus Ausrissfraktur (bestätigt)",
+      "V.a. Schulterluxation",
+      "V.a. Skapulafraktur"
+    ],
+    "diagnostic_approach": [
+      "Körperliche Untersuchung (Inspektion, Palpation, Funktionstest)",
+      "Röntgen Schulter AP",
+      "Skapula Y Aufnahme",
+      "Karpaltunnel-Tests auf Station nachzuholen"
+    ],
+    "treatment_response": [
+      "Wundversorgung mit Naht (Einzelknopf und nach Donati)"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

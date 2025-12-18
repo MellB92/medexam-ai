@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 565/585) enthält ausschließlich Prüfungsfragen und -antworten aus einem Prüfungsprotokoll. Es handelt sich um theoretisches Wissen und allgemeine medizinische Fragen, **nicht** um konkrete klinische Patientenfälle mit individuellen Präsentationen.\n\nDie Fragen behandeln:\n- Grünholzfraktur (theoretische Erklärung)\n- Häufige Frakturen bei Senioren (Liste)\n- Ursachen für Sinusbradykardie und AV-Block\n- Sjögren-Syndrom (Komplikationen, Histologie, Pathogenese)\n- Endokarditis-Behandlung\n- Emphysem und Alpha-1-Antitrypsin-Mangel\n- ADHS-Medikamente\n- 4 Ts und 4 Fs im Notfall\n- Strahlenarten\n- Siegelringzellkarzinom (theoretisch)\n- EKG-Diagnose \"Sinusbradykardie\" (ohne Patientenkontext)\n- AV-Block (Typen, Pathophysiologie, Behandlung)\n- Chronische Niereninsuffizienz\n- Rückenschmerzen (rote Flaggen)\n\n**Kein einziger vollständiger klinischer Fall** mit konkreter Patientenpräsentation, Anamnese, Untersuchungsbefunden oder diagnostischem Vorgehen bei einem individuellen Patienten ist vorhanden."
+  }
+]

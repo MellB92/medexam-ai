@@ -1,0 +1,73 @@
+[
+  {
+    "title": "GERD mit epigastrischen Schmerzen und Sodbrennen",
+    "patient_age": "51-jähriger",
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Seit 2 Wochen epigastrische zunehmende Schmerzen",
+      "Sodbrennen",
+      "Aufstoßen",
+      "Reizhusten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Handgelenkfraktur konservativ behandelt",
+      "Z.n. Divertikulitis konservativ behandelt",
+      "Z.n. Schilddrüsen-OP wegen Knoten"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Nikotinkonsum 25 pack years",
+      "Langzeiteinnahme NSAID seit 5 Monaten"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Raucher 25PY"
+    ],
+    "medications": [
+      "Ibuprofen 600mg 3x täglich seit 5 Monaten (wegen Handgelenkschmerzen)",
+      "L-Thyroxin 100mcg täglich"
+    ],
+    "allergies": [
+      "Senf"
+    ],
+    "vital_signs": [
+      "BD beidseits gemessen",
+      "Puls gemessen"
+    ],
+    "physical_examination": [
+      "Rektus Diastase",
+      "Herz: unauffällig",
+      "Lungen: unauffällig",
+      "Nieren: unauffällig",
+      "Schilddrüse: unauffällig",
+      "Lymphknoten: unauffällig",
+      "Abdomen: bis auf Rektus Diastase unauffällig",
+      "Motorik: unauffällig",
+      "Sensibilität: unauffällig",
+      "Hirnnerven: grob unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "GERD (Gastroösophageale Refluxkrankheit)",
+      "DD: ACS (klinisch ausgeschlossen)"
+    ],
+    "diagnostic_approach": [
+      "Körperliche Untersuchung durchgeführt",
+      "Venöser Zugang gelegt",
+      "ÖGD geplant nach Ausschluss Red Flags",
+      "Empirische PPI-Therapie erwogen",
+      "EKG und Troponin zum ACS-Ausschluss"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Mögliche chronische Laryngitis mit Reizhusten",
+      "Risiko für Barrett-Ösophagus"
+    ],
+    "follow_up": [
+      "ÖGD-Kontrolle nach 4 Wochen PPI-Therapie oder bei Komplikationen"
+    ]
+  }
+]

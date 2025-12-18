@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 109/115) enthält **keine klinischen Patientenfälle**. Es handelt sich ausschließlich um einen **alphabetisch sortierten Index/Arzneimittelverzeichnis** aus einem pharmakologischen Lehrbuch (\"Last Minute Pharmakologie\").\n\nDer Text listet systematisch Medikamentennamen mit ihren pharmakologischen Klassen und Indikationen auf (z.B. \"Etanercept – Antagonist am TNF-α-Rezeptor, rheumatoide Arthritis\", \"Furosemid – Schleifendiuretikum\" etc.).\n\nEs gibt:\n- Keine Patientenbeschreibungen\n- Keine Anamnesen\n- Keine Symptompräsentationen\n- Keine Untersuchungsbefunde\n- Keine diagnostischen Überlegungen\n\nDies ist reines Nachschlage-/Indexmaterial ohne klinische Falldarstellungen."
+  }
+]

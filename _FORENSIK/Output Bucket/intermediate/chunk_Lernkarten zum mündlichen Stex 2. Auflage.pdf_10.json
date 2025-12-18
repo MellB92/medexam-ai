@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 11/84) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Lernkarten-Inhalten zur körperlichen Untersuchung** (McBurney-Punkt, Lanz-Punkt, Blumberg-Zeichen, etc.)\n2. **Systematischen Untersuchungstechniken** (Palpation bei Aszites, digitale rektale Untersuchung, Leistenhernie-Untersuchung)\n3. **Theoretischem Wissen zur Hyperthyreose** (Definition, Ätiologie, Klinik, Diagnostik, Therapie)\n\nEs handelt sich um **strukturiertes Lehrbuchwissen** ohne konkrete Patientenpräsentationen. Die Informationen zur Hyperthyreose sind allgemein gehalten und beschreiben:\n- Typische Symptome (z.B. \"Frauen > 35 J.\" bei Morbus Basedow)\n- Diagnostische Kriterien\n- Therapieoptionen\n- Komplikationen (thyreotoxische Krise)\n\nEs gibt **keinen individuellen Patientenfall** mit spezifischer Anamnese, Untersuchungsbefunden und diagnostischem Vorgehen, der als klinischer Präsentationsfall extrahiert werden könnte."
+  }
+]

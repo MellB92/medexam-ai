@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Knieschmerzen nach Rotationstrauma",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Knieschmerzen"
+    ],
+    "accident_mechanism": "Rotationstrauma",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "klinische Zeichen für Kreuzbandruptur"
+    ],
+    "imaging_findings": [
+      "MRT Knie",
+      "Aufhellungen im Gelenkspalt",
+      "Innenmeniskusriss",
+      "Innenbandläsion",
+      "hyperdense Areale medial"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kreuzbandandruptur",
+      "Meniskusriss",
+      "Innenbandläsion",
+      "Unhappy Triad"
+    ],
+    "diagnostic_approach": [
+      "Sonographie",
+      "MRT",
+      "Röntgenbild",
+      "klinische Zeichen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Kopfschmerzen mit Nackensteifigkeit nach Trauma",
+    "patient_age": "60J",
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "Kopfschmerzen",
+      "Nackensteifigkeit",
+      "Photophobie",
+      "Übelkeit",
+      "Erbrechen",
+      "Schlafstörung wegen Schmerzen"
+    ],
+    "accident_mechanism": "Stein auf Nacken gefallen vor 14 Tagen",
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "paroxysmales Vorhofflimmern",
+      "Lumbago-Ischias-Syndrom",
+      "Z.n. Angina pectoris",
+      "Z.n. OSG-Fraktur rechts konservativ behandelt"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Alkoholkonsum 2 Bier täglich"
+    ],
+    "family_history": [
+      "Vater verstorben an Ösophaguskarzinom",
+      "Mutter verstorben Ende 70J mit Leberproblemen"
+    ],
+    "social_history": [
+      "geschieden",
+      "Verwaltung in Autovermietung",
+      "lebt mit Freunden",
+      "1,71 m",
+      "80 kg"
+    ],
+    "medications": [
+      "ACE-Hemmer",
+      "Calciumkanalblocker",
+      "ASS",
+      "Fentanyl-Pflaster"
+    ],
+    "allergies": [
+      "Pollen",
+      "Antibiotika"
+    ],
+    "vital_signs": [
+      "RR beidseits gemessen"
+    ],
+    "physical_examination": [
+      "neurologische Untersuchung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Leukozyten erhöht",
+      "CRP erhöht"
+    ],
+    "suspected_diagnosis": [
+      "HWS-Fraktur",
+      "Meningitis",
+      "Kleinhirn-Apoplex"
+    ],
+    "diagnostic_approach": [
+      "Stifneck legen",
+      "Labor",
+      "Röntgen-HWS",
+      "Blutkultur",
+      "Hirn-CT/MRT vor Lumbalpunktion",
+      "PCT bestimmen",
+      "erhöhten Hirndruck ausschließen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Isolierung"
+    ]
+  }
+]

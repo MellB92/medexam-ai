@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 43/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** zu verschiedenen medizinischen Themen:\n   - Ventrikuläre Tachykardie und Torsades de Pointes\n   - AV-Block dritten Grades\n   - Schrittmachertherapie\n   - Tiefe Venenthrombose (TVT) und Lungenarterienembolie (LAE)\n   - Thrombophilien\n   - Gastritis\n\n2. **Musterlösungen** zu diesen Fragen\n\n3. **Kandidatenantworten** (meist \"Nicht im Protokoll enthalten\")\n\nEs handelt sich um ein **Prüfungsprotokoll** mit Wissensfragen und -antworten, **nicht um Patientenfallpräsentationen**. Es werden keine konkreten Patienten mit Alter, Geschlecht, spezifischen Beschwerden oder individuellen Untersuchungsbefunden beschrieben.\n\nDaher: **Leeres Array**"
+  }
+]

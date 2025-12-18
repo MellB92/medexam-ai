@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Herpes Zoster - Diagnostik und Therapie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Herpes Zoster Bild"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Herpes Zoster"
+    ],
+    "diagnostic_approach": [
+      "Bilddiagnostik"
+    ]
+  },
+  {
+    "title": "Akutes Thoraxsyndrom mit Aortendissektion",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Plötzliche Brustschmerzen",
+      "Luftnot"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Schlechte Sauerstoffsättigung"
+    ],
+    "imaging_findings": [
+      "Aortendissektion im CT"
+    ],
+    "laboratory_findings": [
+      "Metabolische Azidose",
+      "Hyperkaliämie",
+      "Laktat erhöht"
+    ],
+    "suspected_diagnosis": [
+      "Aortendissektion",
+      "Mesenteriale Ischämie",
+      "Hypoxie"
+    ],
+    "diagnostic_approach": [
+      "Notruf 112",
+      "Monitoring Vitalzeichen",
+      "EKG",
+      "BGA",
+      "Multidetektor CT-Untersuchung",
+      "Operative Behandlung"
+    ]
+  },
+  {
+    "title": "Karpaltunnelsyndrom in der Schwangerschaft",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Schwangerschaft"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Ödem im rechten Handgelenk",
+      "Kompression des Gewebes"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Karpaltunnelsyndrom"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Gasbrand",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Gasbrand durch C. perfringens"
+    ],
+    "diagnostic_approach": []
+  }
+]

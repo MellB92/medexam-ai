@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Schädel-Hirn-Trauma nach Motorradunfall mit Hirnödem",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": "Motorradunfall",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT-Aufnahme des Schädels",
+      "Ventrikel sehr eng und komprimiert",
+      "Zeichen eines Hirnödems"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schädel-Hirn-Trauma (SHT)",
+      "Hirnödem",
+      "Erhöhter Schädelinnendruck",
+      "Risiko einer transtentoriellen Herniation"
+    ],
+    "diagnostic_approach": [
+      "CT-Schädel"
+    ]
+  },
+  {
+    "title": "GERD mit epigastrischen Beschwerden und Regurgitation",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Epigastrische Schmerzen",
+      "Brennende Schmerzen",
+      "Retrosternale Ausstrahlung",
+      "Regurgitation",
+      "Meteorismus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Körperliche Untersuchung vom Kopf bis Fuß",
+      "Reflexe"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "GERD (Gastroösophageale Refluxkrankheit)",
+      "Angina Pectoris (DD)",
+      "KHK (DD)",
+      "Aortendissektion (DD)"
+    ],
+    "diagnostic_approach": [
+      "Körperliche Untersuchung",
+      "ÖGD (Ösophagogastroduodenoskopie)",
+      "Ausschluss kardialer Ursachen"
+    ]
+  }
+]

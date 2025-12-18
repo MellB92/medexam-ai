@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Thoraxschmerzen bei Risikopatient mit Adipositas und Diabetes",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Thoraxschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Adipositas",
+      "Rauchen",
+      "Diabetes"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Raucher"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patientin mit Hämatemesis und Bewusstseinstrübung",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "Hämatemesis (kaffeesatzartig)",
+      "Bewusstseinstrübung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "geschlossene Augen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "obere gastrointestinale Blutung"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Junger Mann mit diabetischer Ketoazidose",
+    "patient_age": "22-jähriger",
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Zittern",
+      "Schwitzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Tachykardie"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Ketoazidose in BGA"
+    ],
+    "suspected_diagnosis": [
+      "diabetische Ketoazidose"
+    ],
+    "diagnostic_approach": [
+      "BGA"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Postoperatives Fieber nach Appendektomie mit Leberabszess",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Fieber postoperativ"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Zustand nach Appendektomie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Leberabszess"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Leberabszess nach Appendektomie"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Schnell wachsender Tumor am Unterschenkel ohne Trauma",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "schnell wachsender Tumor im Unterschenkelbereich"
+    ],
+    "accident_mechanism": "kein Trauma",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Liposarkom"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

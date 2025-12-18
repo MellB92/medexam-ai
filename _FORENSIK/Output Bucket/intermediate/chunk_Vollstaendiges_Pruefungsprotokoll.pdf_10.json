@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Hämatom im linken Oberbauch nach Trauma\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Hämatom im linken Oberbauch\"],\n    \"accident_mechanism\": \"Trauma\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Hämatom im linken Oberbauch\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Milzruptur\", \"Leberruptur\", \"Nierenverletzungen\", \"Verletzungen des Pankreas\", \"Verletzungen des Darms\"],\n    \"diagnostic_approach\": [\"eFAST (extended focused assessment with sonography for trauma)\", \"Ultraschall nach freier Flüssigkeit im Bauchraum\", \"CT des Abdomens\"]\n  }\n]\n```"
+  }
+]

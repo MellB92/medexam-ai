@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Lungenembolie nach Verkehrsunfall mit Oberschenkelfraktur\",\n    \"patient_age\": \"70-jährig\",\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Lungenembolie\"],\n    \"accident_mechanism\": \"Verkehrsunfall mit Oberschenkelfraktur vor 4 Wochen\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Lungenembolie nach Trauma\", \"Nicht-natürlicher Tod\"],\n    \"diagnostic_approach\": []\n  },\n  {\n    \"title\": \"Plötzlicher Tod eines scheinbar gesunden Säuglings\",\n    \"patient_age\": \"Säugling\",\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Plötzlicher Tod\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"scheinbar gesund\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Plötzlicher Kindstod\", \"Tod durch Fremdeinwirken\", \"Ungeklärte Todesursache\"],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Kreuzbandruptur",
+    "patient_age": null,
+    "patient_gender": "Frau",
+    "severity": null,
+    "chief_complaints": [
+      "Knieschmerzen",
+      "Gehschwierigkeiten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Asthma",
+      "Hyperlipidämie"
+    ],
+    "comorbidities": null,
+    "risk_factors": null,
+    "family_history": [
+      "Mutter: Niereninsuffizienz",
+      "Vater: Herzoperation"
+    ],
+    "social_history": [
+      "Unregelmäßige Einnahme der Pille"
+    ],
+    "medications": null,
+    "allergies": null,
+    "vital_signs": null,
+    "physical_examination": [
+      "Lachmann-Test",
+      "Steinmann 1 und 2",
+      "Schubladen-Test",
+      "Payr-Test",
+      "pDMS",
+      "Umgangsdifferenz",
+      "Tanzende Patella"
+    ],
+    "imaging_findings": [
+      "MRT des Knies (sagittaler Schnitt)"
+    ],
+    "laboratory_findings": null,
+    "suspected_diagnosis": [
+      "Kreuzbandruptur"
+    ],
+    "diagnostic_approach": null,
+    "treatment_response": null,
+    "complications": null,
+    "follow_up": null
+  }
+]

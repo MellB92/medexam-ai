@@ -1,0 +1,288 @@
+[
+  {
+    "title": "Lungenkrebs",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Hämoptysen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "zentrales Lungenkarzinom im Röntgenthorax",
+      "Verschattung im Röntgenthorax"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenkarzinom, SCLC und NSCLC"
+    ],
+    "diagnostic_approach": [
+      "CT mit Kontrastmittel"
+    ],
+    "treatment_response": [
+      "NSCLC bevorzugt operativ",
+      "SCLC bevorzugt Chemoradio"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Perikarditis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Brustschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Perikardreibegeräusch"
+    ],
+    "imaging_findings": [
+      "EKG mit nicht-ischämischer ST-Hebung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perikarditis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "NSAR, ggf. Glukokortikoide"
+    ],
+    "complications": [
+      "Perikarderguss",
+      "Verwachsungen, Schwiele"
+    ],
+    "follow_up": [
+      "Colchizin zur Rezidivprophylaxe"
+    ]
+  },
+  {
+    "title": "Gichtanfall",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Arthritis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Hyperurikämie"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Ernährung mit purinreichen Lebensmitteln"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Gichtknoten"
+    ],
+    "imaging_findings": [
+      "Röntgenbild mit Gichtarthritis"
+    ],
+    "laboratory_findings": [
+      "Hyperurikämie"
+    ],
+    "suspected_diagnosis": [
+      "Gichtanfall"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "NSAR, ggf. Glukokortikoide, ggf. Colchizin",
+      "Purinarme Diät bei asymptomatischer Hyperurikämie"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Gallenblasenentzündung",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Beschwerden mit Gallensteinen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Gallenblasensteine"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Tachypnoe",
+      "Blutdruck unter 100 mmHg"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Gallenblasenentzündung im Ultraschall"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Galleleckage",
+      "Peritonitis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Antibiotikatherapie (z.B. Piperacillin/Tazobactam)"
+    ],
+    "complications": [
+      "Sepsis"
+    ],
+    "follow_up": [
+      "Cholezystektomie"
+    ]
+  },
+  {
+    "title": "Beckenfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "M. Bechterew"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Beckenfraktur im Röntgenbild"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Beckenfraktur"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "NSAR, ggf. Glukokortikoide",
+      "Biologika"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Kolitis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "chronisch-entzündliche Darmerkrankung"
+    ],
+    "comorbidities": [
+      "M. Bechterew"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Kolitis im Kolon-CT"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kolitis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Rippenfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rippenfraktur im Röntgenthorax"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rippenfraktur"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Apoplex",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "verwischte Sprache"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT-Bildgebung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "hämorrhagischer Schlaganfall"
+    ],
+    "diagnostic_approach": [
+      "CT zur Differenzierung zwischen ischämischem und hämorrhagischem Schlaganfall",
+      "Lysetherapie oder andere Reperfusionsmaßnahmen"
+    ],
+    "treatment_response": [
+      "Neurochirurgische Intervention bei hämorrhagischem Schlaganfall"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

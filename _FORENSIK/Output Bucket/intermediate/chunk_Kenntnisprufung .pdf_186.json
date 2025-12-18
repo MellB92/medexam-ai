@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Thrombozytopenie mit Petechien und Blutungsneigung",
+    "patient_age": "39 Jahre",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Petechien",
+      "Blaue Flecken an den Beinen",
+      "Zahnfleischblutung",
+      "Hämaturie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Fieber vor 4 Wochen",
+      "Husten vor 4 Wochen",
+      "Abgeschlagenheit vor 4 Wochen"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Reflexe untersucht",
+      "Pulse untersucht",
+      "Herztöne auskultiert"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "ITP (Immunthrombozytopenie)"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Thrombozytopenie mit petechialem Hautausschlag nach Grippe",
+    "patient_age": "39 Jahre",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Petechialer Hautausschlag auf Knöchel",
+      "Nausea",
+      "Hämaturie",
+      "Abgeschlagenheit",
+      "Spontane Blauflecke",
+      "Blutung beim Zähneputzen",
+      "Gewichtsverlust 2 kg",
+      "Schlafstörungen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Grippe vor 4 Wochen"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Hautausschlag vor 2 Wochen aufgetreten und wieder verschwunden",
+      "Sonst unauffällige körperliche Untersuchung",
+      "Wundnaht durchgeführt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Thrombozytopenie unklarer Genese"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

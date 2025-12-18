@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Trimalleoläre Sprunggelenksfraktur nach Motorradunfall",
+    "patient_age": "junger Mann",
+    "patient_gender": "männlich",
+    "chief_complaints": [
+      "heftige Schmerzen im Sprunggelenk rechts"
+    ],
+    "accident_mechanism": "Motorradunfall",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "pDMS-Kontrolle",
+      "Puls über A. dorsalis pedis und A. tibialis posterior",
+      "Sensibilitätsprüfung im Seitenvergleich"
+    ],
+    "imaging_findings": [
+      "AP- und seitliche Röntgenaufnahme des rechten Sprunggelenks",
+      "Frakturlinie der distalen Fibula oberhalb der Syndesmose",
+      "Fraktur im Innenknöchelbereich",
+      "Frakturlinie an der hinteren Kante der Tibia (Volkmann-Dreieck)",
+      "Weber C Fraktur",
+      "trimalleoläre Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "trimalleoläre Sprunggelenksfraktur",
+      "Weber C Fraktur",
+      "instabile Fraktur mit Risiko der Nerven- und Gefäßverletzung"
+    ],
+    "diagnostic_approach": [
+      "Notfallanamnese",
+      "Vitalparameter-Messung",
+      "körperliche Untersuchung mit pDMS",
+      "Röntgen in 2 Ebenen (AP und seitlich)",
+      "sofortige Operation: Plattenosteosynthese der Fibula, Schraubenosteosynthese des Malleolus medialis, Zuggurtungsosteosynthese, Stellschraube",
+      "Nachbehandlung: Teilbelastung, Krankengymnastik, Thromboseprophylaxe mit NMH",
+      "Sport nach 6 Monaten"
+    ]
+  },
+  {
+    "title": "Rektale Blutung bei 70-jährigem Patient mit Kolonkarzinom",
+    "patient_age": "70-jähriger",
+    "patient_gender": "männlich",
+    "chief_complaints": [
+      "starke Blutungen aus Analkanal"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Vitalparameter stabil",
+      "digitale rektale Untersuchung (DRU)"
+    ],
+    "imaging_findings": [
+      "Koloskopie: keine normale Darmstruktur erkennbar",
+      "keine Haustren sichtbar",
+      "keine Gefäßzeichen",
+      "glatte Schleimhaut nicht zu sehen",
+      "Tumor in der Mitte, am Rand normale Struktur",
+      "Lokalisation: Colon ascendens"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kolonkarzinom",
+      "T2-N0-M0 Stadium",
+      "lokalisierter Tumor ohne Lymphknotenbefall"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Vitalparameter-Messung",
+      "körperliche Untersuchung",
+      "digitale rektale Untersuchung",
+      "Koloskopie",
+      "Therapie: Hemikolektomie rechts (Resektion von Ileum, Zökum, Colon ascendens und Teil des Colon transversum mit Fettgewebe und Lymphknoten)",
+      "Ileotransversostomie",
+      "keine adjuvante Chemotherapie bei T2-N0",
+      "Nachsorge: Koloskopie jährlich für 5 Jahre",
+      "Hintergrund: Adenom-Karzinom-Sequenz, Entstehung aus Polypen (tubuläre, villöse, tubulo-villöse), v.a. aus villösen Polypen"
+    ]
+  },
+  {
+    "title": "Chronische Wunde bei Patient mit Grunderkrankung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "chronische Wunde"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus möglich",
+      "pAVK möglich",
+      "chronisch-venöse Insuffizienz (CVI) möglich"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "rundliche Hautveränderung mit rötlichem Rand",
+      "in der Mitte viele weißliche Fibrinbeläge",
+      "gelbliche Verfärbung (wahrscheinlich Eiter)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "chronische Wunde",
+      "diabetisches Ulkus",
+      "Ulcus cruris bei pAVK",
+      "Ulcus cruris venosum bei CVI"
+    ],
+    "diagnostic_approach": [
+      "Inspektion der Wunde",
+      "Beurteilung der Beläge",
+      "Abklärung der Grunderkrankung (Diabetes mellitus, pAVK, CVI)"
+    ]
+  }
+]

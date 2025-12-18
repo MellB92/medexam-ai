@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Zunehmende Rückenschmerzen bei bekanntem BSV und Osteoporose",
+    "patient_age": "63 Jahre",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Zunehmende Rückenschmerzen seit mehreren Monaten",
+      "Lumbalgie mit Verschlechterung in letzten 4 Wochen"
+    ],
+    "accident_mechanism": "Vor 2 Wochen mit rechtem Fuß umgeknickt",
+    "pre_existing_conditions": [
+      "Chronische Rückenschmerzen seit 20 Jahren",
+      "BSV im LWS-Bereich (vor 20 Jahren operiert)",
+      "Zustand nach Polypektomie vor 2 Jahren",
+      "Zustand nach schwerer Infektion mit Milz und Leber vor 20 Jahren"
+    ],
+    "comorbidities": [
+      "Osteoporose (neu diagnostiziert)",
+      "Bänderriss OSG rechts (mit Schiene ruhiggestellt)",
+      "Arterielle Hypertonie (erstmals erhöhter Blutdruck 165 mmHg systolisch)"
+    ],
+    "risk_factors": [
+      "Osteoporose"
+    ],
+    "family_history": [
+      "Mutter: Colonkarzinom (operiert, erhält Chemotherapie)",
+      "Vater: COPD (schwer einzustellen)"
+    ],
+    "social_history": [],
+    "medications": [
+      "Vitamin D 20000 IE wöchentlich",
+      "Ibuprofen gelegentlich"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "RR 165 mmHg systolisch (erstmalig erhöht)"
+    ],
+    "physical_examination": [
+      "Vollständige körperliche Untersuchung durchgeführt",
+      "Keine Vitalparameter gemessen in der Prüfungssituation",
+      "Vegetative Anamnese unauffällig"
+    ],
+    "imaging_findings": [
+      "Abdomensonografie: unklarer Befund in der rechten Flanke"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lumbalgie bei bekanntem BSV",
+      "Osteoporose",
+      "Arterielle Hypertonie",
+      "Unklarer Befund rechte Flanke (abklärungsbedürftig)",
+      "Bänderriss OSG rechts"
+    ],
+    "diagnostic_approach": [
+      "Abdomensonografie durchgeführt",
+      "Weitere Untersuchung für Osteoporose geplant"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Weitere Untersuchung für Osteoporose geplant",
+      "Nachsorge-Koloskopie bereits erfolgt (unauffällig)"
+    ]
+  }
+]

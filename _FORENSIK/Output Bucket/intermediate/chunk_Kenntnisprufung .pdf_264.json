@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Kolorektalkarzinom rechts mit blutigen Stuhlabgängen",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "blutige Stuhlabgänge"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Rektal-digitale Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [
+      "Koloskopie: Colon-CA auf der rechten Seite des Colons",
+      "Tumor gut erkennbar und beschreibbar"
+    ],
+    "laboratory_findings": [
+      "Labor durchgeführt"
+    ],
+    "suspected_diagnosis": [
+      "Kolonkarzinom rechts T2N0M0"
+    ],
+    "diagnostic_approach": [
+      "Rektal-digitale Untersuchung",
+      "Labor",
+      "Körperliche Untersuchung",
+      "Koloskopie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Hemikolektomie mit Ileotransversaler Anastomose vorgeschlagen",
+      "keine adjuvante Chemotherapie indiziert"
+    ]
+  },
+  {
+    "title": "Schnittverletzung beim Fischdosen öffnen",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "starke Blutung"
+    ],
+    "accident_mechanism": "Schnittverletzung beim Öffnen einer Fischdose",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schnittwunde mit starker Blutung"
+    ],
+    "diagnostic_approach": [
+      "Inspektion der Wunde"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Lokale Anästhesie mit Lidocain",
+      "Naht",
+      "Tetanusimpfung"
+    ]
+  },
+  {
+    "title": "Hirntod nach Autounfall mit potenzieller Organspende",
+    "patient_age": "35 Jahre",
+    "patient_gender": "m",
+    "severity": "critical",
+    "chief_complaints": [
+      "Koma"
+    ],
+    "accident_mechanism": "Autounfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Spenderausweis vorhanden"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "cCT mit sehr starkem Hirnödem",
+      "Ventrikel kaum zu sehen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hirntod"
+    ],
+    "diagnostic_approach": [
+      "Feststellen von Hirntod durch 2 unabhängige Fachärzte",
+      "einer davon Neurologe",
+      "DSO-Anmeldung",
+      "Eurotransplant Datenbank"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "8 Tage in IST im Koma",
+      "Organspende-Prozedur eingeleitet"
+    ]
+  },
+  {
+    "title": "Thrombozytopenie mit petechialem Hautausschlag nach Grippe",
+    "patient_age": "39 Jahre",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "petechiales Hautausschlag auf dem Knöchel",
+      "Nausea",
+      "Hämaturie",
+      "Abgeschlagenheit",
+      "spontane Blauflecke",
+      "Blutung beim Zähneputzen",
+      "Gewichtsverlust 2 kg",
+      "Schlafstörungen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "petechiales Hautausschlag auf dem Knöchel (Foto)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Thrombozytopenie unklarer Genese"
+    ],
+    "diagnostic_approach": [
+      "Körperliche Untersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Vor 4 Wochen Grippe",
+      "Vor 2 Wochen kam Hautausschlag und verschwand dann wieder"
+    ]
+  }
+]

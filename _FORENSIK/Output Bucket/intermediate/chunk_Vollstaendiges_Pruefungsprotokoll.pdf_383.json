@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 384/585) enthält ausschließlich **Prüfungsfragen und theoretische Wissensfragen**, jedoch **keine vollständigen klinischen Patientenfälle** mit konkreten Patientenpräsentationen.\n\nDie Fragen behandeln zwar klinische Themen wie:\n- Arthrose (Röntgenzeichen)\n- Gicht (Symptome, Podagra)\n- pAVK und KHK (Komorbiditäten)\n- Aortenaneurysma (AAA)\n- Bandscheibenvorfall\n- Hämorrhoiden\n- Lungenkarzinom\n- EKG-Interpretation\n\n**Jedoch fehlen:**\n- Konkrete Patientenangaben (Alter, Geschlecht)\n- Anamnestische Details\n- Spezifische Beschwerden eines individuellen Patienten\n- Vollständige Falldarstellungen\n\nEs handelt sich um ein **Prüfungsprotokoll** mit Frage-Antwort-Paaren zum theoretischen Wissen, nicht um klinische Fallpräsentationen."
+  }
+]

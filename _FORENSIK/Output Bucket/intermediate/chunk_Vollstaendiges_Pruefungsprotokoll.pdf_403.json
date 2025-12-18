@@ -1,0 +1,41 @@
+[
+  {
+    "title": "CED-Verdacht bei jungem Patienten mit Diarrhö und Ödemen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Diarrhö"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Ödeme"
+    ],
+    "imaging_findings": [
+      "freie Flüssigkeit",
+      "Darmwandverdickung",
+      "Kokardenphänomen bei CED und Divertikulitis"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "CED (Chronisch entzündliche Darmerkrankung)",
+      "bakterielle Diarrhö",
+      "Divertikulitis",
+      "Kolorektalkarzinom",
+      "HWI",
+      "Gynäkologische Ursachen"
+    ],
+    "diagnostic_approach": [
+      "Labor: BB (Anämie, Leukozytose), CRP, BSG, Nierenwerte, Leberparameter",
+      "MCV und MCH zur Anämieklassifikation",
+      "Eisenprofil, Retikulozyten",
+      "Abdomensonographie",
+      "EKG",
+      "Koloskopie mit Biopsien",
+      "Rektosigmoidoskopie/Proktoskopie alternativ",
+      "Koloskopie zeigte: Rötung, Entzündung, Pflastersteinrelief, Fibrin"
+    ]
+  }
+]

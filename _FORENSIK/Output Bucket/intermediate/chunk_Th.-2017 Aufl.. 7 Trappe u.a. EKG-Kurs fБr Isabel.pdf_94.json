@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Brugada-Syndrom nach Synkope\",\n    \"patient_age\": \"38-jähriger\",\n    \"patient_gender\": \"Mann\",\n    \"chief_complaints\": [\"Synkope\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\n      \"regelrechter Sinusrhythmus, Frequenz 85/min\",\n      \"P-Dauer 0,10 sek\",\n      \"PQ-Zeit 0,16 sek\",\n      \"Linkstyp\",\n      \"kleine Q-Zacken in I, aVL, V6\",\n      \"QRS-Komplex-Breite 0,11 sek\",\n      \"rSr′-Konfiguration in V1 und V2\",\n      \"Hebung der ST-Strecke in V1–V3\",\n      \"unauffällige T-Welle\",\n      \"inkompletter Rechtsschenkelblock verbunden mit ST-Strecken-Hebung in V1-V3\"\n    ],\n    \"suspected_diagnosis\": [\"Verdacht auf Brugada-Syndrom\"],\n    \"diagnostic_approach\": [\"Ajmalin-Test zur Diagnosesicherung\"]\n  }\n]\n```"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 28/148) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischem Wissen zu Medikamenten** (Antidepressiva mit Dosierungen, rechtlichen Aspekten)\n2. **Frage-Antwort-Paaren** zu medizinischen Themen:\n   - Frage 105: COPD (Tiffeneau-Index, GOLD-Stadien, LABA/LAMA/ICS)\n   - Frage 106: Leitsymptome der Lungenarterienembolie (LAE)\n   - Frage 107: Behandlung der LAE\n   - Frage 108: GERD (Ursachen und Therapie) - am Ende abgeschnitten\n\nDiese Fragen sind **allgemeines theoretisches Prüfungswissen** und keine konkreten Patientenfälle mit spezifischen klinischen Präsentationen (z.B. \"Ein 65-jähriger Mann kommt mit...\").\n\nEs gibt keine individuellen Patienten mit Alter, Geschlecht, spezifischen Beschwerden oder konkreten Untersuchungsbefunden."
+  }
+]

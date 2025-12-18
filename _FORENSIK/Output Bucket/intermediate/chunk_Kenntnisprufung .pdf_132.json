@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Akute Pankreatitis mit gürtelförmigen Bauchschmerzen und Patellafraktur",
+    "patient_age": "57-jährig",
+    "patient_gender": "männlich",
+    "severity": "severe",
+    "chief_complaints": [
+      "Seit gestern Abend starke gürtelförmige Bauchschmerzen",
+      "Zweimaliges Erbrechen seit gestern Abend",
+      "Tachykard"
+    ],
+    "accident_mechanism": "Sturz auf Treppe vor paar Wochen mit Aufprall auf linkes Knie",
+    "pre_existing_conditions": [
+      "Z.n. CTS links vor 15 Jahren, mehrmals operiert",
+      "Chronische Obstipation",
+      "Rezidivierende Stürze in letzter Zeit"
+    ],
+    "comorbidities": [
+      "Geschwollenes linkes Knie nach Sturz (nicht ärztlich behandelt)"
+    ],
+    "risk_factors": [
+      "Rezidivierende Stürze ohne Bewusstseinsstörungen"
+    ],
+    "family_history": [
+      "Bruder hat Diabetes mellitus Typ 1",
+      "Vater verstorben wegen Herzerkrankung",
+      "Mutter in Pflegeheim mit Wundheilungsstörung und offenen Wunden am Bein wegen Krampfadern",
+      "Sohn ist Arzt"
+    ],
+    "social_history": [],
+    "medications": [
+      "Dulcolax",
+      "Paracetamol bei Bedarf bei Cephalgie"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Tachykard",
+      "Kein Fieber",
+      "RR auf beiden Armen gemessen",
+      "Später hypotone",
+      "Positiver Schock-Index"
+    ],
+    "physical_examination": [
+      "Hartes Abdomen mit diffusen Druckschmerzen",
+      "Geschwollenes linkes Knie",
+      "Gerötetes Gesicht in letzter Zeit",
+      "Komplette körperliche Untersuchung durchgeführt",
+      "Neurologische Untersuchung mit Reflexen unauffällig"
+    ],
+    "imaging_findings": [
+      "Abdomen-Sonographie durchgeführt",
+      "Röntgen Knie (AP, seitlich, Aufnahmen durch gebeugtes Knie): Patellafraktur mit horizontaler Frakturlinie, interkondyläre Eminentia identifiziert",
+      "CT mit Kontrastmittel: Aorta dargestellt, Pankreas-Nekrose sichtbar"
+    ],
+    "laboratory_findings": [
+      "Labor gekreuzt",
+      "Cholestase-Parameter bestimmt",
+      "BGA durchgeführt"
+    ],
+    "suspected_diagnosis": [
+      "Akutes Abdomen",
+      "Akute Pankreatitis (ödematöse vs. nekrotisierende)",
+      "Patellafraktur links"
+    ],
+    "diagnostic_approach": [
+      "Notfall mit Rettungswagen",
+      "Vitalparameter: RR beidseits, Puls",
+      "Abdomen-Untersuchung",
+      "Abdomen-Sonographie",
+      "Komplette körperliche Untersuchung inkl. neurologische Untersuchung",
+      "Labor inkl. Cholestase-Parameter und BGA",
+      "Arztbrief auf Muster erstellt",
+      "Röntgen Knie in 3 Ebenen",
+      "CT Abdomen mit Kontrastmittel",
+      "EKG",
+      "Nicht-invasive diagnostische Maßnahmen",
+      "ERC (endoskopisch retrograde Cholangiographie) erwogen"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Entwicklung eines Schocks (hypotone, tachykard)",
+      "Reanimationspflichtigkeit",
+      "EKG-Veränderungen mit Bigeminus",
+      "Pankreas-Nekrose",
+      "Mögliches Aneurysma der A. lienalis mit Risiko der Ausdehnung durch Zwerchfellöffnungen in Thoraxraum"
+    ],
+    "follow_up": [
+      "Bei ödematöser Pankreatitis: konservative Therapie",
+      "Bei nekrotisierender Pankreatitis: zuerst Intensivstation-Behandlung",
+      "Chirurgische Intervention bei Pankreatitis erwogen",
+      "Patellafraktur: konservativ mit Gipsschiene (Bein darf belastet werden) oder chirurgisch mit Zuggurtungsosteosynthese"
+    ]
+  }
+]

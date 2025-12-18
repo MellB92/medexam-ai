@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Femurhalsfraktur nach Sturz bei geplantem Hämangiom-Eingriff\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"kann Bein nicht bewegen\"],\n    \"accident_mechanism\": \"Sturz\",\n    \"pre_existing_conditions\": [\"Hämangiom im Gehirn (geplante Operation)\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"liegt auf Liege\", \"Bein in Außenrotation\", \"kann Bein gar nicht bewegen\"],\n    \"imaging_findings\": [\"Röntgenbild zeigt Femurhalsfraktur\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Femurhalsfraktur\"],\n    \"diagnostic_approach\": [\"Vigo anlegen\", \"Röntgenaufnahme\"]\n  },\n  {\n    \"title\": \"Hinterwandinfarkt im EKG\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\"EKG-Bild mit Hinterwandinfarkt\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Hinterwandinfarkt\"],\n    \"diagnostic_approach\": [\"EKG\"]\n  }\n]\n```"
+  }
+]

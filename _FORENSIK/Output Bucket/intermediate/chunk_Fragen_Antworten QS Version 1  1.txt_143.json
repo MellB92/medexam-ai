@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Polytrauma mit Milz- und Leberruptur\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Polytrauma\"],\n    \"accident_mechanism\": \"Trauma (nicht näher spezifiziert)\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"GCS-Erhebung\", \"Pupillenreaktion\"],\n    \"imaging_findings\": [\"Milzruptur\", \"Leberruptur\"],\n    \"laboratory_findings\": [\"Blutbild\", \"Gerinnung\", \"Laktat\", \"Base Excess\", \"Blutgruppe\"],\n    \"suspected_diagnosis\": [\"Milzruptur\", \"Leberruptur\", \"Polytrauma\"],\n    \"diagnostic_approach\": [\"ABCDE-Schema nach ATLS\", \"eFAST (extended focused assessment sonography in trauma)\", \"Trauma-CT mit KM (Polytrauma-Spirale) bei Kreislaufstabilität\", \"ISS (Injury Severity Score)\", \"AAST-Klassifikation für Milz\", \"Moore-Klassifikation für Leber\"]\n  }\n]\n```"
+  }
+]

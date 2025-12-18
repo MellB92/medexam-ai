@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Brennende epigastrische Schmerzen mit Dysphagie bei NSAR-Einnahme",
+    "patient_age": "61 Jahre",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Brennende Schmerzen im Epigastrium seit Monaten",
+      "Schmerzen unter Sternum",
+      "Dysphagie (Schmerzen beim Schlucken)",
+      "Gewichtsabnahme 3 kg",
+      "Appetitminderung",
+      "Aufstoßen",
+      "Reizhusten",
+      "Nächtliche Beschwerden mit Schlafstörungen",
+      "Intensivierung der Beschwerden in letzten Wochen"
+    ],
+    "accident_mechanism": "Handgelenkverletzung vor 6 Monaten (sollte operiert werden)",
+    "pre_existing_conditions": [
+      "Zustand nach Schilddrüsen-OP vor 15 Jahren (Knoten)",
+      "L-Thyrox-Substitution",
+      "Zustand nach Darmentzündung vor einem Jahr",
+      "Handgelenkverletzung vor 6 Monaten mit konservativem Management"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Nikotinabusus 40 pack years",
+      "Alkoholkonsum",
+      "Langfristige NSAR-Einnahme ohne PPI (Ibuprofen)"
+    ],
+    "family_history": [
+      "Vater an TBC verstorben",
+      "Mutter hat aktuell gleiche Beschwerden",
+      "Bruder: Raucher mit Claudicatio intermittens"
+    ],
+    "social_history": [
+      "Raucher 40 pack years",
+      "Alkoholkonsum"
+    ],
+    "medications": [
+      "Ibuprofen täglich ohne PPI",
+      "L-Thyrox (Schilddrüsenhormon-Substitution)"
+    ],
+    "allergies": [
+      "Penicillinallergie"
+    ],
+    "vital_signs": [
+      "RR gemessen beidseits (Werte nicht angegeben)"
+    ],
+    "physical_examination": [
+      "Druckschmerz im Epigastrium",
+      "Ansonsten unauffällig",
+      "Pulse beidseits getastet",
+      "Auskultation durchgeführt",
+      "Neurologische Untersuchung mit Kranialnerven unauffällig",
+      "Reflexe geprüft",
+      "Handgelenk: Bewegungseinschränkung nach Verletzung"
+    ],
+    "imaging_findings": [
+      "ÖGD: Ösophagitis (Bilder gezeigt, Los Angeles Klassifikation)",
+      "Röntgen Handgelenk: Offene distale Radiusfraktur mit Ulnaluxation"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "V.a. Ösophagitis (Hauptdiagnose)",
+      "DD: ACS (Akutes Koronarsyndrom)",
+      "DD: Ulcus duodeni",
+      "DD: Ulcus ventriculi",
+      "DD: Pankreatitis",
+      "DD: Hiatushernie",
+      "DD: Barrett-Ösophagus (Präkanzerose)"
+    ],
+    "diagnostic_approach": [
+      "Ösophagogastroduodenoskopie (ÖGD) durchgeführt",
+      "Los Angeles Klassifikation der Ösophagitis",
+      "Barrett-Ösophagus Beurteilung",
+      "Helicobacter pylori Test",
+      "Patientenaufklärung über Präkanzerose"
+    ],
+    "treatment_response": [
+      "PPI-Therapie empfohlen",
+      "Bei keine Besserung nach 4 Monaten: Funduplikatio (nach Niessen oder Toupet)"
+    ],
+    "complications": [
+      "Mikroaspirationen als Ursache des Reizhustens",
+      "Risiko für Barrett-Ösophagus und Karzinomentstehung"
+    ],
+    "follow_up": [
+      "Kontrolle ÖGD",
+      "Re-Evaluation nach 4 Monaten PPI-Therapie",
+      "Bei Versagen der konservativen Therapie: Funduplikatio",
+      "Handgelenk: Platten-Osteosynthese vorgesehen (verzögert durch konservatives Management)"
+    ]
+  }
+]

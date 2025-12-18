@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Patientin Weber mit Kopfschmerzen und Sehstörungen\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\n      \"Kopfschmerzen seit ca. 2 Wochen\",\n      \"pochende Schmerzen im Stirn- und Schläfenbereich\",\n      \"Schmerzen beim Kauen\",\n      \"Schmerzen beim Haare Kämmen\",\n      \"Verschwommenes Sehen rechts\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Riesenzellarteritis (RZA)\"\n    ],\n    \"diagnostic_approach\": [\n      \"Temporalarterienbiopsie (Goldstandard)\",\n      \"Duplexsonographie der Temporalarterien\"\n    ]\n  }\n]\n```"
+  }
+]

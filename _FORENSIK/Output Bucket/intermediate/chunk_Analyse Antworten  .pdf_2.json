@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** (z.B. \"Welche körperliche Untersuchung führen Sie bei einer Patientin mit Hüftbeschwerden durch?\")\n\n2. **Musterlösungen/Leitlinien** mit allgemeinem medizinischem Wissen (z.B. AV-Block-Typen, COPD-Stadien, Femurkopffrakturen-Klassifikationen)\n\n3. **Wissensfragen ohne konkrete Patientenangaben** (z.B. \"Was ist ein Delir?\", \"Welche Neuroleptika kennen Sie?\")\n\n4. **Fragmentarische Erwähnungen** wie \"Patientin mit Hüftbeschwerden\" - dies ist jedoch nur Teil einer theoretischen Prüfungsfrage, kein ausformulierter klinischer Fall mit konkreten Patientendaten\n\n**Es gibt keine strukturierten Fallpräsentationen mit:**\n- Konkretem Patientenalter\n- Spezifischer Anamnese\n- Vollständiger klinischer Präsentation\n- Untersuchungsbefunden eines individuellen Patienten\n- Diagnostischem/therapeutischem Verlauf\n\nDies ist ein Prüfungsprotokoll mit Frage-Antwort-Paaren zum Abfragen von theoretischem Wissen, keine Fallsammlung."
+  }
+]

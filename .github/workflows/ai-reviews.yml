@@ -1,0 +1,307 @@
+name: Multiagent AI Pull Request Review
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
+jobs:
+  # ============================================
+  # Job 1: Claude – Medizin + Token-Waste + Security
+  # ============================================
+  claude_review:
+    name: Claude Medical & Token Efficiency Review
+    if: >
+      github.event_name == 'pull_request' ||
+      (github.event_name == 'issue_comment' &&
+       (contains(github.event.comment.body, '@claude') || contains(github.event.comment.body, '@ai-review')))
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq curl
+
+      - name: Get PR diff content
+        id: diff
+        uses: wagoid/commit-data-action@v5
+        with:
+          pull-request-number: ${{ github.event.pull_request.number || github.event.issue.number }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run Claude review (Sonnet 4.5)
+        id: claude_review
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DIFF: ${{ steps.diff.outputs.diff }}
+          MAX_DIFF_LENGTH: 8000
+        run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "ANTHROPIC_API_KEY not set. Skipping Claude review."
+            echo "review=Skipped: ANTHROPIC_API_KEY fehlt." >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          if [ -z "$DIFF" ]; then
+            echo "No diff content found. Skipping Claude review."
+            echo "review=Skipped: Kein Diff gefunden." >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          DIFF_CONTENT=$(echo "$DIFF" | head -c "$MAX_DIFF_LENGTH")
+
+          RESPONSE=$(curl -s https://api.anthropic.com/v1/messages \
+            -H "x-api-key: $ANTHROPIC_API_KEY" \
+            -H "anthropic-version: 2023-06-01" \
+            -H "content-type: application/json" \
+            -d "{
+              \"model\": \"claude-sonnet-4-5-20250929\",
+              \"max_tokens\": 2048,
+              \"temperature\": 0.1,
+              \"messages\": [
+                {
+                  \"role\": \"user\",
+                  \"content\": \"Review this code diff for Medexamenai (medical exam AI project). CRITICAL FOCUS AREAS:\\n\\n1. MEDICAL PRECISION & ACCURACY:\\n   - Verify medical terminology, dosages, and clinical guidelines are correct\\n   - Check for potential medical misinformation or dangerous recommendations\\n   - Ensure drug interactions, contraindications, and safety checks are properly handled\\n   - Validate that medical data processing maintains accuracy\\n\\n2. API TOKEN WASTE PREVENTION:\\n   - Identify unnecessary API calls or redundant requests\\n   - Check for missing caching mechanisms (prompt caching, response caching)\\n   - Verify proper budget checks before API calls\\n   - Look for inefficient token usage (oversized prompts, redundant context)\\n   - Ensure proper error handling to avoid retry loops that waste tokens\\n   - Check for missing rate limiting or token counting\\n   - Verify that max_tokens settings are appropriate (not too high)\\n   - Look for duplicate API calls that could be batched\\n\\n3. CODE QUALITY:\\n   - Security vulnerabilities\\n   - Error handling\\n   - Maintainability and best practices\\n\\nOutput MUST be in German. Format as Markdown. Begin with '## 🤖 Claude Sonnet 4.5 Review'.\\n\\nDiff:\\n$DIFF_CONTENT\"
+                }
+              ]
+            }" | jq -r '.content[0].text // .error.message // empty')
+
+          if [ -z "$RESPONSE" ]; then
+            echo "Claude API call failed or returned empty response."
+            REVIEW_RESULT="## ❌ Claude Review fehlgeschlagen\nDie AI konnte das Review nicht durchführen. Bitte prüfe die Logs im GitHub Actions Run."
+          else
+            REVIEW_RESULT="$RESPONSE"
+          fi
+
+          {
+            echo 'review<<EOF'
+            echo "$REVIEW_RESULT"
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Post Claude review comment
+        uses: actions/github-script@v7
+        env:
+          REVIEW: ${{ steps.claude_review.outputs.review }}
+        with:
+          script: |
+            const review = process.env.REVIEW;
+            if (review && !review.startsWith('Skipped:')) {
+              github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: review
+              });
+            }
+
+  # ============================================
+  # Job 2: Gemini – Medizin + Token-Waste + Codequalität
+  # ============================================
+  gemini_review:
+    name: Gemini Medical & Token Efficiency Review
+    if: >
+      github.event_name == 'pull_request' ||
+      (github.event_name == 'issue_comment' &&
+       (contains(github.event.comment.body, '@gemini') || contains(github.event.comment.body, '@ai-review')))
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq curl
+
+      - name: Get PR diff content
+        id: diff
+        uses: wagoid/commit-data-action@v5
+        with:
+          pull-request-number: ${{ github.event.pull_request.number || github.event.issue.number }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run Gemini 2.5 Pro review
+        id: gemini_review
+        env:
+          GOOGLE_AI_API_KEY: ${{ secrets.GOOGLE_AI_API_KEY }}
+          DIFF: ${{ steps.diff.outputs.diff }}
+          MAX_DIFF_LENGTH: 8000
+        run: |
+          if [ -z "$GOOGLE_AI_API_KEY" ]; then
+            echo "GOOGLE_AI_API_KEY not set. Skipping Gemini review."
+            echo "review=Skipped: GOOGLE_AI_API_KEY fehlt." >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          if [ -z "$DIFF" ]; then
+            echo "No diff content found. Skipping Gemini review."
+            echo "review=Skipped: Kein Diff gefunden." >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          DIFF_CONTENT=$(echo "$DIFF" | head -c "$MAX_DIFF_LENGTH")
+
+          RESPONSE=$(curl -s -X POST "https://generativelanguage.googleapis.com/v1/models/gemini-2.5-pro:generateContent?key=$GOOGLE_AI_API_KEY" \
+            -H "Content-Type: application/json" \
+            -d "{
+              \"contents\": [
+                {
+                  \"role\": \"user\",
+                  \"parts\": [
+                    {
+                      \"text\": \"Review this code diff for Medexamenai (medical exam AI). CRITICAL FOCUS:\\n\\n1. MEDICAL PRECISION:\\n   - Verify medical accuracy: dosages, terminology, clinical guidelines\\n   - Check for medical misinformation or safety risks\\n   - Validate drug interactions and contraindications\\n\\n2. API TOKEN WASTE:\\n   - Unnecessary API calls or redundant requests\\n   - Missing caching (prompt/response caching)\\n   - Missing budget checks before API calls\\n   - Inefficient token usage (oversized prompts, redundant context)\\n   - Missing error handling causing retry loops\\n   - Missing rate limiting or token counting\\n   - Inappropriate max_tokens settings\\n   - Duplicate calls that could be batched\\n\\n3. CODE QUALITY:\\n   - Security issues\\n   - Bugs\\n   - Best practices\\n\\nBe specific about token waste and medical accuracy issues. Output MUST be in German. Format the answer in Markdown. Begin with '## ✨ Gemini Code Assistant Review'.\\n\\nDiff:\\n$DIFF_CONTENT\"
+                    }
+                  ]
+                }
+              ],
+              \"generationConfig\": {
+                \"maxOutputTokens\": 2048,
+                \"temperature\": 0.1
+              }
+            }" | jq -r '.candidates[0].content.parts[0].text // .error.message // empty')
+
+          if [ -z "$RESPONSE" ]; then
+            echo "Gemini API call failed or returned empty response."
+            REVIEW_RESULT="## ❌ Gemini Review fehlgeschlagen\nDie AI konnte das Review nicht durchführen. Bitte prüfe die Logs im GitHub Actions Run."
+          else
+            REVIEW_RESULT="$RESPONSE"
+          fi
+
+          {
+            echo 'review<<EOF'
+            echo "$REVIEW_RESULT"
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Post Gemini review comment
+        uses: actions/github-script@v7
+        env:
+          REVIEW: ${{ steps.gemini_review.outputs.review }}
+        with:
+          script: |
+            const review = process.env.REVIEW;
+            if (review && !review.startsWith('Skipped:')) {
+              github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: review
+              });
+            }
+
+  # ============================================
+  # Job 3: Codex / OpenAI-kompatibler Provider
+  # ============================================
+  codex_review:
+    name: Codex / OpenAI Review
+    if: >
+      github.event_name == 'pull_request' ||
+      (github.event_name == 'issue_comment' &&
+       (contains(github.event.comment.body, '@codex') || contains(github.event.comment.body, '@ai-review')))
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq curl
+
+      - name: Get PR diff content
+        id: diff
+        uses: wagoid/commit-data-action@v5
+        with:
+          pull-request-number: ${{ github.event.pull_request.number || github.event.issue.number }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run Codex / OpenAI-compatible review
+        id: codex_review
+        env:
+          CODEX_API_KEY: ${{ secrets.CODEX_API_KEY }}
+          CODEX_API_BASE: ${{ secrets.CODEX_API_BASE }}
+          DIFF: ${{ steps.diff.outputs.diff }}
+          MAX_DIFF_LENGTH: 8000
+        run: |
+          if [ -z "$CODEX_API_KEY" ]; then
+            echo "CODEX_API_KEY not set. Skipping Codex review."
+            echo "review=Skipped: CODEX_API_KEY fehlt." >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          if [ -z "$DIFF" ]; then
+            echo "No diff content found. Skipping Codex review."
+            echo "review=Skipped: Kein Diff gefunden." >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          DIFF_CONTENT=$(echo "$DIFF" | head -c "$MAX_DIFF_LENGTH")
+
+          API_BASE=${CODEX_API_BASE:-https://api.openai.com}
+
+          RESPONSE=$(curl -s "${API_BASE}/v1/chat/completions" \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bearer $CODEX_API_KEY" \
+            -d "{
+              \"model\": \"gpt-4.1-mini\",
+              \"max_tokens\": 1500,
+              \"temperature\": 0.2,
+              \"messages\": [
+                {
+                  \"role\": \"system\",
+                  \"content\": \"You are Codex, an expert reviewer for a medical exam AI project (Medexamenai). Focus on: (1) medical precision and patient safety, (2) API token efficiency and budget protection, (3) security and code quality. Always answer in German and format in Markdown. Begin with '## 🤖 Codex Review'.\"
+                },
+                {
+                  \"role\": \"user\",
+                  \"content\": \"Bitte reviewe den folgenden Code-Diff. Prüfe insbesondere:\\n\\n1. Medizinische Präzision & fachliche Richtigkeit (Terminologie, Dosierungen, Leitlinien, Kontraindikationen)\\n2. API-Token-Verschwendung (unnötige oder doppelte API-Aufrufe, fehlendes Caching, fehlende Budget-Checks, zu große Prompts, zu hohe max_tokens, fehlende Rate-Limits / Token-Counting, Retry-Schleifen)\\n3. Codequalität & Sicherheit (Security-Bugs, Fehlerbehandlung, Best Practices).\\n\\nSei konkret, nenne betroffene Dateien/Zeilen wenn möglich und schlage Verbesserungen vor.\\n\\nDiff:\\n$DIFF_CONTENT\"
+                }
+              ]
+            }" | jq -r '.choices[0].message.content // .error.message // empty')
+
+          if [ -z "$RESPONSE" ]; then
+            echo "Codex/OpenAI API call failed or returned empty response."
+            REVIEW_RESULT="## ❌ Codex Review fehlgeschlagen\nDie AI konnte das Review nicht durchführen. Bitte prüfe die API-URL (CODEX_API_BASE) und den API-Key."
+          else
+            REVIEW_RESULT="$RESPONSE"
+          fi
+
+          {
+            echo 'review<<EOF'
+            echo "$REVIEW_RESULT"
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Post Codex review comment
+        uses: actions/github-script@v7
+        env:
+          REVIEW: ${{ steps.codex_review.outputs.review }}
+        with:
+          script: |
+            const review = process.env.REVIEW;
+            if (review && !review.startsWith('Skipped:')) {
+              github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: review
+              });
+            }

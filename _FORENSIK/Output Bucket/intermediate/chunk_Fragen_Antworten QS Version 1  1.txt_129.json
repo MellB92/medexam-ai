@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 130/284) enthält **keine vollständigen klinischen Patientenpräsentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Frage-Antwort-Paaren** (Fragen 221-224):\n   - Frage 221: \"Warum Anämie bei MM?\" - Theoretische Erklärung der Pathophysiologie\n   - Frage 222: \"Warum M-Gradient bei MM?\" - Theoretische Erklärung\n   - Frage 223: \"Was sind asekretorische Multiple Myelome?\" - Definition und Theorie\n   - Frage 224: \"Was macht Hyperkalziämie in den Nieren?\" - Pathophysiologische Erklärung\n\n2. **Allgemeinem medizinischem Wissen** über:\n   - Niereninsuffizienz beim Multiplen Myelom\n   - Diagnostische Kriterien\n   - Therapeutische Konzepte\n   - Prognostische Faktoren\n\nEs werden **keine konkreten Patienten** mit individuellen Charakteristika (Alter, Geschlecht, Anamnese, spezifische Befunde) vorgestellt. Es handelt sich um rein didaktisches Material zur Prüfungsvorbereitung ohne Fallpräsentationen."
+  }
+]

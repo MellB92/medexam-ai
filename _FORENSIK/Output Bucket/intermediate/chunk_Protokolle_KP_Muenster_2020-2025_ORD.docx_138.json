@@ -1,0 +1,220 @@
+[
+  {
+    "title": "Inkarzerierte Leistenhernie bei nächtlichen Leistenschmerzen",
+    "patient_age": null,
+    "patient_gender": "Mann",
+    "chief_complaints": [
+      "sehr starke Schmerzen in die Leiste"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Inkarzerierte Hernie"
+    ],
+    "diagnostic_approach": [
+      "Reposition in ZNA"
+    ]
+  },
+  {
+    "title": "Klavikulafraktur mittig ohne grobe Dislokation",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Klavikelfraktur in der Mitte ohne grobe Dislokation"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Klavikulafraktur"
+    ],
+    "diagnostic_approach": [
+      "Rücksackverband"
+    ]
+  },
+  {
+    "title": "AC-Gelenksprengung Tossi III",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "erhöhte Abstand akromioklavikulär"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tossi III"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Sepsis mit Petechien und Fieber",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Fieber",
+      "reduzierte AZ"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Petechien auf der Haut"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sepsis"
+    ],
+    "diagnostic_approach": [
+      "SOFA",
+      "qSOFA",
+      "kalkulierte Antibiotika"
+    ]
+  },
+  {
+    "title": "Postoperatives Delir nach Schenkelhalsfraktur-OP",
+    "patient_age": "75 Jahre",
+    "patient_gender": "Frau",
+    "chief_complaints": [
+      "schreit",
+      "verwirrt"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Schenkelhals Fraktur wurde operiert"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "postoperatives Delir"
+    ],
+    "diagnostic_approach": [
+      "andere Ursache ausschließen",
+      "Haloperidol geben"
+    ]
+  },
+  {
+    "title": "Colitis ulcerosa Schub mit Anämie",
+    "patient_age": "31 Jahre",
+    "patient_gender": "Frau",
+    "chief_complaints": [
+      "Schmerzen bei der Palpation des linken Abdomens"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Kein Fieber",
+      "kein SIRS",
+      "Schmerzen bei der Palpation des linken Abdomens"
+    ],
+    "imaging_findings": [
+      "Koloskopie mit fibrinbelegten Ulcera und geröteter Darmwand"
+    ],
+    "laboratory_findings": [
+      "Leukozyten: 14.000",
+      "Hb: 8,2 g/dL",
+      "Anämie, mikrozytär, hypochrom",
+      "CRP: 40"
+    ],
+    "suspected_diagnosis": [
+      "Schub von Colitis Ulcerosa"
+    ],
+    "diagnostic_approach": [
+      "Koloskopie",
+      "Laboruntersuchung",
+      "Eisenparameter bestimmen",
+      "Ferritin und Transferrin-Sättigung"
+    ]
+  },
+  {
+    "title": "TEP-Planung bei 81-jähriger Patientin mit Bedenken",
+    "patient_age": "81 Jahre",
+    "patient_gender": "Frau",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Keine Exsikkose",
+      "keine Elektrolytstörungen",
+      "normale Glukose"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Ärztliches Dilemma: Bedenken bezüglich der Operation"
+    ]
+  },
+  {
+    "title": "Tuberkulose bei Patient aus Afghanistan",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Husten",
+      "Fieber",
+      "reduzierter AZ"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rö-Bild mit Verschattung in einem Lungenflügel mit Kaverne"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tuberkulose"
+    ],
+    "diagnostic_approach": [
+      "Tbc-Bestätigung",
+      "Antibiotika-Therapie"
+    ]
+  },
+  {
+    "title": "Postoperatives Delir bei älterer Patientin nach Fraktur",
+    "patient_age": "ältere",
+    "patient_gender": "Frau",
+    "chief_complaints": [
+      "unruhig in der Nacht"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Fraktur",
+      "stationär aufgenommen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Delir"
+    ],
+    "diagnostic_approach": [
+      "Therapie bei hyperaktiver Form"
+    ]
+  }
+]

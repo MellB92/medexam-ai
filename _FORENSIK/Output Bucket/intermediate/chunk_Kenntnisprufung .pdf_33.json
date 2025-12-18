@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Calcaneusfraktur nach Sturz von Leiter",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen nach Sturz",
+      "Schwindel",
+      "Synkope"
+    ],
+    "accident_mechanism": "Sturz von einer Leiter",
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Diabetische Nephropathie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter hat Diabetes"
+    ],
+    "social_history": [],
+    "medications": [
+      "Medikamentenplan vorhanden (Details nicht spezifiziert)",
+      "NSAIDs sollten vermieden werden (Diclofenac, Ibuprofen)"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "RR 140/90 mmHg"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen: Calcaneusfraktur gut sichtbar",
+      "EKG: AV-Block 2. Grades",
+      "EKG: Rechtschenkelblock"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Calcaneusfraktur",
+      "Eventuell Femurfraktur",
+      "Eventuell Beckenringfraktur",
+      "Mögliche Wirbelkörperkompressionsfraktur (wegen axialer Krafteinwirkung)"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Calcaneus",
+      "Röntgen Becken",
+      "Röntgen Wirbelsäule",
+      "EKG durchgeführt",
+      "Medikamentenplan überprüfen",
+      "Elektrolytstörung ausschließen",
+      "Kipptisch-Test bei Synkope"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

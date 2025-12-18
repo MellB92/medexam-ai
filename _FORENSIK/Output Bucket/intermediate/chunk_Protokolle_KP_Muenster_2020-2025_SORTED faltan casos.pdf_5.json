@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Chunk 6/38 enthält ausschließlich ein **Inhaltsverzeichnis** des Dokuments \"Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf\". \n\nEs handelt sich um eine Auflistung von Fallnummern und Diagnosen mit Seitenzahlen:\n- 106.202401d Colitis ulcerosa (Seite 282)\n- 107.212201 Sigmadivertikulitis (Seite 284)\n- 110-114: Verschiedene Cholezystitis-Fälle\n- 115-117: Appendizitis-Fälle\n- 118: Akute Pankreatitis\n- 119-130: Polytrauma-Fälle\n\nDies sind lediglich **Verweise** auf die tatsächlichen Fälle, die an den angegebenen Seitenzahlen im Dokument zu finden sind. Das Inhaltsverzeichnis selbst enthält keine klinischen Details wie Anamnese, Untersuchungsbefunde, Laborwerte oder diagnostische Überlegungen.\n\nEs werden daher **keine vollständigen klinischen Fälle** extrahiert."
+  }
+]

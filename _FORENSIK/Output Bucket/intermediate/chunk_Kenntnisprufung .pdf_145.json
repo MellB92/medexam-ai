@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Sturz auf dem Weg zur Arbeit mit Knie- und Handverletzung",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Verletzung des linken Knies",
+      "Verletzung der linken Hand",
+      "Blut im Stuhl seit einigen Wochen"
+    ],
+    "accident_mechanism": "Sturz auf dem Weg zur Arbeit",
+    "pre_existing_conditions": [
+      "Asthma bronchiale seit Kindheit",
+      "Heuschnupfen",
+      "Hämorrhoiden"
+    ],
+    "comorbidities": [
+      "Erhöhte Bluttfettwerte"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Erhöhte Bluttfettwerte"
+    ],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "62-jähriger Mann mit Arbeitswegsturz, Meniskusverletzung und Handplatzwunde",
+    "patient_age": "62",
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Linksseitige Knieschmerzen",
+      "Rechte Hand Platzwunde",
+      "Heuschnupfen seit paar Wochen",
+      "Frischblut auf Klopapier vor 2 Tagen"
+    ],
+    "accident_mechanism": "Sturz auf dem Weg zur Arbeit auf gestrecktem Arm",
+    "pre_existing_conditions": [
+      "Asthma bronchial als Kind",
+      "Z.n. Appendizitis 2021",
+      "Heuschnupfen",
+      "Hämorrhoiden"
+    ],
+    "comorbidities": [
+      "Erhöhte Bluttfettwerte"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Verheiratet",
+      "2 Kinder",
+      "1 Enkelkind",
+      "Arbeitet bei Post"
+    ],
+    "medications": [
+      "Cetirizin",
+      "Nasenspray"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Erhöhte Bluttfettwerte"
+    ],
+    "suspected_diagnosis": [
+      "V.a. Innenmeniskusverletzung"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

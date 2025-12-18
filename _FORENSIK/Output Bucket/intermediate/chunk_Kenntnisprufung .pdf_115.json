@@ -1,0 +1,298 @@
+[
+  {
+    "title": "Akute Sehstörung bei Riesenzellarteriitis",
+    "patient_age": "63 Jahre",
+    "patient_gender": "weiblich",
+    "severity": "severe",
+    "chief_complaints": [
+      "akut aufgetretene Sehstörung rechts seit heute Morgen",
+      "verschwommenes Sehen",
+      "Kopfschmerzen seit 2 Wochen",
+      "AZ-Verschlechterung",
+      "Kraftminderung",
+      "nächtliches Schwitzen",
+      "Hautempfindlichkeit am Kopf",
+      "Schmerzen beim Kauen",
+      "Schluckbeschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [
+      "Polymyalgia Rheumatica"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "kein Fieber"
+    ],
+    "physical_examination": [
+      "Kernig negativ",
+      "Brudzinski negativ",
+      "Meningismus negativ",
+      "RR bds. messen wichtig"
+    ],
+    "imaging_findings": [
+      "Dopplersonografie mit Halozeichen"
+    ],
+    "laboratory_findings": [
+      "BSG stark erhöht"
+    ],
+    "suspected_diagnosis": [
+      "Riesenzellarteriitis (v.a.)",
+      "Ausschluss Meningitis",
+      "Ausschluss zentraler Arterienverschluss im Rahmen einer rheumatologischen Erkrankung"
+    ],
+    "diagnostic_approach": [
+      "BSG",
+      "Dopplersonografie",
+      "Viggo legen"
+    ],
+    "treatment_response": [
+      "Glucocorticoid hochdosiert",
+      "ausschleichen über mehrere Monate",
+      "MTX als Alternative",
+      "Begleitsymptome Polymyalgia Rheumatica"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Patientin nicht nach Hause schicken"
+    ]
+  },
+  {
+    "title": "Lungenarterienembolie nach Flugreise",
+    "patient_age": "junge Dame",
+    "patient_gender": "weiblich",
+    "severity": "severe",
+    "chief_complaints": [
+      "Tachypnoe nach langer Flugreise"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Adipositas",
+      "Rauchen",
+      "lange Flugreise"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Raucherin"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Tachypnoe"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit SIQIII",
+      "Rechtslagetyp",
+      "Rechtsschenkelblock (QRS < 120 ms)",
+      "Rechtsherzbelastung"
+    ],
+    "laboratory_findings": [
+      "D-Dimere"
+    ],
+    "suspected_diagnosis": [
+      "Lungenarterienembolie (LAE)"
+    ],
+    "diagnostic_approach": [
+      "Dopplersonografie der Beine",
+      "D-Dimere",
+      "CT-Angio (aufgrund Alter nicht bevorzugt)",
+      "Score-Systeme"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Entscheidung normale Station oder Intensivstation"
+    ]
+  },
+  {
+    "title": "Gichtanfall mit Großzehengrundgelenk-Beteiligung",
+    "patient_age": null,
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "deformiertes Grundgelenk der Zehe",
+      "Rötung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Grundgelenk deformiert",
+      "gerötet"
+    ],
+    "imaging_findings": [
+      "Röntgen: Gelenkspaltverschmälerung",
+      "Gelenkdestruktion",
+      "Erosionen des Knochens",
+      "Osteolysen",
+      "Tophus"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Gicht"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Glucocorticoid",
+      "Colchicin (wird nicht häufig empfohlen)"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Trimalleolarfraktur OSG",
+    "patient_age": null,
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen OSG: Trimalleolarfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Trimalleolarfraktur"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Schrauben oder Plattenosteosynthese",
+      "Zugschraube für Med. Malleolus",
+      "postoperativ nicht auf dem Bein stehen",
+      "Thromboseprophylaxe mit Fraxiparin"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Verdacht auf kolorektales Karzinom bei jungem Mann",
+    "patient_age": "junger Mann",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "FAP (Familiäre Adenomatöse Polyposis)",
+      "CED"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Koloskopie mit verdächtigem Befund"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "v.a. Kolorektal-Karzinom",
+      "FAP"
+    ],
+    "diagnostic_approach": [
+      "Koloskopie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Infektiöse Mononukleose",
+    "patient_age": "junger Mann",
+    "patient_gender": "männlich",
+    "severity": "mild",
+    "chief_complaints": [
+      "Fieber seit ein paar Tagen",
+      "AZ-Verschlechterung",
+      "Halsschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Fieber"
+    ],
+    "physical_examination": [
+      "weißer Belag an Tonsillen",
+      "Lymphknotenvergrößerung überall"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Mononukleose"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "kein Antibiotikum",
+      "Amoxicillin kontraindiziert wegen Arzneimittelexanthem"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Spannungspneumothorax mit Rippenfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax: Spannungspneumothorax",
+      "Rippe 2 Fraktur",
+      "Hautemphysem"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Spannungspneumothorax",
+      "Rippe 2 Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax"
+    ],
+    "treatment_response": [
+      "lebensbedrohlich",
+      "sofort punktieren",
+      "Saugdrainage in Bülau-Position"
+    ],
+    "complications": [
+      "spontaner Pneumothorax kann bilateral sein"
+    ],
+    "follow_up": []
+  }
+]

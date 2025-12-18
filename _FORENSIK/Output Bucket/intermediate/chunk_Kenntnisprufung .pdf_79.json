@@ -1,0 +1,134 @@
+[
+  {
+    "title": "38-jährige Patientin mit Thrombozytopenie und Blutungsneigung",
+    "patient_age": "38",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Abgeschlagenheit seit 4 Wochen",
+      "Grippähnliche Symptomatik mit höherem Fieber",
+      "Spontane blaue Flecken an verschiedenen Stellen",
+      "Zahnfleischbluten",
+      "Nasenbluten",
+      "Hämaturie",
+      "Petechien an den Beinen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Tonsillektomie",
+      "Distale Radiusfraktur vor 5 Jahren"
+    ],
+    "comorbidities": [
+      "Abnormer Zervix-Abstrich vor 8 Wochen (ohne weitere Abklärung)"
+    ],
+    "risk_factors": [],
+    "family_history": [
+      "Vater: Raucher",
+      "Mutter: Bauchaortenaneurysma (Abdominal Aorta Aneurysma)",
+      "Bruder: Nierentransplantation"
+    ],
+    "social_history": [
+      "Covid-19 geimpft und geboostert"
+    ],
+    "medications": [
+      "Orale Kontrazeptiva",
+      "Unbekanntes Schmerzmittel b.B"
+    ],
+    "allergies": [
+      "Laktoseintoleranz",
+      "Penicillin"
+    ],
+    "vital_signs": [
+      "Radial Pulse geprüft",
+      "Blutdruck gemessen"
+    ],
+    "physical_examination": [
+      "Petechien an den Beinen",
+      "Hepatosplenomegalie untersucht",
+      "Schilddrüse: Inspektion, Größe, Verschieblichkeit, Palpation von hinten",
+      "Lunge auskultiert",
+      "Abdomen: Inspektion, Auskultation, Perkussion, Palpation",
+      "Handgelenk untersucht",
+      "Untere Extremität: Bewegung und Reflexe (PSR und ASR) geprüft"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Thrombozytenzahl 22.000/Mikroliter",
+      "Covid-19 Test negativ"
+    ],
+    "suspected_diagnosis": [
+      "ITP (Immune Thrombocytopenic Purpura)",
+      "DD: Malignom im Rahmen des abnormen Zervix-Abstrichs",
+      "DD: Lymphoproliferative Erkrankungen (AML, CML, Hodgkin- und Non-Hodgkin-Lymphom, Myelodysplasie)"
+    ],
+    "diagnostic_approach": [
+      "Bestätigung der Thrombozytopenie",
+      "Ausschluss Pseudothrombozytopenie",
+      "Wiederbestimmung in Citrat-Röhren",
+      "Blutausstrich zur Beurteilung",
+      "Weitere Abklärung des Zervix-Abstrichs"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Appetitlosigkeit",
+      "2 kg Gewichtsabnahme",
+      "Nachtschweiß"
+    ]
+  },
+  {
+    "title": "Distale Radiusfraktur nach Sturz auf Hand",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Sturz auf Hand"
+    ],
+    "accident_mechanism": "Sturz auf Hand",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Inspektion: Deformität",
+      "Palpation: DMS (Durchblutung, Motorik, Sensibilität) geprüft"
+    ],
+    "imaging_findings": [
+      "Röntgen Handgelenk: Distale Radiusfraktur/Colles-Fraktur mit Gelenkbeteiligung",
+      "Scaphoid-Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Distale Radiusfraktur (Colles-Fraktur) mit Gelenkbeteiligung",
+      "Scaphoid-Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Inspektion",
+      "Palpation",
+      "DMS-Prüfung",
+      "Röntgen"
+    ],
+    "treatment_response": [
+      "Reposition, Fixation und Ruhigstellung",
+      "Operative Versorgung mit Osteosynthese",
+      "Winkelstabile Plattenosteosynthese und Schrauben",
+      "Gipsschiene",
+      "Wiederherstellung der Radiuslänge und des Böhler-Winkels"
+    ],
+    "complications": [
+      "2 Stunden nach Gipsverband: starke Schmerzen",
+      "V.a. Kompartmentsyndrom aufgrund Drucksteigerung in Muskellogen durch zu engen Gips",
+      "Durchblutungsstörung"
+    ],
+    "follow_up": [
+      "Bei Kompartmentsyndrom: Gips sofort entfernen",
+      "DMS prüfen",
+      "Hochlagerung und Kühlung",
+      "Therapie: Fasziotomie"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "pAVK mit Claudicatio intermittens bei 79-jährigem Mann",
+    "patient_age": "79 Jahre",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Progrediente Schmerzen im rechten Unterschenkel",
+      "Schmerzfreie Gehstrecke ca. 400 m, danach Pause erforderlich",
+      "Einweisung durch Hausarzt"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Hyperlipidämie",
+      "Unterschenkelfraktur vor 20 Jahren, operativ mit Platte versorgt",
+      "LWS-OP (L4/5) vor 10 Jahren, genaue Art unklar"
+    ],
+    "comorbidities": [
+      "Arterielle Hypertonie",
+      "Hyperlipidämie",
+      "Obstipation"
+    ],
+    "risk_factors": [
+      "Alter 79 Jahre",
+      "Arterielle Hypertonie",
+      "Hyperlipidämie",
+      "Langstreckenflug mit Immobilisation vor 10 Tagen"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Rückflug aus Japan vor 10 Tagen mit Ehefrau",
+      "Erkältung nach Flug durch Zugluft im Flugzeug"
+    ],
+    "medications": [
+      "Lisinopril",
+      "Atorvastatin",
+      "Ibuprofen bei Bedarf"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Schmerzfreie Gehstrecke ca. 400 m"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Periphere arterielle Verschlusskrankheit (pAVK)",
+      "Tiefe Venenthrombose (TVT)",
+      "Arthrose"
+    ],
+    "diagnostic_approach": [
+      "Duplex-Sonografie",
+      "Wells-Score für TVT-Risikoeinschätzung",
+      "D-Dimere",
+      "CT-Angiografie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

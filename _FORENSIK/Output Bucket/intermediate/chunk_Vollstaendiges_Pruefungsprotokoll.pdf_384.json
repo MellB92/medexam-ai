@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 385/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nEs handelt sich ausschließlich um:\n\n1. **Prüfungsfragen ohne dokumentierte Antworten** - Bei allen 20 Fragen steht explizit \"Im Protokoll nicht enthalten\"\n2. **Theoretische Wissensfragen** zu verschiedenen medizinischen Themen wie:\n   - Lungenkarzinom (Typen, Klassifikationen)\n   - EKG-Interpretation\n   - Antihypertensiva\n   - Gicht/Podagra\n   - Diabetes insipidus\n   - Cholelithiasis\n   - Beckenringfraktur\n   - pAVK\n   - etc.\n\n3. **Keine Patientenvorstellungen** mit:\n   - Anamnestischen Angaben\n   - Klinischen Befunden\n   - Konkreten Patientendaten\n\nDie erwähnten klinischen Szenarien (z.B. \"Patient/in mit Alkoholintoxikation\", \"Bewusstlose/r Patient/in\") sind lediglich **Fragestellungen** ohne dokumentierte Fallinformationen, Antworten oder klinische Details.\n\nDa keine vollständigen, extrahierbaren Patientenfälle vorliegen, ist das korrekte Ergebnis ein leeres Array."
+  }
+]

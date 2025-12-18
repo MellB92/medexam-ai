@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Chronische Rückenschmerzen bei bekannter Bandscheibenvorwölbung",
+    "patient_age": "49-jährige",
+    "patient_gender": "Frau",
+    "severity": null,
+    "chief_complaints": [
+      "chronische Rückenschmerzen",
+      "Verschlimmerung der Beschwerden in den letzten 2 Wochen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "bekannte Bandscheibenvorwölbung im LWS-Bereich"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter hat Darmkrebs gehabt"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "RR 165/- mmHg (erhöht)"
+    ],
+    "physical_examination": [
+      "tastbare, leicht vergrößerte Milz und Leber",
+      "Druckschmerz im LWS-Bereich"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Tumormarker für Kolonkarzinom",
+      "erhöhte Vanillinmandelsäure im Urin"
+    ],
+    "suspected_diagnosis": [
+      "Arterielle Hypertonie",
+      "Phäochromozytom",
+      "Wirbelkörperfraktur im LWS",
+      "Osteoporose",
+      "Mononukleose",
+      "Sprunggelenkverletzung"
+    ],
+    "diagnostic_approach": [
+      "Abdomensonografie (Nieren, Nebennieren, Leber, Milz)",
+      "Langzeitblutdruckmessung",
+      "Röntgen LWS in 2 Ebenen",
+      "Röntgen Sprunggelenk rechts in 2 Ebenen",
+      "ggf. CT-Abdomen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Untersuchung wegen Verdacht auf Osteoporose"
+    ]
+  }
+]

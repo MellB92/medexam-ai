@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 2/111) enthält **keine klinischen Patientenfälle**. \n\nDer Abschnitt besteht aus:\n\n1. **EKG-Lineal Abbildung und Erklärung** - Technische Anleitung zur Verwendung eines EKG-Lineals mit drei Skalen zur Bestimmung von:\n   - Herzfrequenz\n   - Zeitintervallen\n   - Amplituden\n\n2. **Buchinhaltsverzeichnis** - Strukturübersicht des EKG-Kurses:\n   - Grundlagen (ab S. 11)\n   - EKG-Befunde (ab S. 36)\n   - EKG-Beispiele (ab S. 147)\n   - EKG-Quiz (ab S. 255)\n   - EKG-Übungen (ab S. 291)\n\n3. **Titelseite und Vorwort** - Bibliografische Informationen, Autoren, Verlagshinweise\n\nDies ist reines **Lehrbuchmaterial** ohne konkrete Patientenfälle. Es handelt sich um einleitendes und strukturierendes Material eines EKG-Lehrbuchs."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Chronische Wunde mit Fibrinbelägen\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"rundliche Hautveränderung mit rötlichem Rand\", \"weißliche Fibrinbeläge\", \"gelbliche Verfärbung\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"rundliche Hautveränderung mit rötlichem Rand\", \"weißliche Fibrinbeläge in der Mitte\", \"gelbliche Verfärbung (wahrscheinlich Eiter)\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"chronische Wunde\"],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

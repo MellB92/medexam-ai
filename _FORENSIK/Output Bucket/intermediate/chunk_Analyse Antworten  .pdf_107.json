@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** aus einer medizinischen Prüfung/einem Protokoll:\n   - Fragen zu therapierefraktärer Hypertonie\n   - Fragen zu Zielblutdruckwerten\n   - Fragen zu diagnostischen Verfahren (Cushing-Syndrom)\n   - Fragen zur körperlichen Untersuchung (Leberpalpation/Perkussion)\n   - Fragen zu Röntgenbildern (allgemeine Prinzipien)\n\n2. **Musterlösungen und Bewertungen** dieser Fragen\n\n3. **Einem kurzen EKG-Befund** (\"AV-Block III. Grades\"), der jedoch ohne Patientenkontext präsentiert wird\n\nEs gibt **keine Patientenpräsentation** mit:\n- Anamnese\n- Patientendaten (Alter/Geschlecht)\n- Klinischer Verlauf\n- Zusammenhängende Diagnostik und Therapie\n\nDie erwähnten medizinischen Konzepte (Hypertonie, Cushing-Syndrom, etc.) sind rein didaktischer Natur und nicht als konkrete Patientenfälle dargestellt."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Riesenzellarteriitis (RZA) mit akuter Sehstörung\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\n      \"verschwommenes Sehen auf dem rechten Auge seit heute Morgen\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Riesenzellarteriitis (RZA)\",\n      \"AION (anteriore ischämische Optikusneuropathie)\"\n    ],\n    \"diagnostic_approach\": [\n      \"Temporalarterienbiopsie (granulomatöse Entzündung mit Riesenzellen)\",\n      \"Erhöhte Entzündungsparameter (BSG, CRP)\",\n      \"Sofortige Therapie mit hochdosierten Glukokortikoiden (Prednisolon 1 mg/kg KG/Tag, max. 1000 mg/Tag i.v.)\",\n      \"Therapiedauer 18-24 Monate mit langsamer Reduktion\",\n      \"ggf. Methotrexat (7,5-15 mg/Woche) als Steroid-sparendes Immunsuppressivum\"\n    ]\n  }\n]\n```"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Anämie-Abklärung mit makrozytärer Anämie und Thrombozytopenie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Rote Zunge (Glossitis)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Hb niedrig",
+      "Hkt niedrig",
+      "MCV hoch",
+      "MCH hoch",
+      "Thrombozyten niedrig",
+      "Kreatinin hoch",
+      "LDH hoch"
+    ],
+    "suspected_diagnosis": [
+      "Makrozytäre hyperchrome Anämie",
+      "Vitamin B12- oder Folsäuremangel",
+      "Thrombozytopenie durch ineffektive Thrombopoese"
+    ],
+    "diagnostic_approach": [
+      "Anamnese (Ernährung, Medikamente, Blutungsquellen, Symptome)",
+      "Körperliche Untersuchung (Blässe, Ikterus, Splenomegalie)",
+      "Blutbild (Hb, Hkt, MCV, MCH, Retikulozyten)",
+      "Eisenstatus (Ferritin, Transferrinsättigung)",
+      "Vitamin B12 und Folsäure",
+      "Nierenfunktion (Kreatinin)",
+      "Leberfunktion (Bilirubin, Transaminasen)",
+      "Entzündungsparameter (CRP, BSG)",
+      "Stuhltest auf okkultes Blut",
+      "ggf. Knochenmarkpunktion"
+    ]
+  }
+]

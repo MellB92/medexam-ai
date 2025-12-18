@@ -1,0 +1,114 @@
+[
+  {
+    "title": "70-jähriger Patient mit makrozytärer Anämie und Koxarthrose",
+    "patient_age": "70 Jahre",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Blässe und Anämie",
+      "Gewichtsverlust 6 kg in 4 Wochen",
+      "Müdigkeit und Schwächegefühl seit einigen Monaten",
+      "Belastungsdyspnoe",
+      "Unsicheres Gangbild",
+      "Gehstrecke unter 500m",
+      "Rote Zunge seit 14 Tagen",
+      "Veränderter Appetit",
+      "Schmerzen rechte Hüfte seit einem Jahr"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 2 seit einem Jahr",
+      "Ausgeprägte Koxarthrose rechts seit einem Jahr mit Indikation zur Hüft-TEP",
+      "Z.n. Leistenhernie-OP vor 30 Jahren",
+      "Z.n. Hämatothorax-OP vor 40 Jahren",
+      "Z.n. abdominaler Zysten-OP",
+      "Rheuma-Füße mit Krallenzehen"
+    ],
+    "comorbidities": [
+      "Große Umbilikalhernie"
+    ],
+    "risk_factors": [
+      "Rauchen",
+      "Alkoholkonsum (Bier gelegentlich)",
+      "Alter 70 Jahre",
+      "Langfristige PPI-Einnahme (Pantoprazol)"
+    ],
+    "family_history": [
+      "Vater: Herzkrankheit",
+      "Mutter: Nierenentfernung (eine Niere)",
+      "Sohn: chronische Darmerkrankungen"
+    ],
+    "social_history": [
+      "Verheiratet",
+      "2 Kinder",
+      "Beruf: Automechaniker",
+      "Raucher",
+      "Gelegentlicher Bierkonsum"
+    ],
+    "medications": [
+      "Ibuprofen 600mg 2x täglich",
+      "Pantoprazol 20mg 1x täglich",
+      "Metformin 1000mg 1x täglich"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "RR gemessen (Wert nicht dokumentiert)",
+      "Puls gemessen (Wert nicht dokumentiert)",
+      "Rekapillarisationszeit verlängert"
+    ],
+    "physical_examination": [
+      "Allgemeinzustand: blass und anämisch",
+      "Haut: ausgeprägte Blässe",
+      "Skleren: untersucht",
+      "Hautturgor: untersucht",
+      "Zunge: rot (Hunter-Glossitis)",
+      "Halonierte weiße Bulbi",
+      "Schilddrüse: palpiert",
+      "Lymphknoten: palpiert",
+      "Lunge: auskultiert",
+      "Herz: auskultiert",
+      "Abdomen: große Umbilikalhernie",
+      "Leisten: untersucht",
+      "Hüfte: eingeschränkte Beweglichkeit rechts",
+      "Füße: typische Rheuma-Füße mit Krallenzehen",
+      "Großer Zeh rechts: elastischer Verband",
+      "pDMS: A. tibialis posterior und A. dorsalis pedis geprüft",
+      "2 Unterarmgestützen zur Mobilisation",
+      "Ohne Schuhe"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Hämoglobin erniedrigt",
+      "Hämatokrit erniedrigt",
+      "MCV erhöht",
+      "MCH erhöht",
+      "Thrombozyten erniedrigt",
+      "Kreatinin erhöht",
+      "LDH erhöht"
+    ],
+    "suspected_diagnosis": [
+      "Makrozytäre hyperchrome Anämie",
+      "Vitamin B12-Mangel mit Hunter-Glossitis",
+      "DD: Megaloblastäre Anämie (B12-Mangel, Folsäuremangel)",
+      "DD: Anämie bei chronischer Erkrankung",
+      "DD: Paraneoplastisch (V.a. Kolonkarzinom oder Multiples Myelom)",
+      "Thrombozytopenie bei ineffektiver B12-abhängiger Hämatopoese"
+    ],
+    "diagnostic_approach": [
+      "Basislaboruntersuchung durchgeführt",
+      "Differentialblutbild mit Erythrozytenindizes",
+      "Vitamin B12-Bestimmung indiziert",
+      "Folsäure-Bestimmung indiziert",
+      "Weitere Tumordiagnostik bei V.a. Malignom"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Blutarmut bei geplanter Eigenblutspende für Hüft-TEP festgestellt",
+      "Operation musste verschoben werden aufgrund der Anämie"
+    ],
+    "follow_up": [
+      "Geplante Hüft-TEP für den nächsten Monat (verschoben)",
+      "Sanierung der Anämie vor elektiver Operation erforderlich"
+    ]
+  }
+]

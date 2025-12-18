@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 107/111) enthält ausschließlich ein **Sachverzeichnis/Index** eines EKG-Lehrbuchs. Es handelt sich um eine alphabetisch geordnete Liste von Fachbegriffen, medizinischen Termini und Seitenverweisen (z.B. \"Aberranz\", \"AV-Block\", \"Brugada-Syndrom\", \"Herzfrequenz\" etc.).\n\nEs sind **keine klinischen Patientenfälle** oder Präsentationsfälle vorhanden, sondern lediglich:\n- Indexeinträge mit Seitenzahlen\n- Medizinische Fachbegriffe und Definitionen\n- Querverweise innerhalb des Lehrbuchs\n- Anatomische und physiologische Begriffe\n\nEin Sachverzeichnis dient der Navigation im Buch und enthält keine narrativen Falldarstellungen mit Patienten, Anamnese, Befunden oder diagnostischen Überlegungen."
+  }
+]

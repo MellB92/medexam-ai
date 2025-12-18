@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält ausschließlich Prüfungsfragen und -antworten aus einem Prüfungsprotokoll. Es handelt sich um theoretisches Wissen und allgemeine medizinische Fragen ohne vollständige klinische Patientenfälle.\n\n**Analysierte Inhalte:**\n\n- **Fragen 48-64**: Theoretische Fragen zu GFR, Hypertonie-Therapie, Medikamentenwirkungen, Strahlenschutz, Transfusionsgesetz, Herzinsuffizienz-Definitionen\n- **Fragen 1-8 (aus anderem Prüfungsdokument)**: Klassifikationen, diagnostische Kriterien, anatomisches Wissen\n\n**Teilweise erwähnte klinische Elemente ohne vollständigen Fall:**\n\n1. **Frage 51**: \"Verschattung im rechten Oberlappen, vereinbar mit Lobärpneumonie\" - nur ein Bildbefund ohne Patientenkontext\n2. **Frage 63**: \"vorausgegangene Infektion\" als mögliche Genese einer Herzinsuffizienz - zu fragmentarisch\n3. **Frage 3**: Bildbeschreibung mit Tonsillitis, Petechien, Pfeiffer-Zellen und Diagnose \"Infektiöse Mononukleose\" - nur Befundkonstellation ohne vollständigen Patientenfall\n\nKeine dieser Erwähnungen erfüllt die Kriterien eines **vollständigen klinischen Präsentationsfalls** mit Anamnese, Untersuchungsbefunden und diagnostischem Vorgehen."
+  }
+]

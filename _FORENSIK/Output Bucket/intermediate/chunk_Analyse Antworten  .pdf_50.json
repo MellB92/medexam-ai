@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Pharmakologie-Fragen** zu Beclomethason und Salmeterol (Wirkort, Rezeptoren, Wirkmechanismus, Nebenwirkungen)\n\n2. **Theoretische Fragen** zu:\n   - Ionisierenden Strahlen (stochastische/deterministische Schäden, ALARA-Prinzip)\n   - Patientenverfügung (rechtliche Aspekte, Bausteine, gesetzliche Grundlagen)\n\n3. **Allgemeine medizinische Wissensfragen** zu:\n   - Differenzialdiagnosen bei Oberbauchschmerzen\n   - Diagnostik und Therapie der Cholangiolithiasis\n   - Klassifikation und OP-Indikation bei Fibulafraktur\n   - OP-Indikationen bei Knieverletzungen\n\n4. **Prüfungsprotokolle** im Frage-Antwort-Format ohne konkrete Patientenvorstellung\n\nEs handelt sich um **theoretisches Prüfungswissen** und **allgemeine klinische Fragestellungen**, nicht um konkrete Patientenpräsentationen mit individuellen Anamnesen, Befunden und Verläufen."
+  }
+]

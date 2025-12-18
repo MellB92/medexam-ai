@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Mantelpneumothorax mit Verdacht auf Bronchialkarzinom",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax a.p.: Mantelpneumothorax",
+      "Lunge von der Thoraxwand abgehoben",
+      "Pleura visceralis sichtbar",
+      "Zentrale Raumforderung sichtbar",
+      "Verdacht auf Bronchialkarzinom"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Mantelpneumothorax",
+      "Verdacht auf Bronchialkarzinom",
+      "DD: andere zentrale Lungentumore",
+      "DD: Lymphknotenvergrößerungen",
+      "DD: Granulome"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax",
+      "Differenzialdiagnostische Abklärung der zentralen Raumforderung"
+    ]
+  }
+]

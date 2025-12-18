@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Bimalleolare OSG-Fraktur nach Sturz auf dem Weg zur Arbeit",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "OSG-Fraktur"
+    ],
+    "accident_mechanism": "Sturz auf dem Weg zur Arbeit",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Bimalleolare OSG-Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bimalleolare OSG-Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Bildgebung zur Frakturdiagnostik"
+    ]
+  },
+  {
+    "title": "Schockzustand nach OSG-Fraktur-Operation",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Hypotonie",
+      "Tachykardie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Blutdruck 80 mmHg",
+      "Puls 150/min"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schockzustand",
+      "Hypovolämischer Schock",
+      "Milzruptur mit zweizeitigem Verlauf"
+    ],
+    "diagnostic_approach": [
+      "ABCDE-Schema",
+      "Vitalparameterkontrolle",
+      "Schockindex berechnen (HF/RRsyst)",
+      "Ursachensuche für Blutverlust"
+    ]
+  }
+]

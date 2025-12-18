@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 26/50) aus dem Pharmakologie-Lehrbuch \"Amboss\" enthält ausschließlich **theoretisches Lehrmaterial** über Glucocorticoide und **keine klinischen Patientenfälle**.\n\nDer Text behandelt:\n- Übersichtstabellen zu Glucocorticoiden (Cortisol, Prednisolon, Dexamethason etc.)\n- Wirkmechanismen (antiinflammatorisch, immunsuppressiv)\n- Systematische Auflistung von Nebenwirkungen (Haut, Elektrolyte, Knochenstoffwechsel, etc.)\n- Indikationen für die Therapie (z.B. \"Nebennierenrindeninsuffizienz\", \"Asthma bronchiale\")\n- Kontraindikationen\n- Therapieempfehlungen\n\nEs handelt sich um eine **rein pharmakologische Lehrbuchdarstellung** ohne konkrete Patientenfälle mit individuellen Präsentationen, Anamnesen oder diagnostischen Verläufen."
+  }
+]

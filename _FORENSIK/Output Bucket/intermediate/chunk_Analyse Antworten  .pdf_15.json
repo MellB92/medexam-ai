@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Periphere arterielle Verschlusskrankheit (pAVK) Stadium IIa mit COVID-19 Anamnese",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Wadenschmerzen beim Laufen (Claudicatio intermittens)",
+      "Gehstrecke 400m",
+      "Besserung in Ruhe",
+      "Dyspnoe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Hyperlipidämie",
+      "Z.n. Bandscheiben-OP L4/L5",
+      "Covid-19 Erkrankung vor 3 Wochen (Husten, Fieber, Geschmacksverlust)",
+      "Obstipation"
+    ],
+    "medications": [
+      "Lisinopril 20mg 1-0-0",
+      "Atorvastatin 20mg 0-0-1",
+      "Zäpfchen bei Bedarf"
+    ],
+    "allergies": [
+      "Penicillin (Exanthem)",
+      "Raucher (52 PY)",
+      "Alkohol (1 Flasche Bier abends)"
+    ],
+    "physical_examination": [
+      "Inspektion der Beine und Füße (Hautkolorit, trophische Störungen, Ödeme)",
+      "Palpation der Pulse (A. femoralis, A. poplitea, A. tibialis posterior, A. dorsalis pedis)",
+      "Auskultation der A. femoralis und A. poplitea",
+      "Neurologische Untersuchung (Sensibilität, Motorik, Reflexe)",
+      "Lungen- und Herzauskultation",
+      "Abdomenuntersuchung (inkl. Auskultation der Aorta abdominalis)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "pAVK Stadium IIa"
+    ],
+    "diagnostic_approach": [
+      "Knöchel-Arm-Index (ABI)",
+      "Doppler-Sonographie",
+      "Laufbandergometrie",
+      "Angiographie (CT-Angiographie, MR-Angiographie, digitale Subtraktionsangiographie)"
+    ]
+  },
+  {
+    "title": "Tibiaschaftfraktur mit proximaler und distaler Fibulafraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Tibiaschaftfraktur",
+      "Proximale Fibulafraktur",
+      "Distale Fibulafraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tibiaschaftfraktur",
+      "Proximale und distale Fibulafraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgenbild Unterschenkel",
+      "Plattenosteosynthese",
+      "Marknagelung",
+      "Fixateur externe (bei offenen Frakturen)",
+      "Konservative Therapie (bei stabilen Frakturen)",
+      "Thromboseprophylaxe"
+    ]
+  }
+]

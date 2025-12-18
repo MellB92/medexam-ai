@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 19/111) aus einem EKG-Lehrbuch enthält **keine klinischen Patientenfälle**. \n\nDer Inhalt besteht ausschließlich aus:\n\n1. **Theoretischem Lehrmaterial** zur elektrischen Herzachse (Lektion 6)\n2. **Methodenbeschreibungen** zur Bestimmung von Herzrhythmus und Herzfrequenz (Lektion 7)\n3. **Technischen Anleitungen** zur EKG-Auswertung\n4. **Allgemeinen Merksätzen** und didaktischen Hinweisen\n5. **Abbildungen** von Millimeterpapier und Berechnungsbeispielen\n\nEs werden zwar pathologische EKG-Befunde erwähnt (z.B. \"Seitenwandinfarkt\", \"AV-Block\", \"Vorhofflimmern\"), aber diese dienen ausschließlich der theoretischen Erklärung von EKG-Prinzipien und stellen keine konkreten Patientenfälle mit klinischer Präsentation dar."
+  }
+]

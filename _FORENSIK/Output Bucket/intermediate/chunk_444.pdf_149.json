@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 150/155) enthält **keine klinischen Präsentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Präventionsmedizin** - Theoretische Beschreibung von primärer, sekundärer und tertiärer Prävention mit Vorsorgeuntersuchungen\n2. **Röntgendiagnostik** - Systematische Lehrbuchinformation über:\n   - Thoraxübersicht (Methoden, Beurteilungskriterien)\n   - Häufige pathologische Befunde (allgemeine Befundkonstellationen ohne konkreten Patienten)\n   - Abdomenübersicht\n   - Skelettröntgen\n   - Computertomografie\n\nEs handelt sich um **rein didaktisches Material** ohne konkrete Patientenfälle. Die erwähnten Befunde (z.B. \"Pneumonie\", \"Pleuraerguss\", \"Bronchialkarzinom\") sind lediglich Beispiele für mögliche radiologische Befunde in der allgemeinen Lehre, nicht aber Beschreibungen konkreter Patienten mit Anamnese, Symptomatik und Verlauf."
+  }
+]

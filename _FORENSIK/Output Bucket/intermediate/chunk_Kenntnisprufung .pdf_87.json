@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Retroperitoneale Blutung nach Sturz",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Sturz"
+    ],
+    "accident_mechanism": "Sturz",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT-Abdomen axial Schnitt",
+      "keine Wirbelkörperfraktur",
+      "hypodense Flüssigkeit links",
+      "retroperitoneale Blutung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Retroperitoneale Blutung"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Postoperatives Delir nach Schenkelhalsfraktur-OP\",\n    \"patient_age\": \"88 Jahre\",\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"lautes Schreien\", \"Verwirrtheit\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Postoperatives Delir\", \"Durchgangssyndrom\"],\n    \"diagnostic_approach\": [\"Ursachensuche (Elektrolytstörungen, Infektionen, Schmerzen)\"]\n  }\n]\n```"
+  }
+]

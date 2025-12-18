@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle**. \n\nDer Text besteht aus:\n\n1. **Fragmenten eines abgeschnittenen Falls am Anfang:**\n   - \"en seit 2 Jahren\" (unvollständiger Beginn)\n   - \"VD: allergisches Asthma\"\n   - \"DD: COPD, Herzinsuffizienz, Panikattacke\"\n   - Dies ist offensichtlich der abgeschnittene Rest eines Falls aus Chunk 106\n\n2. **Erfahrungsberichten und Reflexionen** eines Prüfungskandidaten über:\n   - Zeitmangement während der schriftlichen Prüfung\n   - Prüfungsatmosphäre\n\n3. **Theoretischen Prüfungsfragen** ohne vollständige Patientenfälle:\n   - Sammelurin bei CKI\n   - Cushing-Syndrom\n   - Juckreiz (allgemeine Diagnostik)\n   - Mesenterialischämie\n   - Paronychie\n   - Pneumoperitoneum (Röntgenbild-Blickdiagnose)\n   - AC-Gelenksprengung/Schulterluxation (als hypothetische Frage \"was kann passieren?\")\n   - Porphyrie\n   - Reiseimpfungen\n   - Myokardinfarkt-Therapie\n   - Vorhofflimmern\n   - Querschnittlähmung\n   - Dosimetrie\n\nEs werden zwar medizinische Themen und Szenarien erwähnt, aber **kein vollständiger Fall mit Patientenvorstellung, Anamnese und strukturierter Falldarstellung** präsentiert."
+  }
+]

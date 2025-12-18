@@ -1,0 +1,108 @@
+[
+  {
+    "title": "Akutes Abdomen bei Alkoholabusus - Pankreatitis",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "starke Bauchschmerzen seit letzter Nacht"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "OP rechte Hand vor 15 Jahren",
+      "Coxarthrose seit 6 Monaten",
+      "Obstipation"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Alkoholabusus (Wein, Bier und Schnaps täglich)"
+    ],
+    "family_history": [
+      "Sohn ist Arzt"
+    ],
+    "social_history": [
+      "Alkoholiker",
+      "trinkt täglich Wein, Bier und Schnaps"
+    ],
+    "medications": [
+      "Diclofenac 1-0-0 seit 6 Monaten",
+      "Laxanzien Zäpfchen ab und zu"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Fieber"
+    ],
+    "physical_examination": [
+      "Schmerzen im linken Unterbauch bei Palpation",
+      "Lipom rechte Schulter",
+      "Lipom linke temporal"
+    ],
+    "imaging_findings": [
+      "Ultraschall Oberbauch: schwieriges Bild, nichts erkennbar",
+      "CT Abdomen: Pankreas aufgetrieben, ödematös mit Flüssigkeit um Pankreas",
+      "Kopf, Körper und Schwanz von Pankreas darstellbar"
+    ],
+    "laboratory_findings": [
+      "Amylase und Lipase zu bestimmen"
+    ],
+    "suspected_diagnosis": [
+      "Pankreatitis",
+      "initial DD: Divertikulitis"
+    ],
+    "diagnostic_approach": [
+      "Ultraschall Oberbauch",
+      "CT Abdomen",
+      "Laborparameter: Amylase und Lipase",
+      "Zugang legen"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Erbrechen 2mal",
+      "letzte Nahrungsaufnahme letzte Nacht"
+    ],
+    "follow_up": [
+      "Aufnahme geplant",
+      "Diskussion normale Station vs. Intensivstation"
+    ]
+  },
+  {
+    "title": "Dyspnoe mit Kardiomegalie und vergrößerten Vorhöfen",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Dyspnoe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen im Liegen: Kardiomegalie mit Infiltrate",
+      "Kardiothorax Quotient erhöht",
+      "Echokardiographie: vergrößerte Vorhöfe",
+      "4-Kammer-Blick"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kardiomegalie mit Vorhofvergrößerung",
+      "initial fehlerhaft: Pneumonie"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Thorax",
+      "Kardiothorax Quotient Messung",
+      "Echokardiographie",
+      "Herzkatheteruntersuchung",
+      "bei normalen Befund: Myokardbiopsie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

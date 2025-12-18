@@ -1,0 +1,45 @@
+[
+  {
+    "title": "63-jährige Patientin mit zunehmenden Rückenschmerzen und unklarem Abdominalbefund",
+    "patient_age": "63-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Seit Monaten zunehmende Rückenschmerzen (Lumbalgie)",
+      "Verschlimmerung in den letzten 4 Wochen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Chronische Rückenschmerzen seit 20 Jahren",
+      "BSV (Bandscheibenvorfall) im LWS-Bereich, vor 20 Jahren operiert",
+      "Osteoporose",
+      "Polypektomie vor 2 Jahren",
+      "Schwere Infektion mit Milz- und Leberbeteiligung vor 20 Jahren",
+      "Bänderriss OSG rechts mit Schienenruhigstellung (vor 2 Wochen umgeknickt)"
+    ],
+    "medications": [
+      "Vitamin D 20000 IE wöchentlich",
+      "Ibuprofen gelegentlich"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Vollständige körperliche Untersuchung durchgeführt",
+      "Vitalparameter nicht gemessen"
+    ],
+    "imaging_findings": [
+      "Abdomensonografie: unklarer Befund in der rechten Flanke"
+    ],
+    "laboratory_findings": [
+      "Erhöhter Blutdruckwert 165 mmHg (systolisch) erstmalig gemessen"
+    ],
+    "suspected_diagnosis": [
+      "Rückenschmerzen bei Osteoporose und Z.n. BSV-OP",
+      "Unklarer abdomineller Befund rechts",
+      "Arterielle Hypertonie (neu diagnostiziert)"
+    ],
+    "diagnostic_approach": [
+      "Weitere Untersuchung wegen Osteoporose geplant",
+      "Nachsorge-Koloskopie bereits erfolgt (unauffällig)",
+      "Abklärung des abdominellen Befundes erforderlich"
+    ]
+  }
+]

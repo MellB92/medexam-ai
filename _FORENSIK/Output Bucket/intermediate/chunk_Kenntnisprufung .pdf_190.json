@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Hypothyreose bei Patientin",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Sonographie der Schilddrüse durchgeführt"
+    ],
+    "imaging_findings": [
+      "Sonographie bei Hypothyreose"
+    ],
+    "laboratory_findings": [
+      "fT3",
+      "fT4",
+      "TSH",
+      "Schilddrüsen-Antikörper (alle)",
+      "Thyreoglobulin"
+    ],
+    "suspected_diagnosis": [
+      "Hypothyreose",
+      "Differenzierung: primäre, sekundäre oder tertiäre Hypothyreose",
+      "latente oder manifeste Hypothyreose"
+    ],
+    "diagnostic_approach": [
+      "Labordiagnostik: fT3, fT4, TSH, Antikörper, Thyreoglobulin",
+      "Sonographie der Schilddrüse"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

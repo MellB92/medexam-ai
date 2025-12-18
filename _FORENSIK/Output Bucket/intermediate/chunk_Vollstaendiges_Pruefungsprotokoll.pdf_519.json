@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 520/585) enthält ausschließlich **theoretische Prüfungsfragen und -antworten** ohne konkrete Patientenfälle. \n\nDie Struktur besteht aus:\n- **Fragen 1-17**: Allgemeine medizinische Wissensfragen zu Differenzialdiagnosen, Therapiekonzepten, Klassifikationen und Behandlungsprinzipien\n- **Archiv-Abschnitt**: Beginn eines neuen Themas (PAVK) mit einer EKG-Befund-Frage\n\n**Keine der Fragen präsentiert einen konkreten Patienten** mit:\n- Individualisierten Beschwerden\n- Spezifischer Anamnese\n- Konkreten Untersuchungsbefunden\n- Fallspezifischer diagnostischer Fragestellung\n\nEs handelt sich um **abstraktes Prüfungswissen** ohne narrative Falldarstellung, daher werden keine klinischen Fälle extrahiert."
+  }
+]

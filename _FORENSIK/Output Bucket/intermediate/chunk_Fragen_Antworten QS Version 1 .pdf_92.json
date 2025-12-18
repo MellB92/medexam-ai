@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 93/148) enthält **keine vollständigen klinischen Patientenfälle**, sondern ausschließlich:\n\n1. **Theoretisches Wissen zu monoklonalen Antikörpern** (Herstellung, Wirkmechanismen, Beispiele wie Adalimumab, Rituximab, etc.)\n\n2. **Frage 271: TB-Diagnostik** - Dies ist eine theoretische Fragenbeantwortung über das diagnostische Vorgehen bei Tuberkulose, KEIN konkreter Patientenfall\n\n3. **Frage 272: Typen von Dialyse** - Theoretische Darstellung verschiedener Dialyseformen (HD, PD, CRRT), KEIN Patientenfall\n\n4. **Frage 273: Distale Radiusfraktur - Typen** - Klassifikationssysteme (AO-Klassifikation, Frykman-Klassifikation), KEIN konkreter Patientenfall (der Text bricht ab)\n\nAlle Inhalte sind **prüfungsrelevante Wissensvermittlung** im Q&A-Format für die ärztliche Kenntnisprüfung, aber es werden **keine konkreten Patienten** mit Alter, Geschlecht, Anamnese, Untersuchungsbefunden etc. präsentiert."
+  }
+]

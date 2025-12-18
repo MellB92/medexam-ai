@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. Es handelt sich ausschließlich um **theoretisches Wissen** zu:\n\n1. **Biomarker-Kinetik** bei akutem Koronarsyndrom (Myoglobin, Troponin, CK/CK-MB)\n2. **Leitlinien-Algorithmen** (ESC 2023) für Troponin-Bestimmung\n3. **Cut-off-Werte** und deren Interpretation\n4. **Rule-in/Rule-out Kriterien**\n5. **Dokumentationspflichten** (§630f BGB)\n\nEs werden keine konkreten Patienten mit Beschwerden, Untersuchungsbefunden oder Diagnosen präsentiert, sondern lediglich diagnostische Algorithmen und Laborwert-Interpretationen erläutert."
+  }
+]

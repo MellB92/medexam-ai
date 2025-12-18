@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Chronischer Husten mit Hämoptoe bei Raucher",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Chronischer Husten",
+      "Blut im Auswurf seit 14 Tagen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Chronische Bronchitis seit vielen Jahren",
+      "Arterielle Hypertonie",
+      "Chronische Obstipation",
+      "Z.n. Beckenringfraktur vor 10 Jahren nach Autounfall"
+    ],
+    "comorbidities": [
+      "Mobilitätseinschränkung, geht auf Krücken seit 10 Jahren"
+    ],
+    "risk_factors": [
+      "Chronischer Raucher"
+    ],
+    "family_history": [
+      "Mutter verstorben mit 63 Jahren an Darmkrebs",
+      "Vater Diabetiker mit Unterschenkelamputation"
+    ],
+    "social_history": [
+      "Geht auf Krücken am rechten Arm"
+    ],
+    "medications": [
+      "Lisinopril",
+      "Tiotropium",
+      "Salbutamol",
+      "Macrogol"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "RR 150/90 mmHg"
+    ],
+    "physical_examination": [
+      "Untersuchung Lunge",
+      "Untersuchung Pelvis",
+      "Untersuchung auf Uhrglasnägel und Trommelschlägelfinger"
+    ],
+    "imaging_findings": [
+      "Röntgen Thorax p.a.: Scharf begrenzte linke perihiläre Verschattung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "V.a. Bronchialkarzinom",
+      "DD Tuberkulose"
+    ],
+    "diagnostic_approach": [
+      "Bronchoskopie mit Biopsie",
+      "Langzeit-Blutdruckmessung",
+      "EKG"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Chronischer Reizhusten möglicherweise durch ACE-Hemmer (Lisinopril)"
+    ],
+    "follow_up": []
+  }
+]

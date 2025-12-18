@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 37/58) enthält **keine** vollständigen klinischen Patientenfälle oder Präsentationsfälle. \n\nDer Text besteht ausschließlich aus:\n\n1. **Allgemeinen medizinischen Informationen** über akute und chronische Pankreatitis:\n   - Klinische Symptome (Prozentangaben, z.B. \"Übelkeit, Erbrechen 85%\")\n   - Diagnostische Kriterien\n   - Bildgebungsmodalitäten\n   - Komplikationen\n   - Therapierichtlinien\n   - Prognostische Faktoren\n\n2. **Lehrmaterial** aus einer Vorlesung:\n   - Definitionen\n   - Ätiologie\n   - Epidemiologie\n   - Diagnostik-Algorithmen\n   - Therapie-Schemata\n\n3. **Spezielle Entitäten**:\n   - Autoimmunpankreatitis (allgemeine Beschreibung, keine konkreten Patienten)\n\nEs werden **keine individuellen Patienten** mit spezifischen Beschwerden, Anamnesen oder Befunden vorgestellt. Die Informationen sind rein didaktisch und beschreiben typische Krankheitsbilder im Allgemeinen, nicht konkrete klinische Fälle."
+  }
+]

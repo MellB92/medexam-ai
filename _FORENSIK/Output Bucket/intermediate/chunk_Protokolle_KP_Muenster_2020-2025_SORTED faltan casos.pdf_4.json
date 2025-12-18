@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Chunk 5/38 enthält **ausschließlich ein Inhaltsverzeichnis** (Table of Contents) des Dokuments \"Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf\".\n\nDas Inhaltsverzeichnis listet lediglich die Seitenzahlen für verschiedene klinische Fälle auf, die später im Dokument folgen werden:\n\n- Anämie-Fälle (Nr. 84-89)\n- Thrombozytopenie-Fälle (Nr. 90-93)\n- Rheumatoide Arthritis mit oberer GI-Blutung (Nr. 94-97)\n- Riesenzellarteritis (Nr. 98-101)\n- Gastroösophageale Refluxkrankheit (Nr. 102)\n- Colitis ulcerosa (Nr. 103-106)\n- Sigmadivertikulitis (Nr. 107-109)\n- Cholezystitis (Nr. 110)\n\nEs enthält **keine vollständigen klinischen Präsentationsfälle** mit Patientendetails, Anamnese, Befunden oder diagnostischen Informationen - nur Verweise auf die Seiten, wo diese Fälle zu finden sind.\n\nGemäß den Anweisungen werden nur vollständige klinische Fälle extrahiert, daher: **leeres Array**."
+  }
+]

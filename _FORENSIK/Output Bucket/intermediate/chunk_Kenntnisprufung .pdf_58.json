@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Rippenserienfraktur mit Hämatothorax nach Autounfall",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": "Autounfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rö-Thorax: Rippenserienfraktur",
+      "Linksseitiger Hämatothorax",
+      "Evtl. Pneumothorax"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rippenserienfraktur",
+      "Hämatothorax links",
+      "DD: Pneumothorax"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Perikardtamponade möglich",
+      "ARDS"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Multiples Myelom bei Schauspielerin",
+    "patient_age": "75",
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "Müdigkeit seit Herbst",
+      "Rückenschmerzen",
+      "Zahnfleischblutung",
+      "Infektneigung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Golferarm (Gelenkentzündung)",
+      "Wundrose (Erysipel)",
+      "Z.n. Unfall mit Brustkorbverletzung (stationär behandelt)",
+      "Obstipation (seit lange bekannt)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter: Diabetes und Niereninsuffizienz",
+      "Vater: Schilddrüsenkarzinom"
+    ],
+    "social_history": [
+      "Schauspielerin",
+      "Hat einen Sohn",
+      "Wohnt mit Ehemann in Münster",
+      "Alkohol gelegentlich",
+      "Nichtraucherin"
+    ],
+    "medications": [
+      "Ibuprofen 400mg (wegen Schmerzen)",
+      "Abführmittel",
+      "Cetirizin"
+    ],
+    "allergies": [
+      "Tierhaare"
+    ],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "M-Gradient in Elektrophorese",
+      "Röntgen/CT: Knochenosteolysen (Pariser Schema)"
+    ],
+    "laboratory_findings": [
+      "BSG 1-Stunden-Wert: 130 mm",
+      "Bence-Jones-Proteinurie",
+      "Eiweißelektrophorese pathologisch",
+      "Knochenmarkzytologie: Plasmazellvermehrung mit KM-Infiltration"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom"
+    ],
+    "diagnostic_approach": [
+      "Differentialblutbild",
+      "CRP, BSG",
+      "Elektrolyte (Na, K, Ca, P)",
+      "Nierenwerte (Retentionsparameter)",
+      "Bence-Jones-Proteinurie",
+      "Eiweißelektrophorese",
+      "Knochenmarkzytologie",
+      "Röntgen Pariser Schema oder CT für Osteolysen"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "B-Symptomatik: Fieber, Nachtschweiß, 7kg Gewichtsverlust",
+      "Renale Osteopathie",
+      "AV-Block Grad 3 (im EKG)"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "3 Rippenfrakturen mit linksseitiger Verschattung",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "EKG-Kabel sichtbar",
+      "Atemschlauch vorhanden"
+    ],
+    "imaging_findings": [
+      "Röntgen-Thorax: Linksseitige Verschattung",
+      "3 Rippenfrakturen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "3 Rippenfrakturen",
+      "Linksseitige Verschattung"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

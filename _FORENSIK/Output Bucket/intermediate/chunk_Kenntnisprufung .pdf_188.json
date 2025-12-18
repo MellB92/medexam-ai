@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Sepsis mit Multiorgandysfunktion",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "Kopfschmerzen",
+      "Fieber",
+      "Schüttelfrost",
+      "Krankheitsgefühl",
+      "Übelkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Abdomen teilweise untersucht"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Multiorgandysfunktion",
+      "Hyperkaliämie"
+    ],
+    "suspected_diagnosis": [
+      "Sepsis"
+    ],
+    "diagnostic_approach": [
+      "EKG (zeigte VHF und Hyperkaliämie)",
+      "Laboruntersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Vorhofflimmern",
+      "Multiorgandysfunktion"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "GERD mit Reizhusten bei NSAR-Einnahme",
+    "patient_age": "51-jähriger",
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Seit 2 Wochen epigastrische zunehmende Schmerzen",
+      "Sodbrennen",
+      "Aufstoßen",
+      "Reizhusten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Divertikulitis konservativ behandelt",
+      "Z.n. Schilddrüsen-OP wegen Knoten",
+      "Z.n. Handgelenkfraktur konservativ behandelt"
+    ],
+    "comorbidities": [
+      "Handgelenkschmerzen"
+    ],
+    "risk_factors": [
+      "Nikotinkonsum 25 Pack Years",
+      "Langfristige NSAR-Einnahme (5 Monate)"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Raucher 25 PY"
+    ],
+    "medications": [
+      "Ibuprofen 600mg 3x täglich seit ca. 5 Monate",
+      "L-Thyroxin 100mcg pro Tag"
+    ],
+    "allergies": [
+      "Senf"
+    ],
+    "vital_signs": [
+      "Blutdruck beidseits gemessen"
+    ],
+    "physical_examination": [
+      "Rektus-Diastase",
+      "Herz, Lungen, Nieren, Schilddrüse, Lymphknoten untersucht",
+      "Abdomen unauffällig",
+      "Motorik und Sensibilität unauffällig",
+      "Hirnnerven grob unauffällig",
+      "Sonst nichts Auffälliges"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "GERD (Gastroösophageale Refluxkrankheit)",
+      "DD: ACS (ausgeschlossen - keine ACS-Symptomatik)"
+    ],
+    "diagnostic_approach": [
+      "Anamnese und körperliche Untersuchung",
+      "Geplant: ÖGD nach Ausschluss Red Flags",
+      "Empirische PPI-Therapie möglich",
+      "Eventuell ÖGD nach 4 Wochen"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Chronische Laryngitis mit Reizhusten (als mögliche GERD-Komplikation besprochen)"
+    ],
+    "follow_up": [
+      "Venöser Zugang gelegt",
+      "Aufklärung über weiteres Prozedere erfolgt"
+    ]
+  }
+]

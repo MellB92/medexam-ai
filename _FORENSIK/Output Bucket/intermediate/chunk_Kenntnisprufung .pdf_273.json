@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Anämie bei geplantem Hüftgelenksersatz (Koxarthrose)",
+    "patient_age": "63 Jahre",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Kopfschmerzen (3/10 auf Schmerzskala)",
+      "Hüftgelenkschmerzen links (6/10 auf Schmerzskala)",
+      "Fatigue und Leistungsminderung",
+      "Gewichtsabnahme (3 kg innerhalb 6 Wochen)",
+      "Schmerz-bedingte Insomnie",
+      "Obstipation ohne Blut im Stuhl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "DM Typ II",
+      "Perikarditis mit 21 Jahren",
+      "Z.n. Unterschenkel-Fraktur bei Skifahren mit 25 Jahren (konservative Behandlung mit Schiene)",
+      "Z.n. Inkarzierte Leistenhernie rechts vor 30 Jahren (Notfall-OP)",
+      "Fortgeschrittene Koxarthrose links"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Ex-Raucher: 15 Pack-years, seit 5 Jahren aufgehört",
+      "Alkohol: 1-2 Bier am Wochenende",
+      "Bauarbeiter (körperliche Belastung)",
+      "Langzeitanwendung von NSAID ohne Magenschutz"
+    ],
+    "family_history": [
+      "Vater: KHK, verstorben mit 82 Jahren wegen Myokardinfarkt",
+      "Mutter: pflegebedürftig in Pflegeeinrichtung, kürzlich Pneumonie"
+    ],
+    "social_history": [
+      "Verheiratet, lebt mit Ehefrau",
+      "3 Kinder und 3 Enkelkinder",
+      "Bauarbeiter, angestellt beim Bauamt"
+    ],
+    "medications": [
+      "Diclofenac 75 mg 1-0-1",
+      "Metformin 750 mg 1-0-1"
+    ],
+    "allergies": [
+      "Nickel"
+    ],
+    "vital_signs": [
+      "Größe: 180 cm",
+      "Gewicht: 80 kg",
+      "Blutdruck beidseits gemessen (keine Werte angegeben)"
+    ],
+    "physical_examination": [
+      "Herz untersucht",
+      "Lungen untersucht",
+      "Bauch untersucht",
+      "Lymphknoten untersucht",
+      "Beinödeme untersucht",
+      "Periphere Pulse untersucht",
+      "Keine Dyspnoe",
+      "Keine Bauchschmerzen",
+      "Keine Nausea oder Vomitus",
+      "Keine Epistaxis, Petechie oder Purpura"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Makrozytäre hyperchrome Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Vitamin B12 und Folsäure-Mangel",
+      "Eisenmangel-Anämie wegen gastrointestinalem Verlust",
+      "Ausschluss Kolonkarzinom (Mann über 50 Jahre mit Anämie)"
+    ],
+    "diagnostic_approach": [
+      "Labor: BB, Eisen, Ferritin, Transferrinsättigung, Vit B12 & Folsäure",
+      "Nierenwerte wegen DM",
+      "Stuhldiagnostik (Blut im Stuhl)",
+      "Abdomen-Sonographie",
+      "ÖGD (Ösophagogastroduodenoskopie)",
+      "Koloskopie (niemals zuvor durchgeführt)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Geplante Hüftgelenk-Endoprothese bei fortgeschrittener Koxarthrose links"
+    ]
+  }
+]

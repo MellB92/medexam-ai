@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle** mit Patientendetails, sondern ausschließlich:\n\n1. **Eine Liste von Fallkonzepten/Themen** (z.B. \"Achalasie\", \"Asthma Bronchiale\", \"Akute Cholezystitis\") - dies sind nur Themenüberschriften ohne ausgearbeitete Fälle\n\n2. **Prüfungsrelevante Themen** - strukturierte Listen von medizinischen Fachgebieten und Krankheitsbildern zur Prüfungsvorbereitung\n\n3. **Leitsymptome** - eine Auflistung von Symptomen\n\nEs fehlen bei allen aufgelisteten Punkten:\n- Patientenalter und Geschlecht\n- Anamnestische Details\n- Beschwerdeschilderungen\n- Untersuchungsbefunde\n- Laborwerte\n- Bildgebungsergebnisse\n- Diagnostische Überlegungen\n\nDies ist ein **Inhaltsverzeichnis/Themenkatalog** für die Kenntnisprüfung in Münster, aber keine Sammlung ausgearbeiteter klinischer Fälle.\n\nDie tatsächlichen ausgearbeiteten Fälle befinden sich vermutlich in Chunk 2/2 des Dokuments."
+  }
+]

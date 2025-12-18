@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 145/284) enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Abschnitt besteht ausschließlich aus:\n\n1. **FRAGE 270**: Theoretische Erklärung zu monoklonalen Antikörpern (Definition, Wirkmechanismen, Beispiele) - **keine Patientenpräsentation**\n\n2. **FRAGE 271**: Systematische Darstellung der TB-Diagnostik (Diagnostisches Vorgehen, Meldepflicht, Tests) - **keine Patientenpräsentation**\n\n3. **FRAGE 272**: Übersicht über Dialyseformen (Hämodialyse, Peritonealdialyse, CRRT, Indikationen) - **keine Patientenpräsentation**\n\nAlle drei Fragen sind als **TYP: incomplete** markiert und enthalten rein theoretisches Wissen für die Kenntnisprüfung, jedoch keine konkreten Patientenfälle mit individuellen klinischen Daten, Anamnese, Untersuchungsbefunden oder Fallverläufen."
+  }
+]

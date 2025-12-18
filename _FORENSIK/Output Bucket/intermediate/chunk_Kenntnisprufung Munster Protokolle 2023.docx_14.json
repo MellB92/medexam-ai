@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Dumpfe Schmerzen im Lendenbereich mit Bewegungseinschränkung\",\n    \"patient_age\": \"65J\",\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\n      \"Dumpfe Schmerzen im Lendenbereich seit ca. einem Jahr\",\n      \"Schmerzen ohne Ausstrahlung\",\n      \"Schmerzintensität 5/10 auf der Schmerzskala\",\n      \"Bewegungseinschränkung seit zwei Wochen\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

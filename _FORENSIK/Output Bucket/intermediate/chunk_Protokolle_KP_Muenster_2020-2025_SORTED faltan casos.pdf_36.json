@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenpräsentationsfälle**.\n\nDer Text beschreibt:\n\n1. **Prüfungsfragen und theoretisches Wissen** (nicht echte Patientenfälle):\n   - Fragen über Hyperthyreose (Ursachen, Laborwerte, Diagnostik, Therapie)\n   - Fragen über bariatrische Chirurgie (BMI, Indikationen, Verfahren)\n   - Fragen über Unfallversicherung\n   - Bildmaterial (EKGs, Röntgenbilder) **als Prüfungsfragen**, nicht als echte Patientenvorstellungen\n\n2. **Prüfungsbilder ohne Patientenkontext**:\n   - Pertrochantäre Fraktur (Röntgenbild)\n   - Weber-C-Fraktur (Röntgenbild)\n   - Analfissur (Bild)\n   - CT Thorax mit Boerhaave-Syndrom\n   - Röntgen-Thorax mit Hämatothorax\n\nDiese Bilder werden im Kontext von **Prüfungsfragen** gezeigt, nicht als vollständige Patientenfälle mit Anamnese, Untersuchungsbefunden und strukturierter Präsentation.\n\n3. **Erfahrungsbericht und Lerntipps** zur Prüfungsvorbereitung\n\n4. **Beginn eines neuen Falls** am Ende: \"41.082403b #2 Hyperthyreose\" - dieser Fall ist jedoch abgeschnitten und nicht vollständig in diesem Chunk enthalten.\n\n**Fazit:** Keine extrahierbaren vollständigen klinischen Präsentationsfälle vorhanden."
+  }
+]

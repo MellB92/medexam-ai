@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 12/19) enthält **keine klinischen Patientenfälle**. \n\nDer Text behandelt ausschließlich:\n- **Verfahrensanweisungen** für Bluttransfusionen (Kreuzprobe, Bett-Side-Test)\n- **Checklisten** zur Überprüfung vor Transfusionen (Chargennummer, Verfallsdatum, etc.)\n- **Rechtliche Aspekte** und Verantwortlichkeiten des Arztes\n- **Technische Durchführung** des AB0-Identitätstests\n- **Dokumentationspflichten** bei Transfusionen\n\nEs handelt sich um **theoretisches Wissen** und **Prozessbeschreibungen** aus dem Bereich der Transfusionsmedizin, jedoch werden keine konkreten Patienten mit Anamnese, Befunden oder klinischer Präsentation beschrieben."
+  }
+]

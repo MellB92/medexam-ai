@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 329/585) enthält **keine vollständigen klinischen Patientenfälle**, sondern ausschließlich **theoretische Prüfungsfragen und -antworten**.\n\nAlle Inhalte sind wie folgt strukturiert:\n- **Frage 4-14**: Theoretische Fragen zu diagnostischen/therapeutischen Maßnahmen\n  - \"Welche Maßnahmen würden Sie bei Verdacht auf Herzinsuffizienz...\"\n  - \"Welche Symptome sprechen für...\"\n  - \"Was ist die Cushingschwelle...\"\n  - \"Welche Indikationen gibt es für eine Splenektomie...\"\n\nDie Fragen verwenden zwar **hypothetische Szenarien** (z.B. \"Patient mit Abdomenschmerzen nach Sturz\", \"Patient mit seit 30 Minuten bestehenden Halsschmerzen\", \"Hinterwandinfarkt\"), aber diese sind:\n1. **Keine vollständigen Fallpräsentationen** mit konkreten Patientendaten\n2. **Generische \"Was würden Sie tun\"-Fragen** ohne spezifische Anamnese, Befunde oder Verlauf\n3. **Didaktische Szenarien** zur Wissensabfrage, keine dokumentierten Patientenfälle\n\nEs fehlen bei allen Szenarien:\n- Konkrete Patientenangaben (Alter/Geschlecht)\n- Detaillierte Anamnese\n- Spezifische Untersuchungsbefunde\n- Fallverlauf\n\nDaher: **Keine extrahierbaren klinischen Fälle** → Leeres Array"
+  }
+]

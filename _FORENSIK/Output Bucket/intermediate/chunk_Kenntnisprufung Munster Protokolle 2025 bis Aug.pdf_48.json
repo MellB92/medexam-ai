@@ -1,0 +1,133 @@
+[
+  {
+    "title": "Divertikulitis mit Pneumoperitoneum",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Linksseitige Unterbauchschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Pneumoperitoneum"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Divertikulitis",
+      "Divertikulitis mit Perforation"
+    ],
+    "diagnostic_approach": [
+      "Hartmann-Operation (diskontinuierliche Resektion)"
+    ]
+  },
+  {
+    "title": "Colles-Fraktur und undislozierte distale Unterarmfraktur mit Abriss des Processus styloideus ulnae",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Colles-Fraktur",
+      "undislozierte distale Unterarmfraktur",
+      "Abrissfraktur Processus styloideus ulnae"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Colles-Fraktur",
+      "distale Radiusfraktur",
+      "Ulnastyloideabrissfraktur",
+      "Morbus Sudek als mögliche Komplikation"
+    ],
+    "diagnostic_approach": [
+      "operative vs. konservative Therapie"
+    ]
+  },
+  {
+    "title": "Hüft-TEP-Luxation",
+    "patient_age": "ca. 50",
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arthrose im kontralateralen Hüftgelenk"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "nicht-zementierte Prothese",
+      "gute Knochenqualität"
+    ],
+    "imaging_findings": [
+      "luxierte Hüft-TEP",
+      "Anzeichen von Arthrose im anderen Hüftgelenk"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hüft-TEP-Luxation"
+    ],
+    "diagnostic_approach": [
+      "geschlossene Reposition unter Analgosedierung",
+      "offene Reposition im OP-Saal bei Weichteilverletzung oder Gefäß-/Nervenverletzung"
+    ]
+  },
+  {
+    "title": "Angina de novo bei 63-jährigem Patienten mit kardiovaskulären Risikofaktoren",
+    "patient_age": "63",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "belastungsabhängige Thoraxschmerzen mit Ausstrahlung in den linken Arm",
+      "Schmerzen sistieren in Ruhe nach 4 Minuten",
+      "Sodbrennen (lage- und nahrungsabhängig)",
+      "chronische Obstipation seit über 10 Jahren"
+    ],
+    "accident_mechanism": "Auftreten beim Tragen eines Bretts aus dem Keller",
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "Diabetes mellitus Typ 2",
+      "chronische Obstipation",
+      "GERD",
+      "positive Familienanamnese für kardiovaskuläre Erkrankungen"
+    ],
+    "medications": [
+      "ACE-Hemmer",
+      "Metformin",
+      "Bisacodyl bei Bedarf"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Blutdruckmessung beidseitig",
+      "kardiologische körperliche Untersuchung"
+    ],
+    "imaging_findings": [
+      "EKG beim Hausarzt unauffällig"
+    ],
+    "laboratory_findings": [
+      "Schnelltest Troponin beim Hausarzt unauffällig"
+    ],
+    "suspected_diagnosis": [
+      "Angina de novo",
+      "instabile Angina pectoris",
+      "STEMI (auszuschließen)",
+      "NSTEMI (auszuschließen)",
+      "Aortendissektion (auszuschließen)",
+      "Lungenarterienembolie (auszuschließen)"
+    ],
+    "diagnostic_approach": [
+      "12-Kanal-EKG mit erweiterten Ableitungen",
+      "Troponin, CK, CK-MB, D-Dimer",
+      "transthorakale Echokardiographie (WBST, AI, Rechtsherzbelastung, EF)",
+      "ADD-Score (Screening Aortendissektion)",
+      "Wells-Score (Screening LAE)",
+      "CT-Angiographie als Goldstandard bei V.a. Dissektion/LAE",
+      "Koronarangiographie je nach Befund",
+      "apparatives und ärztliches Monitoring"
+    ]
+  }
+]

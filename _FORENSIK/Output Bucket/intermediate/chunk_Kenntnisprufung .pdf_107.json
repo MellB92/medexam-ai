@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Ruptur des vorderen Kreuzbandes bei Frau mit Asthma",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Kniegelenkbeschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Asthma",
+      "Hyperlipidämie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "unregelmäßige Pilleneinnahme"
+    ],
+    "family_history": [
+      "Mutter verstorben wegen Niereninsuffizienz",
+      "Vater verstorben wegen Herz-OP"
+    ],
+    "social_history": [],
+    "medications": [
+      "Pille (Verhütungsmethode, unregelmäßig)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Lachmann-Test",
+      "Steinmann 1 und 2",
+      "Schubladentest",
+      "Payr-Test",
+      "pDMS überprüft",
+      "Umfang Differenz",
+      "tanzende Patella (Hinweis auf großen Erguss)"
+    ],
+    "imaging_findings": [
+      "MRT des Knies: Ruptur des vorderen Kreuzbandes",
+      "Arthroskopie: teilweise Ruptur von Vorderkreuzband"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Ruptur des vorderen Kreuzbandes",
+      "mögliche unhappy Trias"
+    ],
+    "diagnostic_approach": [
+      "MRT des Knies",
+      "Arthroskopie",
+      "klinische Funktionstests"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "großer Erguss mit Notwendigkeit einer Entlastungspunktion"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Kreuzbandruptur nach Kollision mit Kinderwagen",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen im linken Kniegelenk (Ruhe 5/10, Belastung 8/10)",
+      "konnte nicht auf linken Fuß treten",
+      "Schmerzen in der Hand"
+    ],
+    "accident_mechanism": "Kind prallte mit Kinderwagen gegen Patient beim Warten auf Bus, dabei wurde Kniegelenk verdreht, Patient fiel auf die Hand",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Familienanamnese unauffällig"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck gemessen (Gerät funktionierte nicht richtig)"
+    ],
+    "physical_examination": [
+      "Herz-Untersuchung durchgeführt",
+      "Lungen-Untersuchung durchgeführt",
+      "Bauch-Untersuchung durchgeführt",
+      "DMS-Untersuchung beider Knie",
+      "DMS-Untersuchung linker Fuß",
+      "Funktionstests nicht durchgeführt wegen Schmerzen im linken Knie"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kreuzbandruptur"
+    ],
+    "diagnostic_approach": [
+      "körperliche Untersuchung",
+      "DMS-Überprüfung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

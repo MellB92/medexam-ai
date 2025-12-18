@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 458/585) enthält **keine vollständigen klinischen Patientenfälle** im Sinne von Präsentationsfällen mit konkreten Patienten.\n\nStattdessen handelt es sich ausschließlich um:\n\n1. **Theoretische Prüfungsfragen** aus einer Kenntnisprüfung (Quelle: Kenntnispruefung-Allgemein-8.txt)\n2. **Allgemeine medizinische Wissensfragen** wie:\n   - \"Was ist bei einem Tumor wichtig?\"\n   - \"Welche zerebralen Durchblutungsstörungen kennen Sie?\"\n   - \"Wie behandeln Sie einen M1-Infarkt?\"\n   - \"Was ist ein Kompartmentsyndrom?\"\n   - EKG-Interpretation\n   - Differentialdiagnosen (nephrotisches vs. nephritisches Syndrom)\n\n3. **Standardisierte Antworten** zu therapeutischen und diagnostischen Konzepten\n\nEs werden **keine konkreten Patienten** mit individuellen Charakteristika (Alter, Geschlecht, spezifische Anamnese, konkrete Untersuchungsbefunde) beschrieben. Die Fragen sind rein didaktischer Natur und dienen der Wissensvermittlung/Prüfungsvorbereitung."
+  }
+]

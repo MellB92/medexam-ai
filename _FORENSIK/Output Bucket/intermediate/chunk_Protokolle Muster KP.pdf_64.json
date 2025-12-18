@@ -1,0 +1,151 @@
+[
+  {
+    "title": "Akute Unterbauchschmerzen links mit Fieber - Divertikulitis",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Stechende, plötzliche Unterbauchschmerzen links seit 5 Tagen",
+      "Keine Ausstrahlung",
+      "Fieber 38,5°C"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypertonie",
+      "Abwechselnde Obstipation und Diarrhö seit Jahren",
+      "Verletzung des Sprunggelenks links vor 1 Jahr"
+    ],
+    "medications": [
+      "Lisinopril 1-0-0"
+    ],
+    "allergies": [
+      "Amoxicillin"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sonographie: Divertikulitis mit Wandverdickung und Flüssigkeit",
+      "Nativ CT Thorax: Infiltration der Lunge rechts",
+      "Röntgen Sprunggelenk"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Divertikulitis"
+    ],
+    "diagnostic_approach": [
+      "Sonographie",
+      "CT",
+      "Röntgen Sprunggelenk"
+    ]
+  },
+  {
+    "title": "Dekompensierte Herzinsuffizienz mit akuter Dyspnoe während Chemotherapie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Akute Dyspnoe während eines Chemotherapie-Zyklus für NHL"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Dekompensierte Herzinsuffizienz",
+      "Non-Hodgkin-Lymphom (NHL)",
+      "TVT rezidivierend linkes Bein seit 2012"
+    ],
+    "medications": [
+      "Marcumar seit 2012"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax mit Lungenödem"
+    ],
+    "laboratory_findings": [
+      "BGA durchgeführt"
+    ],
+    "suspected_diagnosis": [
+      "Anaphylaktischer Schock wegen Medikamente",
+      "Respiratorische Alkalose"
+    ],
+    "diagnostic_approach": [
+      "Laborwerte",
+      "BGA",
+      "EKG",
+      "Röntgen Thorax"
+    ]
+  },
+  {
+    "title": "Junger Mann mit akuter Dyspnoe und leichten Thoraxschmerzen",
+    "patient_age": "junger Mann",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Plötzliche Dyspnoe",
+      "Leichte Thoraxschmerzen",
+      "Unruhig"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG unauffällig"
+    ],
+    "laboratory_findings": [
+      "BGA mit respiratorischer Alkalose"
+    ],
+    "suspected_diagnosis": [
+      "Hyperventilation"
+    ],
+    "diagnostic_approach": [
+      "BGA",
+      "EKG"
+    ]
+  },
+  {
+    "title": "Frisches Blut im Stuhl seit ein paar Tagen - Kolorektalkarzinom",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Frisches Blut im Stuhl seit ein paar Tagen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "DRU (Digitale rektale Untersuchung) geplant"
+    ],
+    "imaging_findings": [
+      "Koloskopie: Tumor im Sigmoid gefunden",
+      "Tumor 40 cm vom Analbereich"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kolorektalkarzinom",
+      "Rektumkarzinom",
+      "Kotstein"
+    ],
+    "diagnostic_approach": [
+      "DRU",
+      "Koloskopie"
+    ]
+  },
+  {
+    "title": "Sturz von Leiter mit Dyspnoe und Schmerzen linke Seite",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Dyspnoe",
+      "Schmerzen"
+    ],
+    "accident_mechanism": "Patient ist von einer Leiter auf die linke Seite gefallen",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Milzruptur"
+    ],
+    "diagnostic_approach": []
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Synkope nach Anblick einer blutigen Schnittwunde mit Kopftrauma\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\n      \"Synkope beim Anblick einer blutigen Schnittwunde\",\n      \"Sturz auf den Kopf\",\n      \"starke Kopfschmerzen\",\n      \"Übelkeit\"\n    ],\n    \"accident_mechanism\": \"Patientin synkopierte beim Anblick einer blutigen Schnittwunde und stürzte auf den Kopf\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\n      \"neurologische Untersuchung mit Reflexen durchgeführt\",\n      \"Vitalparameter gemessen\",\n      \"Herz und Lungen untersucht\"\n    ],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Reflexsynkope\",\n      \"Schädel-Hirn-Trauma\",\n      \"Hämatom\"\n    ],\n    \"diagnostic_approach\": [\n      \"Patientin hinlegen\",\n      \"neurologische Untersuchung\",\n      \"Reflexprüfung\",\n      \"Vitalparameter\",\n      \"Herz- und Lungenauskultation\",\n      \"Notfallanamnese\"\n    ]\n  }\n]\n```"
+  }
+]

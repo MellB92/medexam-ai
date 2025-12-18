@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 60/155) enthält **keine vollständigen klinischen Patientenfälle oder Präsentationsfälle**.\n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretisches Wissen zu Morbus Crohn:**\n   - Diagnostische Verfahren (Endoskopie, Bildgebung)\n   - Differentialdiagnostische Tabelle (Morbus Crohn vs. Colitis ulcerosa)\n   - Therapieoptionen\n   - Komplikationen und Prognose\n\n2. **Theoretisches Wissen zu Arterieller Verschlusskrankheit viszeraler Gefäße:**\n   - Ätiologie und Pathophysiologie\n   - Symptome/Klinik (allgemeine Beschreibungen der Stadien)\n   - Diagnostische Verfahren\n   - Differentialdiagnosen\n   - Therapieansätze\n\nDie Beschreibungen wie \"Typischer Patient: Vorhofflimmern → Plötzliche Bauchschmerzen!\" sind **allgemeine klinische Muster** und keine konkreten Patientenfälle mit individuellen Details.\n\nEs gibt keine spezifischen Patientengeschichten mit:\n- Konkretem Alter/Geschlecht eines individuellen Patienten\n- Spezifischer Anamnese eines Einzelfalls\n- Individuellen Untersuchungsbefunden\n- Fallspezifischer Diagnostik oder Therapie\n\nDaher: **Leeres Array** `[]`"
+  }
+]

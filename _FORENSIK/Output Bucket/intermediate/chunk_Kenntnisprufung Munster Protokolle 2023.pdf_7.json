@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Akute Appendizitis bei 66-jähriger Patientin",
+    "patient_age": "66-jährig",
+    "patient_gender": "weiblich",
+    "chief_complaints": [
+      "Seit 1 Tag bestehende kolikartige, verschlechternde, starke Abdominalschmerzen",
+      "Schmerzen begannen mittig und verlagerten sich in rechte Seite des Unterabdomens",
+      "Schmerzen NRS 5-6/10",
+      "Fieber",
+      "Inappetenz",
+      "Übelkeit",
+      "Einmaliges Erbrechen (nicht blutig, Restessen)",
+      "Dunkler Urin"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. TVT bei Schwangerschaft vor mehreren Jahren",
+      "Z.n. Ellenbogen-Verletzung vor 3 Wochen (konservativ behandelt)",
+      "Herzklappenvitien (Typ unbekannt)",
+      "Vitamin-Mangel (? Vitamin D)",
+      "War vor 1 Woche beim Zahnarzt"
+    ],
+    "medications": [
+      "Vitamin D Tablette (Dosis unbekannt)",
+      "Ibuprofen Tabletten (vom Zahnarzt)",
+      "Buscopan (wenig Linderung)"
+    ],
+    "allergies": [
+      "Pflaster (äußert sich als Hautausschlag)"
+    ],
+    "physical_examination": [
+      "Reduzierter Allgemeinzustand",
+      "Febril",
+      "Abdomen: nicht vergrößert, normale Darmgeräusche",
+      "Abwehrspannung erkennbar",
+      "Schwergradiger Druckschmerz rechte Fossa Iliaca (McBurney-Punkt)",
+      "Psoas-Zeichen positiv",
+      "Blumberg-Zeichen positiv",
+      "Murphy-Zeichen nicht beurteilbar wegen Schmerzen",
+      "CVS: S1 S2, Puls 78/min, RR 110/70 mmHg (beide Arme)",
+      "Respiratorisch: unauffällig",
+      "CNS: unauffällig",
+      "MSK: unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akutes Abdomen",
+      "Akute Appendizitis",
+      "Divertikulitis",
+      "Harnwegsinfekt",
+      "Salpingitis",
+      "Cholezystitis (auszuschließen)"
+    ],
+    "diagnostic_approach": [
+      "Patientin über mögliche Ursachen informiert",
+      "Über Notwendigkeit weiterer Untersuchungen informiert",
+      "Digitale rektale Untersuchung erwähnt"
+    ]
+  }
+]

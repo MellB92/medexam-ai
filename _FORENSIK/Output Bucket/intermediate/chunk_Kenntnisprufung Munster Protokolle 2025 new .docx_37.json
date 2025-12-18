@@ -1,0 +1,113 @@
+[
+  {
+    "title": "Inzidentalom der Nebenniere",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Bruder mit kolorektalem Karzinom (Familienanamnese)"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Ultraschall mit Konvex-Schallkopf auf Abdomen",
+      "Raumforderung, echoarm und homogen",
+      "Nebennieren-Sono"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Inzidentalom",
+      "Conn-Syndrom (DD)",
+      "Hypercortisolismus (DD)",
+      "Phäochromozytom (DD)"
+    ],
+    "diagnostic_approach": [
+      "Clonidin-Test",
+      "Hormonelle Diagnostik bei Nebennieren-Raumforderungen",
+      "Ausschluss Conn-Syndrom, Hypercortisolismus, Phäochromozytom"
+    ]
+  },
+  {
+    "title": "Rheumatoide Arthritis mit Arthralgien",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Arthralgien",
+      "Schmerzen beim Händeschütteln"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "RF (Rheumafaktor) 40% am Anfang, dann 80%",
+      "Anti-CCP 60%"
+    ],
+    "suspected_diagnosis": [
+      "Rheumatoide Arthritis"
+    ],
+    "diagnostic_approach": [
+      "Rheumafaktor-Bestimmung",
+      "Anti-CCP-Antikörper"
+    ]
+  },
+  {
+    "title": "Beckenringfraktur mit hämorrhagischem Schock",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Hämorrhagischer Schock"
+    ],
+    "accident_mechanism": "Beckenfraktur (Traumamechanismus nicht näher spezifiziert)",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Beckenringfraktur (2 Bilder)",
+      "Sakrumfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Beckenringfraktur",
+      "Sakrumfraktur",
+      "Hämorrhagischer Schock ohne venöse oder arterielle Blutung"
+    ],
+    "diagnostic_approach": [
+      "Bildgebung Becken",
+      "Keine Dauerkatheteranlage kontraindiziert"
+    ]
+  },
+  {
+    "title": "Kind mit Atemnot und Stridor",
+    "patient_age": "Kind",
+    "patient_gender": null,
+    "chief_complaints": [
+      "Atemnot",
+      "Stridor"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Stridor"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pseudokrupp",
+      "Krupp",
+      "Hämophilus influenzae-Infektion (DD)"
+    ],
+    "diagnostic_approach": [
+      "Nur erfahrener Anästhesist darf intubieren",
+      "Koniotomie als letzte Option",
+      "Impfstatus prüfen (H. influenzae)"
+    ]
+  }
+]

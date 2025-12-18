@@ -1,0 +1,308 @@
+[
+  {
+    "title": "Zweiter Tumor im Colon descendens nach Rektumkarzinom",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "zweiter Tumor im Colon descendens"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Rektumkarzinom",
+      "Z.n. tiefer anteriorer Rektumresektion"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Sensibilitätsstörung am linken Oberschenkel postoperativ"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "zweiter Tumor im Colon descendens"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "linksseitige Hemikolektomie durchgeführt",
+      "doppelläufiges Kolostoma angelegt"
+    ],
+    "complications": [
+      "postoperative Sensibilitätsstörung am linken Oberschenkel"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Rezidiv eines Rektumanastomosenkarzinoms mit postoperativem Subileus",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Rezidiv eines Rektumanastomosenkarzinoms"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Rektumkarzinom",
+      "Z.n. Rektumkarzinom-Resektion"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rezidiv eines Rektumanastomosenkarzinoms"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "zur elektiven OP stationär aufgenommen"
+    ],
+    "complications": [
+      "postoperative paralytische Darmatonie mit Subileus"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Sigmoideumperforation bei 80-jähriger Frau",
+    "patient_age": "80-jährige",
+    "patient_gender": "w",
+    "severity": "critical",
+    "chief_complaints": [
+      "Obstipation",
+      "Fieber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Gas unter dem Zwerchfell im Abdomen- und Thorax-Röntgenbild"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perforation im Colon Sigmoideum"
+    ],
+    "diagnostic_approach": [
+      "Abdomen-Röntgenbild",
+      "Thorax-Röntgenbild"
+    ],
+    "treatment_response": [
+      "Magensonde",
+      "Flüssigkeitszufuhr über venösen Zugang",
+      "Antibiotikagabe",
+      "umgehende operative Therapie",
+      "Resektion der Perforationsstelle",
+      "End-zu-End-Anastomose",
+      "Bauchspülung",
+      "Anlage einer Drainage"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Akutes Abdomen nach Alkoholkonsum bei Patient mit Ulkusanamnese",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "akutes Abdomen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Ulkus"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Alkoholkonsum"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Alkoholkonsum"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen LSA"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Magenperforation"
+    ],
+    "diagnostic_approach": [
+      "Röntgen LSA",
+      "Diagnostik"
+    ],
+    "treatment_response": [
+      "Venenzugang",
+      "Volumengabe",
+      "OP",
+      "Biopsie bei der OP zum Ausschluss von Karzinomen"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Perforiertes Duodenalulkus nach Wodka-Konsum",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "Perforation"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Magengeschwür"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Wodka getrunken"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Alkoholkonsum"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Ultraschall zeigt Luft",
+      "Röntgen seitliche Aufnahme zeigt freie Luft",
+      "Bild von Perforation"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "perforiertes Duodenalulkus"
+    ],
+    "diagnostic_approach": [
+      "Ultraschall",
+      "Röntgen seitliche Aufnahme"
+    ],
+    "treatment_response": [
+      "Stabilisieren",
+      "Venenzugang",
+      "Flüssigkeitsgabe",
+      "Nahtverschluss",
+      "Biopsie zum Ausschluss maligner Entartung"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Invagination bei 4-jährigem Kind",
+    "patient_age": "4-jährig",
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Erbrechen",
+      "Blut im Stuhlgang"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Invagination (Intussuszeption)"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Mechanischer Ileus durch Briden nach Appendektomie",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "mechanischer Ileus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Appendektomie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild",
+      "erstes hatte keine Hodenkapsel"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "mechanischer Ileus durch Briden",
+      "Dünndarm"
+    ],
+    "diagnostic_approach": [
+      "Röntgenbild"
+    ],
+    "treatment_response": [
+      "Flüssigkeit",
+      "Magensonde"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Milzruptur bei Kind nach Unfall",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Bauchhämatom"
+    ],
+    "accident_mechanism": "Unfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Bauchhämatom"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Zweizeitverletzung",
+      "Milzruptur"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

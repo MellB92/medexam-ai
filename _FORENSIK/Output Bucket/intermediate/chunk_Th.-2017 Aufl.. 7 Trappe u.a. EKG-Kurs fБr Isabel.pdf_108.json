@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:** \n\nDieser Dokumentabschnitt (Chunk 109/111) ist Teil eines **Sachverzeichnisses/Index** eines EKG-Lehrbuchs (\"EKG-Kurs für Isabel\"). \n\nDer Text enthält ausschließlich:\n- Alphabetisch sortierte Fachbegriffe (Perimyokarditis, P-Welle, QRS-Komplex, etc.)\n- Seitenverweise (z.B. \"51\", \"94\", \"66\")\n- Definitionen und Klassifikationen\n- Keine narrativen Patientenfälle\n- Keine klinischen Präsentationen mit Anamnese, Befunden oder diagnostischem Vorgehen\n\nEs handelt sich um reines Referenzmaterial ohne vollständige klinische Falldarstellungen."
+  }
+]

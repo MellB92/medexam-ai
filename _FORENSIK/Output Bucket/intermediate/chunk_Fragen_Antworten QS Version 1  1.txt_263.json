@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text zeigt lediglich ein **therapeutisches Behandlungsschema** für eine Erkrankung (vermutlich Bursitis/Gelenkerguss basierend auf den diagnostischen und therapeutischen Maßnahmen), bestehend aus:\n\n1. Diagnostischen Maßnahmen (Sonographie, Labor, Punktion)\n2. Konservativer Therapie (Ruhigstellung, Kühlung, NSAR)\n3. Antibiotischer Therapie (kalkulierte Antibiotikagabe)\n4. Operativen Indikationen\n\nEs fehlen sämtliche Elemente eines konkreten Patientenfalls:\n- Keine Patientenangaben (Alter, Geschlecht)\n- Keine Anamnese oder Hauptbeschwerden\n- Keine konkrete Untersuchung eines Patienten\n- Keine spezifischen Befunde\n- Keine individuelle Diagnosestellung\n\nDies ist ein **Therapiealgorithmus/Behandlungsschema** aus einem Lehrbuch oder einer Leitlinie, kein klinischer Präsentationsfall."
+  }
+]

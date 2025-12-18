@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Ende eines Protokolls für HWS-Trauma** (Fragment):\n   - Auflistung von Indikationen für bildgebende Verfahren (V.a. Bandscheiben-/Bandverletzungen, präoperative Planung)\n   - Rechtliche Aspekte\n   - CAVE-Hinweise zur Therapie\n   - Dies ist offensichtlich der **Schluss einer vorherigen Antwort** aus Chunk 74\n\n2. **FRAGE 119: Theoretische Frage zur akuten Therapie von Vorhofflimmern**:\n   - Dies ist eine **standardisierte Prüfungsantwort** ohne konkreten Patientenfall\n   - Es werden allgemeine therapeutische Protokolle beschrieben\n   - Keine spezifische Patientenpräsentation mit Anamnese, Befunden oder individuellem Verlauf\n   - Rein theoretisches medizinisches Wissen\n\nEs handelt sich ausschließlich um **Lehrmaterial und Therapieprotokolle**, nicht um dokumentierte klinische Einzelfälle."
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Delir bei älterer Patientin mit Fraktur",
+    "patient_age": "ältere Patientin",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "nächtliche Unruhe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Fraktur"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "höheres Alter"
+    ],
+    "family_history": [],
+    "social_history": [
+      "stationär aufgenommen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Delir"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Colitis Ulcerosa bei 31-jähriger Frau",
+    "patient_age": "31 Jahre",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "blutige Diarrhoen seit 2 Wochen",
+      "Bauchschmerzen im linken Unterbauch",
+      "nächtliche Stuhlgänge"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Schlüsselbeinfraktur vor 3 Jahren (konservativ behandelt)"
+    ],
+    "comorbidities": [
+      "Adipositas"
+    ],
+    "risk_factors": [
+      "Rauchen 5-10 Zigaretten/Tag seit 5 Jahren",
+      "Alkoholkonsum 2-3 Bier unter der Woche"
+    ],
+    "family_history": [
+      "Mutter verstorben mit 68 Jahren (Dialysepatientin, Sepsis)",
+      "Vater 71 Jahre alt mit Herz-Lungen-Erkrankung",
+      "Bruder Leisten-OP"
+    ],
+    "social_history": [
+      "lebt alleine",
+      "Trennung vom Partner vor 5 Monaten",
+      "tätig in Autovermietung"
+    ],
+    "medications": [
+      "Imodium akut (vom Hausarzt verschrieben)"
+    ],
+    "allergies": [
+      "Kälteallergie im Kindesalter"
+    ],
+    "vital_signs": [
+      "Fieber 37,8°C"
+    ],
+    "physical_examination": [
+      "adipöser Zustand",
+      "Druckschmerz im linken Unterbauch",
+      "blasses Aussehen",
+      "sonst unauffällig"
+    ],
+    "imaging_findings": [
+      "Koloskopie: Hyperämie, Fibrinbeläge"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "CED insbesondere Colitis Ulcerosa",
+      "Sigmadivertikulitis",
+      "infektiöse Gastroenteritis",
+      "Pyelonephritis",
+      "HWI"
+    ],
+    "diagnostic_approach": [
+      "Entzündungsparameter",
+      "Hb-Bestimmung",
+      "bakteriologische Stuhluntersuchung mit Antibiogramm",
+      "Abdomensonographie (freie Flüssigkeit?)",
+      "gegebenenfalls CT-Abdomen",
+      "Koloskopie"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "entzündete Augen seit 3 Monaten",
+      "Rückenschmerzen seit 3 Monaten"
+    ],
+    "follow_up": [
+      "Gewichtsverlust 3 kg in 3 Wochen",
+      "Appetitlosigkeit",
+      "Beschwerden seit 5 Monaten, seit 2 Wochen deutlich intensiver"
+    ]
+  }
+]

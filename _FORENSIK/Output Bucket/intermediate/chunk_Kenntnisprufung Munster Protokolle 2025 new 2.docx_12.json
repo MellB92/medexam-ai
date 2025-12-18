@@ -1,0 +1,95 @@
+[
+  {
+    "title": "GERD mit retrosternalen Schmerzen und Refluxbeschwerden",
+    "patient_age": "63-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Seit mehreren Wochen retrosternale Schmerzen",
+      "Refluxbeschwerden vor allem beim Liegen und nach Nahrungsaufnahme",
+      "Heiserkeit morgens",
+      "Reizhusten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Schulterluxation und geschlossene Reposition",
+      "Z.n. Achillessehnenruptur",
+      "Z.n. Thyreoidektomie",
+      "BZ erhöht (noch keine Diagnose und Behandlung)"
+    ],
+    "medications": [
+      "L-Thyroxin"
+    ],
+    "allergies": [
+      "Allergie gegen Senf mit Urtikaria und Tachykardie",
+      "Raucherin 10-15 Zigaretten/Tag"
+    ],
+    "physical_examination": [
+      "Epigastrale Schmerzen bei körperlicher Untersuchung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "BZ erhöht"
+    ],
+    "suspected_diagnosis": [
+      "GERD (Gastroösophageale Refluxkrankheit)"
+    ],
+    "diagnostic_approach": [
+      "Venösen Zugang legen"
+    ]
+  },
+  {
+    "title": "Patient mit Bewusstseinsstörung und Hypoglykämie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Bewusstseinsstörung",
+      "Blass",
+      "Tachykardie",
+      "Hunger"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Blass",
+      "Tachykardie"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hypoglykämie"
+    ],
+    "diagnostic_approach": [
+      "Blutzucker messen",
+      "G40 intravenös",
+      "Bei fehlendem Zugang: Glukose durch ZVK",
+      "Alternativ: Glucagon i.m. oder s.c."
+    ]
+  },
+  {
+    "title": "Junge Patientin mit Hypoglykämie nach Alkoholkonsum",
+    "patient_age": "jung",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Hypoglykämie",
+      "Vorstellung Samstag um 3 Uhr morgens"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [
+      "Alkohol"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Alkohol-induzierte Hypoglykämie (Hemmung der Glukoneogenese)"
+    ],
+    "diagnostic_approach": [
+      "Blutzuckermessung",
+      "G40 Infusion"
+    ]
+  }
+]

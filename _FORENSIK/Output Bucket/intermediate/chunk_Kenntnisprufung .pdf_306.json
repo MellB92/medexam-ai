@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Akutes Koronarsyndrom (STEMI Inferiorwand) mit Hyponatriämie",
+    "patient_age": "63J",
+    "patient_gender": "Mann",
+    "severity": "severe",
+    "chief_complaints": [
+      "Retrosternale Druckschmerzen mit Ausstrahlung in den linken Arm",
+      "Schwindel",
+      "Schmerzintensität 7/10",
+      "Schmerzdauer einige Minuten",
+      "Schmerzen in Ruhe verschwunden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus",
+      "Arterielle Hypertonie",
+      "Chronische Nierenerkrankung"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "ACE Hemmer (seit 3 Wochen)",
+      "SGLT2 Hemmer (seit 3 Wochen)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Initial beim Hausarzt untersucht"
+    ],
+    "imaging_findings": [
+      "EKG mit STEMI Inferiorwand"
+    ],
+    "laboratory_findings": [
+      "Natrium 122 mmol/l (Hyponatriämie)",
+      "GFR-Abfall um 3-5 ml/min/1,73m² nach 3 Wochen Medikamenteneinnahme",
+      "Glucose im Urin positiv (SGLT2-Inhibitor-Wirkung)"
+    ],
+    "suspected_diagnosis": [
+      "STEMI Inferiorwand",
+      "ACS (Akutes Koronarsyndrom)",
+      "Hyponatriämie"
+    ],
+    "diagnostic_approach": [
+      "EKG beim Hausarzt (initial unauffällig)",
+      "Schnelltest beim Hausarzt (unauffällig)",
+      "EKG-Kontrolle mit STEMI-Nachweis",
+      "Urinosmolalität und Urinnatriumkonzentration bei Hyponatriämie"
+    ],
+    "treatment_response": [
+      "Intraglomerulärer Druckabfall durch ACE-Hemmer und SGLT2-Inhibitoren führte zu GFR-Reduktion (erwartete Wirkung)"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Subkapitale Humerusfraktur mit Commotio cerebri nach Sturz",
+    "patient_age": null,
+    "patient_gender": "Frau",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Sturz zu Hause"
+    ],
+    "accident_mechanism": "Sturz aus 2-3 m Höhe zu Hause",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck gemessen und beobachtet",
+      "Puls getestet"
+    ],
+    "physical_examination": [
+      "Vollständige neurologische Untersuchung durchgeführt",
+      "Blutdruck während Untersuchung beobachtet",
+      "Puls nochmals getestet"
+    ],
+    "imaging_findings": [
+      "Röntgenaufnahme mit subkapitaler Humerusfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Subkapitale Humerusfraktur",
+      "Commotio cerebri"
+    ],
+    "diagnostic_approach": [
+      "Röntgenaufnahme des Humerus",
+      "Polytrauma-CT diskutiert (aufgrund Sturzh��he)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

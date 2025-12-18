@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Humerusfraktur und Schultergelenkverletzung nach Unfall",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schulterschmerzen"
+    ],
+    "accident_mechanism": "Unfall",
+    "pre_existing_conditions": [
+      "Morbus Crohn",
+      "Zustand nach Milzentfernung"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen: Humerusfraktur",
+      "Schmerzen in linkem Schulter",
+      "Hämatom oder Verletzung der Weichgewebe",
+      "CT von Milzruptur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schultergelenkverletzung",
+      "Humerusfraktur (Liniefraktur)",
+      "Milzruptur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen",
+      "CT"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Polytrauma nach Fahrradunfall",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "diffuse thorakale Schmerzen",
+      "Schmerzen am Knie",
+      "Schmerzen am Unterschenkel",
+      "Erbrochen (1x)",
+      "Bewusstseinsverlust"
+    ],
+    "accident_mechanism": "Fahrradunfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Untersuchung: Kopf, Thorax, Abdomen, Extremitäten und Becken"
+    ],
+    "imaging_findings": [
+      "Röntgen: Sternum Fraktur",
+      "Röntgen: proximale Tibiafraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma",
+      "Sternum Fraktur",
+      "proximale Tibiafraktur",
+      "Schädel-Hirn-Trauma (möglich)"
+    ],
+    "diagnostic_approach": [
+      "Röntgen",
+      "Trauma-Untersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

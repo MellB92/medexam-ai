@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle** im engeren Sinne. Es handelt sich um ein Prüfungsprotokoll mit theoretischen Fragen und Antworten zu verschiedenen medizinischen Themen:\n\n1. **Magenkarzinom/Siegelringzellkarzinom** - Theoretische Diskussion über Klassifikation und Therapie, aber kein konkreter Patientenfall\n2. **Humerusfrakturen** - Bildbeschreibungen von verschiedenen Frakturtypen ohne Patientenkontext\n3. **Knochenwachstum** - Theoretische Fragen\n4. **Komplikationen bei Frakturen** - Allgemeine Wissensfragen\n5. **Nervus radialis** - Anatomische Fragen\n6. **Engpasssyndrome** - Theoretische Aufzählung\n7. **Röntgen-Thorax** - Systematische Befundung (theoretisch)\n8. **Thoraxtrauma** - Zwar wird \"Lungenkontusion mit Rippenserienfraktur und Pleuraerguss nach Thoraxtrauma\" erwähnt, aber dies ist eine theoretische Frage ohne vollständige Falldarstellung mit Anamnese, Unfallhergang, körperlicher Untersuchung etc.\n\nDie Erwähnungen sind entweder rein theoretisch oder fragmentarisch ohne ausreichende klinische Details für einen vollständigen Fall."
+  }
+]

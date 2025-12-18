@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 3/9) enthält **keine klinischen Patientenfälle**. \n\nDer Text behandelt ausschließlich theoretische Grundlagen des Strahlenschutzes:\n\n- Gewebewichtungsfaktoren und Organdosen\n- Effektive Dosis und Dosismessungen (CTDI, DLP, Dosisflächenprodukt)\n- Gesetzliche Regelungen (Strahlenschutzgesetz, Strahlenschutzverordnung)\n- Organisatorische Aspekte (Strahlenschutzverantwortliche, Strahlenschutzbeauftragte)\n- Baulicher Strahlenschutz (Abschirmung, Materialien)\n- Arbeitsbereichseinteilung (Kontroll-, Überwachungs-, Sperrbereich)\n- Qualitätssicherung\n\nEs handelt sich um ein **Handout/Schulungsmaterial** für Ärzte zum Thema Strahlenschutz, ohne konkrete Patientenfalldarstellungen."
+  }
+]

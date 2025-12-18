@@ -1,0 +1,111 @@
+[
+  {
+    "title": "CO2-Vergiftung nach Grillfest",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "bewusstlos/auf dem Boden liegend"
+    ],
+    "accident_mechanism": "CO2-Exposition beim Grillfest",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "mehrere Familienmitglieder gleichzeitig betroffen"
+    ],
+    "social_history": [
+      "Grillfest mit Familie"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "CO2-Vergiftung"
+    ],
+    "diagnostic_approach": [
+      "Kapnographie zur Messung des CO2-Gehalts am Finger"
+    ],
+    "treatment_response": [
+      "hyperbare Sauerstofftherapie"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Verlängerte QT-Zeit unter Quetiapin-Therapie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Quetiapin"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "verlängerte QT-Zeit im EKG"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Medikamenten-induzierte QT-Verlängerung"
+    ],
+    "diagnostic_approach": [
+      "EKG-Kontrolle"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "verlängerte QT-Zeit"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Typ-2-Diabetes mellitus mit klassischer Symptomtrias",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Müdigkeit",
+      "Schwindel",
+      "wiederkehrende Infektionen",
+      "Polyurie",
+      "Polydipsie",
+      "Polyphagie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "EKG mit Linksschenkelblock und scheinbarer ST-Hebung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Typ-2-Diabetes mellitus"
+    ],
+    "diagnostic_approach": [
+      "Blutzuckermessung",
+      "HbA1c-Bestimmung",
+      "EKG"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

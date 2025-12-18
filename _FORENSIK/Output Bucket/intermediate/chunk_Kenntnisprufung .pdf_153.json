@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Akute Cholezystitis mit Cholezystolithiasis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "typische Symptome der Cholezystitis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Murphy-Zeichen positiv"
+    ],
+    "imaging_findings": [
+      "Sonographie: Konkremente mit Schallschattung aber keine Wandverdickung"
+    ],
+    "laboratory_findings": [
+      "Entzündungsparameter",
+      "Cholestaseparameter"
+    ],
+    "suspected_diagnosis": [
+      "Akute Cholezystitis",
+      "Cholezystolithiasis"
+    ],
+    "diagnostic_approach": [
+      "Labor mit Entzündungs- und Cholestaseparameter",
+      "Sonographie",
+      "ggf. MRCP",
+      "ggf. ERCP"
+    ],
+    "treatment_response": [
+      "Cholezystektomie indiziert da symptomatisch"
+    ],
+    "complications": [
+      "mögliche biliäre Pankreatitis",
+      "mögliche Cholangitis"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Lungenarterienembolie nach Hüftoperation",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Luftnot"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Hüftoperation vor 6 Tagen"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "postoperativ"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Hypotonie",
+      "Tachykardie"
+    ],
+    "physical_examination": [
+      "klinische Symptome einer TVT"
+    ],
+    "imaging_findings": [
+      "Sonographie: Thrombus",
+      "CT-Angiographie geplant"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "V.a. Lungenarterienembolie",
+      "Tiefe Venenthrombose"
+    ],
+    "diagnostic_approach": [
+      "FD-Sonographie",
+      "CT-Angiographie"
+    ],
+    "treatment_response": [
+      "Verlegung auf Intensivstation",
+      "Vollheparinisierung"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Akute Cholezystitis (Patientin mit Z.n. Kahnbeinfraktur)",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Kahnbeinfraktur vor 3 Jahren (operiert)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "akute Cholezystitis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Cholezystektomie"
+    ],
+    "complications": [
+      "mögliche akute Cholangitis",
+      "mögliche biliäre Pankreatitis"
+    ],
+    "follow_up": []
+  }
+]

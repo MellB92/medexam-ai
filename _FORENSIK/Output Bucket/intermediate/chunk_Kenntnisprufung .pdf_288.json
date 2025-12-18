@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Akute Pyelonephritis bei rezidivierenden Harnwegsinfekten",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Linksseitige Flankenschmerzen seit gestern Abend, dumpf, mittelstark (6/10), Ausstrahlung in Unterbauch",
+      "Fieber 39.5°C",
+      "Nausea ohne Vomitus",
+      "Appetitlosigkeit",
+      "Pollakisurie, Dysurie, Algurie und Hämaturie seit 3 Tagen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus seit 19. Lebensjahr",
+      "Belastungsasthma (neulich diagnostiziert)",
+      "Rezidivierende Harnwegsinfekte, letzte vor paar Monaten, konservativ behandelt",
+      "Unterarmbruch vor paar Jahren, mittels Gips behandelt"
+    ],
+    "comorbidities": [
+      "Schmerzen und Schwellung im rechten Knie seit paar Wochen nach Knie-Verdrehung"
+    ],
+    "risk_factors": [
+      "Diabetes mellitus",
+      "Rauchen seit dem 19. Lebensjahr",
+      "Rezidivierende Harnwegsinfekte"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Raucher seit dem 19. Lebensjahr"
+    ],
+    "medications": [
+      "Insulinpumpe",
+      "Foster",
+      "Flohsamenschalen"
+    ],
+    "allergies": [
+      "Nickel (Exanthem)"
+    ],
+    "vital_signs": [
+      "Fieber 39.5°C"
+    ],
+    "physical_examination": [
+      "Schwellung im rechten Knie"
+    ],
+    "imaging_findings": [
+      "Untersuchungen des rechten Knies unauffällig"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pyelonephritis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

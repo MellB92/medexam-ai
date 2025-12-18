@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 42/84) enthält ausschließlich theoretisches Lehrmaterial in Form von Lernkarten für das mündliche Staatsexamen in Innerer Medizin und Chirurgie. \n\nDer Text behandelt folgende Themen in didaktischer Form:\n- **Sepsis** (Fortsetzung): Prognose, Komplikationen (DIC), Therapie\n- **COVID-19**: Definition, Ätiologie, Klinik, Diagnostik, Therapie, Risikofaktoren, Komplikationen, Prävention\n- **Schädel-Hirn-Trauma (SHT)**: Definition, Einteilung, Ätiologie, Klinik, Diagnostik (inkl. Glasgow Coma Scale), Therapie\n\nEs handelt sich durchgehend um strukturierte Wissensvermittlung mit:\n- Definitionen\n- Ätiologischen Erklärungen\n- Allgemeinen klinischen Symptomen\n- Standarddiagnostik\n- Therapierichtlinien\n\n**Es gibt KEINE konkreten Patientenfälle** mit individuellen Charakteristika wie:\n- Spezifischem Alter/Geschlecht eines Patienten\n- Konkreter Anamnese\n- Individueller Befundkonstellation\n- Fallspezifischer Diagnostik oder Therapie\n\nDaher: Leeres Array."
+  }
+]

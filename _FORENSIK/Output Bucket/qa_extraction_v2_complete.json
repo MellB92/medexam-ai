@@ -1,0 +1,297 @@
+{
+  "total_files_processed": 7,
+  "total_questions": 32,
+  "total_cost": 1.2353250000000002,
+  "budget_remaining": 3.7646749999999995,
+  "files": [
+    {
+      "file": "KP Münster 2020 -2025.md",
+      "total_questions": 32,
+      "chunks_processed": 99,
+      "successful_chunks": 17,
+      "failed_chunks": 8,
+      "questions": [
+        {
+          "id": "Q1",
+          "question": "Was ist die Pathophysiologie der monoklonalen Plasmazellneoplasie?",
+          "answer": "Bei der monoklonalen Plasmazellneoplasie kommt es zur Produktion von (dysfunktionalen) monoklonalen Immunglobulinen und/oder Leichtketten, sogenannten Paraproteinen. Diese führen zu Ablagerungen von Immunkomplexen mit Organschäden (z.B. Leichtkettennephropathie, AL-Amyloidose), zu dysfunktionalen Immunglobulinen mit rezidivierenden Infektionen (z.B. Antikörpermangelsyndrom) und zu großen Mengen an Immunglobulinen mit veränderter Fließeigenschaft des Blutes (z.B. Hyperviskositätssyndrom). Außerdem aktiviert der Plasmazellklon Osteoklasten, vermittelt u.a. über IL-6 und RANK-L, was zu fokalen oder diffusen Osteolysen und Osteopenie/-porose führt.",
+          "topic": "Hämatologie/Onkologie",
+          "category": "Pathophysiologie"
+        },
+        {
+          "id": "Q2",
+          "question": "Was sind die EULAR-Kriterien für die Diagnose der rheumatoiden Arthritis?",
+          "answer": "Die EULAR-Kriterien für rheumatoide Arthritis erfordern ≥6 Punkte plus gesicherte Synovitis in einem typischen Gelenk ohne erkennbare andere Ursache (z.B. Trauma, degenerative Gelenkveränderungen). Die Kriterien umfassen Punktebewertungen für: Anzahl und Verteilung betroffener Gelenke, Serologie (Rheumafaktor und Anti-CCP-Antikörper), Akute-Phase-Reaktanten (CRP und BSG) sowie Symptomdauer.",
+          "topic": "Rheumatologie",
+          "category": "Diagnostik"
+        },
+        {
+          "id": "Q3",
+          "question": "Welche Therapieoptionen gibt es bei HIV?",
+          "answer": "cART mit verschiedenen Wirkstoffklassen: Korezeptor-CCR4/CCR5-Antagonisten, Fusionshemmer, Nukleosidische Reverse-Transkriptase-Inhibitoren (NRTI), Nukleotidanaloga Reverse-Transkriptase-Inhibitoren, Nicht-nukleosidische Reverse-Transkriptase-Inhibitoren (NNRTI), Integrase-Inhibitoren/Integrase-Strand-Transfer-Inhibitoren, Protease-Inhibitoren. Standardkombinationen: 2 NRTI (z.B. Lamivudin, Zidovudin, Abacavir) + 1 NNRTI (z.B. Efavirenz) oder 2 NRTI + 1 PI (z.B. Lopinavir)",
+          "topic": "HIV/AIDS",
+          "category": "Therapie"
+        },
+        {
+          "id": "Q4",
+          "question": "Welche Komplikation kann nach TEVAR (Thoracic Endovascular Aortic Repair) auftreten?",
+          "answer": "Paraplegie durch verminderte Perfusion des Rückenmarks, da Segmentarterien durch die Stentprothese überdeckt oder thrombosiert werden. Zusätzlich können Hypotonie oder lange Operationszeit die Perfusion weiter verschlechtern.",
+          "topic": "Aortendissektion",
+          "category": "Chirurgie"
+        },
+        {
+          "id": "Q5",
+          "question": "Welche weiteren chirurgischen Themen werden im Text genannt?",
+          "answer": "Thromboseprophylaxe, Ösophaguskarzinom/Barrett, Hiatushernie, Hämorrhoiden, Mesenterialinfarkt, Ösophagusdivertikel, Analabszess, Varikosis und CVI, benigne Prostatahyperplasie und Prostatakarzinom, Pankreaskarzinom, Schilddrüsenkarzinom, HCC, KRK, VATS, Koronararterienbypass, Tourniquet-Syndrom, Mallory-Weiss-Syndrom, Volvulus, chirurgische Schnittführung und OP-Verfahren.",
+          "topic": "Chirurgie",
+          "category": "Chirurgie"
+        },
+        {
+          "id": "Q6",
+          "question": "Welche Medikamente werden in der Therapie der rheumatoiden Arthritis eingesetzt?",
+          "answer": "Die Therapie der rheumatoiden Arthritis umfasst: NSAIDs (nichtsteroidale Antirheumatika), DMARDs (Disease Modifying Anti-Rheumatic Drugs) mit Methotrexat als Erstlinientherapie, Biologika wie TNF-alpha-Hemmer und CD20-Antikörper (z.B. Rituximab) sowie Glukokortikoide (Stoßtherapie und Erhaltungstherapie).",
+          "topic": "Rheumatologie",
+          "category": "Therapie"
+        },
+        {
+          "id": "Q7",
+          "question": "Wie wird Methotrexat bei rheumatoider Arthritis dosiert?",
+          "answer": "Methotrexat wird bei rheumatoider Arthritis wie folgt dosiert: Anfangsdosis von 7,5 mg PO/IV/IM als einmalige wöchentliche Dosis ODER 2,5 mg PO alle 12 Stunden für 3 aufeinanderfolgende Dosen pro Woche. Die Dosis wird bis zum Erreichen einer optimalen Wirkung erhöht, wobei die Einzeldosis 20 mg/Woche PO nicht überschreiten darf (erhöhtes Risiko einer Knochenmarksuppression). Danach Reduktion auf die niedrigstmögliche wirksame Dosis. Gabe von Leucovorin/Folsäure 24 Stunden nach Methotrexat-Gabe.",
+          "topic": "Pharmakologie",
+          "category": "Dosierung"
+        },
+        {
+          "id": "Q8",
+          "question": "Unter welchen Prinzipien können Medikamente dem Fetus schaden und wovon hängt das ab?",
+          "answer": "Es hängt von der Größe des Medikaments und seiner Lipophilie ab. Lipophile Medikamente passieren die Plazenta leichter. Besonders im ersten Trimenon können sie das Nervensystem schädigen. Besonders gefährlich sind Neuroleptika wie Valproat (führt zu Spina bifida).",
+          "topic": "Pharmakologie",
+          "category": "Teratogenität"
+        },
+        {
+          "id": "Q9",
+          "question": "Was ist Hepatitis A?",
+          "answer": "Hepatitis A ist eine durch ein RNA-Virus verursachte Leberentzündung, die über den fäkal-oralen Weg übertragen wird. Sie ist in der Regel nicht gefährlich und heilt in zwei Wochen durch Bettruhe und Schonung.",
+          "topic": "Hepatitis A",
+          "category": "Medizin"
+        },
+        {
+          "id": "Q10",
+          "question": "Welche Laborparameter sind bei rheumatoider Arthritis wichtig?",
+          "answer": "Bei rheumatoider Arthritis sind folgende Laborparameter wichtig: Entzündungsparameter (CRP erhöht, BSG erhöht), eventuell Leukozytose und Thrombozytose, Ferritin erhöht (Akute-Phase-Protein), Anämie bei längerem Verlauf. Spezifische Werte: Rheumafaktor (RF, bei 40-80% nachweisbar, Spezifität ca. 80%), Anti-CCP-Antikörper/ACPA (bei ca. 60% nachweisbar, sehr hohe Spezifität von 95-99%, häufig bereits im frühen Stadium erhöht), ANA in ca. 30% unspezifisch erhöht. Etwa 30% haben eine seronegative rheumatoide Arthritis (RF und ACPA negativ).",
+          "topic": "Rheumatologie",
+          "category": "Labordiagnostik"
+        },
+        {
+          "id": "Q11",
+          "question": "Welche bildgebenden Verfahren werden bei rheumatoider Arthritis eingesetzt?",
+          "answer": "Bei rheumatoider Arthritis werden folgende bildgebende Verfahren eingesetzt: Gelenksonographie (Ultraschall) zum Nachweis von Synovialitis, Tendinitis, Bursitis und Zysten; MRT zur Darstellung von Knochenmarksödem (Frühzeichen), Inflammation und Erosionen; Skelettszintigrafie zum Nachweis der Synovialitis bzw. Arthritis in Frühaufnahmen; Röntgen von Händen und Handgelenken, Vorfuß und Dens axis.",
+          "topic": "Rheumatologie",
+          "category": "Bildgebung"
+        },
+        {
+          "id": "Q12",
+          "question": "Welche klinischen Kriterien sprechen für eine klinisch suspekte Arthralgie bei möglicher rheumatoider Arthritis?",
+          "answer": "Bei Patienten mit Gelenkschmerzen (noch ohne Schwellung) sprechen folgende Kriterien für eine klinisch suspekte Arthralgie: 1) Schmerzen seit weniger als einem Jahr, 2) Beschwerden an den Metakarpophalangeal-(MCP)-Gelenken, 3) Morgensteife von mindestens einer Stunde, 4) Beschwerden morgens am stärksten, 5) Angehörige ersten Grades mit RA, 6) Schwierigkeiten beim Faustschluss, 7) Querdruckschmerz an den MCP-Gelenken (Gaenslen-Zeichen). Wenn mindestens drei dieser sieben Kriterien zutreffen, muss von einer klinisch suspekten Arthralgie ausgegangen werden.",
+          "topic": "Rheumatologie",
+          "category": "Diagnostische Kriterien"
+        },
+        {
+          "id": "Q13",
+          "question": "Welche diagnostischen Maßnahmen werden beim multiplen Myelom durchgeführt?",
+          "answer": "Dazu gehören Laboruntersuchungen (Blutbild, Kalzium, LDH, Bence-Jones-Proteine), Serumelektrophorese, Knochenmarkpunktion und bildgebende Verfahren (Low-Dose-CT, Röntgen).",
+          "topic": "Diagnostik",
+          "category": "Diagnostik"
+        },
+        {
+          "id": "Q14",
+          "question": "Schmerztherapie und Blutdrucktherapie bei Schwangeren?",
+          "answer": "Die Auswahl der Medikamente muss individuell und unter Berücksichtigung der Schwangerschaftssicherheit erfolgen.",
+          "topic": "Pharmakologie in der Schwangerschaft",
+          "category": "Therapie"
+        },
+        {
+          "id": "Q15",
+          "question": "Schwangerschaftsabbruch gesetzlich, welche Organisation ist für Medikamente verantwortlich?",
+          "answer": "Die gesetzlichen Regelungen zum Schwangerschaftsabbruch variieren je nach Land, für die Zulassung und Überwachung von Medikamenten sind nationale Arzneimittelbehörden zuständig.",
+          "topic": "Recht",
+          "category": "Gesetzgebung"
+        },
+        {
+          "id": "Q16",
+          "question": "Neben dem Wells-, PESI- und Grosser-Score: Was ist der PERC-Score?",
+          "answer": "Der PERC-Score ist ein klinisches Entscheidungswerkzeug zur Abschätzung des Risikos einer Lungenembolie.",
+          "topic": "Kardiologie",
+          "category": "Diagnostik"
+        },
+        {
+          "id": "Q17",
+          "question": "Welche Untersuchung ist vor Beginn einer Chemotherapie beim multiplen Myelom notwendig?",
+          "answer": "Eine Knochenmarkpunktion ist notwendig, um die Diagnose zu sichern und die Blastenanzahl zu bestimmen.",
+          "topic": "Diagnostik",
+          "category": "Therapievoraussetzung"
+        },
+        {
+          "id": "Q18",
+          "question": "Warum hat sie Anämie?",
+          "answer": "Die Anämie entsteht durch die Verdrängung der normalen Blutbildung im Knochenmark durch die Myelomzellen.",
+          "topic": "Multiples Myelom",
+          "category": "Symptome"
+        },
+        {
+          "id": "Q19",
+          "question": "Wieder ein Röntgen Bild von Osteolyse am Humerus. Welche Ursachen?",
+          "answer": "Maligne Ursachen: Multiples Myelom, solitäres Myelom, primäres Osteosarkom, Metastasen. Benigne Ursachen: Knochenzyste, Morbus Paget.",
+          "topic": "Knochenläsionen",
+          "category": "Differenzialdiagnose"
+        },
+        {
+          "id": "Q20",
+          "question": "Wie bestätigt man die Diagnose multiples Myelom?",
+          "answer": "Durch Nachweis von monoklonalen Plasmazellen im Knochenmark, Nachweis eines M-Gradienten und typische klinische sowie laborchemische Befunde (SLiM-CRAB-Kriterien).",
+          "topic": "Diagnostik",
+          "category": "Diagnosesicherung"
+        },
+        {
+          "id": "Q21",
+          "question": "Wie kann man auf dem Röntgenbild unterscheiden, ob es sich um Malignom handelt?",
+          "answer": "Maligne Läsionen zeigen Periostreaktion, Randunregelmäßigkeit und Inhomogenität. Weitere Zeichen sind kortikale Destruktion und Weichteilkomponente.",
+          "topic": "Knochenläsionen",
+          "category": "Diagnostik"
+        },
+        {
+          "id": "Q22",
+          "question": "Chronische lymphatische Leukämie - Definition",
+          "answer": "Chronische lymphatische Leukämie (CLL) ist eine langsam fortschreitende Leukämie der reifen B-Lymphozyten.",
+          "topic": "Hämatologie",
+          "category": "Definition"
+        },
+        {
+          "id": "Q23",
+          "question": "Wie behandeln Sie RA?",
+          "answer": "Ziel ist, Gelenkveränderungen zu vermeiden. Beginn mit Glukokortikoiden (z.B. Prednisolon), gleichzeitig DMARDs (z.B. Methotrexat), früh und hoch dosiert ('Hit Hard and Early')",
+          "topic": "Therapie",
+          "category": "Therapie"
+        },
+        {
+          "id": "Q24",
+          "question": "Welche anderen Medikamente benutzen wir?",
+          "answer": "IL-6-Inhibitoren, IL-1-Inhibitoren (Anakinra), Biologika (z.B. TNF-alpha-Hemmer, CD20-Antikörper)",
+          "topic": "Therapie",
+          "category": "Therapie"
+        },
+        {
+          "id": "Q25",
+          "question": "Chronische lymphatische Leukämie - Therapie",
+          "answer": "Therapie abhängig vom Stadium: Beobachtung, Chemotherapie, Immuntherapie, zielgerichtete Therapien.",
+          "topic": "Hämatologie",
+          "category": "Therapie"
+        },
+        {
+          "id": "Q26",
+          "question": "Was sind sie?",
+          "answer": "TNF-alpha-Blocker",
+          "topic": "Therapie",
+          "category": "Biologika"
+        },
+        {
+          "id": "Q27",
+          "question": "Wie gehen Sie weiter mit Gelenkbeschwerden?",
+          "answer": "Nach ACR/EULAR-Kriterien: geschwollene oder schmerzhafte Gelenke, Serologie, Entzündungsparameter, Symptomdauer, Röntgen Hand",
+          "topic": "Diagnostik",
+          "category": "Diagnostik"
+        },
+        {
+          "id": "Q28",
+          "question": "Was sehen Sie auf dem Röntgenbild der Hand bei RA?",
+          "answer": "Periartikuläre Weichteilschwellung, periartikuläre Osteoporose, Gelenkspaltverschmälerung, marginale Erosionen, subchondrale Zysten",
+          "topic": "Diagnostik",
+          "category": "Bildgebung"
+        },
+        {
+          "id": "Q29",
+          "question": "Wie nennt man diese Finger?",
+          "answer": "Schwanenhalsdeformität, Ulnardeviation",
+          "topic": "Klinik",
+          "category": "Klinik"
+        },
+        {
+          "id": "Q30",
+          "question": "Diagnose gesichert – jetzt Behandlung?",
+          "answer": "NSAR als symptomatische Therapie (nicht bei Magenulcus), Prednisolon 20–30 mg beginnen, dann ausschleichen auf 5–7,5 mg. 1. Wahl DMARDs: Methotrexat, dann Biologika (TNF-alpha-Inhibitoren)",
+          "topic": "Therapie",
+          "category": "Therapie"
+        },
+        {
+          "id": "Q31",
+          "question": "Therapie langsam oder rasch anfangen?",
+          "answer": "So früh wie möglich und hoch dosiert anfangen ('Hit Hard and Early')",
+          "topic": "Therapie",
+          "category": "Therapie"
+        },
+        {
+          "id": "Q32",
+          "question": "Prednisolon – warum ausschleichen?",
+          "answer": "Wegen Nebenwirkungen",
+          "topic": "Therapie",
+          "category": "Therapie"
+        }
+      ],
+      "timestamp": "2025-10-16T12:41:20.580961"
+    },
+    {
+      "file": "Ab FRAGE 686_ Wie schätzen Sie Bewusstlosigkeit ein.md",
+      "total_questions": 0,
+      "chunks_processed": 52,
+      "successful_chunks": 0,
+      "failed_chunks": 52,
+      "questions": [],
+      "timestamp": "2025-10-16T12:50:21.222091"
+    },
+    {
+      "file": "M3-Kenntnispruefung-Vollstaendiges-Transkript (1).md",
+      "total_questions": 0,
+      "chunks_processed": 10,
+      "successful_chunks": 0,
+      "failed_chunks": 10,
+      "questions": [],
+      "timestamp": "2025-10-16T12:52:05.074048"
+    },
+    {
+      "file": "Strukturierte-Fragen-ab-686.md",
+      "total_questions": 0,
+      "chunks_processed": 8,
+      "successful_chunks": 0,
+      "failed_chunks": 8,
+      "questions": [],
+      "timestamp": "2025-10-16T12:53:35.898256"
+    },
+    {
+      "file": "M3-Kenntnisprufung-Komplett-Vollstandig.md",
+      "total_questions": 0,
+      "chunks_processed": 6,
+      "successful_chunks": 0,
+      "failed_chunks": 6,
+      "questions": [],
+      "timestamp": "2025-10-16T12:56:19.658914"
+    },
+    {
+      "file": "medizinische-korrekturen-ergaenzungen_2.md",
+      "total_questions": 0,
+      "chunks_processed": 4,
+      "successful_chunks": 0,
+      "failed_chunks": 4,
+      "questions": [],
+      "timestamp": "2025-10-16T12:58:45.663570"
+    },
+    {
+      "file": "M3-Pruefung-Korrekturen-Ergaenzungen.md",
+      "total_questions": 0,
+      "chunks_processed": 4,
+      "successful_chunks": 0,
+      "failed_chunks": 4,
+      "questions": [],
+      "timestamp": "2025-10-16T12:59:48.077751"
+    }
+  ],
+  "timestamp": "2025-10-16T12:59:48.613852"
+}

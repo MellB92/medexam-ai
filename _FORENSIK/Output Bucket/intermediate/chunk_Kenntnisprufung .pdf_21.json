@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Sprunggelenk- und Handwurzelfraktur nach Umknicken bei schwangerer Patientin",
+    "patient_age": "28 Jahre",
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Sprunggelenkschmerzen rechts",
+      "Handschmerzen rechts",
+      "Bewegungseinschränkung rechter Fuß"
+    ],
+    "accident_mechanism": "Weggeknickt beim Aussteigen aus dem Auto auf dem Weg zur Arbeit",
+    "pre_existing_conditions": [
+      "Hepatitis A vor 10 Jahren (Thailand-Aufenthalt)",
+      "Asthma als Kind",
+      "Rezidivierende Harnwegsinfekte"
+    ],
+    "comorbidities": [
+      "Schwangerschaft"
+    ],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter leidet an Multiple Sklerose",
+      "Oma an COVID verstorben",
+      "Vater leidet an Trigeminus-Neuralgie"
+    ],
+    "social_history": [
+      "Reisebüro-Verkäuferin",
+      "Verheiratet",
+      "Keine Kinder",
+      "Arbeitsunfall"
+    ],
+    "medications": [
+      "Keine Vormedikation"
+    ],
+    "allergies": [
+      "Pflaster-Allergie"
+    ],
+    "vital_signs": [
+      "Später: RR 80 mmHg",
+      "Puls 150/min"
+    ],
+    "physical_examination": [
+      "Bewegungsschmerzen rechter Fuß",
+      "Bewegungseinschränkung rechter Fuß",
+      "PDMS (Pulse, Durchblutung, Motorik, Sensibilität) intakt",
+      "Sonst unauffällig"
+    ],
+    "imaging_findings": [
+      "Röntgen Sprunggelenk a.p.: Sprunggelenkfraktur Weber B",
+      "Röntgen Hand: Metakarpale 1-Fraktur",
+      "Handwurzelfraktur"
+    ],
+    "laboratory_findings": [
+      "Urinstreifentest im Kontext rezidivierender HWI"
+    ],
+    "suspected_diagnosis": [
+      "Sprunggelenkfraktur Weber B",
+      "Metakarpale 1-Fraktur",
+      "V.a. Schock (später)",
+      "V.a. zweizeitige Milzruptur (Prüfungsdiskussion)"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Sprunggelenk",
+      "Röntgen Hand",
+      "Klinische Untersuchung mit PDMS-Prüfung",
+      "Vitalzeichenkontrolle"
+    ],
+    "treatment_response": [
+      "Geplant: Plattenosteosynthese und Stellschrauben",
+      "Nach OP: Ruhigstellung, Reha",
+      "D-Arzt-Meldung wegen Arbeitsunfall (BG-Fall)"
+    ],
+    "complications": [
+      "Schocksymptomatik mit RR 80 mmHg und Puls 150/min",
+      "Differentialdiagnose: zweizeitige Milzruptur"
+    ],
+    "follow_up": [
+      "OA anrufen und OP organisieren",
+      "Postoperative Ruhigstellung",
+      "Rehabilitation"
+    ]
+  }
+]

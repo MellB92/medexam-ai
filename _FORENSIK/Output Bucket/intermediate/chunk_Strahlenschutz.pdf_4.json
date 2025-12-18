@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle oder Präsentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischem Wissen über Strahlenschäden:**\n   - Strahlensensibilität verschiedener Gewebe (hämatopoetisches Gewebe, Gastrointestinaltrakt, Lunge, Nervensystem, Auge, Haut, Gonaden)\n   - Allgemeine Beschreibungen von Strahlenfolgen (Myelosuppression, Mukositis, Strahlenpneumonitis, etc.)\n\n2. **Fragen und Antworten zur Röntgentechnik:**\n   - Unterschiede zwischen Röntgenröhren\n   - Physikalische Grundlagen (Bremsstrahlung, charakteristische Strahlung)\n   - Technische Parameter (Röhrenspannung, Belichtungszeit, Filter)\n   - Strahlenschutzmaßnahmen (Verstärkerfolien, Streustrahlenraster)\n\nEs handelt sich um ein **Lehrdokument/Schulungsmaterial** zu Strahlenschutz und Röntgentechnik ohne konkrete Patientenfälle mit Anamnese, Untersuchungsbefunden oder individuellen Diagnosen."
+  }
+]

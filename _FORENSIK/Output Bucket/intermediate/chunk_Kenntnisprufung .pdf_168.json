@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Hyperthyreose mit Herzrasen, Nervosität und Gewichtsverlust",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Herzrasen",
+      "Nervosität",
+      "Tremor",
+      "Wärmeintoleranz",
+      "Gewichtsverlust"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Vitalparameter",
+      "Pupillen",
+      "Mundhöhle",
+      "Schilddrüse",
+      "Lymphknoten",
+      "Thorax komplett",
+      "Herz: Herzklappen auskultiert",
+      "Abdomen",
+      "Gefäße: Arterien abgetastet, Pulse seitengleich",
+      "Neurologische Untersuchung mit besonderer Aufmerksamkeit auf Augen (Orbitopathie bei M. Basedow)",
+      "Reflexe geprüft (inkl. radialer Periostreflex am Arm)"
+    ],
+    "imaging_findings": [
+      "Sonographie: vaskuläres Inferno",
+      "Szintigraphie: bei M. Basedow diffuse Aufnahme, bei Autonomie eher knotig"
+    ],
+    "laboratory_findings": [
+      "TSH",
+      "T4",
+      "T3",
+      "TRAK",
+      "TPO-Ak"
+    ],
+    "suspected_diagnosis": [
+      "Hyperthyreose",
+      "M. Basedow",
+      "Autonomie"
+    ],
+    "diagnostic_approach": [
+      "Labor: TSH, T4, T3, TRAK und TPO-Ak",
+      "Sonographie",
+      "Szintigraphie",
+      "Bei kalten Knoten mit suspekten sonographischen Befunden: FNA"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Ambulante Behandlung geplant",
+      "Propranolol zur Symptomlinderung",
+      "Carbimazol 12-18 Monate",
+      "Bei Rezidiv: Radiojodtherapie oder Operation",
+      "Bei Adenomen: Operation"
+    ]
+  }
+]

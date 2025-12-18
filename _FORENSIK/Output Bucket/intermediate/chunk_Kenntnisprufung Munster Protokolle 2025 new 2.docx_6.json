@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Diabetes mellitus mit typischer Symptomatik",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Müdigkeit",
+      "Leistungsminderung",
+      "Polyurie",
+      "Polydipsie",
+      "rezidivierende Infektionen seit fünf Monaten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Patient freundlich und kooperativ"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "HbA1c 5,9%"
+    ],
+    "suspected_diagnosis": [
+      "Diabetes mellitus"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

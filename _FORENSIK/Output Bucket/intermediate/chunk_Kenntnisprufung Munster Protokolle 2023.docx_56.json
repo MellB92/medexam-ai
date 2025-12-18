@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Diabetes mellitus Typ 2 mit multiplen Beschwerden\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\n      \"Müdigkeit seit 4-5 Monaten\",\n      \"Schwindelepisoden\",\n      \"Konzentrationsstörungen\",\n      \"Schlafstörungen\",\n      \"Infektanfälligkeit mit öfteren Erkältungen\",\n      \"Pilzinfektion der Achselhöhle\",\n      \"saures Aufstoßen\",\n      \"Polydipsie\",\n      \"Polyurie\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"arterielle Hypertonie (medikamentös eingestellt)\",\n      \"Hyperlipidämie (mit Statinen eingestellt)\",\n      \"Zustand nach Femurschaftfraktur mit 25 Jahren\",\n      \"Zustand nach distaler Radiusfraktur\"\n    ],\n    \"medications\": [\n      \"Antihypertensiva\",\n      \"Statine\"\n    ],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Diabetes mellitus Typ 2\"\n    ],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

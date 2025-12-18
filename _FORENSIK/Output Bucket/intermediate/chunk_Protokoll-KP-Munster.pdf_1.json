@@ -1,0 +1,93 @@
+[
+  {
+    "title": "OSG-Luxationsfraktur mit postoperativem Fieber und Beinschwellung",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "OSG-Luxationsfraktur",
+      "Fieber 40°C am postoperativen Tag 1",
+      "geschwollenes Bein"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Fieber 40°C"
+    ],
+    "physical_examination": [
+      "geschwollenes Bein",
+      "Talus nach vorne luxiert"
+    ],
+    "imaging_findings": [
+      "OSG-Luxationsfraktur"
+    ],
+    "laboratory_findings": [
+      "Labor CRP",
+      "Prokalcitonin",
+      "D-Dimer",
+      "Leukozyten",
+      "Blutkulturen (2 aerob, 2 anaerob aus beiden Armen)"
+    ],
+    "suspected_diagnosis": [
+      "postoperative Infektion",
+      "Sepsis (qSOFA-Evaluation)"
+    ],
+    "diagnostic_approach": [
+      "Labor mit CRP, Prokalcitonin, D-Dimer, Leukozyten",
+      "Blutkultur (2x aerob, 2x anaerob, beidseits)",
+      "qSOFA-Score"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Fieber 40°C am Tag 1 postoperativ",
+      "Beinschwellung",
+      "Verdacht auf Infektion/Sepsis"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Vorhofflimmern bei 65-jähriger Frau mit Diabetes und Hypertonie",
+    "patient_age": "65",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Vorhofflimmern"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Vorhofflimmern",
+      "Diabetes mellitus",
+      "Arterielle Hypertonie"
+    ],
+    "comorbidities": [
+      "Diabetes mellitus",
+      "Arterielle Hypertonie"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vorhofflimmern mit erhöhtem Schlaganfallrisiko"
+    ],
+    "diagnostic_approach": [
+      "CHA2DS2-VASc Score Berechnung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Antikoagulation mit Marcumar empfohlen (CHA2DS2-VASc Score >2)"
+    ]
+  }
+]

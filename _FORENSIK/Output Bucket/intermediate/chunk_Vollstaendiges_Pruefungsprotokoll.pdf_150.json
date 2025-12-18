@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Freie Luft im Abdomen - Hohlorganperforation\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\n      \"Freie Luft im Abdomen unter den Zwerchfellen (aufrechter Thorax/Abdomen im Stehen)\"\n    ],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Perforation eines Hohlorgans (z.B. Magen, Dünndarm, Dickdarm)\",\n      \"Magen-/Dammperforation\"\n    ],\n    \"diagnostic_approach\": [\n      \"Röntgen-Thorax/Abdomen im Stehen\",\n      \"Laparoskopie\",\n      \"ggf. Laparotomie\"\n    ]\n  }\n]\n```"
+  }
+]

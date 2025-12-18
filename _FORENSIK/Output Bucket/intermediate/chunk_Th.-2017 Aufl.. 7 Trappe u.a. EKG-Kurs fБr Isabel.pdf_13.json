@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:** Dieser Dokumentabschnitt stammt aus einem EKG-Lehrbuch (EKG-Kurs) und enthält ausschließlich theoretisches Lehrmaterial über:\n\n- ST-Strecken-Veränderungen (aszendierende, deszendierende, horizontale ST-Senkung)\n- T-Wellen-Veränderungen (T-Negativierung, überhöhte T-Welle, zeltförmige T-Welle)\n- QRS-Komplex-Interpretation\n- Bestimmung des Lagetyps im EKG\n- Technische Aspekte der EKG-Auswertung (Cabrera-Kreis, Ableitungsachsen, Winkelgrade)\n\nEs werden **keine konkreten Patientenfälle** präsentiert, sondern nur allgemeine elektrokardiografische Konzepte und Definitionen erklärt. Die Erwähnungen von pathologischen Zuständen (z.B. \"beim frischen Myokardinfarkt\" oder \"bei Hyperkaliämie\") sind rein theoretischer Natur ohne spezifische Patientendetails."
+  }
+]

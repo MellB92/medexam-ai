@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Prüfungsfragen und -antworten** zu theoretischem medizinischem Wissen:\n   - Polytrauma-Management (ABCDE-Schema)\n   - HWS-Frakturen und Klassifikationen\n   - Femurfrakturen und Osteosynthese-Methoden\n   - Kolonkarzinom-Klassifikationen\n   - Medikamentenwirkmechanismen (Methotrexat, Aciclovir)\n   - Herpesviren\n   - Strahlenschutz\n   - FAST/eFAST-Ultraschall\n   - Spannungspneumothorax\n\n2. **Isolierte Bildbefunde** ohne Patientenkontext:\n   - \"Welche Fraktur liegt auf dem Bild der HWS vor?\" → Hangman-Fraktur\n   - Dies ist eine reine Bildinterpretationsaufgabe, kein Patientenfall\n\n3. **Theoretische Behandlungsfragen** ohne konkreten Patientenbezug:\n   - \"Wie wird ein Kolonkarzinom im Stadium T2 N1 behandelt?\"\n   - Dies sind hypothetische Szenarien, keine realen Fälle\n\n**Es gibt keine Informationen über:**\n- Konkrete Patienten mit Alter/Geschlecht\n- Anamnesen oder Unfallhergänge\n- Symptompräsentationen\n- Untersuchungsbefunde an spezifischen Patienten\n\nDies ist ein Prüfungsprotokoll mit Wissensfragen, keine Fallsammlung."
+  }
+]

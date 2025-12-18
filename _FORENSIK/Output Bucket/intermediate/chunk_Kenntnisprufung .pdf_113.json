@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Kalkaneus-Fraktur nach Sturz von Leiter",
+    "patient_age": "64-jähriger",
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen in der Ferse",
+      "Schmerzen im Knie",
+      "Schmerzen im Becken",
+      "Schwindelattacken seit einigen Monaten"
+    ],
+    "accident_mechanism": "Sturz aus 4 Meter Höhe von einer Leiter beim Pflaumen Pflücken (half dem Nachbarn)",
+    "pre_existing_conditions": [
+      "Bluthochdruck",
+      "Probleme beim Wasserlassen"
+    ],
+    "comorbidities": [
+      "rezidivierende Schwindelattacken seit Monaten, nicht abgeklärt"
+    ],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter mit Diabetes mellitus",
+      "Vater verstorben, hatte PAVK und Unterschenkel-Amputation"
+    ],
+    "social_history": [
+      "half Nachbar bei Gartenarbeit"
+    ],
+    "medications": [
+      "Antihypertensivum (Name nicht bekannt)",
+      "Medikament gegen Miktionsbeschwerden (Name nicht bekannt)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Schmerzen in Ferse",
+      "Schmerzen im Knie",
+      "Schmerzen im Becken",
+      "Pulse getastet: Femoralis, Poplitea, Dorsalis pedis, Tibialis posterior"
+    ],
+    "imaging_findings": [
+      "Röntgen: Kalkaneus-Fraktur mit Frakturlinie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Initial Verdacht auf Polytrauma",
+      "Tatsächliche Diagnose: Kalkaneus-Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Pulsuntersuchung der unteren Extremität",
+      "Bildgebung Fuß"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Calcaneus-Fraktur nach Sturz",
+    "patient_age": "58-jähriger",
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen im Fuß",
+      "Schmerzen im Becken",
+      "Kopfschmerzen"
+    ],
+    "accident_mechanism": "Sturz aus 4 Meter Höhe",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Calcaneus-Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Initial V.a. Polytrauma (wegen Sturzhöhe >3m und multiple Verletzungen inkl. Becken als potentiell lebensbedrohlich)",
+      "Tatsächliche Diagnose: Calcaneus-Fraktur"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

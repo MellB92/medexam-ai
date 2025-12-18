@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **FRAGE 328**: Eine theoretische Frage zu angeborenen Erkrankungen, die TVT begünstigen\n2. **Theoretisches Wissen** über:\n   - Indikationen für Marcumar/Vitamin-K-Antagonisten\n   - Unterschiede zwischen Marcumar und DOAKs\n   - Liste hereditärer Thrombophilien\n   - Diagnostische Leitlinien\n\nEs handelt sich um **Lernmaterial und Theoriewissen** für eine Kenntnisprüfung, nicht um konkrete Patientenpräsentationen mit Anamnese, Befunden und Diagnostik.\n\nEin klinischer Fall würde beispielsweise beginnen mit: \"Ein 45-jähriger Patient stellt sich mit Beinschwellung vor...\" - solche Fallpräsentationen sind in diesem Chunk nicht vorhanden."
+  }
+]

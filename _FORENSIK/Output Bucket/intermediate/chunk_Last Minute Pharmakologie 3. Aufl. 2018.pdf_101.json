@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Präsentationsfälle oder Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Therapierichtlinien für Malaria** (unkomplizierte und komplizierte Malaria tropica)\n2. **Antiretrovirale Therapie bei HIV** (Therapieindikationen, Medikamentenkombinationen, Primär- und Folgetherapie)\n3. **HIV-Therapie in der Schwangerschaft** (Transmissionsprophylaxe)\n4. **Therapie opportunistischer Infektionen** (Pneumocystis-jirovecii-Pneumonie, Toxoplasmose, Candidainfektion, etc.)\n5. **Postexpositionsprophylaxe (PEP)**\n6. **Tabelle mit antibiotischer Therapie** (Anaerobier-Infektionen, bakterielle Meningitis)\n\nEs handelt sich durchweg um **theoretisches Wissen, Therapieprotokolle und Behandlungsrichtlinien** aus einem Pharmakologie-Lehrbuch. Es werden keine konkreten Patienten mit individuellen Beschwerden, Befunden oder diagnostischen Abläufen vorgestellt."
+  }
+]

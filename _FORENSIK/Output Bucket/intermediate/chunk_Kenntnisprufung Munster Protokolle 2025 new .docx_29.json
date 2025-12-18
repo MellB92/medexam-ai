@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Hyperthyreose mit Herzinsuffizienz und Helicobacter-pylori-Infektion",
+    "patient_age": "44-jährige",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Herzrasen",
+      "Diarrhö",
+      "Unruhe",
+      "Zittern",
+      "Gewichtsabnahme",
+      "Erhöhter Appetit",
+      "Schweißausbrüche",
+      "Engegefühl",
+      "Dyspnoe-Episoden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Verdacht auf Darmverschluss vor 8 Wochen",
+      "Mageninfektion (medikamentös behandelt)"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Vitalzeichen erhoben",
+      "Schilddrüsenuntersuchung durchgeführt",
+      "Thoraxuntersuchung (Thoraxexpansion, Stimmfremitus, Perkussion, Auskultation)",
+      "Abdomenuntersuchung",
+      "Arteria dorsalis pedis getastet",
+      "Suche nach prätibialen Ödemen"
+    ],
+    "imaging_findings": [
+      "Szintigraphie: Heißer Knoten",
+      "Röntgen Thorax: Kardiomegalie und Stauungszeichen",
+      "CT Abdomen mit Kontrastmittel (vor 8 Wochen)",
+      "EKG mit Vorhofflimmern"
+    ],
+    "laboratory_findings": [
+      "Blutgasanalyse: Metabolische Azidose mit Hyperglykämie (Verdacht auf diabetische Ketoazidose)"
+    ],
+    "suspected_diagnosis": [
+      "Hyperthyreose",
+      "Herzinsuffizienz",
+      "Helicobacter-pylori-Infektion",
+      "Diabetische Ketoazidose"
+    ],
+    "diagnostic_approach": [
+      "Szintigraphie",
+      "Thorax-Röntgen",
+      "Blutgasanalyse",
+      "Helicobacter-pylori-Diagnostik (Urease-Schnelltest, Atemtest, Pathologie)",
+      "EKG",
+      "Endoskopie (Befund: Magenhyperplasie)"
+    ]
+  }
+]

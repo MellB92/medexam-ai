@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Theoretischen Informationen zu INR-Zielwerten** bei zusätzlichen Risikofaktoren (INR 3,0-4,0)\n\n2. **Differentialdiagnostischen Listen:**\n   - TTP (thrombotisch-thrombozytopenische Purpura)\n   - HUS (hämolytisch-urämisches Syndrom)\n   - DIC (disseminierte intravasale Gerinnung)\n\n3. **Zusätzliche Befunde (allgemein):**\n   - Heinz-Körperchen bei oxidativem Stress\n   - Howell-Jolly-Körperchen nach Splenektomie\n   - Burr-Zellen bei Urämie\n\n4. **Eine theoretische Frage (FRAGE 734):** \"Was kann man noch geben bei HIT?\" \n   - Dies ist eine allgemeine Wissensfrage zur Therapie der Heparin-induzierten Thrombozytopenie\n   - Kein konkreter Patientenfall\n   - Die Antwort ist unvollständig abgeschnitten\n\nEs handelt sich um **Lernmaterial/Q&A-Format** ohne konkrete Patientenpräsentationen mit Anamnese, Untersuchungsbefunden oder spezifischem klinischen Kontext."
+  }
+]

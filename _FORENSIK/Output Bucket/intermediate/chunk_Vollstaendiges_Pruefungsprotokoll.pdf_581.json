@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Divertikulitis mit akutem Unterbauch und Fieber",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Stechende, plötzlich aufgetretene Unterbauchschmerzen links",
+      "Schmerzen ohne Ausstrahlung seit 5 Tagen",
+      "Fieber 38,5°C"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypertonie",
+      "Cholezystektomie (Z.n.)",
+      "Appendektomie (Z.n.)",
+      "Verletzung des Sprunggelenks links vor einem Jahr"
+    ],
+    "medications": [
+      "Lisinopril 1-0-0"
+    ],
+    "allergies": [
+      "Amoxicillin"
+    ],
+    "physical_examination": [
+      "Inspektion",
+      "Palpation",
+      "Auskultation",
+      "Perkussion",
+      "Überprüfung der Reflexe",
+      "Überprüfung der Beweglichkeit",
+      "Neurologische Untersuchung"
+    ],
+    "imaging_findings": [
+      "Sonographie: Divertikulitis mit Wandverdickung und freier Flüssigkeit"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Divertikulitis",
+      "Appendizitis (DD)",
+      "Gynäkologische Erkrankungen z.B. Adnexitis (DD)",
+      "Harnwegsinfekt (DD)",
+      "Ileus (DD)"
+    ],
+    "diagnostic_approach": [
+      "Körperliche Untersuchung des gesamten Körpers",
+      "Sonographie"
+    ]
+  }
+]

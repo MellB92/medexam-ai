@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Sturz mit Immobilität des Beins bei 67-jähriger Frau mit HRS",
+    "patient_age": "67 Jahre",
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "gestern Nacht auf der Seite gestürzt",
+      "kann das Bein nicht mehr bewegen",
+      "HRS (Herzrhythmusstörungen)"
+    ],
+    "accident_mechanism": "Sturz auf der Seite gestern Nacht",
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 2",
+      "Z.n. Cholezystektomie",
+      "Tiefe Venenthrombose (TVT)",
+      "Analfistel"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Diabetes mellitus Typ 2",
+      "Z.n. TVT",
+      "Alter 67 Jahre"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Komplette körperliche Untersuchung",
+      "Pulstastung: Carotis, Radialis, Ulnaris, Femoralis, Tibialis posterior, Dorsalis pedis",
+      "Auskultation im ICR",
+      "Neurologische Untersuchung mit Reflexen und deren Namen",
+      "Anatomische Strukturen identifiziert (u.a. Musculus sternocleidomastoideus)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schenkelhalsfraktur",
+      "Herzrhythmusstörungen"
+    ],
+    "diagnostic_approach": [
+      "Komplette körperliche Untersuchung",
+      "Gefäßstatus (Pulstastung)",
+      "Neurologische Untersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

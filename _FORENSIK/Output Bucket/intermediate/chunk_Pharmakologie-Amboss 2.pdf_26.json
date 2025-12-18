@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:** \n\nDieser Dokumentabschnitt (Chunk 27/50) aus einem pharmakologischen Lehrbuch enthält **keine klinischen Patientenfälle**. \n\nDer Text behandelt:\n1. **Glukokortikoide** - Indikationen, Kontraindikationen und Therapieempfehlungen (allgemeine pharmakologische Informationen)\n2. **Zytostatika (Chemotherapeutika)** - Eine umfassende tabellarische Übersicht verschiedener Zytostatika-Gruppen mit:\n   - Wirkmechanismen\n   - Indikationen (Krankheitsbilder wie Leukämien, Karzinome)\n   - Nebenwirkungen\n   - Pharmaka-Namen\n\nEs handelt sich ausschließlich um **systematisches pharmakologisches Lehrbuchwissen** ohne konkrete Patientenpräsentationen mit individuellen Anamnesen, Beschwerden, Untersuchungsbefunden oder diagnostischen Abläufen."
+  }
+]

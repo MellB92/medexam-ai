@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Multiples Myelom - Verdachtsfall\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\n      \"BSG erhöht (erwartet)\",\n      \"Elektrophorese pathologisch (erwartet)\",\n      \"Urin pathologisch (erwartet)\"\n    ],\n    \"suspected_diagnosis\": [\n      \"Multiples Myelom\",\n      \"MGUS (Vorstufe)\",\n      \"Smouldering Myelom (Vorstufe)\",\n      \"Morbus Waldenström (Differentialdiagnose - vom Kandidaten vergessen)\"\n    ],\n    \"diagnostic_approach\": [\n      \"BSG\",\n      \"Elektrophorese\",\n      \"Urinuntersuchung\",\n      \"Peripherer Blutausstrich (vom Kandidaten vergessen)\",\n      \"Knochenbiopsie (vom Kandidaten vergessen)\",\n      \"Stadien-Einteilung\",\n      \"Therapieplanung\"\n    ]\n  }\n]\n```"
+  }
+]

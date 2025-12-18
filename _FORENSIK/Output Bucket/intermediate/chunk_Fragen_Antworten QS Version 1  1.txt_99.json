@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Frage-Antwort-Paaren** für die Kenntnisprüfung in Münster:\n   - Frage 150: Erfrierungen (Stadien, Symptome, Therapie)\n   - Frage 151: Behandlung bei Kolonkarzinom T2-N0-M0\n   - Frage 152: Medikamentenkontraindikationen bei WPW-Syndrom\n   - Frage 153: Primäre und sekundäre Hypothyreose (unvollständig am Ende)\n\n2. **Allgemeinen Behandlungsprotokollen** für verschiedene Intoxikationen (Digitalis, Methanol, Kohlenmonoxid, Zyanid)\n\n3. **Leitlinienbasierten Therapieempfehlungen** ohne konkrete Patientenpräsentation\n\nEs handelt sich um **didaktisches Lernmaterial** ohne spezifische Patientenkasuistiken mit individuellen Anamnesen, Untersuchungsbefunden oder konkreten klinischen Verläufen."
+  }
+]

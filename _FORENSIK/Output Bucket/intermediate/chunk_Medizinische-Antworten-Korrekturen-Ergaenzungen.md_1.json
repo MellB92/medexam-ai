@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 2/2) enthält **keine klinischen Patientenfälle**. \n\nDer Text ist ein **Metadokument** bzw. **Leitfaden** für die Überarbeitung medizinischer Prüfungsfragen und enthält:\n\n1. **Korrekturen zu Dosierungen** (Prednisolon, Amoxicillin, Ceftriaxon) - allgemeine Angaben ohne Patientenkontext\n2. **Ergänzungsvorschläge** zu unvollständigen Antworten (Kontraindikationen, Monitoring etc.)\n3. **Strukturelle Verbesserungsvorschläge** für zukünftige Antworten\n4. **Empfohlene Zusatzthemen** (Infektiologie, Geriatrie, Palliativmedizin, Arbeitsmedizin)\n5. **Qualitätssicherungsempfehlungen**\n\nEs handelt sich um ein **administratives/redaktionelles Dokument** zur Qualitätssicherung einer Fragendatenbank, nicht um klinische Fallpräsentationen mit konkreten Patienten."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 134/585) enthält **keine vollständigen klinischen Patientenfälle**, sondern ausschließlich:\n\n1. **Theoretische Prüfungsfragen** zur chronischen Niereninsuffizienz (CKD):\n   - Definition und Therapie der chronischen Niereninsuffizienz\n   - Wirkmechanismen von RAAS-Hemmern\n   - SGLT2-Hemmer und ihre nephroprotektive Wirkung\n   - Unterscheidung akutes vs. chronisches Nierenversagen\n\n2. **Kurze Fallvignetten ohne Details**:\n   - \"Pat war noch nie beim Arzt. Dann Sono, Schrumpfniere\" - zu fragmentarisch\n   - EKG mit Sinusbradykardie - nur Erwähnung, keine Patientendetails\n\n3. **Physikalische Grundlagen**:\n   - Frage zu ionisierender Strahlung\n\nAlle Inhalte sind **Prüfungsfragen mit Musterlösungen**, aber keine vollständig präsentierten klinischen Fälle mit ausreichenden Patienteninformationen (Anamnese, Befunde, Diagnostik, etc.)."
+  }
+]

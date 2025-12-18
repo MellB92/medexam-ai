@@ -1,0 +1,113 @@
+[
+  {
+    "title": "Sjögren-Syndrom mit Ikterus",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Verschlechterung der Symptome wegen neuer Klimaanlage",
+      "Trockenheitssymptome (impliziert)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Ikterus",
+      "Herzentzündung (vom Patient erwähnt)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck gemessen",
+      "Puls an 18 Stellen getastet"
+    ],
+    "physical_examination": [
+      "Herzspitze untersucht",
+      "Herztöne auskultiert",
+      "Lunge Auskultation und Verschieblichkeit",
+      "Thorax abgeklopft",
+      "Wirbelkörper geklopft",
+      "Nierenklopfschmerz geprüft",
+      "Abdomen vier übliche Untersuchungen",
+      "Mund, Schleimhaut und Parotis Untersuchung nicht möglich wegen FFP2 Maske"
+    ],
+    "imaging_findings": [
+      "Ultraschall Parotis: Arealen von hypo und Hyper Echodensität",
+      "Schirmer-Test zur objektiven Messung der Tränenmenge"
+    ],
+    "laboratory_findings": [
+      "Anti Ro Antikörper",
+      "Anti La Antikörper",
+      "Sensitivität ca. 70%"
+    ],
+    "suspected_diagnosis": [
+      "Sjögren-Syndrom",
+      "Hepatitis A/E (bei Ikterus)",
+      "Meckel's Divertikel"
+    ],
+    "diagnostic_approach": [
+      "Labor mit Anti Ro und Anti La Antikörper",
+      "Ultraschall Parotis",
+      "Schirmer-Test"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Infektionen",
+      "Lungenfibrose",
+      "Serositis",
+      "Endokarditis, Myokarditis oder Perikarditis möglich"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Kind nach Verkehrsunfall mit Abdominaltrauma",
+    "patient_age": "Kind",
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "wach",
+      "keine große Beschwerden",
+      "Prellungsmarke am Oberbauch"
+    ],
+    "accident_mechanism": "Verkehrsunfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "ABCDE Schema angewendet",
+      "Prellungsmarke am Oberbauch"
+    ],
+    "imaging_findings": [
+      "FAST Ultraschall durchgeführt",
+      "Subkapsuläres Hämatom der Milz",
+      "CT Indikation mit OA besprochen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Milzverletzung",
+      "Subkapsuläres Hämatom der Milz"
+    ],
+    "diagnostic_approach": [
+      "Schockraum",
+      "ABCDE Schema",
+      "FAST Ultraschall",
+      "ggf. CT nach Rücksprache mit OA"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Risiko für zweizeitige Milzruptur",
+      "Stationäre Überwachung notwendig"
+    ],
+    "follow_up": [
+      "Keine Entlassung nach Hause trotz fehlender Beschwerden",
+      "Stationäre Überwachung wegen Komplikationsrisiko"
+    ]
+  }
+]

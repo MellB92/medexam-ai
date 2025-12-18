@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 78/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle**.\n\nDer Text behandelt ausschließlich:\n- Systematische EKG-Analyse-Schritte (Q-Zacken, ST-Strecke, T-Welle)\n- Theoretische Grundlagen zur Befundung von Rhythmusstörungen\n- Definitionen (Bradykardie < 50/min, Tachykardie > 100/min)\n- EKG-Befunde bei verschiedenen Blockbildern (SA-Block, AV-Block I°-III°)\n- Schematische Abbildungen (Abb. 34.1-34.3)\n\nEs werden allgemeine Patientengruppen erwähnt (z.B. \"Ausdauersportler (Ruderer)\", \"Patienten unter Betablocker-Behandlung\"), aber es handelt sich dabei **nicht um konkrete klinische Fälle** mit individuellen Patienten, sondern um theoretische Beispiele zur Illustration von EKG-Befunden."
+  }
+]

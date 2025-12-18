@@ -1,0 +1,187 @@
+[
+  {
+    "title": "Dialysepatient mit metabolischer Azidose und Hyperkaliämie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "3-4 Tage ohne Dialyse"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Dialysepflichtigkeit"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "pH 7,1",
+      "K 5,6",
+      "Na 150",
+      "BE -12",
+      "pCO2 normal"
+    ],
+    "suspected_diagnosis": [
+      "lebensbedrohlicher Zustand",
+      "metabolische Azidose",
+      "Hyperkaliämie"
+    ],
+    "diagnostic_approach": [
+      "BGA"
+    ]
+  },
+  {
+    "title": "Hüftfraktur nach Fahrradsturz",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Sturz vom Fahrrad"
+    ],
+    "accident_mechanism": "vom Fahrrad gestürzt",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild: Hüftfraktur",
+      "Röntgenthorax: Pneumohämothorax"
+    ],
+    "suspected_diagnosis": [
+      "Hüftfraktur",
+      "Pneumohämothorax"
+    ],
+    "diagnostic_approach": [
+      "Röntgen"
+    ]
+  },
+  {
+    "title": "Colitis ulcerosa mit blutiger Diarrhoe",
+    "patient_age": "31 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "seit 5 Monaten blutige schleimige Diarrhoe",
+      "krampfartige Abdomenschmerzen",
+      "B-Symptomatik"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Koloskopie: kontinuierlicher Befall des Kolon mit Hyperämie und punktförmige Blutung in Schleimhaut sowie Fibrinbeläge"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "chronische entzündliche Darmerkrankung",
+      "Colitis ulcerosa"
+    ],
+    "diagnostic_approach": [
+      "Koloskopie"
+    ]
+  },
+  {
+    "title": "Akute Leistenschmerzen bei inkarzerierter Hernie",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "nächtlich sehr starke Schmerzen in der Leiste"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "in ZNA reponiert"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "inkarzerierte Hernie"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Postoperatives Delir nach Schenkelhalsfraktur-OP",
+    "patient_age": "75 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Schreien",
+      "Verwirrtheit",
+      "postoperativ"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Schenkelhalsfraktur",
+      "operiert"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "verwirrt",
+      "schreit"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "postoperatives Delir"
+    ],
+    "diagnostic_approach": [
+      "andere Ursachen ausschließen"
+    ]
+  },
+  {
+    "title": "Sepsis mit Petechien",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Fieber",
+      "reduzierte AZ"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Petechien auf der Haut"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sepsis"
+    ],
+    "diagnostic_approach": [
+      "SOFA",
+      "qSOFA"
+    ]
+  },
+  {
+    "title": "Colitis ulcerosa Schub bei 31-jähriger Patientin",
+    "patient_age": "31 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Schmerzen bei Palpation des linken Abdomens"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Colitis ulcerosa"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "kein Fieber",
+      "kein SIRS",
+      "Schmerzen bei Palpation des linken Abdomens"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Leukozyten: 14.000",
+      "Hb: 8,2 g/dL (Anämie, mikrozytär, hypochrom)",
+      "CRP: 40"
+    ],
+    "suspected_diagnosis": [
+      "Schub von Colitis ulcerosa"
+    ],
+    "diagnostic_approach": []
+  }
+]

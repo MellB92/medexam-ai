@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Patient mit Sjögren-Syndrom\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"Sjögren-Syndrom\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\"Echobild bei Endokarditis\", \"Bilder von Osler-Knötchen\", \"Janeway-Läsionen\"],\n    \"laboratory_findings\": [\"ANA\", \"anti-SSA/SSB\"],\n    \"suspected_diagnosis\": [\"Sjögren-Syndrom\", \"COPD\", \"Endokarditis\"],\n    \"diagnostic_approach\": []\n  },\n  {\n    \"title\": \"Angina Pectoris\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Angina Pectoris\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Angina Pectoris\"],\n    \"diagnostic_approach\": [\"Anamnese\", \"körperliche Untersuchung\"]\n  }\n]\n```"
+  }
+]

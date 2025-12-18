@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Knieverletzung mit Verdacht auf VHK-Ruptur oder Meniskusläsion",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Knieverletzung"
+    ],
+    "accident_mechanism": "Kein Hochrasanztrauma",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "VHK-Ruptur",
+      "Innenmeniskusruptur"
+    ],
+    "diagnostic_approach": [
+      "Röntgenaufnahme des Knies zum Ausschluss knöcherner Begleitverletzungen"
+    ]
+  }
+]

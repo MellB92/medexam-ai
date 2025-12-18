@@ -1,0 +1,111 @@
+[
+  {
+    "title": "Offene Handgelenkfraktur mit Nervenverletzung und späterem Ödem",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "offene Handgelenkfraktur"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "offene Wunde auf ulnarer Seite des Handgelenks"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Handgelenkfraktur mit Nervenverletzung N. medianus"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Gips wurde angelegt und später entfernt"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Patient kommt nach einigen Wochen mit geschwollener, schmerzhafter und glänzender Haut am Handgelenk",
+      "Verdacht auf Kompartmentsyndrom wurde diskutiert"
+    ]
+  },
+  {
+    "title": "Peritonitis bei gedeckt perforierter Divertikulitis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Fieber",
+      "Bauchschmerzen",
+      "Abwehrspannung im ganzen Bauch"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Abwehrspannung im ganzen Bauch"
+    ],
+    "imaging_findings": [
+      "CT Abdomen zeigt gedeckte Perforation"
+    ],
+    "laboratory_findings": [
+      "erhöhtes CRP"
+    ],
+    "suspected_diagnosis": [
+      "Perforation von Divertikulitis mit Peritonitis"
+    ],
+    "diagnostic_approach": [
+      "CT Abdomen"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "gedeckte Perforation"
+    ],
+    "follow_up": [
+      "Stationäre Aufnahme und antibiotische Therapie",
+      "Bei Typ 2c direkte OP-Indikation"
+    ]
+  },
+  {
+    "title": "Alte Dame mit akuter Abgeschlagenheit in ZNA",
+    "patient_age": "alte Dame",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "akut entwickelte Abgeschlagenheit",
+      "Unwohlsein"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Vitalparameter",
+      "ISAR-Score",
+      "cCT wurde erwogen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

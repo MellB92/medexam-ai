@@ -1,0 +1,109 @@
+[
+  {
+    "title": "Trimalleoläre Sprunggelenkfraktur nach Motorradunfall",
+    "patient_age": "junger Mann",
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "heftige Schmerzen im rechten Sprunggelenk"
+    ],
+    "accident_mechanism": "Motorradunfall um 23:00 Uhr",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "pDMS-Prüfung durchgeführt",
+      "Puls über A. dorsalis pedis getastet",
+      "Puls über A. tibialis posterior getastet",
+      "Sensibilität im Seitenvergleich geprüft"
+    ],
+    "imaging_findings": [
+      "AP- und seitliche Röntgenaufnahme des rechten Sprunggelenks",
+      "Frakturlinie der distalen Fibula oberhalb der Syndesmose",
+      "Fraktur im Innenknöchelbereich",
+      "Frakturlinie an der hinteren Kante der Tibia (Volkmann-Dreieck)",
+      "trimalleoläre Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Weber C Fraktur",
+      "trimalleoläre Sprunggelenkfraktur",
+      "instabile Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Notfallanamnese",
+      "Vitalparameter-Messung",
+      "körperliche Untersuchung",
+      "pDMS-Prüfung",
+      "Röntgen in 2 Ebenen",
+      "sofortige OP-Indikation: Plattenosteosynthese der Fibula",
+      "Schraubenosteosynthese für Malleolus medialis",
+      "Zuggurtungsosteosynthese",
+      "Stellschraube zur Stabilisierung"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Risiko der Nerven- und Gefäßverletzung",
+      "große Gefahr der Steifigkeit"
+    ],
+    "follow_up": [
+      "Übungen und Krankengymnastik postoperativ",
+      "Teilbelastung",
+      "Thromboseprophylaxe mit NMH angepasst an Körpergewicht",
+      "Sport erst nach 6 Monaten möglich"
+    ]
+  },
+  {
+    "title": "Starke anale Blutungen bei 70-jährigem mit Kolonkarzinom",
+    "patient_age": "70 Jahre",
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "starke Blutungen aus Analkanal"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalparameter stabil/gut"
+    ],
+    "physical_examination": [
+      "digitale rektale Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [
+      "Koloskopie: keine normale Kolonstruktur erkennbar",
+      "keine Haustren sichtbar",
+      "keine Gefäßzeichen erkennbar",
+      "glatte Schleimhaut nicht sichtbar",
+      "Tumor in der Mitte des Kolonsegments",
+      "normale Struktur am Rand erkennbar"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kolonkarzinom T2-N0-M0",
+      "Differentialdiagnosen: Hämorrhoiden",
+      "Differentialdiagnosen: Polypen"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Vitalparameter-Messung",
+      "körperliche Untersuchung",
+      "digitale rektale Untersuchung",
+      "Koloskopie",
+      "Therapie stadienabhängig"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

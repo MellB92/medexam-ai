@@ -1,0 +1,135 @@
+[
+  {
+    "title": "Humeruskopffraktur nach Sturz vom Garagendach",
+    "patient_age": "61-jähriger",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Oberarmschmerzen links",
+      "schmerzbedingte Bewegungseinschränkung"
+    ],
+    "accident_mechanism": "Ausgerutscht und von Garagendach (2.30m Höhe) auf die linke Schulter gefallen beim Helfen der Nachbarin Baumäste zu schneiden",
+    "pre_existing_conditions": [
+      "Cholezystektomie vor 20 Jahren"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Gärtner von Beruf"
+    ],
+    "medications": [],
+    "allergies": [
+      "Antibiotika (unbekannt welche)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "DMS verletzter Arm überprüft",
+      "Sensibilität dorsaler Oberarm wichtig",
+      "RR, Puls, Lungen, Herz, Abdomen"
+    ],
+    "imaging_findings": [
+      "Röntgen: Humeruskopffraktur",
+      "Weiteres Röntgen: Z.n. Plattenosteosynthese"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Humeruskopffraktur",
+      "DD: Humerusschaftfraktur",
+      "DD: Schultergelenkluxation"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Oberarm/Schulter"
+    ],
+    "treatment_response": [
+      "Analgetika",
+      "Plattenosteosynthese"
+    ],
+    "complications": [
+      "Mögliche Omarthrose"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Riesenzellarteriitis mit drohender Erblindung",
+    "patient_age": "65-jähriger",
+    "patient_gender": "männlich",
+    "severity": "severe",
+    "chief_complaints": [
+      "Seit heute Morgen plötzlich verschwommenes Sehen",
+      "AZ-Verschlechterung",
+      "Seit 2 Wochen Kopfschmerzen",
+      "Kopfschmerzen verstärken sich durch Sprechen, Kauen, Schlucken",
+      "Keine Besserung nach Paracetamol",
+      "Vermehrtes Schwitzen in den 2 Nachthälfte",
+      "Durstgefühl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "Z.n. Schenkelhalsfraktur im Alter von 21 (Osteosynthese)",
+      "Z.n. Schilddrüsenknotenextirpation im Alter von 48 J, komplikationslos",
+      "Z.n. Hepatitis vor 15 J nach Reise in Osten"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Raucher, 3 Zigaretten pro Tag",
+      "Alkohol gelegentlich"
+    ],
+    "family_history": [
+      "Mutter 92 Jahre alt",
+      "Vater verstorben am Kolonkarzinom mit 75 Jahren",
+      "Schwester leide seit ca. 1 Woche an Lungenarterienembolie",
+      "Bruder leide an Gicht"
+    ],
+    "social_history": [
+      "Rentner",
+      "vor 1 Jahr verwitwet",
+      "wohnt allein in einer Wohnung",
+      "hat zwei Söhne und einen Enkel, alle gesund"
+    ],
+    "medications": [
+      "Candesartan Plus"
+    ],
+    "allergies": [
+      "Diclofenac (anaphylaktische Reaktion)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Typisches Bild einer Arteriitis temporalis",
+      "Komplette körperliche Untersuchung inkl. neurologische Untersuchung"
+    ],
+    "imaging_findings": [
+      "Farbkodierte Duplex-Sono-Doppler: Beurteilung Gefäßlumen, Blutfluss, Dicke und Struktur der Gefäßwände"
+    ],
+    "laboratory_findings": [
+      "CRP/BSG erhöht",
+      "sonstige Laborwerte unauffällig"
+    ],
+    "suspected_diagnosis": [
+      "Riesenzellarteriitis",
+      "Arteriitis temporalis"
+    ],
+    "diagnostic_approach": [
+      "Klinische Untersuchung (Hauptkriterium)",
+      "Farbkodierte Duplex-Sono-Doppler",
+      "MRT",
+      "PET",
+      "CTA",
+      "Biopsie (heute kaum noch durchgeführt)"
+    ],
+    "treatment_response": [
+      "Sofortige Gabe von Prednisolon 1000mg i.v.",
+      "Umstellung auf p.o. 5 mg/kg über ca. 24 Monate"
+    ],
+    "complications": [
+      "Mögliche Erblindungsgefahr",
+      "Aortendissektion",
+      "Apoplex",
+      "Erhöhtes Risiko für Malignome"
+    ],
+    "follow_up": [
+      "Therapie über ca. 24 Monate"
+    ]
+  }
+]

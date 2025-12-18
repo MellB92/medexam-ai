@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Hyperthyreose mit Herzrasen, Nervosität und Gewichtsverlust",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Herzrasen",
+      "Nervosität",
+      "Tremor",
+      "Wärmeintoleranz",
+      "Gewichtsverlust"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Vitalparameter",
+      "Pupillen",
+      "Mundhöhle",
+      "Schilddrüse",
+      "Lymphknoten",
+      "Thorax",
+      "Herz",
+      "Abdomen",
+      "Gefäße",
+      "Augen (Orbitopathie bei M. Basedow)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hyperthyreose",
+      "M. Basedow",
+      "Autonomie"
+    ],
+    "diagnostic_approach": [
+      "Labor (TSH, T4, T3, TRAK, TPO-Ak)",
+      "Sonographie (vaskuläres Inferno)",
+      "Szintigraphie",
+      "bei suspekten Knoten: FNA"
+    ]
+  },
+  {
+    "title": "Intertrochantäre Femurhalsfraktur rechts bei älterem Patienten",
+    "patient_age": "alt",
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Osteoporose",
+      "Rheumatoide Arthritis"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenübersicht Becken: rechte intertrochantäre Femurhalsfraktur",
+      "Zeichen für Osteoporose",
+      "Zeichen für rheumatoide Arthritis"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Intertrochantäre Femurhalsfraktur rechts"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Darmperforation bei paralytischem Ileus infolge biliärer Pankreatitis",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT-Abdomen: freie Luft",
+      "auffälliges Pankreas",
+      "auffällige Gallenblase",
+      "Darmvergrößerung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Darmperforation",
+      "paralytischer Ileus",
+      "biliäre Pankreatitis"
+    ],
+    "diagnostic_approach": []
+  }
+]

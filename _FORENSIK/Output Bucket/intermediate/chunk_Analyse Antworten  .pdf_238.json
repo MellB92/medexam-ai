@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 239/254) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** zu medizinischen Themen:\n   - AV-Block und Schrittmacher (DDD-Schrittmacher, Elektroden, Venen)\n   - Niereninsuffizienz (GFR-Parameter, Ursachen, Therapie)\n   - Ulcus ventriculi (H. pylori Diagnostik und Therapie)\n   - Drogenklassifikation\n   - Medikamenteninteraktionen (Johanniskraut)\n\n2. **Prüfungsprotokoll-Format** mit:\n   - Kandidatenantworten\n   - Musterlösungen\n   - Fehleranalysen\n\nEs gibt keine Patientenpräsentation mit konkreten:\n- Patientencharakteristika (Alter/Geschlecht in einem Fall-Kontext)\n- Anamnese oder Beschwerden eines spezifischen Patienten\n- Untersuchungsbefunden eines konkreten Falls\n- Diagnostischen oder therapeutischen Entscheidungen für einen individuellen Patienten\n\nDies ist reines Prüfungswissen-Material ohne klinische Falldarstellungen."
+  }
+]

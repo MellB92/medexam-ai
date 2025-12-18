@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Hyperthyreose bei Patientin (Protokoll 15.03 #2, bestanden)",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Herzrasen",
+      "Nervosität",
+      "breiige Stühle",
+      "Schwitzen auch am Tag",
+      "Wärmeintoleranz",
+      "Gewichtsabnahme trotz normalem Appetit",
+      "Zittern"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Vitalzeichen",
+      "Herz Auskultation",
+      "Lungen Auskultation",
+      "Abdomen",
+      "neurologische Untersuchung"
+    ],
+    "imaging_findings": [
+      "EKG unauffällig",
+      "Echoarme Läsionen in Schilddrüse",
+      "hypervaskulär",
+      "Heiße Knoten in Szintigraphie"
+    ],
+    "laboratory_findings": [
+      "TSH",
+      "fT3 und fT4",
+      "TRAK",
+      "TAK",
+      "TPO AK"
+    ],
+    "suspected_diagnosis": [
+      "Hyperthyreose",
+      "Morbus Basedow",
+      "Autonom toxisches Adenom",
+      "Autonomie"
+    ],
+    "diagnostic_approach": [
+      "Labor: TSH, fT3, fT4, TRAK, TAK, TPO AK",
+      "EKG",
+      "Schilddrüsen-Echo mit Doppler",
+      "Szintigraphie"
+    ]
+  },
+  {
+    "title": "Hyperthyreose bei Patientin (Protokoll 15.03 #1, nicht bestanden)",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Tachykardie",
+      "Schwitzen",
+      "Nervosität",
+      "seltsames Gefühl in den Augen",
+      "Beschwerden seit etwa 4 Wochen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "allergische Rhinitis",
+      "Unverträglichkeit gegenüber Milchprodukten",
+      "Z.n. Helicobacter pylori Infektion vor 2 Jahren",
+      "Z.n. Kaiserschnitt",
+      "2 Kinder"
+    ],
+    "medications": [
+      "keine regelmäßigen Medikamente"
+    ],
+    "allergies": [
+      "Milchprodukte Unverträglichkeit"
+    ],
+    "physical_examination": [
+      "Bauchuntersuchung: nur palpiert (unvollständig)",
+      "Lunge: nur auskultiert",
+      "Puls an den Beinen nicht überprüft (Fehler)",
+      "keine vollständige Untersuchung von Leber und Milz (Fehler)"
+    ],
+    "imaging_findings": [
+      "CT Abdomen vor 8 Wochen: Darmverschluss ausgeschlossen",
+      "Schilddrüsen-Ultraschall: mehrere Bilder",
+      "vaskuläres Inferno",
+      "Szintigraphie: heißer Knoten",
+      "Röntgen Thorax: Veränderungen an Herz und Lunge, erhöhter Herz-Thorax-Quotient"
+    ],
+    "laboratory_findings": [
+      "BGA mit Laktatazidose und entsprechenden Veränderungen"
+    ],
+    "suspected_diagnosis": [
+      "Thyreotoxikose",
+      "Morbus Basedow",
+      "Autoimmunthyreoiditis (AIT)",
+      "Vorhofflimmern",
+      "Panikattacke",
+      "Herzinsuffizienz",
+      "Lungenödem"
+    ],
+    "diagnostic_approach": [
+      "Anamnese in unter 15 Minuten",
+      "körperliche Untersuchung (unvollständig durchgeführt)",
+      "Schilddrüsen-Ultraschall mit Doppler",
+      "Szintigraphie",
+      "Röntgen Thorax",
+      "BGA",
+      "ÖGD (4 Bilder): Blutung, Entzündung, veränderte Schleimhaut (allergisches/eosinophiles Ödem), kleine abheilende Ulzeration"
+    ]
+  }
+]

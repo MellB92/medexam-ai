@@ -1,0 +1,45 @@
+[
+  {
+    "title": "LKW-Fahrer mit stumpfem Bauchtrauma und Handgelenksverletzung nach Autounfall",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Starke Bauchschmerzen im gesamten Bauch",
+      "Schmerzen im rechten Handgelenk"
+    ],
+    "accident_mechanism": "Sekundenschlaf beim LKW-Fahren, Kontrollverlust, Autounfall. Patient schlug sich mit Bauch und rechter Hand gegen das Lenkrad",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Vitalparameter erhoben",
+      "Herz untersucht",
+      "Lunge untersucht",
+      "Bauch untersucht",
+      "Handgelenk pDMS durchgeführt"
+    ],
+    "imaging_findings": [
+      "FAST Sonographie durchgeführt",
+      "Leberhämatom",
+      "Röntgen Handgelenk: Kahnbeinfraktur"
+    ],
+    "laboratory_findings": [
+      "Urinuntersuchung durchgeführt",
+      "Nierenfunktionsparameter erhoben"
+    ],
+    "suspected_diagnosis": [
+      "Stumpfes Bauchtrauma",
+      "Leberhämatom",
+      "Kahnbeinfraktur rechts",
+      "Mögliche Zwerchfellverletzung"
+    ],
+    "diagnostic_approach": [
+      "Komplette körperliche Untersuchung",
+      "FAST Sonographie",
+      "Röntgen Handgelenk",
+      "Schock-Index bestimmen",
+      "Urinuntersuchung bei Trauma",
+      "Nierenfunktionsbeurteilung"
+    ]
+  }
+]

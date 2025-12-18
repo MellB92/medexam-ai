@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Afghanistan-Patient mit Husten, Fieber und Kaverne\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Husten\", \"Fieber\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\"Kaverne\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Tuberkulose\", \"Lungenabszess\", \"Bronchialkarzinom mit Zerfall\", \"Aspergillom\", \"Wegener-Granulomatose\", \"Sarkoidose mit Kavernenbildung\", \"Paragonimiose\"],\n    \"diagnostic_approach\": [\"Anamnese (Herkunftsland, Kontakte)\", \"Röntgen-Thorax in 2 Ebenen\", \"3x Sputum (mikroskopisch + kulturell)\", \"Interferon-Gamma-Release-Assay (IGRA)\", \"Tuberkulin-Hauttest (THT)\"]\n  }\n]\n```"
+  }
+]

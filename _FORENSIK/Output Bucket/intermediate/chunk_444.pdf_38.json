@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 39/155) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Theoretischem Wissen** über:\n   - Hyperventilation und respiratorische Alkalose (mit allgemeiner Therapieempfehlung)\n   - Anionenlücke (Berechnung und Interpretation)\n   - Pulsoxymetrie (Indikation, Interpretation, Normwerte)\n   - Blutgasanalyse (Indikation, Durchführung, Interpretation)\n   - Befundung eines Röntgen-Thorax (systematische Beschreibung)\n\n2. **Beispielsätzen** für die Röntgenbefundung:\n   - \"Röntgen-Aufnahme des Thorax im p.a.-Strahlengang vom 30.03.2015 von Frau Mustermann...\"\n   - \"Rechts jugulär wurde ein ZVK eingebracht...\"\n   - \"Die abgebildeten knöchernen Anteile weisen...\"\n\nDiese Beispielsätze sind **keine klinischen Fälle**, sondern lediglich Musterformulierungen für die Befundung von Röntgenbildern zu Lehrzwecken.\n\nEs handelt sich um einen **Lehrbuchabschnitt** ohne konkrete Patientenpräsentationen mit Anamnese, Befunden und diagnostischem Vorgehen."
+  }
+]

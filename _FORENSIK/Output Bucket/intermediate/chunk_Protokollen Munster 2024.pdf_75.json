@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Sturz mit Beinimmobilität bei 67-jähriger Patientin",
+    "patient_age": "67 Jahre",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "gestürzt auf der Seite",
+      "kann das Bein nicht mehr bewegen"
+    ],
+    "accident_mechanism": "gestern nacht gestürzt auf der Seite",
+    "pre_existing_conditions": [
+      "DM Typ 2",
+      "Z.n. Cholezystektomie",
+      "TVT",
+      "Anal Fistel"
+    ],
+    "comorbidities": [
+      "HRS (Herzrhythmusstörung)"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "alle Pulse tasten (Carotis, radial, ulnar, femoral, tibial posterior, pedis dorsalis)",
+      "Auskultation an ICR",
+      "Neurologische Untersuchung mit Reflexen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Komplette körperliche Untersuchung",
+      "Pulsstatus komplett",
+      "Neurologische Untersuchung mit Reflexprüfung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Polytrauma nach Verkehrsunfall",
+    "patient_age": "Mittel 60-jährig",
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "starke Schmerzen des rechten Beins",
+      "Kopfschmerzen",
+      "Luftnot"
+    ],
+    "accident_mechanism": "Verkehrsunfall, wurde ins Krankenhaus mit dem Rettungsdienstwagen gebracht",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalparameter gemessen",
+      "Patient war stabil"
+    ],
+    "physical_examination": [
+      "Patient war ansprechbar",
+      "orientiert zu Name und Datum"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Trauma"
+    ],
+    "diagnostic_approach": [
+      "schnelle Anamnese",
+      "Medikamente, Noxen, Allergien, Vorerkrankungen befragt",
+      "geplante Bildgebung: Kopf, Thorax und rechtes Knie",
+      "Vitalparameter-Monitoring"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

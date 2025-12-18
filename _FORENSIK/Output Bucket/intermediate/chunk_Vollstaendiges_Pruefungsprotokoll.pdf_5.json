@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Femurhalsfraktur nach Sturz bei geplantem Hämangiom-Eingriff\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Bein kann nicht bewegt werden\"],\n    \"accident_mechanism\": \"Sturz\",\n    \"pre_existing_conditions\": [\"Hämangiom im Gehirn\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Patient liegt auf Liege\", \"Bein in Außenrotation\", \"Bewegung nicht möglich\"],\n    \"imaging_findings\": [\"Röntgenbilder mit Femurhalsfraktur\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Femurhalsfraktur\"],\n    \"diagnostic_approach\": [\"Vigo anlegen\", \"Röntgenaufnahme\"]\n  }\n]\n```"
+  }
+]

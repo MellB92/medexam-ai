@@ -1,0 +1,97 @@
+[
+  {
+    "title": "COPD-Patient mit Hämoptysen und Verdacht auf Bronchialkarzinom",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Neulich aufgetretener Husten mit blutigem Auswurf",
+      "Verschlechterung der Atemnot",
+      "B-Symptomatik",
+      "Obstipation",
+      "Arthrose"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "COPD",
+      "arterielle Hypertonie",
+      "Gicht",
+      "Depression",
+      "Z.n. laparoskopischer Cholezystektomie",
+      "Z.n. Hüft-OP"
+    ],
+    "comorbidities": [
+      "Obstipation",
+      "Arthrose"
+    ],
+    "risk_factors": [],
+    "family_history": [
+      "Vater: Diabetes mellitus mit offenem Bein",
+      "Mutter: Kolorektales Karzinom",
+      "Mutter: Hypothyreose"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax (Weichstrahlung PA und Seitenlage): Raumforderung mit Atelektase",
+      "Sonographie: Gallenbefund",
+      "Röntgen Becken: Open book fracture und Arthrose"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom (kleinzellig oder nicht-kleinzellig)",
+      "Tuberkulose (Differentialdiagnose)"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Thorax",
+      "Staging mit weiteren Untersuchungen",
+      "Klassifikation des Bronchialkarzinoms"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit chronischer Luftnot, Hämoptysen und B-Symptomatik",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Luftnot seit Jahren",
+      "Kurzatmigkeit und Belastungsdyspnoe mit Verschlechterung in den letzten 2 Wochen",
+      "Produktiver Husten mit Hämoptise 2x pro Woche",
+      "Kaltschweiss und Nachtschweiß",
+      "Appetitlosigkeit",
+      "Gewichtsverlust ca. 6 kg in den letzten 3 Monaten",
+      "Obstipation wöchentlich"
+    ],
+    "accident_mechanism": "Autounfall vor 10 Jahren",
+    "pre_existing_conditions": [],
+    "comorbidities": [
+      "Obstipation"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Makrogol 3-4x pro Woche",
+      "Respiriva (seit 1 Monat, verschrieben vom Hausarzt)",
+      "Salbutamol bei Bedarf"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Patient benutzt Stock aufgrund Autounfall vor 10 Jahren"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

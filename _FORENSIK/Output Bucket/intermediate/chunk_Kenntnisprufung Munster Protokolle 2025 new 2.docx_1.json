@@ -1,0 +1,233 @@
+[
+  {
+    "title": "HWS-Distorsion nach Auffahrunfall",
+    "patient_age": "68 Jahre",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Starke Nackenschmerzen am Tag nach Unfall",
+      "Ausstrahlung in rechte Schulter und Hinterkopf",
+      "Nackensteifigkeit",
+      "Ohrensausen"
+    ],
+    "accident_mechanism": "Auffahrunfall im BMW, Patient trug Sicherheitsgurt, Hyperflexion-Hyperextension des Halses, Prellmarke an Nasenwurzel durch Brille, am Unfalltag keine Beschwerden",
+    "pre_existing_conditions": [
+      "Leichte Depression nach Tod der Ehefrau",
+      "Glaukom",
+      "Hypothyreose",
+      "Z.n. benigner Pankreastumor-Entfernung vor 10 Jahren (mit 58 Jahren)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater gesund, lebt im Altenheim",
+      "Mutter verstorben an Sepsis nach Operation wegen kolorektalem Karzinom"
+    ],
+    "social_history": [],
+    "medications": [
+      "Johanniskraut (gegen Depression)",
+      "Augentropfen 2x täglich (Glaukom)",
+      "L-Thyroxin (Hypothyreose)"
+    ],
+    "allergies": [
+      "Keine Allergien",
+      "Keine Noxen"
+    ],
+    "vital_signs": [
+      "Puls mit Pulsdefizit gemessen",
+      "Blutdruck beidseitig gemessen"
+    ],
+    "physical_examination": [
+      "Hirnnervenprüfung",
+      "Halsinspektion und Nackensteifigkeitsprüfung",
+      "Obere Extremitäten: Sensibilität und Kraft überprüft",
+      "Reflexprüfung",
+      "Pupillenlichtreaktion",
+      "Venenzugang gelegt",
+      "Keine ABCD-Schema-Durchführung, da kein akuter Notfall"
+    ],
+    "imaging_findings": [
+      "Röntgen HWS ap und seitlich: Streckhaltung der HWS (straight HWS)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "HWS-Distorsion (Verdachtsdiagnose)",
+      "HWS-Wirbelkörperfraktur (Differentialdiagnose)"
+    ],
+    "diagnostic_approach": [
+      "Röntgen zum Frakturausschluss"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Therapieplan: Analgetika, Muskelrelaxantien und Physiotherapie nach Frakturausschluss"
+    ]
+  },
+  {
+    "title": "Ösophagusvarizenblutung bei Alkoholismus",
+    "patient_age": null,
+    "patient_gender": "männlich",
+    "severity": "critical",
+    "chief_complaints": [
+      "Bewusstlosigkeit",
+      "Blut im Mund überall"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Alkoholismus"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Alkoholiker (Mann aus Haus mit Alkoholflaschen)"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Alkoholflaschen im Haus"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck 80/50 mmHg"
+    ],
+    "physical_examination": [
+      "Bewusstlos",
+      "Blut im Mund"
+    ],
+    "imaging_findings": [
+      "Abdomen-Sonographie: Freie Flüssigkeit",
+      "Endoskopie: Forrest 1a spritzende Blutung"
+    ],
+    "laboratory_findings": [
+      "Blutbild angefordert",
+      "Gerinnungsparameter angefordert",
+      "Kreuzblut angefordert"
+    ],
+    "suspected_diagnosis": [
+      "Ösophagusvarizenblutung"
+    ],
+    "diagnostic_approach": [
+      "ABCD-Schema",
+      "Venöser Zugang",
+      "Abdomen-Sonographie",
+      "Endoskopie nach Stabilisierung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Sofortige Therapie: Terlipressin 2mg Bolus dann Perfusor",
+      "0-negativ Blut bis gruppiertes Blut verfügbar",
+      "Gummibandligatur erwogen",
+      "Bei Versagen: Blakemore-Tamponade",
+      "TIPS vorbereiten"
+    ]
+  },
+  {
+    "title": "AV-Block III. Grades mit Kollaps",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Plötzliche Kollabierung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: AV-Block III. Grades"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "AV-Block III. Grades"
+    ],
+    "diagnostic_approach": [
+      "ABCD-Schema",
+      "Sofortiges EKG"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Passagerer Herzschrittmacher",
+      "Permanenter Herzschrittmacher DDD"
+    ]
+  },
+  {
+    "title": "Gallenblasenempyem mit Sepsis auf Intensivstation",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "Sepsis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sonographie: Leber mit vergrößerter Gallenblase",
+      "Vergrößerte Gallenblase mit hypoechogenem Areal",
+      "Keine Schallschattung",
+      "Verdacht auf Gallenblasenempyem"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Gallenblasenempyem",
+      "Sepsis"
+    ],
+    "diagnostic_approach": [
+      "Sonographie Abdomen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Stabilisierung mit Breitbandantibiotika",
+      "Anschließend operative Versorgung"
+    ]
+  },
+  {
+    "title": "Insulinom mit anfallsartiger Hypoglykämie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Anfallsartige Hypoglykämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT Abdomen axial: Raumforderung im Pankreaskopf"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Insulinom"
+    ],
+    "diagnostic_approach": [
+      "CT Abdomen",
+      "72h-Fastentest",
+      "Insulin/C-Peptid Bestimmung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

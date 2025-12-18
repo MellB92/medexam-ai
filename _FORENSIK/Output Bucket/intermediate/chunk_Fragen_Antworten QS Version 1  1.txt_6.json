@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Hypertensiver Notfall mit KHK und TIA (RR 230/120)\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"RR-Erhöhung auf 230/120 mmHg\", \"akute Endorganschädigung\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"KHK\", \"TIA\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\"CT-Schädel zur TIA-Abklärung\"],\n    \"laboratory_findings\": [\"Troponin\", \"Kreatinin\", \"Elektrolyte\"],\n    \"suspected_diagnosis\": [\"Hypertensiver Notfall mit akuter Endorganschädigung\"],\n    \"diagnostic_approach\": [\n      \"12-Kanal-EKG (Ischämie-Diagnostik)\",\n      \"Labor: Troponin, Kreatinin, Elektrolyte\",\n      \"CT-Schädel (TIA-Abklärung)\",\n      \"Invasive RR-Messung erwägen\",\n      \"Stündliche Neuro-Checks\",\n      \"EKG-Monitoring\",\n      \"RR-Senkung Ziel erste Stunde: Max. -25% des Ausgangs-MAP\",\n      \"Ziel 2-6h: 160/100-110mmHg\",\n      \"Ziel 24-48h: <140/90mmHg\",\n      \"Nitroglycerin 5-200μg/min i.v. oder Urapidil 12,5-25mg Bolus, dann 5-40mg/h\",\n      \"ASS 100mg (wenn keine Blutung im CT)\",\n      \"Statin hochdosiert\"\n    ]\n  }\n]\n```"
+  }
+]

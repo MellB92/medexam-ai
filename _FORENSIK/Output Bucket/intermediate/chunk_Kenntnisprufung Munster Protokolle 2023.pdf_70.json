@@ -1,0 +1,154 @@
+[
+  {
+    "title": "Multiples Myelom mit B-Symptomatik und Niereninsuffizienz",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Gewichtsverlust 8 kg in sechs Monaten",
+      "Müdigkeit und Fatigue seit 2 Monaten",
+      "Rückenschmerzen seit ein paar Monaten",
+      "Nächtliche Schweißausbrüche",
+      "Immer wieder Erkältung und Erschöpfung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Nierenproblem (vom Hausarzt festgestellt)"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Arterielle Hypertonie festgestellt",
+      "Ansonsten keine relevanten Befunde bei körperlicher Untersuchung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Anämie",
+      "Nierenwerte pathologisch"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom",
+      "Osteoporose",
+      "Anämie"
+    ],
+    "diagnostic_approach": [
+      "Körperliche Untersuchung",
+      "Nierenwerte kontrollieren",
+      "Anämie-Diagnostik",
+      "Weitere Untersuchungen zur Abklärung Multiples Myelom"
+    ]
+  },
+  {
+    "title": "Polytrauma mit Hämothorax nach Unfall",
+    "patient_age": "45",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Zustand nach Unfall"
+    ],
+    "accident_mechanism": "Unfall (Details nicht spezifiziert)",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Hämothorax",
+      "Rippenfraktur",
+      "Lungenkontusion",
+      "Kardiomegalie",
+      "Möglicher Pneumothorax"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hämothorax",
+      "Rippenfraktur",
+      "Lungenkontusion",
+      "Extremitätenfrakturen",
+      "Akutes Abdomen",
+      "Mögliche Milzverletzung",
+      "Mögliche Zwerchfellverletzung",
+      "Mögliche Leberverletzung",
+      "Mögliche Herzverletzung"
+    ],
+    "diagnostic_approach": [
+      "Thorax-Röntgen",
+      "Drainage anlegen",
+      "Ultraschall",
+      "CT",
+      "Laparoskopie oder Laparotomie"
+    ]
+  },
+  {
+    "title": "Perikarderguss/Perikardtamponade",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Perikarderguss im Echokardiogramm",
+      "LV, RV, RA, LA, PE markiert"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perikarderguss",
+      "Perikard-Tamponade"
+    ],
+    "diagnostic_approach": [
+      "Echokardiographie",
+      "Thorakotomie",
+      "Ultraschall- oder CT-gesteuerte Drainage"
+    ]
+  },
+  {
+    "title": "Meningitis mit akutem Kopfschmerz und Meningismus",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Kopfschmerzen seit gestern Abend (8/10)",
+      "Ausstrahlung in den Nacken mit Nackensteifigkeit",
+      "Lichtempfindlichkeit",
+      "Übelkeit und Erbrechen",
+      "Fiebergefühl"
+    ],
+    "accident_mechanism": "Vor 3 Tagen Busreise in Äthiopien, Tasche auf Nacken gefallen, seitdem leichte Nackenschmerzen",
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Herzrhythmusstörung",
+      "Armfraktur vor 3 Jahren (konservativ behandelt)"
+    ],
+    "medications": [
+      "Blutdrucksenker (nicht genau spezifiziert)",
+      "ASS"
+    ],
+    "allergies": [
+      "Pollen",
+      "Antibiotika (Name unbekannt)"
+    ],
+    "physical_examination": [
+      "Temperatur 37,9°C",
+      "Vitalzeichen ansonsten stabil",
+      "Nackensteifigkeit",
+      "Starke Schmerzen bei Kopfbewegung",
+      "Brudzinski-Zeichen nicht vollständig testbar wegen Schmerzen",
+      "Kraft 3/5",
+      "Kernig-Zeichen nicht vollständig testbar",
+      "Schnelle Bauchuntersuchung durchgeführt",
+      "Herzklappen abgehört"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Meningitis"
+    ],
+    "diagnostic_approach": [
+      "Körperliche Untersuchung",
+      "Meningismus-Zeichen (Brudzinski, Kernig)",
+      "Auskultation Herzklappen",
+      "Neurologische Untersuchung",
+      "Oberflächliche Gelenkuntersuchung"
+    ]
+  }
+]

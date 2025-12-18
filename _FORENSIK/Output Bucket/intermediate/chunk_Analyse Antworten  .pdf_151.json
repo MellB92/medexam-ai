@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Trüber Liquor bei Verdacht auf bakterielle Meningitis\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Trüber Liquor\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\"Liquor trüb (nicht klar und farblos)\"],\n    \"suspected_diagnosis\": [\"Bakterielle Meningitis\", \"Meningokokken-Meningitis\", \"Virale Meningitis\", \"Blutung\", \"Andere pathologische Prozesse\"],\n    \"diagnostic_approach\": [\n      \"Sicherung der Vitalfunktionen (Atemwege, Atmung, Kreislauf)\",\n      \"Anamnese und körperliche Untersuchung\",\n      \"Blutkulturen abnehmen (aerob und anaerob)\",\n      \"Lumbalpunktion mit Liquoruntersuchung\",\n      \"Bildgebung (CT oder MRT des Kopfes)\",\n      \"Empirische Antibiotikatherapie (Ceftriaxon und Ampicillin)\",\n      \"Antibiotikatherapie nach Erhalt der Erreger und Resistenzbestimmung\"\n    ]\n  }\n]\n```"
+  }
+]

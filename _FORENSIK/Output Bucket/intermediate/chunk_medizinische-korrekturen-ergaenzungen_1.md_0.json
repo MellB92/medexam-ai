@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieses Dokument enthält **keine klinischen Präsentationsfälle**. Es handelt sich um ein systematisches Übersichtsdokument mit:\n\n- Medizinischen Korrekturen und Ergänzungen für die M3-Prüfung\n- Therapierichtlinien und Dosierungsangaben\n- Allgemeinen medizinischen Informationen nach Fachgebieten strukturiert\n- Laborgrenzwerten und Klassifikationen\n- Rechtlichen Aspekten\n\nEs werden zwar Fragennummern referenziert (z.B. \"Fragen 2, 3, 17, 39, 40, 42, 44\"), aber **keine konkreten Patientenfälle** mit:\n- Individuellen Patienten (Alter, Geschlecht)\n- Spezifischen Beschwerden oder Anamnesen\n- Konkreten Untersuchungsbefunden\n- Fallspezifischen Diagnosen\n\nDas Dokument ist rein **theoretisch-didaktisch** aufgebaut als Lernmaterial/Nachschlagewerk für die Kenntnisprüfung."
+  }
+]

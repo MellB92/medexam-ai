@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Multiples Myelom - Paula Wagner mit B-Symptomatik und Gewichtsverlust",
+    "patient_age": "67 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Grippeähnliche Symptome seit 4 Wochen",
+      "Trockener Husten",
+      "Schmerzen im rechten Rippenbogen",
+      "Rückenschmerzen",
+      "Schmerzen im rechten Arm",
+      "Inappetenz",
+      "Müdigkeit bei Anstrengung",
+      "Gewichtsverlust 8 kg in 6 Monaten",
+      "Übermäßiger Nachtschweiß",
+      "Fieber (nicht gemessen)",
+      "Schlaflosigkeit",
+      "Verstopfung",
+      "Urinveränderung (nicht spezifiziert)",
+      "Herzklopfen seit 2 Jahren"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Rhinitis seit Kindheit",
+      "Thrombose im Bein mit 55 Jahren (nicht behandelt, fraglich ob echte Thrombose)",
+      "Herzklopfen seit 2 Jahren (untersucht, nicht behandelt)"
+    ],
+    "medications": [
+      "Ducolax b.B.",
+      "Cetirizin 1-0-0 (Dosis unbekannt)",
+      "Ibuprofen 400 mg b.B.",
+      "Olynt Nasenspray"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Körpergröße 172 cm",
+      "Gewicht 80 kg",
+      "Lungen-, Herz-, Bauchuntersuchung durchgeführt",
+      "Abtasten der Pulse",
+      "Vitalparameter gemessen",
+      "Blutdruck beidseitig gemessen",
+      "Ergebnis der körperlichen Untersuchung im dritten Teil mitgeteilt"
+    ],
+    "imaging_findings": [
+      "Röntgen Thorax ohne Veränderungen"
+    ],
+    "laboratory_findings": [
+      "BSG verändert (höher als 100 erfragt, keine Antwort)",
+      "Urintest von Hausärztin gefordert"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom (Morbus Kahler)",
+      "Morbus Waldenström als DD (im Arztbrief vergessen)"
+    ],
+    "diagnostic_approach": [
+      "BSG",
+      "Elektrophorese",
+      "Urinuntersuchung",
+      "Peripherer Blutausstrich (vergessen anzugeben)",
+      "Knochenbiopsie (vergessen anzugeben)",
+      "Bestimmung der Vorstufen MGUS und Smouldering",
+      "Stadien-Einteilung"
+    ]
+  }
+]

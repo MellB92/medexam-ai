@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Theoretischem Wissen** (erste Sektion):\n   - QT-Verlängerung und Medikamente\n   - Torsade de pointes\n   - Gallenstein-Sonographie\n   - PET-CT Definition\n   - Medizinische Gesetze\n\n2. **Prüfungsfragen mit Antworten** (Fragen 1-22):\n   - Allgemeine medizinische Fragen zu Behandlungsmöglichkeiten, Diagnostik, Impfungen, etc.\n   - Keine konkreten Patientenpräsentationen\n   - Rein theoretisches Wissen\n\nDie Fragen erwähnen zwar hypothetische Patienten (z.B. \"einen Patienten mit Kolonkarzinom\", \"einem Patienten über 60 Jahre\"), aber es handelt sich **nicht um vollständige klinische Fallpräsentationen** mit Anamnese, Befunden und diagnostischem Verlauf.\n\nBeispiel für den Unterschied:\n- **KEINE Fallpräsentation**: \"Was machen wir bei einem Kolonverdacht?\" (theoretische Frage)\n- **Wäre eine Fallpräsentation**: \"68-jähriger Patient mit rektalen Blutungen seit 3 Wochen, Gewichtsverlust 8kg, tastbare Resistenz im linken Unterbauch...\"\n\nDaher: **Leeres Array**"
+  }
+]

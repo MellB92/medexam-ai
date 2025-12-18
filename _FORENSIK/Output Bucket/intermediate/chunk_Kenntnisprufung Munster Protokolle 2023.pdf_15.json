@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Chronische Lumbalgie",
+    "patient_age": "65J",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "seit ca. einem Jahr bestehende dumpfe Schmerzen im Lendenbereich, ohne Ausstrahlung",
+      "Bewegungseinschränkung seit zwei Wochen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Bandscheibenvorfall LWS vor 20 Jahren, operativ behandelt"
+    ],
+    "comorbidities": null,
+    "risk_factors": null,
+    "family_history": [
+      "Mutter: Z. n. Kolonresektion (2021) a.e. als Folge eines Kolonkarzinom",
+      "Vater: a.e. COPD, Diabetes mellitus mit Komplikationen (Diabet. Fuß)",
+      "Bruder: Z. n. Sturz nach Fahrrad Unfall aufgrund einer Synkope a.e. kardiale Genese"
+    ],
+    "social_history": [
+      "Rentnerin, vorher Stadtbibliotekerin",
+      "Verheiratet",
+      "2 Töchtern"
+    ],
+    "medications": [
+      "Ibuprofen 400 mg b.B.",
+      "Diclofenac b.B.",
+      "Vitamin D 3000 IE 1 x Woche"
+    ],
+    "allergies": null,
+    "vital_signs": [
+      "RR 130/80 mmHg"
+    ],
+    "physical_examination": [
+      "Patientin in gutem Allgemeinzustand und adipösem EZ",
+      "Schleimhaut rosig, gut befeuchtet",
+      "Cervikale Lymphknoten beidseits nicht vergrößert tastbar",
+      "Cor: Herztöne rein und rhythmisch, keine NG",
+      "Pulmo: Atemexkursion symmetrisch, vesikuläres AG, keine NG",
+      "Abdomen: weich, keine DS, Milz und Leber nicht vergrößert tastbar, Murphy negativ. Mcburny negativ. Nierenlager nicht klopfschmerzhaft.",
+      "Extremitäten: Kraft 5/5, keine Unterschenkel Ödeme",
+      "Puls: dorsalis Pedis, tibialis posterior, Popliteal- und Radialispuls bds. sicher tastbar.",
+      "Wirbelsäule: harmonisches Gangbild, Wirbelsäule im Bereich der LWS klopfschmerzhaft, sonst kein Klopfschmerz. Lasegue negativ.",
+      "Motorik und Sensibilität unauffällig."
+    ],
+    "imaging_findings": [
+      "auffällige Abdomensonographie (Die Ärztin sah etwas auffälligen im Oberbauch re.)"
+    ],
+    "laboratory_findings": null,
+    "suspected_diagnosis": [
+      "chronische Lumbalgie",
+      "Bandscheibenprolaps",
+      "Wirbelsäule Fraktur als Folge der Osteoporose",
+      "Malignität, Knochenmetastase"
+    ],
+    "diagnostic_approach": [
+      "Densitometrie zur Abklärung des Verdachts auf Osteoporose"
+    ],
+    "treatment_response": [
+      "Ibuprofen 400 mg b.B. führte zur einen leichten Minderung der Schmerzen"
+    ],
+    "complications": null,
+    "follow_up": null
+  }
+]

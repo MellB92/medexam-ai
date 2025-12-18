@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 89/585) enthält ausschließlich Prüfungsfragen und theoretisches Wissen aus einem medizinischen Prüfungsprotokoll. Es werden keine vollständigen klinischen Patientenfälle präsentiert.\n\nDie erwähnten medizinischen Themen sind:\n- Schokoladenzyste/Endometriose (nur als Antwort auf eine Frage)\n- Appendizitis-Klassifikation (theoretische Frage)\n- Schulterluxation (theoretische Diskussion über Anatomie und Behandlung)\n- Ein Röntgenbild wird gezeigt (\"Was sehen Sie?\") mit der Antwort \"anteriore Schultergelenkluxation mit Abrissfraktur des Tuberculum Majus\", aber dies ist Teil einer Prüfungsfrage ohne vollständige Patienteninformation (kein Alter, Geschlecht, Unfallhergang, Anamnese etc.)\n- Bypass-OP (Definition)\n- Dulcolax (Pharmakologie)\n- Tetracycline (Pharmakologie)\n\nEs handelt sich um Fragmente aus einem mündlichen Prüfungsprotokoll, nicht um dokumentierte klinische Fälle mit ausreichenden Patientendetails."
+  }
+]

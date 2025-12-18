@@ -1,0 +1,176 @@
+[
+  {
+    "title": "Polytrauma nach Fahrradunfall",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Dyspnoe",
+      "Thoraxschmerzen",
+      "Handgelenkschmerzen"
+    ],
+    "accident_mechanism": "Patientin mit Fahrrad gefahren, Auto ist gegen sie gefahren, Sturz auf rechte Hand und Kopf",
+    "pre_existing_conditions": [
+      "Vorhofflimmern"
+    ],
+    "medications": [
+      "Rivaroxaban (Xarelto)",
+      "Blutverdünner"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Vitalparameter erhoben",
+      "SAMPLE-Anamnese",
+      "Allgemeine körperliche Untersuchung",
+      "Kopfplatzwunde"
+    ],
+    "imaging_findings": [
+      "Röntgen Thorax: kleiner Hämatothorax",
+      "Rippenfrakturen",
+      "Colles-Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma",
+      "Hämatothorax",
+      "Rippenfrakturen",
+      "Handgelenkfraktur"
+    ],
+    "diagnostic_approach": [
+      "Vitalparameter",
+      "SAMPLE-Anamnese",
+      "Körperliche Untersuchung",
+      "Röntgen Thorax",
+      "Sonographie zur Überwachung",
+      "Drainage-Anlage (verzögert wegen Antikoagulation)"
+    ]
+  },
+  {
+    "title": "Hypoglykämie bei Diabetes mellitus Typ 1",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Hypoglykämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 1"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hypoglykämie"
+    ],
+    "diagnostic_approach": [
+      "Glukoseinfusion mit Dosisberechnung",
+      "Therapie mit entsprechender Verabreichungsgeschwindigkeit"
+    ]
+  },
+  {
+    "title": "Verbrühung Brust und Bauch bei Kind",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Verbrühung"
+    ],
+    "accident_mechanism": "Verbrühung an Brust und Bauch",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Verbrennungsgrad",
+      "Verbrennungsausmaß nach Körperoberfläche berechnet"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Thermische Verletzung Grad II/III"
+    ],
+    "diagnostic_approach": [
+      "Analgesie",
+      "Verbrennungsgradeinteilung",
+      "Verlegung ins Verbrennungszentrum indiziert",
+      "Kontaktaufnahme über Leitstelle"
+    ]
+  },
+  {
+    "title": "Salmonellose-Gastroenteritis (Z.n. vor 18 Jahren)",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Durchfall"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Salmonellose-Gastroenteritis"
+    ],
+    "diagnostic_approach": [
+      "Durchfall-Typen differenzieren",
+      "Ursache: kontaminierte Nahrung",
+      "Antibiotikatherapie bei Indikation"
+    ]
+  },
+  {
+    "title": "Erythema migrans (Borreliose)",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Erythema migrans"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Erythema migrans im Bild"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Nachweis borrelienspezifischer Antikörper im Serum"
+    ],
+    "suspected_diagnosis": [
+      "Borreliose (Borrelia burgdorferi)"
+    ],
+    "diagnostic_approach": [
+      "Serologie: borrelienspezifische Antikörper",
+      "Therapie mit Doxycyclin"
+    ]
+  },
+  {
+    "title": "Anaphylaktischer Schock bei Wespengiftallergie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Anaphylaktischer Schock"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Wespengiftallergie"
+    ],
+    "medications": [],
+    "allergies": [
+      "Wespengift"
+    ],
+    "physical_examination": [
+      "Stridor bei Beteiligung der oberen Atemwege"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Anaphylaktischer Schock"
+    ],
+    "diagnostic_approach": [
+      "Graduierung des anaphylaktischen Schocks",
+      "Therapie mit Dosis",
+      "Adrenalin-Verneblung bei Stridor"
+    ]
+  }
+]

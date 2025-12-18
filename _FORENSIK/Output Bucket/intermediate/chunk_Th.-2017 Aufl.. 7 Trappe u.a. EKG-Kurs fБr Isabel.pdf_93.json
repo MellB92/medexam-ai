@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt ist Teil eines EKG-Lehrbuchs (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle**, sondern ausschließlich **EKG-Beispiele mit Interpretationsanleitungen**.\n\nDie Struktur ist wie folgt:\n- **EKG-Beispiel 37**: Ektop atriale Tachykardie mit Block\n- **EKG-Beispiel 38**: Vorhofflimmern\n- **EKG-Beispiel 39**: Leitungsaberranz bei Vorhofflimmern\n- **EKG-Beispiel 40**: Vorhofflattern\n- **EKG-Beispiel 41**: Ventrikuläre Extrasystolie\n\nJedes Beispiel folgt dem gleichen didaktischen Muster:\n1. Technische EKG-Befunde (Frequenz, Lagetyp, QRS-Breite, etc.)\n2. \"Deutung:\" mit EKG-Diagnose\n3. \"Kommentar:\" mit Erläuterungen\n\nEs werden **keine Patienteninformationen** präsentiert (kein Alter, Geschlecht, Anamnese, klinische Symptome, körperliche Untersuchung, Labor, bildgebende Verfahren oder therapeutische Überlegungen). Dies sind reine Lehrmaterial-EKGs zur Schulung der EKG-Interpretation, keine dokumentierten klinischen Fälle."
+  }
+]

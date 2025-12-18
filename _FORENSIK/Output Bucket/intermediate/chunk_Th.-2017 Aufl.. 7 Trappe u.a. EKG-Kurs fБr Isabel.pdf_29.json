@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 30/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle**.\n\nDer Text behandelt:\n- **Lektion 13**: \"Intraventrikuläre Leitungsstörungen – Rechtsschenkelblock, Linksschenkelblock, myokardiale Schädigung\"\n- Theoretische Erklärungen zu Erregungsausbreitungsstörungen\n- Anatomische Grundlagen (Tawara-Schenkel, Faszikel, Purkinje-Fasersystem)\n- EKG-Kriterien für Schenkelblockbilder\n- Schematische Abbildungen (Abb. 13.1 - 13.6)\n- Diagnostische Kriterien (QRS-Verbreiterung ≥ 120 msek, M-förmige Konfiguration)\n\nEs handelt sich um **rein didaktisches Lehrmaterial** ohne konkrete Patientenbeispiele, Fallvorstellungen oder klinische Präsentationen."
+  }
+]

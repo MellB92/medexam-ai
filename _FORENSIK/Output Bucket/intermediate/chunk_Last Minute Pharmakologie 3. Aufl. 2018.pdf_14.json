@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDer vorliegende Dokumentabschnitt (Chunk 15/115) besteht ausschließlich aus unlesbarem, verschlüsseltem oder korrupt encodiertem Text. Es handelt sich um eine Aneinanderreihung von zufällig erscheinenden Zeichen, Buchstaben und Zahlen ohne erkennbare Struktur oder medizinischen Inhalt.\n\nEs sind keine klinischen Fälle, Patientenpräsentationen oder medizinische Informationen extrahierbar. Der Text erscheint als:\n- Base64-ähnliche Kodierung\n- Verschlüsselte Daten\n- Korrupte PDF-Extraktion\n- Binärdaten, die fälschlicherweise als Text interpretiert wurden\n\nDaher: **Keine vollständigen klinischen Fälle gefunden.**"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Patientin mit blutigen Diarrhoen, Bauchschmerzen, Fieber und Gewichtsverlust\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\n      \"blutige Diarrhoen\",\n      \"Bauchschmerzen\",\n      \"Fieber\",\n      \"Gewichtsverlust\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"CED insbesondere Colitis Ulcerosa\",\n      \"Sigmadivertikulitis\",\n      \"infektiöse Gastroenteritis\",\n      \"Pyelonephritis\",\n      \"HWI\"\n    ],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

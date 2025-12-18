@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Hämaturie mit dysmorphen Micky-Maus-Erythrozyten\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Hämaturie\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\n      \"Dysmorphe Erythrozyten (Micky-Maus-Erythrozyten) im Urinsediment\",\n      \">40% dysmorphe Erythrozyten spricht für glomeruläre Genese\",\n      \">80% dysmorphe Erythrozyten = sicher glomerulär\"\n    ],\n    \"suspected_diagnosis\": [\n      \"Glomeruläre Hämaturie\",\n      \"Glomerulonephritis (akut/chronisch)\",\n      \"IgA-Nephropathie\",\n      \"Goodpasture-Syndrom\",\n      \"Lupusnephritis\",\n      \"Andere Vaskulitiden\"\n    ],\n    \"diagnostic_approach\": [\n      \"Urinsediment\",\n      \"Protein/Kreatinin-Quotient im Spontanurin\",\n      \"Serumkreatinin, eGFR\",\n      \"Blutbild, Gerinnung\",\n      \"ANA, ANCA, Anti-GBM-Antikörper\",\n      \"Komplementfaktoren C3, C4\",\n      \"Ggf. Nierenbiopsie nach §7 Transplantationsgesetz\"\n    ]\n  }\n]\n```"
+  }
+]

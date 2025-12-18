@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Immunthrombozytopenie (ITP) mit B-Symptomatik und Blutungsneigung",
+    "patient_age": "38-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Fieber seit 4 Wochen",
+      "Abgeschlagenheit",
+      "Nachtschweiß",
+      "2 kg Gewichtsverlust",
+      "Hämatome",
+      "Epistaxis",
+      "Zahnfleischbluten",
+      "Hämaturie",
+      "Petechien an den Beinen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Tonsillektomie",
+      "Z.n. distale Radiusfraktur vor 5 Jahren"
+    ],
+    "medications": [
+      "Orale Kontrazeptiva"
+    ],
+    "allergies": [
+      "Penicillin",
+      "Laktoseintoleranz"
+    ],
+    "physical_examination": [
+      "Petechien an den Beinen",
+      "Hämatome",
+      "Blutungszeichen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Thrombozytopenie <30.000/μl"
+    ],
+    "suspected_diagnosis": [
+      "Immunthrombozytopenie (ITP)",
+      "Thrombozytopenie mit klinisch relevanter Blutungsneigung"
+    ],
+    "diagnostic_approach": [
+      "Wiederholung in Citrat-Röhrchen (Ausschluss Pseudothrombozytopenie)",
+      "Blutausstrich: Thrombozytenaggregation, Fragmentozyten",
+      "BB mit Diff, Retikulozyten",
+      "LDH, Haptoglobin, Bilirubin",
+      "Quick/PTT, Fibrinogen",
+      "ANA, Anti-Phospholipid-AK",
+      "HIV, HCV, HBV, H. pylori",
+      "Ggf. Knochenmarkpunktion bei atypischem Verlauf"
+    ]
+  }
+]

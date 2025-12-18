@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 3/111) enthält **keine klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Impressum und Verlagsinformationen** (Herausgeber, ISBN, Verlagsadresse)\n2. **Rechtliche Hinweise** (Haftungsausschluss für Dosierungsangaben)\n3. **Vorwort zur 7. Auflage** (allgemeine Einführung zum EKG-Lehrbuch)\n4. **Beginn des Vorworts zur 1. Auflage** (Einführung der fiktiven Studentin \"Isabel\")\n\n**Isabel** ist keine echte Patientin, sondern eine **didaktische Figur** (Medizinstudentin), die als Lernbegleiterin durch das EKG-Lehrbuch führt. Es handelt sich um einen narrativen Rahmen für das Lehrbuch, nicht um einen klinischen Fall.\n\nEs werden keine Symptome, Untersuchungsbefunde, Diagnosen oder therapeutischen Maßnahmen an realen oder exemplarischen Patienten beschrieben."
+  }
+]

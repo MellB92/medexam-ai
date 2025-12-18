@@ -1,0 +1,268 @@
+[
+  {
+    "title": "32-jähriger Patient mit COPD-Exazerbation",
+    "patient_age": "32",
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "vermehrter Husten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "COPD"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Nikotinkonsum"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Raucher"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax",
+      "CT-Thorax bei Verlaufskontrolle"
+    ],
+    "laboratory_findings": [
+      "Leukozytose 13"
+    ],
+    "suspected_diagnosis": [
+      "viralbedingte Exazerbation bei COPD"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung",
+      "Labor",
+      "Röntgen-Thorax",
+      "CT-Thorax"
+    ],
+    "treatment_response": [
+      "keine Verbesserung nach ein paar Tagen"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Patient kommt nach ein paar Tagen wieder ohne Verbesserung",
+      "Röntgen-Thorax-Kontrolle und CT-Thorax"
+    ]
+  },
+  {
+    "title": "Raucher mit Husten und zentralem Lungenkarzinom",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Husten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Rauchen"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Raucher"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax: Erweiterung des Lungenhilus und des Mediastinums",
+      "CT: zentrale Masse"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Adenokarzinom"
+    ],
+    "diagnostic_approach": [
+      "Anamnese zu B-Symptomen, Auswurf, Hustendauer",
+      "Röntgen-Thorax in zwei Ebenen",
+      "CT-Thorax",
+      "Bronchoskopie mit transbronchialer Biopsie",
+      "EBUS",
+      "Thorakoskopie bzw. Mediastinoskopie",
+      "CT Abdomen und Becken mit KM",
+      "Knochenszintigraphie oder PET-CT"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Raucher mit Husten und kleinzelligem Bronchialkarzinom (ZNA)",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Husten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Rauchen"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Raucher"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax: zentrale Raumforderung",
+      "CT-Thorax"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "kleinzelliges Bronchialkarzinom (SCLC)"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax",
+      "CT-Thorax",
+      "Klassifikation",
+      "Diagnostik"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "64-jähriger adipöser Patient mit trockenem Husten",
+    "patient_age": "64",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "trockener Husten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [
+      "Adipositas"
+    ],
+    "risk_factors": [
+      "Adipositas"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenembolie"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Junger Mann mit Tuberkulose und B-Symptomatik",
+    "patient_age": "jung",
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "B-Symptomatik"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax: Opazität im rechten unteren Hemithorax"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tuberkulose"
+    ],
+    "diagnostic_approach": [
+      "Isolierung",
+      "Sputumuntersuchung",
+      "Meldung beim Gesundheitsamt (Meldepflicht)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit inspiratorischem Stridor und Atemnot",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "inspiratorischer Stridor",
+      "Atemnot"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Atemwegsobstruktion"
+    ],
+    "diagnostic_approach": [
+      "Koniotomie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Abgeschlagener Patient mit anhaltendem trockenem Husten",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "anhaltender trockener Husten",
+      "Abgeschlagenheit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom",
+      "Tuberkulose"
+    ],
+    "diagnostic_approach": [
+      "Bronchoskopie bei zentralem Tumor mit Schlingenbiopsie und Bronchialsekret",
+      "transthorakale oder thorakoskopische Biopsie bei peripherem Tumor",
+      "Sputumuntersuchung bei Tuberkulose",
+      "Röntgen-Thorax"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Administrative Notiz** (Fragen 451-459): Bestätigung, dass Antworten geprüft wurden\n2. **Theoretische Frage 460**: \"Warum Metamizol bei Urolithiasis?\"\n   - Dies ist eine **allgemeine pharmakologische Wissensfrage**\n   - Es wird KEIN konkreter Patient vorgestellt\n   - Es gibt keine spezifische klinische Präsentation\n   - Die Antwort listet pharmakologische Eigenschaften, Dosierungen, rechtliche Aspekte und Kontraindikationen auf\n\n**Keine Extraktion, da:**\n- Kein konkreter Patientenfall\n- Keine Anamnese oder klinische Präsentation\n- Rein theoretisches Lehrmaterial über Medikamentenwahl bei einer Erkrankung\n- Keine diagnostischen oder therapeutischen Schritte an einem spezifischen Fall"
+  }
+]

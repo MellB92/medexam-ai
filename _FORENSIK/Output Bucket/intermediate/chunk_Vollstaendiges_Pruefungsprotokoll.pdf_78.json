@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Verdacht auf chronisch entzündliche Darmerkrankung (CED) - Frau Schuster",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Beschwerden des Verdauungstrakts",
+      "Entzündliche Darmsymptomatik"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Ultraschalluntersuchung des Abdomens geplant"
+    ],
+    "laboratory_findings": [
+      "Blutbild geplant",
+      "Entzündungsparameter geplant",
+      "Elektrolyte geplant",
+      "Leber- und Nierenwerte geplant"
+    ],
+    "suspected_diagnosis": [
+      "Colitis ulcerosa (CED)",
+      "Infektiöse Gastroenteritis (Salmonellen, Campylobacter, Shigellen)",
+      "Morbus Crohn",
+      "Divertikulitis",
+      "Reizdarmsyndrom",
+      "Kolorektales Karzinom",
+      "Mikroskopische Kolitis",
+      "Ischämische Kolitis",
+      "Bakterielle Diarrhö",
+      "HWI",
+      "Gynäkologische Ursachen"
+    ],
+    "diagnostic_approach": [
+      "Laboruntersuchungen (Blutbild, Entzündungsparameter, Elektrolyte, Leber- und Nierenwerte)",
+      "Ultraschalluntersuchung des Abdomens",
+      "Koloskopie mit Gewebeprobe bei Bedarf"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Kopfverletzung und Fingerfraktur nach Kreislaufkollaps beim Anblick von Blut",
+    "patient_age": "jung (genaues Alter nicht angegeben)",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Kopfschmerzen",
+      "Kopfverletzung",
+      "Fingerverletzung"
+    ],
+    "accident_mechanism": "Kreislaufprobleme und Sturz beim Anblick von Blut (Ehemann hatte sich verletzt), dabei Kopfverletzung und Fingerfraktur erlitten",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Patientin ansprechbar",
+      "normale Beweglichkeit",
+      "HWS unauffällig",
+      "Kopf untersucht",
+      "neurologische Untersuchung inkl. Reflexe durchgeführt",
+      "PDMS am Finger geprüft",
+      "Lunge untersucht",
+      "Herz auskultiert",
+      "Abdomen palpiert",
+      "Blutdruck gemessen",
+      "Pulse getastet",
+      "kleiner Finger offenbar gebrochen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kopfverletzung",
+      "Fraktur der distalen Phalange (kleiner Finger)",
+      "Synkope (vasovagal)"
+    ],
+    "diagnostic_approach": [
+      "Basisanamnese (Name, Alter, Größe, Gewicht, Geburtsdatum)",
+      "Systematische körperliche Untersuchung",
+      "Schwangerschaftstest erwägen",
+      "Bildgebung Schädel bei Red Flags",
+      "Röntgen Finger",
+      "Laborkarte mit Kreuzprobe (falls OP bei Blutung nötig)"
+    ]
+  },
+  {
+    "title": "HWS-Distorsion und Fraktur der distalen Phalange",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Sturz am Kopf"
+    ],
+    "accident_mechanism": "Sturz am Kopf",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "neurologisch unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "HWS-Distorsion",
+      "Fraktur der distalen Phalange"
+    ],
+    "diagnostic_approach": []
+  }
+]

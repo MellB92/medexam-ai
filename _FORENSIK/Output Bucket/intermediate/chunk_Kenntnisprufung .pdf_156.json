@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Meningitis-Verdacht mit Nackensteifigkeit nach Busreise",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "critical",
+    "chief_complaints": [
+      "Kopfschmerzen seit gestern Abend (8/10)",
+      "Ausstrahlung in den Nacken mit Nackensteifigkeit",
+      "Lichtempfindlichkeit",
+      "Übelkeit und Erbrechen",
+      "Fiebergefühl",
+      "Müdigkeit und Schlappheit"
+    ],
+    "accident_mechanism": "Tasche fiel vor 3 Tagen während Busreise in Äthiopien auf den Nacken",
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Herzrhythmusstörung (nimmt ASS)",
+      "Z.n. Armfraktur vor 3 Jahren (konservativ mit Gipschiene behandelt)",
+      "Chronische Schmerzen im Arm seit Fraktur"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater an Speiseröhrenkrebs gestorben",
+      "Mutter hatte Leberversagen"
+    ],
+    "social_history": [
+      "Verheiratet",
+      "2 Kinder (gesund)",
+      "Nichtraucherin",
+      "Gelegentlich Wein",
+      "Keine Drogen"
+    ],
+    "medications": [
+      "Blutdrucksenker (Name unbekannt)",
+      "ASS"
+    ],
+    "allergies": [
+      "Pollen",
+      "Antibiotika (Name unbekannt)"
+    ],
+    "vital_signs": [
+      "Temperatur 37,9°C",
+      "Vitalzeichen sonst stabil"
+    ],
+    "physical_examination": [
+      "Meningismus",
+      "Brudzinski-Zeichen nicht vollständig durchführbar wegen starker Schmerzen",
+      "Kernig-Zeichen nicht durchgeführt (Schmerzen ziehen in Nacken)",
+      "Kraft 3/5",
+      "Fußpulse (Dorsalis pedis) tastbar",
+      "Babinski-Zeichen negativ"
+    ],
+    "imaging_findings": [
+      "Lumbalpunktion: Liquor trüb (nicht klar wie normal)"
+    ],
+    "laboratory_findings": [
+      "Blutbild angefordert",
+      "Blutkulturen (aerob und anaerob) entnommen"
+    ],
+    "suspected_diagnosis": [
+      "Meningitis (bakteriell, möglicherweise Meningokokken)",
+      "SHT mit Blutung",
+      "Wirbelkörperfraktur"
+    ],
+    "diagnostic_approach": [
+      "CT Kopf und HWS",
+      "Blutbild",
+      "Blutkulturen vor Antibiotikagabe",
+      "Lumbalpunktion",
+      "EKG"
+    ],
+    "treatment_response": [
+      "Antibiotikatherapie: Cephalosporin 3. Generation plus Ampicillin"
+    ],
+    "complications": [
+      "Vorhofflimmern im EKG",
+      "Patient verstorben"
+    ],
+    "follow_up": [
+      "Totenschein ausfüllen"
+    ]
+  },
+  {
+    "title": "Herpes Zoster mit Flankenschmerzen",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen in linker Flanke"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Typische segmentale Lokalisation (Dermatome)",
+      "Charakteristisches Hautbild für Herpes Zoster"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Herpes Zoster"
+    ],
+    "diagnostic_approach": [
+      "Klinische Diagnose anhand typischer Dermatome und Hautveränderungen"
+    ],
+    "treatment_response": [
+      "Aciclovir (verschiedene Formen)",
+      "IV-Form bei schweren Fällen",
+      "Schmerzmittel"
+    ],
+    "complications": [
+      "Kann im Gesicht auftreten (weniger typisches Aussehen)"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Brustschmerzen und Luftnot mit metabolischer Azidose",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Brustschmerzen",
+      "Luftnot"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Schlechte Sauerstoffsättigung"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Multi-Detektor-CT durchgeführt"
+    ],
+    "laboratory_findings": [
+      "BGA: metabolische Azidose",
+      "Hyperkaliämie",
+      "Laktat erhöht"
+    ],
+    "suspected_diagnosis": [
+      "Mesenteriale Ischämie",
+      "Hypoxie"
+    ],
+    "diagnostic_approach": [
+      "Notarztruf 112",
+      "Monitoring Vitalzeichen",
+      "EKG",
+      "BGA",
+      "Multi-Detektor-CT"
+    ],
+    "treatment_response": [
+      "Inhalation mit Beta-Sympathomimetika (8-10 Ampullen)"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

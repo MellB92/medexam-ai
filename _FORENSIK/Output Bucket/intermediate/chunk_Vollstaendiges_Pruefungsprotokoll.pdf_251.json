@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Trauma mit Schmerzen am rechten Fuß und rechter Hand nach Sturz\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Schmerzen am rechten Fuß\", \"Schmerzen in der rechten Hand\"],\n    \"accident_mechanism\": \"Sturz\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"pDMS überprüft\", \"beidseitige Untersuchung\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Fraktur des oberen Sprunggelenks (OSG)\", \"Fraktur der Handwurzelknochen\"],\n    \"diagnostic_approach\": [\"Röntgenaufnahme des oberen Sprunggelenks in zwei Ebenen (AP und seitlich)\", \"Viggo\", \"Labor\", \"Kühlung\", \"Hochlagerung\", \"Ruhigstellung\"]\n  }\n]\n```"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Multiples Myelom mit erhöhten Gamma-Globulinen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Serumelektrophorese zeigt erhöhte Gamma-Globuline",
+      "Schrotschusskranium mit multiplen rundlichen Aufhellungen im Schädelknochen im CT",
+      "Multiple osteolytische Läsionen durch erhöhte osteoklastische Aktivität"
+    ],
+    "laboratory_findings": [
+      "Erhöhte Gamma-Globuline in Serumelektrophorese",
+      "BSG 72 mm in der ersten Stunde erhöht",
+      "Hyperkalzämie durch Knochenabbau"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom",
+      "Monoklonale Gammopathie unklarer Signifikanz (MGUS)",
+      "Morbus Waldenström",
+      "Chronische Infektionen"
+    ],
+    "diagnostic_approach": [
+      "Niedrigdosis-CT des Skeletts zur Suche nach osteolytischen Läsionen",
+      "Knochenmarkpunktion mit histologischer und zytologischer Untersuchung",
+      "Quantifizierung der Plasmazellpopulation"
+    ]
+  },
+  {
+    "title": "AV-Block II. Grades Typ Wenckebach im EKG",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG zeigt AV-Block II. Grades vom Typ Wenckebach (Mobitz Typ I)",
+      "Progrediente PQ-Zeitverlängerung mit ausfallenden QRS-Komplexen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "AV-Block II. Grades Typ Wenckebach (Mobitz Typ I)"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Rippenserienfrakturen mit Hämatothorax",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild zeigt Rippenfrakturen",
+      "Bülau-Drainage sichtbar",
+      "Zwei Elektroden sichtbar",
+      "Vermehrte Verschattung auf der linken Seite",
+      "Frakturen der Rippen mit Lokalisation und möglicher Dislokation"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rippenserienfrakturen",
+      "Hämatothorax",
+      "Pneumothorax",
+      "Lungenkontusion",
+      "Herzkontusion"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax",
+      "Drainage-Anlage (Bülau-Drainage)",
+      "Monitoring"
+    ]
+  }
+]

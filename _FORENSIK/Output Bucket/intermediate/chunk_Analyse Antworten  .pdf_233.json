@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle** mit Patientenvorstellungen. \n\nDer gesamte Abschnitt besteht aus:\n\n1. **Theoretischen Prüfungsfragen** mit standardisierten Antworten zu:\n   - CABCDE-Schema und Reanimation\n   - Anatomie (Retroperitonealraum, Fibulastrukturen)\n   - Strahlenschutz (ALARA-Prinzip)\n   - Alkoholintoxikation und PsychKG\n   - Harnwegsinfektionen (Medikamente)\n   - Glasgow Coma Scale\n   - Koma-Stadien\n   - Bildgebung (CT/Röntgen) - allgemeine Beschreibung\n   - Patientenverfügung/Vorsorgevollmacht\n   - Cholezystolithiasis (theoretisches Vorgehen)\n   - Cholezystektomie-Komplikationen\n   - Calot-Dreieck\n\n2. **Format:** Alle Einträge folgen dem Schema:\n   - Frage → antwort_kandidat (\"Nicht im Protokoll enthalten\") → musterloesung_leitlinie → analyse_fehler_tipps (\"Keine Analyse möglich\")\n\n3. **Keine konkreten Patientenfälle** mit:\n   - Spezifischem Patientenalter/-geschlecht\n   - Individueller Anamnese\n   - Konkreten Beschwerden\n   - Spezifischen Untersuchungsbefunden\n   - Individueller Diagnostik/Therapie\n\nDies ist ein Prüfungsprotokoll mit theoretischen Wissensfragen, keine Fallsammlung."
+  }
+]

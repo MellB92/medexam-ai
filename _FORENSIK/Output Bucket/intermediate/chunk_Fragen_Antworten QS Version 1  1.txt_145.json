@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle** im Sinne von Fallpräsentationen. \n\nDer Text besteht aus:\n\n1. **FRAGE 272 (implizit)**: Theoretische Darstellung von Dialyseformen, Indikationen, Vor-/Nachteilen und rechtlichen Aspekten - **rein didaktisches Material**\n\n2. **FRAGE 273**: \"Distale Radiusfraktur - Typen?\" - Dies ist eine theoretische Frage zur **Klassifikation** (AO, Frykman, Eponyme wie Colles, Smith etc.) ohne konkreten Patientenfall\n\n3. **FRAGE 274**: \"DRF - Komplikationen?\" - Der Text bricht ab und behandelt dann **Komplikationen der digitalen rektalen Untersuchung** (nicht distale Radiusfraktur!), wiederum als **theoretische Auflistung** ohne Patientenbezug\n\nEs handelt sich durchweg um **Lehrbuchinhalte** und **Prüfungswissen** im Frage-Antwort-Format, nicht um klinische Fallpräsentationen mit konkreten Patienten, Anamnese, Befunden und diagnostischem Vorgehen."
+  }
+]

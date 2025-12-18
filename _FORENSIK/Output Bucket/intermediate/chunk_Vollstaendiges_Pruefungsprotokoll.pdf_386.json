@@ -1,0 +1,164 @@
+[
+  {
+    "title": "Schulterluxation",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Schulterluxation"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "pDMS-Prüfung (Puls, Durchblutung, Motorik, Sensibilität)"
+    ],
+    "imaging_findings": [
+      "Anteriore Luxation"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Anteriore Schulterluxation"
+    ],
+    "diagnostic_approach": [
+      "pDMS-Prüfung zur Ausschluss von Nerven- und Gefäßverletzungen"
+    ]
+  },
+  {
+    "title": "Claviculafraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Claviculafraktur"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Claviculafraktur (Bild)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Claviculafraktur",
+      "Mögliche Begleitverletzungen: Pneumothorax, Nerven-, Arterienverletzungen"
+    ],
+    "diagnostic_approach": [
+      "Bildgebung",
+      "Ausschluss von Begleitverletzungen"
+    ]
+  },
+  {
+    "title": "Radialisparese mit Fallhand",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Fallhand"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Fallhand (vorgespielt)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Radialisparese"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Cushing-Syndrom mit Nebennierentumor",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Cushing-Bild"
+    ],
+    "imaging_findings": [
+      "Tumor (4 cm) in der Nebenniere"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Cushing-Syndrom",
+      "Ektopischer ACTH-produzierender Tumor"
+    ],
+    "diagnostic_approach": [
+      "CT Abdomen/Thorax zur Suche nach ektopischem ACTH-produzierenden Tumor"
+    ]
+  },
+  {
+    "title": "Pneumoperitoneum mit mesenteriale Ischämie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Intraoperativer Befund: Darmschnitt - hell"
+    ],
+    "imaging_findings": [
+      "Pneumoperitoneum (Bild)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Mesenteriale Ischämie"
+    ],
+    "diagnostic_approach": [
+      "Explorative Laparotomie",
+      "ggf. Laparoskopie"
+    ]
+  },
+  {
+    "title": "Paronychie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Schmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Bild mit Paronychie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Paronychie"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Augenverletzung bei der Arbeit (Arbeitsunfall)",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Augenverletzung"
+    ],
+    "accident_mechanism": "Verletzung bei der Arbeit",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Augenverletzung"
+    ],
+    "diagnostic_approach": [
+      "Augenarztuntersuchung",
+      "Meldung an D-Arzt"
+    ]
+  }
+]

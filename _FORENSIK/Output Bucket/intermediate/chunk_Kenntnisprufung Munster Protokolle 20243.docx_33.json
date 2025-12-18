@@ -1,0 +1,87 @@
+[
+  {
+    "title": "GERD bei 51-jährigem Mann mit NSAID-Einnahme",
+    "patient_age": "51-jährig",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "seit 2 Wochen epigastrische zunehmende Schmerzen",
+      "Sodbrennen",
+      "Aufstoßen",
+      "Reizhusten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Divertikulitis konservativ behandelt",
+      "Z.n. Schilddrüsen-OP wegen Knoten",
+      "Z.n. Handgelenkfraktur konservativ behandelt"
+    ],
+    "medications": [
+      "Ibuprofen 600mg 3x täglich seit ca. 5 Monaten",
+      "L-Thyroxin 100mcg pro Tag"
+    ],
+    "allergies": [
+      "Allergie gegen Senf",
+      "Nikotinkonsum 25 pack years"
+    ],
+    "physical_examination": [
+      "Blutdruck beidseits gemessen",
+      "Puls gemessen",
+      "Herz auskultiert",
+      "Lungen auskultiert",
+      "Nieren untersucht",
+      "Schilddrüse untersucht",
+      "Lymphknoten untersucht",
+      "Abdomen untersucht",
+      "Motorik und Sensibilität geprüft",
+      "Hirnnerven grob untersucht",
+      "Rektus Diastase",
+      "sonst unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "GERD (Gastroösophageale Refluxkrankheit)"
+    ],
+    "diagnostic_approach": [
+      "Ausschluss ACS",
+      "ÖGD (Ösophagogastroduodenoskopie)",
+      "empirische Therapie mit PPI möglich bei fehlenden Red Flags",
+      "Venöser Zugang gelegt"
+    ]
+  },
+  {
+    "title": "GERD bei 67-jähriger Patientin nach NSAID-Einnahme",
+    "patient_age": "67-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "epigastrische Schmerzen",
+      "brennend",
+      "retrosternale Ausstrahlung",
+      "von Nahrung und Lage abhängig",
+      "Regurgitation",
+      "Meteorismus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Handgelenkfraktur (in letzten 5 Monaten)"
+    ],
+    "medications": [
+      "viel NSAID in letzten 5 Monaten"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Komplette Untersuchung von Kopf bis Fuß durchgeführt",
+      "Reflexe untersucht"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "GERD (Gastroösophageale Refluxkrankheit)"
+    ],
+    "diagnostic_approach": [
+      "Vollständige Anamnese inkl. Schmerzanamnese und B-Symptomatik",
+      "Körperliche Untersuchung",
+      "Laborwerte angekreuzt"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle** mit konkreten Patientenpräsentationen. \n\nDer Text besteht ausschließlich aus:\n\n1. **Prüfungsthemen-Auflistung** (HWI, Koma, Grünholzfraktur, etc.)\n2. **Theoretische Fragen und Antworten** aus einer medizinischen Prüfung, z.B.:\n   - \"Welche Medikamente können ein Delir verursachen?\"\n   - \"Wie wird eine Claviculafraktur therapiert?\"\n   - \"Welche Nerven können verletzt werden?\"\n3. **Lehrbuch-artige Beschreibungen** von Röntgenbildern und Pathologien ohne konkrete Patientenangaben\n4. **Musterlösungen** zu Prüfungsfragen\n\n**Wichtig:** Obwohl Begriffe wie \"CT-Bild mit retroperitonealer Blutung\" oder \"Röntgenbild von Kniegelenk mit Gonarthrose\" vorkommen, handelt es sich dabei um **abstrakte Prüfungsfragen**, nicht um konkrete Patientenfälle mit Anamnese, Alter, Geschlecht oder spezifischen klinischen Details.\n\nEin klinischer Fall würde z.B. lauten: \"65-jähriger Mann kommt nach Sturz mit Schulterschmerzen, Röntgen zeigt dislozierte Claviculafraktur...\" - solche konkreten Patientenpräsentationen sind hier nicht vorhanden."
+  }
+]

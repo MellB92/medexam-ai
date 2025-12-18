@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Prüfungsfragen und theoretischem Wissen** zu verschiedenen Themen wie:\n   - Hyperthyreose (M. Basedow, Autonomie, Diagnostik, Therapie)\n   - Amiodaron und seine Nebenwirkungen\n   - EKG-Befunde (VHF, inferiorer MI)\n   - Herzinsuffizienz\n   - Bariatrische Chirurgie\n   - Frakturen (pertrochantär, Weber-C)\n   - Analfissur\n   - Boerhaave-Syndrom\n   - Hämatothorax\n\n2. **Bildmaterial zur Prüfung** (EKGs, Röntgenbilder, CT), die jedoch nur als Prüfungsfragen präsentiert werden, nicht als vollständige Patientenfälle\n\n3. **Prüfungsprotokoll und Erfahrungsbericht** eines Kandidaten\n\nEs gibt **keine strukturierte Patientenvorstellung** mit vollständiger Anamnese, Befunden und Fallbeschreibung. Die erwähnten medizinischen Situationen sind ausschließlich theoretische Prüfungsfragen ohne konkrete Patientendetails (kein Alter, kein spezifischer Vorstellungsgrund mit Anamnese, keine vollständige Befundkonstellation).\n\nDer am Ende begonnene Satz \"Mein Fall:\" deutet darauf hin, dass ein konkreter Fall folgen könnte, aber dieser ist in diesem Chunk nicht enthalten (vermutlich in Chunk 15)."
+  }
+]

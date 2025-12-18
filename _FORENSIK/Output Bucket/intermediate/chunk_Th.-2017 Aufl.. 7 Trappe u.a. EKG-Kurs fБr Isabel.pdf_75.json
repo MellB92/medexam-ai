@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 76/111) aus einem EKG-Lehrbuch enthält **keine vollständigen klinischen Patientenfälle**.\n\nDer Text behandelt:\n\n1. **EKG-Besonderheiten bei Kindern und Jugendlichen** (Lektion 32)\n   - Allgemeine epidemiologische Daten (z.B. \"Prävalenzen von ca. 4:1000\")\n   - Physiologische Normwerte nach Altersgruppen (Herzfrequenz, QRS-Dauer, etc.)\n   - Typische EKG-Befunde im Kindesalter (respiratorische Sinusarrhythmie, inkompletter Rechtsschenkelblock)\n   - Syndrome (Wolff-Parkinson-White-Syndrom, Romano-Ward-Syndrom, etc.)\n\n2. **Systematik der EKG-Befundung** (Lektion 33)\n   - Methodische Anleitung zur EKG-Analyse in 5 Schritten\n   - Verweise auf EKG-Beispiele in anderen Lektionen\n\nEs handelt sich um **didaktisches Lehrmaterial** mit theoretischem Wissen, Normwerten und allgemeinen Krankheitsbildern, aber **ohne konkrete Patientenfälle** mit individuellen Anamnesen, Befunden oder Behandlungsverläufen."
+  }
+]

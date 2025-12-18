@@ -1,0 +1,189 @@
+[
+  {
+    "title": "Passagere Angina Pectoris nach körperlicher Belastung bei Mann mit kardiovaskulären Risikofaktoren",
+    "patient_age": null,
+    "patient_gender": "Mann",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Passagere Angina Pectoris nach körperlicher Belastung (ca. 10 Min)",
+      "Bei Aufnahme keine akute Beschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Diabetes mellitus Typ 2",
+      "BSV (Bandscheibenvorfall)",
+      "Z.n. Bauchhernie Operation",
+      "Z.n. BSV Operation"
+    ],
+    "comorbidities": [
+      "Polyneuropathie (PNP)"
+    ],
+    "risk_factors": [
+      "Raucher",
+      "Alkohol ab und zu"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Raucher",
+      "Alkohol ab und zu"
+    ],
+    "medications": [
+      "Metformin",
+      "Lisinopril",
+      "Simeticon"
+    ],
+    "allergies": [
+      "Keine Allergie"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "PNP (Polyneuropathie)",
+      "Sonst keine Auffälligkeit",
+      "Komplette körperliche Untersuchung + neurologische Untersuchungen durchgeführt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "EKG ohne pathologischen Befund",
+      "Troponin ohne pathologischen Befund"
+    ],
+    "suspected_diagnosis": [
+      "Angina Pectoris",
+      "KHK (Koronare Herzkrankheit)"
+    ],
+    "diagnostic_approach": [
+      "EKG (vom Hausarzt)",
+      "Troponin-Bestimmung (vom Hausarzt)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Akutes Koronarsyndrom mit Hinterwandinfarkt bei Diabetes mellitus Typ 2",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Akutes Koronarsyndrom (ACS)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 2",
+      "Diabetische Polyneuropathie"
+    ],
+    "comorbidities": [
+      "Diabetische Nephropathie"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: Hinterwandinfarkt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akutes Koronarsyndrom (ACS)",
+      "STEMI (Hinterwandinfarkt)",
+      "Non-STEMI"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "GFR-Bestimmung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Leichtkraftverkehrsunfall mit distaler Radiusfraktur nach Synkope und Vertigo",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Z.n. Vertigo",
+      "Z.n. Synkope",
+      "Handgelenk verletzt",
+      "Unterbauch verletzt"
+    ],
+    "accident_mechanism": "LKV Autounfall (Leichtkraftverkehrsunfall)",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Ganze Fall sonst unauffällig"
+    ],
+    "imaging_findings": [
+      "Distale Radiusfraktur im Röntgen",
+      "Colles-Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Distale Radiusfraktur (Colles-Fraktur)",
+      "Morbus Züdek - CRPS (Complex Regional Pain Syndrome)",
+      "Synkope",
+      "Bradykardie als Ursache"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Handgelenk",
+      "EKG (AV-Block)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Akute Appendizitis bei 63-jähriger Frau",
+    "patient_age": "63 Jahre (Jahrgang 1959)",
+    "patient_gender": "Frau",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Akut aufgetretene, seit einem Tag bestehende epigastrische Schmerzen mit Wanderung in rechten Unterbauch (8/10 auf Schmerzskala)",
+      "Übelkeit mit einmaligem Vomitus",
+      "Inappetenz",
+      "Fiebergefühl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck gemessen",
+      "Herzfrequenz gemessen"
+    ],
+    "physical_examination": [
+      "Mc-Burny-Zeichen positiv",
+      "Blumberg-Zeichen positiv",
+      "Rowsing-Zeichen positiv",
+      "Kein Nierenklopfschmerz",
+      "Kein Ikterus",
+      "Keine Beschwerden bei Miktion",
+      "Keine Beschwerden bei Defäkation"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akute Appendizitis"
+    ],
+    "diagnostic_approach": [
+      "Körperliche Untersuchung mit typischen Appendizitis-Zeichen",
+      "Ausschluss anderer Ursachen des akuten Abdomens"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

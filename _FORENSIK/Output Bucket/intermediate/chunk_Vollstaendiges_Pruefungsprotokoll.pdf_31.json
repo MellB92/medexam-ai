@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 32/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Prüfungsfragen mit Musterantworten** zu theoretischem medizinischem Wissen:\n   - VT-Therapie (EKG-Interpretation)\n   - 4 Säulen der Herzinsuffizienztherapie\n   - Weber-Klassifikation\n   - Ileus-Definitionen\n   - SIRS-Kriterien\n   - Sepsis-Definition\n   - Strahlenschutz\n   - Reanimationsmaßnahmen\n   - Rechtliche Fragen (Anwalt, Ärztekammer)\n\n2. **Bildgebungsfragen** ohne vollständige Fallkontexte:\n   - \"Nativ-CT Thorax: Was sehen Sie?\" → nur Antwort: \"Infiltration der Lunge rechts\"\n   - \"Röntgen Sprunggelenk: Weber-Klassifikation?\"\n\nDiese Fragen sind **isolierte Wissensabfragen** ohne Patientenkontext (kein Alter, Geschlecht, Anamnese, vollständige klinische Präsentation). Es handelt sich um ein Prüfungsprotokoll mit theoretischen Fragen, nicht um dokumentierte Patientenfälle."
+  }
+]

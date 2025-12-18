@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Vorderes Kreuzbandruptur mit geplanter Südafrika-Reise",
+    "patient_age": null,
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "Kreuzbandruptur"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Geplante Reise zum Bruder nach Südafrika"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "MRT: Vorderes Kreuzbandruptur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vorderes Kreuzbandruptur"
+    ],
+    "diagnostic_approach": [
+      "Klinische Untersuchung für vorderes Kreuzbandruptur",
+      "MRT"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

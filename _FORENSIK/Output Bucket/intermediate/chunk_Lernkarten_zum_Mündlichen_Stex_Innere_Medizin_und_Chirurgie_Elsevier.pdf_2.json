@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 3/84) enthält ausschließlich eine **Abkürzungsliste** aus einem medizinischen Lehrbuch (\"Lernkarten zum Mündlichen Stex Innere Medizin und Chirurgie\"). \n\nEs handelt sich um ein Abkürzungsverzeichnis mit medizinischen Fachbegriffen und deren Erklärungen (z.B. GCS = Glasgow Coma Scale, HbA1c = glykiertes Hämoglobin A1, STEMI = ST-Streckenhebungsinfarkt, etc.).\n\n**Es sind keine klinischen Patientenfälle vorhanden**, da:\n- Keine Patientenbeschreibungen vorliegen\n- Keine Anamnesen oder Beschwerden geschildert werden\n- Keine Untersuchungsbefunde dokumentiert sind\n- Keine diagnostischen oder therapeutischen Verläufe beschrieben werden\n\nDies ist reines Referenzmaterial/Nachschlagewerk ohne Fallpräsentationen."
+  }
+]

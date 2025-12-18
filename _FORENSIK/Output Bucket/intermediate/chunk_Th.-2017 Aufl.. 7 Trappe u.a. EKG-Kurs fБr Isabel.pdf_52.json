@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt stammt aus einem EKG-Lehrbuch (EKG-Kurs) und enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer Text behandelt:\n- Theoretisches Wissen über EKG-Befunde bei Perikarditis und Myokarditis\n- Beschreibung typischer elektrokardiografischer Veränderungen (ST-Strecken-Hebung, T-Wellen-Veränderungen, Niedervoltage)\n- Differentialdiagnostische Abgrenzung zum Infarkt-EKG\n- Schematische Abbildungen von EKG-Mustern (Abb. 22.1-22.6)\n- Allgemeine pathophysiologische Erklärungen\n\nEs handelt sich um rein didaktisches Material ohne konkrete Patientenbeispiele mit individuellen Anamnesen, Befunden oder diagnostischen Abläufen."
+  }
+]

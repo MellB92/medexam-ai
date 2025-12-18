@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Chronisch entzündliche Darmerkrankung bei Frau Schuster",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Durchfall"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Ödeme"
+    ],
+    "imaging_findings": [
+      "Koloskopie: deutlich gerötet und entzündet",
+      "Pflastersteinrelief",
+      "Fibrin"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "CED (chronisch entzündliche Darmerkrankung)",
+      "DD: bakterielle Diarrhö",
+      "DD: Divertikulitis",
+      "DD: Kolorektalkarzinom",
+      "DD: Harnwegsinfekt",
+      "DD: Gynäkologische Ursachen"
+    ],
+    "diagnostic_approach": [
+      "Blutabnahme: BB, CRP, BSG, Nierenwerte, Leberparameter",
+      "Bei Anämie: MCV, MCH, Eisenprofil, Retikulozyten",
+      "Abdomensonographie",
+      "EKG (wegen extraintestinalen Manifestationen)",
+      "Koloskopie mit Biopsien",
+      "Alternativ: Rektosigmoidoskopie oder Proktoskopie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

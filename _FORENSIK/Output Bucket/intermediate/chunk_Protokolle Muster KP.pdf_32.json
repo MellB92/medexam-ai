@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Sjögren-Syndrom mit Knieschmerzen und Parotisschwellung",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Müdigkeit",
+      "Brennen beim Wasserlassen seit 3 Wochen",
+      "Schmerzen in beiden Kniegelenken",
+      "Druckschmerz Parotis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Schmerzen in Kniegelenk bds.",
+      "Druckschmerz im Parotisbereich",
+      "Schubladentest für VKB demonstriert"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sjögren-Syndrom"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Fahrradunfall mit Rippenfrakturen und Unterarmverletzung",
+    "patient_age": "65J",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Schmerzen auf dem rechten Rippenbogen",
+      "Schmerzen rechter Unterarm und Hand",
+      "chronische Schulter-Schmerzen"
+    ],
+    "accident_mechanism": "Patientin beim Fahrradfahren auf einem PKW gestürzt, Sturz auf die Hand",
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "Vorhofflimmern",
+      "Mamma-Ca vor 15 Jahren operiert und bestrahlt",
+      "Polyp bei Koloskopie entfernt (Zufallsbefund)"
+    ],
+    "medications": [
+      "Lisinopril 20mg",
+      "Marcumar"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Verband auf dem Unterarm",
+      "gebrochene Brille, aber keine Gesichtsverletzungen",
+      "Lunge untersucht",
+      "Abdomen untersucht",
+      "Hand (DMS)",
+      "grobe neurologische Untersuchung"
+    ],
+    "imaging_findings": [
+      "Röntgen: distale Radiusfraktur",
+      "Thorax p.a.: vergrößerte Herzschatten",
+      "paraösophageale Hernie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rippenbogenfrakturen",
+      "Rippenserienfraktur",
+      "distale Radiusfraktur (Colles-Fraktur möglich)",
+      "Skaphoidfraktur",
+      "mögliche Leber-/Milz-/Lungen-/Herzverletzung"
+    ],
+    "diagnostic_approach": [
+      "Blutdruckmessung an beiden Armen",
+      "Röntgen Unterarm",
+      "Röntgen Thorax"
+    ]
+  }
+]

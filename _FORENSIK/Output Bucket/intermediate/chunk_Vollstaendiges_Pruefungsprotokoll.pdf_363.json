@@ -1,0 +1,133 @@
+[
+  {
+    "title": "Rippenserienfraktur mit halbseitiger Thoraxverschattung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": "Trauma (impliziert durch Rippenserienfraktur)",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rö Thorax: Rippenserienfraktur",
+      "halbseitige Verschattung",
+      "Schlangen und Kabel auf dem Röntgenbild (Thoraxdrainagen, ZVK, EKG-Kabel)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hämatothorax"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Thorax",
+      "Thoraxdrainage"
+    ]
+  },
+  {
+    "title": "Subkutaner Abszess an der Schulter",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Bild mit subkutanem Abszess am Schulter"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Subkutaner Abszess",
+      "Atherom (DD)"
+    ],
+    "diagnostic_approach": [
+      "Bildgebung"
+    ]
+  },
+  {
+    "title": "Verdacht auf Morbus Sjögren mit Knieschmerzen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Schmerzen an beiden Knien"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Tanzende Patella"
+    ],
+    "imaging_findings": [
+      "Röntgen Knie: Arthrosezeichen",
+      "MRT: weißes Signal im Gelenkspalt",
+      "Sono"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Morbus Sjögren",
+      "nicht-destruierende Arthritis von M. Sjögren",
+      "Arthrose"
+    ],
+    "diagnostic_approach": [
+      "Schirmertest",
+      "Sonographie",
+      "Röntgen",
+      "MRT"
+    ]
+  },
+  {
+    "title": "Bruder mit Herzentzündung - Endokarditis",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Herzentzündung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "TEE"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Endokarditis",
+      "Myokarditis (DD)",
+      "Perikarditis (DD)"
+    ],
+    "diagnostic_approach": [
+      "TEE (transösophageale Echokardiographie)"
+    ]
+  },
+  {
+    "title": "Mutter mit Schulterluxation nach Sturz",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": "Sturz",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Klaviertastenphänomen"
+    ],
+    "imaging_findings": [
+      "Röntgen Schulter: Dislokation nach anterokaudal",
+      "Röntgen: Klaviculadislokation"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schulterdislokation anterokaudal",
+      "Bankart-Läsion",
+      "Hill-Sachs-Läsion",
+      "Klavikuladislokation"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Schulter in verschiedenen Aufnahmen",
+      "klinische Untersuchung mit speziellen Tests"
+    ]
+  }
+]

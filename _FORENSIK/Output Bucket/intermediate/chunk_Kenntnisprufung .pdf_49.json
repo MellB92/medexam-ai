@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Hypothyreose mit typischer Symptomatik",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Dünne Haare",
+      "Gewichtszunahme",
+      "Müdigkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Anamnese und Untersuchung war einfach"
+    ],
+    "imaging_findings": [
+      "EKG mit WPW-Syndrom"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hypothyreose"
+    ],
+    "diagnostic_approach": [
+      "Antibody-Diagnostik",
+      "Schilddrüsenfunktion"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Polydipsie und Polyurie bei V.a. Diabetes insipidus",
+    "patient_age": "67-jährige",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Verminderte Leistungsfähigkeit",
+      "Müdigkeit",
+      "Polyurie",
+      "Polydipsie (5-6 Liter pro Tag)",
+      "Schwindel ab und zu",
+      "Nykturie",
+      "Saures Aufstoßen",
+      "Blut beim Abputzen (Toilettenpapier)",
+      "Obstipation ab und zu"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Hyperlipidämie",
+      "Z.n. Pilzinfektion Axilla rechts",
+      "Z.n. FSME (Früh-Sommer-Meningoenzephalitis)",
+      "Z.n. Sattelgelenk-Subluxation rechte Hand"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "ACE-Hemmer 20mg/Amlodipin 5mg (Kombinationspräparat)",
+      "Simvastatin",
+      "Cetirizin bei Bedarf"
+    ],
+    "allergies": [
+      "Birkenpollen-Allergie"
+    ],
+    "vital_signs": [
+      "RR beidseits o.p.B.",
+      "Puls o.p.B."
+    ],
+    "physical_examination": [
+      "Neurologisch grob unauffällig (FAST)",
+      "Abdomen: leichte Empfindlichkeit bei Palpation",
+      "Lunge o.p.B.",
+      "Herz grob unauffällig",
+      "Hautadaptation gezeigt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Diabetes insipidus",
+      "GERD"
+    ],
+    "diagnostic_approach": [
+      "Unterscheidung Diabetes mellitus vs. Diabetes insipidus"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Akuter Myokardinfarkt mit typischer Symptomatik",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Blässe",
+      "Kaltschweiß",
+      "Druckgefühl im Brustkorb"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Blässe",
+      "Kaltschweiß"
+    ],
+    "imaging_findings": [
+      "ST-Hebung im EKG"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Herzinfarkt"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Notarzt rufen",
+      "Sauerstoff",
+      "ASS",
+      "ggf. Nitrate",
+      "Heparin",
+      "Reperfusionstherapie"
+    ]
+  }
+]

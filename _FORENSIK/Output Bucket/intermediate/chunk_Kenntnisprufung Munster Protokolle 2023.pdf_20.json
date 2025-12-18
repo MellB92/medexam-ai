@@ -1,0 +1,34 @@
+[
+  {
+    "title": "61-jähriger Patient mit Z.n Sturz",
+    "patient_age": "61-jähriger",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Knie- und Handgelenksschmerzen links"
+    ],
+    "accident_mechanism": "Sturz",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "MRT-Bild in sagittaler Ebene"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kreuzbandruptur"
+    ],
+    "diagnostic_approach": [
+      "MRT-Bildgebung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

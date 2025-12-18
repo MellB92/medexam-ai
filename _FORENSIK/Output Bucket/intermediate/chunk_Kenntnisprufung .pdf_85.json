@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Blutige Diarrhoen und Bauchschmerzen bei 31-jähriger Frau - V.a. CED",
+    "patient_age": "31J",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "blutige Diarrhoen seit 2 Wochen",
+      "Bauchschmerzen im linken Unterbauch (Intensität 6-7/10)",
+      "Stuhlfrequenz 6 Mal/Tag mit nächtlichem Stuhlgang",
+      "Müdigkeit",
+      "Appetitlosigkeit",
+      "Gewichtsverlust 3 kg",
+      "Temperatur 37,8°C",
+      "Augenentzündung seit 3 Monaten",
+      "Patient wirkt blass"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypothyreose seit 5 Jahren (Hashimoto Thyreoiditis)",
+      "Lumbalgie seit Jahren",
+      "Z.n. Klavikulafraktur vor 3 Jahren (konservativ behandelt)",
+      "Z.n. Morbus Gilbert-Meulengracht mit 16 Jahren"
+    ],
+    "comorbidities": [
+      "ähnliche Beschwerden vor 6 Monaten (spontan remittiert)"
+    ],
+    "risk_factors": [
+      "Adipositas (90 kg bei 167 cm, BMI 32,3)",
+      "Rauchen 5-10 Zigaretten/Tag seit 5 Jahren",
+      "Alkoholkonsum 2-3 Flaschen Bier/Woche"
+    ],
+    "family_history": [
+      "Vater verstorben an Cor pulmonale",
+      "Mutter Z.n. operativer Versorgung einer Leistenhernie"
+    ],
+    "social_history": [
+      "lebt alleine",
+      "arbeitet in Bank"
+    ],
+    "medications": [
+      "L-thyroxin 75 mg 1-0-0",
+      "Ibuprofen 600 mg bei Bedarf",
+      "Imodium bei Bedarf (ohne wesentliche Verbesserung)"
+    ],
+    "allergies": [
+      "aktuell keine Allergien",
+      "Kälteallergie (Kälteurtikaria) im Kindesalter"
+    ],
+    "vital_signs": [
+      "RR 135/85 mmHg",
+      "Temperatur 37,8°C"
+    ],
+    "physical_examination": [
+      "leicht reduzierter Allgemeinzustand",
+      "adipöser Ernährungszustand",
+      "Hautturgor normal",
+      "Konjunktiva rosig, keine Rötung",
+      "kein Sklerenikterus",
+      "Mundschleimhaut und Zunge feucht",
+      "Halsvenen nicht gestaut",
+      "Lymphknoten nicht vergrößert tastbar",
+      "Schilddrüse nicht vergrößert tastbar, schluckverschieblich",
+      "Herztöne rein und rhythmisch, keine pathologischen Geräusche",
+      "Atemexkursion symmetrisch, vesikuläre Atemgeräusche",
+      "Darmgeräusch regelrecht",
+      "Bauchdecke weich",
+      "Druckdolenz linker Unterbauch",
+      "Nierenlager beidseits klopfschmerz frei",
+      "periphere Pulse tastbar",
+      "diskrete Unterschenkelödeme beidseits"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Chronisch entzündliche Darmerkrankung (CED)",
+      "DD: bakterielle Diarrhö",
+      "DD: Divertikulitis",
+      "DD: Kolorektalkarzinom",
+      "DD: Harnwegsinfekt",
+      "DD: gynäkologische Ursachen"
+    ],
+    "diagnostic_approach": [
+      "Blutabnahme: BB (Anämie, Leukozytose), CRP, BSG, Nierenwerte, Leberparameter",
+      "bei Anämie: MCV, MCH, Eisenprofil, Retikulozyten",
+      "Abdomensonographie",
+      "EKG (aufgrund der Ödeme)",
+      "evtl. Koloskopie"
+    ],
+    "treatment_response": [
+      "Imodium ohne wesentliche Verbesserung"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

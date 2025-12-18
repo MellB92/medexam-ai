@@ -1,0 +1,40 @@
+[
+  {
+    "title": "NSTEMI nach Schwindel und Sturz",
+    "patient_age": "83-jähriger",
+    "patient_gender": "Mann",
+    "chief_complaints": [
+      "Schwindel",
+      "Sturz auf linke Schulter"
+    ],
+    "accident_mechanism": "Plötzlicher Schwindel mit Sturz auf linke Schulter",
+    "pre_existing_conditions": [
+      "keine kardialen Vorerkrankungen bekannt",
+      "gelegentliche Palpitationen (nie ärztlich abgeklärt)"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "reduzierter Allgemeinzustand",
+      "guter Ernährungszustand"
+    ],
+    "imaging_findings": [
+      "Fraktur röntgenologisch ausgeschlossen",
+      "Herzechokardiografie: Wandbewegungsstörungen"
+    ],
+    "laboratory_findings": [
+      "Troponin negativ"
+    ],
+    "suspected_diagnosis": [
+      "Nicht-ST-Streckenhebungsinfarkt (NSTEMI)"
+    ],
+    "diagnostic_approach": [
+      "Aufnahme-EKG: Vorhofflimmern und neu aufgetretener Linksschenkelblock",
+      "Herzechokardiografie",
+      "geplant: frühelektive Koronarangiografie",
+      "ggf. PTCA mit Stentimplantation nach intrainterventionellem Befund",
+      "Rehamaßnahme geplant",
+      "fachärztliche Anbindung beim Kardiologen geplant"
+    ]
+  }
+]

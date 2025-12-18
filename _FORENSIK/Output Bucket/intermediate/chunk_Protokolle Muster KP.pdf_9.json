@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Junge Patientin mit Schultertrauma",
+    "patient_age": "jung",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "frisches Trauma linke Schulter",
+      "kleine Schürfwunde"
+    ],
+    "accident_mechanism": "Trauma an linker Schulter",
+    "pre_existing_conditions": [
+      "Morbus Crohn",
+      "Z.n. Splenektomie (traumabedingt)",
+      "Z.n. Analabszess"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "DMS überprüft",
+      "Schilddrüse Palpation",
+      "LK Palpation",
+      "Lungen und Herzauskultation",
+      "Abdomen Untersuchung",
+      "Reflexe geprüft"
+    ],
+    "imaging_findings": [
+      "proximale dislozierte Humerusfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "proximale dislozierte Humerusfraktur"
+    ],
+    "diagnostic_approach": [
+      "Händedesinfektion",
+      "DMS-Prüfung",
+      "Wundinspektion",
+      "Tetanusimpfung-Status",
+      "körperliche Untersuchung",
+      "Röntgen"
+    ]
+  },
+  {
+    "title": "Herr Meier mit Hämoptyse",
+    "patient_age": "73 Jahre (geb. 18.03.1948)",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Hämoptyse seit 14 Tagen",
+      "Obstipation",
+      "Nykturie",
+      "Gewichtsverlust",
+      "Nachtschweiß"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "COPD",
+      "arterielle Hypertonie",
+      "Z.n. Osteosynthese bei Beckenfraktur nach Autounfall vor 14 Jahren"
+    ],
+    "medications": [
+      "Salbutamol bei Bedarf",
+      "B2-Sympathomimetika oder Anticholinergika",
+      "Lesinopril",
+      "Makrogol bei Bedarf"
+    ],
+    "allergies": [
+      "Nikotinabusus seit 18. Lebensjahr, 20 Zigaretten/Tag (ca. 53 pack years)",
+      "ein Glas Schnaps abendlich"
+    ],
+    "physical_examination": [
+      "spastische Atemgeräusche"
+    ],
+    "imaging_findings": [
+      "Röntgen Thorax: Raumforderung links Oberlappen",
+      "emphysematöse Lunge",
+      "erweiterte Interkostalräume",
+      "Zwerchfelltiefstand"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom",
+      "COPD"
+    ],
+    "diagnostic_approach": [
+      "körperliche Untersuchung",
+      "Röntgen Thorax",
+      "CT-Thorax",
+      "Biopsie (transthorakal/transbronchial je nach Lokalisation)",
+      "Staging für Therapieplanung"
+    ]
+  }
+]

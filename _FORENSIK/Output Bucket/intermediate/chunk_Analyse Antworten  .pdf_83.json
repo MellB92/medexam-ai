@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen und Antworten** zu medizinischen Themen wie:\n   - Medikamentenapplikationswege (IV vs. IM)\n   - Körperliche Barrieren (Blut-Hirn-Schranke, etc.)\n   - Datenschutz und ärztliche Schweigepflicht\n   - Reanimation bei Neugeborenen\n   - Nebenwirkungen von Ibuprofen\n   - Sekundäre Hypertonie\n   - Ikterus und Pruritus\n\n2. **Fragmentarische Erwähnungen** ohne vollständige Fallinformationen:\n   - \"Subkapsuläres Hämatom\" auf CT-Bild (ohne Patientendetails, Anamnese oder vollständige klinische Präsentation)\n   - Diese Erwähnung erfolgt nur im Kontext einer Prüfungsfrage zur Bildbeschreibung\n\n3. **\"Nicht im Protokoll enthalten\"** Markierungen für mehrere Fragen\n\nEs handelt sich um ein **Prüfungsprotokoll** mit Wissensfragen, nicht um klinische Fallpräsentationen mit Patientendaten, Anamnese, Untersuchungsbefunden und diagnostischem Vorgehen."
+  }
+]

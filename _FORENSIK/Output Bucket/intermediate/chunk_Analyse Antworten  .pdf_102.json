@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Chronisches Ulkus mit Fibrinbelägen\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"rundliche Hautveränderung\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"Diabetes mellitus (impliziert)\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\n      \"rundliche Hautveränderung\",\n      \"rötlicher Rand\",\n      \"weißliche Fibrinbeläge in der Mitte\",\n      \"gelbliche Verfärbung (möglicher Eiter)\"\n    ],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"chronisches Ulkus\", \"chronische Wunde\"],\n    \"diagnostic_approach\": [\"Bildbeschreibung\", \"klinische Inspektion\"]\n  }\n]\n```"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Fingeramputation bei Fleischer (Arbeitsunfall)",
+    "patient_age": null,
+    "patient_gender": "Mann",
+    "severity": null,
+    "chief_complaints": [
+      "Finger abgeschnitten"
+    ],
+    "accident_mechanism": "Arbeitsunfall als Fleischer",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Arbeitet als Fleischer"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Fingeramputation",
+      "Fingerverletzung"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Körperliche Untersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Überweisung zum D-Arzt"
+    ]
+  }
+]

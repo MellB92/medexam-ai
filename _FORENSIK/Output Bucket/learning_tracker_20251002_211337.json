@@ -1,0 +1,747 @@
+{
+  "empty_documents": [
+    {
+      "file": "2025-06-29-Ankizin_v5_46729-notes_6022_Delete_with_media_fixed.apkg",
+      "timestamp": "2025-10-02T16:28:04.420269"
+    },
+    {
+      "file": "Auszug SGB VI.pdf",
+      "timestamp": "2025-10-02T16:30:10.761599"
+    },
+    {
+      "file": "Beispiele Gutachten.pdf",
+      "timestamp": "2025-10-02T16:30:21.575597"
+    },
+    {
+      "file": "Definitionen.pdf",
+      "timestamp": "2025-10-02T17:06:08.956621"
+    },
+    {
+      "file": "FSP Medisim\\Diverses\\Anatomie- deutsche Begriffe.pdf",
+      "timestamp": "2025-10-02T17:13:06.057791"
+    },
+    {
+      "file": "FSP Medisim\\FSP 03\\Grundwortschatz Traumatologie.pdf",
+      "timestamp": "2025-10-02T17:18:00.740703"
+    },
+    {
+      "file": "FSP Medisim\\FSP 05\\Laborzettel 1.pdf",
+      "timestamp": "2025-10-02T17:18:05.372330"
+    },
+    {
+      "file": "FSP Medisim\\Grundwortschatz Traumatologie.pdf",
+      "timestamp": "2025-10-02T17:18:25.277084"
+    },
+    {
+      "file": "FSP Medisim\\KT 01 Einführungstag\\Zusatzübungen Medikamente Lösungen.pdf",
+      "timestamp": "2025-10-02T17:18:30.264819"
+    },
+    {
+      "file": "FSP Medisim\\KT 01 Einführungstag\\Zusatzübungen Medikamente.pdf",
+      "timestamp": "2025-10-02T17:18:30.780687"
+    },
+    {
+      "file": "FSP Medisim\\KT 04 Medikamente 3.d\\Übungen schriftlich\\Lösungen\\ZUSATZ~2.PDF",
+      "timestamp": "2025-10-02T17:18:36.885692"
+    },
+    {
+      "file": "FSP Medisim\\KT 04 Medikamente 3.d\\Übungen schriftlich\\Zusatzübungen Medikamente.pdf",
+      "timestamp": "2025-10-02T17:18:37.389874"
+    },
+    {
+      "file": "FSP Medisim\\KT 08 - Diagnostik Tag 1\\Handouts\\Die Einheiten der Laborwerte.pdf",
+      "timestamp": "2025-10-02T17:18:53.871555"
+    },
+    {
+      "file": "FSP Medisim\\KT 12 Anamnese Tag 1\\Muster Anamnesebogen Ärztekammer Nordrhein.pdf",
+      "timestamp": "2025-10-02T17:19:06.384015"
+    },
+    {
+      "file": "FSP Medisim\\KT 15 - Körperliche Untersuchung Tag 1\\Übungen schriftlich\\1SVERB~1.PDF",
+      "timestamp": "2025-10-02T17:19:20.704978"
+    },
+    {
+      "file": "FSP Medisim\\KT 22 Dokumentation 2.d\\Handouts\\Planette ausgefüllt.pdf",
+      "timestamp": "2025-10-02T17:19:39.435215"
+    },
+    {
+      "file": "General\\EKG Befunde 1.pdf",
+      "timestamp": "2025-10-02T17:20:24.655452"
+    },
+    {
+      "file": "General\\EKG Befunde 2.pdf",
+      "timestamp": "2025-10-02T17:20:26.945991"
+    },
+    {
+      "file": "General\\EKG Befunde.pdf",
+      "timestamp": "2025-10-02T17:20:28.227796"
+    },
+    {
+      "file": "General\\HRST.pdf",
+      "timestamp": "2025-10-02T17:22:11.503579"
+    },
+    {
+      "file": "General\\Hyperkaliämie Buch Klinische Notfälle griffbereit.pdf",
+      "timestamp": "2025-10-02T17:22:11.968023"
+    },
+    {
+      "file": "General\\Hypokaliämie aus dem Buch Klinische Notfälle griffbereit von Marcel Frimmel 5. Auflage.pdf",
+      "timestamp": "2025-10-02T17:22:12.250543"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Allgemeinmedizin\\Gestose Präeklampsie.md",
+      "timestamp": "2025-10-02T17:42:24.774807"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Allgemeinmedizin\\Glaukom 5.md",
+      "timestamp": "2025-10-02T17:42:24.779038"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Allgemeinmedizin\\Hyposphagma.md",
+      "timestamp": "2025-10-02T17:42:24.783041"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Allgemeinmedizin\\Verletzung des Auges.md",
+      "timestamp": "2025-10-02T17:42:24.798483"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Allgemeinmedizin\\Zervixkarzinom.md",
+      "timestamp": "2025-10-02T17:42:24.801442"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Akutes Abdomen.md",
+      "timestamp": "2025-10-02T17:42:24.814676"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Analabzess 3.md",
+      "timestamp": "2025-10-02T17:42:24.821255"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Aortenaneurysma 26.md",
+      "timestamp": "2025-10-02T17:42:24.824866"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Appendizitis 86.md",
+      "timestamp": "2025-10-02T17:42:24.830709"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Benigne Prostatahyperplasie und Prostatakarzinom 7.md",
+      "timestamp": "2025-10-02T17:42:24.834013"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Chirurgische Schnittführung und OP Verfahren.md",
+      "timestamp": "2025-10-02T17:42:24.838230"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Cholelithiasis, Cholezystitis 60.md",
+      "timestamp": "2025-10-02T17:42:24.842142"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\HCC.md",
+      "timestamp": "2025-10-02T17:42:24.847483"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Hiatus Hernie 15.md",
+      "timestamp": "2025-10-02T17:42:24.850417"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Hämorrhoiden 13.md",
+      "timestamp": "2025-10-02T17:42:24.852532"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Ileus 63.md",
+      "timestamp": "2025-10-02T17:42:24.855521"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Kompartmentsyndrom 19.md",
+      "timestamp": "2025-10-02T17:42:24.862238"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Koronararterienbypass.md",
+      "timestamp": "2025-10-02T17:42:24.865838"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\KRK 5.md",
+      "timestamp": "2025-10-02T17:42:24.868420"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Leistenhernie 37.md",
+      "timestamp": "2025-10-02T17:42:24.871433"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Mallory Weiss Syndrom.md",
+      "timestamp": "2025-10-02T17:42:24.879637"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Mesenterialinfarkt 9.md",
+      "timestamp": "2025-10-02T17:42:24.885040"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Pankreaskarzinom 1.md",
+      "timestamp": "2025-10-02T17:42:24.887773"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\pAVK 71.md",
+      "timestamp": "2025-10-02T17:42:24.891442"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Schilddrüsenkarzinom 8.md",
+      "timestamp": "2025-10-02T17:42:24.898150"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Thromboseprophylaxie 17.md",
+      "timestamp": "2025-10-02T17:42:24.903107"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Transplantationsmedizin 46.md",
+      "timestamp": "2025-10-02T17:42:24.905575"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Turniquet Syndrom.md",
+      "timestamp": "2025-10-02T17:42:24.908488"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Varikosis und CVI 8.md",
+      "timestamp": "2025-10-02T17:42:24.910789"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\VATS.md",
+      "timestamp": "2025-10-02T17:42:24.918284"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Volvulus.md",
+      "timestamp": "2025-10-02T17:42:24.922542"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Ösophagusdivertikel.md",
+      "timestamp": "2025-10-02T17:42:24.924703"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Chirurgie\\Ösophaguskarzinom  Barret 17.md",
+      "timestamp": "2025-10-02T17:42:24.931618"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Endokrinologie\\Diabetes Insipidus.md",
+      "timestamp": "2025-10-02T17:42:24.940882"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Endokrinologie\\Dislipidämien 30.md",
+      "timestamp": "2025-10-02T17:42:24.946254"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Endokrinologie\\Gicht 16.md",
+      "timestamp": "2025-10-02T17:42:24.952192"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Endokrinologie\\Hyperaldosteronismus von hier unten low yield 22.md",
+      "timestamp": "2025-10-02T17:42:24.954645"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Endokrinologie\\Hyperparathyreoidismus hypo 9 8.md",
+      "timestamp": "2025-10-02T17:42:24.958400"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Endokrinologie\\Hypothyreose 64.md",
+      "timestamp": "2025-10-02T17:42:24.964637"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Endokrinologie\\Metabolisches Syndrom 16.md",
+      "timestamp": "2025-10-02T17:42:24.967356"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Endokrinologie\\Mixödem.md",
+      "timestamp": "2025-10-02T17:42:24.970891"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Endokrinologie\\Nebennierenrindeninsuffizienz 4.md",
+      "timestamp": "2025-10-02T17:42:24.974284"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Endokrinologie\\Osteoporose 41.md",
+      "timestamp": "2025-10-02T17:42:24.983068"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Endokrinologie\\Phäochromazytom 11.md",
+      "timestamp": "2025-10-02T17:42:24.985381"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Gastroenterologie\\Achalasie und motilitätstörungen.md",
+      "timestamp": "2025-10-02T17:42:24.996896"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Gastroenterologie\\Aszites 15.md",
+      "timestamp": "2025-10-02T17:42:25.000142"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Gastroenterologie\\CED 37 + 32.md",
+      "timestamp": "2025-10-02T17:42:25.003024"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Gastroenterologie\\Clostridioides difficile Infektion.md",
+      "timestamp": "2025-10-02T17:42:25.005624"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Gastroenterologie\\Coma hepaticum.md",
+      "timestamp": "2025-10-02T17:42:25.008208"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Gastroenterologie\\Fettleber und NASH.md",
+      "timestamp": "2025-10-02T17:42:25.014174"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Gastroenterologie\\Gastritis 23.md",
+      "timestamp": "2025-10-02T17:42:25.016968"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Gastroenterologie\\Gastrointestinale Blutung.md",
+      "timestamp": "2025-10-02T17:42:25.020098"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Gastroenterologie\\GERD 49.md",
+      "timestamp": "2025-10-02T17:42:25.022422"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Gastroenterologie\\Infektiöse Gastroenteritis.md",
+      "timestamp": "2025-10-02T17:42:25.026690"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Gastroenterologie\\Kolonpolypen 31.md",
+      "timestamp": "2025-10-02T17:42:25.031203"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Gastroenterologie\\Leberzirrhose 22.md",
+      "timestamp": "2025-10-02T17:42:25.033803"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Gastroenterologie\\nicht virale Hepatitis.md",
+      "timestamp": "2025-10-02T17:42:25.035969"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Gastroenterologie\\Pankreatitis 37.md",
+      "timestamp": "2025-10-02T17:42:25.038373"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Gastroenterologie\\Pseudomembranöse Kolitis 1.md",
+      "timestamp": "2025-10-02T17:42:25.040651"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Gastroenterologie\\Refluzkrankheit von hier unten low yield 16.md",
+      "timestamp": "2025-10-02T17:42:25.042817"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Gastroenterologie\\Reizdarmsyndrom.md",
+      "timestamp": "2025-10-02T17:42:25.048177"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Hämatologie\\Myelodisplastische Erkrankungen.md",
+      "timestamp": "2025-10-02T17:42:25.082839"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Hämatologie\\Myelorpoliferative Erkrankungen CML 11.md",
+      "timestamp": "2025-10-02T17:42:25.084971"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Hämatologie\\Thrombophilie Hämorrhagische Diathese 4.md",
+      "timestamp": "2025-10-02T17:42:25.087130"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Infektologie alles low yield\\Dengue Fieber 3.md",
+      "timestamp": "2025-10-02T17:42:25.106287"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Infektologie alles low yield\\Herpes Viren 10.md",
+      "timestamp": "2025-10-02T17:42:25.108835"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Infektologie alles low yield\\Herpes Zoster 19.md",
+      "timestamp": "2025-10-02T17:42:25.111743"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Infektologie alles low yield\\Infektiöse Mononukleose 8.md",
+      "timestamp": "2025-10-02T17:42:25.119761"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Infektologie alles low yield\\Lyme Borreliose 11.md",
+      "timestamp": "2025-10-02T17:42:25.122437"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Infektologie alles low yield\\Masern 4.md",
+      "timestamp": "2025-10-02T17:42:25.125451"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Infektologie alles low yield\\Weichteilinfektionen.md",
+      "timestamp": "2025-10-02T17:42:25.127786"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Infektologie alles low yield\\Zeckenstisch 5.md",
+      "timestamp": "2025-10-02T17:42:25.130848"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Kardiologie\\Angeborene Herzfehlern.md",
+      "timestamp": "2025-10-02T17:42:25.145913"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Kardiologie\\AV Block 25.md",
+      "timestamp": "2025-10-02T17:42:25.148947"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Kardiologie\\Bradykardien.md",
+      "timestamp": "2025-10-02T17:42:25.163059"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Kardiologie\\Endokarditis, Myokarditis, Perikarditis 16 61 58.md",
+      "timestamp": "2025-10-02T17:42:25.169545"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Kardiologie\\Herzklappenvitien.md",
+      "timestamp": "2025-10-02T17:42:25.171901"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Kardiologie\\Herzschrittmacher.md",
+      "timestamp": "2025-10-02T17:42:25.174239"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Kardiologie\\HRS.md",
+      "timestamp": "2025-10-02T17:42:25.176811"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Kardiologie\\Kadriomyopathien.md",
+      "timestamp": "2025-10-02T17:42:25.183415"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Kardiologie\\KHK 66.md",
+      "timestamp": "2025-10-02T17:42:25.186510"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Kardiologie\\Long QT Syndrom.md",
+      "timestamp": "2025-10-02T17:42:25.189149"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Kardiologie\\Reynayud Syndrom.md",
+      "timestamp": "2025-10-02T17:42:25.191322"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Kardiologie\\SA Block.md",
+      "timestamp": "2025-10-02T17:42:25.193477"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Kardiologie\\Sick Sinus Syndrom.md",
+      "timestamp": "2025-10-02T17:42:25.196482"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Kardiologie\\Supraventrikuläre Rhythmusstörungen.md",
+      "timestamp": "2025-10-02T17:42:25.198940"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Kardiologie\\Ventrikuläre Rhytthmusstörungen.md",
+      "timestamp": "2025-10-02T17:42:25.201622"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Nephrologie\\Akutes Nierenversagen 15 akut und chro.md",
+      "timestamp": "2025-10-02T17:42:25.232180"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Nephrologie\\Chronisches Nierenversagen.md",
+      "timestamp": "2025-10-02T17:42:25.239534"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Nephrologie\\Nierenersatzverfahren_ Dialyse, Transplantation 36.md",
+      "timestamp": "2025-10-02T17:42:25.242831"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Nephrologie\\Urolithiasis 3.md",
+      "timestamp": "2025-10-02T17:42:25.245714"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Neurologie\\Amyotrophe Lateralsklerose.md",
+      "timestamp": "2025-10-02T17:42:25.251873"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Neurologie\\Delir 15.md",
+      "timestamp": "2025-10-02T17:42:25.256315"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Neurologie\\Demenz 8.md",
+      "timestamp": "2025-10-02T17:42:25.258489"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Neurologie\\Epilepsie und Statis Epilepticus 13.md",
+      "timestamp": "2025-10-02T17:42:25.260579"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Neurologie\\Fazialisparese.md",
+      "timestamp": "2025-10-02T17:42:25.263829"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Neurologie\\Intrakranielle Druckerhöhung 2.md",
+      "timestamp": "2025-10-02T17:42:25.270220"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Neurologie\\Ischämische Apoplexie von hier unten low yield 9.md",
+      "timestamp": "2025-10-02T17:42:25.273824"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Neurologie\\Meningitis 55.md",
+      "timestamp": "2025-10-02T17:42:25.278543"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Neurologie\\Migräne 13.md",
+      "timestamp": "2025-10-02T17:42:25.282190"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Neurologie\\MS.md",
+      "timestamp": "2025-10-02T17:42:25.287756"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Notfallmedizin\\Akutes Lungenödem.md",
+      "timestamp": "2025-10-02T17:42:25.297429"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Notfallmedizin\\ARDS.md",
+      "timestamp": "2025-10-02T17:42:25.308969"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Notfallmedizin\\Barotrauma.md",
+      "timestamp": "2025-10-02T17:42:25.318116"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Notfallmedizin\\BLS ACLS.md",
+      "timestamp": "2025-10-02T17:42:25.320648"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Notfallmedizin\\Bradykarde Rhythmusstörungen.md",
+      "timestamp": "2025-10-02T17:42:25.322781"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Notfallmedizin\\Ertrinken 6.md",
+      "timestamp": "2025-10-02T17:42:25.325515"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Notfallmedizin\\Flüssigkeit und Volumentherapie.md",
+      "timestamp": "2025-10-02T17:42:25.330705"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Notfallmedizin\\Hypothermie.md",
+      "timestamp": "2025-10-02T17:42:25.333507"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Notfallmedizin\\Intoxikationen.md",
+      "timestamp": "2025-10-02T17:42:25.335638"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Notfallmedizin\\Milzruptur 25.md",
+      "timestamp": "2025-10-02T17:42:25.340660"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Notfallmedizin\\Nuklearer Zwischenfall.md",
+      "timestamp": "2025-10-02T17:42:25.342907"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Notfallmedizin\\Perikardtamponade 7.md",
+      "timestamp": "2025-10-02T17:42:25.345412"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Notfallmedizin\\Schock.md",
+      "timestamp": "2025-10-02T17:42:25.399323"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Notfallmedizin\\Stevens-Johnson-Syndrom.md",
+      "timestamp": "2025-10-02T17:42:25.476322"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Notfallmedizin\\Stromunfall.md",
+      "timestamp": "2025-10-02T17:42:25.479340"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Notfallmedizin\\Tachykarde Rhythmusstörungen.md",
+      "timestamp": "2025-10-02T17:42:25.481408"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Notfallmedizin\\TVT 45.md",
+      "timestamp": "2025-10-02T17:42:25.485599"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Notfallmedizin\\Verbrennungen 19.md",
+      "timestamp": "2025-10-02T17:42:25.488423"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pharmakologie\\Antianginöse Therapie.md",
+      "timestamp": "2025-10-02T17:42:26.045505"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pharmakologie\\Antiemetika 17.md",
+      "timestamp": "2025-10-02T17:42:26.056006"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pharmakologie\\Antiepileptika 3.md",
+      "timestamp": "2025-10-02T17:42:26.058744"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pharmakologie\\Antihistaminika 5.md",
+      "timestamp": "2025-10-02T17:42:26.060762"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pharmakologie\\Antiparkinson 1.md",
+      "timestamp": "2025-10-02T17:42:26.063672"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pharmakologie\\Gichtstherapeutika.md",
+      "timestamp": "2025-10-02T17:42:26.074166"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pharmakologie\\Hormone.md",
+      "timestamp": "2025-10-02T17:42:26.077282"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pharmakologie\\Kontrazeptiva 5.md",
+      "timestamp": "2025-10-02T17:42:26.082488"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pharmakologie\\Laxanzien 16.md",
+      "timestamp": "2025-10-02T17:42:26.084576"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pharmakologie\\Lipidsenker 4.md",
+      "timestamp": "2025-10-02T17:42:26.086809"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pharmakologie\\Lokalanästhetika 13.md",
+      "timestamp": "2025-10-02T17:42:26.088897"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pharmakologie\\Migräntherapie.md",
+      "timestamp": "2025-10-02T17:42:26.091576"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pharmakologie\\Muskelrelaxanzien 9.md",
+      "timestamp": "2025-10-02T17:42:26.093741"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pharmakologie\\Narkotika.md",
+      "timestamp": "2025-10-02T17:42:26.096437"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pharmakologie\\Osteoporosetherapie.md",
+      "timestamp": "2025-10-02T17:42:26.102135"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pharmakologie\\Psychopharma 7.md",
+      "timestamp": "2025-10-02T17:42:26.107038"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pharmakologie\\Schilddrüsentherapie.md",
+      "timestamp": "2025-10-02T17:42:26.109106"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pharmakologie\\Sedativa und Hypnotika.md",
+      "timestamp": "2025-10-02T17:42:26.113542"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pneumologie\\Asbestose und Mesotheliom.md",
+      "timestamp": "2025-10-02T17:42:26.132617"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pneumologie\\Bronchialkarzinom.md",
+      "timestamp": "2025-10-02T17:42:26.134778"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pneumologie\\COVID 19 7.md",
+      "timestamp": "2025-10-02T17:42:26.152567"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pneumologie\\Influenza.md",
+      "timestamp": "2025-10-02T17:42:26.158239"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pneumologie\\Interstitielle Erkrankungen 4.md",
+      "timestamp": "2025-10-02T17:42:26.162401"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pneumologie\\Pleuraerguss von hier unten low yield.md",
+      "timestamp": "2025-10-02T17:42:26.181914"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pneumologie\\Pulmonale Hypertonie.md",
+      "timestamp": "2025-10-02T17:42:26.196134"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Pneumologie\\Sarkoidose.md",
+      "timestamp": "2025-10-02T17:42:26.198850"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Rheuma\\Kollagenosen von hier unten low yield.md",
+      "timestamp": "2025-10-02T17:42:26.236833"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Rheuma\\Morbus Bechterew 13.md",
+      "timestamp": "2025-10-02T17:42:26.239745"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Rheuma\\Polymyalgia rheumatica.md",
+      "timestamp": "2025-10-02T17:42:26.242540"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Rheuma\\Reaktive Arthritis.md",
+      "timestamp": "2025-10-02T17:42:26.245046"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Rheuma\\Vaskulitis.md",
+      "timestamp": "2025-10-02T17:42:26.270271"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Untitled (1).md",
+      "timestamp": "2025-10-02T17:42:26.291010"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Untitled.md",
+      "timestamp": "2025-10-02T17:42:26.293737"
+    },
+    {
+      "file": "Neurologie\\Hirnnerven\\Schlaganfall - AMBOSS-SOP - AMBOSS_files\\saved_resource(1).html",
+      "timestamp": "2025-10-02T17:42:49.270640"
+    },
+    {
+      "file": "Neurologie\\Hirnnerven\\Schlaganfall - AMBOSS-SOP - AMBOSS_files\\saved_resource.html",
+      "timestamp": "2025-10-02T17:42:49.274259"
+    },
+    {
+      "file": "neutralnull_FINAL.pdf",
+      "timestamp": "2025-10-02T17:43:15.623769"
+    },
+    {
+      "file": "Spiegel Artikel 2025.pdf",
+      "timestamp": "2025-10-02T17:44:58.267064"
+    },
+    {
+      "file": "Telegram Desktop\\ChatExport_2025-10-02\\messages.html",
+      "timestamp": "2025-10-02T17:45:08.650400"
+    },
+    {
+      "file": "Telegram Desktop\\ChatExport_2025-10-02\\messages2.html",
+      "timestamp": "2025-10-02T17:45:09.275355"
+    },
+    {
+      "file": "Telegram Desktop\\ChatExport_2025-10-02\\messages3.html",
+      "timestamp": "2025-10-02T17:45:09.941053"
+    },
+    {
+      "file": "Telegram Desktop\\ChatExport_2025-10-02\\messages4.html",
+      "timestamp": "2025-10-02T17:45:10.775431"
+    },
+    {
+      "file": "Telegram Desktop\\ChatExport_2025-10-02\\messages5.html",
+      "timestamp": "2025-10-02T17:45:11.850804"
+    },
+    {
+      "file": "Telegram Desktop\\ChatExport_2025-10-02\\messages6.html",
+      "timestamp": "2025-10-02T17:45:13.894755"
+    },
+    {
+      "file": "Telegram Desktop\\ChatExport_2025-10-02\\messages7.html",
+      "timestamp": "2025-10-02T17:45:14.964780"
+    }
+  ],
+  "flagged_hallucinations": [],
+  "corrections_made": [],
+  "review_needed": []
+}

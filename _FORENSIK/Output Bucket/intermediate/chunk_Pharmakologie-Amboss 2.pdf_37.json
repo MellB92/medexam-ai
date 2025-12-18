@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. Es handelt sich ausschließlich um:\n\n1. **Pharmakologische Lehrinhalte** über Antidepressiva:\n   - Wirkprinzipien (TZA, SSRI, MAO-Hemmer, Melatonin-Analoga)\n   - Nebenwirkungsprofile\n   - Indikationen\n   - Interaktionen\n\n2. **Syndrom-Beschreibungen** (keine individuellen Patientenfälle):\n   - Serotoninerges Syndrom (allgemeine Beschreibung mit Auslösern, Klinik, Therapie)\n   - Anticholinerges Delir (nur erwähnt)\n\n3. **Übersichtstabellen** zu Parkinson-Medikamenten\n\nEs werden zwar klinische Symptome und Behandlungsstrategien beschrieben, aber **kein konkreter individueller Patientenfall** mit spezifischer Anamnese, Befunden oder diagnostischem Vorgehen präsentiert."
+  }
+]

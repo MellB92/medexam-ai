@@ -1,0 +1,339 @@
+[
+  {
+    "title": "Sturz auf rechte Hüfte mit inguinalen Schmerzen",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "inguinale Schmerzen",
+      "Zustand nach Sturz auf rechte Hüfte"
+    ],
+    "accident_mechanism": "Sturz auf rechte Hüfte",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schenkelhalsfraktur",
+      "Beckenfraktur"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Plötzlicher Hörverlust mit Schwindel und Emesis",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "plötzlicher Hörverlust",
+      "Schwindel",
+      "Emesis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Nervus vestibulokochlearis Schädigung"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Aktive Magenblutung",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "aktive Magenblutung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "aktive arterielle Magenblutung in Sonographie",
+      "Forrest Klassifikation"
+    ],
+    "laboratory_findings": [
+      "Hb 5"
+    ],
+    "suspected_diagnosis": [
+      "aktive arterielle Magenblutung"
+    ],
+    "diagnostic_approach": [
+      "Bedside Test",
+      "EK Transfusion"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "stationäre Aufnahme Intensivstation"
+    ]
+  },
+  {
+    "title": "Motorradunfall mit Polytrauma",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Beinschmerzen rechts",
+      "Handschmerzen rechts",
+      "Schulterschmerzen",
+      "Thoraxschmerzen links",
+      "Bauchschmerzen",
+      "Bewusstlosigkeit",
+      "Übelkeit",
+      "Erbrechen"
+    ],
+    "accident_mechanism": "Motorradunfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Patient hatte sehr starke Schmerzen und sprach sehr schnell"
+    ],
+    "imaging_findings": [
+      "Tibiakopffraktur",
+      "Pneumothorax"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Milzruptur",
+      "Tibiakopffraktur",
+      "Pneumothorax",
+      "Meniskus- und Kreuzbandruptur"
+    ],
+    "diagnostic_approach": [
+      "FAST-Sonographie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Schlafapnoe-Syndrom",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schnarchen",
+      "Tagesmüdigkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schlafapnoe-Syndrom"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Kalter Knoten in Schilddrüse",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "kalter Knoten in Schilddrüse"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schilddrüsenknoten"
+    ],
+    "diagnostic_approach": [
+      "Feinnadelbiopsie (FNB)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Hämatemesis",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Hämatemesis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Hb 11"
+    ],
+    "suspected_diagnosis": [
+      "obere gastrointestinale Blutung"
+    ],
+    "diagnostic_approach": [
+      "Endoskopie",
+      "Forrest Klassifikation",
+      "PPI"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Magenblutung mit schwerem Blutverlust",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Magenblutung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Hb 6"
+    ],
+    "suspected_diagnosis": [
+      "Magenblutung"
+    ],
+    "diagnostic_approach": [
+      "Transfusion",
+      "Bedside Test"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Fieber nach Reiseanamnese - Malaria",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Fieber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Reiseanamnese"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Malaria"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Fahrradunfall mit Colles-Fraktur und Pneumothorax",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen nach Fahrradunfall"
+    ],
+    "accident_mechanism": "Fahrradunfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Marcumar"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Colles Fraktur (distale Radiusfraktur)",
+      "rechtsseitiger Pneumothorax",
+      "DD Skaphoidfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Colles Fraktur",
+      "Pneumothorax",
+      "DD Hämatothorax"
+    ],
+    "diagnostic_approach": [
+      "Röntgen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

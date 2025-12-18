@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Polytrauma nach Sturz aus 4m Höhe mit Calcaneusfraktur und AV-Block",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "starke Beckenschmerzen",
+      "starke Beinschmerzen",
+      "besonders Schmerzen im rechten Fuß",
+      "Schwindel vor dem Sturz"
+    ],
+    "accident_mechanism": "Sturz aus 4 m Höhe",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Schmerzmittel vom Notarzt"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "starke Beckenschmerzen",
+      "starke Beinschmerzen",
+      "besonders Schmerzen rechter Fuß",
+      "körperliche Untersuchung nicht gründlich durchführbar aufgrund von Schmerzen"
+    ],
+    "imaging_findings": [
+      "Calcaneusfraktur im Röntgen des rechten Fußes",
+      "alle anderen Röntgenbilder in Ordnung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Calcaneusfraktur rechts",
+      "AV-Block zweiten Grades Mobitz",
+      "AV-Block dritten Grades"
+    ],
+    "diagnostic_approach": [
+      "Schockraumversorgung",
+      "Monitoring",
+      "Röntgenuntersuchungen aller relevanten Bereiche",
+      "EKG"
+    ],
+    "treatment_response": [
+      "Osteosynthese geplant",
+      "Schrittmacherimplantation indiziert",
+      "DDD-Schrittmacher"
+    ],
+    "complications": [
+      "Risiko für Kompartmentsyndrom",
+      "Thromboseprophylaxe erforderlich"
+    ],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 313/585) enthält ausschließlich **theoretische Prüfungsfragen und -antworten** zu verschiedenen medizinischen Themen. Es handelt sich um ein Prüfungsprotokoll mit Wissensfragen, aber **keine klinischen Patientenfälle** oder Fallpräsentationen.\n\nDie Fragen behandeln Themen wie:\n- Schilddrüsenoperationen und deren Komplikationen\n- Colitis ulcerosa vs. Morbus Crohn\n- Thrombosemanagement (Virchow-Trias, Wells-Score, TVT-Therapie)\n- Pancoast-Tumor und Horner-Syndrom\n- Verbrennungen (9er-Regel)\n- STEMI-Management\n- Humerusfrakturen (Klassifikation, Komplikationen)\n- Cholezystitis (Symptome, Pathomechanismus, Mirizzi-Syndrom)\n\n**Keine der Fragen stellt einen konkreten Patientenfall mit Anamnese, Befunden und diagnostischem Vorgehen dar.** Es sind reine Wissensfragen ohne Patientenkontext, daher werden keine Fälle extrahiert."
+  }
+]

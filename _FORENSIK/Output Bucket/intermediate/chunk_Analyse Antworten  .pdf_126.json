@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** mit zugehörigen Musterlösungen zu verschiedenen medizinischen Themen:\n   - EKG-Befunde (Linksschenkelblock, STEMI)\n   - Schulterluxation (Anatomie, Röntgenbefunde)\n   - Rotatorenmanschette\n   - Postoperative Komplikationen nach Schilddrüsen-OP\n   - Bauchaortenaneurysma\n   - Patellofemorale Arthrose\n   - Antiemetika\n   - Off-Label-Use von Medikamenten\n   - Intoxikationen (Opiate, Amphetamine)\n   - Delir\n   - Organtransplantation\n   - Strahlenphysik\n\n2. Alle Einträge folgen dem Schema:\n   - **frage**: Theoretische Frage\n   - **antwort_kandidat**: \"Nicht im Protokoll enthalten\"\n   - **musterloesung_leitlinie**: Lehrbuchmäßige Antwort\n   - **analyse_fehler_tipps**: \"Keine Analyse möglich\"\n\nEs handelt sich um ein Prüfungsprotokoll mit Wissensfragen, **nicht** um klinische Fallpräsentationen mit konkreten Patienten, Anamnese, Beschwerden oder diagnostischen Abläufen."
+  }
+]

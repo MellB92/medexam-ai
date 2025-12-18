@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Herzinsuffizienz bei Myokarditis nach Pneumonie",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Luftnot bei Belastung beim Treppensteigen",
+      "Luftnot bei Haushaltsarbeit",
+      "Beinödem",
+      "Abgeschlagenheit",
+      "Zunahme der Beschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Alle Systeme untersucht"
+    ],
+    "imaging_findings": [
+      "Herzecho - parasternale Langachse",
+      "Pleuraerguss"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Herzinsuffizienz",
+      "Z.n. Pneumonie",
+      "Myokarditis (Verdacht)",
+      "Niereninsuffizienz (Verdacht)"
+    ],
+    "diagnostic_approach": [
+      "Herzecho",
+      "Anamnese",
+      "Körperliche Untersuchung"
+    ]
+  },
+  {
+    "title": "Milzruptur nach Fahrradsturz mit Lenkertrauma",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Bauchverletzung nach Fahrradsturz"
+    ],
+    "accident_mechanism": "Unfall vom Fahrrad mit Lenker auf dem Bauchbereich",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Traumacheck"
+    ],
+    "imaging_findings": [
+      "FAST",
+      "Traumaspirale",
+      "Sono Räume",
+      "Röntgen Beckenübersicht",
+      "Hüftgelenke beidseits",
+      "Femur",
+      "Dislozierte Femurschaftfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Milzruptur",
+      "Leberruptur",
+      "Pankreasruptur",
+      "Dislozierte Femurschaftfraktur"
+    ],
+    "diagnostic_approach": [
+      "Traumacheck",
+      "FAST",
+      "Traumaspirale",
+      "Sonographie",
+      "Röntgen"
+    ]
+  }
+]

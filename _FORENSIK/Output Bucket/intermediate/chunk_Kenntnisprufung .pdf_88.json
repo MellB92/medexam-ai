@@ -1,0 +1,57 @@
+[
+  {
+    "title": "31-jährige Patientin mit chronischen Oberbauchschmerzen und Meläna",
+    "patient_age": "31-jährige",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "seit 6 Monaten anhaltende progrediente kolikartige Schmerzen im linken Oberbauchquadranten",
+      "Meläna mit frischem Blut und Schleimhautverbindung",
+      "nächtlicher Toilettenbedarf",
+      "tenesmusartiger Stuhlgang",
+      "allgemeines Leidensgefühl",
+      "subfebrile Temperaturen bis 37,8 Grad",
+      "Inappetenz",
+      "Antriebsminderung",
+      "blasses Hautkolorit",
+      "Gewichtsreduktion (Patientin vermied Angaben)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Gilbert-Syndrom (Meulengracht) diagnostiziert vor 16 Jahren"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Temperatur bis 37,8 Grad"
+    ],
+    "physical_examination": [
+      "blasses Hautkolorit"
+    ],
+    "imaging_findings": [
+      "Koloskopie: weiße Beläge auf der Schleimhaut (Fibrinablagerungen)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Colitis Ulcerosa (bevorzugte Diagnose aufgrund des jungen Alters)",
+      "CED",
+      "akute Divertikulitis",
+      "Colon-Karzinom",
+      "Rektumkarzinom"
+    ],
+    "diagnostic_approach": [
+      "Laboruntersuchungen: Hämoglobin, TBC, MHC, MCV",
+      "Abdomensonographie auf freie Flüssigkeit",
+      "digitalrektale Untersuchung",
+      "Rektoskopie",
+      "Colonoskopie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 79/84) enthält **keine vollständigen klinischen Patientenfälle oder Präsentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Lernkarten-Material zur peripheren arteriellen Verschlusskrankheit (pAVK)** mit:\n   - Definition und Ätiologie\n   - Klinik und Stadieneinteilung nach Fontaine\n   - Diagnostischen Verfahren\n   - Therapieoptionen\n   - Differentialdiagnosen\n\n2. **Theoretischem Wissen zum akuten arteriellen Verschluss** (als DD zur pAVK)\n\n3. **Beginn eines neuen Kapitels \"Leitsymptome\"** mit DD Thoraxschmerz (am Ende abgeschnitten)\n\nEs handelt sich um **systematisches Lehrmaterial** ohne konkrete Patientenbeispiele, Fallvorstellungen oder klinische Szenarien mit spezifischen Patienten."
+  }
+]

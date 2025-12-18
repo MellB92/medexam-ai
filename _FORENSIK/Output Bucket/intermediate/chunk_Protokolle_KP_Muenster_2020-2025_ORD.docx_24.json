@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Sepsis bei Patientin",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [
+      "Penicillinallergie"
+    ],
+    "physical_examination": [
+      "normofrequente Herzfrequenz",
+      "normaler Blutdruck"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sepsis"
+    ],
+    "diagnostic_approach": [
+      "SOFA-Score",
+      "SIRS-Kriterien"
+    ]
+  },
+  {
+    "title": "Vorhofflimmern mit Ablationstherapie",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit Vorhofflimmern"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vorhofflimmern"
+    ],
+    "diagnostic_approach": [
+      "Pulmonalvenenisolation (Ablation durchgeführt)"
+    ]
+  },
+  {
+    "title": "Leberzirrhose mit Ösophagusvarizen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Leberzirrhose"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Caput medusae"
+    ],
+    "imaging_findings": [
+      "Ösophagusvarizen (endoskopisch)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Leberzirrhose"
+    ],
+    "diagnostic_approach": [
+      "Child-Pugh-Klassifikation"
+    ]
+  },
+  {
+    "title": "Polytrauma nach Verkehrsunfall mit HWS-Atlasfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": "Verkehrsunfall mit Schleudertrauma",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "HWS-Atlasfraktur (Hangman-Fraktur)",
+      "FAST-Ultraschall"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma",
+      "Hangman-Fraktur"
+    ],
+    "diagnostic_approach": [
+      "FAST-Ultraschall",
+      "HWS-Bildgebung"
+    ]
+  },
+  {
+    "title": "Femurschaftfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild mit Femurschaftfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Femurschaftfraktur"
+    ],
+    "diagnostic_approach": []
+  }
+]

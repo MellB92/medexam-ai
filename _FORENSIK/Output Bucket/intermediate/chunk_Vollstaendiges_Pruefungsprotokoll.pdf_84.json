@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Subkapitale Humeruskopffraktur\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\n      \"Röntgenbilder Schulter ap + Y\",\n      \"Subkapitale Humeruskopffraktur\"\n    ],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Subkapitale Humeruskopffraktur\"\n    ],\n    \"diagnostic_approach\": [\n      \"Röntgen Schulter ap\",\n      \"Röntgen Schulter Y-Aufnahme\",\n      \"Abklärung Begleitverletzungen (Rotatorenmanschettenrupturen, Nervenläsionen)\"\n    ]\n  },\n  {\n    \"title\": \"Kalter Knoten in der Schilddrüse\",\n    \"patient_age\": \"30-jähriger\",\n    \"patient_gender\": \"m\",\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\n      \"Kalter Knoten in der Szintigrafie\"\n    ],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [],\n    \"diagnostic_approach\": [\n      \"Szintigrafie\"\n    ]\n  }\n]\n```"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Sjögren-Syndrom bei 59-jähriger Frau mit Sicca-Symptomatik",
+    "patient_age": "59-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "trockene Mund- und Nasenschleimhaut",
+      "trockene und brennende Augen",
+      "gelegentliche Parotitis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "trockene Mund- und Nasenschleimhaut",
+      "trockene und brennende Augen",
+      "gelegentliche Parotitis"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sjögren-Syndrom (Morbus Sjögren)",
+      "Medikamentennebenwirkungen",
+      "Sarkoidose",
+      "andere Autoimmunerkrankungen"
+    ],
+    "diagnostic_approach": [
+      "Ausschluss anderer Ursachen für Sicca-Symptomatik",
+      "Differentialdiagnostik von Autoimmunerkrankungen"
+    ]
+  }
+]

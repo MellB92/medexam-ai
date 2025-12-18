@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle** mit konkreten Patienten.\n\nDer Abschnitt besteht aus:\n\n1. **FRAGE 133**: Therapie bei rezidivierenden Schulterluxationen\n   - Dies ist eine **allgemeine theoretische Frage** zu Behandlungsalgorithmen\n   - Kein konkreter Patient wird beschrieben\n   - Es werden nur generelle Therapieoptionen aufgelistet\n\n2. **FRAGE 134**: Diagnostik, Sono-Bild, Therapie bei akuter Appendizitis\n   - Ebenfalls eine **theoretische Wissensfrage**\n   - Es wird das allgemeine diagnostische und therapeutische Vorgehen beschrieben\n   - Kein spezifischer Patientenfall\n\n3. Die vorangehende **STÄNDIGE ANTWORT** zur Therapie des Sjögren-Syndroms\n   - Rein theoretische Auflistung von Therapieoptionen\n   - Kein Patientenfall\n\n**Fazit:** Alle Inhalte sind allgemeine medizinische Wissensfragen und Behandlungsleitfäden ohne konkrete Patientenpräsentationen. Daher ist das Ergebnis ein leeres Array."
+  }
+]

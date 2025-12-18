@@ -1,0 +1,159 @@
+[
+  {
+    "title": "Humerusfraktur nach Arbeitsunfall bei Patientin mit Morbus Crohn und Z.n. Splenektomie",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schulterschmerzen nach Unfall"
+    ],
+    "accident_mechanism": "Sturz während der Arbeit",
+    "pre_existing_conditions": [
+      "Morbus Crohn",
+      "Z.n. Milzentfernung (nach Milzruptur)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Berufstätig",
+      "Arbeitsunfall"
+    ],
+    "medications": [
+      "Azathioprin (für Morbus Crohn)",
+      "Glukokortikoid (für Morbus Crohn)",
+      "Sulfasalazin (für Morbus Crohn)",
+      "Thrombozytenaggregationshemmer (ASS oder Clopidogrel)",
+      "Morphin (Schmerztherapie)",
+      "Novalgin 4x1gr i.v. als Kurzinfusion"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Kein Milz tastbar nach Splenektomie"
+    ],
+    "imaging_findings": [
+      "Röntgen: Subkapitale proximale Humerusfraktur mit Linienfraktur",
+      "Sonographie: Kein Milz sichtbar",
+      "Endoskopie: Pflastersteinrelief bei Morbus Crohn"
+    ],
+    "laboratory_findings": [
+      "Thrombozytose >1 Million (Komplikation nach Splenektomie)"
+    ],
+    "suspected_diagnosis": [
+      "Subkapitale proximale Humerusfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Schulter",
+      "Labordiagnostik inkl. Thrombozytenzahl",
+      "Sonographie",
+      "AO-Klassifikation der Fraktur"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Thrombozytose nach Splenektomie",
+      "Nervus-Läsion bei Humerusfraktur zu beachten"
+    ],
+    "follow_up": [
+      "OP geplant",
+      "Schmerztherapie nach WHO-Schema optimieren",
+      "Patient präoperativ nüchtern",
+      "Postoperative Kontrolle",
+      "Dokumentation der Strahlungsbelastung bei Arbeitsunfall"
+    ]
+  },
+  {
+    "title": "STEMI mit ST-Hebung lateral und inferior",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Angina pectoris"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [
+      "Linksventrikuläre Hypertrophie"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: ST-Hebung in I, II, und V5-V6",
+      "EKG: Zeichen der Linksventrikulären Hypertrophie (LVH)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "STEMI"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Differentialdiagnose von ST-Hebung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Epidurale Blutung im CCT",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CCT nativ: Epidurale Blutung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Epidurale Blutung"
+    ],
+    "diagnostic_approach": [
+      "CCT nativ"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Multiple Raumforderungen der Leber",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Ultraschall Leber: Multiple Raumforderungen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Ultraschall Abdomen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

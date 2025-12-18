@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Multiples Myelom bei Rentner mit Müdigkeit und Knochenschmerzen",
+    "patient_age": null,
+    "patient_gender": "Mann",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Müdigkeit seit 6 Monaten",
+      "Kreuzschmerzen seit 6 Monaten",
+      "Knochenschmerzen überall",
+      "Gewichtsverlust",
+      "Nachtschweiß",
+      "Rezidivierende Infekte (immer erkältet)",
+      "Schlafstörung"
+    ],
+    "accident_mechanism": "Autounfall vor vielen Jahren",
+    "pre_existing_conditions": [
+      "Zustand nach Autounfall mit Operation vor vielen Jahren",
+      "Zustand nach Ellenbogen-Arthroskopie"
+    ],
+    "comorbidities": [
+      "Rippenfraktur",
+      "Kniearthrose"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Rentner",
+      "Wohnt mit Ehefrau",
+      "Zwei Töchter",
+      "Enkelkind",
+      "Spielt Geige"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck erhöht (zufällig bei Messung)"
+    ],
+    "physical_examination": [
+      "Körperliche Untersuchung unauffällig",
+      "Kardiopulmonale Untersuchung durchgeführt",
+      "Abdominelle Untersuchung durchgeführt",
+      "Keine neurologische Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [
+      "Röntgen Thorax: Rippenfraktur",
+      "Röntgen Knie: Zeichen von Arthrose",
+      "Immunelektrophorese: M-Gradient"
+    ],
+    "laboratory_findings": [
+      "Urin: auffälliger Befund",
+      "Leichtkette kappa und Lambda",
+      "BSG mit Sturzsenkung",
+      "ß2 Mikroglobulin erhöht"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom",
+      "Morbus Waldenström (DD)",
+      "MGUS - Monoklonale Gammopathie unklarer Signifikanz (Vorstufe)"
+    ],
+    "diagnostic_approach": [
+      "Stationäre Aufnahme",
+      "Laboruntersuchungen inklusive Leichtketten",
+      "Immunelektrophorese",
+      "ß2 Mikroglobulin",
+      "BSG",
+      "Bildgebung",
+      "Stadien-Einteilung des Multiplen Myeloms"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Pneumothorax bei Rippenfraktur",
+      "Hämatothorax",
+      "Pleuraerguss",
+      "Vorhofflimmern (Thromboseprophylaxe mit Rivaroxaban 20mg erwähnt)",
+      "AV-Block 3. Grades (im EKG-Bild gezeigt)"
+    ],
+    "follow_up": [
+      "Geplante Therapie: Thalidomid",
+      "Hochdosis-Chemotherapie",
+      "Stammzelltransplantation (Verdrängung vom Knochenmark, dann Stammzelle)",
+      "Thromboseprophylaxe bei VHF: Rivaroxaban 20mg",
+      "Schrittmacher-Implantation bei AV-Block 3. Grades (Zweikammer-Schrittmacher)"
+    ]
+  }
+]

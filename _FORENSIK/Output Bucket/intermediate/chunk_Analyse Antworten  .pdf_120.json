@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Patient mit Adipositas, Diabetes mellitus Typ 2 und diabetischer Nephropathie unter SGLT2-Hemmer und ACE-Hemmer\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Adipositas\",\n      \"Diabetes mellitus Typ 2\",\n      \"diabetische Nephropathie\"\n    ],\n    \"medications\": [\n      \"SGLT2-Hemmer\",\n      \"ACE-Hemmer\"\n    ],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Diabetes mellitus Typ 2\",\n      \"diabetische Nephropathie\",\n      \"Adipositas\"\n    ],\n    \"diagnostic_approach\": [\n      \"Prüfung der Indikation für GLP-1-Analoga (Gewichtsverlust, Blutzuckerkontrolle, nephroprotektiver Effekt)\"\n    ]\n  }\n]\n```"
+  }
+]

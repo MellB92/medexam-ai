@@ -1,0 +1,154 @@
+[
+  {
+    "title": "Hämodynamisch stabiler Patient mit Verdacht auf Lungenembolie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Verdacht auf Lungenembolie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "hämodynamisch stabil"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenembolie"
+    ],
+    "diagnostic_approach": [
+      "Well-Score",
+      "D-Dimer im Blut bei geringer Wahrscheinlichkeit",
+      "CT-Angio bei Well-Score >2"
+    ]
+  },
+  {
+    "title": "Hämodynamisch instabiler Patient mit Verdacht auf Lungenembolie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Verdacht auf Lungenembolie",
+      "hämodynamische Instabilität"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "instabil"
+    ],
+    "imaging_findings": [
+      "Echo: Verschiebung von Septum nach links (D-Förmig)",
+      "erhöhter Lungenarteriendruck",
+      "ggf. Dilatation"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenembolie mit Rechtsherzbelastung"
+    ],
+    "diagnostic_approach": [
+      "Echo im Schockraum",
+      "Suche nach Rechtsherzbelastungszeichen",
+      "Lyse (iv oder Katheter)",
+      "Katheterisierung bis zu den Lungenarterien"
+    ]
+  },
+  {
+    "title": "Patient mit rotem Urin ohne Hämaturie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "roter Urin"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "U-Stix: keine Erythrozyten",
+      "kein Blut"
+    ],
+    "suspected_diagnosis": [
+      "Porphyrie"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Patientin mit Bauchschmerzen nach Ibuprofen-Einnahme",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Bauchschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [
+      "Ibuprofen"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "ÖGD: aktive Blutungen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Gastritis",
+      "Ulkus durch NSAR"
+    ],
+    "diagnostic_approach": [
+      "ÖGD",
+      "endoskopische Blutstillung mit Adrenalinlösung",
+      "Fibrinkleber",
+      "PPI"
+    ]
+  },
+  {
+    "title": "Bewusstlose Person",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Bewusstlosigkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Puls an Karotisarterie tasten"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "ABCDE-Schema",
+      "Hilfe rufen",
+      "Atmung prüfen",
+      "zentralen Puls tasten"
+    ]
+  },
+  {
+    "title": "Akute Appendizitis",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "akute Appendizitis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Ultraschall"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "akute Appendizitis"
+    ],
+    "diagnostic_approach": []
+  }
+]

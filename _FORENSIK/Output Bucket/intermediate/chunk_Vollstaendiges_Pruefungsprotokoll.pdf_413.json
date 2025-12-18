@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Patient mit Teerstuhl und Varizenblutung in Notaufnahme\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Teerstuhl\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Varizenblutung\", \"Obere gastrointestinale Blutung\"],\n    \"diagnostic_approach\": [\n      \"Vitalparameter bestimmen\",\n      \"2 großlumige Zugänge legen\",\n      \"Labordiagnostik mit Kreuzprobe\",\n      \"Erythrozytenkonzentrate bereitstellen\",\n      \"Kristalloide geben\",\n      \"Terlipressin und Antibiotika\",\n      \"Ösophagogastroduodenoskopie (ÖGD)\",\n      \"Gummibandligatur\",\n      \"Bei unstillbarer Blutung: Ballontamponade (Sengstaken-Blakemore, Linton)\"\n    ]\n  }\n]\n```"
+  }
+]

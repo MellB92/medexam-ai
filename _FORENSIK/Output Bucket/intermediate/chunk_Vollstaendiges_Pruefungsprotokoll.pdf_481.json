@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle** mit konkreten Patientenpräsentationen. Stattdessen handelt es sich ausschließlich um:\n\n1. **Theoretische Prüfungsfragen** mit allgemeinen medizinischen Themen\n2. **Standardisierte Wissensfragen** ohne spezifische Patientendetails\n3. **Hypothetische Szenarien** ohne konkrete Fallinformationen\n\nBeispiele für die identifizierten Inhalte:\n- \"Was kann man tun, wenn ein Patient nachts kommt...\" (hypothetische Situation)\n- \"Welche Organe sind bei HNPCC assoziiert?\" (Theoriewissen)\n- \"Was ist der Unterschied zwischen Kolonkarzinom und Rektalkarzinom?\" (Definition)\n- \"Welche Klassifikation wird für Sprunggelenksfrakturen verwendet?\" (Theoriewissen)\n- \"Was ist ein anaphylaktischer Schock?\" (Definition/Behandlungsschema)\n\nDie einzigen Erwähnungen von \"Patienten\" sind:\n- \"Die Patientin berichtet von rezidivierenden Harnwegsinfekten...\" - **unvollständig**, keine weiteren Details zu Alter, Symptomatik, Untersuchungsbefunden\n- \"Die Patientin hatte nach einem Urlaub in Thailand Hepatitis A...\" - **unvollständig**, fragmentarisch, keine zusammenhängende Falldarstellung\n\nDiese Fragmente erfüllen nicht die Kriterien für vollständige klinische Fälle."
+  }
+]

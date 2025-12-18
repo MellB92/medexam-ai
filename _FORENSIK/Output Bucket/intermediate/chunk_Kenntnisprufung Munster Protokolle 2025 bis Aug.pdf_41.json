@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Polytrauma nach Sturz in der Schwangerschaft (Sprunggelenk und Hand)",
+    "patient_age": "39 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Schmerzen im Bereich der Tabatiere",
+      "kann nicht mehr auf das Bein aufstehen",
+      "Schmerzen im Sprunggelenk"
+    ],
+    "accident_mechanism": "Sturz auf dem Weg zur Arbeit, knickte mit dem linken Sprunggelenk um und landete auf der Hand",
+    "pre_existing_conditions": [
+      "Divertikulitis",
+      "Thyroidenknoten-OP",
+      "Tonsillektomie",
+      "11. Schwangerschaftswoche"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "RR nicht an beiden Händen gemessen (Fehler)",
+      "Lunge: Unauffällig",
+      "Abdomen: gynäkologische Untersuchung wurde priorisiert bei Gefahr einer Uterusruptur",
+      "Handgelenk: Supination und Pronation unauffällig",
+      "Daumen kann nicht zum Kleinfinger geführt werden",
+      "Hüfte: Unauffällig",
+      "Sprunggelenk pDMS: Unauffällig",
+      "Supination und Pronation aufgrund von Schmerzen nicht möglich"
+    ],
+    "imaging_findings": [
+      "Bild einer trimalleolären Fraktur",
+      "Röntgen: dislozierte Metakarpalfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Supinationsfraktur des Sprunggelenks",
+      "Skaphoidfraktur",
+      "Mögliche Bandläsion (Lig. talofibulare anterius)",
+      "Trimalleolären Fraktur",
+      "Dislozierte Metakarpalfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen unter Berücksichtigung der Schwangerschaft",
+      "Gynäkologische Untersuchung bei Gefahr einer Uterusruptur",
+      "PECH-Regel (Pause, Eis, Kompression, Hochlagerung)"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Akutes Abdomen",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "seit letzte Nacht aufgetretener starker Bauchschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "OP im Rechte Hand vor 15 Jahre",
+      "Coxarthrose seit 6 Monaten",
+      "Obstipation"
+    ],
+    "comorbidities": null,
+    "risk_factors": [
+      "Alkoholiker und trinkt Wein, Bier und Schnaps jeden Tag"
+    ],
+    "family_history": null,
+    "social_history": null,
+    "medications": [
+      "Diclofenac seit 6 Monaten 1-0-0",
+      "Laxanzien Zäpfchen ab und zu"
+    ],
+    "allergies": null,
+    "vital_signs": null,
+    "physical_examination": [
+      "Bauchuntersuchung",
+      "Lunge",
+      "Herz",
+      "Palpation alle Arterien",
+      "Lymphknoten",
+      "Schilddrüsen",
+      "neurologische Untersuchung",
+      "Lipom im Rechte Schulter und linke temporal Bereich"
+    ],
+    "imaging_findings": [
+      "Ultraschall vom Oberbauch",
+      "CT abdomen: Pankreas aufgetrieben, Ödematos mit Flüssigkeit um den Pankreas"
+    ],
+    "laboratory_findings": [
+      "Amylase",
+      "Lipase"
+    ],
+    "suspected_diagnosis": [
+      "Verdacht auf Divertikulitis"
+    ],
+    "diagnostic_approach": [
+      "Ultraschall",
+      "CT abdomen"
+    ],
+    "treatment_response": null,
+    "complications": null,
+    "follow_up": null
+  },
+  {
+    "title": "Dyspnoe",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Dyspnoe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": null,
+    "comorbidities": null,
+    "risk_factors": null,
+    "family_history": null,
+    "social_history": null,
+    "medications": null,
+    "allergies": null,
+    "vital_signs": null,
+    "physical_examination": null,
+    "imaging_findings": [
+      "Röntgen im Liegen: Kardiomegalie mit Infiltraten"
+    ],
+    "laboratory_findings": null,
+    "suspected_diagnosis": [
+      "Pneumonie"
+    ],
+    "diagnostic_approach": [
+      "Röntgen",
+      "Echokardiographie",
+      "Herzkatheter-Untersuchung",
+      "Myokardbiopsie"
+    ],
+    "treatment_response": null,
+    "complications": null,
+    "follow_up": null
+  }
+]

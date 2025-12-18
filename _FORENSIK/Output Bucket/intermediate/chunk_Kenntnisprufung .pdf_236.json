@@ -1,0 +1,56 @@
+[
+  {
+    "title": "33-jähriger Mann nach Verkehrsunfall mit Perikarderguss und nachfolgender respiratorischer Insuffizienz",
+    "patient_age": "33-jähriger",
+    "patient_gender": "m",
+    "severity": "critical",
+    "chief_complaints": [
+      "instabiler Zustand nach Verkehrsunfall"
+    ],
+    "accident_mechanism": "Verkehrsunfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Herzrhythmus 160/min (nach einer Woche)",
+      "Atemfrequenz 40/min (nach einer Woche)"
+    ],
+    "physical_examination": [
+      "instabiler Zustand bei Aufnahme"
+    ],
+    "imaging_findings": [
+      "Perikarderguss im Sono",
+      "beidseitige Lungeninfiltrate im Thorax-Röntgen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perikarderguss",
+      "akute respiratorische Insuffizienz",
+      "Pneumonie",
+      "akutes Lungenödem",
+      "COVID-19"
+    ],
+    "diagnostic_approach": [
+      "ABCDE Schema",
+      "Monitoring mit allen Parametern",
+      "Sono vom Herzen",
+      "Thorax-Röntgen"
+    ],
+    "treatment_response": [
+      "nach einer Woche auf Intensivstation stabil und besser",
+      "plötzliche Zustandsverschlechterung nach einer Woche"
+    ],
+    "complications": [
+      "mögliche Blutung bei Perikardpunktion",
+      "Aggravation vom Erguss",
+      "akute respiratorische Insuffizienz nach einer Woche"
+    ],
+    "follow_up": [
+      "Intubation notwendig aufgrund instabilem Zustand"
+    ]
+  }
+]

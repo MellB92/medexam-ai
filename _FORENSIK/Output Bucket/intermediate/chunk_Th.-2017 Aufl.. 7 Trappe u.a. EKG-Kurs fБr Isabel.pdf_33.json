@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 34/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\" von Trappe) und enthält **keine klinischen Patientenfälle**.\n\nDer Text behandelt:\n- **Lektion 15**: Störungen der R-Progression und S-Persistenz im EKG\n- **Lektion 16**: Intraventrikuläre Erregungsrückbildungsstörungen (ST-Strecken- und T-Wellen-Veränderungen)\n\nEs handelt sich um **rein didaktisches Material** mit:\n- Theoretischen Erklärungen zu EKG-Befunden\n- Schematischen Abbildungen (Abb. 15.1, 15.2, 15.3, 16.1)\n- Differentialdiagnostischen Überlegungen (z.B. Vorderwandinfarkt vs. Linksherzhypertrophie)\n- Merksätzen und EKG-Beispielverweisen\n\nEs werden **keine konkreten Patienten** mit individueller Anamnese, Befunden oder Verläufen präsentiert, sondern ausschließlich allgemeine EKG-Interpretation gelehrt."
+  }
+]

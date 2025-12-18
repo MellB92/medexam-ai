@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n- Prüfungsfragen und -antworten zu theoretischem medizinischem Wissen\n- Diskussionen über Krankheitsbilder (Nephrotisches Syndrom, pAVK, Raynaud-Syndrom, Diabetes, Asthma)\n- Klassifikationen (Fontaine, Rutherford)\n- Diagnostische Methoden (Knöchel-Arm-Index, Spirometrie)\n- Medikamentenwissen (Kalziumkanalblocker, Beclomethason)\n\nEs gibt **keine Präsentation eines konkreten Patienten** mit:\n- Anamnese\n- Vorstellung eines Einzelfalls\n- Spezifischer Symptomkombination eines individuellen Patienten\n- Verlaufsbeschreibung\n\nDie Erwähnungen (z.B. \"der Patientin\" bei Belastungsasthma) sind hypothetische Beispiele im Rahmen von Prüfungsfragen, keine ausgearbeiteten klinischen Fälle."
+  }
+]

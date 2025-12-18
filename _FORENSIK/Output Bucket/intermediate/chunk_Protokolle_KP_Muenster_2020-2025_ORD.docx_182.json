@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Innenbandruptur nach Sturz an Bushaltestelle",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "starke Schmerzen im linken Kniegelenk",
+      "Abschürfung an der rechten Hand"
+    ],
+    "accident_mechanism": "Unfall an der Bushaltestelle, rechtes Knie verdreht und auf die rechte Seite gefallen",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "pDMS durchgeführt",
+      "orthopädische Untersuchung des Kniegelenks aufgrund der Schmerzen nicht durchführbar"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "V.a. Kreuzbandruptur",
+      "Verletzung des medialen Seitenbands",
+      "Unhappy-Triad",
+      "Verletzungen der Patellasehnen"
+    ],
+    "diagnostic_approach": [
+      "Allergieanamnese",
+      "Impfstatus (Tetanus)",
+      "körperliche Untersuchung"
+    ]
+  },
+  {
+    "title": "Knietrauma nach Anprall durch Kind",
+    "patient_age": "61-jähriger",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Knieschmerzen",
+      "Streckdefizit"
+    ],
+    "accident_mechanism": "von einem Kind angeprallt und das Knie weggeknickt",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "kam mit Gehstützen",
+      "Knie wegen Schmerzen fast gar nicht untersuchbar",
+      "pDMS gecheckt",
+      "Reflexe",
+      "Herz",
+      "Lungen",
+      "Abdomen untersucht",
+      "konnte den Fuß gar nicht auf den Boden stellen",
+      "Streckdefizit",
+      "Wunde"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "VKB Ruptur",
+      "Innenmeniskusverletzung",
+      "Innenbandruptur"
+    ],
+    "diagnostic_approach": [
+      "Wunde zunähen"
+    ]
+  }
+]

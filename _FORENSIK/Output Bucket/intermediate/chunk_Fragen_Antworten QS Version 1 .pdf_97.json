@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 98/148) enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** zu medizinischen Themen:\n   - Pharmakologie (ACE-Hemmer, 5α-Reduktase-Hemmer)\n   - Gastroenterologie (NASH - Non-alcoholic steatohepatitis)\n   - Impfmedizin (Hepatitis B-Impfschema, Totimpfstoffe)\n   - Strahlenschutz (Dosimeter-Trageort)\n\n2. **Strukturierte Wissensvermittlung** mit:\n   - Wirkmechanismen\n   - Indikationen/Kontraindikationen\n   - Nebenwirkungen\n   - Dosierungsempfehlungen\n   - Rechtlichen Grundlagen\n\nEs handelt sich um ein **Fragen-Antworten-Dokument** für Prüfungsvorbereitung ohne konkrete Patientenkasuistiken."
+  }
+]

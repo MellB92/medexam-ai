@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 4/84) enthält **keine klinischen Präsentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Abkürzungsverzeichnis** (PTH, PTT, QF, qSOFA, RA, RAAS, etc.)\n2. **Quellenverzeichnis** (Literaturangaben, Leitlinien, Lehrbücher)\n3. **Inhaltsverzeichnis** (Auflistung der Kapitel und Unterkapitel des Buches)\n\nEs handelt sich um Vorspann-Material eines medizinischen Lehrbuchs (\"Lernkarten zum Mündlichen Stex Innere Medizin und Chirurgie\"). Die tatsächlichen klinischen Fälle beginnen vermutlich erst in späteren Chunks, wenn die Hauptkapitel (z.B. \"3 Innere Medizin\" mit Unterthemen wie \"3.1 Hyperthyreose\", \"3.8 Myokardinfarkt\" etc.) erreicht werden.\n\nDas Inhaltsverzeichnis listet zwar Themen wie \"Hyperthyreose\", \"Myokardinfarkt\", \"Herzinsuffizienz\" auf, aber es handelt sich dabei nur um Kapitelüberschriften, nicht um vollständige Patientenfälle mit Anamnese, Befunden und Diagnostik."
+  }
+]

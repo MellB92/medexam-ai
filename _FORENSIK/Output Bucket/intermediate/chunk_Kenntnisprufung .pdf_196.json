@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Anämie-Abklärung bei makrozytärer hyperchromer Anämie",
+    "patient_age": null,
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "Anämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Vegetarische Ernährung",
+      "Alkoholabusus",
+      "Metformin Einnahme"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Metformin"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Glossitis",
+      "Lackzunge"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Kleines Blutbild mit makrozytärer hyperchromer Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Vitamin B12 Mangel",
+      "Folsäure Mangel",
+      "Atrophische Gastritis mit Antikörper gegen Intrinsic Faktor"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Anämie bei geplantem Hüftgelenksersatz wegen Koxarthrose",
+    "patient_age": "63 Jahre",
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "Kopfschmerzen (3/10)",
+      "Hüftgelenkschmerzen (6/10)",
+      "Fatigue",
+      "Leistungsminderung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ II",
+      "Z.n. Perikarditis mit 21 Jahren",
+      "Z.n. Unterschenkelfraktur bei Skifahren mit 25 Jahren (konservativ behandelt)",
+      "Z.n. inkarzerierten Leistenhernie rechts vor 30 Jahren (Notfall-OP)",
+      "Fortgeschrittene Koxarthrose links"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Ex-Raucher 15 Pack-years (seit 5 Jahren aufgehört)",
+      "Alkoholkonsum 1-2 Bier am Wochenende",
+      "Langzeiteinnahme Metformin",
+      "Regelmäßige NSAID-Einnahme ohne Magenschutz"
+    ],
+    "family_history": [
+      "Vater verstorben mit 82 Jahren an Myokardinfarkt bei KHK",
+      "Mutter pflegebedürftig in Pflegeeinrichtung, kürzlich Pneumonie"
+    ],
+    "social_history": [
+      "Bauarbeiter beim Bauamt",
+      "Verheiratet",
+      "3 Kinder und 3 Enkelkinder",
+      "Größe 180 cm, Gewicht 80 kg"
+    ],
+    "medications": [
+      "Diclofenac 75 mg 1-0-1",
+      "Metformin 750 mg 1-0-1"
+    ],
+    "allergies": [
+      "Nickelallergie"
+    ],
+    "vital_signs": [
+      "Blutdruck beidseits gemessen"
+    ],
+    "physical_examination": [
+      "Herz untersucht",
+      "Lungen untersucht",
+      "Abdomen untersucht",
+      "Lymphknoten untersucht",
+      "Beinödeme untersucht",
+      "Periphere Pulse untersucht"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Makrozytäre hyperchrome Anämie",
+      "Vitamin B12 Mangel",
+      "Folsäure Mangel"
+    ],
+    "suspected_diagnosis": [
+      "Vitamin B12 Mangel bei Metformin-Langzeittherapie",
+      "Folsäure Mangel",
+      "Eisenmangel-Anämie bei GI-Verlust (DD)",
+      "Kolonkarzinom (DD bei Mann über 50 Jahren mit Anämie)"
+    ],
+    "diagnostic_approach": [
+      "Labor: BB, Eisen, Ferritin, Transferrinsättigung, Vitamin B12, Folsäure, Nierenwerte",
+      "Stuhldiagnostik auf okkultes Blut",
+      "Abdomensonographie",
+      "ÖGD",
+      "Koloskopie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Gewichtsabnahme 3 kg innerhalb 6 Wochen",
+      "Schmerz-bedingte Insomnie",
+      "Obstipation ohne Blut im Stuhl",
+      "Nie zuvor Koloskopie gehabt"
+    ]
+  }
+]

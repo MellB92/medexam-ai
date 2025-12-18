@@ -1,0 +1,156 @@
+[
+  {
+    "title": "Makrozytäre hypochrome Anämie bei Patient",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Makrozytäre hypochrome Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Eisenmangelanämie"
+    ],
+    "diagnostic_approach": [
+      "DRU (Digitale rektale Untersuchung)",
+      "Koloskopie",
+      "ÖGD (Ösophagogastroduodenoskopie)"
+    ]
+  },
+  {
+    "title": "Pneumonie bei Patient",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Ambulant erworbene Pneumonie"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Aortenklappenstenose mit Linksherzhypertrophie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Auskultationsbefund bei Aortenklappenstenose"
+    ],
+    "imaging_findings": [
+      "EKG mit Linksherzhypertrophie",
+      "Sokolow-Index positiv"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Aortenklappenstenose"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Hüfteschmerzen bei Patient",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Hüfteschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Becken-Übersicht",
+      "Lauenstein-Aufnahme"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Arthrose",
+      "Arthritis",
+      "Schenkelhalsfraktur",
+      "Femurkopffraktur",
+      "Azetabulumfraktur",
+      "Dysplasie"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Spondylodiszitis LWK4/5 mit paravertebralem Abszess",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "MRT-LWS: Spondylodiszitis LWK4/5 mit paravertebralem Abszess"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Spondylodiszitis LWK4/5 mit paravertebralem Abszess"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Dyspnoe präklinisch",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Dyspnoe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Epiglottitis",
+      "Pseudokrupp"
+    ],
+    "diagnostic_approach": [
+      "Präklinische Diagnostik",
+      "Atemkontrolle"
+    ]
+  },
+  {
+    "title": "Colitis ulcerosa",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit inkomplettem Rechtsschenkelblock"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Colitis ulcerosa"
+    ],
+    "diagnostic_approach": [
+      "Histologie: Kryptitis mit Mikroabszessen in Krypten",
+      "Atrophie der Becherzellen",
+      "Kontinuierliche Entzündung bis Submukosa"
+    ]
+  }
+]

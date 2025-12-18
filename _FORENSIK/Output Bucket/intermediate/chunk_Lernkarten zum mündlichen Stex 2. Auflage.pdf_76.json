@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 77/84) enthält **keine vollständigen klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Lernkarten-Material zur Koronaren Herzerkrankung (KHK)** - Abschnitte [II], [III], [IV]:\n   - Diagnostik (EKG, Belastungs-EKG, Herzkatheter)\n   - Therapie (akut, kausal, Revaskularisation)\n   - Weitere Informationen (Prinzmetal-Angina, Walking-through-Angina)\n   - DD, Komplikationen, Prognose\n\n2. **Lernkarten-Material zur Aortenklappenstenose** - Abschnitte [I], [II]:\n   - Definition\n   - Ätiologie\n   - Klinik\n   - Diagnostik\n\nDies sind rein **theoretische Lehrinhalte** ohne konkrete Patientenvorstellungen, Fallbeispiele oder klinische Szenarien mit spezifischen Patienten."
+  }
+]

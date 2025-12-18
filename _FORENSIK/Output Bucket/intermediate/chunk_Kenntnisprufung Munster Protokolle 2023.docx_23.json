@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Knieverletzung mit Verdacht auf Kreuzbandruptur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Knieverletzung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Valgus- und Varusstresstest",
+      "Pivot-Shift-Test",
+      "Steinmann-I-Zeichen",
+      "Payr-Zeichen"
+    ],
+    "imaging_findings": [
+      "MRT Knie nativ sagittal: Ruptur des hinteren Kreuzbandes",
+      "Arthroskopie: Knorpelschaden"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Ruptur des hinteren Kreuzbandes",
+      "Knorpelschaden"
+    ],
+    "diagnostic_approach": [
+      "Röntgenaufnahme Knie in 2 Ebenen a.p. und seitlich",
+      "Sonografie des Kniegelenks",
+      "MRT",
+      "Arthroskopie"
+    ]
+  },
+  {
+    "title": "Akute linksseitige Unterbauchschmerzen bei 63-jähriger Frau",
+    "patient_age": "63-jährige",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Akute linksseitige stechende Unterbauchschmerzen",
+      "Schmerzen seit 3 Tagen einschleichend gesteigert",
+      "Schmerzausstrahlung in ganzen Bauch",
+      "Flatulanz",
+      "Kopfschmerzen",
+      "Fieber 38.4°C",
+      "Übelkeit ohne Erbrechen",
+      "Blut im Toilettenpapier vor einer Woche",
+      "Probleme mit dem Wasserlassen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Verstopfung",
+      "Zustand nach Harnwegsinfekt (muss ausgeschlossen werden)",
+      "Zustand nach Fahrradunfall mit US"
+    ],
+    "medications": [
+      "Vitamin D",
+      "Ibuprofen gelegentlich",
+      "Gleitmittel aus Apotheke"
+    ],
+    "allergies": [
+      "Hühnereiweiß"
+    ],
+    "physical_examination": [
+      "Herz-Lungen-Untersuchung",
+      "Nieren-Untersuchung unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Divertikulitis",
+      "Harnwegsinfektion (DD)"
+    ],
+    "diagnostic_approach": [
+      "Labor",
+      "Bauch-Ultraschall",
+      "Stationäre Aufnahme"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 2/2) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Medikamentösen Therapierichtlinien:**\n   - Metamizol-Dosierung und Risiken\n   - Antikoagulation (DOAK-Mechanismen, Antidote)\n\n2. **Rechtlichen Aspekten:**\n   - Paragraphen (BGB, IfSG, AMG, BtMG)\n   - Off-Label-Use Voraussetzungen\n\n3. **Referenzwerten und Guidelines:**\n   - Blutdruckgrenzwerte\n   - Laborgrenzwerte\n   - Impfempfehlungen\n\n4. **Allgemeinen Hinweisen für die M3-Prüfung**\n\nEs handelt sich um ein **Referenzdokument/Lernmaterial** mit theoretischem Wissen, nicht um klinische Fallpräsentationen mit konkreten Patienten, Anamnese, Untersuchungsbefunden oder diagnostischen Prozessen."
+  }
+]

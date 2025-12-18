@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 111/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n- **Prüfungsfragen und -antworten** zu verschiedenen medizinischen Themen\n- **Theoretischen Wissensfragen** (z.B. \"Wie stellen Sie eine akute Niereninsuffizienz fest?\", \"Was ist der Zielblutdruck?\")\n- **Diagnostischen Grundlagenfragen** (z.B. \"Wie entsteht ein Röntgenbild?\", \"Was ist das Besondere an einem CT?\")\n- **Bildinterpretationsfragen** zu EKG, Röntgen und CT-Bildern ohne konkreten Patientenkontext\n\nEs handelt sich um ein Prüfungsprotokoll mit Frage-Antwort-Paaren, Musterlösungen und Fehleranalysen, aber **keine konkreten Patientenpräsentationen** mit Anamnese, klinischem Verlauf oder Falldarstellungen.\n\nDie erwähnten medizinischen Befunde (z.B. \"AV-Block 3. Grades\", \"freie Luft im Abdomen\", \"Perforation\") sind isolierte Lehrantworten ohne zugehörigen Patientenfall."
+  }
+]

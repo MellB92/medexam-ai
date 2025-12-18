@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Hüftfraktur nach nächtlichem Sturz bei Diabetes",
+    "patient_age": "67-jährige",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Sturz auf der Seite",
+      "kann das Bein nicht mehr bewegen"
+    ],
+    "accident_mechanism": "gestern nacht gestürzt auf der Seite",
+    "pre_existing_conditions": [
+      "DM Typ 2",
+      "Z.n. Cholezystektomie",
+      "TVT",
+      "Anal Fistel"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "HRS",
+      "alle Pulse tasten (Carotis, radial, ulnar, femoral, tibial posterior, pedis dorsalis)",
+      "Auskultation an ICR",
+      "Neurologische Untersuchung mit Reflexen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hüftfraktur"
+    ],
+    "diagnostic_approach": [
+      "Komplette körperliche Untersuchung",
+      "Pulsstatus",
+      "Auskultation",
+      "Neurologische Untersuchung"
+    ]
+  },
+  {
+    "title": "Polytrauma nach Verkehrsunfall",
+    "patient_age": "Mittel 60-jährige",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "starke Schmerzen des rechten Beins",
+      "Kopfschmerzen",
+      "Luftnot"
+    ],
+    "accident_mechanism": "vor kurzem einen Verkehrsunfall hatte, wurde ins Krankenhaus mit dem Rettungsdienstwagen gebracht",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Patient war stabil",
+      "Vitalparameter gemessen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Trauma"
+    ],
+    "diagnostic_approach": [
+      "Bild des Kopfes",
+      "Thorax",
+      "rechtes Knie",
+      "schnelle Anamnese",
+      "Medikamente, Noxen, Allergien sowie Vorerkrankungen befragt",
+      "Labordiagnostik"
+    ]
+  },
+  {
+    "title": "Tibiafraktur rechts",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild Tibiafraktur rechts",
+      "Frakturfuge"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tibiafraktur rechts",
+      "mögliche Meniskusverletzung",
+      "mögliche Kreuzbänderrisse"
+    ],
+    "diagnostic_approach": [
+      "Röntgen",
+      "Klassifikation",
+      "Anatomie",
+      "mögliche Begleit Verletzungen",
+      "Weichteile Komplikationen (Arteria poplitea, Nervus peronaeus, Fußheberparese)"
+    ]
+  }
+]

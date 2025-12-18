@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Kreuzbandruptur nach Kollision mit Kinderwagen",
+    "patient_age": null,
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen im Kniegelenk (5/10 in Ruhe, 8/10 bei Belastung)",
+      "Konnte nicht auf linken Fuß treten",
+      "Schmerzen in der Hand nach Sturz"
+    ],
+    "accident_mechanism": "Kind prallte mit einem Kinderwanderer gegen ihn, dabei wurde sein Kniegelenk verdreht, Patient fiel auf die Hand",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Keine Bewusstlosigkeit",
+      "Keine Prodromie",
+      "DMS-Untersuchung für beide Knie und linken Fuß durchgeführt",
+      "Herz-, Lungen- und Bauchuntersuchungen durchgeführt",
+      "Funktionstests wegen Schmerzen zunächst nicht durchgeführt, später auf Anweisung der Kommissionsärztin durchgeführt",
+      "Keine Auffälligkeiten in vegetativer Anamnese"
+    ],
+    "imaging_findings": [
+      "MRT des Knies (nativ, sagittaler Schnitt): Ruptur des hinteren Kreuzbandes",
+      "Arthroskopie des Kniegelenks: Knorpelschaden"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Ruptur des hinteren Kreuzbandes",
+      "Knorpelschaden"
+    ],
+    "diagnostic_approach": [
+      "Röntgenaufnahme (Knie in 2 Ebenen a.p. und seitlich)",
+      "Sonografie des Kniegelenks",
+      "MRT",
+      "Funktionsuntersuchungen: Valgus- und Varusstresstest, Pivot-Shift-Test, Steinmann-I-Zeichen, Payr-Zeichen",
+      "Arthroskopie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Rheumatoide Arthritis mit Meläna",
+    "patient_age": "73J",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Beschwerden der rheumatischen Arthritis seit 4 Monaten",
+      "Meläna"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Rheumatoide Arthritis"
+    ],
+    "medications": [
+      "Ibuprofen"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "RA Hand",
+      "Knie",
+      "Bewegungsumfang",
+      "DMS",
+      "Abdomen",
+      "Thorax",
+      "peripherer Puls",
+      "Blutdruck",
+      "DRU durchgeführt"
+    ],
+    "imaging_findings": [
+      "Röntgen RA"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rheumatoide Arthritis",
+      "Oberbauchschmerzen (DD)",
+      "Aortenaneurysma (DD)",
+      "A. poplitea Aneurysma"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung",
+      "DRU",
+      "Röntgen",
+      "Ausschluss Differentialdiagnosen"
+    ]
+  },
+  {
+    "title": "Rheumatoide Arthritis mit Schwindel",
+    "patient_age": "65",
+    "patient_gender": null,
+    "chief_complaints": [
+      "Schwindel"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Rheumatoide Arthritis",
+      "Adipositas",
+      "DM Typ 2",
+      "diabetische Nephropathie"
+    ],
+    "medications": [
+      "SGLT2 Hemmer",
+      "ACE-Hemmer",
+      "Levothyrox"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Blutdruck"
+    ],
+    "imaging_findings": [
+      "EKG: linksherzhypertrophie"
+    ],
+    "laboratory_findings": [
+      "Urin-Untersuchung erwogen"
+    ],
+    "suspected_diagnosis": [
+      "Rheumatoide Arthritis",
+      "Linksherzhypertrophie",
+      "Systolikum",
+      "Pruritus (verschiedene Ursachen)"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung",
+      "EKG",
+      "Laboruntersuchung",
+      "Urin-Untersuchung",
+      "Sammelurin"
+    ]
+  }
+]

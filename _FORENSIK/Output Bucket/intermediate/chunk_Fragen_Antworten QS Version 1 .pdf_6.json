@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Hypertensiver Notfall mit KHK und TIA\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Blutdruckerhöhung 230/120 mmHg\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"Koronare Herzkrankheit (KHK)\", \"TIA (Transitorisch ischämische Attacke)\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"RR 230/120 mmHg\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Hypertensiver Notfall mit akuter Endorganschädigung\"],\n    \"diagnostic_approach\": [\n      \"12-Kanal-EKG (Ischämie?)\",\n      \"Labor: Troponin, Kreatinin, Elektrolyte\",\n      \"CT-Schädel (TIA-Abklärung)\",\n      \"Invasive RR-Messung erwägen\",\n      \"EKG-Monitoring\",\n      \"Stündliche Neuro-Checks\"\n    ]\n  }\n]\n```"
+  }
+]

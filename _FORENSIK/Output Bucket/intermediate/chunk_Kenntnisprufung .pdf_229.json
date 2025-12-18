@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Vitamin-B12-Mangel-Anämie bei Coxarthrose und NSAR-Einnahme",
+    "patient_age": "63 Jahre",
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "Hinken",
+      "Schmerzen in der linken Hüfte seit einem Jahr",
+      "Blutarmut (vom Hausarzt festgestellt)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus",
+      "Perikarditis",
+      "Coxarthrose links"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "NSAR-Einnahme ohne Magenschutz"
+    ],
+    "family_history": [
+      "Vater mit 82 Jahren an pAVK verstorben",
+      "Mutter mit 92 Jahren an Pneumonie verstorben"
+    ],
+    "social_history": [
+      "verheiratet",
+      "wohnt mit Familie"
+    ],
+    "medications": [
+      "Metformin",
+      "Diclofenac ohne Magenschutz"
+    ],
+    "allergies": [
+      "Nickel"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Streckdefizit der Hüfte",
+      "Parästhesie in den Unterschenkeln",
+      "Brennen in der Zunge",
+      "neurologische Untersuchung durchgeführt",
+      "Lunge untersucht",
+      "Kardio-Peripherie",
+      "Pulse und Reflexe geprüft",
+      "Abdomen untersucht"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Vitamin-B12-Mangel-Anämie sekundär zu NSAR-Einnahme"
+    ],
+    "diagnostic_approach": [
+      "Körperliche Untersuchung von Kopf bis Fuß",
+      "Vitalwerte",
+      "neurologische Untersuchung",
+      "DRU geplant",
+      "Vibrationstest geplant"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Kopfschmerzen",
+      "Appetitlosigkeit",
+      "Gewichtsverlust",
+      "autonome Neuropathie vermutet"
+    ],
+    "follow_up": [
+      "Hüftgelenkersatzoperation durch Orthopäden geplant"
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Multiples Myelom bei 67-jähriger Frau mit grippeähnlichen Symptomen",
+    "patient_age": "67 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Grippeähnliche Symptome seit 4 Wochen",
+      "Trockener Husten",
+      "Schmerzen im rechten Rippenbogen",
+      "Rückenschmerzen",
+      "Schmerzen im rechten Arm",
+      "Inappetenz",
+      "Müdigkeit bei Anstrengung",
+      "Veränderter Urin",
+      "Gewichtsverlust von 8 kg in 6 Monaten",
+      "Übermäßiger Nachtschweiß",
+      "Fieber",
+      "Schlaflosigkeit",
+      "Verstopfung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Rhinitis seit der Kindheit",
+      "Beinvenenthrombose im Alter von 55 Jahren",
+      "Z.n. schwerem Autounfall mit Rippenfrakturen im Alter von 45 Jahren (mehrfache Operationen)",
+      "Z.n. Arthroskopie des Ellenbogens vor zwei Jahren"
+    ],
+    "medications": [
+      "Ducolax",
+      "Cetirizin",
+      "Ibuprofen 400 mg",
+      "Olynt Nasenspray"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild der rechten Schulter zeigt normale anatomische Strukturen",
+      "Keine Osteolysen am Schaft und distalen Humerus sichtbar (aber auf Multiples Myelom hinweisend möglich)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Multiples Myelom"
+    ],
+    "diagnostic_approach": [
+      "Labor: Blutbild, BSG, Elektrolyte, Kreatinin, Kalzium",
+      "Serum- und Urinelektrophorese",
+      "Freie Leichtketten im Serum und Urin",
+      "Immunfixation",
+      "Bildgebung: Röntgen, MRT, PET-CT",
+      "Knochenmarkbiopsie"
+    ]
+  },
+  {
+    "title": "Hämopneumothorax nach stumpfem Trauma",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Stumpfes Trauma"
+    ],
+    "accident_mechanism": "Stumpfes Trauma",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild zeigt Luft (Pneumothorax) im Pleuraspalt",
+      "Blut (Hämothorax) im Pleuraspalt",
+      "Verdrängung der Lunge",
+      "Kollabierte Lunge befindet sich an der medialen Seite des Thorax"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hämopneumothorax"
+    ],
+    "diagnostic_approach": [
+      "Thoraxröntgen",
+      "Thoraxdrainage (Therapie)"
+    ]
+  }
+]

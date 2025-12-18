@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle** mit Patientenvorstellung. Es handelt sich ausschließlich um:\n\n1. **Theoretische Wissensfragen** aus einer Kenntnnisprüfung:\n   - Pharmakologie (Kalziumantagonisten)\n   - Strahlenschutz (Dosisarten)\n   - Heilberufsgesetz\n   - ALARA-Prinzip\n\n2. **Isolierte diagnostische/therapeutische Fragen ohne Patientenkontext:**\n   - \"Was müssen Sie tun, um die Diagnose Colitis zu bestätigen?\" (theoretische Frage)\n   - \"Welche Diagnose stellen Sie bei einem EKG mit SIQ3...?\" (hypothetisches Szenario ohne Patientendetails)\n   - \"Beschreiben Sie das Bild einer Hand mit rheumatoider Arthritis\" (Bildbeschreibungsaufgabe)\n   - \"Wie behandeln Sie eine Claviculafraktur?\" (allgemeine Therapiefrage)\n   - Definitionen (Analfistel, Analfissur, Sinus pilonidalis)\n   - Aufzählung von Symptomen/Staging beim Kolonkarzinom\n\n3. **Format:** Frage-Antwort-Paare aus einem Prüfungsprotokoll mit:\n   - antwort_kandidat\n   - musterloesung_leitlinie\n   - analyse_fehler_tipps\n\n**Keine dieser Fragen präsentiert einen konkreten Patienten** mit Alter, Geschlecht, Anamnese, Untersuchungsbefunden oder einem spezifischen klinischen Verlauf."
+  }
+]

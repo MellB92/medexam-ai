@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. Es handelt sich ausschließlich um:\n\n1. **OPS-Code-Listen** (Operationen- und Prozedurenschlüssel) für Intensivmedizin Level 2 und Level 3\n2. **Technische Klassifikationen** von intensivmedizinischen Komplexbehandlungen nach Aufwandspunkten\n3. **Diagnostische Prozedurencodes** (z.B. perkutane Punktionen, infektiologisches Monitoring)\n4. **ECMO-Therapie-Codes** mit verschiedenen Behandlungsdauern\n\nEs gibt:\n- Keine Patientengeschichten\n- Keine Symptombeschreibungen\n- Keine klinischen Präsentationen\n- Keine Untersuchungsbefunde von konkreten Patienten\n- Keine diagnostischen oder therapeutischen Überlegungen zu individuellen Fällen\n\nDies ist ein administratives/klassifikatorisches Dokument zur Krankenhausvergütung, kein klinisches Fallmaterial."
+  }
+]

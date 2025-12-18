@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Inzidentalom - Nebennierenadenom mit arterieller Hypertonie\",\n    \"patient_age\": \"69 Jahre\",\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Bluthochdruck 165 mmHg\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"Rückenschmerzen seit 20 Jahren aufgrund Beckenbruch\", \"belastungsabhängige Dyspnoe\", \"Fersenschmerzen\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\"Sonographie rechte Flankenregion: auffälliger Befund\", \"Sonographie: echoarme Raumforderung am vorderen Nierenpol\", \"Befund spricht für Nebennierenadenom\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Inzidentalom\", \"Nebennierenadenom\", \"Sekundäre arterielle Hypertonie\", \"Conn-Syndrom\", \"Cushing-Syndrom\", \"Phäochromozytom\"],\n    \"diagnostic_approach\": [\"Routineuntersuchung beim Hausarzt\", \"Sonographie Flankenregion\", \"Überweisung ins Krankenhaus zur weiteren Diagnostik\", \"Labordiagnostik: Serum- und Urinuntersuchungen\", \"Mitternachtscortisol\", \"ACTH-Bestimmung\", \"Zirkadianenrhythmus von Cortisol beachten\"]\n  }\n]\n```"
+  }
+]

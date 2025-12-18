@@ -1,0 +1,28 @@
+[
+  {
+    "title": "DM Typ 2 mit Müdigkeit, Durst und Polyurie",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Müdigkeit",
+      "Schwindel",
+      "Konzentrationstörung",
+      "Durst",
+      "Polyurie mit Nykturie seit 4-5 Monaten",
+      "diffuse Bauchschmerzen (nicht akut)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "körperliche Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Diabetes mellitus Typ 2"
+    ],
+    "diagnostic_approach": []
+  }
+]

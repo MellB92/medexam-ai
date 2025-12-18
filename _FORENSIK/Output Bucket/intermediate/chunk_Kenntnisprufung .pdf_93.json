@@ -1,0 +1,105 @@
+[
+  {
+    "title": "Akutes Abdomen mit Verdacht auf Appendizitis bei 66-jähriger Patientin",
+    "patient_age": "66-jährige",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Seit einem Tag bestehende kolikartige, verschlechternde, starke Abdominalschmerzen",
+      "Schmerzen begannen im mittleren Bauch und verlagerten sich in die rechte Seite des Unterabdomens",
+      "Schmerzintensität NRS 5-6/10, keine weitere Ausstrahlung",
+      "Fieber",
+      "Inappetenz",
+      "Übelkeit und einmaliges Erbrechen (nicht blutig, keine Farbänderung, nur Restessen)",
+      "Dunkler Urin",
+      "Keine Diarrhö",
+      "Keine Dysurie",
+      "Kein Ikterus",
+      "Keine merkbare Änderung bei der Stuhlfarbe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. TVT bei Schwangerschaft vor mehreren Jahren",
+      "Z.n. Ellenbogen-Verletzung vor 3 Wochen (konservativ behandelt)",
+      "Herzklappenvitien (Typ unbekannt)",
+      "Vitamin-Mangel (Vitamin D)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Keine schweren vererbbaren Krankheiten"
+    ],
+    "social_history": [
+      "Vor 1 Woche beim Zahnarzt gewesen",
+      "Verwitwet",
+      "2 Kinder",
+      "Rentnerin",
+      "Kein Pflegegrad",
+      "Vollständig geimpft",
+      "Kein Gewichtsverlust",
+      "Keine Schlafstörungen"
+    ],
+    "medications": [
+      "Ibuprofen Tabletten",
+      "Buscopan (mit weniger Linderung)",
+      "Vitamin D Tablette regelmäßig (Dosis unbekannt)"
+    ],
+    "allergies": [
+      "Pflaster (äußert sich als Hautausschlag)"
+    ],
+    "vital_signs": [
+      "Puls 78/min",
+      "RR 110/70 mmHg (beide Arme gemessen)",
+      "Febril",
+      "Gewicht 76 kg",
+      "Größe 1,61 m"
+    ],
+    "physical_examination": [
+      "Reduzierter Allgemeinzustand",
+      "Febril",
+      "Abdomen: Nicht vergrößert",
+      "Normale Darmgeräusche",
+      "Abwehrspannung erkennbar",
+      "Schwergradiger Druckschmerz rechte Fossa iliaca (McBurney-Punkt)",
+      "Psoas-Zeichen positiv",
+      "Blumberg-Zeichen positiv",
+      "Murphy-Zeichen nicht beurteilbar wegen Schmerzen",
+      "CVS: S1 S2 normal",
+      "Respiratorisch: Unauffällig",
+      "CNS: Unauffällig",
+      "Muskuloskeletal: Unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akutes Abdomen",
+      "Akute Appendizitis (Hauptverdacht)",
+      "Divertikulitis",
+      "Harnwegsinfekt",
+      "Salpingitis",
+      "Cholezystitis (auszuschließen)"
+    ],
+    "diagnostic_approach": [
+      "BB, CRP",
+      "Procalcitonin",
+      "Elektrolyte",
+      "Nierenwerte",
+      "Leberwerte (AST, ALT, GGT)",
+      "Lipase, Amylase",
+      "Urinanalyse",
+      "Abdomen-Sonografie zuerst",
+      "Weitere Bildgebung wie erforderlich"
+    ],
+    "treatment_response": [
+      "Buscopan mit weniger Linderung"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Nahrungskarenz ab sofort",
+      "Intravenöse Flüssigkeit",
+      "Analgetika: Mit PCM anfangen, weitere wie erforderlich",
+      "Antibiotika nach Diagnosebestätigung",
+      "Operation erwägen nach Diagnosebestätigung"
+    ]
+  }
+]

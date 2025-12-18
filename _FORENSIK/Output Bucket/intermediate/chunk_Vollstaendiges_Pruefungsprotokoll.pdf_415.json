@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Acetabulumfraktur im CT Becken",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Acetabulumfraktur",
+      "nicht schlecht disloziert"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Acetabulumfraktur"
+    ],
+    "diagnostic_approach": [
+      "CT Becken"
+    ]
+  },
+  {
+    "title": "Dünndarmileus",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Dünndarmileus"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Dünndarmileus"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Hinterwandinfarkt im EKG",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit Hinterwandinfarkt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hinterwandinfarkt",
+      "Herzinfarkt"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "ASS+Prasugrel",
+      "Heparin",
+      "Morphin",
+      "MCP",
+      "PTCA"
+    ]
+  },
+  {
+    "title": "Dislozierte distale Radiusfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Dislozierte distale Radiusfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Dislozierte distale Radiusfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen"
+    ]
+  },
+  {
+    "title": "Schulterluxation",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Schulterluxation"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schulterluxation"
+    ],
+    "diagnostic_approach": [
+      "Röntgenbild"
+    ]
+  }
+]

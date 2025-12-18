@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Akuter Thoraxschmerz mit Luftnot - Aortendissektion",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "critical",
+    "chief_complaints": [
+      "Brustschmerzen",
+      "Luftnot"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "schlechte Sauerstoffwerte"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT: Aortendissektion"
+    ],
+    "laboratory_findings": [
+      "BGA: metabolische Azidose",
+      "Hyperkaliämie",
+      "Laktat erhöht"
+    ],
+    "suspected_diagnosis": [
+      "Aortendissektion",
+      "mesenteriale Ischämie",
+      "Hypoxie"
+    ],
+    "diagnostic_approach": [
+      "Monitoring Vitalzeichen",
+      "EKG",
+      "BGA",
+      "Multi-Detektor-CT-Untersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "metabolische Azidose",
+      "Hyperkaliämie",
+      "Hypoxie"
+    ],
+    "follow_up": [
+      "operative Behandlung"
+    ]
+  },
+  {
+    "title": "Progrediente Kopfschmerzen mit Meningismus",
+    "patient_age": "62",
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "globale Kopfschmerzen seit 2 Wochen",
+      "progrediente Kopfschmerzen",
+      "Schmerzintensität 8/10",
+      "Nackensteifigkeit",
+      "Lichtempfindlichkeit",
+      "Übelkeit",
+      "Fieber (nicht gemessen)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [
+      "Pollen",
+      "Antibiotikum (Name nicht erinnerlich)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Nackensteifigkeit",
+      "Lichtempfindlichkeit"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Verdacht auf Meningitis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

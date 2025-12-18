@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 85/111) aus dem EKG-Kurs-Lehrbuch enthält **keine klinischen Patientenfälle**. \n\nDer Abschnitt behandelt:\n\n1. **Lektion 36: Typische Fehlermöglichkeiten und EKG-Artefakte**\n   - Technische Aspekte der EKG-Aufzeichnung\n   - Wechselstromüberlagerungen\n   - Muskelpotenziale\n   - Bewegungsartefakte\n   - Allgemeine Hinweise zur Vermeidung von Störsignalen\n\n2. **Einführung zum EKG-Beispiele-Teil**\n   - Inhaltsverzeichnis der EKG-Beispiele (Nr. 1-45)\n   - Erklärung zur systematischen EKG-Befundung\n   - Hinweise zur Nutzung des EKG-Atlas\n\nEs handelt sich um rein **didaktisches Material** ohne konkrete Patientenfälle. Die aufgelisteten EKG-Beispiele sind lediglich als Übersichtsliste angegeben, ohne dass die eigentlichen Fälle mit Patientendetails in diesem Chunk präsentiert werden."
+  }
+]

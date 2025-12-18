@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Diabetes mellitus Typ 2 bei 66-jähriger Patientin mit Polyurie und Polydipsie",
+    "patient_age": "66J",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Fatigue seit 4-5 Monaten",
+      "Polyurie",
+      "Polydipsie",
+      "Nykturie",
+      "Pruritus",
+      "Kribbeln in Händen beidseits"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Dyslipidämie",
+      "FSME mit 25 Jahren",
+      "Humerus Fraktur vor 25 Jahren (konservativ behandelt)"
+    ],
+    "comorbidities": [
+      "Sodbrennen",
+      "Saures Aufstoßen"
+    ],
+    "risk_factors": [
+      "Rauchen (1 Zigarette gelegentlich seit Jahren)",
+      "Alkoholkonsum (1 Glas Wein gelegentlich)"
+    ],
+    "family_history": [
+      "Mutter: Magengeschwulst mit OP",
+      "Vater: Morbus Bechterew"
+    ],
+    "social_history": [
+      "Rentnerin",
+      "Früher im Finanzamt tätig",
+      "Verheiratet",
+      "2 Kinder",
+      "Mehrere Enkelkinder",
+      "Backt gerne Kuchen für Enkelkinder"
+    ],
+    "medications": [
+      "Sevikar 20mg/5mg (1-0-0)",
+      "Simvastatin 10mg (0-0-1)"
+    ],
+    "allergies": [
+      "Hundehaar-Allergie"
+    ],
+    "vital_signs": [
+      "RR: 150/90 mmHg"
+    ],
+    "physical_examination": [
+      "Vitalparameter weitgehend unauffällig",
+      "Striae bei abdominaler Inspektion",
+      "Leicht erhöhter Blutdruck",
+      "Körperliche Untersuchung sonst unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Diabetes mellitus Typ 2",
+      "Diabetes insipidus (Differentialdiagnose)"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

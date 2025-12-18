@@ -1,0 +1,61 @@
+[
+  {
+    "title": "LKW-Fahrer mit diffusen Bauchschmerzen nach Lenkradtrauma",
+    "patient_age": "62-jähriger",
+    "patient_gender": "Mann",
+    "chief_complaints": [
+      "diffuse Bauchschmerzen",
+      "Müdigkeit",
+      "Schnarchen",
+      "nächtliche Atempausen"
+    ],
+    "accident_mechanism": "Unfall mit Aufprall auf das Lenkrad",
+    "pre_existing_conditions": [
+      "10 kg Gewichtszunahme in einem Jahr"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Milzruptur",
+      "Obstruktives Schlafapnoe-Syndrom",
+      "Stumpfes Bauchtrauma mit Verdacht auf innere Verletzungen (Milzruptur, Leberruptur, Darmperforation)"
+    ],
+    "diagnostic_approach": [
+      "Labor: Blutbild, Gerinnungsparameter, Leber- und Nierenwerte, Amylase/Lipase, Urinstatus",
+      "Sonographie des Abdomens (FAST-Ultraschall)",
+      "CT-Abdomen mit Kontrastmittel",
+      "Röntgen-Thorax/Abdomen im Stehen",
+      "EKG",
+      "Blutgasanalyse",
+      "ggf. diagnostische Laparoskopie/Laparotomie"
+    ]
+  },
+  {
+    "title": "Freie Luft im Abdomen auf Röntgenbild",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Freie Luft im Abdomen unter den Zwerchfellen (aufrechter Thorax/Abdomen im Stehen)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hohlorganperforation",
+      "Magen-/Darmperforation",
+      "Perforation eines Hohlorgans (Magen, Dünndarm, Dickdarm)"
+    ],
+    "diagnostic_approach": [
+      "Sofortige chirurgische Intervention (Notfall-Laparotomie)",
+      "LSK und ggf. Laparotomie",
+      "Stabilisierung des Patienten (Volumentherapie, Analgesie, Antibiotika)"
+    ]
+  }
+]

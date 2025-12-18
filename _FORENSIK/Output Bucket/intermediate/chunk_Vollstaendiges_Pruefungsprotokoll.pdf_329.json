@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Marathonläufer mit Nierenversagen nach 14 km\",\n    \"patient_age\": null,\n    \"patient_gender\": \"m\",\n    \"chief_complaints\": [\"Nierenversagen nach 14 km Marathonlauf\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [\"NSAR (möglicherweise vor dem Lauf gegen Knieschmerzen eingenommen)\"],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Akutes Nierenversagen\", \"Dehydration\", \"Rhabdomyolyse\", \"NSAR-induziertes Nierenversagen\"],\n    \"diagnostic_approach\": [\"Dialyse\"]\n  }\n]\n```"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Schenkelhalsfraktur nach Sturz bei Diabetikerin",
+    "patient_age": "66-jährig",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "starke Schmerzen",
+      "Fehlstellung des Beines in Außenrotation",
+      "Verkürzung des Beines",
+      "Schmerzen bei Bewegungsversuch im Hüftgelenk"
+    ],
+    "accident_mechanism": "heute Morgen auf der Inneren Station auf der linken Seite gestolpert",
+    "pre_existing_conditions": [
+      "DM Typ II seit 8 Monaten",
+      "Z.n. TVT nach der Geburt vor ca. 33 Jahren",
+      "Z.n. Analfisteln",
+      "V.a. arterielle Hypertonie (einmal beim HA gemessen, sollte weiter abgeklärt werden)",
+      "Herzrhythmusstörung in Abklärung (Grund für stationären Aufenthalt)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Metformin 1000 mg Tbl. 1-0-0-0"
+    ],
+    "allergies": [
+      "Nickel"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Beinuntersuchung: DMS",
+      "Inspektion",
+      "Palpation",
+      "Bewegungs- und Funktionsuntersuchung",
+      "neurologische Untersuchung",
+      "Lungenuntersuchung",
+      "Abdomenuntersuchung",
+      "keine Hinweise auf Schädeltrauma",
+      "keine Kopfschmerzen",
+      "keine Übelkeit"
+    ],
+    "imaging_findings": [
+      "Röntgen: Fraktur dargestellt",
+      "Klassifikation nach Pauwels"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "V.a. Schenkelhalsfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Komplikationen wurden besprochen (nicht spezifiziert)"
+    ],
+    "follow_up": []
+  }
+]

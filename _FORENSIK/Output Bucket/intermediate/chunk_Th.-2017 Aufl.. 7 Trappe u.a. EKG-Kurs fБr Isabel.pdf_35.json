@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 36/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle**, sondern ausschließlich:\n\n1. **Theoretische Lehrinhalte** über EKG-Interpretation:\n   - Bestimmung von T-Wellen\n   - Unterscheidung zwischen spezifischen und unspezifischen Erregungsrückbildungsstörungen\n   - Regionale Zuordnung von ST-Strecken-Veränderungen\n\n2. **Anatomische Abbildungen** (Abb. 16.5, 16.6, 16.8):\n   - Verteilungskriterien bei ST-Strecken-Veränderungen\n   - Pathophysiologische Mechanismen\n\n3. **Didaktische Erklärungen**:\n   - Charakteristische Befunde bei Myokardinfarkt (STEMI)\n   - ST-Strecken-Hebungen bei Perikarditis\n   - Allgemeine Ursachen von EKG-Veränderungen\n\nEs handelt sich um ein **Lehrbuch-Kapitel** (Lektion 16) ohne konkrete Patientenfälle, Anamnesen oder individuelle klinische Präsentationen."
+  }
+]

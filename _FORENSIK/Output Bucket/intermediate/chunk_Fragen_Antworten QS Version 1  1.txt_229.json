@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 230/284) enthält **keine klinischen Patientenfälle**.\n\nDer Abschnitt beinhaltet ausschließlich:\n\n1. **Technische CT-Parameter** (Dual Source CT, Pitch-Faktor, Kollimation, FOV, Fenstereinstellungen)\n2. **Allgemeine radiologische Standardwerte** (Weichteil-, Lungen-, Knochenfenster in HU)\n3. **Methodische Grundlagen** (ALARA-Prinzip, Strahlenschutz)\n4. **Metainformationen zur Dokumentbearbeitung** (Zusammenfassung der Korrekturstatus von Fragen 601-675)\n5. **Exemplarische Laborwerte** als theoretische Beispiele (CRP-Normwerte, Troponin) ohne Patientenkontext\n\nEs handelt sich um theoretisches Lehrmaterial und dokumentarische Metainformationen, jedoch um **keine konkreten Patientenfälle mit Anamnese, Untersuchungsbefunden oder diagnostischen Überlegungen**."
+  }
+]

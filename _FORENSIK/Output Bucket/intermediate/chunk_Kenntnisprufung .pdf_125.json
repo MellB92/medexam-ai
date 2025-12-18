@@ -1,0 +1,139 @@
+[
+  {
+    "title": "Makrozytäre Anämie mit B12-Mangel und Magenschleimhaut-Metaplasie",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Hüftschmerzen rechts",
+      "Abgeschlagenheit",
+      "Müdigkeit",
+      "Kribbeln in den Füßen beidseitig"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes Mellitus seit 5 Jahren",
+      "Leistenbruch (operiert)",
+      "Herzbeutel-OP",
+      "Zyste im Dickdarm"
+    ],
+    "comorbidities": [
+      "Magenschleimhaut-Metaplasie mit Verlust der Parietalzellen"
+    ],
+    "risk_factors": [
+      "Ex-Raucher seit 5 Jahren (12,5 py)",
+      "Alkoholkonsum (500ml Bier täglich)",
+      "Ibuprofen-Langzeiteinnahme (3 Monate)"
+    ],
+    "family_history": [
+      "Vater an Herzerkrankung gestorben",
+      "Mutter 92 Jahre alt ohne relevante Erkrankungen, lebt im Altenheim",
+      "Keine Geschwister"
+    ],
+    "social_history": [
+      "Ex-Raucher seit 5 Jahren",
+      "Alkoholkonsum 500ml Bier täglich",
+      "Kein Veganer"
+    ],
+    "medications": [
+      "Metformin 1000mg 0-0-1",
+      "Ibuprofen 600mg 1-0-1 seit etwa 3 Monaten",
+      "Paracetamol 500mg bei Bedarf"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Lymphknotenstatus unauffällig",
+      "Keine Druckschmerzen in Bauch",
+      "Milz-, Magen-, Kolonbereich unauffällig",
+      "Lunge und Herz unauffällig",
+      "Neurologische Untersuchung: Kraft, Sensibilität und Reflexe obere Extremität unauffällig",
+      "Untere Extremität eingeschränkt prüfbar wegen Hüftschmerzen rechts",
+      "Patient konnte rechtes Bein nicht ausstrecken wegen Schmerzen",
+      "Patella- und Achillessehnenreflexe geprüft"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Makroskopische makrozytäre Anämie im Erythrozytenindex"
+    ],
+    "suspected_diagnosis": [
+      "Eisenmangel-Anämie (ggf. asymptomatisches Magenulkus durch Ibuprofen)",
+      "Vitamin B12-Mangel (durch Magenschleimhaut-Metaplasie und chronische HP-Besiedlung)",
+      "DD: Malignom"
+    ],
+    "diagnostic_approach": [
+      "Blutbild mit Erythrozytenindex",
+      "ÖGD mit Biopsie",
+      "Urease-Schnelltest für H. pylori"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Gewichtsverlust 3 kg in einem Monat",
+      "Appetitlosigkeit und Völlegefühl",
+      "Periphere Polyneuropathie (Kribbeln in Füßen)",
+      "Mögliche funikuläre Myelose"
+    ],
+    "follow_up": [
+      "VitB-12 Substitution intramuskulär",
+      "Gegebenenfalls HP-Eradikation wenn positiv",
+      "Blutzuckereinstellung optimieren (Hausarzt nicht zufrieden)"
+    ]
+  },
+  {
+    "title": "Perimyokarditis mit Perikarderguss und drohender Herztamponade",
+    "patient_age": "16",
+    "patient_gender": "m",
+    "severity": "critical",
+    "chief_complaints": [
+      "Atemabhängige Brustschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "BD 90/50 mmHg",
+      "HF 120/min"
+    ],
+    "physical_examination": [
+      "Lunge unauffällig",
+      "Herz: leise Herztöne"
+    ],
+    "imaging_findings": [
+      "EKG: Zeichen einer Perimyokarditis",
+      "Herzecho: Perikarderguss",
+      "Kompression des rechten Ventrikels im Video sichtbar"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perimyokarditis mit Perikarderguss",
+      "Drohende Herztamponade",
+      "Ätiologie: wahrscheinlich viral (Coxsackievirus oder Epstein-Barr-Virus passend zum Alter)",
+      "DD: Kollagenose (eher Frauen betroffen)",
+      "DD: Vaskulitiden (eher ältere Patienten)"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Körperliche Untersuchung",
+      "EKG",
+      "Herzecho"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Kompression des rechten Ventrikels",
+      "Verminderte Ventrikelfüllung",
+      "Verminderter Auswurf",
+      "Blutdruckabfall",
+      "Kardiogener Schock"
+    ],
+    "follow_up": [
+      "Notfall: ABC-Maßnahmen",
+      "Sofortige Perikardpunktion durch Kardiologen",
+      "Bei viraler Perimyokarditis: Bettruhe, NSAR, Glukokortikoide, Colchicin"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 1/12) enthält **keine klinischen Patientenfälle**. \n\nDer Inhalt besteht ausschließlich aus:\n\n1. **Einleitungsmaterial**: Titelseite, Datum (02.04.2024), Copyright-Hinweise\n2. **Kursübersicht**: Gliederung der Vorlesungsreihe \"Bildgebende Verfahren\" über 3 Tage\n3. **Theoretisches Grundlagenwissen**:\n   - Physikalische Eigenschaften von Röntgenstrahlung\n   - Technische Erklärungen (Streustrahlenraster)\n   - Allgemeine Indikationen für Röntgenuntersuchungen\n   - Befundungsschemata für Röntgen-Thorax\n   - Grundlagen zu Primärstrahlenkegel und Röntgendichte\n\n4. **Didaktische Fragen**: Z.B. \"Kann jemand von Ihnen erklären, was ein Streustrahlenraster ist?\" - dies sind Wissensfragen, keine Patientenfälle\n\nEs werden zwar **Beispiele für Pathologien genannt** (Pneumonie, Herzinsuffizienz, Tuberkulose), aber diese sind rein theoretischer Natur ohne konkrete Patientenpräsentation mit Anamnese, Befunden oder diagnostischem Vorgehen."
+  }
+]

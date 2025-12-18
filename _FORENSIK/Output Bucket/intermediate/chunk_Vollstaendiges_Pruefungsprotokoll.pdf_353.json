@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"TEP-Operation bei 81-jähriger Patientin mit Bedenken\",\n    \"patient_age\": \"81-jährige\",\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"keine Exsikkose\", \"keine Elektrolytstörungen\"],\n    \"laboratory_findings\": [\"normale Glukose\"],\n    \"imaging_findings\": [],\n    \"suspected_diagnosis\": [],\n    \"diagnostic_approach\": []\n  },\n  {\n    \"title\": \"Anämie und Entzündung bei Colitis ulcerosa vs. Morbus Crohn\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\"Leukozyten: 14.000\", \"Hb: 8,2 g/dL\", \"Anämie, mikrozytär, hypochrom\", \"CRP: 40\"],\n    \"suspected_diagnosis\": [\"Colitis ulcerosa\", \"Morbus Crohn\"],\n    \"diagnostic_approach\": [\"Koloskopie\"]\n  }\n]\n```"
+  }
+]

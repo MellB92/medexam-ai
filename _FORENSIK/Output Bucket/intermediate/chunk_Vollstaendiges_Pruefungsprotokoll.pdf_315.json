@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretische Fragen und Antworten** zu medizinischem Fachwissen:\n   - SGLT2-Hemmer Mechanismus (Frage 8)\n   - Unterscheidung AKI vs. CKD (Frage 8)\n   - Sinusbradykardie mit Pausen - allgemeines Vorgehen (Frage 9)\n   - Ionisierende vs. nicht-ionisierende Strahlung (Frage 10)\n   - MRT-Mechanismus (Frage 11)\n   - CT-Abdomen Anatomie (Frage 12)\n   - Systematische Rö-Thorax Beschreibung (Frage 13)\n   - Rechtliche Definitionen (Frage 14)\n   - Lebertumoren Klassifikation (Frage 15-17)\n\n2. **Bildbeispiele ohne konkrete Patientenangaben:**\n   - EKG mit Sinusbradykardie (Frage 9) - keine Patientendetails\n   - CT-Abdomen (Frage 12) - nur anatomische Beschreibung\n   - Rö-Thorax mit Infiltraten (Frage 13) - keine Patientenangaben, nur Bildbeschreibung\n\nKeiner dieser Abschnitte stellt einen **vollständigen klinischen Präsentationsfall** mit Patientenvorstellung, Anamnese, Untersuchungsbefunden und diagnostischem Vorgehen dar. Es handelt sich um ein Prüfungsprotokoll mit theoretischen Wissensfragen."
+  }
+]

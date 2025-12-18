@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Müdigkeit und Rückenschmerzen mit B-Symptomatik bei 66-jähriger Frau",
+    "patient_age": "66-jährige",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Müdigkeit seit ein paar Wochen",
+      "Rückenschmerzen seit ein paar Wochen",
+      "Beschwerden seit letztem Herbst",
+      "Rezidivierendes Fieber (zuletzt 38,0°C vor 2 Wochen)",
+      "Nachtschweiß",
+      "Gewichtsverlust 7kg in 1 Jahr",
+      "Zahnfleischprobleme",
+      "Nierenprobleme (vom Hausarzt erwähnt)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Brustkorbverletzung im 55. Lebensjahr mit 2-wöchigem Krankenhausaufenthalt",
+      "Z.n. Ellenbogenversiegelung vor 1-1,5 Jahren wegen Golfer's Elbow"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Adoptivsohn verstorben an Krebserkrankung",
+      "Mutter verstorben an Infektion, hatte DM2",
+      "Vater lebt, hat Schrittmacher"
+    ],
+    "social_history": [
+      "Kann Hausarbeit wegen Rückenschmerzen nicht fortsetzen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Puls 66/min",
+      "RR 130/80 mmHg beidseits"
+    ],
+    "physical_examination": [
+      "Gute AZ und EZ",
+      "Größe 1,60m, Gewicht 66kg",
+      "Lymphknoten unauffällig",
+      "Schilddrüse unauffällig",
+      "Keine Blässe",
+      "Kein Ikterus",
+      "Keine Klumpenbildung",
+      "Keine Ödeme",
+      "Perkussion Lungenfelder schmerzhaft",
+      "Auskultation Lunge durchgeführt",
+      "Wirbelsäule: Klopfschmerz positiv",
+      "Nierenlager überprüft"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "BSG 131/hr (stark erhöht)"
+    ],
+    "suspected_diagnosis": [
+      "M. Bechterew (für Rückenschmerzen)",
+      "Rheumatoide Arthritis (für Rückenschmerzen)",
+      "Non-Hodgkin-Lymphom (für B-Symptome)",
+      "Tuberkulose (für B-Symptome)",
+      "DD: Multiples Myelom"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

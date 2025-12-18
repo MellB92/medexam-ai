@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Vorderwandinfarkt bei 45-jährigem Patient mit retrosternalen Schmerzen",
+    "patient_age": "45-jähriger",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "starke Brustschmerzen",
+      "retrosternale Schmerzen seit 2 Stunden",
+      "Ausstrahlung in den linken Arm"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Diabetes Mellitus Typ 2"
+    ],
+    "medications": [
+      "Metformin",
+      "Ramipril"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "RR 160/90 mmHg",
+      "HF 95/min"
+    ],
+    "imaging_findings": [
+      "EKG zeigt ST-Hebungen in V1-V4"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vorderwandinfarkt"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "sofortige Herzkatheteruntersuchung"
+    ]
+  }
+]

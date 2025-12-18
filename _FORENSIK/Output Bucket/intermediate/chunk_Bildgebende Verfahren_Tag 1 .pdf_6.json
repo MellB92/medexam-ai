@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 7/12) enthält **keine klinischen Patientenfälle oder Präsentationsfälle**. \n\nDer gesamte Inhalt besteht aus:\n\n1. **Anatomischen Beschreibungen** der Lunge (Lungenlappen, Fissuren, Gefäße)\n2. **Systematischen Beurteilungsanleitungen** für Röntgenbilder (Schritt-für-Schritt-Anleitungen)\n3. **Radiologischen Konzepten** wie:\n   - \"Hidden Areas\" in der Röntgendiagnostik\n   - Spine sign\n   - Push or Pull-Prinzip\n   - Herz-Thorax-Quotient (HTQ/CTR)\n4. **Normalbefund-Formulierungen** (z.B. \"Die Trachea ist mittelständig...\")\n5. **Pathologischen Zeichen** als theoretische Beispiele (z.B. Bronchialkarzinom, Herzinsuffizienz, Bronchiektasien)\n6. **Anatomischen Strukturen** des Mediastinums und Hilus\n\nEs handelt sich um **didaktisches Lehrmaterial** zur Befundung von Thorax-Röntgenbildern, nicht um konkrete Patientenfälle mit individuellen klinischen Präsentationen."
+  }
+]

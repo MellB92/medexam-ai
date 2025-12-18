@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 195/284) enthält **keine klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Strahlenschutz-Richtlinien** (Fortsetzung einer Liste):\n   - Diagnostische Referenzwerte\n   - Konkrete Maßnahmen (Einblendung, Streustrahlenraster, kV/mAs-Werte, etc.)\n   - Dokumentationspflichten\n   - Grenzwerte für Strahlenexposition\n\n2. **FRAGE 325**: Theoretische Frage zur \"erweiterten Zustimmungslösung\"\n   - Rechtliche Regelung im Transplantationsgesetz (TPG)\n   - Erklärung von gesetzlichen Bestimmungen\n   - Rangfolge der Entscheidungsberechtigten bei Organspende\n\nDies sind rein **theoretische/rechtliche Inhalte** aus einem Fragen-Antworten-Dokument für Prüfungsvorbereitung, keine konkreten Patientenpräsentationen mit klinischen Daten."
+  }
+]

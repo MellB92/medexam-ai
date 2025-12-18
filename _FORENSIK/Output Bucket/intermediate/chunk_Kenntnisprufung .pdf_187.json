@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Petechiale Hautausschlag mit Thrombozytopenie nach Grippe",
+    "patient_age": "39 Jahre",
+    "patient_gender": "Frau",
+    "severity": "moderate",
+    "chief_complaints": [
+      "petechiale Hautausschlag auf dem Knöchel",
+      "Nausea",
+      "Hämaturie",
+      "Abgeschlagenheit",
+      "spontane Blauflecke",
+      "Blutung beim Zähneputzen",
+      "Gewichtsverlust -2 kg",
+      "Schlafstörungen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "petechiale Hautausschlag auf dem Knöchel",
+      "sonst unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Thrombozytopenie unklare Genese"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Hautausschlag vor 2 Wochen aufgetreten und wieder verschwunden",
+      "Grippe vor 4 Wochen"
+    ]
+  },
+  {
+    "title": "Meningitis-Verdacht nach Südfrankreich-Reise",
+    "patient_age": "66 Jahre",
+    "patient_gender": "Frau",
+    "severity": "severe",
+    "chief_complaints": [
+      "starke globale Kopfschmerzen seit 1 Tag",
+      "Photophobie",
+      "Fieber",
+      "Schüttelfrost",
+      "Abgeschlagenheit",
+      "Übelkeit ohne Erbrechen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "Herzrhythmusstörungen (vor Jahren, medikamentös behandelt)",
+      "HWS-Verletzung nach Reitunfall (konservativ therapiert, keine Rezidivsymptome)",
+      "rechter Unterarm-Fraktur (konservativ behandelt, persistierende Schmerzen)"
+    ],
+    "comorbidities": [
+      "arterielle Hypertonie",
+      "Herzrhythmusstörungen"
+    ],
+    "risk_factors": [],
+    "family_history": [
+      "Vater früh an Krebs gestorben",
+      "Mutter an Leberzirrhose gestorben"
+    ],
+    "social_history": [
+      "keine Noxen",
+      "arbeitete in der Bibliothek vor der Rente",
+      "verheiratet, 2 Töchter",
+      "vor kurzem aus Südfrankreich zurückgekommen",
+      "kein Zecken- oder Insektenbiss erinnerlich"
+    ],
+    "medications": [
+      "eine Tablette morgens für Hypertonie"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Meningismus positiv",
+      "neurologische Untersuchung grob unauffällig",
+      "KU sonst normal außer Meningismus",
+      "ab Hals und höher nicht untersucht"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Meningitis v.a. FSME"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 145/148) enthält **keine vollständigen klinischen Patientenfälle** mit Präsentationen. \n\nDer Inhalt besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** zu:\n   - DIC (Disseminierte intravasale Gerinnung) - Diagnostik und Ursachen\n   - Thrombozytopenien (verschiedene Ursachen)\n   - HIT (Heparin-induzierte Thrombozytopenie)\n   - ITP-Therapie\n   - Myeloproliferative/lymphoproliferative Erkrankungen\n   - Pseudomembranöse Kolitis (Clostridioides difficile)\n   - Distale Radiusfraktur\n   - Kompartmentsyndrom\n   - TNM-Klassifikation Kolonkarzinom\n\n2. **Leitlinien-basierte Standardantworten** ohne konkrete Patientenbeispiele\n\n3. **Klassifikationen und Scoring-Systeme** (ISTH-DIC-Score, 4T-Score, TNM)\n\nEs handelt sich um ein **Fragen-Antworten-Dokument** für die Prüfungsvorbereitung, nicht um Fallpräsentationen mit konkreten Patienten, Anamnesen oder individuellen klinischen Verläufen."
+  }
+]

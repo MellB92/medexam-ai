@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle** mit konkreten Patienten. \n\nDer Text besteht aus:\n\n1. **Allgemeinen medizinischen Informationen** (z.B. Strahlenschutz, Densitometrie, Blutspender-Screening)\n\n2. **Theoretischen Fragen und Antworten** aus Kenntnisprüfungen, z.B.:\n   - \"Was kann man tun, wenn ein Patient nachts kommt...\" (allgemeine Handlungsanweisung)\n   - \"Welche Organe sind bei HNPCC assoziiert...\" (theoretisches Wissen)\n   - \"Was ist der Unterschied zwischen Kolonkarzinom und Rektalkarzinom...\" (Definitionsfrage)\n   - \"Welche Klassifikation wird für Sprunggelenksfrakturen verwendet...\" (Klassifikationswissen)\n   - \"Was ist ein anaphylaktischer Schock...\" (allgemeine Notfallbehandlung)\n   - \"Was ist das weitere Vorgehen bei einem Polytrauma...\" (Standardprotokoll)\n\n3. **Keine konkreten Patientenfälle** mit spezifischen:\n   - Patientenangaben (Alter, Geschlecht)\n   - Individuellen Beschwerden\n   - Spezifischen Untersuchungsbefunden\n   - Fallbezogenen Diagnostik- oder Therapieentscheidungen\n\nAlle Inhalte sind **allgemeine Lehrinhalte und Prüfungsfragen** ohne Fallcharakter."
+  }
+]

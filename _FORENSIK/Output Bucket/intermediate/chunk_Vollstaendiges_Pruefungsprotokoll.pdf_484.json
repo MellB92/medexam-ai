@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 485/585) enthält ausschließlich theoretische Prüfungsfragen und -antworten zu verschiedenen medizinischen Themen. Es handelt sich um ein Fragen-Antworten-Format ohne vollständige klinische Patientenfälle.\n\nDie Fragen behandeln folgende Themen:\n- Händedesinfektion\n- Arbeitsunfälle\n- Pyelonephritis (Diagnostik und Therapie)\n- Lebertumoren\n- EKG-Interpretation\n- Myokarditis\n- Thoraxschmerzen in der Notaufnahme\n- Stents und deren Nachsorge\n- Röntgen-Thorax-Befunde\n- CT und Kontrastmittel\n- Kontraindikationen für Nitrate\n\nZwar werden in Frage 35 (\"Was machen Sie bei einem Patienten mit Thoraxschmerzen in der Notaufnahme?\") Patienten erwähnt, aber dies ist eine allgemeine theoretische Frage zum diagnostischen Vorgehen, kein konkreter, vollständiger Patientenfall mit spezifischen Angaben zu Alter, Anamnese, Befunden etc.\n\nDaher: **Keine extrahierbaren vollständigen klinischen Fälle vorhanden.**"
+  }
+]

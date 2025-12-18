@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Patient mit Diabetes mellitus Typ 2 - Prüfungsfall 29.04.2025\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"Diabetes mellitus Typ 2\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\n      \"HbA1c 5,9%\",\n      \"Blutzuckerwerte (Gelegenheitszucker, Nüchternblutzucker, OGTT)\"\n    ],\n    \"suspected_diagnosis\": [\"Diabetes mellitus Typ 2\"],\n    \"diagnostic_approach\": [\n      \"HbA1c-Bestimmung\",\n      \"OGTT\",\n      \"Nüchternblutzucker\",\n      \"Gelegenheitszucker\"\n    ]\n  },\n  {\n    \"title\": \"Anaphylaktische Reaktion auf Diclofenac\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Zustandsverschlechterung nach Diclofenac-Gabe\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [\"Diclofenac\"],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Anaphylaktische Reaktion\"],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

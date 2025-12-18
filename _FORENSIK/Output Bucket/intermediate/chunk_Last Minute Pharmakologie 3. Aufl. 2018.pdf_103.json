@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt aus \"Last Minute Pharmakologie\" enthält **keine klinischen Präsentationsfälle** im Sinne von individuellen Patientenfällen mit Anamnese, Untersuchung und Diagnostik.\n\nStattdessen handelt es sich um:\n\n1. **Lehrbuchinhalte zur Toxikologie** - systematische Darstellung von:\n   - Allgemeinen Maßnahmen bei Intoxikationen (Erbrechen induzieren, Resorption hemmen)\n   - Antidot-Therapie (Tabelle 19.1)\n   - Spezifischen Vergiftungen (Metalle, Gase)\n\n2. **\"Typische Symptome\"** - Dies sind NICHT konkrete Patientenfälle, sondern **didaktische Auflistungen** charakteristischer Symptome verschiedener Vergiftungen (Blei, Quecksilber, Thallium, Arsen, Cyanid, Kohlenmonoxid, Reizgase)\n\n3. **Pharmakologische Informationen** - Wirkmechanismen und Therapieoptionen\n\nDie Formulierung \"Typische Symptome\" beschreibt das **theoretische Krankheitsbild** verschiedener Intoxikationen, nicht aber konkrete Patienten mit dokumentierter Anamnese, Befunden und Verlauf."
+  }
+]

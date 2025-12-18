@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieses Dokument enthält **keine klinischen Präsentationsfälle**, sondern ausschließlich:\n\n1. **Aufgabe 1:** Eine Zuordnungsübung zu DRG-Begriffen (Landesbasisfallwert, G-DRG, PCCL, CMI, etc.)\n\n2. **Aufgabe 2:** Rechenaufgaben zur Berechnung von Krankenhausbudgets basierend auf:\n   - DRG-Codes (I44B, I46C, I46B, I47B)\n   - Verweildauern\n   - Landesbasisfallwerten\n   - Pflegeerlösen\n\nDie Aufgaben 7a-7e erwähnen zwar \"Patienten\", aber es handelt sich um **abstrakte Rechenbeispiele** ohne jegliche klinische Informationen wie:\n- Keine Symptome/Beschwerden\n- Keine Anamnese\n- Keine körperliche Untersuchung\n- Keine Laborwerte\n- Keine Bildgebung\n- Keine Diagnosen (nur DRG-Codes für Abrechnungszwecke)\n\nDies ist ein **Übungsdokument für Gesundheitsökonomie/DRG-Abrechnung**, kein klinisches Fallbeispiel-Material."
+  }
+]

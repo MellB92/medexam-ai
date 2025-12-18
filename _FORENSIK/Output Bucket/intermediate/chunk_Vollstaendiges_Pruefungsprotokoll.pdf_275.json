@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Spannungspneumothorax mit Rippenfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Spannungspneumothorax",
+      "Kollabierte Lunge",
+      "Mediastinalverschiebung",
+      "Rippenfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Spannungspneumothorax"
+    ],
+    "diagnostic_approach": [
+      "Röntgenbild des Thorax"
+    ]
+  },
+  {
+    "title": "Patient mit Tachykardie nach zweimaliger Kardioversion",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Herzfrequenz 160-170/min"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Patient zweimal kardiovertiert"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "HF 160-170/min"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Interventionsmethoden",
+      "PVI (Pulmonalvenenisolation)",
+      "Zugangsweg"
+    ]
+  },
+  {
+    "title": "Kammerflimmern bei Reanimation",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Kammerflimmern"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: Kammerflimmern"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kammerflimmern"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Amiodaron-Dosierung bei Reanimation"
+    ]
+  }
+]

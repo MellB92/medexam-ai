@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** mit Frage-Antwort-Paaren zu verschiedenen medizinischen Themen:\n   - Schulterluxation (Behandlung, Reposition)\n   - Akutes Abdomen/Appendizitis\n   - Varikozele\n   - Vena saphena magna\n   - Varizen\n   - Kontrazeptiva (Pille, Minipille, \"Pille danach\")\n   - Todeszeichen\n   - Zeckenbiss und Borreliose\n   - Anaphylaktischer Schock\n   - Thrombozytopenie\n   - Rechtsschenkelblock\n\n2. **Wissensfragen ohne konkrete Patientenvorstellung** - es werden lediglich allgemeine medizinische Konzepte, Therapieansätze und diagnostische Kriterien abgefragt\n\n3. **Fragmentarische Erwähnungen** am Ende (Thrombozytopenie, EKG-Befund) ohne vollständige Falldarstellung mit Anamnese, Befunden und diagnostischem Vorgehen\n\nEs handelt sich um ein Prüfungsprotokoll mit theoretischen Wissensfragen, nicht um dokumentierte klinische Patientenfälle."
+  }
+]

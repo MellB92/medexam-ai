@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:** \n\nDer vorliegende Dokumentabschnitt (Chunk 19/115) besteht ausschließlich aus verschlüsseltem/kodiertem Text ohne erkennbare medizinische Inhalte. Es handelt sich um eine lange Zeichenkette aus base64-ähnlichen oder anderweitig kodierten Daten, die keine lesbaren klinischen Informationen, Patientenfälle oder medizinischen Text enthält.\n\nEs sind keine:\n- Patientenangaben (Alter, Geschlecht)\n- Beschwerden oder Symptome\n- Untersuchungsbefunde\n- Diagnosen\n- Medikamente\n- Laborwerte\n- Bildgebungsbefunde\n\nerkennbar oder extrahierbar."
+  }
+]

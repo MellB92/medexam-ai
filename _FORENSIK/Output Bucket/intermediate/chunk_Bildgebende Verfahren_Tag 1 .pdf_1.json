@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 2/12) enthält **keine klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Grundlagen** zur Röntgen-Thorax-Bildgebung:\n   - Primärstrahlenkegel-Konzept\n   - Röntgendichte-Prinzipien\n   - Bildinterpretation (hell/dunkel, transparent/verschattet)\n\n2. **Allgemeine Anleitung** zur Befundung:\n   - Systematische Herangehensweise (Patient SIRI)\n   - Beschreibung von Pathologien (Lokalisation, Größe, Form, etc.)\n   - Silhouettenphänomen als diagnostisches Prinzip\n\n3. **Technische Aspekte**:\n   - Verschiedene Strahlengänge (p.a., a.p., lateral)\n   - Qualitätsprüfung von Röntgenaufnahmen\n   - Patientendatenprüfung\n\nEs werden zwar **Beispiele** genannt (z.B. \"Pneumonie\" zur Illustration der Röntgendichte, \"rechter Vorhof und rechter Mittellappen\" beim Silhouettenphänomen), aber es handelt sich dabei nicht um vollständige, strukturierte Patientenfälle mit klinischer Präsentation, Anamnese und Diagnostik.\n\nDies ist reines **Lehrmaterial** ohne konkrete Fallbeispiele."
+  }
+]

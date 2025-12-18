@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt aus einem Pharmakologie-Lehrbuch enthält **keine klinischen Patientenfälle** im Sinne von konkreten Fallpräsentationen. \n\nDer Text beschreibt ausschließlich:\n\n- **Toxikologische Syndrome** mit typischen Symptomen verschiedener Vergiftungen (Cyanid, Kohlenmonoxid, Reizgase, Methämoglobinbildner, Alkohol, Methanol, Pilzvergiftungen, bakterielle Toxine)\n- **Antidot-Therapien** für diese Intoxikationen\n- **Allgemeine pathophysiologische Mechanismen**\n- **Symptomkataloge** in Abhängigkeit von Expositionsgrad/Konzentration\n\nEs handelt sich um **systematisches Lehrbuch-Wissen** zur Toxikologie, nicht um konkrete Patientenfälle mit individueller Anamnese, Untersuchungsbefunden oder diagnostischem Vorgehen.\n\nEin klinischer Fall würde beispielsweise so beginnen: \"Ein 45-jähriger Mann wird bewusstlos in seiner Garage aufgefunden...\" - solche narrativen Falldarstellungen sind in diesem Abschnitt nicht vorhanden."
+  }
+]

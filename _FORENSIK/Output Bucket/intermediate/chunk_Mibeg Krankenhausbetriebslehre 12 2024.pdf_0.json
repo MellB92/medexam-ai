@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 1/4) enthält **keine klinischen Patientenfälle**. \n\nDas Dokument ist eine **Einführungspräsentation zur Krankenhausbetriebslehre** und umfasst ausschließlich:\n\n- Vorstellung des Referenten (Jonas Trambacz, M.A.)\n- Kursinformationen und Termine\n- Definitionen und rechtliche Grundlagen (§ 107 SGB V)\n- Versorgungsstufen von Krankenhäusern\n- Statistische Daten (Bettenzahlen, Fallzahlen, Jahresergebnisse)\n- Häufigste Diagnosen und Fachabteilungen (nur als statistische Übersicht)\n- Organisationsstrukturen (Organigramme)\n- Personalstatistiken\n- Einführung in das DRG-System (Theorie)\n- Krankenhausfinanzierung (Theorie)\n\nEs handelt sich um **Lehrmaterial** ohne konkrete Patientenbeispiele oder klinische Fallpräsentationen."
+  }
+]

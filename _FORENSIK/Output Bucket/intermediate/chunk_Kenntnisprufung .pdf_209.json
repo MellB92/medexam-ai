@@ -1,0 +1,337 @@
+[
+  {
+    "title": "Verkehrsunfall mit Trauma - Multiple Verletzungen",
+    "patient_age": "Mitte 60",
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "starke Schmerzen des rechten Beins",
+      "Kopfschmerzen",
+      "Luftnot"
+    ],
+    "accident_mechanism": "Verkehrsunfall, mit Rettungsdienstwagen ins Krankenhaus gebracht",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalparameter gemessen",
+      "Patient war stabil"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Trauma"
+    ],
+    "diagnostic_approach": [
+      "Bild des Kopfes",
+      "Thorax-Bild",
+      "Bild rechtes Knie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Tibiafraktur rechts nach Trauma",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild Tibiafraktur rechts",
+      "Frakturfuge"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tibiafraktur rechts",
+      "mögliche Meniskusverletzung",
+      "mögliche Kreuzbänderrisse"
+    ],
+    "diagnostic_approach": [
+      "Klassifikation",
+      "Anatomie",
+      "Begleitverletzungen insbesondere Meniskus und Kreuzbänder"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Weichteilkomplikationen",
+      "Arteria poplitea Verletzung möglich",
+      "Nervus peronaeus Verletzung",
+      "Fußheberparese möglich",
+      "Medialer Meniskus besonders beteiligt"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Mesenterialinfarkt bei Vorhofflimmern",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Vorhofflimmern"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "embolische Quelle",
+      "thrombotische Quelle"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Bild eines nekrotischen Dünndarms"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Mesenterialinfarkt"
+    ],
+    "diagnostic_approach": [
+      "Stadien von Mesenterialinfarkt",
+      "2. Stadium meistens asymptomatisch"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Sepsis",
+      "Ileus",
+      "Peritonitis"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Non-Dipper Hypertonie - sekundäre Hypertonieabklärung",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "24 Stunden Blutdruckmessung",
+      "Patient non-Dipper"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Phäochromozytom",
+      "Nierenarterien-Stenose",
+      "Conn-Syndrom"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Atypische Pneumonie bei älterer Patientin",
+    "patient_age": "ältere Patientin",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax mit atypischer Pneumonie",
+      "2 EKG-Elektroden sichtbar"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "atypische Pneumonie"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Hautausschlag bei Jugendlichem - allergische Reaktion",
+    "patient_age": "Jugendlicher",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Hautausschlag"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Hautausschlag"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "allergische Reaktion",
+      "medikamentös induzierte allergische Reaktion"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Leukämieverdacht nach Lymphoperation",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Lymphoperation vor Jahren"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "erhöhte Lymphozyten oder Leukozyten im Blutbild"
+    ],
+    "suspected_diagnosis": [
+      "Leukämie"
+    ],
+    "diagnostic_approach": [
+      "Arten von Leukämie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Hämatemesis bei 91-jährigem Patienten",
+    "patient_age": "91",
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Hämatemesis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Tranexamsäure notfallmäßig",
+      "PPI (Erhaltungstherapie)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Patient stabilisieren",
+      "Gastroskopie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Liquorrhoe nach Verkehrsunfall",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Liquorrhoe durch die Nase"
+    ],
+    "accident_mechanism": "Verkehrsunfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schädelbasis-Fraktur mit Liquorrhoe"
+    ],
+    "diagnostic_approach": [
+      "Blutzuckerteststreifen zum schnellen Nachweis"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Transfer mit Hubschrauber in anderes Krankenhaus wenn kein Neurochirurg im Haus"
+    ]
+  },
+  {
+    "title": "Interstitielle Pneumonie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax mit interstitieller Pneumonie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "interstitielle Pneumonie"
+    ],
+    "diagnostic_approach": [
+      "mögliche Erreger finden"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

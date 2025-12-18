@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:** \n\nDieses Dokument ist ein **Anmeldeformular** für einen Vorbereitungskurs auf die Kenntnisprüfung (medizinische Prüfung für ausländische Ärzte in Deutschland). Es enthält:\n\n- Administrative Informationen über den Kurs (Zeitraum: 03.07.2024 bis 02.10.2024)\n- Teilnahmevoraussetzungen (abgeschlossenes Medizinstudium, Deutschkenntnisse B2, Approbationsantrag)\n- Leere Formularfelder für persönliche Daten\n- Allgemeine Geschäftsbedingungen (Teilnahmebedingungen, Datenschutz, Haftung)\n- Kontaktinformationen von medisim GmbH & Co. KG\n\nEs enthält **keine klinischen Patientenfälle, Fallpräsentationen oder medizinische Szenarien**. Es handelt sich ausschließlich um ein administratives Dokument zur Kursanmeldung."
+  }
+]

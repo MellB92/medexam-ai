@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:** \n\nDieser Dokumentabschnitt (Chunk 108/111) stammt aus einem **EKG-Kurs Lehrbuch** und enthält ausschließlich ein **Sachverzeichnis/Index** (alphabetische Auflistung von Fachbegriffen mit Seitenverweisen).\n\nEs handelt sich um:\n- Indexeinträge von \"E\" bis \"S\" (Ersatzrhythmus, Extrasystole, Herzfrequenz, Hypertrophie, Ischämie, Myokardinfarkt, etc.)\n- Seitenzahlenverweise\n- Querverweise zwischen Begriffen\n- Definitionen und Klassifikationen\n\n**Es sind KEINE klinischen Patientenfälle, Fallpräsentationen oder Kasuistiken enthalten.** Ein Sachverzeichnis dient nur der Navigation im Lehrbuch und enthält keine narrativen Falldarstellungen mit Patienteninformationen, Anamnese, Befunden oder Diagnostik."
+  }
+]

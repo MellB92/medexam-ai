@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Wiederkehrende depressive Episoden mit Radikulopathie zervikal und chronischem Schmerzsyndrom",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Wiederkehrende traurige Verstimmungszustände",
+      "Radikulopathie im Zervikalbereich",
+      "Schwindelattacken bei Lageveränderungen und Bückpositionen",
+      "Schwindel beim Rückwärtsneigen des Kopfes",
+      "Störung der Schmerzverarbeitung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Bandscheibenvorfall in Höhe C5/6 links",
+      "Degenerative Veränderungen zervikal C5/6",
+      "Jahrelange Schmerzsymptomatik"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Verunsicherung im Tagesablauf",
+      "Keine neurologischen ursächlichen Befunde bezüglich Schwindel"
+    ],
+    "imaging_findings": [
+      "Bandscheibenvorfall C5/6 links",
+      "Degenerative Veränderungen C5/6"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "F33.1 - Rezidivierende depressive Störung, gegenwärtig mittelgradige Episode",
+      "F45.8 - Schmerzverarbeitungsstörung",
+      "F60.5 - Zwanghafte Persönlichkeit",
+      "Depressive Anpassungsstörung als Folge jahrelanger Schmerzsymptomatik",
+      "Radikulopathie zervikal",
+      "Schwindel orthopädischer Genese"
+    ],
+    "diagnostic_approach": [
+      "Neurologische Befunde beigezogen",
+      "Orthopädische Mitbetreuung",
+      "Neurologisch-psychiatrisches Facharztgutachten",
+      "Ausschluss von Aggravation und Simulation"
+    ]
+  }
+]

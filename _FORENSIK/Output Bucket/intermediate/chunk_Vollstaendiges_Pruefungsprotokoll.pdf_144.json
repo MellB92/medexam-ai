@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Patientin mit Husten, Atembeschwerden und Rundherd im Röntgen-Thorax",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Husten",
+      "Atembeschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rundherd im Röntgen-Thorax"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom",
+      "Lungenmetastasen",
+      "Tuberkulose",
+      "Sarkoidose",
+      "Lungenabszess",
+      "Granulomatöse Erkrankungen",
+      "Gutartige Lungentumoren"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung",
+      "Röntgen-Thorax",
+      "CT-Thorax",
+      "Bronchoskopie mit Biopsie",
+      "ggf. Mediastinoskopie",
+      "PET-CT"
+    ]
+  }
+]

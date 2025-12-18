@@ -1,0 +1,228 @@
+[
+  {
+    "title": "Karpaltunnelsyndrom mit Risikofaktoren",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "nächtliche Schmerzen",
+      "Hypästhesie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus",
+      "Gastritis (vor langer Zeit)",
+      "Z.n. Radiusfraktur"
+    ],
+    "medications": [
+      "Fluorchinolone (als Risikofaktor)"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Schwurhand",
+      "Phalen-Zeichen positiv",
+      "Tinel-Zeichen positiv",
+      "Flaschenzeichen positiv"
+    ],
+    "imaging_findings": [
+      "Lipom (an Dekompressionsstelle)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Karpaltunnelsyndrom",
+      "Pseudoarthrose (DD)"
+    ],
+    "diagnostic_approach": [
+      "Elektroneurografie (Nervenleitungsgeschwindigkeit)",
+      "Elektromyografie (M. opponens pollicis)",
+      "Bildgebung zum Ausschluss anderer Ursachen",
+      "MRT"
+    ]
+  },
+  {
+    "title": "Colles-Fraktur des distalen Radius",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Unterarm: Frakturlinie",
+      "distales Fragment des Radius nach dorsal verschoben",
+      "keine Gelenkbeteiligung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Colles-Fraktur",
+      "Morbus Sudeck (häufigste Komplikation)",
+      "CRPS durch nicht aufgespaltenen Gips (iatrogen)"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Unterarm",
+      "Behandlung: Platte und Verschraubung ventral oder geschlossene Reposition mit K-Drähten"
+    ]
+  },
+  {
+    "title": "Perforierte Gallenblase mit akutem Abdomen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "akutes Abdomen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Ultraschall: verdickte Gallenblasenwand mit Dreischichtung",
+      "kleine Stelle mit Wandkontinuitätsverlust"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "perforierte Gallenblase"
+    ],
+    "diagnostic_approach": [
+      "Ultraschall Abdomen",
+      "nüchtern lassen",
+      "notfallmäßige Operation"
+    ]
+  },
+  {
+    "title": "Symptomatische Bradykardie mit Synkopen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Synkope",
+      "Schwindel",
+      "Leistungsminderung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: deutlich verlängertes RR-Intervall",
+      "Sinusbradykardie",
+      "Langzeit-EKG: Pause 4-6 Sekunden"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sinusbradykardie",
+      "Sick-Sinus-Syndrom (DD)",
+      "Bradyarrhythmia absoluta (DD)",
+      "AV-Block (DD)"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Langzeit-EKG",
+      "Akuttherapie: Atropin, ggf. Adrenalin",
+      "Schrittmacher-Implantation (DDD-Typ)",
+      "Aggregat subkutan subklavikulär",
+      "Sonden im rechten Vorhof und Ventrikel via V. jugularis/subclavia/cephalica"
+    ]
+  },
+  {
+    "title": "Ausgeprägte tiefe Venenthrombose",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "thromboembolische Ereignisse in der Vorgeschichte (mögliche DD)",
+      "Thrombophilie: Faktor-V-Leiden (häufigste)"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "ausgeprägte tiefe Venenthrombose"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "tiefe Venenthrombose",
+      "Lungenarterienembolie (DD)"
+    ],
+    "diagnostic_approach": [
+      "farbkodierte Duplexsonographie",
+      "normale Sonographie (Komprimierbarkeit der Vene prüfen)",
+      "Wells-Score",
+      "Therapie: unfraktioniertes Heparin oder niedermolekulares Heparin",
+      "Alternative: DOAK (Eliquis 10mg 1-0-1 für 10 Tage)",
+      "Therapiedauer: 3-6 Monate, länger bei Thrombophilie"
+    ]
+  },
+  {
+    "title": "Gastritis Typ B durch Helicobacter pylori",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Urease-Schnelltest",
+      "Antigene im Stuhl",
+      "C13-Atemtest"
+    ],
+    "suspected_diagnosis": [
+      "Gastritis Typ B (häufigster Typ)",
+      "Helicobacter pylori-Infektion"
+    ],
+    "diagnostic_approach": [
+      "histologischer Nachweis der Bakterien",
+      "Urease-Schnelltest (zwei Kriterien erforderlich)",
+      "Stuhlantigen-Test",
+      "C13-Atemtest",
+      "Therapie: bismuthbasierte Quadrupeltherapie oder PPI plus Antibiotika"
+    ]
+  },
+  {
+    "title": "Ileus im CT-Abdomen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT-Abdomen: ausgeprägte Darmerweiterung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Ileus"
+    ],
+    "diagnostic_approach": [
+      "CT-Abdomen"
+    ]
+  },
+  {
+    "title": "Pneumonie Unterlappen rechts",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax: deutlich pneumonisches Infiltrat Unterlappen rechts"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pneumonie Unterlappen rechts"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Thorax"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. \n\nEs handelt sich um:\n- Ein Frage-Antwort-Dokument mit **theoretischen medizinischen Fragen**\n- Bewertungen von Kandidatenantworten im Vergleich zu Musterlösungen\n- Allgemeines medizinisches Wissen zu Themen wie:\n  - Urindiagnostik (Leukozytenesterase, Morgenurin, Urinparameter)\n  - Niereninsuffizienz (Definition, Diagnostik, chronisch/akut)\n  - Therapierefraktäre Hypertonie\n  - Cushing-Syndrom\n  - Leberpalpation/-perkussion\n  - EKG-Interpretation (AV-Block 3. Grades erwähnt, aber als Prüfungsfrage)\n  - Röntgenbildphysik\n\nEs gibt **keine Patientenpräsentationen** mit Anamnese, konkreten Beschwerden, Untersuchungsbefunden oder Behandlungsverläufen. Die EKG-Frage erwähnt zwar einen \"AV-Block 3. Grades\", aber dies ist Teil einer Prüfungsfrage zur EKG-Interpretation, kein Patientenfall."
+  }
+]

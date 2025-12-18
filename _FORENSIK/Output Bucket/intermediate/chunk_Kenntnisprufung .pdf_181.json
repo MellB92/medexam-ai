@@ -1,0 +1,154 @@
+[
+  {
+    "title": "Junger Mann mit bimallelolärer Weber C Fraktur nach Trampolinunfall",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "heftige Schmerzen im Sprunggelenk"
+    ],
+    "accident_mechanism": "Trampolinunfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Schwellung im Sprunggelenk",
+      "starke Schmerzen",
+      "pDMS o.B."
+    ],
+    "imaging_findings": [
+      "bimalleoläre Weber C Fraktur im Röntgen a.p. und seitlich",
+      "Frakturlinie oberhalb der Syndesmose"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "bimalleoläre Weber C Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Notfallanamnese",
+      "Vitalparameter",
+      "körperliche Untersuchung inkl. pDMS",
+      "Röntgen Sprunggelenk in 2 Ebenen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "postoperatives Management",
+      "Physiotherapie",
+      "Metall kann 2 Jahre drin bleiben, bei Beschwerdefreiheit auch länger"
+    ]
+  },
+  {
+    "title": "75-jähriger Patient mit Kolonkarzinom und blutigem Stuhlabgang",
+    "patient_age": "75 Jahre",
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "blutiger Stuhlabgang"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Rektal-digitale Untersuchung",
+      "körperliche Untersuchung"
+    ],
+    "imaging_findings": [
+      "Koloskopie: Colon-CA auf der rechten Seite"
+    ],
+    "laboratory_findings": [
+      "Labor durchgeführt"
+    ],
+    "suspected_diagnosis": [
+      "Kolonkarzinom rechts T2N0M0"
+    ],
+    "diagnostic_approach": [
+      "Rektal-digitale Untersuchung",
+      "Labor",
+      "körperliche Untersuchung",
+      "Koloskopie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Hemikolektomie mit Ileotransversaler Anastomose",
+      "keine adjuvante Chemotherapie bei T2N0M0"
+    ]
+  },
+  {
+    "title": "Patient mit Schnittverletzung beim Öffnen einer Fischdose",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "mild",
+    "chief_complaints": [
+      "starke Blutung nach Schnittverletzung"
+    ],
+    "accident_mechanism": "Schnitt beim Öffnen einer Fischdose",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Inspektion der Schnittwunde"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schnittwunde"
+    ],
+    "diagnostic_approach": [
+      "Inspektion"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "lokale Anästhesie mit Lidocain",
+      "Naht",
+      "Tetanusimpfung"
+    ]
+  },
+  {
+    "title": "Patientin mit geplanter Hemithyreoidektomie - Aufklärung",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Läsion des Nervus laryngeus recurrens (2%)",
+      "Hypokalzämie durch Nebenschilddrüsenentfernung mit Symptomen wie Gesichtskrämpfe (Fischmund) und Pfötchenstellung"
+    ],
+    "follow_up": [
+      "geplante Hemithyreoidektomie"
+    ]
+  }
+]

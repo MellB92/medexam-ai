@@ -1,0 +1,139 @@
+[
+  {
+    "title": "Humeruskopffraktur nach Sturz von Leiter",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Schulterschmerzen links"
+    ],
+    "accident_mechanism": "Sturz aus 2 Meter Höhe von einer Leiter, Gleichgewichtsverlust, direkter Aufprall auf linke Schulter",
+    "pre_existing_conditions": [
+      "Cholezystektomie vor 10 Jahren"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Patient kam zu Fuß",
+      "Vitalzeichen erhoben",
+      "pDMS durchgeführt",
+      "Aktive und passive Bewegungen der Schulter und des Arms aufgrund Schmerzen nicht möglich",
+      "Blutdruckmessung am betroffenen Arm nicht möglich",
+      "Pulse überprüft",
+      "Beweglichkeit von Fingern und Unterarm überprüft",
+      "Neurologische Untersuchung durchgeführt",
+      "Knie und Hüfte untersucht",
+      "Abdomen untersucht, insbesondere Milz",
+      "Keine Amnesie",
+      "Keine Synkope",
+      "Keine anderen Verletzungen"
+    ],
+    "imaging_findings": [
+      "Röntgenbild zeigte Humerusfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Humerusfraktur",
+      "Mögliche Beteiligung von Clavicula",
+      "Mögliche Beteiligung der Glenoidhöhle",
+      "Tuberculum majus"
+    ],
+    "diagnostic_approach": [
+      "Vitalzeichenkontrolle",
+      "pDMS",
+      "SAMPLE-Schema",
+      "Vollständige Anamnese",
+      "Röntgenuntersuchung",
+      "Prüfung auf N. axillaris und N. radialis Beteiligung"
+    ]
+  },
+  {
+    "title": "Sinusbradykardie (EKG-Fall)",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: Sinusbradykardie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sinusbradykardie",
+      "AV-Block (DD)"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Medikamentenanamnese",
+      "Diagnostik bei Bradykardie"
+    ]
+  },
+  {
+    "title": "L1-L2-Fraktur (Röntgenbild)",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Rückenschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild: L1-L2-Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "L1-L2-Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgenuntersuchung",
+      "Abklärung Rote Flaggen bei Rückenschmerzen"
+    ]
+  },
+  {
+    "title": "Linksseitige Lobärpneumonie (Röntgenbild)",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild: linksseitige Lobärpneumonie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lobärpneumonie links"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax"
+    ]
+  },
+  {
+    "title": "Grünholzfraktur (Röntgenbild)",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild: Grünholzfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Grünholzfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgenuntersuchung"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 362/585) enthält **keine vollständigen klinischen Patientenfälle** im Sinne von Fallpräsentationen. \n\nDer Abschnitt besteht ausschließlich aus:\n\n1. **Isolierten Prüfungsfragen** zu verschiedenen medizinischen Themen:\n   - Perikarditis (Diagnostik, Ibuprofen-Dosierung)\n   - Colchicin-Nebenwirkungen\n   - Metformin und OP-Vorbereitung\n   - Laktatazidose-Pathophysiologie\n   - Meningitis-Erreger\n   - Analfissur (Bildbefund)\n   - Intertrochantäre Femurhalsfraktur\n   - Ileus\n   - CT-Abdomen mit Darmperforation\n   - Monoklonale Antikörper\n   - Paracetamol\n   - ABCD-Schema\n   - Strahlenschutz\n\n2. **Fragmentarische Erwähnungen** ohne vollständige Fallinformationen:\n   - \"Patient vor OP mit Metformin\" - keine weiteren Details\n   - \"CT-Abdomen mit Darmperforation\" - nur als Bildfrage erwähnt\n   - \"Intertrochantäre Femurhalsfraktur\" - nur theoretische Frage zu Therapieoptionen\n\nEs fehlen für alle erwähnten Szenarien die essentiellen Elemente einer Fallpräsentation wie:\n- Vollständige Anamnese\n- Symptome/Beschwerden\n- Zusammenhängende Befundkonstellation\n- Diagnostischer oder therapeutischer Verlauf"
+  }
+]

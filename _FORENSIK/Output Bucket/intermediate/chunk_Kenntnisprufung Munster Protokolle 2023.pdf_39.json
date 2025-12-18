@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Anstrengungsasthma bei junger Patientin",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Asthma bei körperlicher Belastung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Anstrengungsasthma",
+      "extrinsisches Asthma"
+    ],
+    "medications": [
+      "Foster (Beclomethason/Salmeterol)"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Anstrengungsasthma",
+      "extrinsisches Asthma"
+    ],
+    "diagnostic_approach": [
+      "Tiefenau Index",
+      "Belastungsspirometrie"
+    ]
+  },
+  {
+    "title": "Anämie bei 61-jährigem Mann vor Hüft-OP",
+    "patient_age": "61-jähriger",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Belastungsdyspnoe seit 3 Monaten progredient",
+      "Abgeschlagenheit",
+      "Müdigkeit",
+      "Kribbeln in beiden Füßen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes Mellitus seit 5 Jahren",
+      "Zustand nach Leistenbruch-OP",
+      "Zustand nach Herzbeutel-OP",
+      "Zyste im Dickdarm"
+    ],
+    "medications": [
+      "Metformin 1000 mg 0-0-1",
+      "Ibuprofen 600 mg 1-0-1 seit 3 Monaten",
+      "Paracetamol 500 mg bei Bedarf"
+    ],
+    "allergies": [
+      "Ex-Raucher seit 5 Jahren, py 12,5",
+      "Bier 500 ml täglich"
+    ],
+    "physical_examination": [
+      "Lymphknotenstatus unauffällig",
+      "keine Druckschmerzen im Bauch",
+      "Milz-, Magen-, Kolonbereich unauffällig",
+      "Lunge und Herz unauffällig",
+      "neurologische Untersuchung: Kraft, Sensibilität und Reflexe obere Extremität normal",
+      "Patella- und Achillessehnenreflexe vorhanden",
+      "rechtes Bein kann wegen Hüftschmerzen nicht ausgestreckt werden"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "makroskopische makrozytäre Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Eisenmangelanämie (asymptomatisches Magenulkus durch Ibuprofen)",
+      "Vitamin B12-Mangel",
+      "Malignom",
+      "Magenschleimhautmetaplasie mit Verlust der Parietalzellen",
+      "verminderte Freisetzung von Intrinsic Factor"
+    ],
+    "diagnostic_approach": [
+      "Blutbild mit Erythrozytenindex",
+      "ÖGD mit Biopsie",
+      "Urease-Schnelltest",
+      "Vitamin B12-Substitution intramuskulär",
+      "HP-Eradikation bei positivem Nachweis"
+    ]
+  },
+  {
+    "title": "Atemabhängige Brustschmerzen bei 16-Jährigem",
+    "patient_age": "16-jähriger",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "atemabhängige Brustschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": []
+  }
+]

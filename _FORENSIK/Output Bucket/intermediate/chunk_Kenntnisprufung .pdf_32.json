@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Schwangere Frau mit retrosternalem Brennen und Sodbrennen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Heiserkeit",
+      "brennendes drückendes Gefühl retrosternal seit einigen Monaten",
+      "Sodbrennen",
+      "Verschlechterung der Beschwerden im Liegen",
+      "Verschlechterung der Beschwerden nach dem Essen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Zustand nach Handgelenkfraktur"
+    ],
+    "comorbidities": [
+      "Schwangerschaft"
+    ],
+    "risk_factors": [
+      "Schwangerschaft"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Handgelenkuntesuchung durchgeführt",
+      "Scaphoid lokalisiert",
+      "Lungenuntersuchung mit Identifikation der 2. Rippe und 2. Interkostalraum",
+      "Einzelknopfnaht angelegt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Refluxösophagitis"
+    ],
+    "diagnostic_approach": [
+      "ÖGD bei Schwangerschaft zurückhaltend, nur bei Blutung",
+      "Klassifikation der Refluxösophagitis",
+      "Überwachung auf Barrett-Ösophagus"
+    ],
+    "treatment_response": [
+      "PPI-Therapie",
+      "konservative Maßnahmen: Vermeidung von scharfem Essen",
+      "keine Mahlzeiten am späten Abend",
+      "Oberkörperhochlagerung"
+    ],
+    "complications": [
+      "Barrett-Ösophagus als mögliche Komplikation"
+    ],
+    "follow_up": []
+  }
+]

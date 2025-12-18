@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**, sondern ausschließlich:\n\n1. **ICD-10-Klassifikation** für alkoholbedingte Störungen (F10.0 - F10.9)\n2. **Theoretische Frage 700** zum BLS-Ablauf (Basic Life Support) und Atemwegsmanagement\n3. **Lehrbuchinhalte** zu Reanimationsrichtlinien (ERC 2021):\n   - Initialer Check-Ablauf\n   - Thoraxkompressionstechnik\n   - Head-tilt-chin-lift-Manöver\n\nEs handelt sich um **rein didaktisches Material** ohne konkrete Patientenpräsentation, Anamnese, Untersuchungsbefunde oder individuelle klinische Szenarien."
+  }
+]

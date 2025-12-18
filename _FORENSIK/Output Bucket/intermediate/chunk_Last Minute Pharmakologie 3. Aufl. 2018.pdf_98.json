@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Therapeutischen Leitlinien** für verschiedene Infektionskrankheiten (Pneumonie, Gastroenteritis, rheumatisches Fieber, Endokarditis)\n2. **Therapietabellen** mit Antibiotika-Empfehlungen nach Schweregrad und Risikofaktoren\n3. **Check-up-Fragen** zu pharmakologischem Theoriewissen\n4. **Allgemeinen Therapieempfehlungen** ohne konkrete Patientenbeispiele\n\nEs werden zwar verschiedene Krankheitsbilder (z.B. \"leichtgradige Pneumonie\", \"Reisediarrhö\", \"rheumatisches Fieber\") erwähnt, aber **nicht** in Form konkreter Patientenpräsentationen mit individuellen Charakteristika wie:\n- Anamnese eines spezifischen Patienten\n- Klinische Untersuchungsbefunde\n- Diagnostische Ergebnisse\n- Fallverlauf\n\nDies ist ein rein didaktisches Kapitel über Therapierichtlinien ohne kasuistische Falldarstellungen."
+  }
+]

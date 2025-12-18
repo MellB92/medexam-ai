@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Akute Pyelonephritis bei Patientin mit Diabetes mellitus Typ I und Asthma bronchiale",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen in der linken Flanke",
+      "Dysurie",
+      "Fieber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Asthma bronchiale",
+      "Diabetes mellitus Typ I",
+      "Knieverletzung vor 1 Woche"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Atemgeräusche beurteilt",
+      "Herztöne beurteilt",
+      "Herzgeräusche und deren Ausstrahlung beurteilt",
+      "Tanzendepatella-Test durchgeführt",
+      "Schubladentest durchgeführt",
+      "Lachmann-Test durchgeführt",
+      "Gravity-Sign beurteilt"
+    ],
+    "imaging_findings": [
+      "MRT vom Knie durchgeführt"
+    ],
+    "laboratory_findings": [
+      "Urin-Stix",
+      "Urin-Befunde",
+      "Urin-Sediment"
+    ],
+    "suspected_diagnosis": [
+      "Akute Pyelonephritis",
+      "Nephrolithiasis als Differentialdiagnose",
+      "Knie-Distorsion (initial fälschlich als Knieluxation dokumentiert)"
+    ],
+    "diagnostic_approach": [
+      "Urin-Stix",
+      "Urin-Sediment-Gewinnung",
+      "Abdomen-Ultraschall",
+      "MRT Knie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

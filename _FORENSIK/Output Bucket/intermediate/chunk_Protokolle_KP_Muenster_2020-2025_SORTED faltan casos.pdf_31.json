@@ -1,0 +1,282 @@
+[
+  {
+    "title": "Hypothyreose",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Anti-Tg",
+      "TPO",
+      "TRAK"
+    ],
+    "suspected_diagnosis": [
+      "Hypothyreose",
+      "Hashimoto"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Cholestase bei Patient mit familiärer Lebererkrankung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Hautverfärbungen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Vater an Lebererkrankung verstorben"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Ikterus"
+    ],
+    "imaging_findings": [
+      "MRCP: Ductus Hepaticus Communis Obstruktion"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Cholestase (intra- oder extrahepatisch)"
+    ],
+    "diagnostic_approach": [
+      "Sonographie",
+      "MRCP",
+      "ERCP mit/ohne Stent"
+    ]
+  },
+  {
+    "title": "WPW-Syndrom",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "EKG: Delta Welle",
+      "ST-Senkungen und Hebungen",
+      "Überdrehender Linkstyp",
+      "Rechtsschenkelblock"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "WPW-Syndrom"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Schlaf-Apnoe-Syndrom mit Schnarchen und Leistungsminderung",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Schnarchen",
+      "Alltägliche Leistungsminderung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schlaf-Apnoe-Syndrom"
+    ],
+    "diagnostic_approach": [
+      "Polysomnographie",
+      "Apnoe-Hypopnoe-Index"
+    ]
+  },
+  {
+    "title": "Akute Appendizitis",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Klinische Zeichen der akuten Appendizitis"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akute Appendizitis"
+    ],
+    "diagnostic_approach": [
+      "Appendektomie (konventionell oder laparoskopisch)"
+    ]
+  },
+  {
+    "title": "Schulterluxation mit Hill-Sachs-Läsion",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Schulter: Schulterluxation",
+      "Hill-Sachs-Läsion",
+      "Bankart-Läsion"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schulterluxation mit Hill-Sachs-Läsion"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Akutes subdurales Hämatom mit Schädelfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Schädel-CT: akutes subdurales Hämatom",
+      "Mittellinieverlagerung",
+      "Ödeme",
+      "Knochenfraktur",
+      "Hämatom"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akutes subdurales Hämatom",
+      "Schädelfraktur"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Chassaignac-Lähmung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Chassaignac-Lähmung"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Anaphylaktischer Schock nach Bienenstich",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Anaphylaktischer Schock"
+    ],
+    "accident_mechanism": "Bienenstich",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Anaphylaktischer Schock"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Addison-Krise",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Addison-Krise"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Humerusluxation",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild: Humerusluxation"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Humerusluxation"
+    ],
+    "diagnostic_approach": [
+      "Reposition"
+    ]
+  },
+  {
+    "title": "Patient mit Ikterus und Raumforderung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Ikterus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "MRCP: Raumforderung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Posthepatische Cholestase",
+      "Cholangiokarzinom"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Patient mit ACS-Symptomen ohne STEMI",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "ACS-Symptome"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: kein STEMI"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "NSTEMI",
+      "Aortendissektion"
+    ],
+    "diagnostic_approach": []
+  }
+]

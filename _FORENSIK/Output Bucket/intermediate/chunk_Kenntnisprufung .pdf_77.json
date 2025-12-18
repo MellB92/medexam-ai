@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Fahrradunfall mit Polytrauma (Schädelhirntrauma, Sternumfraktur, Tibiafraktur)",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Erbrechen (1x)",
+      "Bewusstseinsverlust",
+      "diffuse thorakale Schmerzen",
+      "Kniegelenkschmerzen",
+      "Unterschenkelschmerzen",
+      "Dyspnoe"
+    ],
+    "accident_mechanism": "Fahrradunfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Untersuchung von Kopf",
+      "Untersuchung von Thorax",
+      "Untersuchung von Abdomen",
+      "Untersuchung der Extremitäten",
+      "Untersuchung des Beckens",
+      "Lungen frei belüftet"
+    ],
+    "imaging_findings": [
+      "Röntgen: Sternumfraktur (seitliche Aufnahme)",
+      "Röntgen: proximale Tibiafraktur / Tibiakopffraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma",
+      "Schädelhirntrauma (SHT)",
+      "Sternumfraktur",
+      "proximale Tibiafraktur"
+    ],
+    "diagnostic_approach": [
+      "Traumauntersuchung (Kopf, Thorax, Abdomen, Extremitäten, Becken)",
+      "Röntgendiagnostik Sternum",
+      "Röntgendiagnostik Tibia"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

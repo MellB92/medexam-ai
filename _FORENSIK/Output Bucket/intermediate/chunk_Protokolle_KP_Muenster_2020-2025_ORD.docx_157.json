@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Polytrauma mit Rippenserienfraktur und distaler Unterarmsfraktur\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": \"Polytrauma\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\n      \"Patient liegt am Untersuchungstisch\",\n      \"Verband am rechten Unterarm\"\n    ],\n    \"imaging_findings\": [\n      \"Rippenserienfraktur\",\n      \"Distale Unterarmsfraktur\",\n      \"Hämatom im Leberbereich (Röntgen)\"\n    ],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Polytrauma\",\n      \"Rippenserienfraktur\",\n      \"Distale Radiusfraktur\"\n    ],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

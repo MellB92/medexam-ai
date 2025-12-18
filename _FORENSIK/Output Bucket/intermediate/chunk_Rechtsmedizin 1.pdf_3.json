@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. \n\nDer Text behandelt ausschließlich:\n- **Regulatorische Informationen** über Betäubungsmittel (BtM-Rezepte, Verschreibungsregeln)\n- **Rechtliche Vorschriften** (Arzneimittelgesetz, Medizinprodukterecht)\n- **Administrative Regelungen** (Aufbewahrungsfristen, Meldepflichten)\n- **Klassifizierungen** von Medizinprodukten (Klasse I-III)\n- **Zuständigkeiten** von Behörden (BfArM, Paul-Ehrlich-Institut, PTB)\n- **Theoretisches Wissen** über Rezepte, Substitutionsmittel und Röntgenberechtigung\n\nEs werden zwar **hypothetische Szenarien** erwähnt (z.B. \"Wie sieht es aus, wenn ein Patient BtM mehrfach verschreibt und dann sagt, er habe es verloren?\"), aber dies sind **keine konkreten klinischen Fälle** mit Patientendetails, Untersuchungsbefunden oder diagnostischen Überlegungen."
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "title": "pAVK mit Claudicatio intermittens nach Thailand-Reise",
+    "patient_age": null,
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "Wadenschmerzen beim Laufen",
+      "Schmerzen nach ca. 400m Gehstrecke",
+      "Schmerzen bessern sich in Pause (Claudicatio intermittens)",
+      "Ab und zu Luftnot"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Hyperlipidämie",
+      "Z.n. Bandscheiben-OP L4/L5 vor 20 Jahren"
+    ],
+    "comorbidities": [
+      "Z.n. Covid-19 mit Geschmackverlust, Husten und Fieber",
+      "Obstipation"
+    ],
+    "risk_factors": [
+      "Rauchen 52 Pack Years",
+      "Hyperlipidämie",
+      "Arterielle Hypertonie"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Raucher 52 PY",
+      "Vor 3 Wochen in Thailand gewesen",
+      "Alkoholkonsum vorhanden"
+    ],
+    "medications": [
+      "Lisinopril 20 mg Tbl 1-0-0",
+      "Atorvastatin 20 mg Tbl 0-0-1",
+      "Zäpfchen bei Bedarf (Name unbekannt)"
+    ],
+    "allergies": [
+      "Penicillinallergie mit Exanthem"
+    ],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "pAVK (periphere arterielle Verschlusskrankheit)"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. \n\nEs handelt sich um eine **Übersichtstabelle über Qualitätskriterien** für verschiedene medizinische Leistungsbereiche und Leistungsgruppen. Der Text beschreibt:\n\n- Strukturelle Anforderungen (z.B. Fachärzte, Bereitschaftsdienste)\n- Apparative Voraussetzungen (z.B. CT 24/7, MRT, Röntgen)\n- Personelle Vorgaben (z.B. \"3 FA (VZÄ) beschäftigt\")\n- Kooperationsanforderungen (z.B. interdisziplinäre Tumorkonferenzen)\n- Qualitätsanforderungen für verschiedene chirurgische und medizinische Bereiche\n\nDies ist ein **administratives/regulatorisches Dokument** zur Krankenhausplanung, **kein klinisches Fallmaterial**."
+  }
+]

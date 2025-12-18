@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle** mit konkreten Patientenpräsentationen. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** aus einer Prüfung (z.B. \"Frage 19: CRB-65 Index, FAST bei V.a. Schlaganfall\")\n\n2. **Allgemeinem medizinischen Wissensstoff** (z.B. Erklärungen zu Broca-Areal, Wernicke-Areal, Strahlenschutzmaßnahmen, Schwangerschaftsabbruch-Gesetzgebung)\n\n3. **Symptom-Aufzählungen ohne konkrete Patienten** (z.B. \"Frage 22: Diagnose bei Kopfschmerzen, Fieber, Schüttelfrost, Übelkeit?\" - hier werden nur allgemeine Differentialdiagnosen aufgelistet, ohne dass ein konkreter Patient beschrieben wird)\n\n4. **Differentialdiagnosen-Listen** (z.B. mögliche Ursachen von Pruritus, Erkrankungen des Ösophagus)\n\n5. **Pharmakologische Erklärungen** (z.B. Unterschiede zwischen Dihydropyridinen und Verapamil)\n\nEs gibt **keine konkreten Fallbeschreibungen** mit:\n- Spezifischer Patientenvorstellung\n- Individueller Anamnese\n- Konkreten Untersuchungsbefunden eines einzelnen Patienten\n- Fallspezifischer Diagnostik oder Therapie\n\nDaher: **Leeres Array**"
+  }
+]

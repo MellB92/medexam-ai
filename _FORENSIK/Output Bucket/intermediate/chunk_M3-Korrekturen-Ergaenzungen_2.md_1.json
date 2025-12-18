@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 2/2) enthält **keine vollständigen klinischen Patientenfälle oder Präsentationsfälle**.\n\nDas Dokument ist eine **Korrekturen- und Ergänzungsliste** für medizinisches Prüfungswissen und enthält ausschließlich:\n\n1. **Korrekturen von Definitionen und Kriterien** (z.B. Sepsis-Kriterien, qSOFA)\n2. **Dosierungsangaben** (Medikamentendosierungen ohne Patientenkontext)\n3. **Klassifikationssysteme** (NYHA, Child-Pugh, GCS, ASA-Score)\n4. **Leitlinien-Updates** (COVID-19, Antibiotikaresistenzen)\n5. **Allgemeine Empfehlungen** für die Prüfungsvorbereitung\n\nEs handelt sich um **theoretisches Fachwissen und Korrekturen** ohne narrative Patientenfälle mit spezifischen Anamnesen, Untersuchungsbefunden oder klinischen Verläufen."
+  }
+]

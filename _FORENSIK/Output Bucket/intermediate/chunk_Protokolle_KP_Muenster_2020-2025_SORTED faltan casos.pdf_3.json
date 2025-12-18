@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 4/38) enthält **ausschließlich ein Inhaltsverzeichnis** mit Seitenzahlen und Themenüberschriften, aber **keine vollständigen klinischen Präsentationsfälle**.\n\nDie aufgelisteten Einträge sind lediglich:\n- Fallnummern (z.B. 102402b, 62.102503, etc.)\n- Diagnosebezeichnungen (z.B. \"Nebennieren Inzidentalom\", \"Asthma bronchiale\", \"multiples Myelom\", \"Anämie\")\n- Seitenzahlen (z.B. 153, 158, 163, etc.)\n\nEs fehlen sämtliche klinische Details wie:\n- Patienteninformationen (Alter, Geschlecht)\n- Anamnese oder Beschwerden\n- Untersuchungsbefunde\n- Labor- oder Bildgebungsergebnisse\n- Diagnostisches Vorgehen\n\nDies ist ein reines Verzeichnis zur Navigation im Gesamtdokument. Die tatsächlichen klinischen Fälle befinden sich auf den angegebenen Seiten (153-223+), nicht in diesem Abschnitt."
+  }
+]

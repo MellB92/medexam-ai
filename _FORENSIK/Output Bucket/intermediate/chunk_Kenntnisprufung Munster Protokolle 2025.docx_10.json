@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Asthma bronchiale - Belastungsdyspnoe und Husten",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Seit 3 Monaten Belastungsdyspnoe",
+      "Training Abbruch im Fitness Studio",
+      "Husten mit klarem Auswurf",
+      "Ab und zu saures Aufstoßen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Pollenallergie",
+      "Laktoseintoleranz",
+      "Schulterluxation nach Sturz (Vorerkrankung)",
+      "Paronychie (Vorerkrankung)"
+    ],
+    "medications": [
+      "Antihistaminika (Cetirizin bei Bedarf)"
+    ],
+    "allergies": [
+      "Pollenallergie"
+    ],
+    "physical_examination": [
+      "Körperliche Untersuchung ohne Besonderheiten",
+      "Schulter untersucht (Schmerzen)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Asthma bronchiale",
+      "Anämie (als Differentialdiagnose erwähnt)"
+    ],
+    "diagnostic_approach": []
+  }
+]

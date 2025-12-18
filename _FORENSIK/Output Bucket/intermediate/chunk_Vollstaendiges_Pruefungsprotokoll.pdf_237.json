@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Rezidivierende Harnwegsinfekte mit einmaliger Antibiotikagabe",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Rezidivierende Harnwegsinfekte"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Rezidivierende Harnwegsinfekte"
+    ],
+    "medications": [
+      "Fosfomycin-Trometamol (Monuril)"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Unkomplizierte Harnwegsinfekte"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Raumforderung in der Leber nach Hepatitis A",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Raumforderung in der Leber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hepatitis A nach Thailand-Urlaub"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Raumforderung in der Leber"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lebertumor",
+      "DD nach Hepatitis A"
+    ],
+    "diagnostic_approach": [
+      "Laboruntersuchungen (Leberenzyme, Gerinnungsparameter, Tumormarker)",
+      "Bildgebung (Ultraschall, CT, MRT)",
+      "ggf. Biopsie der Raumforderung zur histologischen Abklärung"
+    ]
+  },
+  {
+    "title": "Sprunggelenksfraktur nach Arbeitsunfall",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Sprunggelenksverletzung"
+    ],
+    "accident_mechanism": "Unfall auf dem Weg zur Arbeit (Arbeitsunfall)",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen OSG in zwei Ebenen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sprunggelenksfraktur"
+    ],
+    "diagnostic_approach": [
+      "Anamnese und klinische Untersuchung (Inspektion, Palpation, Bewegungsprüfung, neurovaskuläre Untersuchung)",
+      "Röntgenaufnahmen in zwei Ebenen",
+      "ggf. CT oder MRT zur weiteren Abklärung",
+      "Ruhigstellung und Hochlagerung",
+      "Analgesie",
+      "Bei dislozierten Frakturen: Reposition und ggf. operative Versorgung",
+      "Thromboseprophylaxe"
+    ]
+  }
+]

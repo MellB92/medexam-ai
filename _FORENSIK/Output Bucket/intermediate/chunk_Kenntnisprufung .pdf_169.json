@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Blutige Diarrhoen und Bauchschmerzen bei 31-jähriger Frau",
+    "patient_age": "31 Jahre",
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Seit 2 Wochen bestehende blutige Diarrhoen",
+      "Bauchschmerzen im linken Unterbauch",
+      "Nächtliche Toilettengänge",
+      "Fieber 37,8°C"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Schlüsselbeinfraktur vor 3 Jahren (konservativ behandelt)"
+    ],
+    "comorbidities": [
+      "Seit 3 Monaten entzündete Augen",
+      "Rückenschmerzen seit 3 Monaten"
+    ],
+    "risk_factors": [
+      "Adipositas",
+      "Rauchen: 5-10 Zigaretten am Tag seit 5 Jahren",
+      "Alkohol: 2-3 Bier unter der Woche",
+      "Psychosoziale Belastung (Trennung vom Partner vor 5 Monaten)"
+    ],
+    "family_history": [
+      "Mutter mit 68 Jahren verstorben, Dialysepatientin, Blutvergiftung",
+      "Vater 71 Jahre alt, Herz- und Lungenerkrankungen",
+      "Bruder: an der Leiste operiert"
+    ],
+    "social_history": [
+      "Lebt alleine",
+      "Trennung vom Partner vor 5 Monaten",
+      "Tätig in der Autovermietung"
+    ],
+    "medications": [
+      "Imodium akut (vom Hausarzt verschrieben)"
+    ],
+    "allergies": [
+      "Kälteallergie im Kindesalter"
+    ],
+    "vital_signs": [
+      "Temperatur 37,8°C"
+    ],
+    "physical_examination": [
+      "Adipöser Zustand",
+      "Druckschmerz im linken Unterbauch",
+      "Patient fühlt sich blass",
+      "Sonst unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Chronisch-entzündliche Darmerkrankung (V.a. Colitis ulcerosa oder Morbus Crohn)"
+    ],
+    "diagnostic_approach": [
+      "Digitale rektale Untersuchung (DRU) geplant",
+      "Venöser Zugang gelegt"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Gewichtsverlust von 3 kg in den letzten 3 Wochen",
+      "Appetitlosigkeit",
+      "Letzte Menorrhoe vor 2 Wochen",
+      "Beschwerden seit 5 Monaten, seit 2 Wochen deutlich intensiver"
+    ]
+  }
+]

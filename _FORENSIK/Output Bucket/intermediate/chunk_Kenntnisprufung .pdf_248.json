@@ -1,0 +1,260 @@
+[
+  {
+    "title": "Dialysepatient mit lebensbedrohlicher metabolischer Entgleisung",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "3-4 Tage ohne Dialyse"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Dialysepflichtigkeit"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "pH 7,1",
+      "K 5,6",
+      "Na 150",
+      "BE -12",
+      "pCO2 normal"
+    ],
+    "suspected_diagnosis": [
+      "Lebensbedrohlicher Zustand",
+      "Hyperkaliämie",
+      "Metabolische Azidose"
+    ],
+    "diagnostic_approach": [
+      "BGA"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Fahrrad-Sturz mit Hüftfraktur und Pneumohemothorax",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": "vom Fahrrad gestürzt",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild: Hüftfraktur",
+      "Röntgenthorax: Pneumohemothorax"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hüftfraktur",
+      "Pneumohemothorax"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Hüfte",
+      "Röntgenthorax"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Pneumohemothorax"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Colitis ulcerosa mit blutig-schleimiger Diarrhoe",
+    "patient_age": "31 Jahre",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "blutige schleimige Diarrhoe seit 5 Monaten",
+      "krampfartige Abdomenschmerzen",
+      "B-Symptomatik"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Koloskopie: kontinuierliche Befall des Kolon mit Hyperämie und punktförmige Blutung in Schleimhaut sowie Fibrin Beläge"
+    ],
+    "suspected_diagnosis": [
+      "Colitis ulcerosa",
+      "chronisch entzündliche Darmerkrankung"
+    ],
+    "diagnostic_approach": [
+      "Koloskopie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Inkarzerierte Leistenhernie mit nächtlichen Schmerzen",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "sehr starke Schmerzen in der Leiste nachts"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Inkarzerierte Hernie",
+      "Inguinalhernie"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "in ZNA reponiert",
+      "keine Schmerzen nach Reposition"
+    ],
+    "complications": [],
+    "follow_up": [
+      "Termin zur Op"
+    ]
+  },
+  {
+    "title": "Sepsis mit Fieber und Petechien",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Fieber",
+      "reduzierte AZ"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Petechien auf der Haut"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sepsis"
+    ],
+    "diagnostic_approach": [
+      "SOFA",
+      "qSOFA"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Postoperatives Delir nach Schenkelhalsfraktur-OP",
+    "patient_age": "75 Jahre",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "schreit",
+      "verwirrt"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Schenkelhalsfraktur"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "verwirrt",
+      "schreit"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "postoperatives Delir"
+    ],
+    "diagnostic_approach": [
+      "andere Ursachen ausschließen"
+    ],
+    "treatment_response": [
+      "Haloperidol (Neuroleptika)"
+    ],
+    "complications": [
+      "postoperatives Delir"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Colitis ulcerosa Schub mit Anämie",
+    "patient_age": "31 Jahre",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen bei Palpation des linken Abdomens"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Colitis ulcerosa"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "kein Fieber",
+      "kein SIRS"
+    ],
+    "physical_examination": [
+      "körperliche Untersuchung: normal",
+      "Schmerzen bei Palpation des linken Abdomens"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Leukozyten 14.000",
+      "Hb 8,2 g/dL",
+      "Anämie mikrozytär hypochrom",
+      "CRP 40"
+    ],
+    "suspected_diagnosis": [
+      "Schub von Colitis ulcerosa"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

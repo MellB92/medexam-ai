@@ -1,0 +1,186 @@
+[
+  {
+    "title": "Bilaterales azinäres Lungenödem bei Myokardinfarkt",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Adipositas",
+      "Myokardinfarkt"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Ausgeprägte, zentral perihilär betonte ('schmetterlingsförmig'), azinäre Transparenzminderung beidseits",
+      "Angedeutet erkennbares Bronchopneumogramm",
+      "Herzgrösse lässt sich bei Aufnahme im Liegen nicht sicher bestimmen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bilaterales azinäres Lungenödem (Schmetterlingsödem) bei Myokardinfarkt"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax"
+    ]
+  },
+  {
+    "title": "Akutes Lungenödem bei Linksherzinsuffizienz nach akutem Infarkt mit kompletter Rückbildung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Akuter Infarkt",
+      "Linksherzinsuffizienz"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "d0: Interstitielles und z.T. alveoläres Lungenödem, rechts und basal betont, Herzgrösse normal, im Liegen nur leicht verbreiterte V. azygos/V. cava superior, Spitze der IABP auf Höhe des Aortenbogen/Descendens-Übergang",
+      "d1: Regredienz des Lungenödems bis auf feine interstitielle perivaskuläre Transsudationsreste, keine Pleuraergüsse, Herz im Grössennormbereich, stationäre Lage der IABP",
+      "d10: Randwinkel beidseits frei, keine azinäre Transparenzminderung, kardial kompensiert, kein Pneumothorax, Defibrillatoraggregat links pektoral mit konnektierter Sonde und Sondenende auf dem Boden des rechten Ventrikels"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akutes Lungenödem im Rahmen einer Linksherzinsuffizienz bei akutem Infarkt"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax im Verlauf (d0, d1, d10)"
+    ]
+  },
+  {
+    "title": "Patient mit Perikarderguss und nachfolgender akuter respiratorischer Insuffizienz mit beidseitigen Lungeninfiltraten",
+    "patient_age": null,
+    "patient_gender": "Mann",
+    "chief_complaints": [
+      "Plötzliche Verschlechterung nach einer Woche Intensivstation"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Perikarderguss"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Herzrhythmus 160/Min",
+      "Atemfrequenz 40/Min"
+    ],
+    "imaging_findings": [
+      "Perikarderguss (initial)",
+      "Beidseitige Lungeninfiltrate (nach Verschlechterung)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perikarderguss",
+      "Akute respiratorische Insuffizienz",
+      "Akutes Lungenödem",
+      "Pneumonie"
+    ],
+    "diagnostic_approach": [
+      "Echo",
+      "Thorax-Röntgen",
+      "Überwachung auf Komplikationen (Blutung, Aggravation vom Erguss)"
+    ]
+  },
+  {
+    "title": "Intubierter Patient auf Intensivstation mit schwerem Lungenödem",
+    "patient_age": null,
+    "patient_gender": "Mann",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Intubiert",
+      "Mehrere Fremdkörper (EKG und andere Schläuche)"
+    ],
+    "imaging_findings": [
+      "AP Thorax-Aufnahme liegend",
+      "Schweres Lungenödem",
+      "Karley Linien"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenödem (kardial vs. nicht kardial)"
+    ],
+    "diagnostic_approach": [
+      "Systematische Röntgen-Thorax Befundung (ABCDEF-Schema)"
+    ]
+  },
+  {
+    "title": "Patient mit Lungenödem und Herzinsuffizienz",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Herzinsuffizienz"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax mit Lungenödem",
+      "Vergrößertes Herz"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenödem im Rahmen einer Herzinsuffizienz",
+      "Kardiale Dekompensation"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax"
+    ]
+  },
+  {
+    "title": "Patient mit hypertensiver Krise und drohendem Lungenödem",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Hypertensive Krise"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hypertensive Krise",
+      "Drohendes Lungenödem"
+    ],
+    "diagnostic_approach": [
+      "Therapie: Nitro (Mechanismus)",
+      "Furosemide"
+    ]
+  },
+  {
+    "title": "Patient mit Mitralklappeninsuffizienz",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Mitralklappeninsuffizienz"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Echo mit Mitralklappeninsuffizienz"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Mitralklappeninsuffizienz"
+    ],
+    "diagnostic_approach": [
+      "Echokardiographie",
+      "Erwartete Klinik: Pulmonalvenöse Stauung -> Lungenödem"
+    ]
+  }
+]

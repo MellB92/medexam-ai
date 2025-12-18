@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Hyperkaliämie bei chronischer Niereninsuffizienz",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "chronische Niereninsuffizienz"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Kalium 5,8"
+    ],
+    "suspected_diagnosis": [
+      "Hyperkaliämie"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "EKG"
+    ]
+  },
+  {
+    "title": "Patellaluxation nach Sturz beim Spielen",
+    "patient_age": "66 Jahre",
+    "patient_gender": "männlich",
+    "chief_complaints": [
+      "Schmerzen im Knie",
+      "Bewegungseinschränkung im Knie"
+    ],
+    "accident_mechanism": "Sturz auf das rechte Knie beim Spielen mit dem Enkel",
+    "pre_existing_conditions": [
+      "Diabetes mellitus",
+      "Hypothyreose",
+      "arterielle Hypertonie"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "kein auffälliger Allgemeinzustand"
+    ],
+    "imaging_findings": [
+      "Röntgen",
+      "CT 3D"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Luxation der Patella",
+      "mögliche Begleitverletzungen"
+    ],
+    "diagnostic_approach": [
+      "klinische Untersuchung des Knies",
+      "Röntgen",
+      "CT 3D"
+    ]
+  },
+  {
+    "title": "Thoraxschmerz bei Sport - ARVC-Verdacht",
+    "patient_age": "17 Jahre",
+    "patient_gender": null,
+    "chief_complaints": [
+      "Thoraxschmerz bei Sport"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "arrhythmogene rechtsventrikuläre Kardiomyopathie"
+    ],
+    "diagnostic_approach": [
+      "EKG"
+    ]
+  },
+  {
+    "title": "Hyperthyreose",
+    "patient_age": "32 Jahre",
+    "patient_gender": "weiblich",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hyperthyreose"
+    ],
+    "diagnostic_approach": [
+      "Anamnese"
+    ]
+  }
+]

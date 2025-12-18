@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle**, sondern ausschließlich:\n\n1. **Theoretische Prüfungsfragen** mit Musterwissen (z.B. \"Was ist der Schockindex?\", \"Welche Klassifikationen kennen Sie?\")\n\n2. **Fragmentarische Bezüge** auf Patientenszenarien ohne vollständige Falldarstellung:\n   - Frage 3: Erwähnung einer \"Patientin mit rezidivierenden Harnwegsinfekten\" - aber nur als Aufhänger für eine Wissensfrage zum Medikament\n   - Frage 4: Erwähnung einer \"Patientin nach Urlaub in Thailand mit Hepatitis A\" - aber nur als theoretische Frage zu notwendigen Untersuchungen\n   - Frage 5-6: \"Verdacht auf Sprunggelenksfraktur\" - rein theoretische Frage ohne konkrete Patientendetails\n\n3. **Allgemeine medizinische Wissensfragen** ohne Patientenkontext (Händedesinfektion, Tumorarten, Medikamentenlisten)\n\n**Keiner dieser Ausschnitte bildet einen vollständigen, extrahierbaren klinischen Fall** mit ausreichenden Details zu Anamnese, Befunden und diagnostischem Vorgehen eines konkreten Patienten."
+  }
+]

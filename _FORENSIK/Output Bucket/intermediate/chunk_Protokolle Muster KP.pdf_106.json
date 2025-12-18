@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Schwangere Frau mit Refluxösophagitis und Z.n. Handgelenkfraktur\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\n      \"Heiserkeit\",\n      \"brennendes drückendes Gefühl retrosternal seit einigen Monaten\",\n      \"Sodbrennen\",\n      \"Verschlechterung der Beschwerden im Liegen\",\n      \"Verschlechterung der Beschwerden nach dem Essen\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Schwangerschaft\",\n      \"Zustand nach Handgelenk Fraktur\"\n    ],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\n      \"Handgelenkuntersuchung durchgeführt\",\n      \"Scaphoid-Palpation\",\n      \"Lungenuntersuchung (2. Rippe, 2. Interkostalraum)\"\n    ],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Refluxösophagitis\"\n    ],\n    \"diagnostic_approach\": [\n      \"Körperliche Untersuchung\",\n      \"Anamnese\",\n      \"Klassifikation der Refluxösophagitis\",\n      \"Ausschluss Barrett-Ösophagus\"\n    ]\n  }\n]\n```"
+  }
+]

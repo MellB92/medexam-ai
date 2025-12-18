@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Achalasie bei 45-jähriger Frau mit Augenzittern",
+    "patient_age": "45 Jahre",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "gelegentliches Augenzittern",
+      "Dysphagie verneint (trotz Achalasie-Diagnose)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater: Myokardinfarkt mit 79 Jahren (verstorben)",
+      "Mutter: Hyperthyreose, Z.n. Thyreoidektomie",
+      "Bruder: HIV-Erkrankung (verstorben in USA)",
+      "Bruder: Entzündung des großen Zeh (Podagra)"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Kardiopulmonale Untersuchung: unauffällig",
+      "Abdomen: unauffällig",
+      "Schilddrüse: unauffällig",
+      "Neurologisch: Nystagmus horizontal und vertikal geprüft, unauffällig",
+      "Reflexe: unauffällig",
+      "Nierenklopfschmerz rechts: negativ",
+      "Nervenaustrittspunkte Gesicht: wegen Maske nicht durchführbar"
+    ],
+    "imaging_findings": [
+      "Breischluck durchgeführt",
+      "Röntgen-Thorax: Verbreiterung des Mediastinums bei Achalasie",
+      "Röntgen-Thorax: Verdickung des Ösophagus"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Achalasie"
+    ],
+    "diagnostic_approach": [
+      "Anamnese und Familienanamnese",
+      "körperliche Untersuchung (kardiopulmonal, abdominal, schilddrüse, neurologisch)",
+      "Breischluck",
+      "Röntgen-Thorax",
+      "Labordiagnostik (geplant mit Begründung)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Patientenaufklärung über Diagnose und Procedere",
+      "Beruhigung der Patientin"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Polytrauma mit Beckenringfraktur und Calcaneusfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Polytrauma"
+    ],
+    "accident_mechanism": "Trauma mit Verletzung mehrerer Körperregionen",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Beckenringfraktur",
+      "Calcaneusfraktur",
+      "Röntgenbild rechter Fuß AP vorliegend",
+      "Fraktur ohne Dislokation",
+      "Keine Gelenkbeteiligung",
+      "Keine offene Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma",
+      "Beckenringfraktur",
+      "Calcaneusfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgenaufnahmen in mehreren Ebenen erforderlich",
+      "Beurteilung der Stabilität des hinteren Beckenrings",
+      "Klassifikation nach Tile oder Young-Burgess",
+      "Laterale Aufnahme des Fußes zusätzlich erforderlich"
+    ]
+  },
+  {
+    "title": "Ertrinkungsunfall im Winter mit Hypothermie",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Ertrinkungsunfall",
+      "Unterkühlung"
+    ],
+    "accident_mechanism": "Mann im Winter aus dem See gezogen",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Hypothermie"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hypothermie",
+      "Ertrinkungsunfall"
+    ],
+    "diagnostic_approach": [
+      "Körpertemperatur messen",
+      "CPR durchführen",
+      "Patienten während CPR wärmen",
+      "Reanimation bis Normalisierung der Körpertemperatur oder eindeutige Todeszeichen"
+    ]
+  }
+]

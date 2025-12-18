@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:** Dieser Dokumentabschnitt enthält keine klinischen Patientenfälle. Es handelt sich um:\n\n1. **OPS-Codes für ECMO-Therapie** (Extrakorporale Membranoxygenation) mit verschiedenen Behandlungsdauern - dies sind Abrechnungscodes, keine Fallbeschreibungen\n2. **Tabelle A2**: Eine administrative Übersicht über verpflichtende Mindestvorhaltungen für Intensivstationen nach Level 1, 2 und 3, einschließlich:\n   - Qualifikationsanforderungen für ärztliches Personal\n   - Personalschlüssel und Ausstattung\n   - Diagnostische und therapeutische Verfügbarkeiten\n   - Organisatorische Anforderungen\n\nDies ist ein regulatorisches/administratives Dokument zur Krankenhausfinanzierung und Qualitätsstandards, enthält aber keine individuellen Patientenfalldarstellungen."
+  }
+]

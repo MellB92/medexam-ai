@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Oberschenkelhalsfraktur links nach Sturz bei 68-jähriger Patientin",
+    "patient_age": "68 Jahre",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Coxalgien links",
+      "Schmerzbedingte Bewegungseinschränkung",
+      "Schmerzen 6/10 in Ruhe, 9/10 bei Bewegung"
+    ],
+    "accident_mechanism": "Nach Einnahme eines Schlafmittels Benommenheitsgefühl, auf die linke Seite gefallen/gestolpert",
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Diabetes mellitus",
+      "Herzrhythmusstörung",
+      "Urinäre Inkontinenz",
+      "Wechsel zwischen Diarrhoe und Obstipation"
+    ],
+    "comorbidities": [
+      "Z.n. Cholezystektomie",
+      "Z.n. Knie-Arthroskopie (unauffällig)",
+      "Z.n. Anal-Fistel, operativ behandelt"
+    ],
+    "risk_factors": [
+      "20 PY Nikotinkonsum bis zum 38. Lebensjahr",
+      "Alter 68 Jahre",
+      "Einnahme von Schlafmitteln"
+    ],
+    "family_history": [
+      "Vater: Z.n. Pankreas-Karzinom",
+      "Mutter: Z.n. Niereninsuffizienz",
+      "Bruder: Z.n. Hauptschlagaderveränderung (Aneurysma?)"
+    ],
+    "social_history": [
+      "Ex-Raucherin (bis 38. Lebensjahr, 20 PY)",
+      "Gelegentlich ein Glas Wein zu Feiern, jetzt nicht mehr",
+      "Sozialanamnese unauffällig"
+    ],
+    "medications": [
+      "Metformin 850 mg 1-0-1",
+      "Ibuprofen 400 mg bei Bedarf"
+    ],
+    "allergies": [
+      "Nickel (Exanthem)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Druckschmerzen linkes Hüftgelenk",
+      "Bewegungseinschränkung des linken Hüftgelenks",
+      "Körperliche Untersuchung sonst unauffällig"
+    ],
+    "imaging_findings": [
+      "Beckenübersichtsaufnahme: Stauchungsfraktur des Oberschenkelhalses",
+      "Beckenübersichtsaufnahme: Oberschenkelhalsfraktur mit vollständiger Dislokation"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hüftgelenksfraktur (Schenkelhalsfraktur) links",
+      "Oberschenkelhalsfraktur links mit vollständiger Dislokation"
+    ],
+    "diagnostic_approach": [
+      "Anamnese und körperliche Untersuchung",
+      "Beckenübersichtsaufnahme"
+    ],
+    "treatment_response": [
+      "Therapie der Wahl: Operativ mittels dynamische Hüftschraube, Schrauben oder Hüftprothese"
+    ],
+    "complications": [
+      "Posttraumatische Arthrose",
+      "Hüftkopfnekrose",
+      "Beinlängendifferenz",
+      "Postoperative Luxation (starke Schmerzen, Bein in Außenrotation)"
+    ],
+    "follow_up": []
+  }
+]

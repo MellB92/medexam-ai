@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 12/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\" von Trappe) und enthält **keine klinischen Patientenfälle**.\n\nDer Abschnitt behandelt:\n- **Lektion 4**: Theoretische Grundlagen zur Analyse von EKG-Zacken\n- Beschreibung der **Kammererregung und Erregungsrückbildung**\n- Technische Erklärungen zu:\n  - Q-Zacke (normale und pathologische Befunde)\n  - R- und S-Zacken\n  - QRS-Komplex\n  - ST-Strecke und T-Welle\n  - J-Punkt und J-Welle\n\nEs handelt sich um rein **didaktisches Material** mit:\n- Normwerten (z.B. \"0,12–0,20 sek\")\n- Kriterien nach Pardee\n- Schematischen Abbildungen (Abb. 4.1 bis 4.6)\n- Allgemeinen pathophysiologischen Erklärungen\n\n**Keine konkreten Patientenbeispiele, Fallvorstellungen oder klinischen Präsentationen sind vorhanden.**"
+  }
+]

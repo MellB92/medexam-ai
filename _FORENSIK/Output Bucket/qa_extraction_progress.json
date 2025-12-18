@@ -1,0 +1,430 @@
+[
+  {
+    "file": "KP Münster 2020 -2025.md",
+    "total_questions": 54,
+    "chunks_processed": 86,
+    "questions": [
+      {
+        "id": "Frage-1",
+        "question": "Was ist eine Beckenfraktur?",
+        "answer": "Eine Beckenfraktur ist ein Bruch eines Knochens im Beckenbereich, oft verursacht durch starke Krafteinwirkungen wie Unfälle oder Stürze.",
+        "topic": "Beckenfraktur",
+        "category": "Orthopädie"
+      },
+      {
+        "id": "Frage-2",
+        "question": "Welche Symptome treten bei einer Beckenfraktur auf?",
+        "answer": "Symptome umfassen starke Schmerzen im Beckenbereich, Schwellungen, Blutergüsse und eingeschränkte Beweglichkeit.",
+        "topic": "Symptome der Beckenfraktur",
+        "category": "Orthopädie"
+      },
+      {
+        "id": "Frage-3",
+        "question": "Wie werden Beckenfrakturen behandelt?",
+        "answer": "Die Behandlung hängt von der Schwere der Fraktur ab. Leichte Brüche können konservativ behandelt werden, während schwere Brüche oft eine Operation erfordern.",
+        "topic": "Behandlung von Beckenfrakturen",
+        "category": "Orthopädie"
+      },
+      {
+        "id": "Frage-4",
+        "question": "Welche Typen von Beckenfrakturen gibt es?",
+        "answer": "Beckenfrakturen können in verschiedene Typen eingeteilt werden, wie z.B. Beckenrandfrakturen und Beckenringfrakturen, die sich nach der Stabilität (AO A, B, C) unterscheiden.",
+        "topic": "Typen von Beckenfrakturen",
+        "category": "Orthopädie"
+      },
+      {
+        "id": "Frage-5",
+        "question": "Wie wird die AO-Klassifikation der Beckenringfrakturen verwendet?",
+        "answer": "Die AO-Klassifikation hilft, die Stabilität des Beckens zu bestimmen und die Behandlung entsprechend anzupassen.",
+        "topic": "AO-Klassifikation",
+        "category": "Orthopädie"
+      },
+      {
+        "id": "Frage-6",
+        "question": "Welche Begleitverletzungen können bei Beckenfrakturen auftreten?",
+        "answer": "Begleitverletzungen können Blasen- oder Harnröhrenverletzungen, Darmperforationen und Hämorragien umfassen.",
+        "topic": "Begleitverletzungen bei Beckenfrakturen",
+        "category": "Orthopädie"
+      },
+      {
+        "id": "Frage-7",
+        "question": "Wie wird die Diagnose einer Beckenfraktur gestellt?",
+        "answer": "Die Diagnose erfolgt durch Anamnese, körperliche Untersuchung, Röntgenaufnahmen und CT-Scans.",
+        "topic": "Diagnose von Beckenfrakturen",
+        "category": "Orthopädie"
+      },
+      {
+        "id": "1",
+        "question": "Thema: Konservative Therapie bei Beckenfrakturen",
+        "answer": "AO Typ A und B1, nicht dislozierte und stabile Frakturen: einseitige vordere Beckenringfraktur 1 Woche Bettruhe, Krankengymnastik, Analgesie; Schmetterlingsfraktur 2 Wochen Bettruhe; Symphysenruptur und Abrissfrakturen: frühfunktionelle Behandlung.",
+        "topic": "Beckenfraktur, Therapie",
+        "category": "Traumatologie/Orthopädie"
+      },
+      {
+        "id": "2",
+        "question": "Thema: Operative Therapie bei Beckenfrakturen",
+        "answer": "Notfall und Hämorrhagie: Beckengurt/Beckenschlinge, danach Beckenzwinge/Fixateur externe zur Blutstillung, alternativ Angioembolisation. Schraubenosteosynthese bei transpubischer Instabilität und Sakrumfraktur. Plattenosteosynthese bei Symphysenruptur, Openbook, Os ilium (Zugschrauben und Platte), Iliosakralfuge, transiliakal, Sakrum-Trümmerfraktur.",
+        "topic": "Beckenfraktur, Therapie",
+        "category": "Traumatologie/Orthopädie"
+      },
+      {
+        "id": "3",
+        "question": "Thema: Komplikationen bei Beckenfrakturen",
+        "answer": "Kompartmentsyndrom im Bereich der Faszienräume des M. psoas und der Glutealmuskulatur, Pseudoarthrosen.",
+        "topic": "Beckenfraktur, Komplikationen",
+        "category": "Traumatologie/Orthopädie"
+      },
+      {
+        "id": "4",
+        "question": "Thema: Beckenfraktur Klassifikation (AO-Klassifikation)",
+        "answer": "Nicht explizit beantwortet im Text, aber Thema angesprochen.",
+        "topic": "Beckenfraktur, Klassifikation",
+        "category": "Traumatologie/Orthopädie"
+      },
+      {
+        "id": "5",
+        "question": "Thema: Beckenfraktur, Therapie",
+        "answer": "Siehe oben (konservativ/operativ).",
+        "topic": "Beckenfraktur, Therapie",
+        "category": "Traumatologie/Orthopädie"
+      },
+      {
+        "id": "6",
+        "question": "Thema: Beckenröntgen – anatomische Beschreibung",
+        "answer": "Nicht explizit beantwortet im Text, aber Thema angesprochen.",
+        "topic": "Beckenröntgen, Anatomie",
+        "category": "Radiologie/Traumatologie"
+      },
+      {
+        "id": "7",
+        "question": "Rö. Becken gezeigt und ich musste alle Knochen zeigen, dann hat er gefragt was ich sehe.",
+        "answer": "War eine Openbook-Fraktur mit partieller Unterbrechung einer Seite und kompletter Unterbrechung der anderen Seite.",
+        "topic": "Beckenröntgen, Befund",
+        "category": "Radiologie/Traumatologie"
+      },
+      {
+        "id": "8",
+        "question": "Beckenfraktur Klassifikation. Welche sind stabil? Welche instabil? KISS-Schema?",
+        "answer": "Nicht explizit beantwortet im Text.",
+        "topic": "Beckenfraktur, Klassifikation, Stabilität",
+        "category": "Traumatologie/Orthopädie"
+      },
+      {
+        "id": "9",
+        "question": "Bild: komplette Beckenringfraktur, Stabilität? AO-Klassifikation? Welche Strukturen können verletzt werden?",
+        "answer": "Nicht explizit beantwortet im Text.",
+        "topic": "Beckenringfraktur, Stabilität, Klassifikation, Begleitverletzungen",
+        "category": "Traumatologie/Orthopädie"
+      },
+      {
+        "id": "10",
+        "question": "Beckenfraktur, Typen, Red Flags, mögliche Verletzungen und Therapie.",
+        "answer": "Nicht explizit beantwortet im Text.",
+        "topic": "Beckenfraktur, Typen, Warnzeichen, Begleitverletzungen, Therapie",
+        "category": "Traumatologie/Orthopädie"
+      },
+      {
+        "id": "11",
+        "question": "Ein Rö. Beckenübersichtsaufnahme mit vorderer Beckenfraktur, ich musste die Frakturlinie zeigen, generelle Einteilung für Beckenfrakturen? Unfallmechanismus? Mögliche Verletzungen in diesem Bereich?",
+        "answer": "Ich habe alle möglichen Verletzungen genannt, sie wollte zusätzlich Blasen- und Mastdarmentleerungsstörungen hören.",
+        "topic": "Beckenröntgen, Frakturlinie, Klassifikation, Unfallmechanismus, Begleitverletzungen",
+        "category": "Radiologie/Traumatologie"
+      },
+      {
+        "id": "12",
+        "question": "Thema: Rippenserienfraktur – Ursache",
+        "answer": "Starkes stumpfes Thorax-Trauma.",
+        "topic": "Rippenserienfraktur, Ätiologie",
+        "category": "Traumatologie"
+      },
+      {
+        "id": "13",
+        "question": "Thema: Rippenserienfraktur – Diagnose",
+        "answer": "Aufnahme des knöchernen Hemithorax in Weichstrahltechnik.",
+        "topic": "Rippenserienfraktur, Diagnostik",
+        "category": "Radiologie/Traumatologie"
+      },
+      {
+        "id": "14",
+        "question": "Thema: Rippenserienfraktur – Komplikationen",
+        "answer": "Pneumothorax, Hämatothorax, Milzruptur oder Leberruptur bei dislozierter 11.–12. Rippe, instabiler Thorax (mind. 3 Rippen, jeweils mehrfach gebrochen, paradoxe Atmung).",
+        "topic": "Rippenserienfraktur, Komplikationen",
+        "category": "Traumatologie"
+      },
+      {
+        "id": "15",
+        "question": "Thema: Rippenserienfraktur – Behandlung",
+        "answer": "Konservativ: Krankengymnastik, Schmerztherapie, Mobilisation, Oberkörperhochlagerung. Operativ: Instabiler Thorax, dislozierte Frakturen – Plattenosteosynthese, Rippenklammer, intramedullärer Splint.",
+        "topic": "Rippenserienfraktur, Therapie",
+        "category": "Traumatologie"
+      },
+      {
+        "id": "16",
+        "question": "ok es wurde alle 3 ausgeschlossen aber der Pat hat Rippenserienfraktur, wie wird es behandelt?",
+        "answer": "Konservativ: Krankengymnastik, Schmerztherapie, Mobilisation, Oberkörperhochlagerung.",
+        "topic": "Rippenserienfraktur, Therapie",
+        "category": "Traumatologie"
+      },
+      {
+        "id": "17",
+        "question": "Dann ein Rö-Thorax-Bild, beschreiben Sie bitte? Hochstand der rechten Zwerchfellkuppe mit Hämatothorax und Rippenserienfraktur bla bla. Ursache?",
+        "answer": "Starkes stumpfes Thorax-Trauma.",
+        "topic": "Rö-Thorax, Befund, Ätiologie",
+        "category": "Radiologie/Traumatologie"
+      },
+      {
+        "id": "18",
+        "question": "Was machen Sie?",
+        "answer": "Thoraxdrainage.",
+        "topic": "Hämatothorax, Therapie",
+        "category": "Traumatologie"
+      },
+      {
+        "id": "19",
+        "question": "Wo? und Wie?",
+        "answer": "Bülau, Monaldi-Geschichte.",
+        "topic": "Thoraxdrainage, Technik",
+        "category": "Traumatologie"
+      },
+      {
+        "id": "20",
+        "question": "Viele Diskussion über instabilen Thorax (Flail-Chest). Ich habe die Pathophysiologie von paradoxer Atmung erzählt. Er war zufrieden.",
+        "answer": "Pathophysiologie der paradoxen Atmung bei instabilem Thorax (Flail-Chest).",
+        "topic": "Instabiler Thorax, Pathophysiologie",
+        "category": "Traumatologie"
+      },
+      {
+        "id": "21",
+        "question": "Rippenserienfraktur noch mal bei Z.n. Reanimation. Die Behandlung und paradoxe Atmung habe ich erzählt (noch mal! weil er nicht zugehört hat?).",
+        "answer": "Wir müssen intubieren und warten, bis die Rippen wieder atemfähig sind. Keine Platten oder ähnliches bei Rippenfrakturen. Es kann besondere Indikationen geben, aber in der Regel nicht. Wie lange? 2 bis 4 Wochen.",
+        "topic": "Rippenserienfraktur, Therapie nach Reanimation",
+        "category": "Traumatologie"
+      },
+      {
+        "id": "q1",
+        "question": "Welche Komplikationen können bei einer Rippenfraktur auftreten?",
+        "answer": "Komplikationen bei Rippenfrakturen entstehen meist durch Begleitverletzungen. Dazu zählen Hämatothorax, Pneumothorax, Lungenkontusion, Verletzungen von Leber, Milz, Lunge, Herz, paradoxe Atmung bei ausgeprägten Serienfrakturen, Pneumonie durch schmerzbedingte Schonatmung, Verletzungen großer Gefäße (bei Bruch der ersten oder zweiten Rippe), sowie Verletzungen von Luftröhre, Herzmuskel, Nerven, Nieren und Zwerchfell.",
+        "topic": "Rippenfraktur",
+        "category": "Unfallchirurgie"
+      },
+      {
+        "id": "q2",
+        "question": "Wie kann man eine Milzruptur bei Rippenfraktur diagnostizieren?",
+        "answer": "Eine Milzruptur kann durch bildgebende Verfahren wie Ultraschall (FAST-Sonographie) oder CT diagnostiziert werden. Bei Symptomen unter dem linken Rippenbogen sollte eine stationäre Aufnahme und gründliche, ggf. wiederholte Untersuchungen erfolgen.",
+        "topic": "Rippenfraktur, Milzruptur",
+        "category": "Unfallchirurgie"
+      },
+      {
+        "id": "q3",
+        "question": "Welches Schmerzmittel wird bei Rippenfraktur empfohlen?",
+        "answer": "Piritramid wird als Schmerzmittel bei Rippenfraktur empfohlen.",
+        "topic": "Rippenfraktur, Schmerztherapie",
+        "category": "Unfallchirurgie"
+      },
+      {
+        "id": "q4",
+        "question": "Was ist auf dem Röntgenbild bei Hämatothorax im Rahmen einer Rippenfraktur zu sehen und wie ist das Vorgehen?",
+        "answer": "Im Röntgenbild zeigt sich ein Hämatothorax links im Rahmen einer Rippenfraktur. Das Vorgehen ist die notfallmäßige Blutungsausräumung mit Drainage. Die Drainage wird im 4.-5. ICR (Interkostalraum) an der vorderen Axillarlinie links oberhalb der Rippe eingelegt, um Verletzungen von Nerven und Gefäßen zu vermeiden. Die Punktion wird mit einer Buläu-Nadel durchgeführt.",
+        "topic": "Rippenfraktur, Hämatothorax",
+        "category": "Unfallchirurgie"
+      },
+      {
+        "id": "q5",
+        "question": "Welche Hauptverletzungen könnte die Patientin bei Rippenfraktur haben?",
+        "answer": "Die Hauptverletzungen sind Rippenbogenfrakturen und Rippenserienfraktur.",
+        "topic": "Rippenfraktur",
+        "category": "Unfallchirurgie"
+      },
+      {
+        "id": "q6",
+        "question": "Welche Verletzungen können Rippenfrakturen verursachen?",
+        "answer": "Rippenfrakturen können Verletzungen der Leber, Milz, Lunge, Herz verursachen. Bei ausgeprägten Serienfrakturen kann es zu paradoxer Atmung kommen.",
+        "topic": "Rippenfraktur",
+        "category": "Unfallchirurgie"
+      },
+      {
+        "id": "q7",
+        "question": "Wie werden Leber oder Milz bei Rippenserienfraktur verletzt?",
+        "answer": "Leber oder Milz werden durch Rippenknochenfragmente verletzt, insbesondere bei Verletzungen der 11. und 12. Rippe.",
+        "topic": "Rippenfraktur, Organverletzung",
+        "category": "Unfallchirurgie"
+      },
+      {
+        "id": "q8",
+        "question": "Welche röntgenologische Maßnahme benutzt man, um die Knochen bei Rippenfraktur besser zu beurteilen?",
+        "answer": "Man benutzt die Weichstrahltechnik, um die Knochen besser zu beurteilen.",
+        "topic": "Rippenfraktur, Diagnostik",
+        "category": "Unfallchirurgie"
+      },
+      {
+        "id": "q9",
+        "question": "Was ist der Mechanismus eines Hämatothorax bei Rippenfraktur?",
+        "answer": "Durch den Rippenbruch geht der negative Druck verloren und es sammelt sich Blut zwischen den Pleuraspalten.",
+        "topic": "Rippenfraktur, Hämatothorax",
+        "category": "Unfallchirurgie"
+      },
+      {
+        "id": "q10",
+        "question": "Welche Strukturen bilden das Obere Sprunggelenk? Welche Verletzungen können auftreten? Welche Bänder kennen Sie hier?",
+        "answer": "Das Obere Sprunggelenk (OSG) wird gebildet aus Tibia, Fibula und Talus. Verletzungen sind Distorsionen, Bandrupturen, Frakturen. Die wichtigsten Bänder sind das Lig. talofibulare anterius, das Lig. calcaneofibulare und das Lig. deltoideum.",
+        "topic": "Oberes Sprunggelenk, Bandverletzungen",
+        "category": "Orthopädie/Unfallchirurgie"
+      },
+      {
+        "id": "q11",
+        "question": "Welche Einteilung kennen Sie von Distorsion und Bänderverletzung am OSG? Welche Fraktur bei Supinationstrauma? Welche bei Pronationstrauma?",
+        "answer": "Einteilung: Akute OSG-Distorsion (Überdehnung/Zerrung), Außenbandapparatinsuffizienz (chronisch-rezidivierend), Ligamentruptur/Bandriss (ein Band, zwei Bänder, komplett). Supinationstrauma: Außenbandruptur, evtl. Weber-Fraktur Typ B. Pronationstrauma: evtl. Riss des Lig. deltoideum, Weber-Fraktur Typ C.",
+        "topic": "Oberes Sprunggelenk, Bandverletzungen",
+        "category": "Orthopädie/Unfallchirurgie"
+      },
+      {
+        "id": "q12",
+        "question": "Wie heißt die Schiene bei Patienten mit OSG-Distorsion?",
+        "answer": "Die Schiene heißt Aircast-Schiene.",
+        "topic": "Oberes Sprunggelenk, Therapie",
+        "category": "Orthopädie/Unfallchirurgie"
+      },
+      {
+        "id": "q13",
+        "question": "Anatomie der Bänder und Klassifizierung (nach Weber) sowie entsprechende Behandlung bei OSG-Distorsion.",
+        "answer": "Die wichtigsten Bänder sind das Lig. talofibulare anterius, das Lig. calcaneofibulare und das Lig. deltoideum. Klassifikation nach Weber: Typ A (unterhalb der Syndesmose), Typ B (auf Höhe der Syndesmose), Typ C (oberhalb der Syndesmose). Behandlung: Konservativ bei stabilen Verletzungen (PECH, elastischer Stützverband, ggf. Aircast-Schiene), operativ bei instabilen/insuffizienten Gelenken oder Sportlern.",
+        "topic": "Oberes Sprunggelenk, Bandverletzungen",
+        "category": "Orthopädie/Unfallchirurgie"
+      },
+      {
+        "id": "Q1",
+        "question": "Welche operativen Behandlungsmöglichkeiten gibt es bei Knorpelschäden und Arthrose?",
+        "answer": "Zu den operativen Behandlungsmöglichkeiten gehören: Chondrozytentransplantation, osteochondrale autologe Transplantation (Knorpelknochenzylinder wird mit Diamanthohlschleife entnommen und transplantiert), Arthrodese (Gelenkversteifung), TEP (Totalendoprothese, auch alloplastische Prothese genannt), HEP (bipolare Endoprothese) und verschiedene Arten von Kniegelenkprothesen (Hemiprothese unikondylär/bikondylär, ungekoppelte/teilgekoppelte/gekoppelte TEP-Prothesen).",
+        "topic": "Operative Therapie von Gelenkerkrankungen",
+        "category": "Orthopädie und Unfallchirurgie"
+      },
+      {
+        "id": "Q2",
+        "question": "Was ist der Unterschied zwischen zementierten und nicht-zementierten Endoprothesen und bei welchen Patienten werden sie eingesetzt?",
+        "answer": "Nicht-zementierte Prothesen werden bei jüngeren Patienten eingesetzt, da die Titan-Endoprothese ein knöchernes Einwachsen ermöglicht und einfacher zu wechseln ist. Die Prothesen halten 10-15 Jahre. Es erfolgt eine Teilbelastung für 2-4 Wochen mit Gehhilfe. Zementierte Prothesen werden bei älteren Patienten verwendet, weil diese direkt belastet werden können. Im Röntgenbild erkennt man zementierte Prothesen am Zementsaum.",
+        "topic": "Endoprothetik",
+        "category": "Orthopädie und Unfallchirurgie"
+      },
+      {
+        "id": "Q3",
+        "question": "Welche Arten von Kniegelenkprothesen gibt es?",
+        "answer": "Es gibt Hemiprothesen (unikondylär und bikondylär) sowie verschiedene Formen der TEP: ungekoppelte Prothesen, teilgekoppelte Prothesen (bei verletztem hinteren Kreuzband) und gekoppelte Prothesen.",
+        "topic": "Knieendoprothetik",
+        "category": "Orthopädie und Unfallchirurgie"
+      },
+      {
+        "id": "Q4",
+        "question": "Welche Frühkomplikationen können nach Endoprothesenimplantation auftreten?",
+        "answer": "Zu den Frühkomplikationen gehören: Gefäß- und/oder Nervenverletzung, Tiefe Venenthrombose (TVT) und Zementembolie.",
+        "topic": "Komplikationen der Endoprothetik",
+        "category": "Orthopädie und Unfallchirurgie"
+      },
+      {
+        "id": "Q5",
+        "question": "Welche Spätkomplikationen können nach Endoprothesenimplantation auftreten?",
+        "answer": "Zu den Spätkomplikationen gehören: Luxation der Prothese (Behandlung durch Reposition unter Vollnarkose und Muskelrelaxantien), Verkürzung des Beins, Gelenksteife, Infektion und aseptische Prothesenlockerung.",
+        "topic": "Komplikationen der Endoprothetik",
+        "category": "Orthopädie und Unfallchirurgie"
+      },
+      {
+        "id": "Q6",
+        "question": "Was sind mögliche Ursachen einer Arthrose?",
+        "answer": "Mögliche Ursachen sind: Trauma, systemische Vorerkrankungen (Stoffwechselerkrankungen, Rheuma), lokale Faktoren im Gelenk, angeborene oder erworbene Bein- oder Gelenkfehlstellungen, inadäquate Belastung. Wichtig: Hohes Alter allein ist keine eigenständige Ursache der Arthrose.",
+        "topic": "Ätiologie der Arthrose",
+        "category": "Orthopädie und Unfallchirurgie"
+      },
+      {
+        "id": "Q7",
+        "question": "Welche typischen radiologischen Zeichen zeigt eine Arthrose im Röntgenbild?",
+        "answer": "Typische radiologische Zeichen der Arthrose sind: Gelenkspaltverschmälerung, Osteophyten (knöcherne Anbauten), Sklerosierung (subchondrale Sklerose) und Geröllzysten.",
+        "topic": "Radiologische Diagnostik der Arthrose",
+        "category": "Orthopädie und Unfallchirurgie"
+      },
+      {
+        "id": "Q8",
+        "question": "Wie kann bei einer Beckenübersichtsaufnahme der Strahlenschutz durchgeführt werden?",
+        "answer": "Bei einer Beckenübersichtsaufnahme erfolgt der Strahlenschutz durch Gonadenabschirmung.",
+        "topic": "Strahlenschutz in der Radiologie",
+        "category": "Radiologie"
+      },
+      {
+        "id": "Q9",
+        "question": "Wie erkennt man im Röntgenbild, ob eine Prothese zementiert ist?",
+        "answer": "Eine zementierte Prothese erkennt man im Röntgenbild am sichtbaren Zementsaum zwischen Prothese und Knochen.",
+        "topic": "Radiologische Beurteilung von Endoprothesen",
+        "category": "Orthopädie und Unfallchirurgie"
+      },
+      {
+        "id": "Q10",
+        "question": "Was ist die Definition und Behandlung der Gonarthrose?",
+        "answer": "Gonarthrose ist die degenerative Erkrankung des Kniegelenks mit fortschreitendem Knorpelverlust. Im Röntgenbild zeigen sich typische Arthrosezeichen (Gelenkspaltverschmälerung, Osteophyten, Sklerosierung). Die Behandlung umfasst konservative Maßnahmen und bei fortgeschrittenen Stadien operative Therapien wie Kniegelenkprothesen (Hemiprothese, TEP).",
+        "topic": "Gonarthrose",
+        "category": "Orthopädie und Unfallchirurgie"
+      },
+      {
+        "id": "Q11",
+        "question": "Was sind die typischen klinischen und radiologischen Zeichen der Koxarthrose?",
+        "answer": "Typische radiologische Zeichen der Koxarthrose im Röntgenbild (Beckenübersicht a.p.) sind: Gelenkspaltverschmälerung, Osteophyten, subchondrale Sklerosierung und Geröllzysten. Klinisch zeigen sich Schmerzen, Bewegungseinschränkung und Gangstörungen.",
+        "topic": "Koxarthrose",
+        "category": "Orthopädie und Unfallchirurgie"
+      },
+      {
+        "id": "Q12",
+        "question": "Welche Therapiemöglichkeiten gibt es bei Koxarthrose?",
+        "answer": "Die Therapie umfasst konservative und operative Maßnahmen. Operative Optionen sind: TEP (Totalendoprothese) und bipolare Hemiprothese. Bei der TEP gibt es zementierte und nicht-zementierte Varianten.",
+        "topic": "Therapie der Koxarthrose",
+        "category": "Orthopädie und Unfallchirurgie"
+      },
+      {
+        "id": "Q13",
+        "question": "Was ist die Pathophysiologie der Arthrose?",
+        "answer": "Die Arthrose ist eine degenerative Gelenkerkrankung mit fortschreitendem Knorpelverlust. Es kommt zu einem Missverhältnis zwischen Belastung und Belastbarkeit des Gelenkknorpels, was zu Knorpelabrieb, reaktiven Knochenveränderungen (Osteophyten, Sklerosierung, Geröllzysten) und Gelenkspaltverschmälerung führt.",
+        "topic": "Pathophysiologie der Arthrose",
+        "category": "Orthopädie und Unfallchirurgie"
+      }
+    ],
+    "timestamp": "2025-10-15T23:18:39.254253"
+  },
+  {
+    "file": "Ab FRAGE 686_ Wie schätzen Sie Bewusstlosigkeit ein.md",
+    "total_questions": 0,
+    "chunks_processed": 45,
+    "questions": [],
+    "timestamp": "2025-10-15T23:18:40.703208"
+  },
+  {
+    "file": "M3-Kenntnispruefung-Vollstaendiges-Transkript (1).md",
+    "total_questions": 0,
+    "chunks_processed": 8,
+    "questions": [],
+    "timestamp": "2025-10-16T09:14:47.828088"
+  },
+  {
+    "file": "Strukturierte-Fragen-ab-686.md",
+    "total_questions": 0,
+    "chunks_processed": 7,
+    "questions": [],
+    "timestamp": "2025-10-16T09:14:57.156841"
+  },
+  {
+    "file": "M3-Kenntnisprufung-Komplett-Vollstandig.md",
+    "total_questions": 0,
+    "chunks_processed": 5,
+    "questions": [],
+    "timestamp": "2025-10-16T09:14:58.319326"
+  },
+  {
+    "file": "medizinische-korrekturen-ergaenzungen_2.md",
+    "total_questions": 0,
+    "chunks_processed": 3,
+    "questions": [],
+    "timestamp": "2025-10-16T09:15:00.726531"
+  },
+  {
+    "file": "M3-Pruefung-Korrekturen-Ergaenzungen.md",
+    "total_questions": 0,
+    "chunks_processed": 3,
+    "questions": [],
+    "timestamp": "2025-10-16T09:15:03.796043"
+  }
+]

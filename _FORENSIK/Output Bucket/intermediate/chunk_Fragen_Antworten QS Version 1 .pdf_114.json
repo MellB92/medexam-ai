@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 115/148) enthält **keine vollständigen klinischen Patientenfälle**.\n\nDer Text besteht ausschließlich aus:\n\n1. **Meta-Informationen** über die Überprüfung von Prüfungsfragen (Fragen 523-675)\n2. **Theoretische Wissensfragen** wie:\n   - Nosokomiale Infektionen\n   - ACE/SGLT2-Hemmer Wirkung\n   - Doppler-Verschlussdruckmessung\n   - Thromboseprophylaxe\n   - Dialyse-Indikationen\n   - TEP/Osteosynthese-Verfahren\n   - Sauerstoffsättigung-Zielwerte\n   - CT-Schichten und -Parameter\n   - Laborwert-Normwerte\n\n3. **Keine konkreten Patientenpräsentationen** mit:\n   - Anamnese\n   - Unfallhergang\n   - Klinischer Untersuchung\n   - Fallspezifischen Befunden\n\nBei Frage 675 wird zwar eine Divertikulitis erwähnt (\"Bezug zu vorheriger Frage 674\"), aber der eigentliche Fall ist in diesem Chunk nicht vollständig enthalten (abgeschnitten am Ende)."
+  }
+]

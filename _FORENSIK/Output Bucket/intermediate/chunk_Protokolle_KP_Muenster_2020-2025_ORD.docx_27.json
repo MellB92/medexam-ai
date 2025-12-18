@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Pyelonephritis mit rezidivierenden Harnwegsinfekten",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Schmerzen in der linken Flanke",
+      "Dysurie",
+      "Fieber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Belastungsasthma",
+      "Diabetes mellitus Typ I",
+      "Knie Verletzung vor 1 Woche (Verrenkung)"
+    ],
+    "medications": [
+      "Insulinpumpe (seit 6 Monaten)"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Herz/Lunge Perkussion durchgeführt",
+      "Auskultation durchgeführt",
+      "Pulsstatus geprüft",
+      "Reflexe getestet"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pyelonephritis"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Pyelonephritis mit Fieber und Flankenschmerz",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Seit gestern Abend zunehmende dumpfe mittelstarke Schmerzen (6/10) in linke Flanke mit Austrahlung in Unterbauch",
+      "Fieber 39.5°C",
+      "Nausea ohne Vomitus",
+      "Appetitlosigkeit",
+      "Pollakisurie",
+      "Dysurie",
+      "Algurie",
+      "Hämaturie seit 3 Tagen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus seit 19. Lebensjahr",
+      "Unterarmbruch vor paar Jahren (konservativ mit Gips behandelt)",
+      "Belastungsasthma neulich diagnostiziert",
+      "Rezidivierende Harnwegsinfekte (letzter vor paar Monaten)",
+      "Knieverdrehung vor paar Wochen mit Schmerzen und Schwellung rechtes Knie"
+    ],
+    "medications": [
+      "Insulinpumpe",
+      "Foster",
+      "Flohsamenschalen"
+    ],
+    "allergies": [
+      "Nickel (Exanthem)"
+    ],
+    "physical_examination": [
+      "Klopfschmerzhaftigkeit der linken Nierenloge",
+      "Knie Untersuchung: schmerzbedingte Funktioneinschränkung, ansonsten unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "U-Streifen positiv",
+      "Erythrozyten Zylinder im Urin"
+    ],
+    "suspected_diagnosis": [
+      "Pyelonephritis"
+    ],
+    "diagnostic_approach": [
+      "Urinuntersuchung mit Streifentest",
+      "Urinsediment",
+      "Entscheidung stationäre vs. ambulante Behandlung"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Herzinsuffizienz nach Grippeinfekt mit Verdacht auf Myokarditis\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Leistungsminderung\", \"Dyspnoe\", \"Unterschenkelödeme beidseits\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"Grippeinfekt\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Herzinsuffizienz im Rahmen einer Myokarditis\", \"Perikarditis\", \"Endokarditis\", \"Myxödem\", \"Nierenversagen\"],\n    \"diagnostic_approach\": [\n      \"Auskultation des Herzens\",\n      \"Untersuchung der Lunge\",\n      \"Periphere Pulse\",\n      \"Blutdruckmessung\",\n      \"Überprüfung auf Ödeme\",\n      \"Halsvenenstauung\",\n      \"Lebergröße und -konsistenz\",\n      \"Körpertemperatur\",\n      \"Laboruntersuchungen: CK, CK-MB, Troponin, BSG, CRP, Entzündungsparameter, Autoantikörper (ANA, ANCA), Blutkultur\",\n      \"EKG\",\n      \"Echokardiographie\",\n      \"Kardio-MRT\",\n      \"Myokardbiopsie mit Virus-PCR\"\n    ]\n  }\n]\n```"
+  }
+]

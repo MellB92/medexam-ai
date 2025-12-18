@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Rückenschmerzen mit Nebennierenbefund bei 50-jähriger Kassiererin",
+    "patient_age": "50-jährig",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "seit einer Woche verstärkte Schmerzen im Lendenbereich",
+      "ohne Irradiation",
+      "Intensität 7/10",
+      "Rückenschmerzen seit fast 20 Jahren, aber nicht so ausgeprägt"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Bandscheibenvorfall seit 20 Jahren",
+      "Osteoporose",
+      "Mononukleose mit 22 Jahren",
+      "Vor 8 Wochen umgeknickt mit rechtem Fuß"
+    ],
+    "comorbidities": [
+      "Darmpolyp (unter Kontrolle)"
+    ],
+    "risk_factors": [
+      "körperlich belastende Arbeit als Kassiererin im Schuhgeschäft"
+    ],
+    "family_history": [
+      "Bruder: COPD",
+      "Vater: Herzprobleme",
+      "Mutter: Kolonkarzinom (Darmteilresektion)"
+    ],
+    "social_history": [
+      "Kassiererin im Schuhgeschäft (körperlich belastet)",
+      "verheiratet",
+      "2 Kinder (gesund)"
+    ],
+    "medications": [
+      "Ibuprofen 400 mg bei Bedarf",
+      "Diclofenac 15 mg bei Bedarf",
+      "Vitamin D 1 Kapsel 1x pro Woche"
+    ],
+    "allergies": [
+      "Wespenstich - Angioödem"
+    ],
+    "vital_signs": [
+      "RR 165 mmHg (beim Hausarzt)"
+    ],
+    "physical_examination": [
+      "Vegetative Anamnese unauffällig",
+      "Körperliche Untersuchung war gut"
+    ],
+    "imaging_findings": [
+      "Sonographie: Befund rechts unter den Rippen",
+      "Sonographie: Raumforderung in Nebenniere"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Osteoporose",
+      "Nebennierenraumforderung (Adenom/Inzidentalom)"
+    ],
+    "diagnostic_approach": [
+      "Sonographie",
+      "Weitere Abklärung der Nebennierenraumforderung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Schiene tragen für umgeknickten Fuß",
+      "Darmpolyp unter Kontrolle"
+    ]
+  },
+  {
+    "title": "Arbeitsunfall mit Platzwunde Hand und Knieverletzung",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Platzwunde Hand rechts mit Verband",
+      "Knieverletzung rechts",
+      "viele Schmerzen"
+    ],
+    "accident_mechanism": "Arbeitsunfall",
+    "pre_existing_conditions": [
+      "Asthma als Kind",
+      "Verdacht auf Belastungsasthma vor 2 Wochen",
+      "Hypercholesterinämie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater: PAVK",
+      "Vater: Hypercholesterinämie"
+    ],
+    "social_history": [
+      "Arbeitsunfall"
+    ],
+    "medications": [
+      "Novalgin 1g (während Anamnese gegeben)",
+      "Dipidolor 7,5 mg (10 Minuten später gegeben)"
+    ],
+    "allergies": [
+      "Heuschnupfen (mit Konjunktivitis und Sinusitis)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "2 Unterarmgehstützen bei Vorstellung",
+      "Komplette körperliche Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Schwangerschaftstest angeordnet"
+    ],
+    "suspected_diagnosis": [
+      "Verdacht auf Kreuzbandruptur"
+    ],
+    "diagnostic_approach": [
+      "Schwangerschaftstest",
+      "komplette körperliche Untersuchung"
+    ],
+    "treatment_response": [
+      "Viggo gelegt",
+      "Schmerztherapie mit Novalgin und Dipidolor"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 3/84) enthält ausschließlich eine **Abkürzungsliste** (Glossar) aus einem medizinischen Lehrbuch (\"Lernkarten zum mündlichen Stex\"). \n\nEs handelt sich um eine alphabetische Auflistung medizinischer Abkürzungen und ihrer Bedeutungen (z.B. \"5-FU 5-Fluoruracil\", \"GCS Glasgow Coma Scale\", \"HbA1c glykiertes Hämoglobin A\", etc.).\n\n**Es sind keine klinischen Patientenfälle, Fallpräsentationen oder Kasuistiken vorhanden.**\n\nEin klinischer Fall würde typischerweise beinhalten:\n- Patientenvorstellung (Alter, Geschlecht)\n- Anamnese/Beschwerden\n- Untersuchungsbefunde\n- Diagnostik\n- Diagnose/Therapie\n\nKeines dieser Elemente ist in diesem Abschnitt vorhanden."
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Therapierefraktäre Hypertonie mit Hypokaliämie bei 29-Jährigem",
+    "patient_age": "29-jähriger",
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Therapierefraktäre Hypertonie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT-Abdomen: Raumforderung in Höhe der rechten Niere im Bereich der Leber und Nieren"
+    ],
+    "laboratory_findings": [
+      "Hypokaliämie"
+    ],
+    "suspected_diagnosis": [
+      "Conn-Syndrom (Primärer Hyperaldosteronismus)",
+      "Nebennierentumor"
+    ],
+    "diagnostic_approach": [
+      "CT-Abdomen zur Charakterisierung der Raumforderung (hypo- vs. hyperdense)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Hüftgelenkfraktur bei 80-jährigem Patienten",
+    "patient_age": "80-jähriger",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Hüftgelenk"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hüftgelenkfraktur",
+      "Direkte und indirekte Frakturzeichen"
+    ],
+    "diagnostic_approach": [
+      "Bei 50% der Fälle CT zur Diagnose erforderlich"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

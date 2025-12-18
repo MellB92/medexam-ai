@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Distale Radiusfraktur (Colles-Fraktur) und Scaphoidfraktur nach Sturz auf Hand",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Sturz auf Hand"
+    ],
+    "accident_mechanism": "Sturz auf Hand",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Inspektion: Deformität",
+      "Palpation: DMS"
+    ],
+    "imaging_findings": [
+      "Röntgen Handgelenk: Distale Radiusfraktur (Colles-Fraktur) mit Gelenkbeteiligung",
+      "Scaphoidfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Distale Radiusfraktur (Colles-Fraktur) mit Gelenkbeteiligung",
+      "Scaphoidfraktur"
+    ],
+    "diagnostic_approach": [
+      "Inspektion auf Deformität",
+      "Palpation mit DMS-Prüfung",
+      "Röntgen Handgelenk"
+    ]
+  },
+  {
+    "title": "Kompartmentsyndrom nach Gipsanlage bei distaler Radiusfraktur",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Starke Schmerzen 2 Stunden nach Gipsverband"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Distale Radiusfraktur",
+      "Scaphoidfraktur",
+      "Osteosynthese mit winkelstabiler Platte",
+      "Gipsschiene"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "DMS-Prüfung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kompartmentsyndrom"
+    ],
+    "diagnostic_approach": [
+      "Sofortige Gipsentfernung",
+      "DMS-Prüfung",
+      "Hochlagerung und Kühlung"
+    ]
+  },
+  {
+    "title": "Bauchaortenaneurysma 5 cm als Zufallsbefund",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Ultraschall: Vergrößerung der Bauchaorta auf 5 cm"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bauchaortenaneurysma 5 cm"
+    ],
+    "diagnostic_approach": [
+      "Ultraschall Abdomen (Zufallsbefund)"
+    ]
+  },
+  {
+    "title": "Fazialisparese (peripher)",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Gesichtslähmung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Faziale Parese"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Periphere Fazialisparese",
+      "Virale Entzündung des N. facialis"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Gonarthrose",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Kniegelenk a.p. und seitlich",
+      "Normaler Gelenkspalt",
+      "Reduzierte Knochendichte",
+      "Osteophytenbildung",
+      "Subchondrale Sklerosierung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Gonarthrose"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Kniegelenk in 2 Ebenen (a.p. und seitlich)"
+    ]
+  }
+]

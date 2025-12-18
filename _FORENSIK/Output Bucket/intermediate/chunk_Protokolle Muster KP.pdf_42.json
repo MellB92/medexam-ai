@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Instabile Angina pectoris bei 70-jährigem Raucher mit Diabetes",
+    "patient_age": "70-jährig",
+    "patient_gender": "Mann",
+    "chief_complaints": [
+      "Belastungsabhängige Angina pectoris seit zwei Wochen",
+      "Ausstrahlung in den linken Arm und die Schulter",
+      "Schmerzen bessern sich in Ruhe",
+      "Übelkeit während der Schmerzen (ohne Erbrechen)",
+      "Ängstlichkeit und Unruhe während der Schmerzen",
+      "Schmerzen bei Anstrengung am Vorstellungstag"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Diabetes mellitus (mit Tabletten eingestellt)",
+      "Bandscheibenvorfall",
+      "Lumbale Wirbelsäulenversteifung (möglicherweise Morbus Bechterew)",
+      "Z.n. Cholezystektomie"
+    ],
+    "medications": [
+      "Metformin",
+      "Lisinopril"
+    ],
+    "allergies": [
+      "Raucher ca. 50 Pack/year"
+    ],
+    "physical_examination": [
+      "Gezielte Herzuntersuchung mit gleichzeitiger Pulskontrolle durchgeführt",
+      "Auskultation der Halsschlagadern",
+      "Lungenuntersuchung",
+      "Atemverschieblichkeit beim Sitzen",
+      "Abdomenuntersuchung",
+      "Keine pathologischen Befunde",
+      "Blutdruckschwankungen in letzter Zeit"
+    ],
+    "imaging_findings": [
+      "EKG beim Hausarzt unauffällig"
+    ],
+    "laboratory_findings": [
+      "Troponinwert beim Hausarzt negativ"
+    ],
+    "suspected_diagnosis": [
+      "Instabile Angina pectoris",
+      "KHK (Koronare Herzkrankheit)"
+    ],
+    "diagnostic_approach": [
+      "Stationäre Aufnahme",
+      "EKG",
+      "Laboruntersuchung",
+      "CK- und Troponinspiegel",
+      "Echokardiographie",
+      "ASS 250 mg i.v.",
+      "Heparinperfusor (25000 I.E. bei 2 ml/Std. und Gerinnungskontrolle nach 6 Stunden)",
+      "Morphin, Nitrate, Antiemetika, O2 falls erforderlich",
+      "Infusion legen"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Asthma bronchiale mit Belastungsdyspnoe\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\n      \"Seit 3 Monaten Belastungsdyspnoe\",\n      \"Training Abbruch im Fitness Studio\",\n      \"Husten mit klarem Auswurf\",\n      \"Ab und zu saures Aufstoßen\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Pollenallergie\",\n      \"Laktoseintoleranz\",\n      \"Schulterluxation nach Sturz (Vorerkrankung)\",\n      \"Paronychie (Vorerkrankung)\"\n    ],\n    \"medications\": [\n      \"Antihistaminika (Cetirizin bei Bedarf)\"\n    ],\n    \"allergies\": [\n      \"Pollenallergie\"\n    ],\n    \"physical_examination\": [\n      \"KU ohne Besonderheiten\",\n      \"Schulterschmerzen (untersucht)\"\n    ],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Asthma bronchiale\",\n      \"Anämie (als DDx erwähnt)\",\n      \"Refluxösophagitis\"\n    ],\n    \"diagnostic_approach\": [\n      \"Lungenfunktionstest (Spirometrie)\",\n      \"Metacholintest\",\n      \"Belastungslufu bei Sportlern\"\n    ]\n  }\n]\n```"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 152/155) enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischem Wissen zur Sonographie** (Ultraschalldiagnostik, Frequenzen, Artefakte, Endosonographie)\n\n2. **ASA-Klassifikation** (Systematik zur Risikoeinschätzung von Patienten)\n\n3. **Perioperatives Management von Medikamenten:**\n   - DOAK (Direkte orale Antikoagulantien)\n   - Cumarine (Vitamin-K-Antagonisten)\n   - Heparine\n   - Thrombozytenaggregationshemmer\n   - Metformin\n\n4. **Pharmakologische Informationen zu Glucocorticoiden** (Dosierungen, Wirkungen, Nebenwirkungen)\n\n5. **Administrative Informationen:**\n   - Arzneimittelrezepte (Kassenrezept, Privatrezept, BtM-Rezept)\n   - ZVK-Anlage (Indikationen, Komplikationen, Technik)\n\nEs handelt sich um **rein didaktisches Material** ohne konkrete Patientenbeispiele, Fallvorstellungen oder klinische Szenarien."
+  }
+]

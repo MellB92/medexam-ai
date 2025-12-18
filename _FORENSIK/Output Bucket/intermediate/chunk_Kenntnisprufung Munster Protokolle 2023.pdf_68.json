@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Akute Cholezystitis",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Akute Cholezystitis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Kahnbeinfraktur vor 3 Jahren operiert"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen mit Kahnbeinfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akute Cholezystitis",
+      "Akute Cholangitis",
+      "Biliäre Pankreatitis"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Multiples Myelom - Herr Weber Georg",
+    "patient_age": "Rentner",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Müdigkeit seit 6 Monaten",
+      "Kreuzschmerzen",
+      "Knochenschmerzen überall",
+      "Gewichtsverlust",
+      "Schwitzen",
+      "Schlafstörung",
+      "Häufige Erkältungen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Autounfall vor vielen Jahren mit Operation",
+      "Spiegelung im Ellenbogen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Kardiopulmonal unauffällig",
+      "Abdomen unauffällig",
+      "BD erhöht (zufällig)"
+    ],
+    "laboratory_findings": [
+      "Auffälliger Urinbefund beim Hausarzt"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom"
+    ],
+    "diagnostic_approach": [
+      "Stationäre Aufnahme",
+      "Laboruntersuchungen",
+      "Bildgebung"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. Es handelt sich ausschließlich um:\n\n1. **Theoretisches Wissen zu Strahlenschutz:**\n   - Grenzwerte für beruflich strahlenexponierte Personen (20 mSv/Jahr)\n   - Dokumentationspflicht nach § 85 StrlSchV\n   - Klinische Relevanz verschiedener Strahlungsarten\n\n2. **Frage 303 - Theoretische Fachfrage:**\n   - Frage zur Halbwertszeit von Betastrahlung\n   - Physikalische und biologische Halbwertszeiten verschiedener Isotope\n   - Formeln und Berechnungen zur effektiven Halbwertszeit\n   - Beispiele: Jod-131, Phosphor-32, Strontium-90, Tritium, C-14\n\nEs gibt **keine Patientenpräsentation** mit:\n- Anamnese\n- Beschwerden\n- Klinischer Untersuchung\n- Diagnostik\n- Verdachtsdiagnose\n\nDer Text ist rein didaktisch/akademisch und behandelt physikalische und strahlenschutzrechtliche Grundlagen."
+  }
+]

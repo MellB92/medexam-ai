@@ -1,0 +1,8 @@
+{
+  "file_name": ".DS_Store",
+  "timestamp": "2025-11-23T15:29:25.694188",
+  "extraction": "# HAUPTTHEMA\n.DS_Store-Datei und ihre Inhalte\n\n# KATEGORIE\nInformatik / IT-Sicherheit\n\n# KERNAUSSAGEN\n- Die .DS_Store-Datei ist eine versteckte Datei, die von macOS (Finder) in jedem Ordner angelegt wird, um Anzeige- und Layout-Einstellungen zu speichern.\n- Sie enthält Metadaten wie Icon-Positionen, Fenstergröße, Sortier- und Ansichtsoptionen sowie Kommentare zu Dateien.\n- Die Datei kann auch sensible Informationen wie vollständige Pfade zu Dateien enthalten, insbesondere im Papierkorb (.Trash), was forensisch relevant ist.\n- Die Datei ist im Finder standardmäßig nicht sichtbar, kann aber auf anderen Betriebssystemen (z. B. Windows) angezeigt werden und verursacht dort gelegentlich Verwirrung.\n- Die .DS_Store-Datei kann Sicherheitsrisiken bergen, wenn sie unbeabsichtigt auf Webserver oder in Versionskontrollsysteme (z. B. Git) gelangt.\n\n# PRÜFUNGSRELEVANZ\n- Wichtig für Kenntnisse im Bereich IT-Sicherheit, Datenschutz und Forensik.\n- Relevant für Fragen zu Dateisystemen, Metadaten und Risiken durch versteckte Systemdateien.\n\n# SCHLÜSSELKONZEPTE\n- .DS_Store\n- Metadaten\n- macOS Finder\n- Forensik\n- Sicherheitsrisiko\n- Git-Konflikte\n- Dateipfad-Informationen\n- Desktop Services Store\n- APFS-Metadaten (zukünftige Entwicklung)",
+  "validation": null,
+  "approved": true,
+  "cost": 0.025419999999999998
+}

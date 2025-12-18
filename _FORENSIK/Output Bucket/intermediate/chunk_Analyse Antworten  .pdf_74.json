@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Sturz auf linke Schulter aus 2m Höhe\",\n    \"patient_age\": \"38 Jahre\",\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Sturz auf linke Schulter\"],\n    \"accident_mechanism\": \"Sturz aus 2m Höhe auf linke Schulter\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Druckschmerzen im Bereich der Schulter\", \"eingeschränkte Beweglichkeit\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Schulterluxation\", \"Humerusfraktur\", \"Skapulafraktur\", \"AC-Gelenksprengung\", \"Clavikulafraktur\", \"Rotatorenmanschettenruptur\"],\n    \"diagnostic_approach\": [\"Röntgenaufnahme der Schulter in 2 Ebenen\", \"ggf. CT\"]\n  }\n]\n```"
+  }
+]

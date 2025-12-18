@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 42/155) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischem Wissen über Asthma bronchiale** - Formen, Therapie, Notfallmanagement\n2. **Differentialdiagnosen der Mediastinalverbreiterung** - Listen ohne Patientenbezug\n3. **Sarkoidose (Morbus Boeck)** - Allgemeine Krankheitsbeschreibung, Löfgren-Syndrom, Diagnostik, Therapie\n4. **Aspergillose** - Pathophysiologie und Therapieoptionen\n5. **Magenkarzinom** - Systematische Übersicht mit:\n   - Epidemiologie\n   - Ätiologie/Risikofaktoren\n   - TNM-Klassifikation\n   - Symptome/Klinik (allgemein beschrieben)\n   - Metastasierung\n   - Diagnostik\n\nAlle Informationen sind **lehrbuchartig und generisch** dargestellt, ohne konkrete Patientenfälle mit individuellen Angaben zu Alter, Geschlecht, spezifischen Beschwerden oder Untersuchungsbefunden."
+  }
+]

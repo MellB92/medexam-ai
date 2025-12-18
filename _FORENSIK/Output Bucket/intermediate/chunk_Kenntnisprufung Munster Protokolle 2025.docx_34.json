@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Sepsis bei 66-jähriger Patientin mit akutem Fieber und Tachykardie",
+    "patient_age": "66-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Kopfschmerzen seit gestern",
+      "Fieber",
+      "Schüttelfrost",
+      "Herzrasen",
+      "Müdigkeit",
+      "Polyurie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "Diabetes mellitus (ED vor 3 Jahren)",
+      "Herzrhythmusstörung (vor 1 Jahr durch Katheteruntersuchung behandelt)",
+      "Z.n. Femurfraktur rechts (operativ versorgt)",
+      "HWK-Fraktur"
+    ],
+    "medications": [
+      "kein Medikament für Herzrhythmusstörung"
+    ],
+    "allergies": [
+      "Penicillin",
+      "Pollen"
+    ],
+    "physical_examination": [
+      "KU unauffällig",
+      "BD nur am linken Arm gemessen"
+    ],
+    "imaging_findings": [
+      "CT-HWS: Densfraktur Typ III"
+    ],
+    "laboratory_findings": [
+      "BGA: schwere metabolische Azidose",
+      "Laktat erhöht",
+      "pH-Wert 6,9",
+      "EKG: Vorhofflimmern mit Tachykardie"
+    ],
+    "suspected_diagnosis": [
+      "Sepsis",
+      "Myokarditis",
+      "Pneumonie",
+      "Harnwegsinfekt",
+      "Endokarditis",
+      "Perikarditis",
+      "Hyperthyreose"
+    ],
+    "diagnostic_approach": [
+      "SOFA Score",
+      "qSOFA",
+      "Anamnese und körperliche Untersuchung zur Fokussuche",
+      "Blutkulturen (2-3 anaerobe und 2-3 aerobe Flaschen, je 10 ml)",
+      "BGA",
+      "EKG",
+      "CT-HWS"
+    ]
+  }
+]

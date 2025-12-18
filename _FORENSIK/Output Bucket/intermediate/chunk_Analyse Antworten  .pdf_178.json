@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle** im Sinne von Fallpräsentationen. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** mit Musterlösungen zu verschiedenen medizinischen Themen:\n   - Dialyseverfahren\n   - Akute Pyelonephritis (Risikofaktoren, Erreger, Diagnostik)\n   - Harnwegsinfektionen (Antibiotikatherapie)\n   - Morbus Basedow\n   - Exophthalmus-Therapie\n   - Herzfehler (ASD, VSD, PFO)\n   - Knie-Distorsion und Anatomie\n   - Unfallmechanismen bei Knieverletzungen\n   - Distale Radiusfraktur (Klassifikation)\n   - Hiatushernie\n   - Diaphragma-Anatomie\n\n2. **\"Antwort_kandidat\"** Einträgen, die meist \"Nicht im Protokoll enthalten\" angeben\n\n3. **Musterlösungen/Leitlinien** mit standardisierten Antworten\n\n4. **Fehleranalysen** für Prüfungskandidaten\n\nEs handelt sich um ein **Prüfungsprotokoll-Analysetool** ohne konkrete Patientenfälle mit individuellen Anamnesen, Untersuchungsbefunden oder Fallverläufen."
+  }
+]

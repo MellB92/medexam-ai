@@ -1,0 +1,101 @@
+[
+  {
+    "title": "LWS-Beschwerden mit Hypertonie und unklarer Raumforderung",
+    "patient_age": "65",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "LWS-Beschwerden",
+      "erhöhter Blutdruck"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Blutdruck einmalig 165 mmHg",
+      "neurologische Untersuchung durchgeführt",
+      "Hals- und Schilddrüsenuntersuchung",
+      "Lymphknotenstatus",
+      "Perkussion der Lungen",
+      "Herzauskultation: S1, S2",
+      "Bauchuntersuchung",
+      "Nierenuntersuchung",
+      "Patella-Reflex"
+    ],
+    "imaging_findings": [
+      "Sonografie: unklare Raumforderung beim Hausarzt",
+      "Sono-Bild: Raumforderung zwischen rechter Niere und Leber",
+      "Inzidentalom (zufällige Entdeckung)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Nebennierentumor",
+      "Cushing-Syndrom",
+      "Conn-Syndrom",
+      "Phäochromozytom"
+    ],
+    "diagnostic_approach": [
+      "Blutdruckmessung beidseitig",
+      "körperliche Untersuchung",
+      "Sonografie Abdomen",
+      "neurologische Untersuchung LWS",
+      "weitere Abklärung Nebennierentumor"
+    ]
+  },
+  {
+    "title": "Vorhofflimmern mit Bradykardie und Linksschenkelblock",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypertonie",
+      "KHK (Koronare Herzkrankheit)"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: Vorhofflimmern mit Bradykardie",
+      "Linksschenkelblock",
+      "diskordante ST-T-Veränderungen in V2-V5"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vorhofflimmern"
+    ],
+    "diagnostic_approach": [
+      "Vitalzeichen überprüfen",
+      "CHA2DS2-VASc-Score berechnen"
+    ]
+  },
+  {
+    "title": "Akute Dyspnoe bei 6-jährigem Mädchen",
+    "patient_age": "6",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Dyspnoe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Fremdkörperaspiration (Spielzeug)",
+      "Croup",
+      "Asthma",
+      "Pneumonie",
+      "Epiglottitis",
+      "Mandelentzündung"
+    ],
+    "diagnostic_approach": [
+      "um Hilfe bitten",
+      "Patientin sofort in Schockraum",
+      "überprüfen ob etwas verschluckt",
+      "Therapie bei Croup: Cortison p.o. oder rektal (Zäpfchen)"
+    ]
+  }
+]

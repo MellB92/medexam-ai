@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Polytrauma - Rippenserienfraktur und distale Unterarmfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Rippenserienfraktur",
+      "distale Unterarmfraktur"
+    ],
+    "accident_mechanism": "Polytrauma",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rippenserienfraktur",
+      "distale Unterarmfraktur"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Humerusfraktur nach Sturz von Leiter (Polytrauma)",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Schulterschmerzen links",
+      "Sturz von Leiter"
+    ],
+    "accident_mechanism": "Sturz aus 2 Meter Höhe von Leiter, direkter Aufprall auf linke Schulter, Gleichgewichtsverlust",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Patient kam zu Fuß an",
+      "Vitalzeichen erhoben",
+      "pDMS durchgeführt",
+      "Aktive und passive Bewegungen der Schulter und des Arms aufgrund Schmerzen nicht möglich",
+      "Blutdruckmessung am betroffenen Arm nicht durchführbar",
+      "Inspektion und Palpation",
+      "Überprüfung der Pulse",
+      "Beweglichkeit von Fingern und Unterarm geprüft",
+      "Neurologische Untersuchung durchgeführt",
+      "Knie- und Hüftuntersuchung durchgeführt",
+      "Abdomen untersucht, besonders Milz auf Verletzung"
+    ],
+    "imaging_findings": [
+      "Röntgenbild zeigte Humerusfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Humerusfraktur",
+      "Mögliche Beteiligung von Tuberculum majus",
+      "Mögliche N. axillaris Läsion",
+      "Mögliche N. radialis Läsion"
+    ],
+    "diagnostic_approach": [
+      "SAMPLE-Schema durchgeführt",
+      "Vollständige Anamnese",
+      "Fragen zu Amnesie, Synkope und anderen Verletzungen (verneint)",
+      "Röntgendiagnostik",
+      "Überprüfung auf Nervenverletzungen (N. axillaris, N. radialis)",
+      "Intraoperative Überprüfung auf Nervenschädigung"
+    ]
+  }
+]

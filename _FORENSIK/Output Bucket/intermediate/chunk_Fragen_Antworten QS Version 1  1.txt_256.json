@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**, sondern ausschließlich **theoretisches Referenzwissen** über Alkoholintoxikation:\n\n1. **Schweregrad-Klassifikation** nach Blutalkoholkonzentration (BAK):\n   - Leichte, mittelschwere, schwere, lebensbedrohliche Intoxikation\n\n2. **Berechnungsformeln**:\n   - Widmark-Formel zur BAK-Berechnung\n   - Umrechnungen in ml reinen Alkohol\n\n3. **Rechtliche Grenzwerte**:\n   - StVG und StGB Paragraphen zu Fahruntüchtigkeit\n\n4. **ICD-10 Kodierung**:\n   - F10.0 bis F10.9 Klassifikation\n\nEs handelt sich um **Referenzmaterial/Theorie**, nicht um konkrete Patientenpräsentationen mit Anamnese, Befunden oder diagnostischem Vorgehen."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 122/284) enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer Abschnitt besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** (Fragen 196-200):\n   - Frage 196: Niedervoltage im EKG (Theoriewissen)\n   - Frage 197: Chirurgische OP-Möglichkeiten bei Adipositas (Leitlinien/Verfahren)\n   - Frage 198: Nitratgabe - Indikationen und Kontraindikationen (Pharmakologie)\n   - Frage 199: Metformin-Gabe Abklärung (Pharmakologie)\n   - Frage 200: Off-Label-Use Definition (angefangen, aber unvollständig)\n\n2. **EKG-Veränderungen** (Anfang des Chunks):\n   - Beschreibung von EKG-Befunden und Differentialdiagnosen (theoretisch)\n\nEs werden zwar Erkrankungen, diagnostische Kriterien und therapeutische Verfahren beschrieben, aber **kein konkreter Patient mit spezifischer Anamnese, Befunden und Verlauf** präsentiert."
+  }
+]

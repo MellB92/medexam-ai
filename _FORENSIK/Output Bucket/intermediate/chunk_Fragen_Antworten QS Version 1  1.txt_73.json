@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 74/284) enthält **keine klinischen Patientenfälle**. \n\nDer Text beschreibt ausschließlich:\n- **Systematische diagnostische Algorithmen** für HWS-Traumata (Canadian C-Spine Rules)\n- **Klassifikationssysteme** (AO-Spine 2013, Anderson/D'Alonzo)\n- **Allgemeine diagnostische Verfahren** (CT, MRT, Röntgen)\n- **Neurologische Untersuchungsschemata** (ASIA-Score, Kennmuskeln, Dermatome)\n- **Rechtliche Rahmenbedingungen** (§630f BGB, §34 StGB, §34 SGB VII)\n- **Spezielle Frakturtypen** (Jefferson, Dens, Hangman's, Teardrop) als theoretisches Wissen\n\nEs handelt sich um **Lehrbuchinhalte** bzw. **Guideline-Informationen** zur Diagnostik von HWS-Verletzungen, aber nicht um konkrete Patientenpräsentationen mit individuellen Merkmalen wie Alter, Geschlecht, spezifischem Unfallhergang oder Untersuchungsbefunden eines realen Falls."
+  }
+]

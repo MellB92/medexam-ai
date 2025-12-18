@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 122/155) enthält **keine vollständigen klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Allgemeinen therapeutischen Richtlinien** (Schmerztherapie, Thromboseprophylaxe, Behandlung offener Frakturen)\n2. **Komplikationslisten** (Blutung, Weichteilverletzungen, Pseudarthrose, etc.)\n3. **Osteosynthese-Verfahren** (Auflistung verschiedener Techniken)\n4. **Sonderformen von Frakturen** (Stressfraktur, Grünholzfraktur, etc.)\n5. **Theoretischem Wissen** über Frakturheilung, Epiphysenfugenverletzungen\n6. **SAMPLE-Schema** (Anamnese-Schema)\n7. **Lehrbuchartiger Darstellung** der distalen Radiusfraktur (Ätiologie, Klassifikation, Diagnostik, Therapie)\n\nEs handelt sich durchgehend um **Lehrbuchinhalte und theoretisches Wissen**, nicht um konkrete Patientenfälle mit individuellen Patienten, spezifischen Beschwerden oder konkreten Untersuchungsbefunden."
+  }
+]

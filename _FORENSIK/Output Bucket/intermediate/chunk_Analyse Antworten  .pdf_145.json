@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Hypothyreose mit möglicher Herzinsuffizienz (Herr Wagner)",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hypothyreose",
+      "Herzinsuffizienz",
+      "Anämie",
+      "Depression",
+      "Schlafapnoe-Syndrom"
+    ],
+    "diagnostic_approach": [
+      "Laboruntersuchungen: TSH, fT3, fT4, Antikörper (TPO-Ak, TRAK, Tg-Ak)",
+      "Blutbild",
+      "Eisenstatus",
+      "CRP, BSG",
+      "Sonographie Schilddrüse",
+      "EKG",
+      "je nach Befund weitere Diagnostik (z.B. Schlaflabor bei Verdacht auf Schlafapnoe-Syndrom)"
+    ]
+  }
+]

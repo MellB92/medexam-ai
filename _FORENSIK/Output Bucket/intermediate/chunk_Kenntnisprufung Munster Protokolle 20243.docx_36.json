@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Müde Patientin mit Verdacht auf Hypothyreose",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Müdigkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hypothyreose",
+      "Obstruktive Schlafapnoe",
+      "Anämie",
+      "Depression"
+    ],
+    "diagnostic_approach": [
+      "SD-Sonografie",
+      "Labor für Anämie (Hb, MCV, MCH, MCHC, Retikulozyten)",
+      "Eisenstatus (Ferritin, Eisen, Transferrinsättigung, TfR)",
+      "FOB-Test (3x Hämocult oder 1x iFOBT)",
+      "ÖGD",
+      "Koloskopie bei positivem FOB",
+      "Gynäkologische Anamnese bezüglich Menorrhagien"
+    ]
+  },
+  {
+    "title": "Choledocholithiasis im Sono-Bild",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sono-Bild vom Oberbauch im Bereich Leberhilus",
+      "Choledocholithiasis mit Schallschatten",
+      "Erweiterung von DHC"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Choledocholithiasis"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Anteriore Schultergelenkluxation mit Abrissfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild Schultergelenk",
+      "Anteriore Schultergelenkluxation",
+      "Abrissfraktur des Tuberculum majus",
+      "Processus coracoideus dargestellt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Anteriore Schultergelenkluxation",
+      "Abrissfraktur Tuberculum majus"
+    ],
+    "diagnostic_approach": [
+      "Reposition der Schulterluxation",
+      "Operative Versorgung mit Schrauben bzw. K-Drähten für Tuberculum majus",
+      "Repositionsvarianten (Stimson, Milch)"
+    ]
+  }
+]

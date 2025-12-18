@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** zu verschiedenen medizinischen Themen:\n   - Strahlenschutz (Überwachungs- und Sperrbereich)\n   - Arbeitsunfall, Berufskrankheit, Wegeunfall (Definitionen)\n   - Vitamin B12-Mangel (Ursachen und Behandlung)\n   - Perikarditis (Ursachen, Symptome, EKG-Veränderungen)\n   - Karpaltunnelsyndrom (Symptome, Risikofaktoren, Diagnostik, Therapie)\n   - Distale Radiusfraktur (Komplikationen)\n\n2. **Prüfungsprotokoll-Format** mit:\n   - Fragen (\"frage\")\n   - Kandidatenantworten (\"antwort_kandidat\")\n   - Musterlösungen (\"musterloesung_leitlinie\")\n   - Fehleranalysen (\"analyse_fehler_tipps\")\n\nEs handelt sich um ein **Ausbildungs-/Prüfungsdokument** ohne narrative Patientenfälle mit konkreten Anamnesen, Befunden oder klinischen Verläufen."
+  }
+]

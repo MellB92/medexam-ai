@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Sturz von Leiter mit Aufprall auf linke Schulter\",\n    \"patient_age\": null,\n    \"patient_gender\": \"m\",\n    \"chief_complaints\": [\"Sturz aus 2 Meter Höhe\", \"Aufprall auf linke Schulter\"],\n    \"accident_mechanism\": \"Sturz von einer Leiter aus ungefährer Höhe von 2 Metern, Verlust des Gleichgewichts, direkter Aufprall auf die linke Schulter\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Patient kam zu Fuß an\", \"Vitalzeichen erhoben\", \"Frage nach Atembeschwerden\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Polytrauma-Patient (bei Sturz aus 2m Höhe)\"],\n    \"diagnostic_approach\": [\"Vitalzeichenerhebung\", \"Erhebung der Atembeschwerden\", \"Lagerung auf Trage\"]\n  }\n]\n```"
+  }
+]

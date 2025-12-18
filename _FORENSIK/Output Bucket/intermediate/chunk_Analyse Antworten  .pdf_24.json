@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Linksseitiger Pneumothorax mit Teilkollaps",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Linksseitiger Pneumothorax mit Teilkollaps der linken Lunge",
+      "Kollabierte Lunge links"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pneumothorax links",
+      "Gefahr eines Spannungspneumothorax durch Ventilmechanismus"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Thorax"
+    ]
+  },
+  {
+    "title": "Rechtsseitige intertrochantäre Femurhalsfraktur bei älterem Patienten",
+    "patient_age": "alt",
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Zeichen von Osteoporose",
+      "Rheumatoide Arthritis"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rechtsseitige intertrochantäre Femurhalsfraktur",
+      "Frakturlinie verläuft zwischen Trochanter major und Trochanter minor",
+      "Hinweise auf Osteoporose",
+      "Degenerative Veränderungen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Intertrochantäre Femurhalsfraktur rechts"
+    ],
+    "diagnostic_approach": [
+      "Röntgen"
+    ]
+  },
+  {
+    "title": "Darmperforation bei paralytischem Ileus durch biliäre Pankreatitis",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Darmperforation mit freier Luft im Abdomen",
+      "Auffälliges Pankreas",
+      "Auffällige Gallenblase",
+      "Darmwandverdickung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Darmperforation",
+      "Paralytischer Ileus",
+      "Biliäre Pankreatitis"
+    ],
+    "diagnostic_approach": [
+      "CT Abdomen"
+    ]
+  }
+]

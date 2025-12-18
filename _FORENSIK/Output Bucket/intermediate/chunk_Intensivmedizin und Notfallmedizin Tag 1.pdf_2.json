@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Bewusstlose Patientin mit Addison-Krise\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\n      \"Bewusstlosigkeit\",\n      \"in Erbrochenem liegend aufgefunden\",\n      \"keine Reaktion auf Ansprache und Berührung\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Nierenerkrankung ('etwas mit den Nieren')\",\n      \"Glucokortikoid-Therapie (Cortison-Tabletten)\",\n      \"In den letzten Tagen krank gewesen ('wohl eine Grippe')\"\n    ],\n    \"medications\": [\n      \"Cortison-Tabletten\"\n    ],\n    \"allergies\": [],\n    \"physical_examination\": [\n      \"Vigilanzstörung\"\n    ],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Addison-Krise\",\n      \"akute Nebennierenrindeninsuffizienz\"\n    ],\n    \"diagnostic_approach\": [\n      \"Fremdanamnese durch anwesende Personen\",\n      \"Umfeld betrachten (Spritzen, leere Tablettendosen etc.)\",\n      \"Labor: Hyponatriämie, Hyperkaliämie\",\n      \"Plasma-ACTH\",\n      \"Messung des Cortisols nach ACTH-Gabe\",\n      \"Bildgebung (Hinweise für Tumoren/Blutungen/sonstige Schädigungen)\"\n    ]\n  }\n]\n```"
+  }
+]

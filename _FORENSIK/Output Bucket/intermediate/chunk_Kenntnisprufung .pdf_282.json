@@ -1,0 +1,78 @@
+[
+  {
+    "title": "pAVK mit Claudicatio intermittens nach Langstreckenflug",
+    "patient_age": "68 Jahre",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen im Unterschenkel (Wadenbereich) bei Belastung seit 3 Wochen",
+      "Schmerzfreie Gehstrecke bis 400m",
+      "Husten morgens mit schleimigem Auswurf",
+      "Dyspnoe bei Belastung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie seit ca. 6 Jahren",
+      "Hyperlipidämie",
+      "Obstipation",
+      "Speicheldrüsenentzündung vor 8 Wochen",
+      "Z.n. Wirbelsäulen-OP vor 3-4 Jahren (L4-L5)",
+      "Z.n. Corona-Infektion nach der Reise"
+    ],
+    "comorbidities": [
+      "Chronische Bronchitis (Raucherhusten)",
+      "Parotitis (große Schwellung)"
+    ],
+    "risk_factors": [
+      "Raucher seit 50 Jahren",
+      "Ca. 20 Zigaretten/Tag",
+      "Längerer Flug vor 3 Wochen"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Raucher seit 50 Jahren, ca. 20 Zigaretten/Tag"
+    ],
+    "medications": [
+      "Lisinopril Kombi 20 mg 1-0-0",
+      "Atorvastatin 20 mg 0-0-1",
+      "Laxanzien"
+    ],
+    "allergies": [
+      "Penicillin (allergische Reaktion)"
+    ],
+    "vital_signs": [
+      "Blutdruck beidseits gemessen",
+      "Puls gemessen"
+    ],
+    "physical_examination": [
+      "Beidseitige Inspektion Beine und Füße",
+      "Pulse palpiert",
+      "Sensibilität geprüft",
+      "Hauttemperatur bei Palpation verglichen",
+      "Keine Ödeme",
+      "Keine sichtbaren Veränderungen",
+      "Lymphknoten am Kopf getastet (wegen Parotitis)",
+      "Lunge auskultiert",
+      "Herz auskultiert",
+      "Bauch auskultiert",
+      "Aorta abdominalis auskultiert",
+      "Aa. renalis auskultiert"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "pAVK (periphere arterielle Verschlusskrankheit)",
+      "DD: Tiefe Venenthrombose (TVT)",
+      "DD: Periphere Neuralgie"
+    ],
+    "diagnostic_approach": [
+      "ABI (Ankle-Brachial-Index)",
+      "Fontaine-Stadien-Einteilung",
+      "Klinische Zeichen",
+      "Anamnese und subjektive Beschwerden"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle** im Sinne von Fallpräsentationen. Es handelt sich ausschließlich um:\n\n1. **Theoretische Fragen und Antworten** aus einem Fragen-Antworten-Dokument (QS Version 1)\n2. **Systematische Wissenszusammenfassungen** zu verschiedenen medizinischen Themen:\n   - Antidepressiva-Pharmakologie (FRAGE 21)\n   - Diabetes insipidus Labordiagnostik (FRAGE 22)\n   - Prädiabetes-Diagnosekriterien (FRAGE 23)\n   - Sekundäre Hypertonie-Ursachen (FRAGE 24)\n   - Spannungspneumothorax-Notfallbehandlung (FRAGE 25)\n   - Sepsis SOFA/qSOFA (FRAGE 26)\n   - Unkomplizierte HWI-Therapie (FRAGE 27)\n   - Tetracycline-Pharmakologie (FRAGE 28)\n   - Notfall-Triage-Systeme (FRAGE 29, unvollständig)\n\nEs werden **keine konkreten Patienten** mit:\n- Individueller Anamnese\n- Spezifischen Beschwerden\n- Untersuchungsbefunden\n- Bildgebung oder Labor zu einem spezifischen Fall\n\nbeschrieben. Es handelt sich um rein didaktisches Lehrmaterial in Frage-Antwort-Format."
+  }
+]

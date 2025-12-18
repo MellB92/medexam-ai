@@ -1,0 +1,55 @@
+[
+  {
+    "title": "pAVK bei 68-jährigem Raucher mit Belastungsschmerzen im Unterschenkel",
+    "patient_age": "68 Jahre",
+    "patient_gender": "männlich",
+    "chief_complaints": [
+      "Schmerzen im Unterschenkel im Wadenbereich bei Belastung",
+      "Schmerzfreies Gehen bis 400 m",
+      "Dyspnoe bei Belastung",
+      "Husten morgens mit schleimigem Auswurf"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie seit ca. 6 Jahren",
+      "Hyperlipidämie",
+      "Obstipation",
+      "Wirbelsäulen-OP vor ca. 3-4 Jahren (L4-L5)",
+      "Speicheldrüsenentzündung vor 8 Wochen",
+      "Corona-Infektion nach der Reise"
+    ],
+    "medications": [
+      "Lisinopril Kombi 20 mg 1-0-0",
+      "Atorvastatin 20 mg 0-0-1",
+      "Laxanzien"
+    ],
+    "allergies": [
+      "Penicillin (allergische Reaktion)"
+    ],
+    "physical_examination": [
+      "Beidseitige Inspektion von Beinen und Füßen",
+      "Pulse palpiert",
+      "Sensibilität geprüft",
+      "Hauttemperatur bei Palpation verglichen",
+      "Blutdruck beidseits gemessen",
+      "Lymphknoten am Kopf getastet (große Schwellung - Parotitis)",
+      "Lunge auskultiert",
+      "Herz auskultiert",
+      "Bauch untersucht mit Auskultation von Aorta abdominalis und Aa. renalis"
+    ],
+    "imaging_findings": [
+      "Röntgen Thorax p.a. Aufnahme durchgeführt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "pAVK (periphere arterielle Verschlusskrankheit)",
+      "DD: TVT (Tiefe Venenthrombose)",
+      "DD: Periphere Neuralgie"
+    ],
+    "diagnostic_approach": [
+      "ABI (Ankle-Brachial-Index) Messung",
+      "Klinische Diagnostik nach Fontaine-Stadien",
+      "Langzeit-Blutdruckmessung zur Kontrolle der aHT-Einstellung"
+    ]
+  }
+]

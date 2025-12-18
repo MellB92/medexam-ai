@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Knieschmerzen links nach Sturz mit Rotationstrauma",
+    "patient_age": "49-jährig",
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen am linken Knie",
+      "Benötigt zwei Unterarmgehstützen"
+    ],
+    "accident_mechanism": "Sturz mit innerer Rotation des Knies, auf den Boden gefallen",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "RR und Puls nicht bestimmt"
+    ],
+    "physical_examination": [
+      "Untersuchung von Kopf bis Fuß durchgeführt",
+      "Platte Wunde an der Hand"
+    ],
+    "imaging_findings": [
+      "Röntgen des Knies wurde vom Prüfer gefordert aber initial nicht durchgeführt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "V.a. VHK Ruptur (vorderes Kreuzband)",
+      "V.a. Innere Meniskusruptur"
+    ],
+    "diagnostic_approach": [
+      "Anamnese geführt",
+      "Körperliche Untersuchung von Kopf bis Fuß"
+    ],
+    "treatment_response": [
+      "Unterarmgehstützen von Krankenschwester versorgt worden"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

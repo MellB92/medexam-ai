@@ -1,0 +1,157 @@
+[
+  {
+    "title": "Zunehmende Dyspnoe und Hämoptyse bei Herzinsuffizienz und Nikotinabusus",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "seit 2 Wochen zunehmender Husten",
+      "Hämoptyse",
+      "zunehmende Dyspnoe (bekannt seit längerem)",
+      "starker kalter Nachtschweiß",
+      "Gewichtsverlust 5kg/2 Monate",
+      "Obstipation",
+      "Inappetenz",
+      "starke Schlafstörung (muss 3 Kissen unter Rücken stellen)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Herzinsuffizienz NYHA III",
+      "arterielle Hypertonie",
+      "Z.n. Cholezystektomie",
+      "Z.n. Beckenfraktur"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Raucher 40 pack years",
+      "Alkohol gelegentlich"
+    ],
+    "family_history": [
+      "Mutter: Darmkrebs mit 36 Lebensjahren verstorben",
+      "Vater: pAVK, Diabetes mellitus, Z.n. Amputation rechtes Bein, verstorben"
+    ],
+    "social_history": [
+      "wohnt allein",
+      "geschieden",
+      "Frührentner",
+      "Gehstützen"
+    ],
+    "medications": [
+      "Lisinopril",
+      "Tiotropiumbromid",
+      "Salbutamol",
+      "Makrogol"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "körperliche Untersuchung durchgeführt",
+      "4-Punkt-Gang mit Gehstützen"
+    ],
+    "imaging_findings": [
+      "Rö Thorax p.a. und seitlich: deutliche Raumforderung",
+      "weitere Rö Thorax: Raumforderung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom (Verdachtsdiagnose)"
+    ],
+    "diagnostic_approach": [
+      "Rö Thorax",
+      "Bronchoskopie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Hämoptyse und Dyspnoe bei chronischer Bronchitis und Nikotinabusus - Hans Becker",
+    "patient_age": "63-jähriger",
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "seit 2 Wochen zunehmende Dyspnoe",
+      "produktiver Husten mit dunklem Sputum",
+      "Hämophtyse (Blut im Auswurf)",
+      "Schmerzen beim Husten (morgens)",
+      "Nachtschweiß (Schlafanzug wechseln)",
+      "Gewichtsverlust 5kg/6 Wochen",
+      "kein Fieber",
+      "Obstipation",
+      "Nykturie",
+      "Inappetenz"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "chronische Bronchitis",
+      "arterielle Hypertonie",
+      "Gichtanfall",
+      "Z.n. laparoskopische Cholezystektomie",
+      "Z.n. Beckenfraktur (verschraubt)",
+      "Behinderung 30%"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Raucher 30 pack years",
+      "Alkohol: 2 Bier, manchmal Schnaps"
+    ],
+    "family_history": [
+      "Mutter: Kolonkarzinom",
+      "Vater: pAVK, Diabetes mellitus, Unterschenkel-Amputation",
+      "Sohn: gesund"
+    ],
+    "social_history": [
+      "wohnt allein",
+      "geschieden",
+      "Frührentner (wegen Beckenverletzung)",
+      "180cm, 85kg",
+      "kam mit Gehstützen"
+    ],
+    "medications": [
+      "Lisinopril",
+      "Tiotropiumbromid",
+      "Salbutamol",
+      "Makrogol"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "vital_signs": [
+      "RR 180/90 (in anderem Patientenbeispiel)"
+    ],
+    "physical_examination": [
+      "Haut untersucht",
+      "Augen untersucht",
+      "Lungen untersucht",
+      "Herz untersucht",
+      "neurologische Untersuchung",
+      "Gefäßuntersuchung"
+    ],
+    "imaging_findings": [
+      "Rö-Thorax: Raumforderungen",
+      "Sono: kalkulöse Cholezystitis",
+      "Bild: komplette Beckenringfraktur",
+      "CT-Bild: retroperitoneales Hämatom",
+      "EKG: Hypertrophiezeichen (Sokolov-Index)"
+    ],
+    "laboratory_findings": [
+      "D-Dimer (zum Ausschluss Lungenembolie)"
+    ],
+    "suspected_diagnosis": [
+      "Lungenkarzinom (bestätigt)",
+      "Lungenembolie (DD, ausgeschlossen)"
+    ],
+    "diagnostic_approach": [
+      "D-Dimer",
+      "Rö-Thorax",
+      "weitere Diagnostik entsprechend Klassifikation"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "postoperative Wundheilungstörung - Abszess (allgemein besprochen)"
+    ],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 244/284) enthält **keine klinischen Patientenfälle**, sondern ausschließlich:\n\n1. **Glasgow Coma Scale (GCS) - Scoring-System:**\n   - Punktevergabe für Strecksynergismen (2 Punkte) und \"Keine\" (1 Punkt)\n   - Gesamtpunktzahl-Bereiche (3-15 Punkte)\n   - Klassifikation der Bewusstseinsstörungen (schwer/mittelschwer/leicht)\n   - Dokumentationshinweise (GCS <8, 9-12, 13-15)\n   - Ergänzungen für intubierte Patienten und pädiatrische GCS\n\n2. **Böhler-Winkel - Anatomische/Radiologische Referenzwerte:**\n   - Überschrift zu den drei Böhler-Winkeln\n   - Beginn der Beschreibung des Böhler-Winkels 1 (am distalen Radius)\n   - Technische Messinformationen\n\nEs handelt sich um **reines Theoriewissen** und **Referenzmaterial** für medizinische Dokumentation und radiologische Messungen, jedoch um **keine konkreten Patientenfälle** mit individuellen klinischen Präsentationen."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 55/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle**.\n\nDer Text behandelt:\n- **Lektion 23**: EKG-Veränderungen bei Elektrolytstörungen (Hyperkaliämie, Hypokaliämie, Hyperkalzämie, Hypokalzämie, Natrium- und Magnesium-Stoffwechsel)\n- **Lektion 24**: Supraventrikuläre Extrasystolen und supraventrikuläre Tachykardien\n\nEs handelt sich um:\n- Theoretische Beschreibungen von EKG-Veränderungen\n- Didaktisches Material mit Abbildungen (Abb. 23.2, 23.3, 24.1, 24.2)\n- \"Merke\"-Boxen mit Zusammenfassungen\n- Allgemeine pathophysiologische Erklärungen\n\nEs werden **keine konkreten Patienten** mit individuellen Beschwerden, Untersuchungsbefunden oder diagnostischen Verläufen vorgestellt."
+  }
+]

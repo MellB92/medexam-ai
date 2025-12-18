@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 72/84) enthält **keine vollständigen klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Therapeutischen Leitlinien** für Divertikulitis (Stadien I-IV mit Behandlungsalgorithmen)\n2. **Systematischer Darstellung** von Pankreatitis (Definition, Ätiologie, Klinik, Diagnostik, Therapie)\n3. **Systematischer Darstellung** von Cholezystitis (Definition, Ätiologie, Klinik - am Ende abgeschnitten)\n\nEs handelt sich um **didaktisches Lehrmaterial** in Form von Lernkarten mit strukturiertem Faktenwissen, nicht um konkrete Patientenfälle mit individuellen Anamnesen, Untersuchungsbefunden oder diagnostischen Überlegungen.\n\nEin klinischer Fall würde typischerweise beginnen mit: \"Ein 45-jähriger Patient stellt sich vor mit...\" oder ähnlichen individualisierenden Formulierungen und einen diagnostisch-therapeutischen Verlauf beschreiben."
+  }
+]

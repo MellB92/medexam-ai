@@ -1,0 +1,180 @@
+[
+  {
+    "title": "Akute Cholezystitis mit Murphy-Zeichen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "typische Symptome einer akuten Cholezystitis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Murphy-Zeichen positiv"
+    ],
+    "imaging_findings": [
+      "Sonographie: Konkremente mit Schallschattung",
+      "keine Wandverdickung",
+      "Cholezystolithiasis"
+    ],
+    "laboratory_findings": [
+      "Entzündungsparameter",
+      "Cholestaseparameter"
+    ],
+    "suspected_diagnosis": [
+      "Akute Cholezystitis",
+      "Cholezystolithiasis"
+    ],
+    "diagnostic_approach": [
+      "Labor mit Entzündungs- und Cholestaseparameter",
+      "Sonographie",
+      "MRCP",
+      "ERCP bei Bedarf"
+    ]
+  },
+  {
+    "title": "Scaphoidfraktur nach Trauma",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Handgelenkschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Handgelenk mit Scaphoidfraktur",
+      "Kahnbeinquartett: Stecher-Projektion"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Scaphoidfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Handgelenk",
+      "Kahnbeinquartett",
+      "Ruhigstellung für 12 Wochen"
+    ]
+  },
+  {
+    "title": "Lungenembolie nach Hüft-OP mit TVT",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Luftnot"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hüft-Operation vor 6 Tagen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Hypotonie",
+      "Tachykardie",
+      "klinische Symptome einer TVT"
+    ],
+    "imaging_findings": [
+      "Sonographie mit Thrombus",
+      "CT-Angiographie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenembolie",
+      "tiefe Venenthrombose"
+    ],
+    "diagnostic_approach": [
+      "FD-Sonographie",
+      "CT-Angiographie",
+      "Vollheparinisierung",
+      "ITS-Verlegung"
+    ]
+  },
+  {
+    "title": "Pancoast-Tumor mit Horner-Syndrom",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Horner-Syndrom"
+    ],
+    "imaging_findings": [
+      "Röntgen Thorax: Verschattung apikal linke Lunge"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pancoast-Tumor",
+      "Tuberkulose",
+      "Atelektase"
+    ],
+    "diagnostic_approach": [
+      "CT mit Kontrastmittel",
+      "Bronchoskopie mit Biopsie",
+      "CT-gesteuerte Biopsie"
+    ]
+  },
+  {
+    "title": "Appendizitis bei 63-jähriger Frau",
+    "patient_age": "63",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Magenkrämpfe seit gestern Mittag",
+      "Erbrechen",
+      "Schmerzen im gesamten Unterbauch",
+      "Schmerzintensität 8/10"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Asthma bronchiale",
+      "Mitralklappeninsuffizienz",
+      "Bursitis in der Kindheit (nach Trauma)",
+      "Nierenerkrankungen in der Kindheit"
+    ],
+    "medications": [
+      "Buscopan 2x eingenommen",
+      "Ibuprofen 1x eingenommen"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "McBurney-Zeichen positiv",
+      "Blumberg-Zeichen positiv"
+    ],
+    "imaging_findings": [
+      "Abdomensono"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Appendizitis"
+    ],
+    "diagnostic_approach": [
+      "Sofortige Schmerztherapie mit Novalgin 1g i.V.",
+      "Dipidolor 7,5 mg i.V.",
+      "Vomex als Antiemetikum",
+      "Abdomensono"
+    ]
+  },
+  {
+    "title": "Appendizitis - Prüfungsfall",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Appendizitis"
+    ],
+    "diagnostic_approach": []
+  }
+]

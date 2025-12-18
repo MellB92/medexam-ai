@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Linksseitige Brustschmerzen bei 63-jährigem Mann mit kardiovaskulären Risikofaktoren",
+    "patient_age": "63 Jahre",
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "Linksseitige Brustschmerzen",
+      "Ausstrahlung in die linke Schulter"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Diabetes mellitus",
+      "Hypothyreose"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Arterielle Hypertonie",
+      "Diabetes mellitus"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalzeichen in Ordnung"
+    ],
+    "physical_examination": [
+      "Aktuell Brustschmerzen vorhanden",
+      "Bekommt gut Luft",
+      "Körperliche Untersuchung nicht vollständig durchgeführt (Zeitgründe)"
+    ],
+    "imaging_findings": [
+      "EKG beim Hausarzt unauffällig"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Koronare Herzkrankheit (KHK)"
+    ],
+    "diagnostic_approach": [
+      "Ausschluss Notfall",
+      "Anamnese",
+      "EKG"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

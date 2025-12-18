@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle** mit Patientenvorstellung.\n\nDer Text besteht aus:\n\n1. **Fragen und Antworten (Frage 13-30)**: Dies sind theoretische Wissensfragen mit Standardantworten, keine Patientenfälle\n   - Beispiel: \"Child-Pugh-Klassifikation Parameter?\" \n   - Beispiel: \"Antidot bei Atropinvergiftung?\"\n\n2. **Abschnitt \"3. Klinische Fälle\"**: Dieser Abschnitt listet nur **Stichpunkte/Themen** auf, aber keine ausformulierten Patientenfälle:\n   - \"Milzruptur mit zweizeitiger Blutungsgefahr (AAST-Klassifikation...)\"\n   - \"Tibiakopffraktur - konservativ bei nicht-disloziert...\"\n   - \"Schlafapnoe-Syndrom mit AHI-Klassifikation...\"\n   - \"Leberzirrhose mit Palmarerythem und Spider naevi...\"\n   - \"Eisenmangelanämie bei älterem Mann...\"\n\nDiese Stichpunkte enthalten zwar klinische Themen, aber **keine vollständigen Fallpräsentationen** mit:\n- Patientenalter/-geschlecht\n- Anamnese/Vorstellung\n- Untersuchungsbefunden\n- Diagnostischem Vorgehen\n\nDer letzte Eintrag \"Eisenmangelanämie bei älterem Mann\" ist am Ende des Chunks abgeschnitten (endet mit \"-\"), was darauf hindeutet, dass möglicherweise im nächsten Chunk (6/6) die vollständigen Fälle folgen könnten."
+  }
+]

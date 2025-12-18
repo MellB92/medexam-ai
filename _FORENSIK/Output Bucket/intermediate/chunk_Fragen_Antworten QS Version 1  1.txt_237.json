@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Divertikulitis mit Fieber und Unterbauchschmerz\",\n    \"patient_age\": \"über 60 Jahre\",\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\n      \"Fieber\",\n      \"Stuhlunregelmäßigkeiten\",\n      \"Frisches Blut auf Toilettenpapier vor 2 Wochen\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\n      \"Druckschmerz linker Unterbauch\"\n    ],\n    \"imaging_findings\": [\n      \"Sonographie: Divertikel mit umgebender Entzündung\",\n      \"Keine freie Flüssigkeit oder Luft\"\n    ],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Unkomplizierte Divertikulitis\"\n    ],\n    \"diagnostic_approach\": [\n      \"Körperliche Untersuchung\",\n      \"Sonographie\",\n      \"Stationäre Aufnahme indiziert\",\n      \"Überwachung des Therapieansprechens\"\n    ]\n  }\n]\n```"
+  }
+]

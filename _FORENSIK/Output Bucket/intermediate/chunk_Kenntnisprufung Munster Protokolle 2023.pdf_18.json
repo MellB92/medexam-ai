@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Stumpfes Bauchtrauma nach Verkehrsunfall",
+    "patient_age": "Erwachsener",
+    "patient_gender": "Mann",
+    "severity": "moderate",
+    "chief_complaints": [
+      "starke Bauchschmerzen",
+      "Schmerzen im rechten Handgelenk"
+    ],
+    "accident_mechanism": "Sekundenschlaf beim Fahren, Kontrolle verloren und Unfall gehabt",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Lercanidipin"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Blutdruckdifferenz zwischen beiden Seiten",
+      "Untersuchung von Abdomen und Handgelenk"
+    ],
+    "imaging_findings": [
+      "Röntgenbild mit Skaphoidfraktur",
+      "CT-Bild mit akuter Appendizitis",
+      "Sonographie mit Morrison-Pouch-Flüssigkeitsansammlung",
+      "Natives CT-Bild mit Raumforderung in rechter Hemisphäre"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Stumpfes Bauchtrauma",
+      "Skaphoidfraktur",
+      "Akute Appendizitis",
+      "Raumforderung im Schädel"
+    ],
+    "diagnostic_approach": [
+      "Klinische Untersuchung",
+      "Bildgebende Diagnostik (Röntgen, CT, Sonographie)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

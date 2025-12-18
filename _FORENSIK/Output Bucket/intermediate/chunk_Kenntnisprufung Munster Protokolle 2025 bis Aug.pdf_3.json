@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Achalasie bei 46-jähriger Patientin",
+    "patient_age": "46 Jahre",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Seit ca. 6 Monaten retrosternale, postprandiale Schmerzen",
+      "Schmerzen nicht ausstrahlend, progredient",
+      "Foetor ex ore",
+      "Aufstoßen",
+      "Zeitweise Dyspnoe",
+      "Globusgefühl, eher retrosternal",
+      "6 kg Gewichtsverlust in den letzten 6 Monaten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Zustand nach Appendektomie",
+      "Rezidivierende Harnwegsinfekte",
+      "Motorradunfall mit Oberarmfraktur (konservativ mit Gips behandelt)",
+      "Mumps in der Kindheit",
+      "Windpocken in der Kindheit",
+      "Chronische Schmerzen im LWS-Bereich"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater: an Herzerkrankung verstorben",
+      "Mutter: vor Kurzem wegen Struma operiert",
+      "Bruder: an AIDS verstorben",
+      "Zweiter Bruder: Entzündung am großen Zeh"
+    ],
+    "social_history": [
+      "Verheiratet",
+      "Zwei gesunde Kinder"
+    ],
+    "medications": [
+      "Ibuprofen bei Bedarf",
+      "Ein Mittel gegen Aufstoßen"
+    ],
+    "allergies": [
+      "Erdnüsse",
+      "Penicillin (Urtikaria)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Bild mit Breischluck"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Achalasie",
+      "Ösophaguskarzinom",
+      "Struma maligna",
+      "GERD"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Diabetes mellitus mit Polyurie und Polydipsie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Müdigkeit seit fünf Monaten",
+      "Leistungsminderung seit fünf Monaten",
+      "Polyurie seit fünf Monaten",
+      "Polydipsie seit fünf Monaten",
+      "Rezidivierende Infektionen seit fünf Monaten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Patient war freundlich und kooperativ"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "HbA1c-Wert: 5,9 %"
+    ],
+    "suspected_diagnosis": [
+      "Diabetes mellitus"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

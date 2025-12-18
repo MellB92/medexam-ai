@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Wadenschmerzen nach Thailand-Urlaub\",\n    \"patient_age\": null,\n    \"patient_gender\": \"m\",\n    \"chief_complaints\": [\"Wadenschmerzen beim Laufen\", \"Dyspnoe\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"Arterielle Hypertonie\", \"Hyperlipidämie\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Claudicatio intermittens\", \"400m Gehstrecke\", \"Besserung in Ruhe\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [],\n    \"diagnostic_approach\": [\"Anamnese\", \"körperliche Untersuchung\"]\n  }\n]\n```"
+  }
+]

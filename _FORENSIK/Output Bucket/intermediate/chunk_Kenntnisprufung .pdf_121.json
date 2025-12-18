@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Gastroösophageale Refluxerkrankung (GERD) mit Verdacht auf Ösophagitis",
+    "patient_age": "52-jähriger",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "retrosternale/epigastrische brennende Schmerzen seit 4 Wochen",
+      "Sodbrennen",
+      "Aufstoßen",
+      "Dysphagie",
+      "Halsschmerzen",
+      "ab und zu Hustenattacken",
+      "Beschwerden in letzten Tagen schlimmer geworden",
+      "nächtliches Erwachen aus Schmerzen",
+      "Beschwerden postprandial",
+      "Beschwerden beim Liegen verstärkt",
+      "Gewichtsabnahme 3 kg in 4 Wochen im Rahmen der Inappetenz",
+      "Schwierigkeit durchzuschlafen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "vor 0,5J Skaphoidfraktur rechts (konservative Therapie)",
+      "vor 0,5J Sigmadivertikulitis (stationäre konservative Therapie)",
+      "Hypothyreose"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Ibuprofen-Einnahme (ohne Magenschutz)",
+      "20 pack years Rauchen",
+      "1 Glas Wein täglich"
+    ],
+    "family_history": [
+      "Vater an TBC gestorben",
+      "Mutter hat gleiche Beschwerden (GERD)",
+      "Schwester adipös und Diabetikerin (kann wegen Adipositas nicht arbeiten)",
+      "Bruder bei pAVK des Beins operiert"
+    ],
+    "social_history": [
+      "Gartenarbeiter",
+      "keine gesundheitliche Schäden (arbeitsbedingt)",
+      "20 pack years Raucher",
+      "1 Glas Wein täglich"
+    ],
+    "medications": [
+      "L-Thyroxin 100 µg 1-0-0",
+      "Ibuprofen täglich unterschiedliche Dosen (keine Magenschutztablette)"
+    ],
+    "allergies": [
+      "Penicillin-Allergie"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Druckschmerzen in Regio hypochondrica links",
+      "Druckschmerzen epigastrisch",
+      "sonst unauffällig"
+    ],
+    "imaging_findings": [
+      "Endoskopie: 4 Grade von Ösophagitis",
+      "zungenförmige Ausläufer (Barrett Ösophagus)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Ösophagitis unteren Teils wahrscheinlich mit eventueller Gastritis von Pars cardiaca",
+      "DD Barrett Ösophagus",
+      "DD Ösophagus Ca",
+      "DD Ulcus ventriculi",
+      "DD Magen Ca"
+    ],
+    "diagnostic_approach": [
+      "Gastroskopie mit Biopsie",
+      "Endoskopie durchgeführt",
+      "Biopsie zur Beurteilung (LGIN, HGIN)",
+      "pH-Metrie erwähnt"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Prozedere und Behandlungsplan abhängig von Gastro-Befund",
+      "konservative Therapiemethoden für Reflux",
+      "operative Therapiemethoden (Hiatoplicatio Technik)",
+      "weitere Prozedere abhängig vom Biopsie-Befund"
+    ]
+  }
+]

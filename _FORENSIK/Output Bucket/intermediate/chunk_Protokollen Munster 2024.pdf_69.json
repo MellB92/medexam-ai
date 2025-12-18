@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Pyelonephritis mit Flankenschmerz, Dysurie und Fieber",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen in der linken Flanke",
+      "Dysurie",
+      "Fieber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Asthma bronchiale",
+      "Diabetes mellitus Typ I"
+    ],
+    "comorbidities": [
+      "Knieverletzung vor 1 Woche"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Atemgeräusche beurteilt",
+      "Herztöne beurteilt",
+      "Ausstrahlung der Herzgeräusche beurteilt",
+      "Knie-Tests durchgeführt: Tanzende Patella, Schubladentest, Lachmann-Test, Gravity-Sign"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pyelonephritis",
+      "Nephrolithiasis (Differentialdiagnose)"
+    ],
+    "diagnostic_approach": [
+      "Urin-Stix",
+      "Urin-Sediment",
+      "Abdomen-Ultraschall"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

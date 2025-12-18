@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 81/111) aus einem EKG-Lehrbuch enthält **keine klinischen Patientenfälle**.\n\nDer Abschnitt behandelt ausschließlich:\n\n1. **Lektion 34 (Ende)**: Differenzierung von ventrikulären und supraventrikulären Tachykardien anhand technischer EKG-Kriterien (QRS-Morphologie, Schenkelblock-Muster)\n\n2. **Lektion 35**: \"Richtige technische EKG-Auswertung\" - ein rein technisches Kapitel über:\n   - Papiergeschwindigkeit (50 mm/sek vs. 25 mm/sek)\n   - EKG-Papier und Zeitmessung\n   - Eichung (1 mV = 10 mm)\n   - Filter (50 Hz, 35 Hz)\n   - Besonderheiten moderner EKG-Geräte\n\nEs handelt sich um theoretisches Lehrmaterial zur korrekten technischen Durchführung und Interpretation von EKG-Registrierungen, **ohne konkrete Patientenfälle oder klinische Fallbeispiele**."
+  }
+]

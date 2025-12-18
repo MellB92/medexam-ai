@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Polytrauma mit Beckenringfraktur und Calcaneusfraktur nach Sturz von Leiter",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Schwindel beim Kirschenpflücken",
+      "Sturz aus 4m Höhe",
+      "Schmerzen an Hüfte und Ferse",
+      "Unvermögen aufzustehen"
+    ],
+    "accident_mechanism": "4m Sturz von Leiter beim Kirschenpflücken nach Schwindelanfall, Aufprall mit rechter Ferse auf den Boden, kein Bewusstseinsverlust",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Kirschenpflücken"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "GCS 15"
+    ],
+    "physical_examination": [
+      "PDMS intakt",
+      "Hüfte schmerzempfindlich",
+      "Ferse schmerzempfindlich",
+      "Reflexe unauffällig",
+      "Patient konnte nicht aufstehen",
+      "Bizepsreflex: N. musculocutaneus C5-C7 intakt"
+    ],
+    "imaging_findings": [
+      "Röntgen rechter Fuß AP und lateral: Calcaneusfraktur",
+      "keine Dislokation",
+      "keine Gelenkbeteiligung",
+      "keine offene Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma",
+      "Beckenringfraktur",
+      "Calcaneusfraktur rechts",
+      "Synkope (DD für Schwindel)"
+    ],
+    "diagnostic_approach": [
+      "FAST Sonographie",
+      "Traumaspirale",
+      "Röntgen Fuß AP und lateral",
+      "Schwindelabklärung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "konservative Versorgung mit Gips geplant (nach Abschwellung)",
+      "stationäre Aufnahme",
+      "ausreichende Analgesie",
+      "Fußhochlagerung und Kühlung",
+      "Thromboseprophylaxe mit Clexane 0,4mg 1x täglich"
+    ]
+  }
+]

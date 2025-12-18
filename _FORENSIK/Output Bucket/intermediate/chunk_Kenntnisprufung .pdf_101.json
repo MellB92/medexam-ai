@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Chronische Lumbalgie mit Verschlimmerung und Verdacht auf Phäochromozytom",
+    "patient_age": "49",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Verschlimmerung chronischer Rückenschmerzen in den letzten 2 Wochen",
+      "erhöhte Blutdruckwerte (zuletzt RR systolisch 165 mmHg bei Hausärztin)",
+      "Umknicken mit dem rechten Fuß vor 2 Wochen (zurzeit keine Schmerzen)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "chronische Rückenschmerzen seit 20 Jahren aufgrund Bandscheibenvorfall im LWS-Bereich",
+      "Osteoporose (vom Orthopäden vermutet, Untersuchung geplant)",
+      "Polypektomie im Rahmen einer Koloskopie vor 1 Jahr mit unauffälliger Nachsorge-Koloskopie",
+      "Pfeiffersches Drüsenfieber vor 20 Jahren"
+    ],
+    "comorbidities": [
+      "arterielle Hypertonie"
+    ],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter hatte Darmkrebs"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "RR unauffällig bei aktueller Untersuchung",
+      "RR systolisch 165 mmHg bei Hausärztin letzte Woche"
+    ],
+    "physical_examination": [
+      "Milz tastbar und leicht vergrößert",
+      "Leber tastbar und leicht vergrößert",
+      "Druckschmerz im LWS"
+    ],
+    "imaging_findings": [
+      "Abdomensonografie bei Hausärztin: Befund im rechten Mittelbauch (Patientin weiß nichts davon)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "arterielle Hypertonie",
+      "Phäochromozytom",
+      "Wirbelkörperfraktur im LWS",
+      "Osteoporose",
+      "Mononukleose",
+      "Sprunggelenkverletzung?"
+    ],
+    "diagnostic_approach": [
+      "Labor mit relevanten Werten inkl. Tumormarker für Kolonkarzinom",
+      "Vanillinmandelsäure im Urin",
+      "Abdomensonografie zur Beurteilung von Nieren, Nebennieren, Leber und Milz",
+      "Langzeitblutdruckmessung",
+      "Röntgen LWS 2 Ebenen, bei Befund evtl. CT-Abdomen",
+      "Röntgen Sprunggelenk rechts 2 Ebenen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

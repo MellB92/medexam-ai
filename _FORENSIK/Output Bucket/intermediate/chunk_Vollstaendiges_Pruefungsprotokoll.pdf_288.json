@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 289/585) enthält **keine vollständigen klinischen Patientenfälle**.\n\nDer Abschnitt besteht ausschließlich aus:\n\n1. **Prüfungsfragen ohne Antworten** (Fragen 24-30, dann Fragen aus anderen Protokollen)\n2. **Theoretische Wissensfragen** wie:\n   - Ceiling-Effekt, therapeutische Breite\n   - ALARA-Prinzip, Strahlenschutz\n   - Fieberkrampf bei Kindern (allgemein)\n   - Thromboseprophylaxe (allgemein)\n   - Hypoglykämie-Vorgehen (allgemein)\n   - EKG-Interpretation (allgemein)\n   - CT-Schnitte (Technik)\n   - Novafen (Medikament)\n   - Berufspflichtversicherung\n   - Nebennieren-Anatomie und -Hormone\n\n3. **Unvollständige Fragmente** wie:\n   - Sjögren-Syndrom, Endokarditis, Emphysem (nur als Themen aufgelistet)\n   - Radiologische Bilder werden erwähnt (Radiusfraktur, Milzruptur, Appendizitis, Hydrothorax), aber **ohne konkrete Patientenangaben** (kein Alter, Geschlecht, Anamnese, vollständiger klinischer Kontext)\n\n4. **Fehlende Informationen**: Bei allen Fragen steht \"Antwort des Prüflings: > Nicht im Protokoll enthalten\" - es gibt keine ausgearbeiteten Fälle\n\nAlle Inhalte sind **Prüfungsfragen ohne ausformulierte klinische Fallpräsentationen** mit vollständigen Patientendaten."
+  }
+]

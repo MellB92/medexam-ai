@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Prüfungsfragen mit Musterlösungen** (Q&A-Format):\n   - Appendektomie-Indikation\n   - Varikozele-Definition\n   - Vena saphena magna-Verlauf\n   - Varizen-Behandlung\n   - Kontrazeptiva (Pille, Minipille, \"Pille danach\")\n   - Todeszeichen\n   - Zeckenbiss-Management\n   - Borreliose\n   - Anaphylaktischer Schock\n   - Thrombozytopenie-Ursachen\n   - EKG-Befunde (Rechtsschenkelblock)\n   - Röntgen-Thorax (Emphysem/COPD)\n   - Röntgen-Becken (Hüftfrakturen) - **unvollständig, am Ende abgeschnitten**\n\n2. **Theoretisches Wissen ohne Patientenkontext**:\n   - Die Bildgebungsbefunde (EKG, Röntgen) werden zwar erwähnt, aber ohne konkrete Patientenpräsentation, Anamnese, klinische Symptome oder Fallkontext\n\n3. **Unvollständiger Fall am Ende**: \n   - Der letzte Abschnitt zu Hüftfrakturen bricht mitten im Satz ab\n\nEs handelt sich um ein Prüfungsprotokoll mit theoretischen Fragen, **nicht um klinische Fallpräsentationen**."
+  }
+]

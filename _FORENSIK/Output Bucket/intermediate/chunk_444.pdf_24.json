@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 25/155) enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Pharmakologischen Übersichten** zu verschiedenen Medikamentengruppen:\n   - Cumarine/Vitamin-K-Antagonisten (Phenprocoumon)\n   - Direkte orale Antikoagulantien (DOAK/NOAK)\n   - Heparine (unfraktioniert und niedermolekular)\n   - Thrombozytenaggregationshemmer\n   - Diuretika\n\n2. **Systematischen Informationen** zu:\n   - Wirkmechanismen\n   - Nebenwirkungen\n   - Indikationen\n   - Kontraindikationen\n   - Perioperativem Management\n   - Monitoring-Parametern\n\n3. **Einer Übersichtstabelle** zur Heparin-induzierten Thrombozytopenie (HIT I vs. HIT II)\n\nEs handelt sich um **theoretisches Lehrmaterial** zur Pharmakotherapie, nicht um konkrete Patientenfälle mit Anamnese, Untersuchungsbefunden oder diagnostischem Vorgehen."
+  }
+]

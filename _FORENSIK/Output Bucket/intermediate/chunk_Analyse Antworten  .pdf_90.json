@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle**. \n\nEs handelt sich ausschließlich um:\n\n1. **Prüfungsfragen und Antworten** aus einer Kenntnissprüfung (Q&A-Format)\n2. **Theoretische Wissensfragen** zu verschiedenen medizinischen Themen wie:\n   - Polytrauma-Definition\n   - Behandlung von Traumapatienten (CABCDE-Schema)\n   - Klavikulafraktur-Therapie\n   - Fibulakopffraktur-Komplikationen\n   - Bursitis-Definition\n   - Ösophagusvarizen\n   - CML (Chronische Myeloische Leukämie)\n   - TNM-Klassifikation\n   - Myokardinfarkt-EKG\n   - Hiatushernien-Klassifikationen\n   - Asthma bronchiale\n\n3. **Musterlösungen und Leitlinien** ohne konkrete Patientenszenarien\n\nEs fehlen essenzielle Elemente eines klinischen Falls wie:\n- Konkrete Patientenvorstellung\n- Spezifische Anamnese\n- Individuelle Befunde\n- Diagnostischer oder therapeutischer Verlauf\n\nDie Fragen sind rein akademisch/theoretisch und beschreiben keine realen oder hypothetischen Patientenpräsentationen."
+  }
+]

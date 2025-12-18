@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 243/254) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Frage-Antwort-Paaren** zu verschiedenen medizinischen Themen:\n   - Bauchaortenaneurysma (Rupturrisiko, Rupturformen, Lokalisationen)\n   - Myokarditis (Diagnostik, Ursachen, EKG-Zeichen)\n   - Endokarditis/Perikarditis (Definitionen)\n   - Echokardiographie-Befunde\n   - Herz-Belastungen\n   - Magenulkus (Ursachen, Diagnostik, Therapie)\n   - Helicobacter pylori\n   - pAVK und KHK Komorbidität\n\n2. **Prüfungsprotokoll-Analysen** mit:\n   - Kandidatenantworten\n   - Musterlösungen aus Leitlinien\n   - Fehleranalysen und Tipps\n\nEs handelt sich um ein **Ausbildungs-/Prüfungsdokument** (\"Analyse Antworten.pdf\", \"Protokolle Münster 2020-2025\"), das theoretisches Wissen abfragt, aber **keine konkreten Patientenfälle mit Anamnese, Befunden und klinischer Präsentation** enthält."
+  }
+]

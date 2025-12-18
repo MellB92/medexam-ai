@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 236/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nEs handelt sich ausschließlich um:\n\n1. **Prüfungsfragen mit Standardantworten** - theoretisches Wissen zu:\n   - Komagraden (I-IV)\n   - CT-Lagerung\n   - Patientenverfügung vs. Vorsorgevollmacht\n   - Strahlenschutz-Warnschilder\n   - Cholezystolithiasis (allgemeine Diagnostik/Therapie)\n   - Cholezystektomie-Komplikationen\n   - Calot-Dreieck\n   - ERCP-Definition\n   - Kahnbeinfraktur (allgemein)\n   - Herbert-Schraube\n   - Schilddrüsen-OP-Komplikationen\n   - Colitis ulcerosa vs. Morbus Crohn (theoretisch)\n   - Volvulus/\"Fahrradschlauchzeichen\"\n\n2. **Fehlende Antworten** - durchgehend steht: \"Nicht im Protokoll enthalten\"\n\n3. **Keine Patientendetails** - Es werden zwar Erkrankungen erwähnt (z.B. \"Patientin\" bei Cholezystektomie-Blutung), aber ohne Alter, Anamnese, konkrete Befunde oder Fallkontext\n\nDies ist ein Prüfungsprotokoll mit theoretischen Wissensfragen, keine klinische Falldokumentation."
+  }
+]

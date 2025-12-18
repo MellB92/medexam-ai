@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Akute Cholezystitis bei Schauspielerin",
+    "patient_age": null,
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "akutes Abdomen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Karpaltunnelsyndrom (KTS)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater mit Apoplex"
+    ],
+    "social_history": [
+      "Schauspielerin"
+    ],
+    "medications": [
+      "orale Kontrazeptiva (Pille)"
+    ],
+    "allergies": [
+      "Wespenstich"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Murphey-Zeichen positiv",
+      "Abdomen untersucht",
+      "Neurologie unauffällig",
+      "Pulsstatus unauffällig",
+      "Schilddrüse unauffällig",
+      "Lymphknoten unauffällig"
+    ],
+    "imaging_findings": [
+      "Ultraschall: Konkrement in Gallenblase",
+      "Hydrops der Gallenblase",
+      "Cholezystitis mit Wandverdickung 6mm (>4mm)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "akute Cholezystitis"
+    ],
+    "diagnostic_approach": [
+      "gezielte Anamnese",
+      "körperliche Untersuchung Abdomen",
+      "Ultraschall Abdomen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

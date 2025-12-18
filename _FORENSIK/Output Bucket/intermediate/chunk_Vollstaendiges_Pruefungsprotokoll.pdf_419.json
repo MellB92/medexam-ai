@@ -1,0 +1,130 @@
+[
+  {
+    "title": "PAVK mit nekrotischem Fuß",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "nekrotischer Fuß"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "PAVK"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "nekrotischer Fuß"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "PAVK"
+    ],
+    "diagnostic_approach": [
+      "ABI",
+      "Angiographie"
+    ]
+  },
+  {
+    "title": "Beckenfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": "erwähnt",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Blasen- und Mastdarmentleerungsstörungen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Beckenfraktur"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Appendizitis bei jungem Patienten",
+    "patient_age": "Jung",
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Appendizitiszeichen",
+      "Psoaszeichen",
+      "retrozäkale Lage"
+    ],
+    "imaging_findings": [
+      "Sonographie positiv"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Appendizitis"
+    ],
+    "diagnostic_approach": [
+      "Sonographie",
+      "Appendektomie",
+      "Thromboseprophylaxe"
+    ]
+  },
+  {
+    "title": "Rheumatoide Arthritis - Verdacht",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rö Hand"
+    ],
+    "laboratory_findings": [
+      "Anti CCP",
+      "Rheumafaktor"
+    ],
+    "suspected_diagnosis": [
+      "Rheumatoide Arthritis"
+    ],
+    "diagnostic_approach": [
+      "Bestimmung Anti CCP",
+      "Rheumafaktor",
+      "Röntgen Hand",
+      "BSG",
+      "CRP"
+    ]
+  },
+  {
+    "title": "Subcapitale Humerusfraktur mit Schulterluxation",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rö Schulter: subcapitale Fraktur",
+      "mögliche Luxation des Schultergelenkes",
+      "Hill-Sachs-Läsion möglich",
+      "Rotatorenmanschettenverletzung möglich"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "subcapitale Humerusfraktur",
+      "Schulterluxation",
+      "Hill-Sachs-Läsion",
+      "Rotatorenmanschettenruptur"
+    ],
+    "diagnostic_approach": [
+      "weitere Röntgenaufnahmen",
+      "CT"
+    ]
+  }
+]

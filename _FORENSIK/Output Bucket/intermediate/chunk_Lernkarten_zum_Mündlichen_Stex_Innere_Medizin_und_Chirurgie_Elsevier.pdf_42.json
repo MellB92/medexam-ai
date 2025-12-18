@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 43/84) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischem Wissen zur Glasgow Coma Scale (GCS)** - Tabelle mit Punktesystem\n2. **Diagnostik und Therapie des Schädel-Hirn-Traumas** - allgemeine Leitlinien\n3. **Differentialdiagnosen intrakranieller Blutungen** - systematische Übersicht zu:\n   - Epiduralem Hämatom\n   - Subduralem Hämatom\n   - Subarachnoidalblutung\n   - Intrazerebraler Blutung\n4. **Polytrauma-Management** - ATLS-Protokoll und Reanimationsrichtlinien\n\nAll diese Inhalte sind **Lehrbuchinformationen** und **allgemeine medizinische Leitlinien**, jedoch keine konkreten Patientenfälle mit individuellen Anamnesen, Befunden oder Verläufen.\n\nEs werden zwar klinische Szenarien beschrieben (z.B. \"Vorgehen beim leblosen Patienten\"), aber dies sind **Handlungsanweisungen** für Ärzte, keine dokumentierten Patientenfälle."
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "title": "Akutes Abdomen (traumatisch)",
+    "patient_age": "64-jähriger",
+    "patient_gender": "Mann",
+    "severity": null,
+    "chief_complaints": [
+      "Bauchschmerzen (5/10 NRS)",
+      "Schmerzen an der Handgelenk"
+    ],
+    "accident_mechanism": "Unfall",
+    "pre_existing_conditions": null,
+    "comorbidities": [
+      "10 kg Gewichtszunahme in letzter Zeit"
+    ],
+    "risk_factors": null,
+    "family_history": null,
+    "social_history": null,
+    "medications": null,
+    "allergies": null,
+    "vital_signs": [
+      "Bauch bretthart"
+    ],
+    "physical_examination": null,
+    "imaging_findings": [
+      "Sono von Morisson Pouch mit freier Flüssigkeit"
+    ],
+    "laboratory_findings": null,
+    "suspected_diagnosis": [
+      "Akutes Abdomen (traumatisch)"
+    ],
+    "diagnostic_approach": [
+      "Weitere diagnostische Maßnahmen"
+    ],
+    "treatment_response": null,
+    "complications": null,
+    "follow_up": null
+  },
+  {
+    "title": "Nicht dislozierte distale Skaphoid Fraktur",
+    "patient_age": "64-jähriger",
+    "patient_gender": "Mann",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen an der Handgelenk"
+    ],
+    "accident_mechanism": "Sturz",
+    "pre_existing_conditions": null,
+    "comorbidities": null,
+    "risk_factors": null,
+    "family_history": null,
+    "social_history": null,
+    "medications": null,
+    "allergies": null,
+    "vital_signs": null,
+    "physical_examination": null,
+    "imaging_findings": [
+      "4 Röntgenbilder von Scafoid Fraktur"
+    ],
+    "laboratory_findings": null,
+    "suspected_diagnosis": [
+      "Nicht dislozierte distale Skaphoid Fraktur"
+    ],
+    "diagnostic_approach": null,
+    "treatment_response": null,
+    "complications": [
+      "Komplikationen der Skaphoid Fraktur"
+    ],
+    "follow_up": [
+      "Gips-Therapie"
+    ]
+  },
+  {
+    "title": "Obstruktives Schlafapnoe-Syndrom (OSAS)",
+    "patient_age": "64-jähriger",
+    "patient_gender": "Mann",
+    "severity": null,
+    "chief_complaints": [
+      "Mittagsschläfchen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": null,
+    "comorbidities": [
+      "10 kg Gewichtszunahme in letzter Zeit"
+    ],
+    "risk_factors": null,
+    "family_history": null,
+    "social_history": null,
+    "medications": null,
+    "allergies": null,
+    "vital_signs": null,
+    "physical_examination": null,
+    "imaging_findings": null,
+    "laboratory_findings": null,
+    "suspected_diagnosis": [
+      "Obstruktives Schlafapnoe-Syndrom (OSAS)"
+    ],
+    "diagnostic_approach": [
+      "Polysomnographie",
+      "Sauerstoffmessung"
+    ],
+    "treatment_response": [
+      "CPAP-Therapie"
+    ],
+    "complications": null,
+    "follow_up": null
+  }
+]

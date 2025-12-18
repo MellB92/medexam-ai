@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Erklärungen zu R-Klassifikationen** (R0, R1, R2, RX-Resektion in der Tumorchirurgie)\n\n2. **Frage-Antwort-Paaren zu medizinischem Grundlagenwissen:**\n   - Frage 254: Was ist Bleistiftstuhl? (Definition, Ursachen, Diagnostik)\n   - Frage 255: Warnzeichen von Rückenschmerzen? (Red Flags, Differentialdiagnosen)\n   - Frage 256: Was ist Pseudoradikulopathie und Radikulopathie? (Unterschiede, Diagnostik, Therapie)\n   - Frage 257: Orthese und Verband Unterschied? (Definitionen - abgeschnitten)\n\nEs handelt sich um **didaktisches Material zur Prüfungsvorbereitung** mit theoretischen Konzepten und Differentialdiagnosen, aber **ohne konkrete Patientenfallpräsentationen** mit individuellen Patienten, Anamnese, Untersuchungsbefunden oder spezifischen Behandlungsverläufen."
+  }
+]

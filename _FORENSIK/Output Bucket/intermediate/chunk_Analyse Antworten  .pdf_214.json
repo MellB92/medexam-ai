@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle oder Präsentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen und Antworten** zu verschiedenen medizinischen Themen:\n   - Weber-Klassifikation von Sprunggelenksfrakturen\n   - Ileus (mechanisch vs. paralytisch)\n   - Akuter arterieller Verschluss (nur Bildbeschreibung eines MRT-Angiogramms)\n   - Ultraschall-Technik und -Physik\n   - Röntgen-Interpretation\n   - MRT-Funktionsweise\n   - Strahlenschutzkurs\n\n2. **Musterlösungen und Analyse** von Kandidatenantworten\n\nEs werden zwar einzelne medizinische Entitäten erwähnt (z.B. \"Pneumonie\" im Kontext der Röntgen-Interpretation, \"KM-Abbruch in der linken A. iliaca communis\"), aber diese sind **keine vollständigen Patientenfälle** mit Anamnese, Befunden und klinischem Kontext, sondern lediglich theoretische Beispiele oder Bildbeschreibungen im Rahmen von Prüfungsfragen.\n\nEin klinischer Fall würde typischerweise enthalten:\n- Patientenvorstellung mit Alter/Geschlecht\n- Beschwerden und deren Verlauf\n- Untersuchungsbefunde\n- Diagnostisches Vorgehen\n- Therapieplanung\n\nNichts davon ist hier in vollständiger Form vorhanden."
+  }
+]

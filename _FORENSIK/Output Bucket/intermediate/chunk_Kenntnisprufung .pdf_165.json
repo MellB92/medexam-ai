@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Gastroösophageale Refluxkrankheit bei 62-jähriger Patientin",
+    "patient_age": "62-jährige",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "typische Symptome einer gastroösophagealen Refluxkrankheit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "gesamte körperliche Untersuchung durchgeführt (bis auf neurologische Untersuchung)",
+      "kardiale Auskultation",
+      "Pulstastung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "gastroösophageale Refluxkrankheit",
+      "ACS als Differentialdiagnose zu erwägen"
+    ],
+    "diagnostic_approach": [
+      "EKG zum Ausschluss eines ACS",
+      "Verdachtsdiagnose der Patientin mitgeteilt",
+      "weiteres Vorgehen klären"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "title": "Gallenblasenempyem mit postoperativer Galleleckage und Sepsis",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "abdominelle Beschwerden",
+      "Bauchschmerzen postoperativ"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Gallensteine",
+      "rezidivierende Beschwerden"
+    ],
+    "medications": [
+      "Cefazolin (präoperativ)"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Tachypnoe",
+      "RR unter 100 mmHg"
+    ],
+    "imaging_findings": [
+      "US: Gallenblase mit Steinen",
+      "US: Gallenblasenempyem"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Galleleckage",
+      "Peritonitis",
+      "Sepsis (QuickSOFA positiv)"
+    ],
+    "diagnostic_approach": [
+      "Ultraschall",
+      "QuickSOFA-Kriterien",
+      "Postoperative Kontrolle"
+    ]
+  },
+  {
+    "title": "Beckenfraktur bei Morbus Bechterew",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Morbus Bechterew"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Becken: Frakturlinien",
+      "Iliosakralgelenk: Befund vereinbar mit M. Bechterew"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Beckenfraktur",
+      "Morbus Bechterew"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Becken-Übersicht"
+    ]
+  },
+  {
+    "title": "Kolitis bei Morbus Bechterew",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Morbus Bechterew"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Koloskopie: Kolon mit gelblichen Beulen",
+      "CT: Colon ascendens Kolitis"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kolitis",
+      "chronisch entzündliche Darmerkrankung",
+      "mit Morbus Bechterew assoziiert"
+    ],
+    "diagnostic_approach": [
+      "Koloskopie",
+      "CT Abdomen"
+    ]
+  },
+  {
+    "title": "Rippenfrakturen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax: 2 Rippenfrakturen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "2 Rippenfrakturen"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Thorax",
+      "systematische Röntgenanalyse"
+    ]
+  },
+  {
+    "title": "Patient mit verwaschener Sprache - V.a. Apoplex",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "verwaschene Sprache"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "verwaschene Sprache"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "hämorrhagischer Apoplex",
+      "ischämischer Apoplex"
+    ],
+    "diagnostic_approach": [
+      "CT (Ausschluss Blutung)",
+      "ggf. Lysetherapie oder andere Reperfusion",
+      "bei Hämorrhagie: Neurochirurg konsultieren, ggf. OP"
+    ]
+  },
+  {
+    "title": "Erythema migrans - V.a. Borreliose",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Hautveränderung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Erythema migrans"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Borreliose",
+      "Insektenstich"
+    ],
+    "diagnostic_approach": [
+      "klinische Diagnose"
+    ]
+  },
+  {
+    "title": "Kind mit Beinfraktur in der Schule",
+    "patient_age": "10 Jahre",
+    "patient_gender": null,
+    "chief_complaints": [
+      "Beinfraktur"
+    ],
+    "accident_mechanism": "Unfall in der Schule",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Knie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Beinfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen"
+    ]
+  },
+  {
+    "title": "Belastungsdyspnoe und Hämoptysen bei COPD - Frau Jutta Ritter",
+    "patient_age": "69 Jahre (geb. 07.07.1955)",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Husten mit Auswurf",
+      "Belastungsdyspnoe",
+      "Hämoptysen",
+      "Orthopnoe"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "COPD",
+      "chronische Bronchitis",
+      "arterielle Hypertonie (seit 5 Jahren)",
+      "Gicht",
+      "Cholezystektomie vor 40 Jahren",
+      "Z.n. Autounfall vor 20 Jahren mit Schwerverletzung linkes Bein und Beckenbruch",
+      "30% Schwerbehinderung"
+    ],
+    "medications": [
+      "Lisinopril 1-0-0",
+      "Spiriva 1-0-0",
+      "Salbutamol b.B.",
+      "Dulcolax b.B."
+    ],
+    "allergies": [
+      "Nikotinkonsum seit 40 Jahren (früher 30-40 Zigaretten/Tag, seit 10 Jahren 20 Zigaretten/Tag)",
+      "Alkohol 1-2 Flaschen Bier täglich"
+    ],
+    "physical_examination": [
+      "Mobilisation mit Gehstock"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Einweisung ins Krankenhaus zur weiteren Abklärung"
+    ]
+  }
+]

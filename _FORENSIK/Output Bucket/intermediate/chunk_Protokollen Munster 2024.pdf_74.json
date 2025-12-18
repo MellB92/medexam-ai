@@ -1,0 +1,50 @@
+[
+  {
+    "title": "67-jährige Frau nach Sturz mit Bewegungsunfähigkeit des Beins",
+    "patient_age": "67 Jahre",
+    "patient_gender": "weiblich",
+    "severity": "severe",
+    "chief_complaints": [
+      "kann das Bein nicht mehr bewegen",
+      "Herzrhythmusstörung (HRS)"
+    ],
+    "accident_mechanism": "gestern Nacht gestürzt auf der Seite",
+    "pre_existing_conditions": [
+      "DM Typ 2",
+      "Z.n. Cholezystektomie",
+      "TVT (Tiefe Venenthrombose)",
+      "Anal Fistel"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Diabetes mellitus Typ 2",
+      "Z.n. TVT",
+      "höheres Alter"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "komplette körperliche Untersuchung durchgeführt",
+      "alle Pulse getastet (Carotis, radial, ulnar, femoral, tibial posterior, pedis dorsalis)",
+      "Auskultation an ICR",
+      "neurologische Untersuchung mit Reflexen und deren Namen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schenkelhalsfraktur nach Sturz",
+      "traumatische Hüftfraktur"
+    ],
+    "diagnostic_approach": [
+      "körperliche Untersuchung",
+      "Pulsstatus",
+      "neurologische Untersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

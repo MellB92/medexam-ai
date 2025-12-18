@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 62/148) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Theoretische Information zu Diabetes** (Prävalenz, Diagnostik, Therapieziele)\n2. **Frage 172**: Allgemeine Frage zu Nebenwirkungen von Novalgin (Metamizol) - **keine konkrete Patientenpräsentation**\n3. **Frage 173**: Differentialdiagnosen von Nackensteifigkeit - **theoretische DD-Liste ohne konkreten Patientenfall**\n4. **Frage 174**: Erklärung des cABCDE-Schemas - **reines Theoriewissen**\n5. **Frage 175**: Erklärung der 5A-Regel zur Raucherentwöhnung - **konzeptionelles Wissen, am Ende abgeschnitten**\n\nEs handelt sich ausschließlich um **Wissensfragen mit theoretischen Antworten**, nicht um konkrete Patientenpräsentationen mit Anamnese, Befunden und diagnostischem Vorgehen bei einem spezifischen Fall."
+  }
+]

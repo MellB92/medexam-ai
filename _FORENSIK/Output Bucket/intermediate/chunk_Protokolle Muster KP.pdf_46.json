@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Rotatorenmanschette Ruptur und Spondylolisthesis bei DM Typ 1 und Asthma",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 1",
+      "Asthma bronchiale"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rotatorenmanschette Ruptur",
+      "Spondylolisthesis"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Pyrosis nach Ibuprofen-Einnahme bei Z.n. Motorradunfall",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Pyrosis seit 5 Wochen",
+      "Verschlechterung in den letzten 2 Wochen"
+    ],
+    "accident_mechanism": "Motorradunfall vor 5 Monaten",
+    "pre_existing_conditions": [
+      "Z.n. Ellenbogenfraktur (operativ versorgt)"
+    ],
+    "medications": [
+      "Ibuprofen (vermehrt in letzter Woche wegen Schmerzen)"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Ausschluss pectanginöse Symptomatik",
+      "Ausschluss Pankreatitis"
+    ]
+  }
+]

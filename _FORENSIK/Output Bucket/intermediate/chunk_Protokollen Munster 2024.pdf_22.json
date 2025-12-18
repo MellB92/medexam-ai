@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Prüfungsfragen und theoretischen Diskussionen** zu verschiedenen medizinischen Themen:\n   - Traumatologie (Aortenverletzung, Zwerchfellverletzung)\n   - Mesenteriale Ischämie (theoretische Erklärung)\n   - Nervus accessorius Verletzung (hypothetisches Szenario)\n   - Leukämie-Einteilung (theoretisches Wissen)\n   - CML und Philadelphia-Chromosom (theoretisches Wissen)\n   - Arterielle Hypertonie (theoretische Therapiediskussion)\n   - Pharmakologie (Thiamazol, Betablocker, Diuretika)\n\n2. **Bildbesprechungen ohne vollständige Fallpräsentation**:\n   - CT-Bild mit messenterialer Ischämie (nur radiologischer Befund ohne Patientenkontext)\n   - EKG mit Linksherzhypertrophie (nur EKG-Befund ohne klinischen Kontext)\n   - Röntgen-Thorax mit Lobärpneumonie (nur radiologischer Befund ohne Patientenkontext)\n\nEs fehlen bei allen erwähnten Szenarien die wesentlichen Elemente eines vollständigen klinischen Falls (Patient mit Anamnese, Symptomen, Untersuchungsbefunden, diagnostischem Vorgehen). Die Inhalte sind reine Wissensfragen aus einer mündlichen Prüfung."
+  }
+]

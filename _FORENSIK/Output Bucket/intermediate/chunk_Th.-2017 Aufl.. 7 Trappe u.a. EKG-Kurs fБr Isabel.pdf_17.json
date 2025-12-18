@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 18/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\" von Trappe) und enthält **keine klinischen Patientenfälle**.\n\nDer Text behandelt ausschließlich theoretische Inhalte zu:\n- Lagetypen des Herzens im EKG (Rechtstyp, Linkstyp, etc.)\n- Einflüsse verschiedener Pathologien auf die elektrische Herzachse (z.B. rechtsventrikuläre Hypertrophie, Myokardinfarkte)\n- Intraventrikuläre Erregungsleitungsstörungen (Hemiblöcke)\n- Differentialdiagnosen bei überdrehtem Linkstyp\n\nEs handelt sich um didaktisches Lehrmaterial mit Abbildungen und theoretischen Erklärungen, jedoch ohne konkrete Patientenbeispiele oder Fallpräsentationen."
+  }
+]

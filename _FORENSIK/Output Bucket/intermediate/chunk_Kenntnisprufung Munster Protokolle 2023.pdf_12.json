@@ -1,0 +1,245 @@
+[
+  {
+    "title": "Rheumatoide Arthritis",
+    "patient_age": "1987 geboren",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Gelenkschmerzen in Fingern und Zehen",
+      "Morgensteifigkeit bis 30 Min.",
+      "Abgeschlagenheit",
+      "Fieber bis 38 Grad",
+      "4 Kg Gewichtsabnahme in 5 Monaten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypothyreose",
+      "Herzstolpern"
+    ],
+    "comorbidities": null,
+    "risk_factors": null,
+    "family_history": null,
+    "social_history": null,
+    "medications": [
+      "Ibuprofen 600 mg 1-1-1-1",
+      "125 ug L Thyrox"
+    ],
+    "allergies": null,
+    "vital_signs": [
+      "Handdruck und passive sowie aktive Finger- und Zehenbewegungen schmerzhaft"
+    ],
+    "physical_examination": null,
+    "imaging_findings": [
+      "Bilder von Hand mit typischen pathologischen Veränderungen bei Rheuma"
+    ],
+    "laboratory_findings": [
+      "CRP und BSG"
+    ],
+    "suspected_diagnosis": [
+      "Rheumatoide Arthritis"
+    ],
+    "diagnostic_approach": [
+      "EULAR Kriterien"
+    ],
+    "treatment_response": [
+      "Therapie-Erfolg durch Glucocorticoide unter Magenschutz"
+    ],
+    "complications": [
+      "Kribbelgefühl an linker Hand (Karpal-Tunnel-Syndrom)"
+    ],
+    "follow_up": null
+  },
+  {
+    "title": "Aortenklappenstenose",
+    "patient_age": "75J",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": null,
+    "accident_mechanism": null,
+    "pre_existing_conditions": null,
+    "comorbidities": null,
+    "risk_factors": null,
+    "family_history": null,
+    "social_history": null,
+    "medications": null,
+    "allergies": null,
+    "vital_signs": null,
+    "physical_examination": [
+      "Spindelförmiges Holosystolikum"
+    ],
+    "imaging_findings": [
+      "EKG: Sinusrhythmus LT mit ST-Senkung und T-Negativierung in V3 bis V6 und I, AVL"
+    ],
+    "laboratory_findings": null,
+    "suspected_diagnosis": [
+      "Aortenklappenstenose"
+    ],
+    "diagnostic_approach": null,
+    "treatment_response": null,
+    "complications": [
+      "Nitrategabe kontraindiziert"
+    ],
+    "follow_up": [
+      "Therapie-Optionen für Aortenklappenstenose"
+    ]
+  },
+  {
+    "title": "Pankreaskopfkarzinom",
+    "patient_age": "71J",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Augen sind gelb geworden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": null,
+    "comorbidities": null,
+    "risk_factors": null,
+    "family_history": null,
+    "social_history": null,
+    "medications": null,
+    "allergies": null,
+    "vital_signs": null,
+    "physical_examination": [
+      "Patientin ist fit und kommt aus dem Urlaub"
+    ],
+    "imaging_findings": [
+      "Sonographie: Pankreaskopfkarzinom"
+    ],
+    "laboratory_findings": [
+      "Ikterus ohne Schmerzen"
+    ],
+    "suspected_diagnosis": [
+      "Pankreaskopfkarzinom"
+    ],
+    "diagnostic_approach": [
+      "Sonographie zur Abklärung des Ikterus"
+    ],
+    "treatment_response": null,
+    "complications": null,
+    "follow_up": [
+      "OP: Kausch-Whipple-Operation",
+      "Vermeidung von Dumping-Syndrom durch Pylorus-erhaltende OP"
+    ]
+  },
+  {
+    "title": "Hohlorgan-Perforation",
+    "patient_age": "17J",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Bauchschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": null,
+    "comorbidities": null,
+    "risk_factors": null,
+    "family_history": null,
+    "social_history": null,
+    "medications": null,
+    "allergies": null,
+    "vital_signs": null,
+    "physical_examination": [
+      "Sonographie: freie Luft im Abdomen"
+    ],
+    "imaging_findings": null,
+    "laboratory_findings": null,
+    "suspected_diagnosis": [
+      "Hohlorgan-Perforation"
+    ],
+    "diagnostic_approach": null,
+    "treatment_response": null,
+    "complications": null,
+    "follow_up": null
+  },
+  {
+    "title": "Ethanol-Intoxikation",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": null,
+    "accident_mechanism": null,
+    "pre_existing_conditions": null,
+    "comorbidities": null,
+    "risk_factors": null,
+    "family_history": null,
+    "social_history": null,
+    "medications": null,
+    "allergies": null,
+    "vital_signs": null,
+    "physical_examination": null,
+    "imaging_findings": [
+      "CT Schädel ohne pathologischen Befund"
+    ],
+    "laboratory_findings": null,
+    "suspected_diagnosis": [
+      "Ethanol-Intoxikation"
+    ],
+    "diagnostic_approach": null,
+    "treatment_response": null,
+    "complications": [
+      "Erbrechen (Elektrolyt-Verluste)"
+    ],
+    "follow_up": [
+      "Therapie mit Schmerzmitteln"
+    ]
+  },
+  {
+    "title": "Hallux valgus",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": null,
+    "accident_mechanism": null,
+    "pre_existing_conditions": null,
+    "comorbidities": null,
+    "risk_factors": null,
+    "family_history": null,
+    "social_history": null,
+    "medications": null,
+    "allergies": null,
+    "vital_signs": null,
+    "physical_examination": null,
+    "imaging_findings": [
+      "Röntgen Vorfuß: Osteopenie und Hallux valgus"
+    ],
+    "laboratory_findings": null,
+    "suspected_diagnosis": [
+      "Hallux valgus"
+    ],
+    "diagnostic_approach": null,
+    "treatment_response": null,
+    "complications": null,
+    "follow_up": [
+      "Therapie der Hallux-valgus-Deformität"
+    ]
+  },
+  {
+    "title": "Humerusschaftfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": null,
+    "accident_mechanism": null,
+    "pre_existing_conditions": null,
+    "comorbidities": null,
+    "risk_factors": null,
+    "family_history": null,
+    "social_history": null,
+    "medications": null,
+    "allergies": null,
+    "vital_signs": null,
+    "physical_examination": null,
+    "imaging_findings": null,
+    "laboratory_findings": null,
+    "suspected_diagnosis": [
+      "Humerusschaftfraktur"
+    ],
+    "diagnostic_approach": null,
+    "treatment_response": null,
+    "complications": null,
+    "follow_up": [
+      "Therapie-Optionen für Humerusschaftfraktur"
+    ]
+  }
+]

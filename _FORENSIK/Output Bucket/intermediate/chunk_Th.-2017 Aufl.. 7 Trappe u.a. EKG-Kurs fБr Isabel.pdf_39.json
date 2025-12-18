@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 40/111) aus einem EKG-Lehrbuch enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text behandelt:\n- Theoretische Informationen zum langen QT-Syndrom\n- Pathophysiologische Erklärungen (Bazett-Formel, QT-Zeit-Berechnung)\n- Klassifikationen (angeborene vs. erworbene QT-Syndrome)\n- Syndrom-Beschreibungen (Jervell-Lange-Nielsen-Syndrom, Romano-Ward-Syndrom)\n- Ursachenlisten (Medikamente, Elektrolytstörungen, kardiale Erkrankungen)\n- EKG-Kriterien und -Befunde (Torsade-de-pointes-Tachykardie)\n- Abbildungen von EKG-Kurven\n\nEs handelt sich um **didaktisches Lehrmaterial** ohne konkrete Patientenfälle mit individuellen Anamnesen, Befunden oder diagnostischen Verläufen."
+  }
+]

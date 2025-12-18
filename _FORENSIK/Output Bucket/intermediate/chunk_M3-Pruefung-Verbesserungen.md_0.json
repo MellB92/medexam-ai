@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieses Dokument enthält **keine klinischen Präsentationsfälle**. Es handelt sich um ein **Meta-Analyse-Dokument**, das systematische Verbesserungen und Ergänzungen für M3-Prüfungsfragen beschreibt.\n\nDas Dokument enthält:\n- Strukturelle Verbesserungen einer Fragendatenbank\n- Korrekturen und Ergänzungen zu medizinischen Themen\n- Dosierungsangaben und Klassifikationssysteme\n- Leitlinien-Updates\n- Qualitätsverbesserungen\n\nEs werden zwar **954 Fragen** erwähnt und verschiedene medizinische Themen behandelt (Anaphylaxie, Reanimation, Herzinsuffizienz, etc.), aber es werden **keine konkreten Patientenfälle** mit Anamnese, Befunden und diagnostischem Vorgehen präsentiert.\n\nDie Erwähnungen wie \"Fragen 2, 3, 17, 39, 40, 42, 44\" sind lediglich **Referenzen** auf Fragen in einer anderen Datenbank, nicht die Fälle selbst."
+  }
+]

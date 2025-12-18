@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Patient mit plötzlichem Kreislaufstillstand in der Praxis\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"plötzlicher Kreislaufstillstand\", \"bewusstlos\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Bewusstlosigkeit\", \"fehlende Atmung\", \"fehlender Carotispuls\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Kreislaufstillstand\"],\n    \"diagnostic_approach\": [\"Bewusstsein prüfen (Ansprechen, Schmerzreiz)\", \"Atemkontrolle max. 10 Sekunden\", \"Carotispuls prüfen max. 10 Sekunden\", \"Notruf 112\", \"30:2 Thoraxkompressionen/Beatmung\", \"Frequenz 100-120/min, Drucktiefe 5-6 cm\", \"Frühestmögliche Defibrillation bei VF/pVT\", \"i.v.-Zugang\", \"Adrenalin 1mg i.v. alle 3-5 min\", \"Amiodaron 300mg i.v. bei VF/pVT nach 3. Schock\"]\n  }\n]\n```"
+  }
+]

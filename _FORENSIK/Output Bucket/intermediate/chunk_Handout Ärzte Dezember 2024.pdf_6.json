@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 7/9) enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer Inhalt besteht ausschließlich aus:\n\n1. **Diagnostischen Referenzwerten** für verschiedene bildgebende Verfahren (CT, Röntgen, Mammographie)\n2. **Dosisangaben** (DLP, CTDI, effektive Dosis in mSv)\n3. **Regulatorischen Vorgaben**:\n   - Leitlinien der Bundesärztekammer\n   - Dokumentationspflichten\n   - Archivierungsfristen\n   - Teleradiologie-Regelungen\n4. **Qualitätssicherungsmaßnahmen**:\n   - Abnahmeprüfungen\n   - Sachverständigenprüfungen\n   - Konstanzprüfungen\n5. **Strahlenschutzmaßnahmen** und allgemeine Informationen zu Strahlenbelastungen\n\nEs handelt sich um ein **Lehrdokument/Handout** mit technischen und regulatorischen Informationen für Ärzte, nicht um Patientenfalldarstellungen."
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "title": "Akute Pankreatitis bei Alkoholabusus",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "akute Pankreatitis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "C2-Abusus (Alkoholabusus)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Alkoholabusus"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Alkoholabusus"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Abdomensonographie: Pankreas oberhalb des Confluens der V. Portae sowie Leberlappe"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "akute Pankreatitis",
+      "biliäre Pankreatitis als Differentialdiagnose"
+    ],
+    "diagnostic_approach": [
+      "Labor",
+      "Ultraschall",
+      "Abdomensonographie in Oberbauchquerschnitt"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Herzinsuffizienz mit Linksschenkelblock",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Herzinsuffizienz"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Herzzeitminute ca. 5 L/min",
+      "EF 50%"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rö Thorax a.p.: pulmonale Stauung",
+      "Herz-Thorax-Quotient >0,5",
+      "Echokardiographie mit Vierkammerblick"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Herzinsuffizienz",
+      "Ischämie"
+    ],
+    "diagnostic_approach": [
+      "Rö Thorax a.p.",
+      "EKG",
+      "Echokardiographie"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "kompletter Linksschenkelblock"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Schenkelhalsfraktur Garden 1 bei Coxarthrose",
+    "patient_age": "80J",
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Coxarthrose"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Coxarthrose"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "hohes Alter"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen: eingetauchte Schenkelhalsfraktur",
+      "Klassifikation Garden 1",
+      "Coxarthrosezeichen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schenkelhalsfraktur Garden 1",
+      "Coxarthrose"
+    ],
+    "diagnostic_approach": [
+      "Röntgen",
+      "Klassifikation nach Garden und Pauwells"
+    ],
+    "treatment_response": [
+      "Patient will keine Operation"
+    ],
+    "complications": [
+      "erhöhtes Risiko von Dislokation",
+      "Pseudarthrose",
+      "Femurkopfnekrose"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Katzenbiss linke Hand",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "mild",
+    "chief_complaints": [
+      "Katzenbiss in linker Hand"
+    ],
+    "accident_mechanism": "Katzenbiss",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Biss in linker Hand"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Katzenbiss",
+      "möglicher Abszess"
+    ],
+    "diagnostic_approach": [
+      "chirurgische Beurteilung bei Abszessverdacht"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "möglicher Abszess"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Erysipel",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Erysipel"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Bild von Erysipel (Blickdiagnose)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Erysipel"
+    ],
+    "diagnostic_approach": [
+      "Blickdiagnose"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Hallux valgus",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "mild",
+    "chief_complaints": [
+      "Hallux valgus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Großzeh in Valgusstellung"
+    ],
+    "imaging_findings": [
+      "Pseudoexostose"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hallux valgus",
+      "DD Podagra"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Überknöcherung (Pseudoexostose)"
+    ],
+    "follow_up": []
+  }
+]

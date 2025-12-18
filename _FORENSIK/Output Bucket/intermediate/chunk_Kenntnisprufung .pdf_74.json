@@ -1,0 +1,133 @@
+[
+  {
+    "title": "Divertikulitis mit Unterbauchschmerzen links",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Stechende, plötzliche Unterbauchschmerzen links seit 5 Tagen ohne Ausstrahlung",
+      "Fieber 38,5°C ohne Schüttelfrost",
+      "Abwechslung zwischen Obstipation und Diarrhö seit Jahren"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypertonie",
+      "Chronische Obstipation/Diarrhö-Wechsel seit Jahren",
+      "Zustand nach Cholezystektomie",
+      "Zustand nach Appendektomie",
+      "Verletzung des Sprunggelenks links vor 1 Jahr"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater gestorben an Unfall",
+      "Mutter im Heim"
+    ],
+    "social_history": [
+      "Schauspielerin"
+    ],
+    "medications": [
+      "Lisinopril 1-0-0"
+    ],
+    "allergies": [
+      "Amoxicillin"
+    ],
+    "vital_signs": [
+      "Fieber 38,5°C"
+    ],
+    "physical_examination": [
+      "Körperliche Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [
+      "Sonographie: Divertikulitis mit Wandverdickung und Flüssigkeit",
+      "Nativ CT Thorax: Infiltration der Lunge rechts",
+      "Röntgen Sprunggelenk",
+      "EKG: VT"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Divertikulitis"
+    ],
+    "diagnostic_approach": [
+      "Sonographie",
+      "EKG",
+      "Nativ CT Thorax",
+      "Röntgen Sprunggelenk"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "VT im EKG"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Subkapitale proximale Humerusfraktur nach Sturz von Leiter",
+    "patient_age": "34-jährige",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen am linken Oberarm VAS 9",
+      "Leichte Übelkeit"
+    ],
+    "accident_mechanism": "Sturz von einer Leiter auf die linke Seite",
+    "pre_existing_conditions": [
+      "Morbus Crohn seit 5 Jahren, aktuell kein Schub",
+      "Zustand nach Splenektomie vor 2 Jahren nach Motorradunfall",
+      "Zustand nach Analabszess mit 18 Jahren"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater mit 55 Jahren verstorben an Leberkarzinom",
+      "Mutter hat TVT, mit Kompressionsstrümpfen versorgt"
+    ],
+    "social_history": [
+      "Erzieherin"
+    ],
+    "medications": [
+      "Prednisolon",
+      "Sulfasalazin",
+      "Morphin i.v. vom Rettungsdienst"
+    ],
+    "allergies": [
+      "Schimmelpilzallergie"
+    ],
+    "vital_signs": [
+      "Vitalparameter gemessen"
+    ],
+    "physical_examination": [
+      "VIGGO-Stelle geschwollen",
+      "DMS intakt",
+      "Eigenreflexe: Patella, Achilles, Biceps, Triceps geprüft",
+      "CVI-Untersuchung: Inspektion und Palpation",
+      "Innere medizinische körperliche Untersuchung vom Auge bis Fuß"
+    ],
+    "imaging_findings": [
+      "Röntgen linker Oberarm und linke Schulter: subkapitale proximale Humerusfraktur",
+      "CT: Milzruptur (alt)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "V.a. proximale Humerusfraktur",
+      "Bestätigt: subkapitale proximale Humerusfraktur, OP-pflichtig"
+    ],
+    "diagnostic_approach": [
+      "Vitalparameter",
+      "Körperliche Untersuchung",
+      "DMS-Prüfung",
+      "Röntgen linker Oberarm und Schulter"
+    ],
+    "treatment_response": [
+      "i.v. Schmerzmedikament vom Rettungsdienst gegeben, aber weiterhin VAS 9"
+    ],
+    "complications": [
+      "VIGGO-Stelle geschwollen",
+      "Persistierende starke Schmerzen trotz Schmerztherapie"
+    ],
+    "follow_up": [
+      "OP-Indikation wegen dislozierter Fraktur",
+      "Ruhigstellung mit Gilchrist",
+      "Physiotherapie"
+    ]
+  }
+]

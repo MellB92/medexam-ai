@@ -1,0 +1,76 @@
+{
+  "validated_at": "2025-12-18T16:12:18.290729",
+  "agent": "Opus 4.5 #1",
+  "validation_type": "manual",
+  "sample_size": 10,
+  "results": [
+    {
+      "item_id": "evidenz_4345",
+      "score": 3,
+      "status": "✅ PASSED",
+      "notes": "Gut strukturiert, Hinchey-Klassifikation, differenzierte AB-Empfehlung"
+    },
+    {
+      "item_id": "evidenz_2245",
+      "score": 3,
+      "status": "✅ PASSED",
+      "notes": "Cor pulmonale korrekt beschrieben, Echokardiographie als Diagnostik"
+    },
+    {
+      "item_id": "evidenz_2066",
+      "score": 3,
+      "status": "✅ PASSED",
+      "notes": "PCV13/15/20-Schema korrekt, Risikogruppen definiert"
+    },
+    {
+      "item_id": "evidenz_4413",
+      "score": 4,
+      "status": "✅ PASSED",
+      "notes": "Exzellent: ELN-Kriterien, Philadelphia-Chromosom, BCR-ABL erklärt"
+    },
+    {
+      "item_id": "evidenz_3043",
+      "score": 3,
+      "status": "✅ PASSED",
+      "notes": "ABPM korrekt erklärt, Weißkittelhypertonie/maskierte HT differenziert"
+    },
+    {
+      "item_id": "evidenz_2688",
+      "score": 4,
+      "status": "✅ PASSED",
+      "notes": "Exzellent: AWMF 088-001 zitiert, alle Verfahren korrekt"
+    },
+    {
+      "item_id": "evidenz_2669",
+      "score": 2,
+      "status": "⚠️ MINOR ISSUES",
+      "notes": "RöV veraltet (StrlSchG seit 2019), Grundaussage aber korrekt"
+    },
+    {
+      "item_id": "evidenz_2280",
+      "score": 3,
+      "status": "✅ PASSED",
+      "notes": "Depolarisierende/nicht-depolarisierende Relaxantien korrekt"
+    },
+    {
+      "item_id": "evidenz_4482",
+      "score": 3,
+      "status": "✅ PASSED",
+      "notes": "AWMF 030-060 zitiert, Spastizität nach Ashworth korrekt"
+    },
+    {
+      "item_id": "evidenz_2222",
+      "score": 3,
+      "status": "✅ PASSED",
+      "notes": "Indikationen für Verbrennungszentrum vollständig"
+    }
+  ],
+  "summary": {
+    "total_validated": 10,
+    "passed": 9,
+    "minor_issues": 1,
+    "failed": 0,
+    "average_score": 3.1,
+    "pass_rate": 90.0
+  }
+}

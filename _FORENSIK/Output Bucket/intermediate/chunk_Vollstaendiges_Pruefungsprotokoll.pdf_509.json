@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Zunehmende Adynamie, Husten und Wadenschmerzen bei Belastung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Zunehmende Adynamie",
+      "Husten",
+      "Schmerzen in der linken Wade bei Gehstrecken über 200 Meter"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Periphere arterielle Verschlusskrankheit (pAVK)",
+      "Tiefe Venenthrombose (TVT)",
+      "Lungenembolie",
+      "Herzinsuffizienz",
+      "Infektion"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Arterielle Hypertonie mit Nebennierentumor und Wirbelkörperfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Wirbelkörperfraktur"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Abdomensonografie: unregelmäßige Raumforderung im oberen Pol der rechten Niere, verdächtig auf Nebennierentumor",
+      "Röntgen LWS in 2 Ebenen"
+    ],
+    "laboratory_findings": [
+      "Elektrolyte",
+      "Nierenwerte",
+      "Leberwerte",
+      "Entzündungsparameter",
+      "Blutbild",
+      "Gerinnung",
+      "Renin/Aldosteron",
+      "Metanephrin und Normetanephrin",
+      "Cortisol"
+    ],
+    "suspected_diagnosis": [
+      "Phäochromozytom",
+      "Nebennierentumor"
+    ],
+    "diagnostic_approach": [
+      "Abdomensonografie zur Beurteilung von Nieren, Nebennieren, Leber und Milz",
+      "Langzeitblutdruckmessung",
+      "Röntgen LWS in 2 Ebenen",
+      "Optional: CT-Abdomen",
+      "Laboruntersuchungen: Elektrolyte, Nierenwerte, Leberwerte, Entzündungsparameter, Blutbild, Gerinnung, Renin/Aldosteron, Metanephrin und Normetanephrin, Cortisol",
+      "Präoperative Blutdruckeinstellung mit Phenoxybenzamin",
+      "Operative Entfernung des Tumors"
+    ]
+  }
+]

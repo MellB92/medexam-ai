@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Kind mit Tollkirschenvergiftung (anticholinerges Syndrom)",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Vergiftung",
+      "hat im Wald blauschwarze Beeren (Tollkirsche) gegessen"
+    ],
+    "accident_mechanism": "Ingestion von Tollkirschen (blauschwarze Beeren) im Wald",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "kommt mit den Eltern"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Symptome eines anticholinergen Syndroms"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Anticholinerges Syndrom",
+      "Tollkirschenvergiftung"
+    ],
+    "diagnostic_approach": [
+      "Giftnotrufzentrale anrufen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

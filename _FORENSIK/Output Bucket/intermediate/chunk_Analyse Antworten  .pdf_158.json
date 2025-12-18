@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Mantelpneumothorax mit Verdacht auf Bronchialkarzinom\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\n      \"Röntgen-Thorax in a.p. Aufnahme zeigt Mantelpneumothorax\",\n      \"Lunge von der Thoraxwand abgehoben\",\n      \"Pleura visceralis sichtbar\",\n      \"Zentrale Raumforderung mit V.a. Bronchialkarzinom\"\n    ],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Mantelpneumothorax\",\n      \"Verdacht auf Bronchialkarzinom\",\n      \"DD: andere zentrale Lungentumore\",\n      \"DD: Lymphknotenvergrößerungen\",\n      \"DD: Granulome\"\n    ],\n    \"diagnostic_approach\": [\n      \"Röntgen-Thorax a.p.\"\n    ]\n  }\n]\n```"
+  }
+]

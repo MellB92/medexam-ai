@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Distale Radiusfraktur nach Sturz mit Kompartmentsyndrom",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Sturz auf Hand",
+      "Deformität"
+    ],
+    "accident_mechanism": "Sturz auf Hand",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Deformität bei Inspektion",
+      "DMS geprüft"
+    ],
+    "imaging_findings": [
+      "Distale Radiusfraktur/Colles-Fraktur mit Gelenkbeteiligung",
+      "Scaphoidfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Distale Radiusfraktur (Colles-Fraktur)",
+      "Scaphoidfraktur"
+    ],
+    "diagnostic_approach": [
+      "Inspektion",
+      "Palpation (DMS)",
+      "Röntgen Handgelenk"
+    ],
+    "treatment_response": [
+      "Operative Versorgung mit winkelstabiler Platten-Osteosynthese und Schrauben",
+      "Gipsschiene",
+      "Wiederherstellung der Radiuslänge und des Böhler-Winkels"
+    ],
+    "complications": [
+      "Kompartmentsyndrom 2 Stunden nach Gipsverband",
+      "Starke Schmerzen",
+      "Drucksteigerung in Muskellogen durch zu engen Gips"
+    ],
+    "follow_up": [
+      "Sofortige Gipsentfernung",
+      "DMS-Prüfung",
+      "Hochlagerung und Kühlung",
+      "Fasziotomie",
+      "Sekundäre Wundheilung nach Beschwerdelinderung"
+    ]
+  },
+  {
+    "title": "Bauchaortenaneurysma als Zufallsbefund",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "asymptomatisch - Zufallsbefund"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Vergrößerung der Bauchaorta auf 5 cm im Ultraschall"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bauchaortenaneurysma"
+    ],
+    "diagnostic_approach": [
+      "Ultraschall (Zufallsbefund)"
+    ],
+    "treatment_response": [
+      "Blutdruckkontrolle zur Rupturrisiko-Linderung",
+      "Stent oder Netz entlang der Aorta zur Wiederherstellung des echten Lumens"
+    ],
+    "complications": [
+      "Potentielles Rupturrisiko bei Größe über 6 cm",
+      "Bei Ruptur: Schockzeichen"
+    ],
+    "follow_up": []
+  }
+]

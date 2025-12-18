@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Präsentationsfälle**. \n\nDer Text besteht aus:\n\n1. **Therapierichtlinien** für verschiedene Herzrhythmusstörungen (ventrikuläre Tachykardie, Kammerflimmern)\n2. **Pharmakologische Lehrinhalte** über Diuretika (Wirkmechanismen, Indikationen, Nebenwirkungen)\n3. **Theoretisches Wissen** über verschiedene Diuretikaklassen und ihre Angriffspunkte\n4. **CHECK-UP Fragen** (keine Patientenfälle)\n\nEs werden zwar **Krankheitszustände erwähnt** (z.B. \"ventrikuläre Tachykardie nach Digitalisintoxikation\", \"Kammerflimmern\"), aber diese sind als **allgemeine therapeutische Empfehlungen** formuliert, nicht als konkrete Patientenfälle mit individuellen Charakteristika.\n\nEin klinischer Fall würde einen spezifischen Patienten mit Alter, Geschlecht, konkreter Anamnese und Befunden beschreiben - dies ist hier nicht gegeben."
+  }
+]

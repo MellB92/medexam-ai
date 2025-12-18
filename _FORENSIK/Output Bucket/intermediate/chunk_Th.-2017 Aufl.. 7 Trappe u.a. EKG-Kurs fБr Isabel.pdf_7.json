@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 8/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle**.\n\nDer Text behandelt ausschließlich:\n- Technische Grundlagen der EKG-Ableitung (Kalibrierung, Papiervorschub)\n- Anatomische Zuordnung der verschiedenen EKG-Ableitungen zu Herzregionen\n- Erklärung der Brustwandableitungen (V1-V9, VR-Ableitungen)\n- Theoretische Konzepte wie reziproke Veränderungen bei Myokardinfarkten\n\nEs handelt sich um didaktisches Lehrmaterial ohne konkrete Patientenpräsentationen. Der erwähnte \"akute inferiore Infarkt\" ist ein theoretisches Beispiel zur Erklärung von EKG-Mustern, kein vollständiger klinischer Fall mit Patientendetails, Anamnese oder diagnostischem Vorgehen."
+  }
+]

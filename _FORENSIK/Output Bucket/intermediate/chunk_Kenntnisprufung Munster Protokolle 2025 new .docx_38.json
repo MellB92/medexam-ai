@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Inzidentalom bei neu diagnostizierter arterieller Hypertonie\",\n    \"patient_age\": \"69 Jahre\",\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\n      \"Bluthochdruck 165 mmHg\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Rückenschmerzen seit 20 Jahren aufgrund Beckenbruchs\",\n      \"belastungsabhängige Dyspnoe\",\n      \"Fersenschmerzen\"\n    ],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\n      \"Sonographie rechte Flankenregion: auffälliger Befund\",\n      \"Sonographie: echoarme Raumforderung am vorderen Nierenpol\",\n      \"Nebennierenadenom\"\n    ],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Sekundäre arterielle Hypertonie\",\n      \"Nebennierenadenom\",\n      \"Conn-Syndrom\",\n      \"Cushing-Syndrom\",\n      \"Phäochromozytom\",\n      \"Inzidentalom\"\n    ],\n    \"diagnostic_approach\": [\n      \"Anamnese\",\n      \"Körperliche Untersuchung\",\n      \"Sonographie rechte Flankenregion\",\n      \"Aldosteron/Renin-Quotient\",\n      \"Serumbestimmung Cortisol\",\n      \"Urinbestimmung\",\n      \"Mitternachtscortisol (zirkadianer Rhythmus)\",\n      \"ACTH-Bestimmung\"\n    ]\n  }\n]\n```"
+  }
+]

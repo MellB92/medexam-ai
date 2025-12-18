@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 11/32) enthält **keine vollständigen klinischen Patientenpräsentationen**.\n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** zu verschiedenen medizinischen Themen:\n   - Thrombozytopenie-Ursachen\n   - DIC (Disseminierte intravasale Koagulopathie)\n   - ITP-Therapie\n   - HIT (Heparin-induzierte Thrombozytopenie)\n   - Pseudomembranöse Kolitis\n   - Distale Radiusfraktur\n   - Kompartmentsyndrom\n\n2. **Einer Meta-Auflistung** am Ende, die Fragen aus einem Prüfungsprotokoll katalogisiert\n\nEs gibt **keinen strukturierten Patientenfall** mit:\n- Konkreter Patientenvorstellung (Alter, Geschlecht, Anamnese)\n- Spezifischer Symptomatik eines individuellen Patienten\n- Untersuchungsbefunden eines konkreten Falls\n- Diagnostischem Vorgehen bei einem bestimmten Patienten\n\nDer einzige Hinweis auf einen möglichen Fall ist die erste Frage *\"Stellen Sie Ihre Patientin vor?\"*, aber die tatsächliche Patientenpräsentation fehlt - es folgen nur theoretische Antworten zu Thrombozytopenie im Allgemeinen."
+  }
+]

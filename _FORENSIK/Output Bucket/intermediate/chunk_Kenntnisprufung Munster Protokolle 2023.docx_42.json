@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Anämie bei Routinekontrolle vor TEP-Implantation",
+    "patient_age": null,
+    "patient_gender": "Mann",
+    "chief_complaints": [
+      "Anämie bei Routinekontrolle"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Coxarthrose",
+      "Diabetes mellitus (schlecht eingestellt)"
+    ],
+    "medications": [
+      "chronischer NSAR-Abusus"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Kribbelparästhesien an den Füßen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Blutungsanämie bei chronischem NSAR-Abusus",
+      "Obere GI-Blutung",
+      "Sickerblutung bei Ulkus",
+      "Eisenmangelanämie bei Karzinom",
+      "Polyneuropathie",
+      "Vitamin B12-Mangel bei Typ-A-Gastritis"
+    ],
+    "diagnostic_approach": [
+      "Familienanamnese",
+      "Körperliche Untersuchung der Füße"
+    ]
+  },
+  {
+    "title": "Herzinsuffizienz durch Myokarditis nach Infekt",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Luftnot bei Belastung beim Treppensteigen",
+      "Luftnot bei Haushaltsarbeit",
+      "Beinödem",
+      "Abgeschlagenheit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Beinödem"
+    ],
+    "imaging_findings": [
+      "Herzecho: Pleuraerguss",
+      "Röntgen: Lungenkarzinom",
+      "Spondylose"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Herzinsuffizienz",
+      "Z.n. Pneumonie",
+      "Myokarditis",
+      "Niereninsuffizienz"
+    ],
+    "diagnostic_approach": [
+      "Anamnese: Vor 4 Wochen Fieber 39°C, Husten mit Auswurf ohne Verfärbung, Gliederschmerzen",
+      "Körperliche Untersuchung aller Systeme",
+      "Herzecho",
+      "Röntgen Thorax"
+    ]
+  },
+  {
+    "title": "Milzruptur nach Fahrradsturz",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Bauchverletzung durch Fahrradlenker"
+    ],
+    "accident_mechanism": "Unfall vom Fahrrad mit Lenker auf dem Bauchbereich",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "FAST",
+      "Traumaspirale",
+      "Sono: Milzruptur",
+      "Leberruptur",
+      "Pankreasruptur",
+      "Röntgen Beckenübersicht",
+      "Röntgen beidseitige Hüftgelenke und Femur: Dislozierte Femurschaftfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Milzruptur",
+      "Leberruptur",
+      "Pankreasruptur",
+      "Dislozierte Femurschaftfraktur"
+    ],
+    "diagnostic_approach": [
+      "Traumacheck",
+      "FAST",
+      "Traumaspirale",
+      "Sonographie",
+      "Röntgen Becken und Femur"
+    ]
+  }
+]

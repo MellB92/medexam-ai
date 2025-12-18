@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Retrosternale Druckschmerzen mit Ausstrahlung in linken Arm (V.a. ACS)",
+    "patient_age": "63 Jahre",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Retrosternale Druckschmerzen mit Ausstrahlung in den linken Arm",
+      "Schwindel"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG beim Hausarzt: unauffällig"
+    ],
+    "laboratory_findings": [
+      "Schnelltest beim Hausarzt: unauffällig"
+    ],
+    "suspected_diagnosis": [
+      "Akutes Koronarsyndrom"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Schnelltest (vermutlich Troponin)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 245/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** zu verschiedenen medizinischen Themen:\n   - EKG-Veränderungen bei Myokarditis\n   - Niedervoltage im EKG\n   - Echokardiographie-Befunde\n   - Links- und Rechtsherzbelastungen\n   - Magenulkus (Ursachen, Diagnostik, Therapie)\n   - Helicobacter pylori\n   - pAVK und KHK Komorbidität\n   - Abdominelles Aortenaneurysma (AAA)\n\n2. **Musterlösungen/Leitlinien** zu diesen Fragen\n\n3. **Kandidatenantworten** (meist \"Nicht im Protokoll enthalten\")\n\n4. **Fehleranalysen**\n\nEs handelt sich um ein **Prüfungsprotokoll mit Wissensfragen**, nicht um konkrete Patientenfälle mit individuellen Anamnesen, Untersuchungsbefunden oder spezifischen klinischen Präsentationen."
+  }
+]

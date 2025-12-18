@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"pAVK bei 68-jährigem Mann mit Claudicatio intermittens\",\n    \"patient_age\": \"68 Jahre\",\n    \"patient_gender\": \"Mann\",\n    \"chief_complaints\": [\n      \"Belastungsabhängige Wadenschmerzen links nach Langstreckenflug\",\n      \"Claudicatio intermittens mit schmerzfreier Gehstrecke 400m\"\n    ],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Arterielle Hypertonie (6 Jahre)\",\n      \"Hyperlipidämie\",\n      \"Post-COVID-Dyspnoe\"\n    ],\n    \"medications\": [\n      \"Lisinopril-Kombi 20mg 1-0-0\",\n      \"Atorvastatin 20mg 0-0-1\",\n      \"Laxanzien bei Bedarf\"\n    ],\n    \"allergies\": [\n      \"Penicillinallergie\"\n    ],\n    \"physical_examination\": [\n      \"Keine Ruheschmerzen\",\n      \"Keine trophischen Störungen\"\n    ],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"pAVK\"\n    ],\n    \"diagnostic_approach\": [\n      \"ABI-Messung (Knöchel-Arm-Index)\",\n      \"RR-Manschette am Unterschenkel\",\n      \"Doppler-Sonde über A. dorsalis pedis und A. tibialis posterior\",\n      \"Höchster Knöcheldruck / höchster Armdruck = ABI\",\n      \"Bei Werten <0,9 liegt mit hoher Wahrscheinlichkeit eine pAVK vor\"\n    ]\n  }\n]\n```"
+  }
+]

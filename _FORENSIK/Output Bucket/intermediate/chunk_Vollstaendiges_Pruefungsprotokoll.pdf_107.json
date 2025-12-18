@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 108/585) enthält **keine vollständigen klinischen Patientenfälle**.\n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretische Prüfungsfragen** zur Leberuntersuchung (Perkussion, Palpation, Kratzauskultation)\n2. **EKG-Interpretation** (AV-Block III. Grades) - ohne Patientenkontext\n3. **Radiologische Grundlagen**:\n   - Entstehung von Röntgenbildern\n   - Absorption vs. Adsorption von Röntgenstrahlen\n   - CT-Prinzipien\n   - Anatomische Identifikation in CT-Bildern (Abdomen)\n   - Kontrastmittelwirkung\n\nEs handelt sich um ein **Prüfungsprotokoll** mit Fragen, Kandidatenantworten und Musterlösungen zu theoretischem Wissen, **nicht um Patientenfallpräsentationen**.\n\nDie erwähnten bildgebenden Befunde (CT Abdomen mit freier Luft, EKG mit AV-Block III) werden als Prüfungsmaterial zur Wissensprüfung verwendet, aber es gibt keine Informationen über:\n- Patientenalter/-geschlecht\n- Anamnese/Beschwerden\n- Unfallhergang\n- Vorerkrankungen\n- Klinischen Kontext\n- Diagnostischen Arbeitsablauf"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "title": "GERD mit Refluxsymptomatik und Heiserkeit",
+    "patient_age": "63-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "retrosternale Schmerzen seit 6 Monaten",
+      "Reflux",
+      "Heiserkeit morgens",
+      "Reizhusten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Schulterluxation und geschlossene Reposition",
+      "Z.n. Achillessehnenruptur",
+      "Z.n. Hemithyreoidektomie",
+      "BZ erhöht ohne bisherige Diagnose und Behandlung"
+    ],
+    "medications": [
+      "L-Thyroxin"
+    ],
+    "allergies": [
+      "Senf mit Urtikaria und Tachykardie",
+      "Rauchen"
+    ],
+    "physical_examination": [
+      "epigastrale Schmerzen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "BZ erhöht"
+    ],
+    "suspected_diagnosis": [
+      "GERD"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "allgemeine körperliche Untersuchung",
+      "Anlage eines Venenkatheters"
+    ]
+  },
+  {
+    "title": "Patient mit Miosis und Opiatintoxikation",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Miosis",
+      "kaum reagiert",
+      "schlapp",
+      "Drogen konsumiert"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Miosis",
+      "kaum reagiert",
+      "schlapp",
+      "Atemdepression"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Opiatintoxikation"
+    ],
+    "diagnostic_approach": [
+      "Antidot - Naloxon",
+      "Überwachung aufgrund längerer HWZ von Opiat im Vergleich zu Naloxon"
+    ]
+  },
+  {
+    "title": "Patient mit Mydriasis und Amphetaminintoxikation",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Mydriasis",
+      "war bei einer rave Party"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Mydriasis"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Amphetaminintoxikation"
+    ],
+    "diagnostic_approach": [
+      "Behandlung mit Beta-Blocker"
+    ]
+  },
+  {
+    "title": "Patient mit GLP-1-Agonist und Nebenwirkungen",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "viele Nebenwirkungen bei GLP-1-Agonist"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [
+      "GLP-1-Agonist"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Off-Label-Use für Gewichtsverlust"
+    ],
+    "diagnostic_approach": [
+      "Patientenaufklärung",
+      "Einwilligung"
+    ]
+  },
+  {
+    "title": "Patient mit aggressivem Delir",
+    "patient_age": "alt",
+    "patient_gender": null,
+    "chief_complaints": [
+      "aggressiv",
+      "verwirrt",
+      "redet Blödsinn"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "aggressiv",
+      "verwirrt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Delir"
+    ],
+    "diagnostic_approach": [
+      "niedrig potente Neuroleptika",
+      "Haloperidol bei akutem Zustand"
+    ]
+  },
+  {
+    "title": "Patient mit Eisenmangelanämie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Schilddrüsenentfernung vor 10 Jahren"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Eisenmangelanämie"
+    ],
+    "suspected_diagnosis": [
+      "Eisenmangelanämie"
+    ],
+    "diagnostic_approach": [
+      "Blutparameter bestimmen",
+      "Ursachenklärung",
+      "TSH-Kontrolle"
+    ]
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "title": "62-jährige Patientin mit Schlappheit, geschwollenen Füßen und Nachtschweiß",
+    "patient_age": "62-jährig",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schlappheit seit 4 Wochen",
+      "geschwollene Füße",
+      "Nykturie",
+      "Nachtschweiß",
+      "Fieber 37°C"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypothyreose"
+    ],
+    "comorbidities": [
+      "Übergewicht",
+      "Z.n. grippalem Infekt mit Gliederschmerzen, trockenem Husten und Fieber bis 39 Grad (vor 4 Wochen)"
+    ],
+    "risk_factors": [
+      "Übergewicht"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "L-Thyroxin",
+      "Vitamin D"
+    ],
+    "allergies": [
+      "keine Allergie",
+      "keine Noxen"
+    ],
+    "vital_signs": [
+      "Fieber 37°C"
+    ],
+    "physical_examination": [
+      "Übergewicht",
+      "geschwollene Füße",
+      "sonst unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Knieverletzung durch Dreiradunfall",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Knieschmerzen 7/10"
+    ],
+    "accident_mechanism": "kleines Kind hat den Patienten mit dem Dreirad angefahren",
+    "pre_existing_conditions": [
+      "Pollenallergie",
+      "Asthma",
+      "Z.n. Cholezystektomie",
+      "Z.n. Entfernung eines gutartigen Lebertumors",
+      "Hämorrhoiden"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter an AKI verstorben",
+      "Vater hat Demenz und erhöhte Fettwerte",
+      "Bruder HRS",
+      "zweiter Bruder Hiatushernie operiert"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Steinzeichen positiv"
+    ],
+    "imaging_findings": [
+      "Röntgen Knie unauffällig",
+      "MRT T2: Seitenbandruptur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "V.a. Meniskusläsion",
+      "Seitenbandruptur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Knie",
+      "MRT"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Knieverletzung nach Sturz an Bushaltestelle",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "starke Schmerzen im linken Kniegelenk",
+      "Abschürfung an der rechten Hand"
+    ],
+    "accident_mechanism": "Unfall an der Bushaltestelle, rechtes Knie verdreht und auf die rechte Seite gefallen",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "pDMS durchgeführt",
+      "orthopädische Untersuchung des Kniegelenks aufgrund der Schmerzen nicht durchführbar"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "V.a. Kreuzbandruptur",
+      "DD: Verletzung des medialen Seitenbands",
+      "DD: Unhappy-Triad",
+      "DD: Verletzungen der Patellasehnen"
+    ],
+    "diagnostic_approach": [
+      "Allergieanamnese",
+      "Impfstatus Tetanus",
+      "pDMS",
+      "orthopädische Untersuchung Kniegelenk"
+    ],
+    "treatment_response": [
+      "Schmerzmittel angeboten"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

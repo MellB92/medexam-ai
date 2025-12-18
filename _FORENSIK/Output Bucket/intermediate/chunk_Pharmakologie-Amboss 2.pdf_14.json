@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 15/50) aus dem Pharmakologie-Amboss enthält **keine klinischen Präsentationsfälle**. \n\nDer Text behandelt ausschließlich:\n\n1. **Digitalis-Intoxikation** - theoretische Darstellung von Ätiologie, Symptomen, EKG-Veränderungen und Therapie (keine Patientenvorstellung)\n\n2. **Indikationen und Kontraindikationen** von Herzglykosiden - allgemeine pharmakologische Informationen\n\n3. **Dosierungsempfehlungen** für Digoxin und Digitoxin - Tabellen mit Dosierungen und therapeutischen Spiegeln\n\n4. **Schmerztherapie** - WHO-Stufenschema, Prinzipien der Schmerztherapie (\"By the mouth\", \"By the clock\", \"By the ladder\")\n\n5. **Analgetika-Übersicht** - Klassifikation nach WHO-Stufen\n\n6. **Koanalgetika und Adjuvanzien** - theoretische Auflistung von Substanzklassen\n\n7. **Weitere Verfahren** - allgemeine Therapieoptionen\n\nEs handelt sich durchgehend um **Lehrbuchinhalte** mit theoretischen Erklärungen, Tabellen und systematischen Übersichten, aber ohne konkrete Patientenfälle mit individuellen Anamnesen, Untersuchungsbefunden oder diagnostischen Abläufen."
+  }
+]

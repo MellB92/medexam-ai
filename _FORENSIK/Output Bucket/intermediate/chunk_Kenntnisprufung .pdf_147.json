@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Hämoptyse und Dyspnoe bei 75-jährigem Automechaniker - V.a. Bronchialkarzinom",
+    "patient_age": "75 Jahre",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Hämoptyse seit 2 Wochen",
+      "belastungsabhängige Dyspnoe, teilweise in Ruhe bzw. im Liegen",
+      "Husten mit Auswurf"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "COPD seit 2-3 Jahren",
+      "arterielle Hypertonie seit 5 Jahren",
+      "akute Podagra rechts vor 3 Jahren",
+      "Beckenringfraktur infolge Autounfall vor 10 Jahren",
+      "Z.n. Cholezystektomie bei Cholezystolithiasis vor 40 Jahren",
+      "Z.n. Achillessehnenruptur links im Jugendalter"
+    ],
+    "comorbidities": [
+      "COPD seit 2-3 Jahren",
+      "arterielle Hypertonie seit 5 Jahren"
+    ],
+    "risk_factors": [
+      "Raucher",
+      "Beruf: Automechaniker (berufliche Exposition)"
+    ],
+    "family_history": [
+      "Kolorektales Karzinom",
+      "Diabetes mellitus Typ 2",
+      "Ulcus cruris"
+    ],
+    "social_history": [
+      "Rentner",
+      "ehemaliger Automechaniker",
+      "Raucher"
+    ],
+    "medications": [
+      "Spiriva 1-0-0-0",
+      "Salbutamol bei Bedarf",
+      "Lisinopril 1-0-0"
+    ],
+    "allergies": [
+      "Penicillinallergie mit Exanthem"
+    ],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax: zentrale hilläre Raumforderung rechts",
+      "Beckenübersichtsaufnahme: vordere Beckenringfraktur mit Symphysensprengung und vertikaler ISG-Frakturlinie (alt)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax durchgeführt",
+      "Staging bei V.a. Bronchialkarzinom",
+      "Klassifikation des Bronchialkarzinoms",
+      "Urinsediment"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

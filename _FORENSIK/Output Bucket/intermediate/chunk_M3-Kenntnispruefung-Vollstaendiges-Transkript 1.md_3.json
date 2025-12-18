@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 4/6) enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer gesamte Abschnitt besteht ausschließlich aus:\n\n1. **Frage-Antwort-Format** für eine medizinische Prüfung (M3-Kenntnisprüfung)\n2. **Theoretischem Wissen** zu verschiedenen medizinischen Themen:\n   - Ileus-Formen und Ursachen\n   - Hiatushernie-Klassifikation\n   - Pneumonie-Erreger und CRB-65-Score\n   - COPD-GOLD-Stadien\n   - Emphysem-Definition\n   - Tiffeneau-Index\n   - Medikamentenkategorien (LABA, LAMA, ICS)\n   - Conn-Syndrom\n   - Cushing-Syndrom vs. Cushing-Krankheit\n   - Patientenverfügung und Vorsorgevollmacht\n\nEs werden **keine konkreten Patienten** mit spezifischen Beschwerden, Untersuchungsbefunden oder individuellen Krankheitsverläufen beschrieben. Alle Informationen sind allgemeingültige medizinische Definitionen, Klassifikationen, diagnostische Kriterien und Therapierichtlinien."
+  }
+]

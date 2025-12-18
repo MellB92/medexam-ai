@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Eisenmangelanämie bei NSAR-Einnahme ohne PPI",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Eisenmangelanämie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [
+      "Diclofenac ohne PPI"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Eisenmangelanämie"
+    ],
+    "suspected_diagnosis": [
+      "Chronische Blutung im Magen-Darm-Trakt",
+      "NSAR-induzierte Ulzera"
+    ],
+    "diagnostic_approach": [
+      "ÖGD (Ösophagogastroduodenoskopie)",
+      "Koloskopie"
+    ]
+  }
+]

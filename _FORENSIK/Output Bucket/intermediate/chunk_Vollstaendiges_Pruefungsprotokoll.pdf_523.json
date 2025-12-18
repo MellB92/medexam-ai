@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle** mit konkreten Patientenpräsentationen. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** mit allgemeinem medizinischem Wissen:\n   - COPD-Klassifikation und Definitionen\n   - Ventrikuläre Tachykardie - allgemeine Behandlung\n   - Differentialdiagnosen von Kopfhautläsionen (ohne konkreten Patienten)\n   - Lokalanästhetika - Pharmakologie\n   - Humerusfraktur - allgemeine Therapieprinzipien (ohne Patientendetails)\n   - Appendizitis - allgemeine Theorie\n   - Meckel-Divertikel - Bilderkennung\n   - Bildgebungsverfahren - technische Details\n   - Rechtmedizinische Grundlagen\n   - Therapierefraktäre Hypertonie - theoretisches Wissen\n\n2. **Keine konkreten Patientenfälle** mit:\n   - Spezifischem Patientenalter/-geschlecht\n   - Individueller Anamnese\n   - Konkreter Präsentation mit Symptomen\n   - Spezifischen Untersuchungsbefunden\n\nDie Fragen sind generisch gehalten (z.B. \"Patient mit V.a. Appendizitis\", \"Für eine Patient mit...\") ohne Details zu einem tatsächlichen klinischen Fall mit vollständiger Präsentation."
+  }
+]

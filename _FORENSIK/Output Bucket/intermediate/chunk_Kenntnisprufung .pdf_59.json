@@ -1,0 +1,127 @@
+[
+  {
+    "title": "Multiples Myelom mit Rückenschmerzen und Zahnfleischveränderungen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Müdigkeit",
+      "Erschöpfung",
+      "Infektanfälligkeit seit einigen Wochen",
+      "Rückenschmerzen seit dem Herbst",
+      "Zahnfleischveränderungen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Palpation der Wirbelsäule: überall Schmerzen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Immunelektrophorese durchgeführt"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom"
+    ],
+    "diagnostic_approach": [
+      "Immunelektrophorese",
+      "Blutuntersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Morbus Sjögren bei 59-jähriger Frau mit Sicca-Symptomatik",
+    "patient_age": "59-jährige",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Trockene Mund- und Nasenschleimhaut",
+      "Trockene und brennende Augen",
+      "Schmerzen an beiden Knien"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Kopfschmerzen",
+      "Gutartiges Tumor der behaarten Kopfhaut",
+      "Knieschmerzen (letztes Woche beim Orthopäden)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater verstorben",
+      "Mutter diese Woche gestürzt mit Armverletzung",
+      "Bruder letztes Jahr Herzentzündung (Endokarditis)"
+    ],
+    "social_history": [
+      "Arbeitet in einem Call Center",
+      "Verheiratet",
+      "2 Kinder",
+      "Gelegentlich Raucherin",
+      "Kein Alkohol",
+      "Keine Drogen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Dokumentation nichts besonderes"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Morbus Sjögren"
+    ],
+    "diagnostic_approach": [
+      "Schirmertest"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Langzeitkomplikation: M. Hodgkin"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Perianalvenenthrombose nach Entbindung",
+    "patient_age": "junge",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen im Analbereich",
+      "Livide Knoten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Post partum"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Nach Entbindung"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Livide Knoten anal"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perianalvenenthrombose"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

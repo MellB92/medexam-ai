@@ -1,0 +1,185 @@
+[
+  {
+    "title": "Hypothyreose",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sono bei Hypothyreose"
+    ],
+    "laboratory_findings": [
+      "fT3 erhöht/erniedrigt",
+      "fT4 erhöht/erniedrigt",
+      "TSH erhöht/erniedrigt",
+      "alle Antikörper",
+      "Thyreoglobulin"
+    ],
+    "suspected_diagnosis": [
+      "Hypothyreose",
+      "primäre Hypothyreose",
+      "sekundäre Hypothyreose",
+      "tertiäre Hypothyreose",
+      "latente Hypothyreose",
+      "manifeste Hypothyreose"
+    ],
+    "diagnostic_approach": [
+      "Laborwerte (fT3, fT4, TSH, Antikörper, Thyreoglobulin)",
+      "Sonographie"
+    ]
+  },
+  {
+    "title": "Makrozytäre Anämie bei Veganer",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Vegane Ernährung"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Makrozytäre Anämie"
+    ],
+    "suspected_diagnosis": [
+      "Makrozytäre Anämie"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Ambulant erworbene Pneumonie",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [
+      "Amoxicillin",
+      "Amoxicillin mit Clavulansäure (bei Therapieversagen)"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Ambulant erworbene Pneumonie"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Hüftarthrose mit alter Femurhalsfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Alte Femurhalsfraktur"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Hüftarthrose im Röntgen",
+      "Alte Femurhalsfraktur"
+    ],
+    "suspected_diagnosis": [
+      "Hüftarthrose",
+      "Zustand nach Femurhalsfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Hüfte"
+    ]
+  },
+  {
+    "title": "Luxation von Hüft-TEP",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Zustand nach Hüft-TEP Operation"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Luxation der TEP im Röntgen"
+    ],
+    "suspected_diagnosis": [
+      "TEP-Luxation"
+    ],
+    "diagnostic_approach": [
+      "Reposition",
+      "OP bei erfolgloser Reposition"
+    ]
+  },
+  {
+    "title": "Leriche-Syndrom",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "MRT-Angiographie mit Kontrastmittelaussparung in Aortoiliakaler Bifurkation"
+    ],
+    "suspected_diagnosis": [
+      "Aortoiliakaler Verschluss (Leriche-Syndrom)"
+    ],
+    "diagnostic_approach": [
+      "MRT-Angiographie",
+      "Y-Prothese (Aortabifurkation)",
+      "Bypass bei peripherem Verschluss"
+    ]
+  },
+  {
+    "title": "Pneumothorax",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Pneumothorax im Röntgen"
+    ],
+    "suspected_diagnosis": [
+      "Pneumothorax"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Thorax"
+    ]
+  },
+  {
+    "title": "Pleuraerguss",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Pleuraerguss im CT"
+    ],
+    "suspected_diagnosis": [
+      "Pleuraerguss"
+    ],
+    "diagnostic_approach": [
+      "CT Thorax"
+    ]
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "title": "Multiples Myelom mit Rückenschmerzen und B-Symptomen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Rückenschmerzen",
+      "B-Symptome"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "BSG 72/Stunde"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Serum-Elektrophorese mit erhöhtem Gamma-Globulin",
+      "CT-Schädel: Schrottschussschädel",
+      "Schwarze Flecken auf dem Schädel"
+    ],
+    "laboratory_findings": [
+      "BSG 72/Stunde erhöht",
+      "Gamma-Globulin erhöht",
+      "Zeichen des Nierenversagens"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom",
+      "M. Bechterew",
+      "Rheumatoide Arthritis",
+      "Non-Hodgkin-Lymphom",
+      "Tuberkulose (spinöse TB)"
+    ],
+    "diagnostic_approach": [
+      "Serum-Elektrophorese",
+      "Niedrigdosis-CT",
+      "CT-Schädel"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Erhöhte osteoklastische Aktivität",
+      "Knochenabbau",
+      "Kalziumfreisetzung",
+      "Nierenschädigung",
+      "Nierenversagen",
+      "AV-Block 2 Wenkebach"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Rippenserienfrakturen mit Hämatothorax",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": "Vor-Op wegen Rippen-Fraktur",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen: Drainage (möglicherweise Bülau)",
+      "2 Elektroden",
+      "Vermehrte Weiße auf der linken Seite",
+      "Hämatothorax",
+      "Rippenfrakturen ausgekugelt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rippenserienfrakturen (3-4 Frakturen)",
+      "Hämatothorax"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Pneumothorax",
+      "Lungenschäden",
+      "Herzschäden",
+      "Hämatothorax"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Eitrige Bursitis nach Ellenbogen-Arthroskopie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen nach einigen Tagen post-OP"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Schwellung",
+      "Rötung",
+      "Druckempfindlichkeit",
+      "Eitriges Sekret"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Abstrich für Kultur",
+      "Erregernachweis",
+      "Sensitivitätstestung"
+    ],
+    "suspected_diagnosis": [
+      "Schleimbeutelentzündung (Bursitis)",
+      "Eitrige Bursitis"
+    ],
+    "diagnostic_approach": [
+      "Abstrich",
+      "Kultur",
+      "Erregernachweis"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Blutung",
+      "Infektion"
+    ],
+    "follow_up": [
+      "OP: Entleeren und Drainage",
+      "Beginn mit Antibiotika"
+    ]
+  },
+  {
+    "title": "Patellarligament-Ruptur nach Fußball-Trauma",
+    "patient_age": "junger Mann",
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Knieschmerzen"
+    ],
+    "accident_mechanism": "Fußball spielen, Knie verdreht",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Fußballspieler"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen rechtes Knie: Patella-Hochstand"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Patellarligament-Ruptur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Knie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

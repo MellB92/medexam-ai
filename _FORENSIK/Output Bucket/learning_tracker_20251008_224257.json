@@ -1,0 +1,131 @@
+{
+  "empty_documents": [
+    {
+      "file": "2025-06-29-Ankizin_v5_46729-notes_6022_Delete_with_media_fixed.apkg",
+      "timestamp": "2025-10-08T20:09:12.820981"
+    },
+    {
+      "file": "Auszug SGB VI.pdf",
+      "timestamp": "2025-10-08T20:25:42.407363"
+    },
+    {
+      "file": "Beispiele Gutachten.pdf",
+      "timestamp": "2025-10-08T20:26:12.208953"
+    },
+    {
+      "file": "FSP Medisim\\Diverses\\Anatomie- deutsche Begriffe.pdf",
+      "timestamp": "2025-10-08T21:07:37.372663"
+    },
+    {
+      "file": "FSP Medisim\\FSP 05\\Laborzettel 1.pdf",
+      "timestamp": "2025-10-08T21:12:31.274275"
+    },
+    {
+      "file": "FSP Medisim\\Grundwortschatz Traumatologie.pdf",
+      "timestamp": "2025-10-08T21:12:49.616379"
+    },
+    {
+      "file": "FSP Medisim\\KT 01 Einführungstag\\Zusatzübungen Medikamente Lösungen.pdf",
+      "timestamp": "2025-10-08T21:12:54.429815"
+    },
+    {
+      "file": "FSP Medisim\\KT 01 Einführungstag\\Zusatzübungen Medikamente.pdf",
+      "timestamp": "2025-10-08T21:12:55.017251"
+    },
+    {
+      "file": "FSP Medisim\\KT 08 - Diagnostik Tag 1\\Handouts\\Die Einheiten der Laborwerte.pdf",
+      "timestamp": "2025-10-08T21:13:21.565586"
+    },
+    {
+      "file": "FSP Medisim\\KT 12 Anamnese Tag 1\\Muster Anamnesebogen Ärztekammer Nordrhein.pdf",
+      "timestamp": "2025-10-08T21:13:36.825354"
+    },
+    {
+      "file": "FSP Medisim\\KT 15 - Körperliche Untersuchung Tag 1\\Übungen schriftlich\\1SVERB~1.PDF",
+      "timestamp": "2025-10-08T21:13:51.762049"
+    },
+    {
+      "file": "FSP Medisim\\KT 22 Dokumentation 2.d\\Handouts\\Planette ausgefüllt.pdf",
+      "timestamp": "2025-10-08T21:14:12.285380"
+    },
+    {
+      "file": "General\\EKG Befunde 1.pdf",
+      "timestamp": "2025-10-08T21:15:01.423089"
+    },
+    {
+      "file": "General\\EKG Befunde 2.pdf",
+      "timestamp": "2025-10-08T21:15:03.950276"
+    },
+    {
+      "file": "General\\EKG Befunde.pdf",
+      "timestamp": "2025-10-08T21:15:05.399614"
+    },
+    {
+      "file": "General\\HRST.pdf",
+      "timestamp": "2025-10-08T21:17:05.729392"
+    },
+    {
+      "file": "General\\Hyperkaliämie Buch Klinische Notfälle griffbereit.pdf",
+      "timestamp": "2025-10-08T21:17:06.191493"
+    },
+    {
+      "file": "General\\Hypokaliämie aus dem Buch Klinische Notfälle griffbereit von Marcel Frimmel 5. Auflage.pdf",
+      "timestamp": "2025-10-08T21:17:06.477284"
+    },
+    {
+      "file": "KP Medisim\\Definitionen.pdf",
+      "timestamp": "2025-10-08T21:42:52.471607"
+    },
+    {
+      "file": "KP Münster 2020 -2025\\Untitled (1).md",
+      "timestamp": "2025-10-08T21:53:50.247090"
+    },
+    {
+      "file": "Neurologie\\Hirnnerven\\Schlaganfall - AMBOSS-SOP - AMBOSS_files\\saved_resource(1).html",
+      "timestamp": "2025-10-08T21:59:59.459858"
+    },
+    {
+      "file": "Neurologie\\Hirnnerven\\Schlaganfall - AMBOSS-SOP - AMBOSS_files\\saved_resource.html",
+      "timestamp": "2025-10-08T21:59:59.469900"
+    },
+    {
+      "file": "neutralnull_FINAL.pdf",
+      "timestamp": "2025-10-08T22:00:25.587337"
+    },
+    {
+      "file": "Spiegel Artikel 2025.pdf",
+      "timestamp": "2025-10-08T22:30:41.361957"
+    },
+    {
+      "file": "Telegram Desktop\\ChatExport_2025-10-02\\messages.html",
+      "timestamp": "2025-10-08T22:30:47.434314"
+    },
+    {
+      "file": "Telegram Desktop\\ChatExport_2025-10-02\\messages2.html",
+      "timestamp": "2025-10-08T22:30:47.971549"
+    },
+    {
+      "file": "Telegram Desktop\\ChatExport_2025-10-02\\messages3.html",
+      "timestamp": "2025-10-08T22:30:48.595474"
+    },
+    {
+      "file": "Telegram Desktop\\ChatExport_2025-10-02\\messages4.html",
+      "timestamp": "2025-10-08T22:30:49.144818"
+    },
+    {
+      "file": "Telegram Desktop\\ChatExport_2025-10-02\\messages5.html",
+      "timestamp": "2025-10-08T22:30:49.739567"
+    },
+    {
+      "file": "Telegram Desktop\\ChatExport_2025-10-02\\messages6.html",
+      "timestamp": "2025-10-08T22:30:50.370748"
+    },
+    {
+      "file": "Telegram Desktop\\ChatExport_2025-10-02\\messages7.html",
+      "timestamp": "2025-10-08T22:30:51.109700"
+    }
+  ],
+  "flagged_hallucinations": [],
+  "corrections_made": [],
+  "review_needed": []
+}

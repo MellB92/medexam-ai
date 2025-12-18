@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Riesenzellarteriitis mit akuter Sehverschlechterung",
+    "patient_age": "65 Jahre",
+    "patient_gender": "Mann",
+    "chief_complaints": [
+      "seit heute Morgen plötzlich eingetretenes verschwommenes Sehen",
+      "AZ Verschlechterung",
+      "seit 2 Wochen bestehende Kopfschmerzen",
+      "Kopfschmerzen verstärken sich durch Sprechen, Kauen, Schlucken",
+      "keine Besserung nach Paracetamol",
+      "vermehrtes Schwitzen in der 2. Nachthälfte",
+      "Durstgefühl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "Z.n. SG-Fraktur im Alter von 21 (Osteosynthese)",
+      "Z.n. SD-Knotenextirpation im Alter von 48 Jahren, komplikationslos",
+      "Z.n. Hepatitis vor 15 Jahren nach Reise in Osten"
+    ],
+    "medications": [
+      "Candesartan Plus"
+    ],
+    "allergies": [
+      "Diclofenac (anaphylaktische Reaktion)"
+    ],
+    "physical_examination": [
+      "typisches Bild einer Arteriitis temporalis",
+      "komplette körperliche Untersuchung durchgeführt",
+      "neurologische Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [
+      "Farbkodierte Duplex-Sono-Doppler empfohlen zur Beurteilung Gefäßlumen, Blutfluss, Dicke und Struktur der Gefäßwände",
+      "MRT, PET, CTA als weitere bildgebende Verfahren erwähnt"
+    ],
+    "laboratory_findings": [
+      "CRP/BSG erhöht",
+      "sonst unauffällige Laborwerte"
+    ],
+    "suspected_diagnosis": [
+      "Riesenzellarteriitis (Arteriitis temporalis)"
+    ],
+    "diagnostic_approach": [
+      "klinische Untersuchung",
+      "Labor (CRP/BSG)",
+      "Farbkodierte Duplex-Sonographie",
+      "ggf. MRT, PET, CTA",
+      "Biopsie wird heutzutage kaum noch gemacht"
+    ]
+  },
+  {
+    "title": "Trimalleoläre Sprunggelenkfraktur mit Volksmann-Dreieck",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rö-Bild linkes Sprunggelenk in 2 Ebenen",
+      "trimalleoläre Gelenksprungfraktur",
+      "abgerissenes Volksmann Dreieck"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "trimalleoläre Sprunggelenkfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen in 2 Ebenen"
+    ]
+  },
+  {
+    "title": "Weber C Fraktur nach Trampolinunfall",
+    "patient_age": "junger Mann",
+    "patient_gender": "Mann",
+    "chief_complaints": [
+      "heftige Schmerzen im Sprunggelenk"
+    ],
+    "accident_mechanism": "Trampolinunfall",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Schwellung",
+      "starke Schmerzen",
+      "pDMS o.b.",
+      "Vitalparameter gemessen"
+    ],
+    "imaging_findings": [
+      "Rö a.p. und seitliche Aufnahme",
+      "bimalleoläre Weber C Fraktur",
+      "Syndesmosenverletzung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "bimalleoläre Weber C Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Notfallanamnese",
+      "Vitalparameter",
+      "körperliche Untersuchung inkl. pDMS",
+      "Röntgen a.p. und seitlich"
+    ]
+  },
+  {
+    "title": "Kolonkarzinom rechts mit blutigem Stuhlabgang",
+    "patient_age": "75 Jahre",
+    "patient_gender": null,
+    "chief_complaints": [
+      "blutiger Stuhlabgang"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "rektal-digitale Untersuchung",
+      "körperliche Untersuchung"
+    ],
+    "imaging_findings": [
+      "Koloskopie",
+      "Bild mit Colon-CA (gut erkennbar)",
+      "Tumor auf rechter Seite des Colons",
+      "T2N0M0"
+    ],
+    "laboratory_findings": [
+      "Labor durchgeführt"
+    ],
+    "suspected_diagnosis": [
+      "Kolonkarzinom rechts T2N0M0"
+    ],
+    "diagnostic_approach": [
+      "rektal-digitale Untersuchung",
+      "Labor",
+      "körperliche Untersuchung",
+      "Koloskopie"
+    ]
+  }
+]

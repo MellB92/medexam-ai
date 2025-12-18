@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 103/115) aus einem pharmakologischen Lehrbuch enthält **keine klinischen Präsentationsfälle** im Sinne von vollständigen Patientenkasuistiken.\n\nDer Text besteht aus:\n\n1. **Therapieempfehlungen für HIV-assoziierte Infektionen** (Pneumocystis-Pneumonie, Toxoplasmose, Candida, HSV, CMV)\n\n2. **Postexpositionsprophylaxe (PEP)** bei HIV-Exposition - allgemeine Handlungsanweisungen ohne konkreten Patientenfall\n\n3. **Tabelle 18.17**: Systematische Übersicht über antibiotische Therapieoptionen verschiedener Infektionskrankheiten (von Anaerobier-Infektion bis Urethritis) - reine Therapieleitlinien ohne Patientenfälle\n\n4. **CHECK-UP Fragen**: Theoretische Wissensfragen zur Tuberkulose-, Malaria- und Antibiotikatherapie\n\n5. **Kapitel 19 - Intoxikationen**: Allgemeine Behandlungsprinzipien bei Vergiftungen (Induziertes Erbrechen, Resorptionshemmung, Giftelimination, Antidot-Therapie)\n\nEs handelt sich durchweg um **didaktisches Lehrmaterial** mit Therapieempfehlungen, Tabellen und theoretischen Konzepten, aber **keine narrativen Fallpräsentationen** mit individuellen Patienten, Anamnese, klinischen Befunden oder diagnostischen Überlegungen."
+  }
+]

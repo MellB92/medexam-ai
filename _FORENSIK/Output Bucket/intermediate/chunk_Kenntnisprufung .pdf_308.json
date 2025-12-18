@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Cholezystolithiasis mit postoperativer Sepsis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "ab und zu Beschwerden",
+      "postoperativ Bauchschmerzen",
+      "schnelle Atmung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Gallenbladensteine"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Cefazolin (perioperativ)"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "RR unter 100",
+      "Tachypnoe"
+    ],
+    "physical_examination": [
+      "QuickSOFA positiv"
+    ],
+    "imaging_findings": [
+      "US: Gallenblase mit Steinen",
+      "US: Gallenblaseempyem"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Galleleckage",
+      "Peritonitis",
+      "Sepsis"
+    ],
+    "diagnostic_approach": [
+      "Ultraschall Gallenblase",
+      "QuickSOFA-Score"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "postoperative Galleleckage",
+      "Peritonitis",
+      "Sepsis"
+    ],
+    "follow_up": [
+      "Antibiotikaumstellung auf Piperacillin/Tazobactam",
+      "Cefazolin absetzen"
+    ]
+  },
+  {
+    "title": "Akuter Apoplex mit verwaschener Sprache",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "critical",
+    "chief_complaints": [
+      "verwaschene Sprache"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "verwaschene Sprache"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Apoplex",
+      "hämorrhagischer Apoplex (auszuschließen)"
+    ],
+    "diagnostic_approach": [
+      "CT (hämorrhagischen Apoplex ausschließen)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "bei Ischämie: Lysetherapie oder Reperfusion",
+      "bei Blutung: Neurochirurg, ggf. OP"
+    ]
+  }
+]

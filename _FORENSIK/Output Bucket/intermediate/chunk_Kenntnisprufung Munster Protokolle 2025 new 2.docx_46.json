@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Pyelonephritis mit Sepsisverdacht nach Spanien-Urlaub",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Grippeähnliche Symptome",
+      "Husten",
+      "Schnupfen",
+      "Polyurie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Diabetes mellitus Typ II",
+      "Herzrhythmusstörung (medikamentös behandelt)",
+      "Herzkatheteruntersuchung vor einem Jahr"
+    ],
+    "medications": [
+      "Konnte Medikamente nicht angeben (Zeichen der Desorientierung)",
+      "Keine Medikamente mehr seit Herzkatheteruntersuchung"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Orientierungsfragen erst nach längerer Überlegung beantwortet",
+      "Nierenklopfschmerz rechts positiv",
+      "Blutdruckmessungen beidseitig durchgeführt",
+      "Pulse getastet",
+      "Neurologische Untersuchung inklusive Meningismuszeichen",
+      "Normofrequente Herzfrequenz",
+      "Normaler Blutdruck"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "PCT-Bestimmung veranlasst"
+    ],
+    "suspected_diagnosis": [
+      "Pyelonephritis",
+      "Pneumonie (DD)",
+      "Virale Meningitis (DD)",
+      "Sepsis (Verdacht dokumentiert)"
+    ],
+    "diagnostic_approach": [
+      "Monitor oder Pulsoximeter",
+      "PCT-Bestimmung",
+      "Blutdruckmessung beidseitig",
+      "Neurologische Untersuchung",
+      "Meningismuszeichen"
+    ]
+  },
+  {
+    "title": "Polytrauma nach Verkehrsunfall mit HWS-Fraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Polytrauma nach Verkehrsunfall"
+    ],
+    "accident_mechanism": "Verkehrsunfall mit Schleudertrauma",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "HWS-Atlasfraktur (Hangman-Fraktur)",
+      "Femurschaftfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "HWS-Atlasfraktur (Hangman-Fraktur)",
+      "Femurschaftfraktur"
+    ],
+    "diagnostic_approach": [
+      "FAST-Ultraschall",
+      "Röntgen HWS",
+      "Röntgen Femur"
+    ]
+  }
+]

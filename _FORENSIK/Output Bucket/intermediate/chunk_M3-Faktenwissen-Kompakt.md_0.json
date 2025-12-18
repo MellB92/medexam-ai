@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDas Dokument \"M3-Faktenwissen-Kompakt\" ist eine reine **Faktensammlung und Referenztabelle** mit:\n\n1. **Klassifikationssystemen** (Fontaine, Garden, Pauwels, GOLD)\n2. **Referenzbereichen** (Laborwerte, Normalwerte)\n3. **Medikamentendosierungen** (Standarddosierungen ohne Patientenkontext)\n4. **Scores und Skalen** (CRB-65, CHA₂DS₂-VASc, etc.)\n5. **Prüfungsstatistiken** (Häufigkeit von Themen)\n\nEs handelt sich um **theoretisches Faktenwissen** ohne konkrete Patientenbeispiele, Anamnesen, Untersuchungsbefunde oder diagnostische Fragestellungen zu individuellen Fällen.\n\nEin klinischer Fall würde z.B. beginnen mit: \"Ein 65-jähriger Patient stellt sich mit...\" oder \"Vorstellung eines 45-jährigen Mannes mit Dyspnoe...\"\n\nSolche Fallpräsentationen sind in diesem Dokument **nicht vorhanden**."
+  }
+]

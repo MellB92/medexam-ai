@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Durchfall seit 14 Tagen mit linksseitigem Unterbauchschmerz",
+    "patient_age": "39-jähriger",
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Durchfälle seit 14 Tagen",
+      "Druckschmerz linker Unterbauch"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Klavikulafraktur vor 3 Jahren"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Druckschmerz linker Unterbauch",
+      "Rest der körperlichen Untersuchung unauffällig"
+    ],
+    "imaging_findings": [
+      "Koloskopie-Video zeigt Colitis"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sigmadivertikulitis",
+      "Colitis ulcerosa",
+      "Morbus Crohn",
+      "Gastroenteritis",
+      "Kolonkarzinom"
+    ],
+    "diagnostic_approach": [
+      "Koloskopie durchgeführt",
+      "Biopsie zur histologischen Bestätigung (bei MC transmural, bei CU Mukosa/Submukosa)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

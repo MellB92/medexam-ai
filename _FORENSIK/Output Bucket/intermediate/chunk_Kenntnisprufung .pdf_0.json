@@ -1,0 +1,145 @@
+[
+  {
+    "title": "Polytrauma mit Klavikular- und Tibiakopffraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Polytrauma"
+    ],
+    "accident_mechanism": "Trauma (Details nicht angegeben)",
+    "pre_existing_conditions": [
+      "COPD unkontrolliert",
+      "arterieller Hypertonus"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen: Klavikulafraktur",
+      "Röntgen: Tibiakopffraktur, Gelenk nicht beteiligt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma",
+      "Klavikulafraktur",
+      "Tibiakopffraktur"
+    ],
+    "diagnostic_approach": [
+      "cABCDE Schema",
+      "Röntgenuntersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Komplikationen bei Fibulakopffraktur diskutiert"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Blutiges Erbrechen postoperativ",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "blutiges Erbrechen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Zustand nach Operation"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Vitamin-K-abhängige Faktoren",
+      "INR"
+    ],
+    "suspected_diagnosis": [
+      "Ösophagusvarizen",
+      "postoperative Blutung"
+    ],
+    "diagnostic_approach": [
+      "Anamnese (Vorerkrankungen, Medikamente)",
+      "Körperliche Untersuchung",
+      "Bedside Testing"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Femurhalsfraktur nach Sturz bei Schlafmitteleinnahme",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Femurhalsfraktur",
+      "Sturz"
+    ],
+    "accident_mechanism": "Sturz als Folge von Schlafmitteleinnahme",
+    "pre_existing_conditions": [
+      "Herzrhythmusstörungen",
+      "Z.n. beidseitigen Knie-Operationen"
+    ],
+    "comorbidities": [
+      "Osteoporose"
+    ],
+    "risk_factors": [
+      "Schlafmitteleinnahme"
+    ],
+    "family_history": [
+      "Bruder: Bauchaortenaneurysma unter Beobachtung",
+      "Tochter: Diabetes mellitus Typ II ohne Insulintherapie"
+    ],
+    "social_history": [],
+    "medications": [
+      "Schlafmittel"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalzeichen kontrolliert"
+    ],
+    "physical_examination": [
+      "pDMS überprüft",
+      "Sichere Frakturzeichen vorhanden",
+      "Lungen- und Herzauskultation in Rückenlage (Patientin konnte sich nicht bewegen)",
+      "Keine Vorhofflimmern oder permanente HRST bei Untersuchung",
+      "OP-Narben beidseitig an Knien",
+      "Beinlängendifferenz",
+      "Außenrotation des betroffenen Beins"
+    ],
+    "imaging_findings": [
+      "Röntgen: Osteoporose",
+      "Röntgen: mediale Schenkelhalsfraktur",
+      "Subkapsuläre Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Femurhalsfraktur",
+      "Differentialdiagnosen für Sturz: Herzrhythmusstörungen, TIA als mögliche Synkopenursachen"
+    ],
+    "diagnostic_approach": [
+      "Anamnese inkl. Medikamente und Vorerkrankungen",
+      "Vitalzeichenkontrolle",
+      "pDMS-Untersuchung",
+      "Sichere Frakturzeichenprüfung",
+      "Röntgenuntersuchung",
+      "Klassifikation nach Pauwels und Garten",
+      "Klassifikation nach Abduktion/Adduktion"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

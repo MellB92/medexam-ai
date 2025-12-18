@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Patient mit Diabetes mellitus, arterieller Hypertonie und chronischer Nierenerkrankung\",\n    \"patient_age\": null,\n    \"patient_gender\": \"m\",\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\n      \"Diabetes mellitus\",\n      \"Arterielle Hypertonie\",\n      \"Chronische Nierenerkrankung\"\n    ],\n    \"medications\": [\n      \"ACE-Hemmer\",\n      \"SGLT2-Hemmer\"\n    ],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\n      \"GFR-Abfall um 3-5 ml/min/1.73m² nach 3-wöchiger Medikamenteneinnahme\"\n    ],\n    \"suspected_diagnosis\": [\n      \"Diabetes mellitus Typ 2 mit Folgeerkrankungen\",\n      \"Arterielle Hypertonie\",\n      \"Chronische Nierenerkrankung\"\n    ],\n    \"diagnostic_approach\": [\n      \"Engmaschige Überwachung der Nierenfunktion\",\n      \"Ausschluss anderer Ursachen für GFR-Abfall (Dehydration, Medikamenteninteraktionen)\",\n      \"Urinteststreifen zur Überprüfung der SGLT2-Hemmer-Einnahme (Glukose im Urin)\"\n    ]\n  }\n]\n```"
+  }
+]

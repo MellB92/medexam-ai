@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 357/585) enthält ausschließlich Prüfungsfragen und -antworten im Frage-Antwort-Format eines Prüfungsprotokolls. Es handelt sich um:\n\n1. **Theoretische Fragen zu verschiedenen Themen:**\n   - Hyperkalzämie bei Multiplem Myelom (Fragen 13-16)\n   - EKG-Interpretation und Rhythmusanalyse (Fragen 17-20)\n   - Rippenfrakturen und deren Komplikationen (Fragen 21-25)\n   - Arthroskopie am Ellenbogen (Fragen 26-28)\n   - Schleimbeutelentzündung (Bursitis) (Fragen 29-34)\n   - Patellahochstand im Röntgenbild (Frage 35)\n\n2. **Fragmentierte Bildbeschreibungen** ohne vollständige Fallpräsentation\n\n3. **Keine strukturierten Patientenfälle** mit:\n   - Vollständiger Anamnese\n   - Patientendemographie (Alter/Geschlecht fehlen)\n   - Zusammenhängende klinische Präsentation\n   - Diagnostischem Prozess vom Erstkontakt bis zur Diagnose\n\nDie Fragen beziehen sich zwar auf klinische Konzepte (z.B. Rippenfraktur, Hämatothorax, Bursitis), aber es werden keine vollständigen, in sich geschlossenen Patientenfälle präsentiert, die alle notwendigen Informationen für eine klinische Fallextraktion enthalten."
+  }
+]

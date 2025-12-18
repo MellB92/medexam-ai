@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Trauma-Patient nach Verkehrsunfall",
+    "patient_age": "Mittel 60-jährig",
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "starke Schmerzen rechtes Bein",
+      "Kopfschmerzen",
+      "Luftnot"
+    ],
+    "accident_mechanism": "Verkehrsunfall, mit Rettungsdienstwagen ins Krankenhaus gebracht",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalparameter gemessen - Patient war stabil"
+    ],
+    "physical_examination": [
+      "Patient ansprechbar",
+      "orientiert zu Name, Datum"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Trauma",
+      "Verdacht auf Fraktur rechtes Bein"
+    ],
+    "diagnostic_approach": [
+      "Bildgebung Kopf geplant",
+      "Bildgebung Thorax geplant",
+      "Bildgebung rechtes Knie geplant",
+      "Anamnese zu Medikamenten, Noxen, Allergien, Vorerkrankungen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

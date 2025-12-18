@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Dekompensierte Herzinsuffizienz nach Erkältung",
+    "patient_age": "65 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Seit 4 Wochen bestehende ausgeprägte Erschöpfung",
+      "Belastungsdyspnoe",
+      "Neu aufgetretene beidseitige Unterschenkelödeme"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 2"
+    ],
+    "medications": [
+      "Metformin 3x 500 mg",
+      "Vitamin D",
+      "Augentropfen"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Beidseitige Unterschenkelödeme"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Dekompensierte Herzinsuffizienz"
+    ],
+    "diagnostic_approach": [],
+    "additional_history": {
+      "current_illness": "Vor 4 Wochen Erkältung mit Husten ohne Auswurf, Gliederschmerzen, Fieber bis 39°C, Schüttelfrost und Schwitzen. Seitdem bestehende Symptomatik. Bis dahin beschwerdefrei und fit. Zwei Covid-Tests negativ. Gewichtszu- oder -abnahme, Palpitationen und Angina-pectoris-Beschwerden verneint",
+      "family_history": "Mutter: Diabetes mellitus Typ 2, lebt noch. Vater: Bluterkrankung, musste immer wieder zum Aderlass"
+    }
+  }
+]

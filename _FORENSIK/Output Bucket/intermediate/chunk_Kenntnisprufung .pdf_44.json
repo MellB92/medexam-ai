@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Diffuse Bauchschmerzen nach LKW-Unfall bei Schlafapnoe-Syndrom",
+    "patient_age": "62-jähriger",
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "diffuse Bauchschmerzen",
+      "LKW-Unfall"
+    ],
+    "accident_mechanism": "Plötzlich beim Fahren eingeschlafen, Schlag mit dem Lenker direkt auf den Bauch",
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "Z.n. Achillessehnenruptur",
+      "Z.n. Entfernung gutartiger Schilddrüsenknötchen"
+    ],
+    "comorbidities": [
+      "Rückenschmerzen"
+    ],
+    "risk_factors": [
+      "Tagesschläfrigkeit",
+      "Schnarchen",
+      "Atempausen während des Schlafs",
+      "Gewichtszunahme 10 kg in 1 Jahr"
+    ],
+    "family_history": [
+      "Vater: Leberzirrhose bei Alkoholabusus, verstorben an Ösophagusvarizenblutung",
+      "Mutter: KHK",
+      "2 Kinder gesund"
+    ],
+    "social_history": [
+      "LKW-Fahrer"
+    ],
+    "medications": [
+      "Antihypertensivum (Name nicht erinnert)",
+      "Ibuprofen bei Bedarf (Rückenschmerzen)",
+      "Nasen-Spray bei Bedarf"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Bauch: Auskultation durchgeführt",
+      "Perkussion: überall schmerzhaft",
+      "oberflächliche Palpation: schmerzhaft",
+      "tiefe Palpation nicht durchgeführt",
+      "Nieren, Herz, Lunge, Schilddrüse untersucht"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Milzruptur bei Schlafapnoe-Syndrom",
+      "innere Blutung"
+    ],
+    "diagnostic_approach": [
+      "weitere Untersuchungen erforderlich",
+      "stationäre Aufnahme"
+    ],
+    "treatment_response": [
+      "Schmerzmittel angeboten, vom Patienten abgelehnt"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Synkope mit Sturz auf Kopf und Hand in der Schwangerschaft",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Synkope",
+      "Schnittwunde",
+      "Sturz auf Kopf",
+      "Sturz auf rechte Finger",
+      "leichte Kopfschmerzen"
+    ],
+    "accident_mechanism": "Synkope mit anschließendem Sturz auf den Kopf und rechte Finger, Schnittwunde gesehen",
+    "pre_existing_conditions": [
+      "Schwangerschaft"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Herz untersucht",
+      "Lunge untersucht",
+      "Abdomen untersucht",
+      "Nieren untersucht",
+      "Ödeme untersucht",
+      "neurologische Untersuchung grob durchgeführt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

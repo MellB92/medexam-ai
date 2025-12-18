@@ -1,0 +1,310 @@
+[
+  {
+    "title": "Patient mit epigastrischen Schmerzen und GERD",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "epigastrische Schmerzen",
+      "Säureaufstoßen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "positiv für Helicobacter pylori"
+    ],
+    "suspected_diagnosis": [
+      "GERD"
+    ],
+    "diagnostic_approach": [
+      "ÖGD",
+      "pH-Messung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Empfehlungen zur Reduzierung von Rezidiven: Keine Milch mit Clarithromycin",
+      "Nach Eradikation erneute Prüfung"
+    ]
+  },
+  {
+    "title": "26-jähriger Patient Z.n. Appendektomie mit Übelkeit und Erbrechen",
+    "patient_age": "26 Jahre",
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Übelkeit",
+      "Erbrechen",
+      "Schmerzen erst im Oberbauch"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Appendektomie bei akuter Appendizitis",
+      "Z.n. Meniskus-OP",
+      "arterielle Hypertonie"
+    ],
+    "comorbidities": [
+      "arterielle Hypertonie"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Appendizitiszeichen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "DD Appendizitis",
+      "Ulkuskrankheit"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "frisch operiert"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "50-jähriger Patient mit Ikterus und Leberzirrhose",
+    "patient_age": "50 Jahre",
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Ikterus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Leberzirrhose"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "chronische Alkoholanamnese",
+      "trinkt viel Bier",
+      "vor paar Tagen hat viel getrunken"
+    ],
+    "family_history": [],
+    "social_history": [
+      "chronischer Alkoholkonsum",
+      "trinkt viel Bier"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Leberhautzeichen",
+      "Lack Lippe und Zunge",
+      "Caput medusa",
+      "Aszites",
+      "Leberrand nicht mehr glatt, sondern wellenförmig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "direktes und indirektes Bilirubin zur Unterscheidung posthepatisch/hepatisch"
+    ],
+    "suspected_diagnosis": [
+      "Leberzirrhose",
+      "prähepatischer Ikterus (Hämolyse)",
+      "hepatischer Ikterus",
+      "posthepatischer Ikterus"
+    ],
+    "diagnostic_approach": [
+      "Anamnese (Urin und Stuhlgang)",
+      "Alkoholanamnese",
+      "Labor: direktes und indirektes Bilirubin",
+      "Leberpalpation"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "hepatorenal",
+      "hypoalbuminämie",
+      "portale Hypertension",
+      "hepatopulmonal",
+      "Kardiomyopathie"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit schmerzlosem Ikterus und Pankreaskopftumor",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "schmerzloser Ikterus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "tastbare Gallenblase"
+    ],
+    "imaging_findings": [
+      "ERCP zeigte Tumor in Pankreaskopf"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pankreaskopfkarzinom"
+    ],
+    "diagnostic_approach": [
+      "ERCP (Endoskopische Retrograde Cholangiopankreatikographie)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Stent ggf. Probenentnahme"
+    ]
+  },
+  {
+    "title": "Patient mit chronischer Pankreatitis und Diabetes mellitus Typ 3",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "chronische Pankreatitis"
+    ],
+    "comorbidities": [
+      "Diabetes mellitus Typ 3"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Leberhautzeichen",
+      "Spider naevi",
+      "Lackzunge",
+      "Palmarerythem"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Drainagesekret: Pankreasaft mit Lipase-Bestimmung aus der Drainage"
+    ],
+    "suspected_diagnosis": [
+      "chronische Pankreatitis"
+    ],
+    "diagnostic_approach": [
+      "Lipase-Bestimmung aus der Drainage"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Diabetes mellitus Typ 3 aufgrund chronischer Pankreatitis"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Kind mit Wildtierbiss - Tollwutverdacht",
+    "patient_age": "Kind",
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "Biss von Wildtier"
+    ],
+    "accident_mechanism": "Biss von Wildtier",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Tollwut"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit Oberschenkelrötung und Reiseanamnese - Borreliose-Verdacht",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Oberschenkelrötung in rund förmig"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Reiseanamnese"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "gerötet in rund förmig am Oberschenkel"
+    ],
+    "imaging_findings": [
+      "Röntgenaufnahme Oberschenkel"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Borreliose"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "16-jährige Frau mit Lymphknotenschwellung und Splenomegalie - EBV-Verdacht",
+    "patient_age": "16 Jahre",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Lymphknotenschwellung",
+      "Splenomegalie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Lymphknotenschwellung",
+      "Splenomegalie"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "EBV-Infektion (Epstein-Barr-Virus)"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

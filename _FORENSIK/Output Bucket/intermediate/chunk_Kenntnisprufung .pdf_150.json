@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Lungenkarzinom bei bekannter COPD mit Hämoptyse",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Husten seit 2 Wochen",
+      "Hämoptyse",
+      "Gewichtsabnahme",
+      "Nachtschweiß",
+      "Belastungsdyspnoe",
+      "Orthopnoe",
+      "Nykturie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "COPD"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "RR Messung in beiden Armen"
+    ],
+    "physical_examination": [
+      "Lungenuntersuchung",
+      "Abdomenuntersuchung",
+      "Pulsuntersuchung",
+      "Reflexprüfung",
+      "Schilddrüsenuntersuchung",
+      "Herz-Auskultationspunkte"
+    ],
+    "imaging_findings": [
+      "Röntgen Thorax: zentrale Raumforderung (2 Aufnahmen)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenkarzinom"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

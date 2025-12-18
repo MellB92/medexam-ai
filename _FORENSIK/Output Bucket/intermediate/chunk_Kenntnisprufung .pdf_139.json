@@ -1,0 +1,226 @@
+[
+  {
+    "title": "Frau mit Diabetes mellitus und Insulinverweigerung",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "will kein Insulin nehmen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Diabetes mellitus"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Insulin (subkutan am Unterbauch - verweigert)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Photo zeigt Insulinspritze s.c. am Unterbauch"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Diabetes mellitus (Blutzuckerkontrolle unzureichend)"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Umstellung auf orale Antidiabetika (Metformin, GLP-1-Analoga als Kombination möglich)"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patientin mit chronischer Obstipation und Melanosis coli",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "mild",
+    "chief_complaints": [
+      "chronische Obstipation",
+      "möchte wissen ob alles in Ordnung ist"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "chronische Obstipation"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "jahrelange Laxantien-Einnahme"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Agiolax (über Jahre selbst gekauft und genutzt)"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Endoskopie: Melanosis coli (braunschwarze, inhomogene, leopardartige Pigmentierung der Schleimhaut)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Melanosis coli bei chronischem Laxantienabusus"
+    ],
+    "diagnostic_approach": [
+      "Endoskopie durchgeführt"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Melanosis coli"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Mann mit Bewusstlosigkeit und Atemstillstand (Notfall)",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "critical",
+    "chief_complaints": [
+      "Bewusstlosigkeit",
+      "Atemstillstand"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Rauchen",
+      "Alkoholkonsum"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Zigarette in Hand",
+      "Bierflasche daneben gefunden"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "nicht ansprechbar",
+      "atmet nicht"
+    ],
+    "physical_examination": [
+      "auf der rechten Seite liegend",
+      "Vigilanz: nicht ansprechbar"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Opioidvergiftung",
+      "kardiorespiratorischer Stillstand"
+    ],
+    "diagnostic_approach": [
+      "Vigilanzprüfung",
+      "ABCDE Schema"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Patient mit akutem Abdomen und Appendizitis-Verdacht",
+    "patient_age": "64-jähriger",
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Bauchschmerzen",
+      "Nausea",
+      "einmaliges Erbrechen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Klappenfehler (beim Kardiologen)",
+      "Z.n. Angina tonsillaris in Kindheit mit Hinweis zu Minimal Change Glomerulonephritis",
+      "Z.n. Bagatelltrauma des linken Ellenbogens in Kindheit",
+      "Z.n. Asthma gegen Katzenhaare in Kindheit"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Ex-Raucher"
+    ],
+    "family_history": [
+      "Sohn vorhanden"
+    ],
+    "social_history": [
+      "Arbeiter",
+      "Ex-Raucher",
+      "Alkohol gelegentlich"
+    ],
+    "medications": [
+      "Ibuprofen (Cephalgielinderung)",
+      "Buscopan (in Apotheke gekauft, sofort eingenommen)"
+    ],
+    "allergies": [
+      "Pflaster (Exanthem)",
+      "Katzenhaare (Asthma in Kindheit, seitdem kein Anfall mehr)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "positiver Psoas-Sign",
+      "postappendektomische Narbe vorhanden",
+      "Patient lehnt Liegeposition ab",
+      "Viggo-Anlage"
+    ],
+    "imaging_findings": [
+      "Röntgen Ellenbogen links in Kindheit: unauffällig"
+    ],
+    "laboratory_findings": [
+      "CRP unauffällig",
+      "Leukozyten unauffällig"
+    ],
+    "suspected_diagnosis": [
+      "akutes Abdomen mit Appendizitisneigung",
+      "V.a. diffuse Peritonitis"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung mit Psoas-Sign",
+      "Labor"
+    ],
+    "treatment_response": [
+      "elektronische Krankmeldung ausgestellt"
+    ],
+    "complications": [
+      "Anamnese ergibt: frühere subkutane Operation (keine echte Appendektomie)"
+    ],
+    "follow_up": [
+      "Patient zur weiteren Abklärung angemeldet",
+      "Akten beim Hausarzt sind abzuholen"
+    ]
+  },
+  {
+    "title": "Frau mit einseitigem Unterschenkelschmerz und TVT-Verdacht",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "einseitiger Unterschenkelschmerz"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "tiefe Venenthrombose (TVT)"
+    ],
+    "diagnostic_approach": [
+      "Differentialdiagnose erwogen",
+      "TVT-Diagnostik"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

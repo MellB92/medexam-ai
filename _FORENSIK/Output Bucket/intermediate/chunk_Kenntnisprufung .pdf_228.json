@@ -1,0 +1,195 @@
+[
+  {
+    "title": "Delir bei älterem Patienten",
+    "patient_age": "alt",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "aggressiv",
+      "verwirrt",
+      "redet Blödsinn"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "aggressiv",
+      "verwirrt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Delir"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "niedrig potente Neuroleptika",
+      "Haloperidol bei akutem Zustand"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Opiat-Intoxikation",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Miosis",
+      "kaum reagiert",
+      "schlapp"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Drogenkonsument"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Drogen konsumiert"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Miosis",
+      "kaum reagiert",
+      "schlapp"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Opiat-Intoxikation"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Naloxon (Antidot)",
+      "Patient fühlt sich nach Naloxon gut und möchte nach Hause gehen"
+    ],
+    "complications": [
+      "Atemdepression"
+    ],
+    "follow_up": [
+      "Nicht nach Hause entlassen - Opiat hat längere HWZ als Naloxon"
+    ]
+  },
+  {
+    "title": "Amphetamin-Intoxikation nach Partybesuch",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Mydriasis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "war bei einer rave Party"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Mydriasis"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Amphetamin-Intoxikation"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Behandlung mit Beta-Blocker"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Nebenwirkungen unter GLP-1 Agonist bei Off-Label Use",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "viele Nebenwirkungen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "GLP-1 Agonist"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "viele Nebenwirkungen durch Off-Label Use für Gewichtsverlust"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "GERD mit Barrett-Ösophagus und Eisenmangelanämie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Schilddrüsenentfernung vor 10 Jahren"
+    ],
+    "comorbidities": [
+      "Eisenmangelanämie"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "L-Thyroxin"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "ÖGD-Bilder mit 4 Stadien nach Los Angeles Klassifikation",
+      "Barrett-Ösophagus"
+    ],
+    "laboratory_findings": [
+      "Eisenmangelanämie",
+      "TSH-Wert (zur Kontrolle)"
+    ],
+    "suspected_diagnosis": [
+      "GERD",
+      "Barrett-Ösophagus",
+      "Eisenmangelanämie"
+    ],
+    "diagnostic_approach": [
+      "ÖGD",
+      "Blutparameter bei Eisenmangelanämie",
+      "TSH-Kontrolle"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Barrett-Ösophagus mit Karzinomrisiko"
+    ],
+    "follow_up": [
+      "ÖGD-Kontrolle notwendig"
+    ]
+  }
+]

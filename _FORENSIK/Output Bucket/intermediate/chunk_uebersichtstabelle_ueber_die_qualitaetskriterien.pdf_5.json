@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. Es handelt sich um eine **Übersichtstabelle über Qualitätskriterien** für verschiedene medizinische Leistungsbereiche und Leistungsgruppen.\n\nDer Text beschreibt:\n- Strukturelle Anforderungen an medizinische Einrichtungen\n- Personelle Vorgaben (Fachärzte, VZÄ, Rufbereitschaft)\n- Zertifizierungsanforderungen (z.B. Brustzentrum)\n- Kooperationsanforderungen\n- Ausstattungskriterien (CT/MRT, Monitoring, Beatmungsmöglichkeiten)\n- Verweise auf G-BA Richtlinien und PpUGV\n\nEs werden verschiedene Fachbereiche genannt:\n- Gynäkologie und Geburtshilfe\n- Neonatologie\n- Kinder- und Jugendmedizin\n- Pädiatrische Onkologie/Hämatologie\n- Urologie\n- Chirurgie\n\nDies sind jedoch **administrative/regulatorische Anforderungen** und keine individuellen Patientenpräsentationen mit Anamnese, Befunden oder diagnostischen Fragestellungen."
+  }
+]

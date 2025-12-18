@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Anfallsartige Atemnot bei Bäckereimitarbeiterin",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "anfallsartige Atemnot seit drei Monaten",
+      "Husten"
+    ],
+    "accident_mechanism": "Sturz auf der rechten Seite vor zwei Wochen ohne Fraktur",
+    "pre_existing_conditions": [
+      "Pollenallergie",
+      "Laktoseintoleranz"
+    ],
+    "medications": [
+      "Cetirizin",
+      "orale Kontrazeptiva",
+      "Schlafmittel"
+    ],
+    "allergies": [
+      "Pollenallergie"
+    ],
+    "physical_examination": [
+      "Blutdruckmessung durchgeführt"
+    ],
+    "imaging_findings": [
+      "Lungenfunktion: FEV1 bei 50%"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Asthma bronchiale",
+      "COPD",
+      "Herzinsuffizienz",
+      "KHK"
+    ],
+    "diagnostic_approach": [
+      "NT-proBNP",
+      "Lungenfunktionstest mit Tiffeneau-Index",
+      "Röntgen"
+    ]
+  },
+  {
+    "title": "ST-Hebung bei 20-jährigem Patienten",
+    "patient_age": "20-jähriger",
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit ST-Hebung in II, III, aVF, (klein V2–3)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "inferiorer Myokardinfarkt",
+      "Perikarditis"
+    ],
+    "diagnostic_approach": [
+      "TTE",
+      "Labor",
+      "NSAR",
+      "Colchicin",
+      "Sportverbot für 6 Monate"
+    ]
+  },
+  {
+    "title": "Cushing-Syndrom",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Stiernacken",
+      "Striae",
+      "Adipositas"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Cushing-Syndrom (exogen, endogen, ektopisch)"
+    ],
+    "diagnostic_approach": [
+      "Dexamethason-Test",
+      "CRH-Test",
+      "Speichel-Cortisol"
+    ]
+  },
+  {
+    "title": "Multiple Ulzera im Ösophagus",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Endoskopiebild: Ösophagus mit multiplen Ulzera"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Refluxösophagitis",
+      "Barrett-Ösophagus als Komplikation"
+    ],
+    "diagnostic_approach": [
+      "Los-Angeles-Klassifikation"
+    ]
+  },
+  {
+    "title": "Anteriore Schulterluxation",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "pDMS-Prüfung (Puls, Durchblutung, Motorik, Sensibilität)"
+    ],
+    "imaging_findings": [
+      "Röntgenbild: anteriore Schulterluxation"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "anteriore Schulterluxation"
+    ],
+    "diagnostic_approach": [
+      "Reposition",
+      "konservative Therapie mit Gilchrist-Verband für 2–3 Wochen",
+      "Ausschluss von Begleitverletzungen"
+    ]
+  },
+  {
+    "title": "Claviculafraktur im mittleren Drittel",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild: Claviculafraktur im mittleren Drittel"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Claviculafraktur mittleres Drittel"
+    ],
+    "diagnostic_approach": [
+      "meistens konservative Therapie",
+      "Ausschluss von Begleitverletzungen (Pneumothorax, Nerven-, Arterienverletzungen)"
+    ]
+  }
+]

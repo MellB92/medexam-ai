@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Fieberkrampf bei 4-jährigem Kind\",\n    \"patient_age\": \"4-jährig\",\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Krampfanfall\", \"Fieber\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Fieberkrampf\"],\n    \"diagnostic_approach\": [\"Weitere Abklärung erforderlich\", \"Diazepam 0,5mg/kg KG rektal (max 10mg)\", \"Diazepam-Rektiole als Applikator\"]\n  }\n]\n```"
+  }
+]

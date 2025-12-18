@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt aus einem Pharmakologie-Lehrbuch (Last Minute Pharmakologie) enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer Text besteht ausschließlich aus:\n\n1. **Therapieempfehlungen** für verschiedene Hypertonie-Situationen:\n   - Hypertensiver Notfall\n   - Hypertonie in der Schwangerschaft\n   - Hypertonie mit Komorbiditäten\n\n2. **Differenzialtherapeutischen Tabellen** (Tab. 5.3) mit Medikamentenempfehlungen bei verschiedenen Begleiterkrankungen\n\n3. **CHECK-UP Fragen** (reine Wissensfragen ohne Patientenbezug)\n\n4. **Pharmakologischen Informationen** zu:\n   - Pulmonaler Hypertonie\n   - Kalziumantagonisten\n   - Phosphodiesterase-5-Inhibitoren\n\nEs werden zwar verschiedene klinische Szenarien (z.B. \"Phäochromozytom\", \"Diabetes mellitus\", \"Herzinsuffizienz\") erwähnt, aber diese sind **theoretische Behandlungsrichtlinien** und keine konkreten Patientenfälle mit individuellen Präsentationen, Befunden oder diagnostischen Abläufen."
+  }
+]

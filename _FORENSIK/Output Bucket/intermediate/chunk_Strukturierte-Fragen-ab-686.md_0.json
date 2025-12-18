@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 1/5) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDas Dokument besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** mit allgemeinen medizinischen Wissensinhalten:\n   - Frage 686: Glasgow Coma Scale (GCS) - Bewertungsskala\n   - Böhler-Winkel - Anatomische Winkelmessungen\n   - Frage 689: Thrombus vs. Embolie - Theoretische Differenzierung\n   - Frage 692: Auskultationspunkte Herzklappen - Anatomisches Wissen\n   - Frage 694: Herzbiomarker - Labordiagnostik-Theorie\n   - Frage 696: Ethik-Kommission - Institutionelles Wissen\n\n2. **Keine konkreten Patientenfälle** mit:\n   - Individuellen Patientendaten (Alter/Geschlecht)\n   - Spezifischer Anamnese\n   - Konkreten Untersuchungsbefunden eines einzelnen Patienten\n   - Fallbezogener Diagnostik oder Therapie\n\nEs handelt sich um ein **strukturiertes Prüfungsfragen-Dokument** mit allgemeinen medizinischen Lehrinhalten, nicht um klinische Fallpräsentationen."
+  }
+]

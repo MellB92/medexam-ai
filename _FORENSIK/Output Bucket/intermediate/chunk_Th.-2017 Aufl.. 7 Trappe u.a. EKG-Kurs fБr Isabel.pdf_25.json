@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält ausschließlich theoretisches Lehrmaterial über:\n\n1. **AV-Blockierungen** (Lektion 10):\n   - Schematische Darstellungen von sekundären und tertiären Automatiezentren\n   - Theoretische Erklärungen zu AV-Block I°, II° und III°\n   - Merksätze zur Klassifikation\n   - Verweise auf EKG-Beispiele (ohne die Beispiele selbst)\n\n2. **AV-junktionaler Rhythmus** (Lektion 11):\n   - Theoretische Grundlagen\n   - Pathophysiologische Mechanismen\n   - Schematische Darstellungen der elektrischen Erregungsabläufe\n\nEs werden zwar \"EKG-Beispiele\" erwähnt (Nr. 5, 6, 7), aber diese werden nur referenziert mit Seitenangaben - die eigentlichen Beispielfälle sind nicht im vorliegenden Textabschnitt enthalten.\n\n**Keine vollständigen klinischen Patientenpräsentationen vorhanden.**"
+  }
+]

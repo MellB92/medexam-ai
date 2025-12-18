@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 255/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen** mit zugehörigen Antworten und Musterlösungen zu verschiedenen medizinischen Themen:\n   - EKG-Interpretation und Myokarditis\n   - Management von Thoraxschmerzen in der Notaufnahme\n   - Stenttypen und Nachsorge\n   - Differenzialdiagnosen bei Lungenveränderungen\n   - Kontrastmittelgabe\n   - Divertikulose\n   - Lymphknoten\n   - Schilddrüsenkarzinome\n\n2. **Wissensfragen ohne konkrete Patientenpräsentation**, z.B.:\n   - \"Welche viralen und bakteriellen Ursachen für Myokarditis kennen Sie?\"\n   - \"Welche Stents kennen Sie?\"\n   - \"Was ist Divertikulose?\"\n\n3. **Allgemeine klinische Szenarien** (z.B. \"Patient mit Thoraxschmerzen\"), aber ohne spezifische Patientendetails wie Alter, Geschlecht, konkrete Anamnese oder vollständige Befunde, die einen extrahierbaren Fall darstellen würden.\n\nEs handelt sich um ein **Prüfungsprotokoll mit Frage-Antwort-Format**, nicht um eine Fallsammlung mit konkreten Patientenpräsentationen."
+  }
+]

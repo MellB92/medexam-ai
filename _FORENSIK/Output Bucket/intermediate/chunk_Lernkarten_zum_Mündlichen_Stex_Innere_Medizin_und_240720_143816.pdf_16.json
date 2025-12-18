@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 17/84) enthält **keine vollständigen klinischen Patientenfälle oder Präsentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Lernkarteninhalten zu Diabetes mellitus:**\n   - Therapie der diabetischen Ketoazidose\n   - Hypoglykämie (Definition, Klinik, Diagnostik, Therapie)\n   - Spätkomplikationen des Diabetes\n   - Weitere Komplikationen\n\n2. **Lernkarteninhalten zu Gicht:**\n   - Definition und Ätiologie\n   - Klinik (akuter Gichtanfall, chronische Gicht)\n   - Diagnostik\n   - Therapie\n\nEs handelt sich um **systematisches medizinisches Lehrmaterial** mit:\n- Definitionen\n- Pathophysiologie\n- Klinischen Merkmalen (allgemein beschrieben)\n- Diagnostischen und therapeutischen Algorithmen\n\nEs werden **keine konkreten Patienten** mit individuellen Charakteristika (Alter, Geschlecht, spezifische Anamnese, konkrete Befunde) präsentiert, die als klinische Fälle extrahiert werden könnten."
+  }
+]

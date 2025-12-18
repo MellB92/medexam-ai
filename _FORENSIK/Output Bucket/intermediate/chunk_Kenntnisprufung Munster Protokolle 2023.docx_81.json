@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Gastroösophageale Refluxkrankheit bei 62-jähriger Patientin",
+    "patient_age": "62-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "typische Symptome einer gastroösophagealen Refluxkrankheit",
+      "Schmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "gesamte körperliche Untersuchung durchgeführt (bis auf die neurologische Untersuchung)",
+      "kardiale Auskultation",
+      "Pulstastung"
+    ],
+    "imaging_findings": [
+      "EKG zum Ausschluss ACS erwogen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Gastroösophageale Refluxkrankheit",
+      "ACS (als Differentialdiagnose)"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "körperliche Untersuchung",
+      "kardiovaskuläre Auskultation",
+      "Pulstastung"
+    ]
+  },
+  {
+    "title": "Hinterwandinfarkt im EKG",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit Hinterwandinfarkt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hinterwandinfarkt",
+      "KHK"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "PCI geplant",
+      "Herzkranzgefäßanatomie",
+      "LDL-Cholesterin-Bestimmung"
+    ]
+  },
+  {
+    "title": "Colles-Fraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen: Colles-Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Colles-Fraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen"
+    ]
+  }
+]

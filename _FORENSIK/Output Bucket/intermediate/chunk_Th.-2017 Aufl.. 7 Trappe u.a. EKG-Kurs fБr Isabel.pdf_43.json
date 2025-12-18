@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 44/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer Abschnitt behandelt:\n\n1. **Lektion 18**: Elektrokardiografische Befunde bei Herzhypertrophien\n   - Linksherzhypertrophie (theoretische Beschreibung, diagnostische Kriterien)\n   - Rechtsherzhypertrophie (theoretische Beschreibung, diagnostische Kriterien)\n   - Sokolow-Lyon-Index\n   - Verweis auf EKG-Beispiele 23 und 24 (ohne konkrete Patienteninformationen)\n\n2. **Lektion 19**: EKG bei ST-Strecken-Hebungs-Myokardinfarkt\n   - Theoretische Grundlagen der Infarktdiagnostik\n   - Nomenklatur (STEMI vs. NSTEMI)\n   - Initialstadium und EKG-Veränderungen (allgemeine Beschreibung)\n\nEs handelt sich ausschließlich um **didaktisches Lehrmaterial** mit theoretischen Erklärungen, diagnostischen Kriterien und EKG-Befundmustern. Es werden keine konkreten Patienten mit individuellen Beschwerden, Untersuchungsbefunden oder Behandlungsverläufen beschrieben."
+  }
+]

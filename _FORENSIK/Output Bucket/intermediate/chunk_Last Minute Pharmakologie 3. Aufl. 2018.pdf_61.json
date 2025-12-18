@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt aus einem pharmakologischen Lehrbuch enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text behandelt ausschließlich:\n- Pharmakologische Eigenschaften von Opioidanalgetika (Wirkungen, Nebenwirkungen)\n- Pharmakokinetik von Morphin\n- Kontraindikationen\n- Opioidintoxikation (als theoretisches Krankheitsbild, nicht als konkreter Fall)\n- Opioidentzugssyndrom (als theoretisches Krankheitsbild)\n- Betäubungsmittel-Verordnung\n- Check-up Fragen (theoretische Wissensfragen)\n- Einleitung zu Nichtopioidanalgetika\n\nEs werden zwar klinische Szenarien wie \"Opioidintoxikation\" oder \"Opioidentzugssyndrom\" beschrieben, jedoch handelt es sich hierbei um **allgemeine symptomatische Beschreibungen und therapeutische Ansätze**, nicht um konkrete Patientenfälle mit individueller Anamnese, Befunden oder diagnostischem Vorgehen."
+  }
+]

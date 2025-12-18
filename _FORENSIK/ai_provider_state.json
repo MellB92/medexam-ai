@@ -1,0 +1,6387 @@
+{
+  "timestamp": "2025-12-01T09:47:13.681732",
+  "provider_spending": {
+    "portkey": 0.9052140000000001,
+    "comet": 19.869062399999986
+  },
+  "cost_tracking": {
+    "total_cost": 20.774276399999984,
+    "by_provider": {
+      "portkey": {
+        "total_cost": 0.9052140000000001,
+        "requests": 367,
+        "tokens": {
+          "input": 171493,
+          "output": 26049,
+          "thinking": 0
+        }
+      },
+      "comet": {
+        "total_cost": 19.869062399999986,
+        "requests": 392,
+        "tokens": {
+          "input": 1407826,
+          "output": 1374190,
+          "thinking": 0
+        }
+      }
+    },
+    "by_document": {
+      "case_extract_2_5256178696217194970.pdf_chunk1": {
+        "cost": 0.01842,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3495,
+          "output": 529,
+          "thinking": 0
+        }
+      },
+      "case_extract_2_5256178696217194970.pdf_chunk2": {
+        "cost": 0.037419,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3398,
+          "output": 1815,
+          "thinking": 0
+        }
+      },
+      "case_extract_2_5256178696217194970.pdf_chunk3": {
+        "cost": 0.007463999999999999,
+        "provider": "portkey",
+        "tokens": {
+          "input": 2018,
+          "output": 94,
+          "thinking": 0
+        }
+      },
+      "case_extract_Fallkonzepte und relevante Themen für KP im Münster.pdf_chunk1": {
+        "cost": 0.07374299999999999,
+        "provider": "portkey",
+        "tokens": {
+          "input": 4101,
+          "output": 4096,
+          "thinking": 0
+        }
+      },
+      "case_extract_Fallkonzepte und relevante Themen für KP im Münster.pdf_chunk2": {
+        "cost": 0.010254000000000001,
+        "provider": "portkey",
+        "tokens": {
+          "input": 2978,
+          "output": 88,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk1": {
+        "cost": 0.011822999999999998,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3596,
+          "output": 69,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk2": {
+        "cost": 0.012567,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3759,
+          "output": 86,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk3": {
+        "cost": 0.012798,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3776,
+          "output": 98,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk4": {
+        "cost": 0.012576,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3752,
+          "output": 88,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk5": {
+        "cost": 0.013443,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3946,
+          "output": 107,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk6": {
+        "cost": 0.012171000000000001,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3652,
+          "output": 81,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk7": {
+        "cost": 0.012432,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3634,
+          "output": 102,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk8": {
+        "cost": 0.012615,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3640,
+          "output": 113,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk9": {
+        "cost": 0.012849,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3678,
+          "output": 121,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk10": {
+        "cost": 0.012287999999999999,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3681,
+          "output": 83,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk11": {
+        "cost": 0.012513,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3761,
+          "output": 82,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk12": {
+        "cost": 0.013326000000000001,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3867,
+          "output": 115,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk13": {
+        "cost": 0.012759000000000001,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3873,
+          "output": 76,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk14": {
+        "cost": 0.012650999999999999,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3717,
+          "output": 100,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk15": {
+        "cost": 0.013041,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3687,
+          "output": 132,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk16": {
+        "cost": 0.012429,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3663,
+          "output": 96,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk17": {
+        "cost": 0.012240000000000001,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3530,
+          "output": 110,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk18": {
+        "cost": 0.012366,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3607,
+          "output": 103,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechtsmedizin (1).pdf_chunk19": {
+        "cost": 0.007866000000000001,
+        "provider": "portkey",
+        "tokens": {
+          "input": 2147,
+          "output": 95,
+          "thinking": 0
+        }
+      },
+      "case_extract_kp 10.01.25.docx_chunk1": {
+        "cost": 0.042954,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3703,
+          "output": 2123,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk1": {
+        "cost": 0.022668,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3961,
+          "output": 719,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk2": {
+        "cost": 0.012702,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3704,
+          "output": 106,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk3": {
+        "cost": 0.016275,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3630,
+          "output": 359,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk4": {
+        "cost": 0.02067,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3535,
+          "output": 671,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk5": {
+        "cost": 0.023907,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3659,
+          "output": 862,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk6": {
+        "cost": 0.021684000000000002,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3613,
+          "output": 723,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk7": {
+        "cost": 0.015231,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3587,
+          "output": 298,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk8": {
+        "cost": 0.020109000000000002,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3728,
+          "output": 595,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk9": {
+        "cost": 0.019332,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3554,
+          "output": 578,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk10": {
+        "cost": 0.01572,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3540,
+          "output": 340,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk11": {
+        "cost": 0.041712,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3394,
+          "output": 2102,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk12": {
+        "cost": 0.010449,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3473,
+          "output": 2,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk13": {
+        "cost": 0.044931,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3677,
+          "output": 2260,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk14": {
+        "cost": 0.019323,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3561,
+          "output": 576,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk15": {
+        "cost": 0.011772,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3509,
+          "output": 83,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk16": {
+        "cost": 0.026115,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3655,
+          "output": 1010,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk17": {
+        "cost": 0.020376,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3622,
+          "output": 634,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk18": {
+        "cost": 0.018219,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3483,
+          "output": 518,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk19": {
+        "cost": 0.01851,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3550,
+          "output": 524,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk20": {
+        "cost": 0.02613,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3655,
+          "output": 1011,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk21": {
+        "cost": 0.015629999999999998,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3650,
+          "output": 312,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk22": {
+        "cost": 0.016308,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3491,
+          "output": 389,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk23": {
+        "cost": 0.022434,
+        "provider": "portkey",
+        "tokens": {
+          "input": 3603,
+          "output": 775,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk24": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk25": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk26": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk27": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk28": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk29": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk30": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk31": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk32": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk33": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk34": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk35": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk36": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk37": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk38": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk39": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk40": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk41": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk42": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk43": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk44": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk45": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk46": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk47": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk48": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk49": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk50": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk51": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk52": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk53": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk54": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk55": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk56": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk57": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk58": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk59": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk60": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk61": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk62": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk63": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk64": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk65": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk66": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk67": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk68": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk69": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk70": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk71": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk72": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk73": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk74": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk75": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk76": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk77": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk78": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk79": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk80": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2023.pdf_chunk81": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk1": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk2": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk3": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk4": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk5": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk6": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk7": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk8": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk9": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk10": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk11": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk12": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk13": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk14": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk15": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk16": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk17": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk18": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk19": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk20": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk21": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk22": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk23": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk24": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk25": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk26": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk27": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk28": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk29": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk30": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk31": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk32": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk33": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk34": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk35": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk36": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk37": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk38": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk39": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk40": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk41": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk42": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk43": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk44": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk45": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk46": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk47": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk48": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk49": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk50": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk51": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk52": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk53": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk54": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk55": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new .docx_chunk56": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk1": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk2": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk3": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk4": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk5": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk6": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk7": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk8": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk9": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk10": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk11": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk12": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk13": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk14": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk15": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk16": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk17": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk18": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk19": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk20": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk21": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk22": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk23": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk24": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk25": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk26": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk27": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk28": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk29": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk30": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk31": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk32": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk33": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk34": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk35": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk36": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk37": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk38": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk39": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk40": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk41": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk42": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk43": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk44": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk45": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk46": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk47": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk48": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk49": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk50": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk51": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk52": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk53": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk54": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk55": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2024(3).docx_chunk56": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_2_5386546467072665969.pdf_chunk1": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts.pdf_chunk1": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts.pdf_chunk2": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts.pdf_chunk3": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts.pdf_chunk4": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts.pdf_chunk5": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts.pdf_chunk6": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts.pdf_chunk7": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts.pdf_chunk8": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts.pdf_chunk9": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts.pdf_chunk10": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk1": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk2": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk3": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk4": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk5": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk6": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk7": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk8": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk9": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk10": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk11": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk12": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk13": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk14": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk15": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk16": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk17": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk18": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk19": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk20": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk21": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk22": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk23": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk24": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk25": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk26": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk27": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk28": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk29": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk30": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk31": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk32": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk33": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk34": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk35": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk36": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk37": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk38": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk39": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk40": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk41": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk42": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk43": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk44": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk45": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk46": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025.docx_chunk47": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk1": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk2": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk3": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk4": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk5": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk6": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk7": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk8": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk9": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk10": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk11": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk12": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk13": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk14": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk15": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk16": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk17": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk18": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk19": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk20": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk21": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk22": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk23": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk24": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk25": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk26": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk27": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk28": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk29": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk30": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk31": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk32": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk33": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk34": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk35": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk36": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk37": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokolle_KP_Muenster_2020-2025_SORTED faltan casos.pdf_chunk38": {
+        "cost": 0.0,
+        "provider": "portkey",
+        "tokens": {
+          "input": 0,
+          "output": 0,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk1": {
+        "cost": 0.11289599999999998,
+        "provider": "comet",
+        "tokens": {
+          "input": 4190,
+          "output": 8570,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk2": {
+        "cost": 0.0340776,
+        "provider": "comet",
+        "tokens": {
+          "input": 3749,
+          "output": 2090,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk3": {
+        "cost": 0.07025039999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3716,
+          "output": 5111,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk4": {
+        "cost": 0.04926,
+        "provider": "comet",
+        "tokens": {
+          "input": 3670,
+          "output": 3371,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk5": {
+        "cost": 0.19674239999999998,
+        "provider": "comet",
+        "tokens": {
+          "input": 3631,
+          "output": 15669,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk6": {
+        "cost": 0.0585696,
+        "provider": "comet",
+        "tokens": {
+          "input": 3629,
+          "output": 4155,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk7": {
+        "cost": 0.043202399999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3566,
+          "output": 2887,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk8": {
+        "cost": 0.0486048,
+        "provider": "comet",
+        "tokens": {
+          "input": 3647,
+          "output": 3321,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk9": {
+        "cost": 0.06334799999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3565,
+          "output": 4566,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk10": {
+        "cost": 0.043152,
+        "provider": "comet",
+        "tokens": {
+          "input": 3535,
+          "output": 2889,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk11": {
+        "cost": 0.0679656,
+        "provider": "comet",
+        "tokens": {
+          "input": 3664,
+          "output": 4931,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk12": {
+        "cost": 0.0379536,
+        "provider": "comet",
+        "tokens": {
+          "input": 3729,
+          "output": 2417,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk13": {
+        "cost": 0.051552,
+        "provider": "comet",
+        "tokens": {
+          "input": 3780,
+          "output": 3540,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk14": {
+        "cost": 0.0388728,
+        "provider": "comet",
+        "tokens": {
+          "input": 3572,
+          "output": 2525,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk15": {
+        "cost": 0.037751999999999994,
+        "provider": "comet",
+        "tokens": {
+          "input": 3690,
+          "output": 2408,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk16": {
+        "cost": 0.0503784,
+        "provider": "comet",
+        "tokens": {
+          "input": 3556,
+          "output": 3487,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk17": {
+        "cost": 0.046716,
+        "provider": "comet",
+        "tokens": {
+          "input": 3905,
+          "output": 3112,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk18": {
+        "cost": 0.049010399999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3671,
+          "output": 3350,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk19": {
+        "cost": 0.035013600000000006,
+        "provider": "comet",
+        "tokens": {
+          "input": 3489,
+          "output": 2220,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk20": {
+        "cost": 0.0429024,
+        "provider": "comet",
+        "tokens": {
+          "input": 3571,
+          "output": 2861,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk21": {
+        "cost": 0.05560319999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3598,
+          "output": 3914,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk22": {
+        "cost": 0.049504799999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3557,
+          "output": 3414,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk23": {
+        "cost": 0.04314,
+        "provider": "comet",
+        "tokens": {
+          "input": 3590,
+          "output": 2877,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk24": {
+        "cost": 0.0655176,
+        "provider": "comet",
+        "tokens": {
+          "input": 3704,
+          "output": 4719,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk25": {
+        "cost": 0.0789216,
+        "provider": "comet",
+        "tokens": {
+          "input": 3804,
+          "output": 5816,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk26": {
+        "cost": 0.048571199999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3773,
+          "output": 3293,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk27": {
+        "cost": 0.08282400000000001,
+        "provider": "comet",
+        "tokens": {
+          "input": 3655,
+          "output": 6171,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk28": {
+        "cost": 0.0378072,
+        "provider": "comet",
+        "tokens": {
+          "input": 3753,
+          "output": 2400,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk29": {
+        "cost": 0.0520896,
+        "provider": "comet",
+        "tokens": {
+          "input": 3714,
+          "output": 3598,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk30": {
+        "cost": 0.046562400000000004,
+        "provider": "comet",
+        "tokens": {
+          "input": 3411,
+          "output": 3198,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk31": {
+        "cost": 0.0598128,
+        "provider": "comet",
+        "tokens": {
+          "input": 3657,
+          "output": 4253,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk32": {
+        "cost": 0.0419616,
+        "provider": "comet",
+        "tokens": {
+          "input": 3729,
+          "output": 2751,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk33": {
+        "cost": 0.0464112,
+        "provider": "comet",
+        "tokens": {
+          "input": 3403,
+          "output": 3187,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk34": {
+        "cost": 0.0459072,
+        "provider": "comet",
+        "tokens": {
+          "input": 3608,
+          "output": 3104,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk35": {
+        "cost": 0.059112000000000005,
+        "provider": "comet",
+        "tokens": {
+          "input": 3490,
+          "output": 4228,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk36": {
+        "cost": 0.0378768,
+        "provider": "comet",
+        "tokens": {
+          "input": 3297,
+          "output": 2497,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk37": {
+        "cost": 0.0310008,
+        "provider": "comet",
+        "tokens": {
+          "input": 3402,
+          "output": 1903,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk38": {
+        "cost": 0.0546768,
+        "provider": "comet",
+        "tokens": {
+          "input": 3477,
+          "output": 3861,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk39": {
+        "cost": 0.04495439999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3636,
+          "output": 3019,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk40": {
+        "cost": 0.0444576,
+        "provider": "comet",
+        "tokens": {
+          "input": 3619,
+          "output": 2981,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk41": {
+        "cost": 0.053229599999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3479,
+          "output": 3740,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk42": {
+        "cost": 0.050968799999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3617,
+          "output": 3524,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk43": {
+        "cost": 0.0814992,
+        "provider": "comet",
+        "tokens": {
+          "input": 3633,
+          "output": 6065,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk44": {
+        "cost": 0.041829599999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3704,
+          "output": 2745,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk45": {
+        "cost": 0.044786400000000004,
+        "provider": "comet",
+        "tokens": {
+          "input": 3786,
+          "output": 2975,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk46": {
+        "cost": 0.036924,
+        "provider": "comet",
+        "tokens": {
+          "input": 3550,
+          "output": 2367,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk47": {
+        "cost": 0.028631999999999998,
+        "provider": "comet",
+        "tokens": {
+          "input": 3365,
+          "output": 1713,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk48": {
+        "cost": 0.05442,
+        "provider": "comet",
+        "tokens": {
+          "input": 3570,
+          "output": 3821,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk49": {
+        "cost": 0.0449688,
+        "provider": "comet",
+        "tokens": {
+          "input": 3507,
+          "output": 3046,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk50": {
+        "cost": 0.04676159999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3869,
+          "output": 3123,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk51": {
+        "cost": 0.0387456,
+        "provider": "comet",
+        "tokens": {
+          "input": 3759,
+          "output": 2477,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk52": {
+        "cost": 0.0328296,
+        "provider": "comet",
+        "tokens": {
+          "input": 3764,
+          "output": 1983,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk53": {
+        "cost": 0.053044799999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3712,
+          "output": 3678,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk54": {
+        "cost": 0.0437016,
+        "provider": "comet",
+        "tokens": {
+          "input": 3809,
+          "output": 2880,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk55": {
+        "cost": 0.1501368,
+        "provider": "comet",
+        "tokens": {
+          "input": 3722,
+          "output": 11767,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk56": {
+        "cost": 0.044402399999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3591,
+          "output": 2982,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk57": {
+        "cost": 0.041416800000000004,
+        "provider": "comet",
+        "tokens": {
+          "input": 3467,
+          "output": 2758,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk58": {
+        "cost": 0.0444912,
+        "provider": "comet",
+        "tokens": {
+          "input": 3618,
+          "output": 2984,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk59": {
+        "cost": 0.050858400000000005,
+        "provider": "comet",
+        "tokens": {
+          "input": 3751,
+          "output": 3488,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk60": {
+        "cost": 0.0675504,
+        "provider": "comet",
+        "tokens": {
+          "input": 3631,
+          "output": 4903,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk61": {
+        "cost": 0.05639999999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3745,
+          "output": 3951,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk62": {
+        "cost": 0.043826399999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3826,
+          "output": 2887,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk63": {
+        "cost": 0.0448968,
+        "provider": "comet",
+        "tokens": {
+          "input": 3827,
+          "output": 2976,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk64": {
+        "cost": 0.0454632,
+        "provider": "comet",
+        "tokens": {
+          "input": 3528,
+          "output": 3083,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk65": {
+        "cost": 0.044836799999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3817,
+          "output": 2973,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk66": {
+        "cost": 0.053889599999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3744,
+          "output": 3742,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk67": {
+        "cost": 0.0415296,
+        "provider": "comet",
+        "tokens": {
+          "input": 3574,
+          "output": 2746,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk68": {
+        "cost": 0.0810312,
+        "provider": "comet",
+        "tokens": {
+          "input": 3468,
+          "output": 6059,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk69": {
+        "cost": 0.0362808,
+        "provider": "comet",
+        "tokens": {
+          "input": 3377,
+          "output": 2348,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk70": {
+        "cost": 0.0409536,
+        "provider": "comet",
+        "tokens": {
+          "input": 3644,
+          "output": 2684,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk71": {
+        "cost": 0.0335232,
+        "provider": "comet",
+        "tokens": {
+          "input": 3728,
+          "output": 2048,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk72": {
+        "cost": 0.10543200000000001,
+        "provider": "comet",
+        "tokens": {
+          "input": 3660,
+          "output": 8054,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk73": {
+        "cost": 0.06892319999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3568,
+          "output": 5030,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk74": {
+        "cost": 0.04751759999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3544,
+          "output": 3251,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk75": {
+        "cost": 0.0491448,
+        "provider": "comet",
+        "tokens": {
+          "input": 3622,
+          "output": 3371,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk76": {
+        "cost": 0.10835760000000001,
+        "provider": "comet",
+        "tokens": {
+          "input": 3559,
+          "output": 8318,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk77": {
+        "cost": 0.026268,
+        "provider": "comet",
+        "tokens": {
+          "input": 3610,
+          "output": 1467,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk78": {
+        "cost": 0.029390399999999997,
+        "provider": "comet",
+        "tokens": {
+          "input": 3591,
+          "output": 1731,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk79": {
+        "cost": 0.06245279999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3557,
+          "output": 4493,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk80": {
+        "cost": 0.0493488,
+        "provider": "comet",
+        "tokens": {
+          "input": 3812,
+          "output": 3350,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk81": {
+        "cost": 0.040931999999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3760,
+          "output": 2659,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk82": {
+        "cost": 0.0805176,
+        "provider": "comet",
+        "tokens": {
+          "input": 3659,
+          "output": 5978,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk83": {
+        "cost": 0.035923199999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3588,
+          "output": 2276,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk84": {
+        "cost": 0.1447392,
+        "provider": "comet",
+        "tokens": {
+          "input": 3573,
+          "output": 11347,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk85": {
+        "cost": 0.047798400000000005,
+        "provider": "comet",
+        "tokens": {
+          "input": 3546,
+          "output": 3274,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk86": {
+        "cost": 0.0516096,
+        "provider": "comet",
+        "tokens": {
+          "input": 3999,
+          "output": 3501,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk87": {
+        "cost": 0.13617600000000002,
+        "provider": "comet",
+        "tokens": {
+          "input": 3740,
+          "output": 10600,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk88": {
+        "cost": 0.0513096,
+        "provider": "comet",
+        "tokens": {
+          "input": 3659,
+          "output": 3544,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk89": {
+        "cost": 0.0758016,
+        "provider": "comet",
+        "tokens": {
+          "input": 3604,
+          "output": 5596,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk90": {
+        "cost": 0.04062,
+        "provider": "comet",
+        "tokens": {
+          "input": 3650,
+          "output": 2655,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk91": {
+        "cost": 0.0449088,
+        "provider": "comet",
+        "tokens": {
+          "input": 3672,
+          "output": 3008,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk92": {
+        "cost": 0.047928,
+        "provider": "comet",
+        "tokens": {
+          "input": 3580,
+          "output": 3278,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk93": {
+        "cost": 0.0405456,
+        "provider": "comet",
+        "tokens": {
+          "input": 3689,
+          "output": 2641,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk94": {
+        "cost": 0.0752664,
+        "provider": "comet",
+        "tokens": {
+          "input": 3521,
+          "output": 5568,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk95": {
+        "cost": 0.047736,
+        "provider": "comet",
+        "tokens": {
+          "input": 3550,
+          "output": 3268,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk96": {
+        "cost": 0.037327200000000005,
+        "provider": "comet",
+        "tokens": {
+          "input": 3508,
+          "output": 2409,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk97": {
+        "cost": 0.039168,
+        "provider": "comet",
+        "tokens": {
+          "input": 3555,
+          "output": 2553,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk98": {
+        "cost": 0.0636192,
+        "provider": "comet",
+        "tokens": {
+          "input": 3663,
+          "output": 4569,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk99": {
+        "cost": 0.0768792,
+        "provider": "comet",
+        "tokens": {
+          "input": 3603,
+          "output": 5686,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk100": {
+        "cost": 0.050006400000000006,
+        "provider": "comet",
+        "tokens": {
+          "input": 3466,
+          "output": 3474,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk101": {
+        "cost": 0.0577488,
+        "provider": "comet",
+        "tokens": {
+          "input": 3627,
+          "output": 4087,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk102": {
+        "cost": 0.1474632,
+        "provider": "comet",
+        "tokens": {
+          "input": 3633,
+          "output": 11562,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk103": {
+        "cost": 0.055056,
+        "provider": "comet",
+        "tokens": {
+          "input": 3585,
+          "output": 3871,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk104": {
+        "cost": 0.051667199999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3513,
+          "output": 3603,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk105": {
+        "cost": 0.0460464,
+        "provider": "comet",
+        "tokens": {
+          "input": 3616,
+          "output": 3114,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk106": {
+        "cost": 0.027288,
+        "provider": "comet",
+        "tokens": {
+          "input": 3655,
+          "output": 1543,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk107": {
+        "cost": 0.0365064,
+        "provider": "comet",
+        "tokens": {
+          "input": 3471,
+          "output": 2348,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk108": {
+        "cost": 0.035119199999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3528,
+          "output": 2221,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk109": {
+        "cost": 0.0498264,
+        "provider": "comet",
+        "tokens": {
+          "input": 3646,
+          "output": 3423,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk110": {
+        "cost": 0.044498399999999994,
+        "provider": "comet",
+        "tokens": {
+          "input": 3561,
+          "output": 2996,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk111": {
+        "cost": 0.06465599999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3680,
+          "output": 4652,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk113": {
+        "cost": 0.039249599999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3679,
+          "output": 2535,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk114": {
+        "cost": 0.0559536,
+        "provider": "comet",
+        "tokens": {
+          "input": 3444,
+          "output": 3974,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk115": {
+        "cost": 0.049171200000000005,
+        "provider": "comet",
+        "tokens": {
+          "input": 3638,
+          "output": 3370,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk116": {
+        "cost": 0.0614808,
+        "provider": "comet",
+        "tokens": {
+          "input": 3687,
+          "output": 4386,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk117": {
+        "cost": 0.0469584,
+        "provider": "comet",
+        "tokens": {
+          "input": 3576,
+          "output": 3198,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk118": {
+        "cost": 0.049103999999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3590,
+          "output": 3374,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk119": {
+        "cost": 0.0447336,
+        "provider": "comet",
+        "tokens": {
+          "input": 3624,
+          "output": 3003,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk120": {
+        "cost": 0.0374664,
+        "provider": "comet",
+        "tokens": {
+          "input": 3716,
+          "output": 2379,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk121": {
+        "cost": 0.0633336,
+        "provider": "comet",
+        "tokens": {
+          "input": 3719,
+          "output": 4534,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk122": {
+        "cost": 0.0466872,
+        "provider": "comet",
+        "tokens": {
+          "input": 3798,
+          "output": 3131,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk123": {
+        "cost": 0.0471912,
+        "provider": "comet",
+        "tokens": {
+          "input": 3508,
+          "output": 3231,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk124": {
+        "cost": 0.0715344,
+        "provider": "comet",
+        "tokens": {
+          "input": 3701,
+          "output": 5221,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk125": {
+        "cost": 0.0390408,
+        "provider": "comet",
+        "tokens": {
+          "input": 3662,
+          "output": 2521,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk126": {
+        "cost": 0.05178,
+        "provider": "comet",
+        "tokens": {
+          "input": 3630,
+          "output": 3589,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk127": {
+        "cost": 0.0378144,
+        "provider": "comet",
+        "tokens": {
+          "input": 3541,
+          "output": 2443,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk128": {
+        "cost": 0.1485792,
+        "provider": "comet",
+        "tokens": {
+          "input": 3658,
+          "output": 11650,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk129": {
+        "cost": 0.0403464,
+        "provider": "comet",
+        "tokens": {
+          "input": 3686,
+          "output": 2625,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk130": {
+        "cost": 0.034725599999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3539,
+          "output": 2186,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk131": {
+        "cost": 0.0536064,
+        "provider": "comet",
+        "tokens": {
+          "input": 3516,
+          "output": 3764,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk132": {
+        "cost": 0.0596712,
+        "provider": "comet",
+        "tokens": {
+          "input": 3553,
+          "output": 4262,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk133": {
+        "cost": 0.0544776,
+        "provider": "comet",
+        "tokens": {
+          "input": 3534,
+          "output": 3833,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk134": {
+        "cost": 0.09279359999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3674,
+          "output": 6998,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk135": {
+        "cost": 0.0359736,
+        "provider": "comet",
+        "tokens": {
+          "input": 3604,
+          "output": 2277,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk136": {
+        "cost": 0.05800799999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3665,
+          "output": 4101,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk137": {
+        "cost": 0.07969439999999998,
+        "provider": "comet",
+        "tokens": {
+          "input": 3676,
+          "output": 5906,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk138": {
+        "cost": 0.049699200000000006,
+        "provider": "comet",
+        "tokens": {
+          "input": 3713,
+          "output": 3399,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk139": {
+        "cost": 0.053985599999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3724,
+          "output": 3754,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk140": {
+        "cost": 0.0491304,
+        "provider": "comet",
+        "tokens": {
+          "input": 3666,
+          "output": 3361,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk141": {
+        "cost": 0.041685599999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3724,
+          "output": 2729,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk142": {
+        "cost": 0.033045599999999994,
+        "provider": "comet",
+        "tokens": {
+          "input": 3579,
+          "output": 2038,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk143": {
+        "cost": 0.059772000000000006,
+        "provider": "comet",
+        "tokens": {
+          "input": 3505,
+          "output": 4280,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk144": {
+        "cost": 0.0281568,
+        "provider": "comet",
+        "tokens": {
+          "input": 3612,
+          "output": 1624,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk145": {
+        "cost": 0.039201599999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3644,
+          "output": 2538,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk146": {
+        "cost": 0.0787248,
+        "provider": "comet",
+        "tokens": {
+          "input": 3742,
+          "output": 5812,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk147": {
+        "cost": 0.0496992,
+        "provider": "comet",
+        "tokens": {
+          "input": 3793,
+          "output": 3383,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk148": {
+        "cost": 0.0465288,
+        "provider": "comet",
+        "tokens": {
+          "input": 3697,
+          "output": 3138,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk149": {
+        "cost": 0.08622959999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3679,
+          "output": 6450,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk150": {
+        "cost": 0.0556272,
+        "provider": "comet",
+        "tokens": {
+          "input": 3548,
+          "output": 3926,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk151": {
+        "cost": 0.06118799999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3410,
+          "output": 4417,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk152": {
+        "cost": 0.0361344,
+        "provider": "comet",
+        "tokens": {
+          "input": 3621,
+          "output": 2287,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk153": {
+        "cost": 0.035001599999999994,
+        "provider": "comet",
+        "tokens": {
+          "input": 3854,
+          "output": 2146,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk154": {
+        "cost": 0.040884000000000004,
+        "provider": "comet",
+        "tokens": {
+          "input": 3545,
+          "output": 2698,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk155": {
+        "cost": 0.050352,
+        "provider": "comet",
+        "tokens": {
+          "input": 3645,
+          "output": 3467,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk156": {
+        "cost": 0.0397512,
+        "provider": "comet",
+        "tokens": {
+          "input": 3663,
+          "output": 2580,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk157": {
+        "cost": 0.0502752,
+        "provider": "comet",
+        "tokens": {
+          "input": 3453,
+          "output": 3499,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk158": {
+        "cost": 0.0387432,
+        "provider": "comet",
+        "tokens": {
+          "input": 3538,
+          "output": 2521,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk159": {
+        "cost": 0.05556239999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3496,
+          "output": 3931,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk160": {
+        "cost": 0.041976,
+        "provider": "comet",
+        "tokens": {
+          "input": 3680,
+          "output": 2762,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk161": {
+        "cost": 0.037300799999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3467,
+          "output": 2415,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk162": {
+        "cost": 0.034243199999999994,
+        "provider": "comet",
+        "tokens": {
+          "input": 3538,
+          "output": 2146,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk163": {
+        "cost": 0.0506016,
+        "provider": "comet",
+        "tokens": {
+          "input": 3519,
+          "output": 3513,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk164": {
+        "cost": 0.0314016,
+        "provider": "comet",
+        "tokens": {
+          "input": 3509,
+          "output": 1915,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk165": {
+        "cost": 0.0427512,
+        "provider": "comet",
+        "tokens": {
+          "input": 3708,
+          "output": 2821,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk166": {
+        "cost": 0.036276,
+        "provider": "comet",
+        "tokens": {
+          "input": 3580,
+          "output": 2307,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk167": {
+        "cost": 0.0738696,
+        "provider": "comet",
+        "tokens": {
+          "input": 3779,
+          "output": 5400,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk168": {
+        "cost": 0.06368399999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3510,
+          "output": 4605,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk169": {
+        "cost": 0.056208,
+        "provider": "comet",
+        "tokens": {
+          "input": 3495,
+          "output": 3985,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk170": {
+        "cost": 0.030770400000000003,
+        "provider": "comet",
+        "tokens": {
+          "input": 3546,
+          "output": 1855,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk171": {
+        "cost": 0.0643512,
+        "provider": "comet",
+        "tokens": {
+          "input": 3688,
+          "output": 4625,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk172": {
+        "cost": 0.056404800000000005,
+        "provider": "comet",
+        "tokens": {
+          "input": 3522,
+          "output": 3996,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk173": {
+        "cost": 0.0482736,
+        "provider": "comet",
+        "tokens": {
+          "input": 3764,
+          "output": 3270,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk174": {
+        "cost": 0.042218399999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3696,
+          "output": 2779,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk175": {
+        "cost": 0.049847999999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3570,
+          "output": 3440,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk176": {
+        "cost": 0.047248799999999994,
+        "provider": "comet",
+        "tokens": {
+          "input": 3742,
+          "output": 3189,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk177": {
+        "cost": 0.047152799999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3462,
+          "output": 3237,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk178": {
+        "cost": 0.0335928,
+        "provider": "comet",
+        "tokens": {
+          "input": 3572,
+          "output": 2085,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk179": {
+        "cost": 0.0346512,
+        "provider": "comet",
+        "tokens": {
+          "input": 3698,
+          "output": 2148,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk180": {
+        "cost": 0.051148799999999994,
+        "provider": "comet",
+        "tokens": {
+          "input": 3522,
+          "output": 3558,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk181": {
+        "cost": 0.0415296,
+        "provider": "comet",
+        "tokens": {
+          "input": 3744,
+          "output": 2712,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk182": {
+        "cost": 0.043823999999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3645,
+          "output": 2923,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk183": {
+        "cost": 0.0671472,
+        "provider": "comet",
+        "tokens": {
+          "input": 3683,
+          "output": 4859,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk184": {
+        "cost": 0.0381624,
+        "provider": "comet",
+        "tokens": {
+          "input": 3511,
+          "output": 2478,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk185": {
+        "cost": 0.05541600000000001,
+        "provider": "comet",
+        "tokens": {
+          "input": 3560,
+          "output": 3906,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk186": {
+        "cost": 0.0914112,
+        "provider": "comet",
+        "tokens": {
+          "input": 3518,
+          "output": 6914,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk187": {
+        "cost": 0.0840192,
+        "provider": "comet",
+        "tokens": {
+          "input": 3588,
+          "output": 6284,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk188": {
+        "cost": 0.040696800000000005,
+        "provider": "comet",
+        "tokens": {
+          "input": 3622,
+          "output": 2667,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk189": {
+        "cost": 0.0448968,
+        "provider": "comet",
+        "tokens": {
+          "input": 3617,
+          "output": 3018,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk190": {
+        "cost": 0.04512000000000001,
+        "provider": "comet",
+        "tokens": {
+          "input": 3615,
+          "output": 3037,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk191": {
+        "cost": 0.13162559999999998,
+        "provider": "comet",
+        "tokens": {
+          "input": 3694,
+          "output": 10230,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk192": {
+        "cost": 0.0288,
+        "provider": "comet",
+        "tokens": {
+          "input": 3590,
+          "output": 1682,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk193": {
+        "cost": 0.028915200000000002,
+        "provider": "comet",
+        "tokens": {
+          "input": 3618,
+          "output": 1686,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk194": {
+        "cost": 0.064596,
+        "provider": "comet",
+        "tokens": {
+          "input": 3765,
+          "output": 4630,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk195": {
+        "cost": 0.047188799999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3492,
+          "output": 3234,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk196": {
+        "cost": 0.0976632,
+        "provider": "comet",
+        "tokens": {
+          "input": 3533,
+          "output": 7432,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk197": {
+        "cost": 0.0744576,
+        "provider": "comet",
+        "tokens": {
+          "input": 3624,
+          "output": 5480,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk198": {
+        "cost": 0.0546264,
+        "provider": "comet",
+        "tokens": {
+          "input": 3696,
+          "output": 3813,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk199": {
+        "cost": 0.046742399999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3741,
+          "output": 3147,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk200": {
+        "cost": 0.0234168,
+        "provider": "comet",
+        "tokens": {
+          "input": 3492,
+          "output": 1253,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk201": {
+        "cost": 0.0381936,
+        "provider": "comet",
+        "tokens": {
+          "input": 3659,
+          "output": 2451,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk202": {
+        "cost": 0.0394656,
+        "provider": "comet",
+        "tokens": {
+          "input": 3664,
+          "output": 2556,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk203": {
+        "cost": 0.0912528,
+        "provider": "comet",
+        "tokens": {
+          "input": 3737,
+          "output": 6857,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk204": {
+        "cost": 0.07458959999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3744,
+          "output": 5467,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk205": {
+        "cost": 0.031478400000000004,
+        "provider": "comet",
+        "tokens": {
+          "input": 3586,
+          "output": 1906,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk206": {
+        "cost": 0.054052800000000005,
+        "provider": "comet",
+        "tokens": {
+          "input": 3582,
+          "output": 3788,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk207": {
+        "cost": 0.057362399999999994,
+        "provider": "comet",
+        "tokens": {
+          "input": 3591,
+          "output": 4062,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk208": {
+        "cost": 0.050615999999999994,
+        "provider": "comet",
+        "tokens": {
+          "input": 3630,
+          "output": 3492,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk209": {
+        "cost": 0.0316248,
+        "provider": "comet",
+        "tokens": {
+          "input": 3517,
+          "output": 1932,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk210": {
+        "cost": 0.0544032,
+        "provider": "comet",
+        "tokens": {
+          "input": 3328,
+          "output": 3868,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk211": {
+        "cost": 0.0331152,
+        "provider": "comet",
+        "tokens": {
+          "input": 3353,
+          "output": 2089,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk212": {
+        "cost": 0.043008,
+        "provider": "comet",
+        "tokens": {
+          "input": 3495,
+          "output": 2885,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk213": {
+        "cost": 0.059352,
+        "provider": "comet",
+        "tokens": {
+          "input": 3515,
+          "output": 4243,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk214": {
+        "cost": 0.025704,
+        "provider": "comet",
+        "tokens": {
+          "input": 3520,
+          "output": 1438,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk215": {
+        "cost": 0.055545599999999994,
+        "provider": "comet",
+        "tokens": {
+          "input": 3609,
+          "output": 3907,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk216": {
+        "cost": 0.0448536,
+        "provider": "comet",
+        "tokens": {
+          "input": 3384,
+          "output": 3061,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk217": {
+        "cost": 0.0438888,
+        "provider": "comet",
+        "tokens": {
+          "input": 3532,
+          "output": 2951,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk218": {
+        "cost": 0.048033599999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3469,
+          "output": 3309,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk219": {
+        "cost": 0.08942399999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3325,
+          "output": 6787,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk220": {
+        "cost": 0.0404184,
+        "provider": "comet",
+        "tokens": {
+          "input": 3581,
+          "output": 2652,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk221": {
+        "cost": 0.0491256,
+        "provider": "comet",
+        "tokens": {
+          "input": 3404,
+          "output": 3413,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk222": {
+        "cost": 0.0406248,
+        "provider": "comet",
+        "tokens": {
+          "input": 3467,
+          "output": 2692,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk223": {
+        "cost": 0.0558696,
+        "provider": "comet",
+        "tokens": {
+          "input": 3549,
+          "output": 3946,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk224": {
+        "cost": 0.0346008,
+        "provider": "comet",
+        "tokens": {
+          "input": 3477,
+          "output": 2188,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk225": {
+        "cost": 0.0369864,
+        "provider": "comet",
+        "tokens": {
+          "input": 3381,
+          "output": 2406,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk226": {
+        "cost": 0.039156,
+        "provider": "comet",
+        "tokens": {
+          "input": 3585,
+          "output": 2546,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk227": {
+        "cost": 0.046475999999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3645,
+          "output": 3144,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk228": {
+        "cost": 0.0351432,
+        "provider": "comet",
+        "tokens": {
+          "input": 3688,
+          "output": 2191,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk229": {
+        "cost": 0.069168,
+        "provider": "comet",
+        "tokens": {
+          "input": 3545,
+          "output": 5055,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk230": {
+        "cost": 0.043836,
+        "provider": "comet",
+        "tokens": {
+          "input": 3575,
+          "output": 2938,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk231": {
+        "cost": 0.0432816,
+        "provider": "comet",
+        "tokens": {
+          "input": 3524,
+          "output": 2902,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk232": {
+        "cost": 0.0208824,
+        "provider": "comet",
+        "tokens": {
+          "input": 3561,
+          "output": 1028,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk233": {
+        "cost": 0.0267432,
+        "provider": "comet",
+        "tokens": {
+          "input": 3553,
+          "output": 1518,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk234": {
+        "cost": 0.0248304,
+        "provider": "comet",
+        "tokens": {
+          "input": 3506,
+          "output": 1368,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk235": {
+        "cost": 0.044747999999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3665,
+          "output": 2996,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk236": {
+        "cost": 0.0374304,
+        "provider": "comet",
+        "tokens": {
+          "input": 3476,
+          "output": 2424,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk237": {
+        "cost": 0.0375672,
+        "provider": "comet",
+        "tokens": {
+          "input": 3583,
+          "output": 2414,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk238": {
+        "cost": 0.0452928,
+        "provider": "comet",
+        "tokens": {
+          "input": 3352,
+          "output": 3104,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk239": {
+        "cost": 0.028488,
+        "provider": "comet",
+        "tokens": {
+          "input": 3410,
+          "output": 1692,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk240": {
+        "cost": 0.05820000000000001,
+        "provider": "comet",
+        "tokens": {
+          "input": 3490,
+          "output": 4152,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk241": {
+        "cost": 0.045828,
+        "provider": "comet",
+        "tokens": {
+          "input": 3455,
+          "output": 3128,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk242": {
+        "cost": 0.0264024,
+        "provider": "comet",
+        "tokens": {
+          "input": 3561,
+          "output": 1488,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk243": {
+        "cost": 0.047522400000000006,
+        "provider": "comet",
+        "tokens": {
+          "input": 3466,
+          "output": 3267,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk244": {
+        "cost": 0.06456719999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3513,
+          "output": 4678,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk245": {
+        "cost": 0.0282384,
+        "provider": "comet",
+        "tokens": {
+          "input": 3571,
+          "output": 1639,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk246": {
+        "cost": 0.038359199999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3493,
+          "output": 2498,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk249": {
+        "cost": 0.0490608,
+        "provider": "comet",
+        "tokens": {
+          "input": 3762,
+          "output": 3336,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk250": {
+        "cost": 0.040214400000000004,
+        "provider": "comet",
+        "tokens": {
+          "input": 3731,
+          "output": 2605,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk251": {
+        "cost": 0.0364152,
+        "provider": "comet",
+        "tokens": {
+          "input": 3573,
+          "output": 2320,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk255": {
+        "cost": 0.0443664,
+        "provider": "comet",
+        "tokens": {
+          "input": 3591,
+          "output": 2979,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk256": {
+        "cost": 0.0513624,
+        "provider": "comet",
+        "tokens": {
+          "input": 3511,
+          "output": 3578,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk257": {
+        "cost": 0.0392664,
+        "provider": "comet",
+        "tokens": {
+          "input": 3736,
+          "output": 2525,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk258": {
+        "cost": 0.041505600000000004,
+        "provider": "comet",
+        "tokens": {
+          "input": 3614,
+          "output": 2736,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk259": {
+        "cost": 0.0400608,
+        "provider": "comet",
+        "tokens": {
+          "input": 3657,
+          "output": 2607,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk260": {
+        "cost": 0.056772,
+        "provider": "comet",
+        "tokens": {
+          "input": 3545,
+          "output": 4022,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk261": {
+        "cost": 0.0367056,
+        "provider": "comet",
+        "tokens": {
+          "input": 3604,
+          "output": 2338,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk262": {
+        "cost": 0.076776,
+        "provider": "comet",
+        "tokens": {
+          "input": 3520,
+          "output": 5694,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk263": {
+        "cost": 0.0558696,
+        "provider": "comet",
+        "tokens": {
+          "input": 3604,
+          "output": 3935,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk264": {
+        "cost": 0.06384480000000001,
+        "provider": "comet",
+        "tokens": {
+          "input": 3642,
+          "output": 4592,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk265": {
+        "cost": 0.0511104,
+        "provider": "comet",
+        "tokens": {
+          "input": 3761,
+          "output": 3507,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk266": {
+        "cost": 0.047282399999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3566,
+          "output": 3227,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk267": {
+        "cost": 0.029836799999999997,
+        "provider": "comet",
+        "tokens": {
+          "input": 3537,
+          "output": 1779,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk268": {
+        "cost": 0.044479199999999997,
+        "provider": "comet",
+        "tokens": {
+          "input": 3753,
+          "output": 2956,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk269": {
+        "cost": 0.0378816,
+        "provider": "comet",
+        "tokens": {
+          "input": 3654,
+          "output": 2426,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk270": {
+        "cost": 0.060775199999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3758,
+          "output": 4313,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk271": {
+        "cost": 0.043656,
+        "provider": "comet",
+        "tokens": {
+          "input": 3505,
+          "output": 2937,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk272": {
+        "cost": 0.0286896,
+        "provider": "comet",
+        "tokens": {
+          "input": 3544,
+          "output": 1682,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk273": {
+        "cost": 0.0801336,
+        "provider": "comet",
+        "tokens": {
+          "input": 3699,
+          "output": 5938,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk274": {
+        "cost": 0.038832,
+        "provider": "comet",
+        "tokens": {
+          "input": 3800,
+          "output": 2476,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk275": {
+        "cost": 0.07966559999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3629,
+          "output": 5913,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk276": {
+        "cost": 0.0343104,
+        "provider": "comet",
+        "tokens": {
+          "input": 3616,
+          "output": 2136,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk277": {
+        "cost": 0.056512799999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3532,
+          "output": 4003,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk278": {
+        "cost": 0.04073039999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3646,
+          "output": 2665,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk279": {
+        "cost": 0.07979040000000001,
+        "provider": "comet",
+        "tokens": {
+          "input": 3661,
+          "output": 5917,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk280": {
+        "cost": 0.0377136,
+        "provider": "comet",
+        "tokens": {
+          "input": 3654,
+          "output": 2412,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk281": {
+        "cost": 0.034152,
+        "provider": "comet",
+        "tokens": {
+          "input": 3680,
+          "output": 2110,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk282": {
+        "cost": 0.0345312,
+        "provider": "comet",
+        "tokens": {
+          "input": 3783,
+          "output": 2121,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk283": {
+        "cost": 0.039283200000000004,
+        "provider": "comet",
+        "tokens": {
+          "input": 3603,
+          "output": 2553,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk284": {
+        "cost": 0.047971200000000006,
+        "provider": "comet",
+        "tokens": {
+          "input": 3723,
+          "output": 3253,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk285": {
+        "cost": 0.0606336,
+        "provider": "comet",
+        "tokens": {
+          "input": 3604,
+          "output": 4332,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk286": {
+        "cost": 0.0433944,
+        "provider": "comet",
+        "tokens": {
+          "input": 3441,
+          "output": 2928,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk287": {
+        "cost": 0.035496,
+        "provider": "comet",
+        "tokens": {
+          "input": 3540,
+          "output": 2250,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk288": {
+        "cost": 0.04038,
+        "provider": "comet",
+        "tokens": {
+          "input": 3445,
+          "output": 2676,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk289": {
+        "cost": 0.0671448,
+        "provider": "comet",
+        "tokens": {
+          "input": 3297,
+          "output": 4936,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk290": {
+        "cost": 0.054168,
+        "provider": "comet",
+        "tokens": {
+          "input": 3390,
+          "output": 3836,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk291": {
+        "cost": 0.045011999999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3660,
+          "output": 3019,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk292": {
+        "cost": 0.056188800000000004,
+        "provider": "comet",
+        "tokens": {
+          "input": 3677,
+          "output": 3947,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk293": {
+        "cost": 0.0714432,
+        "provider": "comet",
+        "tokens": {
+          "input": 3888,
+          "output": 5176,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk294": {
+        "cost": 0.046658399999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3721,
+          "output": 3144,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk295": {
+        "cost": 0.088596,
+        "provider": "comet",
+        "tokens": {
+          "input": 3115,
+          "output": 6760,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk296": {
+        "cost": 0.05355359999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3449,
+          "output": 3773,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk297": {
+        "cost": 0.037716,
+        "provider": "comet",
+        "tokens": {
+          "input": 3595,
+          "output": 2424,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk298": {
+        "cost": 0.0356808,
+        "provider": "comet",
+        "tokens": {
+          "input": 3582,
+          "output": 2257,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk299": {
+        "cost": 0.042707999999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3570,
+          "output": 2845,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk300": {
+        "cost": 0.0431424,
+        "provider": "comet",
+        "tokens": {
+          "input": 3491,
+          "output": 2897,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk301": {
+        "cost": 0.024943200000000002,
+        "provider": "comet",
+        "tokens": {
+          "input": 3448,
+          "output": 1389,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk302": {
+        "cost": 0.09597119999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3598,
+          "output": 7278,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk303": {
+        "cost": 0.0858024,
+        "provider": "comet",
+        "tokens": {
+          "input": 3726,
+          "output": 6405,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk304": {
+        "cost": 0.0504888,
+        "provider": "comet",
+        "tokens": {
+          "input": 3797,
+          "output": 3448,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk305": {
+        "cost": 0.0379008,
+        "provider": "comet",
+        "tokens": {
+          "input": 3542,
+          "output": 2450,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk306": {
+        "cost": 0.0311304,
+        "provider": "comet",
+        "tokens": {
+          "input": 3706,
+          "output": 1853,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk307": {
+        "cost": 0.038544,
+        "provider": "comet",
+        "tokens": {
+          "input": 3675,
+          "output": 2477,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk308": {
+        "cost": 0.07431360000000001,
+        "provider": "comet",
+        "tokens": {
+          "input": 3734,
+          "output": 5446,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk309": {
+        "cost": 0.044515200000000005,
+        "provider": "comet",
+        "tokens": {
+          "input": 3843,
+          "output": 2941,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk310": {
+        "cost": 0.0504696,
+        "provider": "comet",
+        "tokens": {
+          "input": 3584,
+          "output": 3489,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung .pdf_chunk311": {
+        "cost": 0.0294792,
+        "provider": "comet",
+        "tokens": {
+          "input": 1873,
+          "output": 2082,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts (1).pdf_chunk1": {
+        "cost": 0.0138528,
+        "provider": "comet",
+        "tokens": {
+          "input": 3582,
+          "output": 438,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts (1).pdf_chunk2": {
+        "cost": 0.0162576,
+        "provider": "comet",
+        "tokens": {
+          "input": 3579,
+          "output": 639,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts (1).pdf_chunk3": {
+        "cost": 0.0214632,
+        "provider": "comet",
+        "tokens": {
+          "input": 3728,
+          "output": 1043,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts (1).pdf_chunk4": {
+        "cost": 0.015559199999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3813,
+          "output": 534,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts (1).pdf_chunk5": {
+        "cost": 0.018691199999999998,
+        "provider": "comet",
+        "tokens": {
+          "input": 3738,
+          "output": 810,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts (1).pdf_chunk6": {
+        "cost": 0.017594399999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3751,
+          "output": 716,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts (1).pdf_chunk7": {
+        "cost": 0.020196,
+        "provider": "comet",
+        "tokens": {
+          "input": 3595,
+          "output": 964,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts (1).pdf_chunk8": {
+        "cost": 0.017472,
+        "provider": "comet",
+        "tokens": {
+          "input": 3740,
+          "output": 708,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts (1).pdf_chunk9": {
+        "cost": 0.031836,
+        "provider": "comet",
+        "tokens": {
+          "input": 3800,
+          "output": 1893,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts (1).pdf_chunk10": {
+        "cost": 0.0187392,
+        "provider": "comet",
+        "tokens": {
+          "input": 3798,
+          "output": 802,
+          "thinking": 0
+        }
+      },
+      "case_extract_Rechts (1).pdf_chunk11": {
+        "cost": 0.0123168,
+        "provider": "comet",
+        "tokens": {
+          "input": 2487,
+          "output": 529,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk1": {
+        "cost": 0.0214824,
+        "provider": "comet",
+        "tokens": {
+          "input": 3646,
+          "output": 1061,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk2": {
+        "cost": 0.0527808,
+        "provider": "comet",
+        "tokens": {
+          "input": 3747,
+          "output": 3649,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk3": {
+        "cost": 0.0234168,
+        "provider": "comet",
+        "tokens": {
+          "input": 3712,
+          "output": 1209,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk4": {
+        "cost": 0.0209376,
+        "provider": "comet",
+        "tokens": {
+          "input": 3674,
+          "output": 1010,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk5": {
+        "cost": 0.0438456,
+        "provider": "comet",
+        "tokens": {
+          "input": 3739,
+          "output": 2906,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk6": {
+        "cost": 0.0329256,
+        "provider": "comet",
+        "tokens": {
+          "input": 3739,
+          "output": 1996,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk7": {
+        "cost": 0.0220128,
+        "provider": "comet",
+        "tokens": {
+          "input": 3802,
+          "output": 1074,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk8": {
+        "cost": 0.0397392,
+        "provider": "comet",
+        "tokens": {
+          "input": 3618,
+          "output": 2588,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk9": {
+        "cost": 0.15068159999999997,
+        "provider": "comet",
+        "tokens": {
+          "input": 3734,
+          "output": 11810,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk10": {
+        "cost": 0.1164816,
+        "provider": "comet",
+        "tokens": {
+          "input": 3729,
+          "output": 8961,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk11": {
+        "cost": 0.108972,
+        "provider": "comet",
+        "tokens": {
+          "input": 3670,
+          "output": 8347,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk12": {
+        "cost": 0.054876,
+        "provider": "comet",
+        "tokens": {
+          "input": 3720,
+          "output": 3829,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk13": {
+        "cost": 0.05825759999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3834,
+          "output": 4088,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk14": {
+        "cost": 0.0333792,
+        "provider": "comet",
+        "tokens": {
+          "input": 3753,
+          "output": 2031,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk15": {
+        "cost": 0.0498096,
+        "provider": "comet",
+        "tokens": {
+          "input": 3674,
+          "output": 3416,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk16": {
+        "cost": 0.055663199999999996,
+        "provider": "comet",
+        "tokens": {
+          "input": 3678,
+          "output": 3903,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk17": {
+        "cost": 0.0503784,
+        "provider": "comet",
+        "tokens": {
+          "input": 3721,
+          "output": 3454,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk18": {
+        "cost": 0.056196,
+        "provider": "comet",
+        "tokens": {
+          "input": 3640,
+          "output": 3955,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk19": {
+        "cost": 0.06708,
+        "provider": "comet",
+        "tokens": {
+          "input": 3545,
+          "output": 4881,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk20": {
+        "cost": 0.04321200000000001,
+        "provider": "comet",
+        "tokens": {
+          "input": 3785,
+          "output": 2844,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk21": {
+        "cost": 0.067716,
+        "provider": "comet",
+        "tokens": {
+          "input": 3735,
+          "output": 4896,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk22": {
+        "cost": 0.0445608,
+        "provider": "comet",
+        "tokens": {
+          "input": 3757,
+          "output": 2962,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk23": {
+        "cost": 0.068604,
+        "provider": "comet",
+        "tokens": {
+          "input": 3700,
+          "output": 4977,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk24": {
+        "cost": 0.039199200000000003,
+        "provider": "comet",
+        "tokens": {
+          "input": 3403,
+          "output": 2586,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk25": {
+        "cost": 0.026368799999999998,
+        "provider": "comet",
+        "tokens": {
+          "input": 3897,
+          "output": 1418,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk26": {
+        "cost": 0.0444576,
+        "provider": "comet",
+        "tokens": {
+          "input": 3789,
+          "output": 2947,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk27": {
+        "cost": 0.0289584,
+        "provider": "comet",
+        "tokens": {
+          "input": 3801,
+          "output": 1653,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk28": {
+        "cost": 0.073176,
+        "provider": "comet",
+        "tokens": {
+          "input": 3800,
+          "output": 5338,
+          "thinking": 0
+        }
+      },
+      "case_extract_MV KP-Themen bis 05.2024.pdf_chunk29": {
+        "cost": 0.09344640000000001,
+        "provider": "comet",
+        "tokens": {
+          "input": 3731,
+          "output": 7041,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokoll 29.10.2024.docx_chunk1": {
+        "cost": 0.04862879999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3312,
+          "output": 3390,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokoll 29.10.2024.docx_chunk2": {
+        "cost": 0.030743999999999997,
+        "provider": "comet",
+        "tokens": {
+          "input": 3320,
+          "output": 1898,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokoll 29.10.2024.docx_chunk3": {
+        "cost": 0.034363199999999997,
+        "provider": "comet",
+        "tokens": {
+          "input": 2443,
+          "output": 2375,
+          "thinking": 0
+        }
+      },
+      "case_extract_Themen Teil 1 und Fallkonzepte für die Kenntnisprüfung in Münster.pdf_chunk1": {
+        "cost": 0.0243504,
+        "provider": "comet",
+        "tokens": {
+          "input": 4111,
+          "output": 1207,
+          "thinking": 0
+        }
+      },
+      "case_extract_Themen Teil 1 und Fallkonzepte für die Kenntnisprüfung in Münster.pdf_chunk2": {
+        "cost": 0.0229896,
+        "provider": "comet",
+        "tokens": {
+          "input": 3414,
+          "output": 1233,
+          "thinking": 0
+        }
+      },
+      "case_extract_KP 10.01.25 .pdf_chunk1": {
+        "cost": 0.0571032,
+        "provider": "comet",
+        "tokens": {
+          "input": 3733,
+          "output": 4012,
+          "thinking": 0
+        }
+      },
+      "case_extract_KP 10.01.25 .pdf_chunk2": {
+        "cost": 0.017963999999999997,
+        "provider": "comet",
+        "tokens": {
+          "input": 1640,
+          "output": 1169,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 bis Aug.pdf_chunk1": {
+        "cost": 0.0083016,
+        "provider": "comet",
+        "tokens": {
+          "input": 1699,
+          "output": 352,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 bis Aug.pdf_chunk2": {
+        "cost": 0.10116480000000001,
+        "provider": "comet",
+        "tokens": {
+          "input": 3092,
+          "output": 7812,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 bis Aug.pdf_chunk3": {
+        "cost": 0.0542712,
+        "provider": "comet",
+        "tokens": {
+          "input": 3473,
+          "output": 3828,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 bis Aug.pdf_chunk4": {
+        "cost": 0.0335904,
+        "provider": "comet",
+        "tokens": {
+          "input": 3786,
+          "output": 2042,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 bis Aug.pdf_chunk5": {
+        "cost": 0.0435096,
+        "provider": "comet",
+        "tokens": {
+          "input": 3674,
+          "output": 2891,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 bis Aug.pdf_chunk6": {
+        "cost": 0.1221888,
+        "provider": "comet",
+        "tokens": {
+          "input": 3617,
+          "output": 9459,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 bis Aug.pdf_chunk7": {
+        "cost": 0.0881904,
+        "provider": "comet",
+        "tokens": {
+          "input": 3811,
+          "output": 6587,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 bis Aug.pdf_chunk8": {
+        "cost": 0.0525288,
+        "provider": "comet",
+        "tokens": {
+          "input": 3852,
+          "output": 3607,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 bis Aug.pdf_chunk9": {
+        "cost": 0.0682368,
+        "provider": "comet",
+        "tokens": {
+          "input": 3777,
+          "output": 4931,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokollen Münster 2024.pdf_chunk64": {
+        "cost": 0.06466319999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3628,
+          "output": 4663,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokollen Münster 2024.pdf_chunk65": {
+        "cost": 0.024576,
+        "provider": "comet",
+        "tokens": {
+          "input": 3615,
+          "output": 1325,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokollen Münster 2024.pdf_chunk66": {
+        "cost": 0.0426864,
+        "provider": "comet",
+        "tokens": {
+          "input": 3531,
+          "output": 2851,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokollen Münster 2024.pdf_chunk67": {
+        "cost": 0.028919999999999998,
+        "provider": "comet",
+        "tokens": {
+          "input": 3645,
+          "output": 1681,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokollen Münster 2024.pdf_chunk68": {
+        "cost": 0.038604,
+        "provider": "comet",
+        "tokens": {
+          "input": 3660,
+          "output": 2485,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokollen Münster 2024.pdf_chunk69": {
+        "cost": 0.038839200000000004,
+        "provider": "comet",
+        "tokens": {
+          "input": 3653,
+          "output": 2506,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokollen Münster 2024.pdf_chunk70": {
+        "cost": 0.0370176,
+        "provider": "comet",
+        "tokens": {
+          "input": 3679,
+          "output": 2349,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokollen Münster 2024.pdf_chunk71": {
+        "cost": 0.0268248,
+        "provider": "comet",
+        "tokens": {
+          "input": 3782,
+          "output": 1479,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokollen Münster 2024.pdf_chunk72": {
+        "cost": 0.0432648,
+        "provider": "comet",
+        "tokens": {
+          "input": 3602,
+          "output": 2885,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokollen Münster 2024.pdf_chunk73": {
+        "cost": 0.04961279999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3722,
+          "output": 3390,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokollen Münster 2024.pdf_chunk74": {
+        "cost": 0.1090632,
+        "provider": "comet",
+        "tokens": {
+          "input": 3603,
+          "output": 8368,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokollen Münster 2024.pdf_chunk75": {
+        "cost": 0.05612400000000001,
+        "provider": "comet",
+        "tokens": {
+          "input": 3440,
+          "output": 3989,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokollen Münster 2024.pdf_chunk76": {
+        "cost": 0.0351576,
+        "provider": "comet",
+        "tokens": {
+          "input": 3539,
+          "output": 2222,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokollen Münster 2024.pdf_chunk77": {
+        "cost": 0.044577599999999995,
+        "provider": "comet",
+        "tokens": {
+          "input": 3444,
+          "output": 3026,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokollen Münster 2024.pdf_chunk78": {
+        "cost": 0.0341328,
+        "provider": "comet",
+        "tokens": {
+          "input": 2882,
+          "output": 2268,
+          "thinking": 0
+        }
+      },
+      "case_extract_Strahlenschutz (2).pdf_chunk1": {
+        "cost": 0.01716,
+        "provider": "comet",
+        "tokens": {
+          "input": 2945,
+          "output": 841,
+          "thinking": 0
+        }
+      },
+      "case_extract_Strahlenschutz-Zusammenfassung.pdf_chunk1": {
+        "cost": 0.0191496,
+        "provider": "comet",
+        "tokens": {
+          "input": 3639,
+          "output": 868,
+          "thinking": 0
+        }
+      },
+      "case_extract_Strahlenschutz-Zusammenfassung.pdf_chunk2": {
+        "cost": 0.0186432,
+        "provider": "comet",
+        "tokens": {
+          "input": 3653,
+          "output": 823,
+          "thinking": 0
+        }
+      },
+      "case_extract_Strahlenschutz-Zusammenfassung.pdf_chunk3": {
+        "cost": 0.016790399999999997,
+        "provider": "comet",
+        "tokens": {
+          "input": 3186,
+          "output": 762,
+          "thinking": 0
+        }
+      },
+      "case_extract_Themen Münster.docx_chunk1": {
+        "cost": 0.017138399999999998,
+        "provider": "comet",
+        "tokens": {
+          "input": 3301,
+          "output": 768,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokoll-KP-Münster.pdf_chunk1": {
+        "cost": 0.09020399999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3845,
+          "output": 6748,
+          "thinking": 0
+        }
+      },
+      "case_extract_Protokoll-KP-Münster.pdf_chunk2": {
+        "cost": 0.0313584,
+        "provider": "comet",
+        "tokens": {
+          "input": 1941,
+          "output": 2225,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new 2.docx_chunk1": {
+        "cost": 0.0817416,
+        "provider": "comet",
+        "tokens": {
+          "input": 3564,
+          "output": 6099,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new 2.docx_chunk2": {
+        "cost": 0.11385360000000001,
+        "provider": "comet",
+        "tokens": {
+          "input": 3464,
+          "output": 8795,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new 2.docx_chunk3": {
+        "cost": 0.0828768,
+        "provider": "comet",
+        "tokens": {
+          "input": 3767,
+          "output": 6153,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new 2.docx_chunk4": {
+        "cost": 0.0392616,
+        "provider": "comet",
+        "tokens": {
+          "input": 3639,
+          "output": 2544,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new 2.docx_chunk5": {
+        "cost": 0.08478,
+        "provider": "comet",
+        "tokens": {
+          "input": 3530,
+          "output": 6359,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new 2.docx_chunk6": {
+        "cost": 0.0360552,
+        "provider": "comet",
+        "tokens": {
+          "input": 3548,
+          "output": 2295,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new 2.docx_chunk7": {
+        "cost": 0.0511464,
+        "provider": "comet",
+        "tokens": {
+          "input": 3731,
+          "output": 3516,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new 2.docx_chunk8": {
+        "cost": 0.046308,
+        "provider": "comet",
+        "tokens": {
+          "input": 3690,
+          "output": 3121,
+          "thinking": 0
+        }
+      },
+      "case_extract_Kenntnisprüfung Münster Protokolle 2025 new 2.docx_chunk9": {
+        "cost": 0.03376319999999999,
+        "provider": "comet",
+        "tokens": {
+          "input": 3728,
+          "output": 2068,
+          "thinking": 0
+        }
+      }
+    },
+    "thinking_vs_text_ratio": 0.0
+  }
+}

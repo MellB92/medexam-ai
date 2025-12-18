@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Linksseitige Brustschmerzen mit Ausstrahlung beim 63-jährigen Mann",
+    "patient_age": "63 Jahre",
+    "patient_gender": "männlich",
+    "chief_complaints": [
+      "Linksseitige Brustschmerzen",
+      "Ausstrahlung in die linke Schulter"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Diabetes mellitus",
+      "Hypothyreose"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Patient hat aktuell Brustschmerzen",
+      "Atemnot vorhanden",
+      "Vitalzeichen in Ordnung"
+    ],
+    "imaging_findings": [
+      "EKG beim Hausarzt war unauffällig"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Koronare Herzkrankheit (KHK)",
+      "Initial fälschlicherweise Herzinsuffizienz erwähnt"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Körperliche Untersuchung",
+      "EKG bereits erfolgt"
+    ]
+  }
+]

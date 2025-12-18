@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Hyponatriämie mit Natrium 122 mmol/l\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [\"Natrium 122 mmol/l\"],\n    \"suspected_diagnosis\": [\"Hyponatriämie\"],\n    \"diagnostic_approach\": [\"Urinosmolalität\", \"Urinnatriumkonzentration\", \"Serumosmolalität\", \"Kreatinin\", \"Harnstoff\", \"Glukose\", \"Kalium\", \"TSH\", \"Kortisol\"]\n  }\n]\n```"
+  }
+]

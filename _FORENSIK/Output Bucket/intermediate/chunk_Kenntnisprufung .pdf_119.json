@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Epigastrische Schmerzen und Sodbrennen bei Z.n. Thyroidektomie",
+    "patient_age": "62 Jahre",
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Epigastrische brennende nicht ausstrahlende Schmerzen seit paar Monaten",
+      "Schmerzen beim Liegen und nach dem Essen",
+      "Sodbrennen",
+      "Schluckschmerzen ohne Kloßgefühl",
+      "Essenpassage nicht gestört",
+      "Gewichtsabnahme 3 kg in letzten 3-4 Wochen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Thyroidektomie vor 15 Jahren",
+      "Handgelenkfraktur vor 6 Monaten, konservativ behandelt"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Langfristige Ibuprofen-Einnahme (600 mg 1-1-1 seit 6 Monaten)"
+    ],
+    "family_history": [
+      "Familienanamnese unauffällig"
+    ],
+    "social_history": [
+      "Sozialanamnese unauffällig"
+    ],
+    "medications": [
+      "L-Tyroxin 100 µg 1-0-0",
+      "Ibuprofen 600 mg 1-1-1 seit 6 Monaten"
+    ],
+    "allergies": [
+      "Penicillinallergie (Hautausschlag)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Stuhl normal",
+      "Wasserlassen normal"
+    ],
+    "imaging_findings": [
+      "Ösophagus: Ösophagitis (auf Bildern dargestellt)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Refluxkrankheit (Verdachtsdiagnose)"
+    ],
+    "diagnostic_approach": [
+      "DD Ulkus ventrikuli",
+      "DD obere GIB",
+      "DD Magen Ca",
+      "Komplikationen: Barretösophagitis"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Nachtschweiss verneint",
+      "Fieber verneint"
+    ]
+  }
+]

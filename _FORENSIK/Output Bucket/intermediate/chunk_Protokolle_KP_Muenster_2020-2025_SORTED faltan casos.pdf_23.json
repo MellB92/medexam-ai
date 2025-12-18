@@ -1,0 +1,66 @@
+[
+  {
+    "title": "KHK mit akutem Myokardinfarkt und Hinterwandinfarkt",
+    "patient_age": "63J",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Retrosternale drückende Schmerzen mit Ausstrahlung in den linken Arm",
+      "Schmerzen dauerten ein paar Minuten an und verschwanden in Ruhe",
+      "Schmerzintensität 7/10",
+      "Schwindel"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "KHK"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG beim Hausarzt unauffällig",
+      "EKG mit STEMI Hinterwand/Inferiorwand"
+    ],
+    "laboratory_findings": [
+      "Schnelltest beim Hausarzt unauffällig"
+    ],
+    "suspected_diagnosis": [
+      "ACS",
+      "STEMI Hinterwand/Inferiorwand",
+      "Myokardinfarkt"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Schnelltest",
+      "Herzkatheter geplant"
+    ]
+  },
+  {
+    "title": "pAVK mit Adynamie, Husten und Wadenschmerzen nach Australienreise",
+    "patient_age": "69 Jahre",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Seit einer Woche zunehmende Adynamie",
+      "Husten",
+      "Schmerzen in der linken Wade bei Gehstrecken über 200 Meter",
+      "Lumbalgie seit 20 Jahren"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Zustand nach Spondylodese aufgrund eines Bandscheibenvorfalls",
+      "Lumbalgie seit 20 Jahren"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Coronatest vor 8 Tagen positiv",
+      "Coronatest seit 3 Tagen negativ"
+    ],
+    "suspected_diagnosis": [
+      "pAVK",
+      "Post-COVID-Syndrom"
+    ],
+    "diagnostic_approach": []
+  }
+]

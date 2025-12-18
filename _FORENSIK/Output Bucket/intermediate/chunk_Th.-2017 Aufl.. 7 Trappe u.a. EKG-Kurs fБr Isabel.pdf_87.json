@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**, sondern ausschließlich **EKG-Lehrbeispiele** aus einem EKG-Lehrbuch.\n\nDie vorgestellten \"Fälle\" (EKG-Beispiel 11-16) sind:\n- Didaktische EKG-Beispiele zur Illustration verschiedener EKG-Befunde\n- Keine echten Patientenpräsentationen mit klinischem Kontext\n- Es fehlen: Anamnese, Symptome, klinische Untersuchung, Patientenalter/-geschlecht\n- Es handelt sich um reine EKG-Interpretationsübungen\n\n**Beispiele aus dem Text:**\n- EKG-Beispiel 11: Inkompletter Rechtsschenkelblock\n- EKG-Beispiel 12: Kompletter Rechtsschenkelblock\n- EKG-Beispiel 13: Kompletter Linksschenkelblock\n- EKG-Beispiel 14: Myokardiale Schädigung\n- EKG-Beispiel 15: Linksanteriorer Hemiblock\n- EKG-Beispiel 16: Bifaszikulärer Block\n\nDies sind **Lehrmaterialien** ohne klinischen Fallkontext, daher keine extrahierbaren klinischen Präsentationsfälle."
+  }
+]

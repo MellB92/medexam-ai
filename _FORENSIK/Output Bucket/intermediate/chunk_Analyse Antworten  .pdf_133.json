@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n- **Prüfungsfragen und -antworten** zu theoretischem Wissen über:\n  - Kreatinin (Definition, Elimination)\n  - Chronische Niereninsuffizienz (Definition, Therapie)\n  - SGLT2-Hemmer (Wirkmechanismus)\n  - Unterscheidung akutes vs. chronisches Nierenversagen\n  - Sinusbradykardie im EKG\n  - Ionisierende Strahlung\n\n- **Kurze Erwähnungen** ohne vollständige Falldarstellung:\n  - \"Pat war noch nie beim Arzt\" - fragmentarische Information ohne vollständigen klinischen Kontext\n  - \"EKG mit Sinusbradykardie mit relevanten Pausen\" - isolierter Befund ohne Patientenvorstellung\n\nEs handelt sich um ein **Prüfungsprotokoll** mit theoretischen Fragen und Musterlösungen, nicht um dokumentierte Patientenfälle mit Anamnese, Untersuchungsbefunden und vollständiger klinischer Präsentation."
+  }
+]

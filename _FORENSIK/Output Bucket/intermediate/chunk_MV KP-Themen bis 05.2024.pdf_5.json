@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Patient mit Nierentumor, hepatischen und ossären Metastasen mit Fieber nach Interventionen",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Fieber",
+      "Vigilanzstörung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Nierentumor",
+      "hepatische Metastasen",
+      "ossäre Metastasen"
+    ],
+    "comorbidities": [
+      "Anämie"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalparameter von 2 Stellen, 2-3 mal täglich gemessen"
+    ],
+    "physical_examination": [
+      "Konjunktiva rosig",
+      "Vigilanzstörung bei Infekt",
+      "periphere Vasodilatation bei Sepsis"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Kreatinin-Anstieg (kein Nierenversagen)",
+      "CRP erhöht (aufgrund Tumor)",
+      "PCT erhöht (bakterielle Genese)",
+      "BB"
+    ],
+    "suspected_diagnosis": [
+      "Adenokarzinom (histologisch gesichert)",
+      "Sepsis mit peripherer Vasodilatation",
+      "drohendes Multiorganversagen"
+    ],
+    "diagnostic_approach": [
+      "Leberpunktion durchgeführt",
+      "Gastroskopie durchgeführt",
+      "Koloskopie durchgeführt",
+      "Histologie: Adenokarzinom",
+      "Blutkultur von 2 Stellen",
+      "Labor: BB, CRP, PCT",
+      "Nierenwerte kontrollieren",
+      "Kopf-CT erwogen",
+      "Pulsoxymetrie",
+      "Azidose-Kontrolle"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Fieber nach Intervention",
+      "Vigilanzstörung",
+      "Sepsis mit peripherer Vasodilatation",
+      "Risiko für Multiorganversagen durch zentrale Organminderperfusion"
+    ],
+    "follow_up": []
+  }
+]

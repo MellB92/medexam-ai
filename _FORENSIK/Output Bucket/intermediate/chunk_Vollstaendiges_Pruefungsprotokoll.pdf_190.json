@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 191/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nEs handelt sich ausschließlich um:\n- **Prüfungsfragen** mit theoretischem medizinischen Wissen\n- **Wissensfragen** zu verschiedenen Themen (Organspende, Hirntod, Divertikulitis, Pyelonephritis, Schlafapnoe, H. pylori, Osteoporose, etc.)\n- **Musterantworten/Leitlinien** ohne konkreten Patientenbezug\n- Die meisten Antworten sind \"Nicht im Protokoll enthalten\"\n\nEs werden keine individuellen Patienten mit spezifischen Beschwerden, Anamnese, Untersuchungsbefunden oder diagnostischen Überlegungen präsentiert. Dies ist ein reiner Fragenkatalog ohne klinische Fallpräsentationen."
+  }
+]

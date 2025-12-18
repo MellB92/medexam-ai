@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Ikterus bei 80-jährigem Mann\",\n    \"patient_age\": \"80-jähriger\",\n    \"patient_gender\": \"Mann\",\n    \"chief_complaints\": [\"Ikterus\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Ikterus\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [],\n    \"diagnostic_approach\": [\"Abklärung erforderlich\"]\n  },\n  {\n    \"title\": \"Femurfraktur bei polymorbiden 89-jährigen Patienten\",\n    \"patient_age\": \"89-jähriger\",\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Femurfraktur\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"polymorbid\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Femurfraktur\"],\n    \"diagnostic_approach\": [\"Chirurgische Behandlung wegen Verbesserung der Lebensqualität empfohlen\"]\n  }\n]\n```"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Sturz aus 3-4m Höhe mit Knieschmerzen\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Schmerzen im linken Knie\", \"Schmerzen in der proximalen Tibia\"],\n    \"accident_mechanism\": \"Sturz aus 3-4m Höhe\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Femurkondylfraktur\", \"proximale Tibiafraktur\", \"Patellafraktur\", \"Innenmeniskusriss\", \"vorderes Kreuzbandruptur\", \"Ruptur des medialen Kollateralbandes (Unhappy Triad)\"],\n    \"diagnostic_approach\": []\n  },\n  {\n    \"title\": \"Akute mesenteriale Ischämie im CT\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\"KM-Abbruch in der Arteria mesenterica superior im CT\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"akute mesenteriale Ischämie\"],\n    \"diagnostic_approach\": [\"CT mit Kontrastmittel\"]\n  }\n]\n```"
+  }
+]

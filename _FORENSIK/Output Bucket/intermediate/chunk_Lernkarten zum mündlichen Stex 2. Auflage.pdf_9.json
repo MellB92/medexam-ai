@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Lehrmaterial zur körperlichen Untersuchung des Abdomens** - systematische Darstellung der Untersuchungstechniken (Inspektion, Auskultation, Perkussion, Palpation)\n\n2. **Theoretisches Wissen über Untersuchungsbefunde:**\n   - Normale vs. pathologische Befunde\n   - Klinische Zeichen (Murphy-Zeichen, Courvoisier-Zeichen, Appendizitiszeichen etc.)\n   - Leberhautzeichen\n   - Zeichen für akute Pankreatitis (Cullen-Zeichen, Grey-Turner-Zeichen)\n\n3. **Untersuchungstechniken und deren Interpretation:**\n   - Darmgeräusche bei Ileus\n   - Lebergrößenbestimmung\n   - Aszitesuntersuchung\n   - Digitale rektale Untersuchung\n\nEs werden zwar **Krankheitsbilder erwähnt** (Appendizitis, Peritonitis, Ileus, Pankreatitis etc.), aber **nicht als konkrete Patientenfälle präsentiert**, sondern nur als Beispiele für Befunde oder Untersuchungszeichen in einem Lernkartenformat."
+  }
+]

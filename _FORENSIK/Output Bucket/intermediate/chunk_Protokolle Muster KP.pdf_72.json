@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Dysphagie mit Gewichtsverlust und Reflux - Achalasie",
+    "patient_age": "45-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Dysphagie seit 6 Monaten",
+      "Zunächst bei hartem Essen, später auch bei Flüssigkeiten",
+      "Gewichtsverlust 5 kg in 4-5 Monaten",
+      "Reflux",
+      "Schlafstörungen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Appendektomie",
+      "Z.n. Femurfraktur, osteosynthetisch versorgt",
+      "2 Kolonpolypen endoskopisch entfernt",
+      "Rezidivierende unkomplizierte Harnwegsinfekte"
+    ],
+    "medications": [],
+    "allergies": [
+      "Erdnüsse",
+      "Penicillin",
+      "Alkohol gelegentlich",
+      "Ex-Raucherin seit 3 Jahren"
+    ],
+    "physical_examination": [
+      "Bauch abgetastet",
+      "Schilddrüse untersucht",
+      "Herz auskultiert",
+      "Blutdruck gemessen",
+      "Anämie-Zeichen untersucht",
+      "Neurologische Untersuchung"
+    ],
+    "imaging_findings": [
+      "Rö Thorax typisch für Achalasie",
+      "Sektglass-Phänomen"
+    ],
+    "laboratory_findings": [
+      "Labor zur Anämie-Abklärung",
+      "Routine-Profil"
+    ],
+    "suspected_diagnosis": [
+      "Achalasie",
+      "DD: DES (Diffuser Ösophagusspasmus)",
+      "DD: Paraösophageale Hiatushernie",
+      "DD: Ösophaguskarzinom",
+      "DD: Struma"
+    ],
+    "diagnostic_approach": [
+      "Labor (Routine-Profil, Anämie-Status)",
+      "Rö Thorax (Breischluck)",
+      "ÖGD-Skopie zum Ausschluss von DD"
+    ]
+  },
+  {
+    "title": "Dysphagie mit Gewichtsverlust - José Barreto Fall",
+    "patient_age": "35-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Dysphagie seit 5 Monaten",
+      "Initial bei solider Nahrung",
+      "Aktuell bei breiartiger Nahrung",
+      "Gewichtsverlust 6 kg in 5 Monaten"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Rezidivierende HWI (letzte vor 4 Wochen antibiotisch behandelt)",
+      "Z.n. Appendektomie",
+      "Z.n. Femurfraktur osteosynthetisch versorgt"
+    ],
+    "medications": [
+      "Ibuprofen bei Bedarf (Lumbalgie)",
+      "Orales Kontrazeptivum"
+    ],
+    "allergies": [
+      "Nikotinkonsum (Raucherin)",
+      "Alkoholkonsum: 2-3 Shots/Woche"
+    ],
+    "physical_examination": [
+      "Vitalparameter: RR bilateral, HF, AF",
+      "Palpation zervikale, okzipitale, supra- und infraklavikuläre Lymphknoten",
+      "Palpation und Auskultation Schilddrüse",
+      "Körperliche Untersuchung Thorax (Lungen, Herz)",
+      "Körperliche Untersuchung Abdomen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Verdachtsdiagnose mit DD (nicht spezifiziert im Chunk)"
+    ],
+    "diagnostic_approach": []
+  }
+]

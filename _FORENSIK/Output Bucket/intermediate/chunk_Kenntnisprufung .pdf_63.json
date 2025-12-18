@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Knieapparat-Verletzung mit Sturz und distaler Radiusfraktur",
+    "patient_age": "54 Jahre (geboren 1968, Prüfung 2022)",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Knieschmerzen rechts",
+      "Knie umgeknickt beim Spazierengehen"
+    ],
+    "accident_mechanism": "Beim Spazierengehen im Wald mit Hund. Hund war unruhig und hat gezogen. Knie verdreht, runtergefallen, mit dem Arm abgestützt (Extension). Nicht auf Kopf gefallen. Kein Schwindel.",
+    "pre_existing_conditions": [
+      "Heuschnupfen",
+      "Hämorrhoiden",
+      "Asthma als Kind",
+      "Z.n. Cholezystektomie vor 11 Jahren"
+    ],
+    "comorbidities": [
+      "Atemnot vor 4 Wochen beim Jogging für ein paar Minuten ohne Brustschmerz (Termin beim Lungenarzt geplant)"
+    ],
+    "risk_factors": [
+      "Rauchen nur am Wochenende",
+      "Gelegentlicher Alkoholkonsum (Feierabendbier)",
+      "Körperlich aktiver Beruf"
+    ],
+    "family_history": [
+      "Mutter: Rheumatoide Arthritis",
+      "Vater: pAVK mit OP versorgt, Bewegung noch eingeschränkt"
+    ],
+    "social_history": [
+      "Verheiratet",
+      "3 Kinder",
+      "Arbeitet als Hausmeister in einer großen Schule",
+      "Vegetarische Ernährung (wegen Hämorrhoiden)",
+      "Raucht nur am Wochenende",
+      "Trinkt gelegentlich Feierabendbier"
+    ],
+    "medications": [
+      "Cetirizin (für Heuschnupfen)",
+      "Salbe (für Hämorrhoiden)"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalparameter erhoben (nicht näher spezifiziert)"
+    ],
+    "physical_examination": [
+      "Rechtes Knie: Inspektion durchgeführt",
+      "Steinmann I positiv",
+      "Steinmann II positiv",
+      "Schubladentest, Lachmann-Test, Payr-Test durchgeführt",
+      "Rechte Hand: DMS und grobe Beweglichkeit unauffällig",
+      "Allgemeine KU: Kopf, Lymphknoten, Schilddrüse, Lunge, Herz, Abdomen unauffällig",
+      "Keine peripheren Ödeme",
+      "Periphere Pulse vorhanden",
+      "Reflexe geprüft"
+    ],
+    "imaging_findings": [
+      "Röntgen Knie rechts: Patient kann Bein nicht heben (keine Extension)",
+      "Patella luxiert",
+      "Quadrizeps-Sehnen verletzt",
+      "MRT Knie: Mediale Seitenbandläsion",
+      "Vordere Kreuzbandläsion",
+      "Innenmeniskusriss",
+      "Röntgen Hand rechts: distale Radiusfraktur (Colles-Fraktur)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Meniskusriss rechts (Steinmann-Zeichen positiv)",
+      "Patellaluxation",
+      "Quadrizepssehnen-Verletzung",
+      "Mediale Seitenbandläsion",
+      "Vordere Kreuzbandläsion",
+      "Distale Radiusfraktur rechts (Colles-Fraktur)"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Knie rechts",
+      "MRT Knie",
+      "Röntgen Hand rechts",
+      "Röntgen Thorax",
+      "Sonographie oder MRT zur besseren Beurteilung von Sehnen-/Bänderverletzungen"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Tetanusschutz unbekannt"
+    ],
+    "follow_up": [
+      "Tetanusschutz-Maßnahmen (aktiv plus passiv)",
+      "Kanüle gelegt",
+      "Operative Behandlung empfohlen (bei 54-Jährigem)",
+      "Patient aufgeklärt über weiteres Vorgehen"
+    ]
+  }
+]

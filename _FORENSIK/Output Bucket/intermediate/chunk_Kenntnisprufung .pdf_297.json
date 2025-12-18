@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Kind mit akuten Schmerzen im rechten Unterbauch - Appendizitis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen im rechten Unterbauch"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Appendizitiszeichen",
+      "Psoaszeichen positiv",
+      "retrozäkal liegender Appendizitis"
+    ],
+    "imaging_findings": [
+      "Sonographie durchgeführt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Appendizitis"
+    ],
+    "diagnostic_approach": [
+      "Sono",
+      "CT nicht notwendig - klinische Diagnose",
+      "Strahlenschutz bei Kindern beachten"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "zeitnahe laparoskopische Appendektomie",
+      "Thromboseprophylaxe nach Abdomenoperation"
+    ]
+  },
+  {
+    "title": "Kind mit Atemnot in der Nacht - Pseudocroup",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "mild",
+    "chief_complaints": [
+      "Atemnot",
+      "bellender Husten",
+      "inspiratorischer Stridor"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "bellender Husten",
+      "inspiratorischer Stridor",
+      "Stadium 1"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Pseudocroup Stadium 1"
+    ],
+    "diagnostic_approach": [
+      "DD: Epiglottitis"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Fenster öffnen",
+      "Frische Luft atmen lassen",
+      "stadiengerechte Therapie"
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+================================================================================
+QUALITÄTSBERICHT - BATCH-DOKUMENTENVERARBEITUNG
+Generiert am: 2025-10-01 00:25:35
+================================================================================
+
+1. DOKUMENTENEXTRAKTION
+--------------------------------------------------------------------------------
+Verarbeitete Dateien: 3
+Erfolgreich: 3
+Fehler: 0
+Erfolgsrate: 100.0%
+Extrahierte Zeichen: 561
+Gesamt Seiten: 3
+Durchschn. Qualität: 0.85/1.00
+Verarbeitungszeit: 0.50s
+
+2. FRAGENFORMATIERUNG
+--------------------------------------------------------------------------------
+Verarbeitete Texte: 3
+Erfolgreich: 3
+Fehlgeschlagen: 0
+Erfolgsrate: 100.0%
+Durchschn. Validierung: 0.53/1.00
+
+3. THEMENANALYSE
+--------------------------------------------------------------------------------
+Erkannte Themen (unique): 5
+Identifizierte Gesellschaften: 5
+
+Top 10 Themen:
+   1. Kardiologie               - 1 Vorkommen (Ø 1.00)
+   2. Diabetes                  - 1 Vorkommen (Ø 1.00)
+   3. Pneumonie                 - 1 Vorkommen (Ø 1.00)
+   4. Herzinsuffizienz          - 1 Vorkommen (Ø 0.50)
+   5. CT                        - 1 Vorkommen (Ø 0.50)
+
+Relevante Fachgesellschaften:
+  - AWMF
+  - DGI
+  - DGIM
+  - DRG
+  - ESC

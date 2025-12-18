@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Frau Meyer Ella, 45 Jahre - Achalasie",
+    "patient_age": "45",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Augenzittern (gelegentlich)",
+      "Keine Schluckbeschwerden (nach mehrfacher Nachfrage bestätigt)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Rechte Nierenbeschwerden"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Kardiopulmonale Untersuchung durchgeführt",
+      "Abdomen Untersuchung",
+      "Schilddrüsen Untersuchung",
+      "Nystagmus horizontal + vertikal geprüft",
+      "Reflexe geprüft",
+      "Nierenklopfschmerz rechts geprüft",
+      "Alle Untersuchungen unauffällig"
+    ],
+    "imaging_findings": [
+      "Breischluck gezeigt",
+      "Röntgen Thorax mit Verbreiterung des Mediastinums wegen Achalasie",
+      "Verdickung des Ösophagus"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Achalasie"
+    ],
+    "diagnostic_approach": [
+      "Anamnese mit Familienanamnese",
+      "Kardiopulmonale Untersuchung",
+      "Abdomen und Schilddrüsen Untersuchung",
+      "Neurologische Untersuchung",
+      "Apparative Diagnostik erforderlich zur definitiven Diagnose",
+      "Breischluck",
+      "Röntgen Thorax"
+    ]
+  },
+  {
+    "title": "Myokardinfarkt Patient - ST-Hebungsinfarkt inferior",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Symptome eines Myokardinfarkts"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit ST-Hebung in II III aVF"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Myokardinfarkt inferior",
+      "ST-Hebungsinfarkt (STEMI)"
+    ],
+    "diagnostic_approach": [
+      "EKG-Interpretation",
+      "Schmerztherapie mit Morphin",
+      "PTCA (beste Wahl)",
+      "Thrombolyse als Alternative",
+      "MI vor 13 Minuten"
+    ]
+  }
+]

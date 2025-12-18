@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Reanimationsleitlinien** - Allgemeine Handlungsanweisungen für kardiopulmonale Reanimation (Frequenz, Drucktiefe, Defibrillation, Medikamente, rechtliche Aspekte, Nachsorge)\n\n2. **Prüfungsfragen und -antworten** - Meta-Information über geprüfte Fragen (422-448)\n\n3. **Unvollständige Frage 449** zur Defibrillation - Technische Details zu Energiestufen (mono- vs. biphasisch, Joule-Angaben), die am Ende des Chunks abgeschnitten ist\n\nEs handelt sich ausschließlich um **theoretisches Wissen, Leitlinien und Prüfungsmaterial**, nicht um konkrete Patientenpräsentationen mit Anamnese, Befunden und Diagnostik."
+  }
+]

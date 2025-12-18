@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nEs handelt sich ausschließlich um:\n\n1. **Prüfungsfragen mit Musterantworten** in einem Frage-Antwort-Format\n2. **Theoretisches Wissen** zu verschiedenen medizinischen Themen:\n   - Mitralklappeninsuffizienz (pathophysiologische Erklärung)\n   - Berufsgenossenschaft (Versicherungsrechtliches)\n   - Ultraschall-Technik (diagnostisches Verfahren)\n   - CT-Technik (diagnostisches Verfahren)\n   - Frakturzeichen (allgemeine Klassifikation)\n   - Cholezystitis (typische Symptome)\n   - Erysipeloid (Krankheitsbeschreibung)\n   - AV-Block verursachende Medikamente (pharmakologisches Wissen)\n\n3. **Kurze Antworten von Kandidaten** (z.B. \"Omarthrose\", \"Leukozytose, Fieber...\")\n\nEs fehlen bei allen genannten Themen:\n- Konkrete Patientenangaben (Alter, Geschlecht)\n- Individuelle Anamnese\n- Spezifische Krankheitsverläufe\n- Komplette klinische Präsentationen\n\nDie erwähnten Beispiele (z.B. Humeruskopffraktur, Cholezystitis) sind lediglich als theoretische Fragen formuliert, nicht als ausgearbeitete Patientenfälle."
+  }
+]

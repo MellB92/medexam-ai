@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle oder Präsentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen und Antworten** zu verschiedenen medizinischen Themen:\n   - Mesenteriale Ischämie (Morbus Ortner II)\n   - Marasmus vs. Kachexie\n   - Nervus accessorius und M. trapezius\n   - Leukämie-Klassifikation (CML, CLL)\n   - EKG-Befunde und Linksherzhypertrophie\n   - Therapierefraktäre arterielle Hypertonie\n   - Niereninsuffizienz und GFR\n\n2. **Wissensfragen ohne Patientenkontext**, z.B.:\n   - \"Was ist der Unterschied zwischen Marasmus und Kachexie?\"\n   - \"Welche Einteilung für Leukämie kennen Sie?\"\n   - \"Genetische Veränderung bei CML?\"\n\n3. **Keine konkreten Patientenpräsentationen** mit:\n   - Anamnese\n   - Symptompräsentation\n   - Untersuchungsbefunden\n   - Diagnostischem Vorgehen bei einem spezifischen Patienten\n\nEs handelt sich um ein **Prüfungsprotokoll mit Frage-Antwort-Format**, nicht um klinische Fallpräsentationen."
+  }
+]

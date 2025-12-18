@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 19/585) enthält **keine vollständigen klinischen Patientenfälle/Präsentationsfälle**. \n\nEs handelt sich ausschließlich um:\n\n1. **Prüfungsfragen mit Musterlösungen** im Q&A-Format:\n   - Lokalbehandlung von Analfissuren\n   - Tyrosinkinase-Inhibitoren\n   - Therapie des inferioren Myokardinfarkts\n   - Röntgenbefund-Interpretation (Hämatopneumothorax)\n   - Behandlung von Hämatopneumothorax\n   - Herzablation-Technik\n   - SGLT-2-Inhibitoren\n   - Vitalparameter und SAMPLE\n   - Komplikationen bei Hämatothorax\n   - Nabelhernie\n   - Rivaroxaban-Überwachung\n   - Kardioversion vs. Defibrillation\n   - Die vier I's der Geriatrie\n   - Verbrennungsgrad-Berechnung bei Kindern\n   - Antihypertensiva nach Schlaganfall\n\n2. **Theoretische Wissensfragen** ohne konkreten Patientenkontext\n\n**Keine der Fragen präsentiert einen vollständigen klinischen Fall** mit:\n- Patientendemographie\n- Anamnese/Präsentation\n- Befunden\n- Diagnostischem Vorgehen\n\nDie Erwähnung eines \"Röntgenbildes des Thorax\" (Hämatopneumothorax) ist lediglich eine isolierte Befund-Interpretation ohne umfassende Falldarstellung."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Prüfungsfragen mit theoretischen Antworten** (Fragen 20-35 und weitere):\n   - Therapie bei VT\n   - 4 Säulen der Herzinsuffizienz\n   - Definition von Lisinopril\n   - Weber-Klassifikation\n   - Definition von Ileus, Sepsis, SIRS\n   - Allgemeine Handlungsanweisungen (z.B. \"Was machen Sie mit einer bewusstlosen Person?\")\n\n2. **Theoretische Wissensfragen** (Fragen 3-10):\n   - Hunter-Glossitis (theoretische Beschreibung)\n   - B12-Mangelanämie (allgemeine Diagnostik und Therapie)\n   - Perikarditis (Ursachen, Klinik, Behandlung)\n\nEs werden zwar einzelne Befunde erwähnt (z.B. \"Nativ-CT Thorax zeigt Infiltration\", \"Bild einer Hunter-Glossitis\", \"Herz-Echo mit Perikarderguss\"), aber diese sind **nicht als vollständige Patientenfälle mit Anamnese, Symptomen und diagnostischem Vorgehen** präsentiert, sondern nur als isolierte Prüfungsfragen zur Befundinterpretation.\n\nKein Fall enthält die notwendigen Elemente eines vollständigen klinischen Präsentationsfalls (Patientenvorstellung, Beschwerden, Untersuchungsbefunde in narrativer Form)."
+  }
+]

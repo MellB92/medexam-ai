@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 128/148) enthält **keine vollständigen klinischen Patientenpräsentationsfälle**.\n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Prüfungsfragen und Antworten** zu verschiedenen medizinischen Themen:\n   - Thrombozytopenie (Ursachen, Diagnostik, Therapie)\n   - DIC (Disseminierte intravasale Koagulopathie)\n   - HIT (Heparin-induzierte Thrombozytopenie)\n   - Pseudomembranöse Kolitis\n   - Distale Radiusfraktur\n   - Kompartmentsyndrom\n\n2. **Extrahierte Fragen aus einem Prüfungsprotokoll** vom 22.01.2022 (am Ende des Chunks)\n\n**Es gibt keine konkreten Patientenfälle mit:**\n- Patientendemographie (Alter/Geschlecht)\n- Anamnese/Vorgeschichte\n- Klinischer Präsentation\n- Untersuchungsbefunden\n\nDie einzige Erwähnung, die einem Fall nahekommt, ist die Frage *\"Stellen Sie Ihre Patientin vor?\"* und *\"Was machen Sie bei ITP mit 22.000 Thrombozyten?\"* - diese sind jedoch nur Fragestellungen ohne ausgearbeiteten Patientenfall mit vollständigen Informationen."
+  }
+]

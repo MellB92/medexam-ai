@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 97/115) aus dem \"Last Minute Pharmakologie\" Lehrbuch enthält ausschließlich pharmakologisches Theoriewissen über:\n\n1. **Antimykotika** - Tabellarische Übersicht verschiedener Antipilzmittel mit Wirkungsspektrum, Anwendungsgebieten und Nebenwirkungen\n2. **Virustatika** - Systematische Darstellung antiviraler Medikamente für:\n   - Influenzainfektionen (Amantadin, Neuraminidasehemmer)\n   - Herpesvireninfektionen (Aciclovir, Ganciclovir, etc.)\n   - Hepatitis-B- und -C-Infektionen (DNA-Polymeraseinhibitoren, DAA)\n\nEs handelt sich um rein didaktisches Material mit:\n- Wirkmechanismen\n- Indikationen\n- Nebenwirkungen\n- Pharmakologischen Eigenschaften\n\n**Keine klinischen Patientenfälle vorhanden.**\n\nDie einleitenden Fragen am Anfang des Chunks sind Lernfragen zur Selbstkontrolle, keine Fallpräsentationen."
+  }
+]

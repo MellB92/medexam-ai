@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Humeruskopffraktur nach Sturz vom Garagendach",
+    "patient_age": "61 Jahre",
+    "patient_gender": "männlich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Oberarmschmerzen links",
+      "Schmerzbedingte Bewegungseinschränkung"
+    ],
+    "accident_mechanism": "Sturz von Garagendach (2.30 m Höhe) beim Baumäste schneiden, auf linke Schulter gefallen, mit Krankenwagen eingeliefert",
+    "pre_existing_conditions": [],
+    "comorbidities": [
+      "Zustand nach Cholezystektomie vor 20 Jahren"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Gärtner von Beruf",
+      "Half Nachbarin beim Baumäste schneiden"
+    ],
+    "medications": [
+      "Keine Dauermedikation"
+    ],
+    "allergies": [
+      "Antibiotika (nicht näher spezifiziert welche)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "DMS des verletzten Arms zu überprüfen",
+      "Sensibilität dorsaler Oberarm besonders wichtig",
+      "RR-Messung",
+      "Pulskontrolle",
+      "Lungenauskultation",
+      "Herzauskultation",
+      "Abdomenpalpation"
+    ],
+    "imaging_findings": [
+      "Röntgen: Humeruskopffraktur",
+      "Zustand nach Plattenosteosynthese"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Humeruskopffraktur (Verdachtsdiagnose)",
+      "Humerusschaftfraktur (DD)",
+      "Schultergelenkluxation (DD)"
+    ],
+    "diagnostic_approach": [
+      "Röntgenaufnahme Schulter/Humerus",
+      "Körperliche Untersuchung mit DMS-Kontrolle"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Mögliche Omarthrose",
+      "Komplikationen nach Plattenosteosynthese möglich"
+    ],
+    "follow_up": []
+  }
+]

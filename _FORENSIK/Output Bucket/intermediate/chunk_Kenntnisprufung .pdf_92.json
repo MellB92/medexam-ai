@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Kolikartige Abdominalschmerzen mit Verlagerung in rechten Unterbauch bei 66-jähriger Patientin",
+    "patient_age": "66-jährig",
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Seit 1 Tag bestehende, kolikartige, verschlechternde, starke Abdominalschmerzen",
+      "Schmerzen begannen in Mitte des Bauches und verlagerten sich in rechten Unterbauch",
+      "Schmerzen NRS 5-6/10",
+      "Fieber",
+      "Inappetenz",
+      "Übelkeit",
+      "Einmaliges Erbrechen (nicht blutig, Restessen)",
+      "Dunkler Urin"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. TVT bei Schwangerschaft vor mehreren Jahren",
+      "Z.n. Ellenbogen-Verletzung vor 3 Wochen (konservativ behandelt)",
+      "Herzklappenvitium (Typ unbekannt)",
+      "Vitamin-D-Mangel"
+    ],
+    "comorbidities": [
+      "Herzklappenvitium",
+      "Vitamin-D-Mangel"
+    ],
+    "risk_factors": [
+      "Z.n. TVT",
+      "Alter 66 Jahre",
+      "Vor 1 Woche beim Zahnarzt gewesen"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Verwitwet",
+      "2 Kinder",
+      "Rentnerin",
+      "Kein Pflegegrad",
+      "Vollständig geimpft"
+    ],
+    "medications": [
+      "Vitamin D Tablette (Dosis unbekannt)",
+      "Ibuprofen Tabletten (vom Zahnarzt)",
+      "Buscopan (selbst eingenommen, wenig Linderung)"
+    ],
+    "allergies": [
+      "Pflaster (Hautausschlag)"
+    ],
+    "vital_signs": [
+      "Gewicht: 76 kg",
+      "Größe: 1,61 m"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akute Appendizitis (typische Verlagerung von periumbilikal nach rechter Unterbauch)",
+      "DD: Nephrolithiasis (dunkler Urin)",
+      "DD: Divertikulitis",
+      "DD: Gastroenteritis"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Buscopan mit wenig Linderung"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

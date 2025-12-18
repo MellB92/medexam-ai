@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Akute Appendizitis bei 63-jähriger Frau",
+    "patient_age": "63 Jahre (Jahrgang 1959)",
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "akut aufgetretene epigastrische Schmerzen seit einem Tag",
+      "Wanderung der Schmerzen in rechten Unterbauch (8/10 auf Schmerzskala)",
+      "Übelkeit mit einmaligem Vomitus",
+      "Inappetenz",
+      "Fiebergefühl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Nierenerkrankung nach Mandelentzündung als Kind (poststreptokokke Glomerulonephritis)",
+      "allergisches Asthma als Kind",
+      "TVT des Beins nach 2. Schwangerschaft",
+      "Bursitis olecrani",
+      "Herzgeräusch (keine Therapiebedürftigkeit, nur Belastungsdyspnoe)",
+      "Osteoporose"
+    ],
+    "comorbidities": [
+      "Herzgeräusch ohne Therapiebedarf",
+      "Osteoporose"
+    ],
+    "risk_factors": [
+      "TVT in der Anamnese",
+      "positive Familienanamnese für Thromboembolie"
+    ],
+    "family_history": [
+      "Mutter an Lungenarterienembolie (LAE) verstorben",
+      "adoptierter Bruder mit Blutungserkrankung (nicht spezifiziert)"
+    ],
+    "social_history": [],
+    "medications": [
+      "Vitamin D einmal pro Woche"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck gemessen",
+      "Herzfrequenz gemessen"
+    ],
+    "physical_examination": [
+      "Mc-Burny-Zeichen positiv",
+      "Blumberg-Zeichen positiv",
+      "Rowsing-Zeichen positiv",
+      "kein Nierenklopfschmerz",
+      "kein Ikterus",
+      "keine Beschwerden bei Miktion",
+      "keine Beschwerden bei Defäkation"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "akute Appendizitis"
+    ],
+    "diagnostic_approach": [
+      "körperliche Untersuchung mit typischen Appendizitiszeichen",
+      "Ausschluss anderer Ursachen des akuten Abdomens",
+      "Vitalparameter-Erhebung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Patientenaufklärung über weiteres Vorgehen",
+      "Schmerzmittel angeboten (nach Ausschluss von Allergien)"
+    ]
+  }
+]

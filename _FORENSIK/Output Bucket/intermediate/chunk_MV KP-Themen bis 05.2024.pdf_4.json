@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Patient mit metastasiertem Nierentumor, Fieber und Vigilanzstörung",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Fieber",
+      "Vigilanzstörung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Nierentumor",
+      "hepatische Metastasen",
+      "ossäre Metastasen"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Konjunktiva rosig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Kreatinin erhöht (kein akutes Nierenversagen)",
+      "CRP erhöht (tumorbedingt)"
+    ],
+    "suspected_diagnosis": [
+      "Adenokarzinom",
+      "Sepsis mit peripherer Vasodilatation",
+      "bakterielle Infektion"
+    ],
+    "diagnostic_approach": [
+      "Vitalparameter",
+      "Blutkulturen von 2 Stellen, 2-3x täglich",
+      "Labor: Blutbild, CRP, PCT",
+      "Nierenwerte",
+      "Kopf-CT",
+      "Pulsoxymetrie",
+      "BGA (Azidose, Hyperkapnie)"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Vigilanzstörung",
+      "periphere Vasodilatation bei Sepsis",
+      "zentrale Organe ohne O2",
+      "drohende Multiorganversagen"
+    ],
+    "follow_up": []
+  }
+]

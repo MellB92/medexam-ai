@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nEs handelt sich um:\n- Eine **theoretische Frage-Antwort-Struktur** zum Thema mechanische Herzklappen\n- Eine ursprünglich unvollständige Antwort (\"weiß nicht\"), die nachträglich vervollständigt wurde\n- **Allgemeines medizinisches Wissen** über:\n  - Labordiagnostische Befunde bei mechanischer Hämolyse (Schistozyten, LDH, Haptoglobin etc.)\n  - Therapeutische Richtlinien (INR-Zielbereiche für verschiedene Klappentypen)\n  - Differentialdiagnosen (TTP, HUS)\n\nEs fehlen alle Elemente eines konkreten klinischen Falls:\n- Kein spezifischer Patient (kein Alter, kein Geschlecht)\n- Keine Anamnese oder Beschwerden\n- Keine konkrete klinische Präsentation\n- Keine spezifischen Untersuchungsbefunde eines realen Patienten\n\nDies ist rein **theoretisches Lehrmaterial** ohne Fallcharakter."
+  }
+]

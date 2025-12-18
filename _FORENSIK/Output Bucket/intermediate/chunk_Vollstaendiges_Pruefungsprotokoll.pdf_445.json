@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Patient mit Adipositas, Diabetes mellitus Typ 2 und diabetischer Nephropathie - Therapieoptimierung\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"Adipositas\", \"Diabetes mellitus Typ 2\", \"diabetische Nephropathie\"],\n    \"medications\": [\"SGLT2-Hemmer\", \"ACE-Hemmer\"],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Diabetes mellitus Typ 2\", \"diabetische Nephropathie\", \"Adipositas\"],\n    \"diagnostic_approach\": [\"Überlegung zu GLP-1-Analoga als Therapieerweiterung\"]\n  }\n]\n```"
+  }
+]

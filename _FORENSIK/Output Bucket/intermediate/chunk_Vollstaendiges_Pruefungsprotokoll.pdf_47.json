@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Hepatische Metastasierung mit Aszites",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Aszites",
+      "multiple Metastasen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Aszites"
+    ],
+    "imaging_findings": [
+      "multiple Metastasen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Fortgeschrittene maligne Erkrankung mit hepatischer Metastasierung"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Leberblutung nach Trauma",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Leberblutung"
+    ],
+    "accident_mechanism": "Trauma",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "subkapsuläres Hämatom"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lebertrauma",
+      "hämorrhagischer Schock"
+    ],
+    "diagnostic_approach": [
+      "ABCDE-Schema",
+      "CT-Abdomen",
+      "Beurteilung des Ausmaßes der Verletzung",
+      "bei anhaltender Blutung oder hämodynamischer Instabilität: Notfall-Laparotomie"
+    ]
+  },
+  {
+    "title": "Herzinsuffizienz nach Infektion",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Herzinsuffizienz"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "vorausgegangene Infektion"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Myokarditis",
+      "Endokarditis"
+    ],
+    "diagnostic_approach": []
+  }
+]

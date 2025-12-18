@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 43/50) enthält **keine klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Pharmakologischen Informationen zu Benzodiazepinen:**\n   - Indikationen (Schlafstörungen, Spannungszustände, Spastik, etc.)\n   - Wirkstofftabellen (Midazolam, Triazolam, Oxazepam, etc.)\n   - Nebenwirkungen\n   - Kontraindikationen\n\n2. **Informationen zu intravenösen Narkotika:**\n   - Übersichtstabellen (Propofol, Etomidat, Ketamin, Barbiturate)\n   - Wirkmechanismen\n   - Indikationen und Vorteile\n   - Nebenwirkungen\n\n3. **Kurzer Abschnitt zu Inhalationsanästhetika (Abstract)**\n\nEs handelt sich um rein theoretisches, pharmakologisches Lehrbuchmaterial ohne Fallpräsentationen, Patientenbeispiele oder klinische Szenarien."
+  }
+]

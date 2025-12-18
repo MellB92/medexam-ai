@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Multiples Myelom bei 72-jähriger Patientin mit B-Symptomatik",
+    "patient_age": "72 Jahre",
+    "patient_gender": "weiblich",
+    "chief_complaints": [
+      "Seit 4 Wochen immer wieder grippeähnliche Symptome",
+      "Trockener Husten",
+      "Schmerzen im rechten Rippenbogen",
+      "Rückenschmerzen",
+      "Schmerzen im rechten Arm",
+      "Inappetenz",
+      "Müdigkeit bei Anstrengung",
+      "Veränderung des Urins",
+      "Gewichtsverlust 8 kg in 6 Monaten",
+      "Übermäßiger Nachtschweiß",
+      "Fieber (nicht gemessen)",
+      "Schlaflosigkeit",
+      "Verstopfung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Rhinitis seit der Kindheit",
+      "Herzklopfen seit 2 Jahren (untersucht, nicht behandelt)",
+      "Thrombose im Bein mit 55 Jahren (angeblich, nicht wirklich eine Thrombose)",
+      "Menopause seit 17 Jahren"
+    ],
+    "medications": [
+      "Ducolax bei Bedarf",
+      "Cetirizin 1-0-0 (Dosis unbekannt)",
+      "Ibuprofen 400 mg bei Bedarf",
+      "Olynt Nasenspray"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Lungen-, Herz-, Bauchuntersuchung durchgeführt",
+      "Abtasten der Pulse",
+      "Vitalparameter gemessen",
+      "Blutdruck beidseitig",
+      "Detaillierte Befunde nicht angegeben"
+    ],
+    "imaging_findings": [
+      "Röntgen Thorax: keine Veränderungen"
+    ],
+    "laboratory_findings": [
+      "BSG verändert (erhöht, genaue Werte nicht spezifiziert)",
+      "Urintest von Hausärztin gefordert"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom (Morbus Kahler)",
+      "Morbus Waldenström (als DD erwähnt)"
+    ],
+    "diagnostic_approach": [
+      "BSG",
+      "Elektrophorese",
+      "Urinuntersuchung",
+      "Peripherer Blutausstrich",
+      "Knochenbiopsie"
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Schenkelhalsfraktur links nach Sturz auf Station",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen links 6/10 in Ruhe",
+      "Schmerzen 9/10 bei Bewegung",
+      "Sturz auf die linke Seite"
+    ],
+    "accident_mechanism": "Heute morgen auf Station gestolpert und auf der linken Seite gefallen",
+    "pre_existing_conditions": [
+      "Diabetes mellitus",
+      "Arterielle Hypertonie",
+      "Herzrhythmusstörung",
+      "Urininkontinenz",
+      "Wechsel zwischen Diarrhoe und Obstipation"
+    ],
+    "comorbidities": [
+      "Arterielle Hypertonie",
+      "Herzrhythmusstörung"
+    ],
+    "risk_factors": [
+      "20 py Nikotinkonsum bis zum 38. Lebensjahr",
+      "Gelegentlicher Alkoholkonsum (Wein zu Feiern, aktuell nicht mehr)"
+    ],
+    "family_history": [
+      "Z.n. Pankreas-Ca beim Vater",
+      "Z.n. Niereninsuffizienz bei der Mutter",
+      "Z.n. Hauptschlagaderveränderung beim Bruder (Aneurysma?)"
+    ],
+    "social_history": [
+      "Sozialanamnese unauffällig"
+    ],
+    "medications": [
+      "Metformin 850 mg 1-0-1",
+      "Ibuprofen 400 mg bei Bedarf"
+    ],
+    "allergies": [
+      "Nickel (Exanthem)"
+    ],
+    "vital_signs": [
+      "Blutdruck und Puls gemessen (genaue Werte nicht dokumentiert)"
+    ],
+    "physical_examination": [
+      "pDMS links schmerzbedingt nicht komplett durchführbar",
+      "Durchblutung intakt",
+      "Sensibilität intakt",
+      "Verkürztes Bein erwartet",
+      "Schmerzen bei Innenrotation erwartet"
+    ],
+    "imaging_findings": [
+      "Rö-Beckenübersicht: initial kein Frakturspalt erkennbar",
+      "Spezielle Rö-Aufnahme Halsschenkel: kleine Frakturspalt sichtbar",
+      "Schenkelhalsfraktur links bestätigt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hüftgelenksfraktur links",
+      "Schenkelhalsfraktur links",
+      "DD: Femurfraktur",
+      "DD: Arthrose"
+    ],
+    "diagnostic_approach": [
+      "Rö-Beckenübersicht",
+      "Rö-Hüftgelenk links",
+      "Spezielle Rö-Aufnahme für Halsschenkel"
+    ],
+    "treatment_response": [
+      "Operative Therapie indiziert",
+      "TEP erwähnt",
+      "Osteosynthese mit dynamischer Hüftschraube empfohlen",
+      "Konservative Therapie auf keinen Fall möglich"
+    ],
+    "complications": [
+      "Gefahr der Verletzung von A. femoralis",
+      "Starke Durchblutung in der Region"
+    ],
+    "follow_up": []
+  }
+]

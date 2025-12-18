@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Meningitis bei junger Frau mit vorausgegangenem Schädeltrauma",
+    "patient_age": "36-jährig (geboren 1986)",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Starke Kopfschmerzen im ganzen Kopf",
+      "Übelkeit",
+      "Zweimaliges Erbrechen (gestern Abend und heute Morgen)",
+      "Kraftlosigkeit",
+      "Photophobie",
+      "Nackensteifigkeit mit Unfähigkeit den Kopf nach vorne zu beugen"
+    ],
+    "accident_mechanism": "Vor zwei Wochen Kopftrauma durch herabfallenden Stein während Renovierung",
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie seit Jahren",
+      "Lumbalgie",
+      "Zustand nach Appendektomie",
+      "Zustand nach Sprunggelenkfraktur in der Kindheit"
+    ],
+    "medications": [],
+    "allergies": [
+      "Pollenallergie",
+      "Antibiotikum (nicht näher spezifiziert, Patientin kann sich nicht erinnern)"
+    ],
+    "physical_examination": [
+      "Positive Meningismuszeichen",
+      "Hirnnerven geprüft",
+      "Herz, Lungen und Bauchuntersuchung durchgeführt"
+    ],
+    "imaging_findings": [
+      "CT Kopf durchgeführt"
+    ],
+    "laboratory_findings": [
+      "Blutabnahme in 3 Röhrchen durchgeführt"
+    ],
+    "suspected_diagnosis": [
+      "Subarachnoidalblutung (SAB)",
+      "Subduralhämatom",
+      "Epiduralhämatom",
+      "Meningitis"
+    ],
+    "diagnostic_approach": [
+      "Blutabnahme in 3 Röhrchen",
+      "Sofortige Therapie: Ceftriaxon",
+      "Prednisolon zur Vermeidung übermäßiger Immunantwort",
+      "CT Kopf",
+      "Differentialdiagnose zwischen SAB und Meningitis"
+    ]
+  }
+]

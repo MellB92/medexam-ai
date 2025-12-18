@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Lungenemphysem - Röntgenthorax",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenaufnahme des Thorax mit Befunden vereinbar mit Lungenemphysem"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenemphysem"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax"
+    ]
+  },
+  {
+    "title": "Mononukleose mit Tonsillitis und Petechien",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Beidseitige Tonsillitis",
+      "Petechien an den unteren Extremitäten"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Blutausstrich mit Pfeifer-Zellen"
+    ],
+    "suspected_diagnosis": [
+      "Mononukleose"
+    ],
+    "diagnostic_approach": [
+      "Blutausstrich",
+      "Klinische Untersuchung"
+    ]
+  },
+  {
+    "title": "Bradykardes Vorhofflimmern im EKG",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit bradykardem Vorhofflimmern"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vorhofflimmern bradykard"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Notaufnahme-Management"
+    ]
+  },
+  {
+    "title": "Sprunggelenkfraktur Weber A",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild mit Sprunggelenkfraktur Weber A"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sprunggelenkfraktur Weber A"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Sprunggelenk",
+      "Konservative Therapie"
+    ]
+  },
+  {
+    "title": "Wunde im Fußsohlenbereich",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Wunde im Fußsohlenbereich"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Wunde im Fußsohlenbereich"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Wundklassifizierung",
+      "Sensibilitätsprüfung mit Stimmgabel"
+    ]
+  }
+]

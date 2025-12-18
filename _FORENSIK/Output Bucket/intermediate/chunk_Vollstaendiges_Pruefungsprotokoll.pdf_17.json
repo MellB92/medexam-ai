@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle** mit zusammenhängender Anamnese, Untersuchung und Diagnose. \n\nStattdessen handelt es sich um:\n\n1. **Einzelne Prüfungsfragen** zu verschiedenen Themen (Helicobacter-pylori-Infektion, Gastritis, Ileus, Femurfraktur, Analfissur, Tyrosinkinase-Inhibitor, Myokardinfarkt, Hämatopneumothorax)\n\n2. **Fragmentierte Informationen** ohne zusammenhängende Fallpräsentation:\n   - Keine Patientendemografie (Alter/Geschlecht)\n   - Keine Anamnese oder Vorgeschichte\n   - Nur isolierte Befunde (CT-Ileus, Röntgen-Pneumothorax) ohne klinischen Kontext\n   - Reine Wissensfragen zu Therapieoptionen\n\n3. **Prüfungsprotokoll-Format**: Frage → Kandidatenantwort → Musterlösung → Fehleranalyse\n\nBeispiele für fehlende Fall-Elemente:\n- Bei \"Ileus\": Kein Patient beschrieben, nur CT-Befund und Therapiefragen\n- Bei \"Femurfraktur\": Keine Unfallhergang, kein Patientenalter, nur Frakturtyp und Therapieoptionen\n- Bei \"Myokardinfarkt\": Keine Symptome, keine Anamnese, nur Therapiefragen\n\nDies ist didaktisches/Prüfungsmaterial, **keine klinische Falldokumentation**."
+  }
+]

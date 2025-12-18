@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 74/84) enthält **keine klinischen Patientenfälle** mit konkreten Fallpräsentationen. \n\nDer Abschnitt besteht ausschließlich aus:\n\n1. **Lehrbuchinformationen zu Morbus Crohn** (Abschnitte 5.8 [II] und [III]):\n   - Diagnostik (Anamnese, KU, Labor, Apparativ)\n   - Therapie (Allgemein, Medikamentös, Chirurgisch)\n   - DD, Komplikationen, Prognose\n\n2. **Lehrbuchinformationen zu Colitis ulcerosa** (Abschnitte 5.9 [I], [II] und [III]):\n   - Definition, Ätiologie, Klinik\n   - Diagnostik\n   - Therapie\n   - DD, Komplikationen, Prognose\n\n3. **Beginn eines Kapitels zum Kolorektalen Karzinom** (Abschnitt 5.10 [I]):\n   - Definition, Ätiologie (abgeschnitten)\n\nEs handelt sich um **strukturierte Lernkarten mit theoretischem Wissen** über chronisch-entzündliche Darmerkrankungen und kolorektale Karzinome, jedoch ohne konkrete Patientenbeispiele oder Fallvignetten."
+  }
+]

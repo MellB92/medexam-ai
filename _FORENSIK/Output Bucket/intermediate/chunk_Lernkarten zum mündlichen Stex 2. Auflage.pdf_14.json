@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 15/84) enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischem Wissen über Diabetes mellitus:**\n   - Definitionen (Typ 1-4)\n   - Ätiologie und Pathophysiologie\n   - Allgemeine Klinik\n   - Diagnostische Kriterien\n   - Therapieschemata\n\n2. **Lernkarteninhalten** mit systematischer Darstellung von:\n   - Laborwerten und Grenzwerten\n   - Insulintherapie-Schemata\n   - Komplikationen (Dawn-Phänomen, Somogyi-Effekt)\n\n3. **Am Anfang ein Fragment** über Meningitis (abgeschnitten, daher nicht extrahierbar)\n\nEs werden **keine konkreten Patienten** mit individuellen Beschwerden, Untersuchungsbefunden oder diagnostischen Abläufen beschrieben. Der gesamte Inhalt ist rein didaktisches Material für die Prüfungsvorbereitung."
+  }
+]

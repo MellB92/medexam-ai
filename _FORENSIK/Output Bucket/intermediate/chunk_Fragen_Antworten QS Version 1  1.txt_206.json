@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Wells-Score für TVT (Tiefe Venenthrombose)** - Dies ist ein diagnostisches Scoring-System mit theoretischen Kriterien und Punktevergabe, aber kein konkreter Patientenfall\n\n2. **Klinische Konsequenzen und rechtliche Hinweise** - Allgemeine Handlungsanweisungen zur TVT-Diagnostik\n\n3. **Frage 350 & 351** - Nur Vermerke, dass Antworten geprüft wurden, ohne Inhalt\n\n4. **Frage 352** - Eine begonnene theoretische Frage zur Klassifikation von Mutationen, die am Ende abgeschnitten ist\n\nEs wird kein echter Patient mit individuellen Beschwerden, Befunden oder Verlauf präsentiert, sondern nur theoretisches Wissen und Scoring-Systeme dargestellt."
+  }
+]

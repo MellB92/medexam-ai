@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 73/84) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Lernkarteninhalten zu verschiedenen Krankheitsbildern:**\n   - Cholezystitis und Cholelithiasis (Abschnitte 5.7 I-III)\n   - Morbus Crohn (Abschnitte 5.8 I-II)\n\n2. **Strukturierte Lehrbuchinformationen mit:**\n   - Definitionen\n   - Ätiologie und Risikofaktoren (z.B. \"6-F-Regel\")\n   - Klinik und Leitsymptomen\n   - Diagnostischen Kriterien\n   - Therapieempfehlungen\n   - Komplikationen\n   - Differentialdiagnosen\n\nEs handelt sich um **theoretisches Wissen** in Lernkartenformat, nicht um konkrete Patientenpräsentationen mit individuellen Anamnesen, Befunden oder Fallverläufen."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**, sondern ausschließlich:\n\n1. **Bildbasierte Lehrfragen** mit anatomischen Strukturen (Hill-Sachs-Läsion, Bankart-Läsion, posteriore Schulterluxation)\n2. **Theoretisches Wissen** über Schulterluxationen (Arten, Ursachen, Klinik, Diagnose, Behandlung)\n3. **Allgemeine Fragen** (z.B. \"Was ist die häufigste Luxation?\", \"Warum ist es wichtig zu wissen...\")\n4. **Repositionsmanöver** und deren Beschreibungen\n5. **Komplikationen** als Listen\n\nEs gibt **keine konkrete Patientenpräsentation** mit:\n- Individuellem Patienten (Alter/Geschlecht)\n- Spezifischem Unfallhergang\n- Konkreten Untersuchungsbefunden eines Falls\n- Individueller diagnostischer/therapeutischer Entscheidungsfindung\n\nDie Fragen wie \"Würde man eine erste vordere Schulterluxation bei einem jungen Sportler operieren...\" sind **hypothetische Szenarien** für Lehrzwecke, keine dokumentierten klinischen Fälle."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. \n\nEs handelt sich um eine **Übersichtstabelle über Qualitätskriterien** für verschiedene medizinische Leistungsbereiche und Leistungsgruppen. Der Text beschreibt:\n\n- Strukturelle Anforderungen (z.B. \"3 FA (VZÄ) beschäftigt\")\n- Geräteausstattung (z.B. \"CT 24/7, MRT\")\n- Fachärztliche Vorgaben (z.B. \"FA Thoraxchirurgie\")\n- Kooperationsanforderungen (z.B. \"Interdisziplinäre Tumorkonferenzen\")\n- Planungsebenen für verschiedene chirurgische Bereiche (Endoprothetik, Thoraxchirurgie, Viszeralchirurgie, etc.)\n\nEs gibt keine Patientenpräsentationen, keine Fallbeschreibungen, keine individuellen Krankheitsverläufe oder diagnostisch-therapeutische Entscheidungsfindungen."
+  }
+]

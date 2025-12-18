@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Komplikationen und Prognose** einer Frakturbehandlung (Ende einer vorherigen Frage)\n   - Liste von Komplikationen (Pseudarthrose, Fehlstellung, etc.)\n   - Arbeitsunfähigkeitszeiten\n   - Prognoseangaben\n\n2. **Theoretische Frage zur kindlichen Hüftdysplasie** (Frage 122)\n   - Allgemeine Definition und Epidemiologie\n   - Diagnostische Methoden (Ortolani-Zeichen, Barlow-Test, etc.)\n   - Sonographie-Klassifikation nach Graf\n   - Keine konkrete Patientenpräsentation\n\nEs handelt sich um **Lehrbuchinhalte und strukturierte Antworten auf theoretische Prüfungsfragen**, nicht um konkrete klinische Fallpräsentationen mit individuellen Patienten."
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Ikterus bei 80-jährigem Mann",
+    "patient_age": "80-jähriger",
+    "patient_gender": "Mann",
+    "chief_complaints": [
+      "Ikterus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Ikterus"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Bilirubin erhöht"
+    ],
+    "suspected_diagnosis": [
+      "Prähepatischer Ikterus",
+      "Hepatischer Ikterus",
+      "Posthepatischer Ikterus"
+    ],
+    "diagnostic_approach": [
+      "Abklärung der Ikterus-Ursache",
+      "Bilirubinbestimmung (Grenzwert ca. 1,2 mg/dl)",
+      "Differenzierung zwischen prähepatischem, hepatischem und posthepatischem Ikterus"
+    ]
+  }
+]

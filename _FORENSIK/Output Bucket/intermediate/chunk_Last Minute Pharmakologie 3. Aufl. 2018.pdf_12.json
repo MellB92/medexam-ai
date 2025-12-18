@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDer vorliegende Dokumentabschnitt (Chunk 13/115 aus \"Last Minute Pharmakologie, 3. Aufl. (2018).pdf\") besteht ausschließlich aus einer langen Sequenz von scheinbar zufälligen oder verschlüsselten Zeichen. Es handelt sich um unlesbaren Text ohne erkennbare klinische Inhalte, Patientenfälle oder medizinische Informationen.\n\nEs sind keine strukturierten klinischen Präsentationsfälle vorhanden, die folgende Elemente enthalten würden:\n- Patienteninformationen (Alter, Geschlecht)\n- Anamnese oder Beschwerden\n- Untersuchungsbefunde\n- Diagnosen oder diagnostische Überlegungen\n\nDaher wurden keine klinischen Fälle extrahiert."
+  }
+]

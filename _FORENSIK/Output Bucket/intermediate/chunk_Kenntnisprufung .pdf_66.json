@@ -1,0 +1,153 @@
+[
+  {
+    "title": "Kopfverletzung mit zunehmenden Kopfschmerzen und Meningismuszeichen",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "zunehmende Kopfschmerzen",
+      "unerträgliche Kopfschmerzen"
+    ],
+    "accident_mechanism": "Stein auf den Kopf gefallen während Renovierung in der Wohnung",
+    "pre_existing_conditions": [
+      "arterielle Hypertonie seit Jahren",
+      "Lumbalgie",
+      "Appendektomie in der Kindheit",
+      "Sprunggelenkfraktur in der Kindheit"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater verstorben an Ösophaguskarzinom",
+      "Mutter mit Leberproblemen"
+    ],
+    "allergies": [
+      "Pollen",
+      "Antibiotikum (nicht erinnerlich welches)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Meningismuszeichen positiv",
+      "Hautinspektion durchgeführt",
+      "neurologische Untersuchung",
+      "Hirnnerven geprüft",
+      "Herz, Lungen und Bauchuntersuchung"
+    ],
+    "imaging_findings": [
+      "CT Kopf durchgeführt"
+    ],
+    "laboratory_findings": [
+      "Blutabnahme in 3 Röhrchen"
+    ],
+    "suspected_diagnosis": [
+      "SAB (Subarachnoidalblutung)",
+      "Subduralhämatom",
+      "Epiduralhämatom",
+      "Meningitis"
+    ],
+    "diagnostic_approach": [
+      "Blutabnahme in 3 Röhrchen",
+      "CT Kopf",
+      "neurologische Untersuchung",
+      "Meningismuszeichen Prüfung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "Überweisung zum Neurologen erhalten (Termin noch ausstehend)"
+    ]
+  },
+  {
+    "title": "Meningitis mit Liquorbestätigung",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "sehr starke Cephalgie",
+      "Übelkeit",
+      "Erbrechen",
+      "Lichtempfindlichkeit",
+      "Fieber",
+      "Schüttelfrost",
+      "Schweißausbrüche",
+      "Nackensteifigkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Bruzinski Zeichen positiv",
+      "Kernig Zeichen positiv",
+      "Lasegue Zeichen positiv"
+    ],
+    "imaging_findings": [
+      "CTs durchgeführt"
+    ],
+    "laboratory_findings": [
+      "Liquor Ergebnisse: Meningitis bestätigt",
+      "trübes Liquor"
+    ],
+    "suspected_diagnosis": [
+      "Meningitis (bestätigt)"
+    ],
+    "diagnostic_approach": [
+      "Lumbalpunktion mit Liquorgewinnung",
+      "CT",
+      "Labor",
+      "Meningismuszeichen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Hundebisswunde an der Hand mit Wundinfektion",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Hundebiss an der Hand"
+    ],
+    "accident_mechanism": "vor circa einer Stunde von einem Hund an der Hand gebissen",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "initial: Bisswunde an der Hand",
+      "nach zwei Tagen: gerötete, geschwollene Hand"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Wundinfektion nach Hundebiss"
+    ],
+    "diagnostic_approach": [
+      "Wundrevision",
+      "Tetanus-Impfstatus abfragen"
+    ],
+    "treatment_response": [
+      "nach zwei Tagen Wiederkommen mit geröteter, geschwollener Hand"
+    ],
+    "complications": [
+      "Wundinfektion mit Rötung und Schwellung nach zwei Tagen"
+    ],
+    "follow_up": [
+      "Primärnaht",
+      "Spülung",
+      "Tetanus-Impfung (Impfstatus unbekannt)",
+      "Antibiose",
+      "bei Komplikation: Wunde aufmachen, Wundreinigung, Debridement, Sekundärnaht, Antibiose"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Cholezystolithiasis mit positivem Murphy-Zeichen\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Murphy-Zeichen positiv\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Murphy-Zeichen positiv\"],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Cholezystolithiasis\"],\n    \"diagnostic_approach\": [\"Ultraschall\", \"Laborwerte\"]\n  }\n]\n```"
+  }
+]

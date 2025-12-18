@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 229/284) enthält **keine klinischen Patientenfälle**. \n\nDer Text behandelt ausschließlich:\n- Eine Frage zu CT-Schichttechniken (Frage 596)\n- Theoretisches Wissen über CT-Parameter (Schichtdicke, Schichtorientierung, Schichtabstand, spezielle Techniken)\n- Technische Bildgebungsparameter (Pitch-Faktor, Kollimation, FOV)\n\nEs handelt sich um eine reine **Wissensfrage** zu radiologischen Grundlagen ohne Patientenbezug, Anamnese, klinische Symptome oder diagnostische Fragestellung an einem konkreten Fall."
+  }
+]

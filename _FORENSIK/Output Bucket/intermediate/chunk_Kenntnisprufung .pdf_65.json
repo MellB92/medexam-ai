@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Kopfschmerzen mit Nackensteifigkeit und HWS-Fraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Starke Kopfschmerzen",
+      "Nackensteifigkeit",
+      "Photophobie",
+      "Übelkeit/Erbrechen",
+      "Schlafstörung wegen Schmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Paroxysmales Vorhofflimmern",
+      "Lumbago-Ischias-Syndrom",
+      "Z.n. Appendektomie",
+      "Z.n. OSG-Fraktur rechts, konservativ behandelt"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Alkoholkonsum 2 Bier/Tag"
+    ],
+    "family_history": [
+      "Vater an Ösophaguskarzinom gestorben",
+      "Mutter mit Leberproblemen, verstorben mit Ende 70 Jahren"
+    ],
+    "social_history": [
+      "2 Bier/Tag",
+      "Geschieden",
+      "Verwaltung in Autovermietung",
+      "lebt mit Freunden"
+    ],
+    "medications": [
+      "ACE-Hemmer",
+      "Calciumkanalblocker",
+      "ASS",
+      "Fentanyl-Pflaster"
+    ],
+    "allergies": [
+      "Pollen",
+      "Antibiotika"
+    ],
+    "vital_signs": [
+      "RR an beiden Armen gemessen"
+    ],
+    "physical_examination": [
+      "Neurologische Untersuchung durchgeführt"
+    ],
+    "imaging_findings": [
+      "HWS-Röntgen: Fraktur in C1/C2 (Jefferson-Fraktur in C1, Hangman's-Fraktur in C2)",
+      "OSG-Röntgen links: Distale Fibulafraktur, Volkmann-Dreieck"
+    ],
+    "laboratory_findings": [
+      "Leukozyten erhöht",
+      "CRP erhöht"
+    ],
+    "suspected_diagnosis": [
+      "HWS-Fraktur",
+      "DD: Meningitis",
+      "DD: Kleinhirn-Apoplex"
+    ],
+    "diagnostic_approach": [
+      "Stifneck legen",
+      "Labor",
+      "Röntgen-HWS",
+      "Bei Verdacht auf Meningitis: Isolierung",
+      "Blutkultur",
+      "Hirn-CT/MRT vor LP (um erhöhten Hirndruck auszuschließen)"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Kopftrauma mit zunehmenden Kopfschmerzen und Meningismus",
+    "patient_age": "geboren 1986 (ca. 37 Jahre)",
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "Starke Schmerzen im ganzen Kopf",
+      "Übelkeit",
+      "Erbrechen (zwei Mal gestern Abend und heute Morgen)",
+      "Kraftlosigkeit",
+      "Photophobie",
+      "Nackensteifigkeit (kann Kopf nicht nach vorne beugen)"
+    ],
+    "accident_mechanism": "Vor zwei Wochen während der Renovierung in der Wohnung: Stein auf den Kopf gefallen",
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie seit Jahren",
+      "Lumbalgie",
+      "Z.n. Appendektomie in der Kindheit",
+      "Z.n. Sprunggelenkfraktur in der Kindheit"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater wegen Ösophaguskarzinom verstorben",
+      "Mutter mit Leberproblemen"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [
+      "Pollen",
+      "Ein Antibiotikum (nicht näher spezifiziert)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Hautinspektion",
+      "Neurologische Untersuchung",
+      "Meningismuszeichen positiv",
+      "Hirnnerven geprüft",
+      "Herz-, Lungen- und Bauchuntersuchung"
+    ],
+    "imaging_findings": [
+      "CT Kopf geplant"
+    ],
+    "laboratory_findings": [
+      "Blutabnahme in 3 Röhrchen durchgeführt"
+    ],
+    "suspected_diagnosis": [
+      "Subarachnoidalblutung (SAB)",
+      "Subduralhämatom",
+      "Epiduralhämatom",
+      "DD: Meningitis"
+    ],
+    "diagnostic_approach": [
+      "Blutabnahme in 3 Röhrchen",
+      "CT Kopf"
+    ],
+    "treatment_response": [
+      "War beim Hausarzt gewesen",
+      "Überweisung zum Neurologen bekommen",
+      "Keinen Termin bekommen",
+      "Kopfschmerzen unerträglich geworden"
+    ],
+    "complications": [
+      "Zunehmende Kopfschmerzen seit Trauma vor zwei Wochen"
+    ],
+    "follow_up": []
+  }
+]

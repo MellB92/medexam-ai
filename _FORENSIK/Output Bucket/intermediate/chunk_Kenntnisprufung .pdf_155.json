@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Frau mit Gewichtsverlust, Müdigkeit und Rückenschmerzen - V.a. Multiples Myelom",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Gewichtsverlust 8 kg in sechs Monaten",
+      "Müdigkeit und Fatigue seit 2 Monaten",
+      "Rückenschmerzen seit ein paar Monaten",
+      "Nächtliche Schweißausbrüche"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Osteoporose (V.D.)",
+      "Arterielle Hypertonie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Körperliche Untersuchung durchgeführt",
+      "Arterielle Hypertonie festgestellt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Problem mit den Nieren (laut Hausarzt)"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom",
+      "Anämie",
+      "Osteoporose"
+    ],
+    "diagnostic_approach": [
+      "Überweisung für weitere Untersuchungen"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Immer wieder Erkältung und Erschöpfung",
+      "Starke Zahnfleischentzündung"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "45-jährige Unfallpatientin mit Thoraxtrauma und Perikarderguss",
+    "patient_age": "45",
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "Unfallpatientin"
+    ],
+    "accident_mechanism": "Unfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter wegen inkarzerierter Hernie verstorben",
+      "Vater wegen Schilddrüsenerkrankung operiert"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Thorax Röntgen: Hämothorax",
+      "Rippenfraktur",
+      "Lungenkontusion",
+      "Kardiomegalie",
+      "Echokardiographie: Perikarderguss/Perikard-Tamponade"
+    ],
+    "suspected_diagnosis": [
+      "Hämothorax",
+      "Rippenfrakturen",
+      "Lungenkontusion",
+      "Perikarderguss/Perikard-Tamponade",
+      "Möglicher Pneumothorax",
+      "Mögliche Extremitätenfrakturen",
+      "Mögliches akutes Abdomen",
+      "Mögliche Milzverletzung",
+      "Mögliche Zwerchfellverletzung",
+      "Mögliche Leberverletzung"
+    ],
+    "diagnostic_approach": [
+      "Drainage-Anlage",
+      "Ultraschall oder CT",
+      "Laparoskopie oder Laparotomie"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Starke Blutungen"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Patientin mit akuten Kopfschmerzen, Nackensteifigkeit und Photophobie - V.a. Meningitis",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "Kopfschmerzen seit gestern Abend (8/10)",
+      "Ausstrahlung in den Nacken mit Nackensteifigkeit",
+      "Lichtempfindlichkeit",
+      "Übelkeit und Erbrechen",
+      "Fiebergefühl (nicht gemessen)"
+    ],
+    "accident_mechanism": "Vor 3 Tagen Busreise in Äthiopien, Tasche in Nacken gefallen",
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Herzrhythmusstörung",
+      "Armfraktur vor 3 Jahren"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Busreise in Äthiopien vor 3 Tagen"
+    ],
+    "medications": [
+      "Blutdrucksenker (unbekannt welche)",
+      "ASS für HRST"
+    ],
+    "allergies": [
+      "Pollen",
+      "Antibiotika (Name unbekannt)"
+    ],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Vorhang vorgezogen wegen Lichtempfindlichkeit",
+      "Schmerzmittel angeboten"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

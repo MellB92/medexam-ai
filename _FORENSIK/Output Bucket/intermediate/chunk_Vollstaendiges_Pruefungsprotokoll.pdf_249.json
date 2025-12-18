@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 250/585) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Prüfungsfragen und Musterantworten** zu verschiedenen medizinischen Themen:\n   - Diabetes insipidus (Diagnostik und Therapie)\n   - Cholelithiasis und Komplikationen\n   - Cholezystitis\n   - Beckenringfraktur\n   - Postoperative Abszesse\n   - pAVK (periphere arterielle Verschlusskrankheit)\n   - PONV (postoperative Übelkeit und Erbrechen)\n   - Herpes Zoster\n   - Anaphylaktischer Schock\n   - Bewusstloser Patient (CABCDE-Schema)\n   - Reanimation (Adrenalin/Amiodaron-Dosierungen)\n   - Retroperitonealraum\n   - Strahlenschutz (ALARA-Prinzip)\n\n2. **Format:** Strukturiert als Frage-Antwort-Katalog aus einem Prüfungsprotokoll\n   - \"antwort_kandidat: Nicht im Protokoll enthalten\"\n   - \"musterloesung_leitlinie: [Theoretische Antwort]\"\n\nEs handelt sich um **theoretisches Wissen und Leitlinien**, nicht um konkrete Patientenfälle mit individuellen Anamnesen, Befunden oder Verläufen."
+  }
+]

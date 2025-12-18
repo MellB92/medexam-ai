@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Bronchialkarzinom mit Hämoptyse und Gewichtsverlust",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "zunehmende Belastungsdyspnoe seit 2-3 Wochen",
+      "Hämoptyse",
+      "Nachtschweiß",
+      "Gewichtsverlust von ca 5 kg innerhalb 5 Monaten",
+      "thorakale Beschwerden unter Belastung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "chronische Bronchitis",
+      "Z.n. Cholezystektomie",
+      "Z.n. Becken-OP bei komplizierter Beckenfraktur"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Nikotinanamnese 40 PY",
+      "Alkoholkonsum 1-2 Bier täglich"
+    ],
+    "family_history": [
+      "Mutter mit Darmkarzinom"
+    ],
+    "social_history": [
+      "Raucher 40 PY",
+      "Alkohol 1-2 Bier täglich"
+    ],
+    "medications": [
+      "Spiriva",
+      "Lisinopril",
+      "Salbutamol bei Bedarf",
+      "Macrogol bei Bedarf"
+    ],
+    "allergies": [
+      "Penicillinallergie"
+    ],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Thorax mit Raumforderung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom",
+      "Lungenembolie",
+      "Pneumonie",
+      "Tuberkulose",
+      "COPD"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Labor",
+      "Röntgen Thorax",
+      "CT",
+      "Bronchoskopie",
+      "Echo bei V.a. Lungenembolie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Bronchialkarzinom mit blutigem Auswurf und pAVK",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "blutiger Auswurf seit circa zwei Wochen",
+      "Gewichtsverlust circa 5 kg innerhalb von zwei Monaten",
+      "belastungsabhängige Luftnot",
+      "nächtliche Orthopnoe"
+    ],
+    "accident_mechanism": "Autounfall vor circa 14 Jahren mit Beckenfraktur",
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "chronische Bronchitis",
+      "pAVK",
+      "Z.n. Cholezystektomie",
+      "Z.n. Beckenfraktur-OP nach Autounfall vor 14 Jahren"
+    ],
+    "comorbidities": [
+      "pAVK"
+    ],
+    "risk_factors": [
+      "Nikotinabusus circa 40 PY"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Raucher circa 40 PY"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild: Raumforderung in rechten Oberlappen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Bronchialkarzinom"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Thorax",
+      "CT",
+      "Bronchoskopie",
+      "Knochen-Szintographie bei Metastasen",
+      "TNM-Klassifikation"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

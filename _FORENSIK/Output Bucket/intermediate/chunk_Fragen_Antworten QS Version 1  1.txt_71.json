@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Fortsetzung einer theoretischen Antwort** zum WHO-Stufenschema der Schmerztherapie (Ende von Frage 116)\n   - Enthält nur allgemeine Prinzipien (\"By the clock\", \"By the mouth\", etc.)\n   - Keine Patientenpräsentation\n\n2. **Frage 117: Theoretische Frage zu QT-Zeit-Verlängerung**\n   - Thema: Medikamente, die QT-Zeit verlängern\n   - Reine Wissensfrage ohne konkreten Patientenfall\n   - Auflistung von Medikamentengruppen, Risikofaktoren und Therapieprinzipien\n   - Keine spezifische Patientenpräsentation mit Anamnese, Befunden oder diagnostischem Vorgehen\n\nBeide Abschnitte sind **rein theoretisch-didaktischer Natur** und erfüllen nicht die Kriterien für einen klinischen Präsentationsfall."
+  }
+]

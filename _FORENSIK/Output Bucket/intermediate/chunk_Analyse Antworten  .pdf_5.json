@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Femurhalsfraktur nach Sturz bei Patient mit geplantem neurochirurgischen Eingriff\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"kann Bein gar nicht bewegen\"],\n    \"accident_mechanism\": \"Sturz\",\n    \"pre_existing_conditions\": [\"Hämangiom im Gehirn\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\"Bein in Außenrotation\", \"Patient liegt auf Liege\"],\n    \"imaging_findings\": [\"Röntgen: Femurhalsfraktur\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Femurhalsfraktur\"],\n    \"diagnostic_approach\": [\"Klinische Untersuchung\", \"Röntgenaufnahme des Beckens und der Hüfte\"]\n  }\n]\n```"
+  }
+]

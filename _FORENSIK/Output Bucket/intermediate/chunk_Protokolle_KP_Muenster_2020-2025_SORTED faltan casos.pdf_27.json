@@ -1,0 +1,47 @@
+[
+  {
+    "title": "pAVK Stadium nach Fontaine - Unterschenkelschmerzen rechts",
+    "patient_age": "59-jähriger",
+    "patient_gender": "Mann",
+    "chief_complaints": [
+      "Schmerzen im Unterschenkel rechts",
+      "Claudicatio intermittens - schmerzfreie Gehstrecke ca. 300m"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Dyslipidämie",
+      "Unterschenkelfraktur vor 20 Jahren (operativ mit Platte versorgt)",
+      "LWS-OP wegen Bandscheibenvorfall LWK4/5 vor 10 Jahren",
+      "Obstipation"
+    ],
+    "medications": [
+      "Lisinopril 20/12,5 mg 1-0-0",
+      "Atorvastatin 30 mg 0-0-1",
+      "Ibuprofen 600 mg bei Bedarf",
+      "Dulcolax Tr. bei Bedarf"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "RR und Puls gemessen",
+      "Pulsstatus des ganzen Körpers geprüft",
+      "TVT-Zeichen geprüft: Meyer, Payr, Homan - unauffällig",
+      "Sensibilität der unteren Extremitäten geprüft",
+      "Aktive Dorsalextension und Plantarextension der Füße geprüft",
+      "Keine Ödeme, keine Rötung",
+      "Keine sensomotorischen Defizite"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "pAVK (periphere arterielle Verschlusskrankheit)",
+      "DD: Tiefe Venenthrombose (ausgeschlossen)"
+    ],
+    "diagnostic_approach": [
+      "Knöchel-Arm-Index (ABI)",
+      "Duplex-Sonographie",
+      "CT mit Kontrastmittel",
+      "Klassifikation nach Fontaine"
+    ]
+  }
+]

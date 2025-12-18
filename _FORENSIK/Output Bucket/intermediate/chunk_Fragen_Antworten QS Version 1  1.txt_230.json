@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Divertikulitis mit linksseitigen Unterbauchschmerzen und Fieber",
+    "patient_age": "62-jährig",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "linksseitige Unterbauchschmerzen",
+      "Fieber"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Divertikulitis"
+    ],
+    "diagnostic_approach": [
+      "Stadienbestimmung nach CDD-Klassifikation",
+      "Indikationsstellung zur stationären Aufnahme bei Stadium IIb-III",
+      "Evaluation auf Komplikationen (Abszess, Perforation)",
+      "Prüfung auf Therapieversagen ambulant",
+      "Evaluation schwerer Begleiterkrankungen"
+    ]
+  }
+]

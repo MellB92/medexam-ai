@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle**. \n\nDer Text besteht aus:\n\n1. **Standardtherapie-Protokollen** für Schilddrüsenerkrankungen (L-Thyroxin-Dosierung, TSH-Kontrollen)\n2. **Theoretischem Wissen** über Schilddrüsenkarzinome (Klassifikation, Therapieoptionen)\n3. **Differentialdiagnostischen Listen** (ST-Hebung im EKG)\n4. **Einem abgebrochenen Text** zur epiduralen Blutung (endet mitten im Satz bei \"3.\")\n\nEs handelt sich um **Prüfungsfragen mit theoretischen Antworten**, nicht um konkrete Patientenfälle mit individuellen Anamnesen, Untersuchungsbefunden oder diagnostischen Überlegungen.\n\nEin klinischer Fall würde beispielsweise beginnen mit: \"Ein 58-jähriger Patient stellt sich mit plötzlichen Brustschmerzen vor...\" - solche Fallpräsentationen sind in diesem Abschnitt nicht vorhanden."
+  }
+]

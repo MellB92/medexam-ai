@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Akute Appendizitis mit Perforation und Mitralinsuffizienz",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Typische Appendizitis-Beschwerden",
+      "Schmerzen mit freiem Intervall (Hinweis auf Perforation)",
+      "Belastungsabhängige Dyspnoe"
+    ],
+    "accident_mechanism": "Sturz auf Ellenbogen vor 2-3 Monaten",
+    "pre_existing_conditions": [
+      "Klappeninsuffizienz (bereits beim Kardiologen)"
+    ],
+    "comorbidities": [
+      "Schwere Mitralinsuffizienz",
+      "Bursitis olecrani"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Mc Burney-Zeichen positiv",
+      "Rovsing-Zeichen positiv",
+      "Blumberg-Zeichen positiv",
+      "Lanz-Zeichen positiv",
+      "Abdomen ausführlich untersucht",
+      "Ellenbogen-Schwellung"
+    ],
+    "imaging_findings": [
+      "Röntgen Abdomen Übersichtsaufnahme: Freie Luft (Perforation)",
+      "Abdomen Sonographie: Klare Appendizitis",
+      "Echokardiografie: Schwere Mitralinsuffizienz",
+      "Bursitis-Foto Ellenbogen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Akute Appendizitis mit Perforation",
+      "Schwere Mitralinsuffizienz",
+      "Bursitis olecrani"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Übersichtsaufnahme Abdomen (Perforation ausschließen)",
+      "Abdomen Sonographie",
+      "Echokardiografie"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Perforation der Appendix"
+    ],
+    "follow_up": []
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 44/50) aus einem pharmakologischen Lehrbuch enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer Text behandelt ausschließlich:\n\n1. **Nebenwirkungen intravenöser Anästhetika** (Propofol, Etomidat, Ketamin, Barbiturate) - tabellarische Übersicht mit Maßnahmen\n\n2. **Inhalationsanästhetika (Volatile Hypnotika)** - theoretische Darstellung von:\n   - Eigenschaften (Desfluran, Sevofluran, Isofluran, Lachgas)\n   - Wirkungen und Vergleiche\n   - Nebenwirkungen\n   - Pharmakokinetik\n\n3. **Akzidentelle Vergiftungen/Intoxikationen** - Beginn eines neuen Abschnitts mit:\n   - Auflistung verschiedener Gifte (Knollenblätterpilz, Fliegenpilz, etc.)\n   - Theoretische Beschreibung der Intoxikation mit trizyklischen Antidepressiva (Wirkung, allgemeine Klinik, Diagnostik)\n\nEs handelt sich um **rein pharmakologisches/toxikologisches Grundlagenwissen** ohne konkrete Patientenbeispiele, Fallvignetten oder klinische Präsentationen mit individuellen Patienten."
+  }
+]

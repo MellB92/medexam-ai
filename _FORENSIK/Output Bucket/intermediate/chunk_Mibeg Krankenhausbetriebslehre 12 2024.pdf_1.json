@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle**. \n\nDer Text behandelt ausschließlich:\n- Krankenhausfinanzierung und DRG-System\n- Vertragsarten im Krankenhaus\n- Abrechnungsmodalitäten (Bewertungsrelationen, Basisfallwerte, etc.)\n- Wahlleistungen (Chefarztbehandlung, Zimmerupgrades)\n- Controlling und Kostenrechnung\n\nDie wenigen \"Beispiele\" (z.B. \"Pat. liegt 8 Tage im Krankenhaus\", \"Pat. in der Gynäkologie\") sind rein **rechnerische Kalkulationsbeispiele** zur Demonstration des DRG-Abrechnungssystems, keine echten klinischen Präsentationsfälle mit medizinischen Angaben zu Symptomen, Diagnostik oder Therapie.\n\nEs handelt sich um Lehrmaterial zur **Krankenhausbetriebslehre** (administrative/ökonomische Aspekte), nicht um klinische Fallvorstellungen."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt stammt aus einem pharmakologischen Lehrbuch (\"Last Minute Pharmakologie\") und enthält ausschließlich theoretische Informationen über Antihypertensiva. Der Text behandelt:\n\n1. **ACE-Hemmer und AT₁-Rezeptorantagonisten** - Wirkmechanismen, Pharmakokinetik, Nebenwirkungen, Kontraindikationen\n2. **Kalziumantagonisten** - Klassifikation (Dihydropyridine vs. Nicht-Dihydropyridine), Wirkmechanismen, Indikationen\n3. **β-Blocker** - Blutdruckspezifische Aspekte\n\nEs werden zwar klinische Szenarien erwähnt (z.B. \"hypertensiver Notfall\", \"Schwangerschaft\", \"akutes Koronarsyndrom\"), aber dies geschieht ausschließlich im Kontext von:\n- Indikationen für bestimmte Medikamente\n- Kontraindikationen\n- Unerwünschten Wirkungen\n- Theoretischen Check-Up-Fragen\n\nEs gibt **keine vollständigen Patientenpräsentationen** mit konkreten Falldarstellungen, die folgende Elemente enthalten würden:\n- Spezifische Patientenvorstellung (Alter, Geschlecht)\n- Anamnestische Angaben eines individuellen Falls\n- Klinische Untersuchungsbefunde eines konkreten Patienten\n- Diagnostische Überlegungen zu einem spezifischen Fall\n\nDer Text ist rein didaktisch-pharmakologisch aufgebaut und dient der Wissensvermittlung über Medikamentengruppen."
+  }
+]

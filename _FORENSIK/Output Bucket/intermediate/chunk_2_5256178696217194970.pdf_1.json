@@ -1,0 +1,246 @@
+[
+  {
+    "title": "Rechtschenkelblock mit Sinusbradykardie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Rechtschenkelblock",
+      "Sinusbradykardie"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rechtschenkelblock"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Therapie für Bradykardie"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Erosive Gastritis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Erosive Gastritis"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Erosive Gastritis"
+    ],
+    "diagnostic_approach": [
+      "Helicobacter pylori-Diagnostik"
+    ],
+    "treatment_response": [
+      "H. pylori-Eradikationstherapie"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Chronische Niereninsuffizienz",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Medikamente zur Verlaufsverbesserung"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Proteinurie",
+      "GFR"
+    ],
+    "suspected_diagnosis": [
+      "Chronische Niereninsuffizienz"
+    ],
+    "diagnostic_approach": [
+      "Früher Nachweis von Proteinurie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Maligne Mesotheliom",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Antrakose"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Maligne Mesotheliom"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Maligne Mesotheliom"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Rechtsmittellappen-Pneumonie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rechtsmittellappen-Pneumonie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rechtsmittellappen-Pneumonie"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Asthma",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Asthma-Medikation"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Asthma"
+    ],
+    "diagnostic_approach": [
+      "Anamnese"
+    ],
+    "treatment_response": [
+      "Therapie"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "L1-L2-Fraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "L1-L2-Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "L1-L2-Fraktur"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Fremdkörperaspiration",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Fremdkörperaspiration"
+    ],
+    "diagnostic_approach": [
+      "Lokalisation, Lage und Art des Fremdkörpers"
+    ],
+    "treatment_response": [
+      "Behandlungsoptionen"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

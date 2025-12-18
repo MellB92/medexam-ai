@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 5/115) aus \"Last Minute Pharmakologie\" enthält ausschließlich theoretisches Lehrmaterial zur Pharmakologie und keine klinischen Patientenfälle. \n\nDer Inhalt umfasst:\n- Pharmakologische Grundbegriffe (EC50, intrinsische Aktivität, Affinität, Agonisten, Antagonisten)\n- Arzneiformen (Salben, Cremes, Pasten)\n- Phasen der Arzneimittelprüfung\n- Grundlagen des vegetativen Nervensystems\n- Parasympathomimetika und deren Wirkmechanismen\n\nDas einzige erwähnte Rechenbeispiel (\"Reduziert ein Medikament das absolute Risiko...\") ist ein hypothetisches statistisches Beispiel zur Erklärung der NNT-Berechnung, kein echter Patientenfall.\n\nEs werden keine konkreten Patienten mit Beschwerden, Untersuchungsbefunden oder Diagnosen präsentiert."
+  }
+]

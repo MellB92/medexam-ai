@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Lupus Nephritis mit Aortenstenose und peripheren Ödemen\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"SLE (Systemischer Lupus Erythematodes)\", \"Aortenstenose\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [\n      \"Herzauskultation: Systolikum bei Aortenstenose\",\n      \"Lungenauskultation: Rasselgeräusche (RG)\",\n      \"Beinödeme asymmetrisch (ein Bein größer als das andere, V.a. TVT)\",\n      \"A. dorsalis pedis: schwach palpabel\",\n      \"Asziteszeichen\",\n      \"Milzpalpation\"\n    ],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\n      \"Lupus Nephritis\",\n      \"SLE mit Serositis\",\n      \"Tiefe Venenthrombose (TVT)\"\n    ],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

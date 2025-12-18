@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 54/111) stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und enthält ausschließlich theoretisches Lehrmaterial zu folgenden Themen:\n\n1. **Elektrokardiografische Befunde bei chronischer Perikarditis** (mit Abbildungen 22.4 und 22.5)\n2. **Elektrokardiografische Befunde bei Myokarditis** (mit Abbildung 22.6)\n3. **EKG bei Elektrolytstörungen** (Lektion 23):\n   - Hyperkaliämie (mit Abbildung 23.1)\n   - Hypokaliämie (mit Abbildung 23.2)\n\nDer Text beschreibt:\n- Typische EKG-Veränderungen bei verschiedenen Erkrankungen\n- Pathophysiologische Zusammenhänge\n- Diagnostische Kriterien (z.B. Definition Niedervoltage-EKG)\n- Merkkästen mit zusammengefassten Befunden\n\nEs handelt sich um **didaktisches Material** ohne konkrete Patientenfälle. Es werden keine individuellen Patienten mit spezifischen Beschwerden, Untersuchungsbefunden oder Krankheitsverläufen präsentiert."
+  }
+]

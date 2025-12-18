@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Auffälliger Nierenbefund rechts bei chronischen Rückenschmerzen",
+    "patient_age": "63-jährig",
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "Sonographisch auffälliger Befund an rechter Niere (vor 1 Woche beim Hausarzt)",
+      "Chronische Rückenschmerzen ohne Begleitbeschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "BSV-OP vor 30 Jahren ohne Komplikationen",
+      "Leber- und Milzentzündung ohne Diagnose, ohne Therapie",
+      "Dickdarmpolypenentfernung vor 12 Jahren mit jährlicher Kontrolle",
+      "Fußtrauma mit innerer Abknickung vor 8 Wochen (konservativ mit Schiene 6 Wochen behandelt)"
+    ],
+    "comorbidities": [
+      "Chronische Rückenschmerzen"
+    ],
+    "risk_factors": [],
+    "family_history": [
+      "Vater lebt mit Herzproblemen ohne bestimmte Diagnose",
+      "Mutter lebt mit Teildarmresektion ohne bestimmte Diagnose (Dick- oder Dünndarm)",
+      "Bruder: Raucher mit gelegentlicher Atemnot unter Medikation"
+    ],
+    "social_history": [
+      "Verheiratet",
+      "Lebt mit Ehemann zusammen",
+      "1 Tochter und 2 Enkelkinder"
+    ],
+    "medications": [
+      "Ibuprofen 400mg bei Bedarf",
+      "Diclofenac 50mg bei Bedarf",
+      "Vitamin D morgens jede Woche"
+    ],
+    "allergies": [
+      "Wespenstich-Allergie mit Hals-Schwellung"
+    ],
+    "vital_signs": [
+      "RR 150/90 mmHg links",
+      "RR 140/80 mmHg rechts"
+    ],
+    "physical_examination": [
+      "Blutdruckmessung beidseitig",
+      "Gesamte körperliche Untersuchung von Kopf bis Fuß",
+      "Ausführliche Untersuchung von Bauch und Wirbelsäule"
+    ],
+    "imaging_findings": [
+      "Nierensonographie: auffälliger Befund rechte Niere",
+      "Leber- und Adrenalsonographie: hypoechogene Raumforderung mit ziemlich tiefer Lokalisation"
+    ],
+    "laboratory_findings": [
+      "Laborbefunde ausstehend"
+    ],
+    "suspected_diagnosis": [
+      "Adrenaltumor (benigne oder maligne)"
+    ],
+    "diagnostic_approach": [
+      "Abdomensonographie wiederholen",
+      "Abwarten der Laborbefunde",
+      "Weitere Maßnahmen nach Befunden"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

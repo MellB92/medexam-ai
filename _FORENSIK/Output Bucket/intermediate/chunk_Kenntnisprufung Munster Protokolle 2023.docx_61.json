@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Sturz auf dem Weg zur Arbeit mit Knieschmerzen, Handplatzwunde und Rektalblutung",
+    "patient_age": "62-jähriger",
+    "patient_gender": "männlich",
+    "chief_complaints": [
+      "Knieschmerzen links",
+      "Platzwunde rechte Hand",
+      "Heuschnupfen seit paar Wochen",
+      "Frischblut auf Klopapier vor 2 Tagen"
+    ],
+    "accident_mechanism": "Auf dem Weg zur Arbeit gestürzt, auf gestrecktem Arm",
+    "pre_existing_conditions": [
+      "Asthma bronchiale als Kind",
+      "Z.n. Appendizitis 2021",
+      "Heuschnupfen",
+      "Hämorrhoiden bekannt"
+    ],
+    "medications": [
+      "Cetirizin",
+      "Nasenspray"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Fett bei Blutuntersuchung (vom Hausarzt)"
+    ],
+    "suspected_diagnosis": [
+      "V.a. Innenmeniskusverletzung"
+    ],
+    "diagnostic_approach": [
+      "Untersuchung auf tanzende Patella",
+      "Punktion bei Erguss"
+    ]
+  },
+  {
+    "title": "V.a. Bronchialkarzinom bei bekannter COPD",
+    "patient_age": null,
+    "patient_gender": "männlich",
+    "chief_complaints": [
+      "Leistungsminderung mit Dyspnoe",
+      "Seit 2 Wochen Blut im Auswurf",
+      "Schlappheit, Mattigkeit, Müdigkeit",
+      "Gewichtsverlust 6kg in letzten 6 Monaten",
+      "Nachtschweiß mit Schlafanzugwechsel",
+      "Dyspnoe bei geringer Belastung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "COPD",
+      "Gicht",
+      "Z.n. Beckenfraktur nach Unfall vor 10 Jahren (OP mit Plattenosteosynthese)",
+      "Z.n. Cholezystektomie"
+    ],
+    "medications": [
+      "Lisinopril 1-0-0",
+      "Salmeterol",
+      "Salbutamol",
+      "Movicol b.B."
+    ],
+    "allergies": [
+      "Penicillinallergie (Hautausschlag)"
+    ],
+    "physical_examination": [
+      "Unterarmgehstock rechts"
+    ],
+    "imaging_findings": [
+      "Röntgen Thorax in 2 Ebenen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "V.a. Bronchialkarzinom",
+      "DD: COPD-Exazerbation",
+      "DD: TBC",
+      "DD: Lungenembolie",
+      "DD: Lungenödem"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Thorax in 2 Ebenen",
+      "Bronchoskopie mit Biopsie"
+    ]
+  },
+  {
+    "title": "18-jährige Patientin mit Hypertonie",
+    "patient_age": "18-jährige",
+    "patient_gender": "weiblich",
+    "chief_complaints": [
+      "RR 180/110"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Essentielle oder sekundäre Hypertonie"
+    ],
+    "diagnostic_approach": [
+      "Nierenarterien-Doppler",
+      "Abklärung sekundärer Hypertonieursachen"
+    ]
+  },
+  {
+    "title": "53-jährige Patientin mit EKG-Auffälligkeit ohne Beschwerden",
+    "patient_age": "53-jährige",
+    "patient_gender": "weiblich",
+    "chief_complaints": [
+      "Keine Beschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "EKG-Befund"
+    ]
+  }
+]

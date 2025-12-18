@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Schenkelhalsfraktur nach Sturz bei 67-jähriger Frau",
+    "patient_age": "67 Jahre",
+    "patient_gender": "weiblich",
+    "severity": null,
+    "chief_complaints": [
+      "Sturz gestern Nacht auf der Seite",
+      "kann das Bein nicht mehr bewegen"
+    ],
+    "accident_mechanism": "Sturz auf der Seite",
+    "pre_existing_conditions": [
+      "Diabetes mellitus Typ 2",
+      "Z.n. Cholezystektomie",
+      "TVT (tiefe Venenthrombose)",
+      "Analfistel",
+      "Herzrhythmusstörungen"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "komplette körperliche Untersuchung",
+      "Pulse tasten (Carotis, radial, ulnar, femoral, tibial posterior, pedis dorsalis)",
+      "Auskultation an ICR",
+      "neurologische Untersuchung mit Reflexen"
+    ],
+    "imaging_findings": [
+      "mediale Oberschenkelhalsfraktur",
+      "Röntgen Incidence"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "mediale Femur Kopf Fraktur",
+      "Schenkelhalsfraktur"
+    ],
+    "diagnostic_approach": [
+      "Klassifikation nach Garden und Pauwels",
+      "Winkelmessung bei Pauwels"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Polytrauma nach Verkehrsunfall bei 60-jährigem Patient",
+    "patient_age": "ca. 60 Jahre",
+    "patient_gender": "männlich",
+    "severity": "severe",
+    "chief_complaints": [
+      "starke Schmerzen des rechten Beins",
+      "Kopfschmerzen",
+      "Luftnot"
+    ],
+    "accident_mechanism": "Verkehrsunfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Patient ansprechbar",
+      "orientiert zu Name und Datum",
+      "aktuelles Befinden erhoben"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Trauma",
+      "Polytrauma"
+    ],
+    "diagnostic_approach": [
+      "schnelle Anamnese",
+      "Medikamente befragt",
+      "Noxen befragt",
+      "Allergien befragt",
+      "Vorerkrankungen befragt"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

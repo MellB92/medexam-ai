@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Kopfschmerzen mit Verdacht auf Meningitis und Sepsis - Frau Schuster",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "critical",
+    "chief_complaints": [
+      "Starke Kopfschmerzen seit gestern, gesamter Kopfbereich",
+      "Stechender Schmerz, Intensität 8/10 NRS",
+      "Tachypnoe und Dyspnoe ohne Brustschmerzen",
+      "Fieber",
+      "Schüttelfrost",
+      "Polyurie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Arterielle Hypertonie",
+      "Diabetes mellitus"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Spanienreise vor 2 Wochen",
+      "Erkältung vor 2 Wochen (Symptome rückläufig)"
+    ],
+    "family_history": [
+      "Vater: Darmkrebs, verstorben mit 48 Jahren",
+      "Mutter: Leberversagen"
+    ],
+    "social_history": [
+      "Verheiratet",
+      "2 Kinder"
+    ],
+    "medications": [
+      "Antihypertensiva (unbekannt)",
+      "Antidiabetika (unbekannt)"
+    ],
+    "allergies": [
+      "Penicillin",
+      "Pollen"
+    ],
+    "vital_signs": [
+      "Tachykardie",
+      "Hypotonie",
+      "Fieber 39°C",
+      "Tachypnoe",
+      "Prolaktin erhöht"
+    ],
+    "physical_examination": [
+      "Neurologische Untersuchung durchgeführt",
+      "Kernig-Zeichen geprüft (Ausschluss Meningismus)",
+      "Brudzinski-Zeichen geprüft (Ausschluss Meningismus)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Entzündungsparameter angefordert: CRP, PCT, BSG",
+      "Blutbild angefordert",
+      "Elektrolyte angefordert",
+      "BGA angefordert",
+      "Blutkulturen angefordert",
+      "Liquorpunktion bei Verdacht auf Meningitis"
+    ],
+    "suspected_diagnosis": [
+      "Sepsis",
+      "Meningitis"
+    ],
+    "diagnostic_approach": [
+      "qSOFA-Score zur Sepsis-Beurteilung",
+      "Entscheidende Faktoren: Hypotonie, Tachypnoe, GCS-Veränderung",
+      "Liquorpunktion",
+      "Blutkulturen",
+      "Prognoseabschätzung"
+    ],
+    "treatment_response": [
+      "Kalkulierte Antibiotikatherapie",
+      "Volumentherapie mit Kristalloiden",
+      "Frühzeitiges Sepsismanagement nach Surviving Sepsis Campaign",
+      "Frühzeitige Antibiotikagabe zur Prognoseverbesserung",
+      "Kreislaufstabilisierung"
+    ],
+    "complications": [
+      "GCS-Veränderung",
+      "Risiko für hepatische Enzephalopathie",
+      "Risiko für hepatorenale Dysfunktion"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Leberzirrhose mit Ösophagusvarizenblutung",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "Hämatemesis",
+      "Hypotonie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Leberzirrhose (alkoholische Genese)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Alkoholkonsum"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Hypotonie"
+    ],
+    "physical_examination": [
+      "Ikterus",
+      "Spider-Nävi",
+      "Palmarerythem",
+      "Aszites"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Ösophagusvarizenblutung",
+      "Hämorrhagischer Schock"
+    ],
+    "diagnostic_approach": [
+      "Beurteilung des akuten Blutverlusts",
+      "Evaluation der portalen Hypertension"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Akuter Blutverlust",
+      "Hämorrhagischer Schock",
+      "Hypovolämie",
+      "Portale Hypertension",
+      "Erhöhtes Risiko für hepatische Enzephalopathie",
+      "Gefahr einer hepatorenalen Dysfunktion"
+    ],
+    "follow_up": []
+  }
+]

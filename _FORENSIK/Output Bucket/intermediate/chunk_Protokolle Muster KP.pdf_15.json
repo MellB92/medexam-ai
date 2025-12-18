@@ -1,0 +1,200 @@
+[
+  {
+    "title": "Alter Mann mit Fieber unklarer Genese - Verdacht auf Endokarditis",
+    "patient_age": "Alter Mann",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Fieber seit langem"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "viele Vorerkrankungen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Infektparameter bereits durchgeführt"
+    ],
+    "suspected_diagnosis": [
+      "Endokarditis"
+    ],
+    "diagnostic_approach": [
+      "Labor Infektparameter",
+      "Urinstatus",
+      "Röntgen",
+      "Fremdkörpersuche",
+      "Blutkulturen",
+      "TEE"
+    ]
+  },
+  {
+    "title": "Gastrointestinale Blutung mit Meläna",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Meläna"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Gastrointestinale Blutung",
+      "Perforation",
+      "Magen-CA"
+    ],
+    "diagnostic_approach": [
+      "ÖGD",
+      "Blutstillung mit Fibrin/Adrenalin/Clips",
+      "ggf. Resektion"
+    ]
+  },
+  {
+    "title": "Schulter-Luxation mit proximaler Humerusfraktur",
+    "patient_age": "unterschiedliches Alter diskutiert",
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen Schulter: Luxation und proximale Humerusfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schulter-Luxation",
+      "Proximale Humerusfraktur"
+    ],
+    "diagnostic_approach": [
+      "Bei Alten: Gelenkersatz",
+      "Nicht so alt: Reposition und Gilchrist-Verband",
+      "Jung: Reposition dann OP"
+    ]
+  },
+  {
+    "title": "Benzodiazepinintoxikation in Notaufnahme",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Benzodiazepinintoxikation"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Pupillenstatus",
+      "Atmung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Benzodiazepinintoxikation"
+    ],
+    "diagnostic_approach": [
+      "Antidot: Flumazenil",
+      "weitere Überwachung",
+      "ggf. Giftzentrum anrufen"
+    ]
+  },
+  {
+    "title": "Spannungspneumothorax mit Mediastinalverschiebung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen: Pneumothorax mit Mediastinalverschiebung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Spannungspneumothorax"
+    ],
+    "diagnostic_approach": [
+      "Monaldi",
+      "Bülau",
+      "-15 cm H2O"
+    ]
+  },
+  {
+    "title": "Rheumatoide Arthritis mit NSAR-induzierter GI-Blutung",
+    "patient_age": "48",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Hände- und Knieschmerzen beidseits",
+      "Morgensteifigkeit seit 3 Monaten",
+      "schwarzer Stuhl"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [
+      "NSAR (Ibuprofen)"
+    ],
+    "allergies": [],
+    "physical_examination": [
+      "Handdruck positiv",
+      "Schwellung"
+    ],
+    "imaging_findings": [
+      "Röntgen: Frühzeichen Rheuma mit Schwellung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rheumatoide Arthritis",
+      "GI-Blutung"
+    ],
+    "diagnostic_approach": [
+      "Hämoccult",
+      "Hb",
+      "ÖGD",
+      "Koloskopie",
+      "Rheuma-Labor"
+    ]
+  },
+  {
+    "title": "Divertikulitis mit linksseitigen Unterbauchschmerzen",
+    "patient_age": "63",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "linksseitige Unterbauchschmerzen seit 3 Tagen",
+      "Obstipation",
+      "Fieber",
+      "Übelkeit",
+      "Blutstrang auf Klopapier"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Appendektomie",
+      "Z.n. Cholezystektomie",
+      "Blasenschwäche",
+      "Z.n. Knietrauma"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Entzündungsparameter"
+    ],
+    "suspected_diagnosis": [
+      "Divertikulitis"
+    ],
+    "diagnostic_approach": [
+      "Labor: Entzündungsparameter",
+      "Antibiotika: Metronidazol + Cephalosporin",
+      "OP bei Perforation (Hartmann-OP)",
+      "bei bedeckter Perforation keine sofortige OP wegen Insuffizienzgefahr"
+    ]
+  }
+]

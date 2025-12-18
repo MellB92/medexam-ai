@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Patientin mit Lumbalgie, multiplen Hämatomen und B-Symptomatik",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Lumbalgie",
+      "multiple Hämatome",
+      "B-Symptomatik"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "multiple Hämatome"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "erhöhte Blutsenkungsgeschwindigkeit",
+      "Urinveränderungen"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom"
+    ],
+    "diagnostic_approach": [
+      "Klinische Bewertung nach SLIM-Kriterien",
+      "Klinische Bewertung nach CRAB-Kriterien",
+      "Nachweis von Bence-Jones-Proteinen im Urin"
+    ]
+  }
+]

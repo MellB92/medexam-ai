@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 8/11) aus der Datei \"uebersichtstabelle_ueber_die_qualitaetskriterien.pdf\" enthält **keine klinischen Patientenfälle**.\n\nEs handelt sich um eine **Qualitätskriterien-Tabelle** für verschiedene medizinische Leistungsbereiche und Leistungsgruppen. Der Text beschreibt:\n\n- Strukturelle Anforderungen (z.B. Stroke Unit, Neuro-Frühreha, Geriatrie, Intensivmedizin)\n- Personelle Vorgaben (Fachärzte, Verfügbarkeit, Rufbereitschaft)\n- Technische Ausstattung (CT, MRT, EEG, EMG, etc.)\n- Kooperationsanforderungen\n- Qualitätsanforderungen (Komplex/Hochkomplex)\n\nEs werden **keine konkreten Patienten** mit Symptomen, Befunden oder Diagnosen beschrieben, sondern ausschließlich administrative und organisatorische Kriterien für die Krankenhausplanung."
+  }
+]

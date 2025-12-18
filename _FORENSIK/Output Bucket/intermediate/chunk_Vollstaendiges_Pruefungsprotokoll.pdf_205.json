@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle/Präsentationsfälle**, sondern ausschließlich:\n\n1. **Prüfungsfragen mit Musterlösungen** zu verschiedenen medizinischen Themen:\n   - Herzinsuffizienz-Einteilung (HFpEF, HFmrEF)\n   - Asthma-Einteilung und Therapie\n   - Inferiorer Myokardinfarkt\n   - Cushing-Syndrom\n   - Ösophagus-Ulzera Komplikationen\n   - Schulterluxation\n   - Claviculafraktur\n   - Fallhand/Radialisparese\n   - Ektoper ACTH-produzierender Tumor\n   - Mesenterialischämie\n   - Vitamin K-Gabe\n\n2. **Kurze Kandidatenantworten** mit nachfolgender Bewertung und Tipps\n\nEs handelt sich um **theoretische Wissensfragen** ohne konkrete Patientendaten, Anamnesen oder klinische Präsentationen. Die Fragen werden in abstraktem Format gestellt (\"Was tun bei...\", \"Welche Komplikationen...\", \"Was ist...\") und nicht als echte Fallszenarios mit Patienten, die sich vorstellen.\n\nDaher: **Leeres Array**."
+  }
+]

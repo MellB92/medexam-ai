@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 1/84) enthält ausschließlich:\n- Titelseite des Buches \"Lernkarten zum Mündlichen Stex - Innere Medizin und Chirurgie\"\n- Impressum und rechtliche Hinweise\n- Vorworte zur 1. und 2. Auflage\n- Benutzerhinweise\n- Beginn einer Abkürzungsliste (alphabetisch sortiert von A bis Anti-HBs-AK)\n\nEs handelt sich um Vorspann/Paratext des Lehrbuchs ohne klinische Patientenfälle oder Fallpräsentationen. Die eigentlichen Lernkarten mit klinischen Fällen werden in späteren Chunks des Dokuments zu erwarten sein."
+  }
+]

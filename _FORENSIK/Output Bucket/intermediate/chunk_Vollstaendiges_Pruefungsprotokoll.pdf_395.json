@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Starke Analblutung bei 70-jährigem Patienten",
+    "patient_age": "70-jährig",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "starke Blutungen aus Analkanal"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "DRU (digitale rektale Untersuchung)",
+      "Vitalparameter stabil"
+    ],
+    "imaging_findings": [
+      "Koloskopie: keine normale Struktur erkennbar",
+      "keine Haustren",
+      "keine Gefäßzeichen",
+      "glatte Schleimhaut nicht zu sehen",
+      "Tumor in der Mitte sichtbar",
+      "am Rand normale Struktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kolonkarzinom im Colon Ascendens",
+      "T2-N0-M0 Stadium",
+      "Differentialdiagnosen initial: Hämorrhoiden, Polypen"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "Vitalparameter-Messung",
+      "körperliche Untersuchung",
+      "digitale rektale Untersuchung (DRU)",
+      "Koloskopie"
+    ]
+  }
+]

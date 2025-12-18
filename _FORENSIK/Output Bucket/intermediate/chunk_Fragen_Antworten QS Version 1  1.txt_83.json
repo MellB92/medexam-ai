@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 84/284) enthält **keine klinischen Patientenfälle oder Fallpräsentationen**.\n\nDer Text besteht ausschließlich aus:\n\n1. **Therapierichtlinien für CML (Chronische Myeloische Leukämie):**\n   - TKI-Therapieoptionen (Ponatinib, Imatinib-Dosiseskalation)\n   - Therapiemonitoring-Kriterien nach ELN 2020\n   - Indikationen für allogene Stammzelltransplantation\n   - Supportivtherapie-Maßnahmen\n\n2. **Nebenwirkungsprofilen verschiedener TKI:**\n   - Imatinib, Nilotinib, Dasatinib, Ponatinib\n\n3. **Therapiefreiheit-Kriterien (TFR)**\n\n4. **Administrativen Informationen:**\n   - Meldepflichten\n   - Prognose-Daten\n   - Arbeitsunfähigkeits-Richtlinien\n\nEs handelt sich um **theoretisches Wissens-/Leitlinienmaterial** ohne konkreten Patientenfall mit Anamnese, Symptomen, Untersuchungsbefunden oder diagnostischem Vorgehen."
+  }
+]

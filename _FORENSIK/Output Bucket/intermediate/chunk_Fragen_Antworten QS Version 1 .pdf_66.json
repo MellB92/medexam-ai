@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 67/148) enthält **keine vollständigen klinischen Patientenfälle**.\n\nDer Abschnitt besteht aus:\n\n1. **Fachlicher Inhalt zur ABI-Messung (Ankle-Brachial-Index)**: Dies ist eine detaillierte Beschreibung einer diagnostischen Methode zur pAVK-Diagnostik mit Durchführung, Interpretation und Dokumentation - KEIN Patientenfall.\n\n2. **Frage 189**: Allgemeine Frage zu klinischen Scores (CHA2DS2-VASc, HAS-BLED, GRACE, Wells, etc.) - theoretisches Wissen, KEIN Patientenfall.\n\n3. **Frage 190**: Theoretische Frage zu Anatomie und Funktion der Plazenta und Blut-Hirn-Schranke - rein anatomisch-physiologisches Wissen, KEIN Patientenfall.\n\n4. **Frage 191 (begonnen)**: Frage zur Pathophysiologie der Metformin-induzierten Laktatazidose - theoretisches Wissen, am Ende des Chunks abgeschnitten und daher unvollständig, KEIN Patientenfall.\n\nEs handelt sich um ein Fragen-Antworten-Dokument zur Prüfungsvorbereitung mit theoretischem medizinischem Wissen, jedoch ohne konkrete Patientenfallpräsentationen."
+  }
+]

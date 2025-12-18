@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Hämopneumothorax nach stumpfem Trauma",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Hämopneumothorax nach stumpfem Trauma"
+    ],
+    "accident_mechanism": "Stumpfes Trauma",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Rx Bild zeigt Hämopneumothorax",
+      "Kollabierte Lunge",
+      "Wahrscheinlich Rippenfraktur (nicht auf dem Bild sichtbar)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hämopneumothorax",
+      "Rippenfraktur"
+    ],
+    "diagnostic_approach": [
+      "Rx Thorax",
+      "Drainage nach Monaldi oder Bülau"
+    ]
+  },
+  {
+    "title": "Verkehrsunfall mit instabilem Zustand und Perikarderguss",
+    "patient_age": "33-jähriger",
+    "patient_gender": "Mann",
+    "chief_complaints": [
+      "Instabiler Zustand nach Verkehrsunfall"
+    ],
+    "accident_mechanism": "Verkehrsunfall",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Ganz instabil"
+    ],
+    "imaging_findings": [
+      "Sono: Perikarderguss",
+      "Thorax-Rx nach einer Woche: Beidseitige Lungeninfiltrate"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perikarderguss",
+      "Akute respiratorische Insuffizienz",
+      "Pneumonie",
+      "Akutes Lungenödem",
+      "COVID-19"
+    ],
+    "diagnostic_approach": [
+      "ABCDE Schema",
+      "Monitoring mit allen Parametern",
+      "Sono Herz",
+      "Thorax-Rx",
+      "Intubation"
+    ]
+  },
+  {
+    "title": "Motorradunfall mit Sprunggelenkschmerzen rechts",
+    "patient_age": "junger",
+    "patient_gender": "Mann",
+    "chief_complaints": [
+      "Heftige Schmerzen im Sprunggelenk rechts"
+    ],
+    "accident_mechanism": "Motorradunfall",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "pDMS-Prüfung",
+      "Puls über A. dorsalis pedis und A. tibialis posterior",
+      "Sensibilitätsprüfung im Seitenvergleich"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [],
+    "diagnostic_approach": [
+      "Notfallanamnese",
+      "Vitalparameter messen",
+      "Körperliche Untersuchung",
+      "Neurovaskuläre Untersuchung",
+      "pDMS-Prüfung"
+    ]
+  }
+]

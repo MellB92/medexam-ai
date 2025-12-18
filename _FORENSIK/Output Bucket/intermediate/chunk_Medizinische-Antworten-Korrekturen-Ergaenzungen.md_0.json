@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle** oder Fallpräsentationen. \n\nEs handelt sich ausschließlich um:\n- **Metadokument zur Prüfungsvorbereitung**: Korrekturen und Ergänzungen zu bestehenden Materialien\n- **Strukturelle Verbesserungsvorschläge**: Formatierungsrichtlinien, einheitliche Darstellung\n- **Aktualisierungen von Dosierungsangaben**: z.B. Adrenalin bei Anaphylaxie, Antidepressiva-Dosierungen\n- **Leitlinien-Updates**: ESC 2023, GOLD 2023, neue Therapieempfehlungen\n- **Rechtliche Paragraphen**: BGB, AMG\n- **Allgemeine medizinische Informationen**: Therapieschemata, Grenzwerte, Klassifikationen\n\nDas Dokument referenziert zwar Fragen (z.B. \"Frage 1-2: Anaphylaxie\", \"Frage 25: Spannungspneumothorax\"), gibt aber **keine konkreten Patientenfälle** mit individuellen Charakteristika wie Alter, Geschlecht, Anamnese oder klinischer Präsentation wieder. Es handelt sich um theoretische Ergänzungen zu abstrakten medizinischen Themen.\n\n**Keine vollständigen klinischen Fälle vorhanden → Leeres Array.**"
+  }
+]

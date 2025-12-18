@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDer vorliegende Dokumentabschnitt (Chunk 70/115) besteht ausschließlich aus unlesbarem, verschlüsseltem oder korrumpiertem Text. Es handelt sich um eine lange Zeichenkette aus Base64-ähnlichen oder binär kodierten Daten, die keinen sinnvollen klinischen Inhalt erkennen lassen.\n\nEs sind keine der folgenden Elemente identifizierbar:\n- Patientenalter oder -geschlecht\n- Klinische Beschwerden\n- Anamnestische Angaben\n- Untersuchungsbefunde\n- Diagnosen\n- Therapeutische Überlegungen\n\nDieser Chunk scheint ein technisches Artefakt (möglicherweise eingebettete Bilddaten, verschlüsselte Abschnitte oder Kodierungsfehler) zu sein und enthält keine extrahierbaren klinischen Fälle."
+  }
+]

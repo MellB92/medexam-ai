@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:** \n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Präsentationsfälle**. \n\nEs handelt sich ausschließlich um ein Prüfungsprotokoll mit:\n- Theoretischen Fragen (z.B. Medikamentensicherheit in der Schwangerschaft, Hepatozytenveränderungen, Wirkmechanismus von Colchicin)\n- Einzelnen medizinischen Konzepten (CO-Intoxikation, Strahlenschutz, Abdomenuntersuchung)\n- Therapiefragen (VHF-Therapie, Antibiotikawahl)\n\nDie einzige Erwähnung eines möglichen Falls ist die Sepsis-Frage mit einer \"Schauspiel-Patientin\", aber hier werden weder vollständige Anamnese noch strukturierte klinische Daten präsentiert - es wird nur über die diagnostische Überlegung diskutiert, warum nicht direkt die Diagnose \"Sepsis\" gestellt wurde.\n\nKein Fall erfüllt die Kriterien eines vollständigen klinischen Präsentationsfalls mit strukturierter Darstellung von Anamnese, Befunden und diagnostischem Vorgehen."
+  }
+]

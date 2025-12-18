@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Junger Mann mit Knieverletzung beim Fußballspielen",
+    "patient_age": "junger Mann",
+    "patient_gender": "männlich",
+    "severity": null,
+    "chief_complaints": [
+      "Knieverletzung",
+      "Knie verdreht"
+    ],
+    "accident_mechanism": "Fußball gespielt, Knie verdreht",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Fußballspieler"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild rechtes Knie: Patella Hochstand"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Patellarsehnenruptur"
+    ],
+    "diagnostic_approach": [
+      "Röntgenbild Knie"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "67-jähriger Patient mit Multiples Myelom und Z.n. Autounfall",
+    "patient_age": "67 Jahre",
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "diffuse ausgeprägte Rückenschmerzen",
+      "Müdigkeit",
+      "Kraftlosigkeit",
+      "Gewichtsabnahme von 8 kg innerhalb 6 Monaten",
+      "subfebrile Temperatur",
+      "Infektneigung",
+      "Zahnfleischentzündung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Autounfall mit Thoraxtrauma",
+      "Erysipel"
+    ],
+    "comorbidities": [
+      "AV Block 3. Grades",
+      "Rippen-Serienfraktur",
+      "linksseitiger Hämotothorax"
+    ],
+    "risk_factors": [],
+    "family_history": [
+      "Vater: Schilddrüsen-OP",
+      "Mutter: Nierenversagen"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Lymphknoten nicht vergrößert",
+      "Untersuchung: Hals, Thorax, Schilddrüse und Lymphknoten"
+    ],
+    "imaging_findings": [
+      "Rö-Thorax: Rippen-Serienfraktur",
+      "linksseitiger Hämotothorax",
+      "evtl. Pneumothorax",
+      "M-Gradient in Serum Elektrophorese"
+    ],
+    "laboratory_findings": [
+      "Hausarzt: etwas mit Nieren nicht in Ordnung",
+      "Serum Elektrophorese mit M-Gradient"
+    ],
+    "suspected_diagnosis": [
+      "Multiples Myelom",
+      "Morbus Bechterew",
+      "Rheumatoide Arthritis"
+    ],
+    "diagnostic_approach": [
+      "Labor",
+      "Serum Elektrophorese"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "mögliche Perikardtamponade",
+      "ARDS"
+    ],
+    "follow_up": [
+      "Therapie EKG-Befund: Medikamente, Schrittmacher",
+      "Therapie Thorax: Bülau-Drainage, Monaldi-Drainage",
+      "evtl. Thorakotomie bei massiver Blutung"
+    ]
+  }
+]

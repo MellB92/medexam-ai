@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 33/254) enthält ausschließlich theoretische Fragen und Antworten aus einer Kenntnisüberprüfung. Es handelt sich um ein Q&A-Format (Frage-Antwort-Musterlösung-Fehleranalyse) zu verschiedenen medizinischen Themen, aber **keine vollständigen klinischen Patientenfälle**.\n\nDie Inhalte umfassen:\n- Medikamentenwissen (Lisinopril, Herzinsuffizienztherapie)\n- Bildgebungsbefunde ohne Patientenkontext (CT Thorax, Röntgen Sprunggelenk)\n- Theoretische Definitionen (Ileus, Sepsis, SIRS, Peritonitis)\n- Therapieschemata (Insulintherapie)\n- Rechtliche Fragen (Organspende, Patientenrechte)\n- Notfallmanagement (epileptischer Anfall, bewusstlose Person)\n\nEs gibt **keine zusammenhängenden Fallpräsentationen** mit Patientenvorstellung, Anamnese, Untersuchungsbefunden und diagnostischem Vorgehen, die als vollständige klinische Fälle extrahiert werden könnten."
+  }
+]

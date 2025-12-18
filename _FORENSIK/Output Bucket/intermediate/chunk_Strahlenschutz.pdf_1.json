@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 2/9 aus \"Strahlenschutz.pdf\") enthält **keine klinischen Patientenfälle**. \n\nDer Text besteht ausschließlich aus:\n- **Theoretischem Wissen** über Strahlenschutz (Dosimeter, Ortsdosis, Organdosis, etc.)\n- **Frage-Antwort-Format** zu gesetzlichen Grundlagen (Strahlenschutzgesetz, Strahlenschutzverordnung)\n- **Definitionen** und Erklärungen von Fachbegriffen\n- **Praktischen Anweisungen** (wie trägt man Dosimeter, 3-A-Regel)\n- **Organisatorischen Informationen** (Aufgaben des Strahlenschutzbeauftragten, Strahlenschutz-Registriernummer)\n\nEs handelt sich um **Lehrmaterial/Schulungsunterlagen** zum Thema Strahlenschutz, nicht um klinische Fallpräsentationen mit Patienten, Symptomen, Diagnostik oder Behandlung."
+  }
+]

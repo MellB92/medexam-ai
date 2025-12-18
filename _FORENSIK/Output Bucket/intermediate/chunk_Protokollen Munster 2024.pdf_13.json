@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nEs handelt sich um einen **Prüfungsbericht/Protokoll** einer mündlich-praktischen Prüfung, in dem:\n\n1. **Prüfungsfragen und theoretisches Wissen** besprochen werden (z.B. Fragen zu Fisteln, Niereninsuffizienz, Hypertonie, Cushing-Syndrom)\n\n2. **Fragmentarische Erwähnungen** einer Fallpatientin vorkommen:\n   - \"Fallpatientin\" mit Analfistel wird erwähnt\n   - Eine Patientin mit Herzrhythmusstörung und Inkontinenz wird angesprochen\n   - EKG- und Röntgenbilder werden gezeigt\n\n3. **ABER**: Es gibt keine vollständige, strukturierte Fallpräsentation mit:\n   - Vollständiger Anamnese\n   - Systematischer körperlicher Untersuchung\n   - Zusammenhängender Darstellung von Befunden\n   - Klarer diagnostischer/therapeutischer Fragestellung\n\nDie Erwähnungen sind zu fragmentarisch und im Kontext von Prüfungsfragen verstreut, um als vollständiger klinischer Fall extrahiert zu werden.\n\nDer Prüfling erwähnt selbst: \"Als ich dieses Protokoll hier schreibe fiel mir ein, dass alle Bilder, die ich gesehen habe, gehören hochwahrscheinlich zu dieselben Patientin\" - was zeigt, dass keine kohärente Fallpräsentation vorlag."
+  }
+]

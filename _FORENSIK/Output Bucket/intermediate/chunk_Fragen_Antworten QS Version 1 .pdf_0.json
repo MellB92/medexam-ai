@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Präsentationsfälle** im Sinne von Patientenvignetten. \n\nDer vorliegende Text besteht aus:\n\n1. **Master-Prompt für Qualitätssicherung** - Anweisungen für ein KI-System zur Validierung medizinischer Prüfungsfragen\n\n2. **Korrigierte Prüfungsfragen und Antworten** - Theoretische Wissensfragen zu:\n   - FRAGE 1: Agranulozytose und Anaphylaxie (theoretisches Wissen)\n   - FRAGE 2: Anaphylaxie nach Penicillin - Sofortmaßnahmen (Handlungsschema)\n   - FRAGE 3: Anaphylaxie - Notfallset und Pathomechanismus (theoretisches Wissen)\n   - FRAGE 4: Lungenödem-Therapie mit Dosierung (therapeutisches Schema)\n   - FRAGE 5: Die 4 Säulen der Herzinsuffizienz-Therapie (therapeutisches Schema, unvollständig am Ende abgeschnitten)\n\n**Keine dieser Fragen präsentiert einen konkreten Patientenfall** mit individuellen Charakteristika wie Alter, Geschlecht, spezifischer Anamnese, Befunden oder Fallgeschichte. Es handelt sich ausschließlich um allgemeine theoretische Wissensfragen und Behandlungsschemata."
+  }
+]

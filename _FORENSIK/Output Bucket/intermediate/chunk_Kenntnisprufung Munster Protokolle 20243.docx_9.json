@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Polytrauma nach Fahrradunfall mit Autokollision",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Dyspnoe",
+      "Thoraxschmerzen",
+      "Handgelenkschmerzen"
+    ],
+    "accident_mechanism": "Mit dem Fahrrad gefahren, Auto ist gegen sie gefahren, Sturz auf rechte Hand und Kopf",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Polytrauma"
+    ],
+    "diagnostic_approach": [
+      "Vitalparameter",
+      "SAMPLE",
+      "allgemeine körperliche Untersuchung",
+      "vollständige Anamnese"
+    ]
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "title": "Infektiöse Mononukleose bei jungem Mann",
+    "patient_age": "junger Mann",
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Fieber seit ein paar Tagen",
+      "Allgemeinzustandsverschlechterung",
+      "Halsschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "weißer Belag an den Tonsillen",
+      "Lymphknotenvergrößerung überall"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Mononukleose"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "kein Antibiotikum",
+      "Amoxicillin kann zu einem Arzneimittelexanthem führen"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Spannungspneumothorax mit Rippenfraktur und Hautemphysem",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax: Spannungspneumothorax",
+      "Rippe 2 Fraktur",
+      "Hautemphysem"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Spannungspneumothorax"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax"
+    ],
+    "treatment_response": [
+      "Sofort punktieren",
+      "Saugdrainage nach Bülau"
+    ],
+    "complications": [
+      "lebensbedrohlich"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Riesenzellarteriitis (Temporalarteriitis) bei Frau Schneider",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Kopfschmerzen seit 2 Wochen",
+      "Kieferschmerzen beim Essen",
+      "Fieber fraglich",
+      "Sehstörung seit heute Morgen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "bekannte Hypertonie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "RR beidseitig messen"
+    ],
+    "imaging_findings": [
+      "CT Bild mit Arteritis"
+    ],
+    "laboratory_findings": [
+      "Meningitis negativ"
+    ],
+    "suspected_diagnosis": [
+      "Temporal arteritis",
+      "Migräne (falsch)",
+      "Meningitis (DD)"
+    ],
+    "diagnostic_approach": [
+      "Labor",
+      "Lumbalpunktion bei Meningitis",
+      "CT"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Dislozierte subkapitale Humerusfraktur bei junger Patientin",
+    "patient_age": "junge Patientin",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schulterbeschwerden"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "RR geprüft",
+      "HF geprüft"
+    ],
+    "physical_examination": [
+      "Pflaster auf der Schulter",
+      "Verband am Handgelenk wegen Schwellung nach Antibiotikagabe im RTW",
+      "keine Schwellung",
+      "keine Entzündungszeichen",
+      "keine Wunde",
+      "pDMS durchgeführt",
+      "Untersuchung der Extremitäten",
+      "neurologische Untersuchung"
+    ],
+    "imaging_findings": [
+      "2 Röntgenbilder der Schulter: dislozierte subkapitale Humerusfraktur",
+      "a.p. Aufnahme",
+      "spezielle Aufnahme (nicht axiale, nicht lateral, nicht Y-Aufnahme)",
+      "zweite Aufnahme uneindeutig"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "dislozierte subkapitale Humerusfraktur"
+    ],
+    "diagnostic_approach": [
+      "Schwangerschaft vor dem Röntgen ausschließen",
+      "CT anordnen wegen uneindeutiger zweiter Aufnahme und OP-Planung"
+    ],
+    "treatment_response": [
+      "OP bei jungem Patienten",
+      "bei 80-jährigem Patient: konservativ mit geschlossener Reposition und Ruhigstellung",
+      "Ruhigstellung nicht mehr als 1 Woche um Versteifung zu vermeiden",
+      "Reposition durch Befestigung bestimmten Gewichts für einige Zeit"
+    ],
+    "complications": [
+      "mögliche Nerven- und Gefäßverletzungen"
+    ],
+    "follow_up": []
+  }
+]

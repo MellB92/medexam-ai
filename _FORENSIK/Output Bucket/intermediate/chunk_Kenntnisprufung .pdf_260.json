@@ -1,0 +1,142 @@
+[
+  {
+    "title": "AION (Akute ischämische Optikusneuropathie) mit verschwommenem Sehen rechts",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "verschwommenes Sehen auf dem rechten Auge seit heute Morgen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Schwester mit Lungenarterienembolie (LAE)"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "AION - Akute ischämische Optikusneuropathie"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Behandlung mit hochdosierten Kortikosteroiden (Prednisolon 15 mg/kg KG i.v., ca. 1000 mg)",
+      "dann niedrige Dosierung 5 mg/kg KG für 18-24 Monate",
+      "anschließend MTX 7,5 mg 1x/Woche",
+      "Folinsäure-Substitution wegen MTX"
+    ],
+    "complications": [
+      "Risiko der Blindheit"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Lungenarterienembolie (LAE) bei Schwester der Patientin",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "Dyspnoe",
+      "Tachypnoe",
+      "Husten mit Blut",
+      "Tachykardie",
+      "Blutdruckabfall",
+      "Vertigo",
+      "Synkope"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Tachykardie",
+      "Blutdruckabfall",
+      "Tachypnoe"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT-Angiographie indiziert"
+    ],
+    "laboratory_findings": [
+      "D-Dimere (hoch sensitiv, wenig spezifisch)",
+      "hohe D-Dimere bei LTE, niedrige schließen LTE aus"
+    ],
+    "suspected_diagnosis": [
+      "Lungenarterienembolie (LAE/LTE)",
+      "massive LTE"
+    ],
+    "diagnostic_approach": [
+      "D-Dimere",
+      "sPESI Score (Pulmonary Embolism Severity Index)",
+      "PERC-Score",
+      "Wells-Score",
+      "PESI",
+      "Grosser-Score",
+      "CT-Angiographie"
+    ],
+    "treatment_response": [
+      "schnelle Antikoagulation bei massiver LTE",
+      "UFH 5000-10000 IE, dann Perfusor 1000 IE/Stunde (ca. 24000 IE)",
+      "NMH: Enoxaparin 1 mg/kg",
+      "DOAKs: Apixaban 2x5 mg",
+      "nicht Rivaroxaban in dieser Situation"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Trimalleoläre Sprunggelenksfraktur nach Motorradunfall",
+    "patient_age": "junger Mann",
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "heftige Schmerzen im Sprunggelenk rechts"
+    ],
+    "accident_mechanism": "Motorradunfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitalparameter gemessen"
+    ],
+    "physical_examination": [
+      "pDMS-Untersuchung durchgeführt",
+      "Puls über A. dorsalis pedis und A. tibialis posterior getastet",
+      "Sensibilität im Seitenvergleich geprüft"
+    ],
+    "imaging_findings": [
+      "RTG rechtes Sprunggelenk (AP und seitlich)",
+      "Frakturlinie der distalen Fibula oberhalb der Syndesmose",
+      "Fraktur im Innenknöchelbereich",
+      "Frakturlinie an der hinteren Kante der Tibia (Volkmann-Dreieck)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "trimalleoläre Fraktur des rechten Sprunggelenks",
+      "bimalleoläre Fraktur initial gesehen, dann trimalleoläre Fraktur diagnostiziert"
+    ],
+    "diagnostic_approach": [
+      "Notfallanamnese",
+      "Vitalparameter",
+      "körperliche Untersuchung mit pDMS",
+      "Röntgen AP und seitlich"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

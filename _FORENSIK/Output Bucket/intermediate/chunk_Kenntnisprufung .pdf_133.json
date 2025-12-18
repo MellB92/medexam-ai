@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Verdacht auf Hyperthyreose mit Vorhofflimmern",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "charakteristische Symptome einer Hyperthyreose"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Gastritis vor 10 Jahren"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Bruder mit Dysphagie",
+      "Mutter verstorben an Sepsis",
+      "Vater mit Z.n. SHF"
+    ],
+    "social_history": [],
+    "medications": [
+      "Cetirizin bei Bedarf"
+    ],
+    "allergies": [
+      "Heuschnupfen"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "komplette körperliche Untersuchung von Kopf bis Fuß durchgeführt",
+      "gesamte KU unauffällig",
+      "Herzauskultation",
+      "Pulskontrolle",
+      "Reflexprüfung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hyperthyreose",
+      "M. Basedow",
+      "autonomes Adenom"
+    ],
+    "diagnostic_approach": [
+      "EKG"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Vorhofflimmern"
+    ],
+    "follow_up": []
+  }
+]

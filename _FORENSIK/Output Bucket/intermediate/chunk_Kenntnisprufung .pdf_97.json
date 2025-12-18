@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Rheumatoide Arthritis mit NSAR-induzierter Gastropathie",
+    "patient_age": "ca. 30-35 Jahre (geboren 1987)",
+    "patient_gender": "weiblich",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Gelenkschmerzen in Fingern und Zehen seit 3-4 Monaten",
+      "Morgensteifigkeit bis 30 Minuten",
+      "Abgeschlagenheit",
+      "Fieber bis 38°C",
+      "Gewichtsabnahme 4 kg in 5 Monaten",
+      "Oberbauchschmerzen",
+      "Schwarzer Stuhl",
+      "Nachtschweiß",
+      "Einschränkung der Wirbelsäulenbewegungen",
+      "Kribbelgefühl an linker Hand"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypothyreose",
+      "Herzstolpern (vor 2 Jahren durch Katheteruntersuchung abgeklärt)"
+    ],
+    "comorbidities": [
+      "Magenulzera",
+      "Karpaltunnelsyndrom (vermutet)"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Ibuprofen 600 mg 1-1-1-1",
+      "L-Thyrox 125 µg"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Fieber bis 38°C"
+    ],
+    "physical_examination": [
+      "Handdruck schmerzhaft",
+      "Passive und aktive Finger- und Zehenbewegungen schmerzhaft",
+      "Typische pathologische Veränderungen der Hände bei Rheuma"
+    ],
+    "imaging_findings": [
+      "Hand-Röntgen: Typische pathologische Veränderungen bei Rheuma",
+      "Magenendoskopie: Magenulzera"
+    ],
+    "laboratory_findings": [
+      "Erhöhte CRP und BSG",
+      "Anti-CCP positiv",
+      "ANA"
+    ],
+    "suspected_diagnosis": [
+      "Rheumatoide Arthritis (nach EULAR-Kriterien)",
+      "Karpaltunnelsyndrom",
+      "NSAR-induzierte Gastropathie mit Magenulzera"
+    ],
+    "diagnostic_approach": [
+      "EULAR-Kriterien",
+      "Anti-CCP und ANA Bestimmung",
+      "CRP und BSG",
+      "Bildgebung der Hände",
+      "Magenendoskopie"
+    ],
+    "treatment_response": [
+      "Glukokortikoide unter Magenschutz",
+      "Therapieerfolg-Kontrolle durch CRP und BSG",
+      "DMARDs, Zytostatika, Biologicals",
+      "MTX unter Kontrollen"
+    ],
+    "complications": [
+      "NSAR-induzierte Magenulzera",
+      "Extraartikuläre Manifestationen"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Aortenklappenstenose mit Angina pectoris bei 75-jährigem",
+    "patient_age": "75 Jahre",
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Angina pectoris (pektanginös)"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Herzgeräusch: spindelförmiges Holosystolikum"
+    ],
+    "imaging_findings": [
+      "EKG: Sinusrhythmus, Linkstyp, ST-Senkung und T-Negativierung in V3-V6, I, AVL"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Aortenklappenstenose",
+      "Koronare Herzkrankheit"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Herzauskultation"
+    ],
+    "treatment_response": [
+      "Nitrate kontraindiziert bei Aortenklappenstenose",
+      "Therapieoptionen für Aortenklappenstenose diskutiert"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

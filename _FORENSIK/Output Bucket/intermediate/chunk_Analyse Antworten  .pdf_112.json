@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 113/254) enthält **keine vollständigen klinischen Patientenfälle**. \n\nEs handelt sich ausschließlich um:\n\n1. **Prüfungsfragen und -antworten** zu theoretischem medizinischem Wissen:\n   - Bilirubinbestimmung\n   - Urinuntersuchungen\n   - Niereninsuffizienz\n   - Therapierefraktäre Hypertonie\n   - Cushing-Syndrom\n   - Leberuntersuchung\n   - EKG-Interpretation\n   - Röntgenbildentstehung\n   - Computertomographie\n\n2. **Musterlösungen und Feedback** zu den Antworten eines Prüfungskandidaten\n\n3. **Didaktische Tipps** zur Verbesserung der Prüfungsleistung\n\nEs werden zwar einzelne medizinische Konzepte und diagnostische Verfahren besprochen (z.B. \"Der Patient\" im Kontext der CT-Beschreibung, \"Patientin\" bei Bilirubinbestimmung), aber es handelt sich dabei **nicht um konkrete, vollständige Fallpräsentationen** mit Anamnese, Symptomatik, Untersuchungsbefunden und diagnostischem Vorgehen."
+  }
+]

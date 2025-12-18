@@ -1,0 +1,133 @@
+[
+  {
+    "title": "C2-Fraktur der Halswirbelsäule (instabil)",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT-Bild zeigt C2-Fraktur",
+      "Instabile Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "C2-Fraktur (Axis-Fraktur)",
+      "Gefahr eines Querschnitt-Syndroms bei Instabilität"
+    ],
+    "diagnostic_approach": [
+      "CT"
+    ]
+  },
+  {
+    "title": "C6-Fraktur der Halswirbelsäule (stabil)",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT-Bild zeigt C6-Fraktur",
+      "Stabile Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "C6-Fraktur"
+    ],
+    "diagnostic_approach": [
+      "CT"
+    ]
+  },
+  {
+    "title": "HWS-Atlasfraktur (Hangman-Fraktur)",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": "Schleudertrauma",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Bild einer HWS-Atlasfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hangman-Fraktur",
+      "Atlasfraktur"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "T12 Kompressionsfraktur der Wirbelsäule",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild zeigt T12 Kompressionsfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "T12 Kompressionsfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen"
+    ]
+  },
+  {
+    "title": "HWS 6 Fraktur mit großer Dislokation",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "MRT zeigt HWS 6 Fraktur",
+      "Raum zwischen 5. und 6. HWS zu groß",
+      "Große Dislokation"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "HWS 6 Fraktur mit großer Dislokation",
+      "Wahrscheinlich letale Verletzung (Patient lebt wahrscheinlich nicht mehr)"
+    ],
+    "diagnostic_approach": [
+      "MRT"
+    ]
+  },
+  {
+    "title": "Densfraktur Typ III",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT-HWS zeigt Densfraktur Typ III"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Densfraktur Typ III"
+    ],
+    "diagnostic_approach": [
+      "CT-HWS"
+    ]
+  }
+]

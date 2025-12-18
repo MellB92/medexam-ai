@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. Der Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen mit Antworten** (z.B. FRAGE 753 zum CHA2DS2-VASc-Score, FRAGE 754 zu Keim-Ausbreitungswegen, FRAGE 755 zur TNM-Klassifikation, FRAGE 756 zur Histologie des Analkanals, FRAGE 757 zu NOAKs)\n\n2. **Differenzialdiagnostischen Listen** (z.B. Ursachen für roten Urin ohne Erythrozyten)\n\n3. **Klassifikationssystemen und Scores** (CHA2DS2-VASc-Score, TNM-Klassifikation)\n\n4. **Allgemeinem medizinischem Wissen** (Anatomie, Pathophysiologie, Therapieempfehlungen)\n\nEs gibt **keine Patientenpräsentationen** mit konkreten Patienten, die mit Symptomen vorgestellt werden. Alle Inhalte sind rein theoretischer Natur zur Prüfungsvorbereitung."
+  }
+]

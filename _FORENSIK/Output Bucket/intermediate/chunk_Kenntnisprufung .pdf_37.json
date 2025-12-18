@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Polytrauma nach Sturz aus 4m Höhe mit präsynkopaler Synkope",
+    "patient_age": "85",
+    "patient_gender": "m",
+    "severity": "critical",
+    "chief_complaints": [
+      "Sturz aus 4 Meter Höhe",
+      "Schwindel kurz vor Sturz",
+      "Kurzzeitige Synkope"
+    ],
+    "accident_mechanism": "Sturz aus 4 Meter Höhe nach Schwindel und kurzzeitiger Synkope",
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "Hyperlipidämie",
+      "Z.n. Appendektomie"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Mutter: Diabetes mellitus Typ II",
+      "Schwester: Schilddrüsenerkrankung",
+      "Bruder: Leberzirrhose"
+    ],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Multiple Frakturen",
+      "Beckeninstabilität",
+      "A. femoralis auskultiert"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Multiple Frakturen",
+      "Beckeninstabilität",
+      "Synkope unklarer Genese"
+    ],
+    "diagnostic_approach": [
+      "Notfallanamnese nach SAMPLE Schema",
+      "Sonographie",
+      "CT",
+      "Händedesinfektion",
+      "Körperliche Untersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Allergisches Asthma bronchiale bei Bäckerei-Mitarbeiterin",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Allergisches Asthma bronchiale"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Schulterluxation vor wenigen Wochen, manuell reponiert"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Berufliche Mehlstaubexposition"
+    ],
+    "family_history": [],
+    "social_history": [
+      "Arbeitet in Bäckerei"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Vitale Parameter geprüft"
+    ],
+    "physical_examination": [
+      "Lunge untersucht",
+      "Herz untersucht",
+      "Abdomen untersucht",
+      "Extremitäten untersucht",
+      "Schulter untersucht",
+      "Kniereflexe geprüft"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Allergisches Asthma bronchiale",
+      "Berufsasthma (Bäckerasthma)"
+    ],
+    "diagnostic_approach": [
+      "Vitale Parameter",
+      "Körperliche Untersuchung"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

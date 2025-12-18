@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 15/111) enthält **keine klinischen Patientenfälle**. \n\nDer Text stammt aus einem EKG-Lehrbuch (\"EKG-Kurs für Isabel\") und behandelt die **theoretische Lehre zur Bestimmung des Lagetyps** im EKG. \n\nInhalt:\n- Erklärung der verschiedenen Lagetypen (Rechtstyp, Linkstyp, Steiltyp, Indifferenztyp, etc.)\n- Systematische Anleitung zur Lagetypbestimmung\n- Beschreibung von Sonderformen (S₁S₂S₃-Typ, Sagittaltyp)\n- Diagramme und Abbildungen zur Veranschaulichung\n- Allgemeine Regeln ohne konkrete Patientenbeispiele\n\nEs handelt sich um **didaktisches Material** ohne spezifische Patientenpräsentationen mit Anamnese, Untersuchungsbefunden oder diagnostischen Überlegungen zu individuellen Fällen."
+  }
+]

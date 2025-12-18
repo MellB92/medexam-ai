@@ -1,0 +1,299 @@
+[
+  {
+    "title": "Subkapitale Humerusfraktur nach Sturz aus 2-3m Höhe",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Sturz zu Hause"
+    ],
+    "accident_mechanism": "Sturz zu Hause aus 2-3 Meter Höhe",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Polytrauma-CT",
+      "Röntgenaufnahme mit subkapitaler Humerusfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Subkapitale Humerusfraktur"
+    ],
+    "diagnostic_approach": [
+      "Polytrauma-CT",
+      "Röntgenaufnahme"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Sick-Sinus-Syndrom mit Bradykardie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "Erdmüdigkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Bradykardie mit 44 bpm"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit horizontaler ST-Hebung",
+      "Bradykardieformen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sick-Sinus-Syndrom mit Bradykardie"
+    ],
+    "diagnostic_approach": [
+      "EKG"
+    ],
+    "treatment_response": [
+      "Atropin",
+      "Schrittmacher-Implantation über Vena subclavia"
+    ],
+    "complications": [
+      "Synkope bei Pausen über 3 Sekunden"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Inferiorer Myokardinfarkt mit AV-Block Grad III",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG mit ausgeprägtem inferioren Myokardinfarkt",
+      "ST-Hebung sehr hoch",
+      "AV-Block Grad III",
+      "P-Wellen versteckt in ST-Strecke"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Inferiorer Myokardinfarkt",
+      "AV-Block Grad III"
+    ],
+    "diagnostic_approach": [
+      "EKG"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "AV-Block Grad III"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Lobärpneumonie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild mit Lobärpneumonie"
+    ],
+    "laboratory_findings": [
+      "CRP 56"
+    ],
+    "suspected_diagnosis": [
+      "Lobärpneumonie"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax",
+      "CRP"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Lebermetastasen mit Aszites",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sonografie: Leber mit Aszites",
+      "Vollknotig",
+      "Nur kleiner Kanal sichtbar"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lebermetastasen mit Aszites"
+    ],
+    "diagnostic_approach": [
+      "Abdomensonografie"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Aszites"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Zentrales Lungenkarzinom mit Hämoptysen",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "severe",
+    "chief_complaints": [
+      "Hämoptysen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgen-Thorax p.a. und seitlich: zentrales Lungenkarzinom",
+      "Verschattung im Bereich Aortenbogen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Zentrales Lungenkarzinom",
+      "SCLC vs NSCLC"
+    ],
+    "diagnostic_approach": [
+      "Röntgen-Thorax",
+      "CT mit Kontrastmittel zur Diagnosestellung"
+    ],
+    "treatment_response": [],
+    "complications": [
+      "Hämoptysen durch Gefäßarrosion"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Perikarditis/Perimyokarditis",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Schmerzen",
+      "Reibungsgeräusch"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Reibungsgeräusch"
+    ],
+    "imaging_findings": [
+      "EKG mit nicht-ischämischer ST-Hebung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Perikarditis",
+      "Perimyokarditis viral",
+      "urämische Perikarditis",
+      "tumorbedingte Perikarditis"
+    ],
+    "diagnostic_approach": [
+      "EKG"
+    ],
+    "treatment_response": [
+      "NSAR",
+      "Glukokortikoide",
+      "Colchizin zur Prophylaxe"
+    ],
+    "complications": [
+      "Perikarderguss",
+      "Rezidiv-Perikarditis in 30%",
+      "Verwachsungen/Schwiele"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Akuter Gichtanfall (Arthritis urica)",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [
+      "Purinreiche Ernährung (Fleisch, Würste, Bier)"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Bild von Gichtanfall"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Arthritis urica",
+      "Gichtanfall",
+      "Primäre Hyperurikämie"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Akuttherapie: NSAR",
+      "Glukokortikoide",
+      "Colchizin",
+      "Purinarme Diät"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

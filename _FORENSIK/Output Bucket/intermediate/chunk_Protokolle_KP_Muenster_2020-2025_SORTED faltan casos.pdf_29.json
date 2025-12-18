@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Hypothyreose mit Müdigkeit und Obstipation",
+    "patient_age": "77-jährige",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Müdigkeit",
+      "Obstipation",
+      "Kältegefühl",
+      "vermehrter Schlaf"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Eierstockzyste",
+      "Blasenmole (operiert)"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Sonographie",
+      "Szintigraphie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hypothyreose",
+      "Anämie (DD)"
+    ],
+    "diagnostic_approach": [
+      "Sonographie",
+      "Szintigraphie",
+      "Blutbild zur Anämie-Differenzierung"
+    ]
+  },
+  {
+    "title": "Vorhofflimmern mit RSB",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: Vorhofflimmern mit Rechtsschenkelblock"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vorhofflimmern",
+      "Rechtsschenkelblock"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Thromboseprophylaxe-Indikation prüfen",
+      "Antiarrhythmische Medikation erwägen"
+    ]
+  },
+  {
+    "title": "Coxarthrose bei Z.n. kindlicher Hüftdysplasie",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Kindliche Hüftdysplasie (operiert)"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild: Coxarthrose"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Coxarthrose",
+      "Z.n. kindlicher Hüftdysplasie"
+    ],
+    "diagnostic_approach": [
+      "Röntgen",
+      "Sono-Kontrolle",
+      "Hüft-TEP erwägen"
+    ]
+  },
+  {
+    "title": "Patient mit Sepsis",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Blutkultur (aerob/anaerob)"
+    ],
+    "suspected_diagnosis": [
+      "Sepsis"
+    ],
+    "diagnostic_approach": [
+      "Blutkultur",
+      "Antibiogramm",
+      "Röntgen",
+      "Urinstatus"
+    ]
+  },
+  {
+    "title": "Akuter Thoraxschmerz",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Akute Thoraxschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG",
+      "CT-Angio bei V.a. Schlaganfall"
+    ],
+    "laboratory_findings": [
+      "Troponin (negativ)"
+    ],
+    "suspected_diagnosis": [
+      "GERD",
+      "Myokardinfarkt (DD)",
+      "Lungenarterienembolie (DD)",
+      "Ösophagusruptur (DD)"
+    ],
+    "diagnostic_approach": [
+      "Anamnese mit Risikofaktoren",
+      "EKG",
+      "Troponin",
+      "EKG und Troponin-Wiederholung nach 3 Stunden",
+      "Scoring"
+    ]
+  },
+  {
+    "title": "Akute einseitige Lähmung",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Akute einseitige Lähmung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "CT zum intrakraniellen Blutungsausschluss",
+      "CT-Angio",
+      "Dense Media Sign",
+      "Demarkation"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schlaganfall"
+    ],
+    "diagnostic_approach": [
+      "CT intrakranielle Blutung ausschließen",
+      "CT-Angio",
+      "Emboliequellen suchen (VHF, Aneurysma, Aortendissektion)",
+      "Rechtfertigende Indikation"
+    ]
+  },
+  {
+    "title": "Hypothyreose mit Stimmveränderung und Abgeschlagenheit (Herr Paul Wagner)",
+    "patient_age": "58-jähriger",
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Stimmveränderung",
+      "Abgeschlagenheit",
+      "Gewichtszunahme trotz Appetitverlust",
+      "Kopfschmerzen",
+      "Verstopfung",
+      "Verlangsamung",
+      "Leistungsminderung bei der Arbeit",
+      "Antriebslosigkeit"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Keine bekannten Vorerkrankungen"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hypothyreose"
+    ],
+    "diagnostic_approach": [
+      "Vegetative Anamnese",
+      "Gezielte Anamnese zu Leistungsfähigkeit"
+    ]
+  }
+]

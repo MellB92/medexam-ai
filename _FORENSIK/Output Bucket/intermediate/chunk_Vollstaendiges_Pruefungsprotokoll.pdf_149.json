@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"LKW-Fahrer mit Bauchtrauma nach Unfall\",\n    \"patient_age\": \"62-jähriger\",\n    \"patient_gender\": \"Mann\",\n    \"chief_complaints\": [\"diffuse Bauchschmerzen\", \"Müdigkeit\"],\n    \"accident_mechanism\": \"Unfall - auf das Lenkrad geprallt\",\n    \"pre_existing_conditions\": [\"Schnarchen\", \"nächtliche Atempausen\", \"Gewichtszunahme 10 kg in einem Jahr\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Milzruptur\", \"Obstruktives Schlafapnoe-Syndrom\", \"Stumpfes Bauchtrauma mit Verdacht auf innere Verletzungen (Milzruptur, Leberruptur, Darmperforation)\"],\n    \"diagnostic_approach\": [\"Labor: Blutbild, Gerinnungsparameter, Leber- und Nierenwerte, Amylase/Lipase, Urinstatus\", \"Sonographie des Abdomens (FAST-Ultraschall)\", \"CT-Abdomen mit Kontrastmittel\", \"Röntgen-Thorax/Abdomen im Stehen\", \"EKG\", \"Blutgasanalyse\", \"ggf. diagnostische Laparoskopie/Laparotomie\"]\n  }\n]\n```"
+  }
+]

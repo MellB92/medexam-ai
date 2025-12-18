@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Rheumatoide Arthritis mit NSAR-induzierter Magen-Darm-Blutung",
+    "patient_age": "40 Jahre",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Müdigkeit seit 3-4 Monaten",
+      "Gelenkschmerzen in Knien, Ellenbogen und Fingern beidseitig",
+      "Fieber (37,4°C)",
+      "Morgendliche Steifigkeit der Finger (60 Minuten)",
+      "Wärmegefühl in den Gelenken",
+      "Oberbauchschmerzen kurz nach dem Essen seit einigen Tagen",
+      "Dunkler Stuhlgang"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypothyreose",
+      "Pilonidalsinus",
+      "Humerusfraktur nach Fahrradsturz (mit Gips behandelt)"
+    ],
+    "medications": [
+      "Ibuprofen",
+      "L-Thyroxin"
+    ],
+    "allergies": [
+      "Heuschnupfen"
+    ],
+    "physical_examination": [
+      "Schmerzen in PIP-Gelenken",
+      "Schmerzen in MIP-Gelenken",
+      "Schmerzen in Kniegelenken",
+      "Schmerzen in Ellenbogengelenken",
+      "Körperliche Untersuchung ansonsten unauffällig",
+      "Vitalparameter nicht gemessen (vergessen)"
+    ],
+    "imaging_findings": [
+      "EKG mit Kammerhypertrophie",
+      "Endoskopie mit Hämatinzeichen"
+    ],
+    "laboratory_findings": [
+      "COVID-19-Test negativ",
+      "Spezifische Blutmarker für rheumatoide Arthritis (nicht näher spezifiziert)"
+    ],
+    "suspected_diagnosis": [
+      "Rheumatoide Arthritis",
+      "Gastrointestinale Blutung (GIB) NSAR-induziert",
+      "H. pylori-assoziierte Gastritis/Ulkus (DD)"
+    ],
+    "diagnostic_approach": [
+      "Anamnese und körperliche Untersuchung",
+      "Digitale rektale Untersuchung (erwähnt, nicht durchgeführt)",
+      "Venöser Zugang",
+      "EKG",
+      "Endoskopie mit Forrest-Klassifikation",
+      "H. pylori-Diagnostik",
+      "Spezifische Blutmarker für rheumatoide Arthritis"
+    ]
+  }
+]

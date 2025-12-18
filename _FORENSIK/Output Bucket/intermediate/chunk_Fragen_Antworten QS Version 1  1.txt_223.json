@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 224/284) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text behandelt ausschließlich:\n\n1. **Theoretisches Wissen zur Osteoporose:**\n   - Definition und Folgen (erhöhte Knochenbrüchigkeit, Frakturrisiko)\n   - T-Score Definition und WHO-Klassifikation\n   - Diagnostische Verfahren (DXA-Messung)\n   - Therapeutische Richtlinien (Basistherapie, spezifische Therapie)\n\n2. **Prüfungsrelevante Informationen:**\n   - DVO-Leitlinie 2023\n   - Kostenübernahme-Kriterien\n   - Z-Score Erklärung\n   - Differentialdiagnosen\n\n3. **Eine fragmentierte Liste von Fragennummern:**\n   - Frage 501-506 (unvollständige Auflistung am Ende)\n   - Diese sind abgeschnitten und enthalten keine vollständigen Fallinformationen\n\nEs gibt **keine Patientenpräsentation** mit Anamnese, Untersuchungsbefunden, oder diagnostischen Erwägungen zu einem konkreten Fall. Der Abschnitt ist rein didaktisch/theoretisch aufgebaut."
+  }
+]

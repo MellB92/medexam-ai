@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Rheumatoide Arthritis mit Fingergelenksschmerzen und V.a. gastrointestinale Blutung",
+    "patient_age": "38",
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Fingergelenksschmerzen beidseits seit 3-4 Monaten",
+      "Morgensteifigkeit ca. 1 Stunde",
+      "Wechselnde Oligoarthritis der großen Gelenke",
+      "Gewichtsverlust 5 kg",
+      "Magenschmerzen nach dem Essen",
+      "Dunkler Stuhl vor 1 Woche"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypothyreose",
+      "Unklare Herzrhythmusstörungen (nach HKU keine Beschwerden)",
+      "Karpaltunnelsyndrom links (Schmerzen und Parästhesien)"
+    ],
+    "medications": [
+      "L-Thyroxin 125 1-0-0",
+      "Ibuprofen 400 mg 3-4 mal am Tag"
+    ],
+    "allergies": [
+      "Heuschnupfen (Selbstdiagnose)",
+      "Latex (Handschuhe)"
+    ],
+    "physical_examination": [
+      "Goenslen Zeichen positiv",
+      "Keine Deformitäten",
+      "Hirnnerven grob unauffällig",
+      "Pulse palpabel",
+      "Herz und Lunge Auskultation",
+      "Lunge Perkussion",
+      "Abdomen Auskultation und Palpation",
+      "Beinbewegungen in Gelenken grob unauffällig"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rheumatoide Arthritis",
+      "V.a. obere gastrointestinale Blutung bei Ulcus ventriculi",
+      "SLE (als Differentialdiagnose)"
+    ],
+    "diagnostic_approach": [
+      "Röntgen (Zeichen der rheumatoiden Arthritis)",
+      "PPI i.v. dann p.o. bei GI-Blutung",
+      "Sonographie subxyphoidal bei V.a. Pleuraerguss",
+      "EULAR/ACR Klassifikationskriterien"
+    ]
+  },
+  {
+    "title": "Dysphagie seit 6 Monaten - V.a. Ösophaguskarzinom",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Dysphagie seit 6 Monaten",
+      "Dyspepsie",
+      "Insomnia",
+      "B-Symptomatik",
+      "Gewichtsverlust"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Appendektomie",
+      "Z.n. Polypektomie bei ÖGD",
+      "Z.n. Femurfraktur mit Osteosynthese nach Motorradunfall"
+    ],
+    "medications": [],
+    "allergies": [
+      "Penicillin",
+      "Erdnüsse"
+    ],
+    "physical_examination": [
+      "Neurologisch: Hirnnerven untersucht",
+      "Allgemeine körperliche Untersuchung grob durchgeführt"
+    ],
+    "imaging_findings": [
+      "Röntgen Abdomen mit Barium geplant",
+      "CT Staging geplant"
+    ],
+    "laboratory_findings": [
+      "Blutbild geplant",
+      "Tumormarker CEA geplant"
+    ],
+    "suspected_diagnosis": [
+      "V.a. Ösophaguskarzinom",
+      "DD: Hiatushernie",
+      "DD: Sklerodermie",
+      "DD: Sjögren-Syndrom",
+      "DD: Achalasie",
+      "DD: Struma"
+    ],
+    "diagnostic_approach": [
+      "ÖGD (Ösophagogastroduodenoskopie)",
+      "Tumormarker CEA",
+      "Röntgen Abdomen mit Barium",
+      "CT Staging",
+      "Vorstellung bei interdisziplinärer Tumorkonferenz oder Palliativtherapie"
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Patellaluxation nach Sturz beim Spielen",
+    "patient_age": "66 Jahre alt",
+    "patient_gender": "Mann",
+    "chief_complaints": [
+      "Schmerzen im Knie",
+      "Bewegungseinschränkung im Knie"
+    ],
+    "accident_mechanism": "Sturz auf das rechte Knie beim Spielen mit dem Enkel",
+    "pre_existing_conditions": [
+      "Diabetes mellitus",
+      "Hypothyreose",
+      "arterielle Hypertonie"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "kein auffälliger Allgemeinzustand"
+    ],
+    "imaging_findings": [
+      "Röntgen",
+      "CT 3D"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Luxation der Patella"
+    ],
+    "diagnostic_approach": [
+      "Klinische Untersuchung des Knies",
+      "Legen eines Zugangs",
+      "Röntgen",
+      "CT 3D"
+    ]
+  },
+  {
+    "title": "Thoraxschmerz bei Sport - V.a. arrhythmogene rechtsventrikuläre Kardiomyopathie",
+    "patient_age": "17 Jahre alt",
+    "patient_gender": null,
+    "chief_complaints": [
+      "Thoraxschmerz bei Sport"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "arrhythmogene rechtsventrikuläre Kardiomyopathie"
+    ],
+    "diagnostic_approach": [
+      "EKG"
+    ]
+  },
+  {
+    "title": "Hyperthyreose bei junger Frau",
+    "patient_age": "etwa 32 Jahre alt",
+    "patient_gender": "Frau",
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Vitalparameter messen",
+      "Schilddrüsenuntersuchung inklusive Auskultation",
+      "Thoraxuntersuchung (Thoraxexpansion, Stimmfremitus, Perkussion und Auskultation)",
+      "Abdomenuntersuchung",
+      "Arteria dorsalis pedis palpiert",
+      "prätibialen Ödeme gesucht"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hyperthyreose"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung"
+    ]
+  }
+]

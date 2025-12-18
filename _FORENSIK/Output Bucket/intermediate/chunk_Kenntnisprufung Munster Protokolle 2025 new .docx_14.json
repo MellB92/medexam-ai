@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Patient mit Zustand nach Gastrektomie und postoperativen Beschwerden",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Symptome nach Gastrektomie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Zustand nach Gastrektomie"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Dumping-Syndrom",
+      "Komplikation nach Magenresektion",
+      "Gallensäure-Reflux"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Patient mit Bradykardie im EKG",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: Rechtsschenkelblock mit Sinusbradykardie"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rechtsschenkelblock",
+      "Sinusbradykardie"
+    ],
+    "diagnostic_approach": []
+  },
+  {
+    "title": "Patient mit erosiver Gastritis",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Endoskopiebild: Erosive Gastritis"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Erosive Gastritis",
+      "Helicobacter pylori-Infektion"
+    ],
+    "diagnostic_approach": [
+      "Stuhl-Antigen-Test",
+      "Blut-Antikörper-Testung",
+      "Urease-Schnelltest",
+      "C13-Atemtest",
+      "ÖGD mit Biopsie"
+    ]
+  },
+  {
+    "title": "Patient mit Rückenschmerzen und Red Flags",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Rückenschmerzen mit gebückter Haltung"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Red Flags vorhanden",
+      "Blaseninkontinenz",
+      "Stuhlinkontinenz"
+    ],
+    "imaging_findings": [
+      "Röntgenbild: L1-L2-Fraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Wirbelkörperfraktur L1-L2",
+      "Cauda-equina-Syndrom (differentialdiagnostisch)"
+    ],
+    "diagnostic_approach": []
+  }
+]

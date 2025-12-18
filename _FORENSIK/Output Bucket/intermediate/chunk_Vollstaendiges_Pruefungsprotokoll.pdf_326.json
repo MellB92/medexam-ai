@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer gesamte Chunk besteht aus:\n\n1. **Theoretischen Fachfragen und Antworten** aus einer Kenntnissprüfung (z.B. \"Was ist Pyelonephritis?\", \"Was sind die drei Prinzipien des Strahlenschutzgesetzes?\", \"Was ist Sensitivität und Spezifität?\")\n\n2. **Allgemeinen medizinischen Wissensfragen** ohne konkrete Patientenangaben (z.B. zu Aortenstenose, Alkoholentzugssyndrom, Divertikulitis, Schlafapnoe-Syndrom)\n\n3. **Prozeduralen Fragen** (z.B. \"Wie gehen Sie bei einem Patienten mit Kolonkarzinom vor?\", \"Welche Impfungen empfehlen Sie?\")\n\nEs handelt sich ausschließlich um **Prüfungsfragen mit Musterlösungen** aus einem Prüfungsprotokoll, nicht um dokumentierte klinische Fälle mit spezifischen Patientenangaben (Alter, Geschlecht, konkrete Anamnese, etc.)."
+  }
+]

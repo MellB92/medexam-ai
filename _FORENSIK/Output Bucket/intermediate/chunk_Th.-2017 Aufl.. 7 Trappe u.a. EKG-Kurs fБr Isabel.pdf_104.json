@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt stammt aus einem EKG-Kurs und enthält ausschließlich **Übungs-EKG-Befundungen** (Übungs-EKG 5 bis 15). \n\nEs handelt sich hierbei um:\n- Systematische EKG-Interpretationen mit technischen Parametern (Frequenz, Rhythmus, PQ-Zeit, QRS-Breite, etc.)\n- Deutungen von EKG-Befunden (z.B. \"VVI-Schrittmacher\", \"ventrikuläre Tachykardie\", \"Vorhofflimmern\")\n- Didaktische Kommentare zur EKG-Interpretation\n\n**KEINE klinischen Patientenfälle** mit:\n- Patientenangaben (Alter, Geschlecht)\n- Klinischen Beschwerden oder Symptomen\n- Anamnese oder Unfallhergang\n- Körperlicher Untersuchung\n- Diagnostischem oder therapeutischem Vorgehen\n\nDies sind reine **Lehr-EKG-Beispiele** ohne klinischen Kontext oder Patientenpräsentation."
+  }
+]

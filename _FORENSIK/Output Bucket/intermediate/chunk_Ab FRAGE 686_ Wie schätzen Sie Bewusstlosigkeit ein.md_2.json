@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 3/32) enthält **keine vollständigen klinischen Patientenfälle**. \n\nEs handelt sich ausschließlich um:\n\n1. **FRAGE 697**: Theoretische Frage zur Alkoholintoxikation (Definitionen, Grenzwerte, Formeln) - kein Patientenfall\n\n2. **FRAGE 700**: Theoretische Frage zum BLS-Ablauf und Atemwegsmanagement (Algorithmus, Leitlinien) - kein Patientenfall\n\n3. **FRAGE 703**: Theoretische Frage zu Laborbefunden bei interstitieller Nephritis (diagnostische Kriterien) - kein Patientenfall\n\n4. **FRAGE 707**: Theoretische Frage zur Therapie der eitrigen Bursitis (Behandlungsalgorithmus) - kein Patientenfall\n\n5. **FRAGE 713**: Angeschnittene/unvollständige Frage zu Endokarditis-Kriterien am Ende des Chunks - kein vollständiger Fall\n\nAlle Einträge sind **prüfungsrelevante Wissensfragen** ohne konkrete Patientenszenarien (kein Alter, Geschlecht, Anamnese, spezifischer Verlauf)."
+  }
+]

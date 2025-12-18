@@ -1,0 +1,191 @@
+[
+  {
+    "title": "Akute Appendizitis mit Peritonismus",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "starke krampfartige Bauchschmerzen",
+      "Übelkeit und Erbrechen",
+      "Fieber",
+      "diffuse abdominale Schmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Herzklappeninsuffizienz",
+      "Z.n. Tonsillitis",
+      "Z.n. TBVT während der Schwangerschaft"
+    ],
+    "comorbidities": [
+      "Z.n. mehrmalige Ellenbogenschmerzen bei Status nach einmaligem Sturz auf Ellenbogen vor 3 Jahren"
+    ],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Vitamin D (einmal pro Woche)",
+      "Buscopan",
+      "Ibuprofen"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "positive Abwehrspannung (Peritonismus)",
+      "alle Appendizitis-Zeichen positiv",
+      "Bronchophonie durchgeführt",
+      "Atemverschieblichkeit getestet",
+      "Herzklappen-Auskultation",
+      "Blutdruckmessung"
+    ],
+    "imaging_findings": [
+      "Abdomen-Sonographie: Kokarden-Phänomen",
+      "ringförmige echoreiche und echoarme Strukturen (Ödem und Wandverdickung)"
+    ],
+    "laboratory_findings": [
+      "Leukozytose",
+      "erhöhtes CRP"
+    ],
+    "suspected_diagnosis": [
+      "Akutes Abdomen",
+      "gedeckte perforierte Appendizitis"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung",
+      "Labor",
+      "Abdomen-Sonographie"
+    ],
+    "treatment_response": [
+      "nach Einnahme von Buscopan und Ibuprofen zunächst Besserung",
+      "seit heute Morgen wieder zunehmende Beschwerden"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Inferior-Hinterwand-Myokardinfarkt bei KHK",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "severe",
+    "chief_complaints": [
+      "retrosternale Schmerzen seit Morgen",
+      "Ausstrahlung in den linken Arm"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypothyreose",
+      "arterielle Hypertonie",
+      "Diabetes mellitus Typ 2",
+      "chronische Obstipation"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Diabetes mellitus Typ 2",
+      "arterielle Hypertonie"
+    ],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "L-Thyrox 125",
+      "Lisinopril 10mg",
+      "Metformin 1000mg",
+      "Simeticon"
+    ],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Bronchophonie untersucht",
+      "Herzklappen in verschiedenen ICR auskultiert",
+      "Beinödeme untersucht"
+    ],
+    "imaging_findings": [
+      "EKG: Inferior-Hinterwand-Myokardinfarkt",
+      "Röntgen Thorax: lobäre Pneumonie"
+    ],
+    "laboratory_findings": [
+      "Herzbiomarker positiv",
+      "Troponin mehrfach kontrolliert"
+    ],
+    "suspected_diagnosis": [
+      "KHK (Koronare Herzkrankheit)",
+      "Inferior-Hinterwand-Myokardinfarkt"
+    ],
+    "diagnostic_approach": [
+      "Anamnese",
+      "körperliche Untersuchung",
+      "EKG",
+      "Herzbiomarker",
+      "Troponin-Kontrollen"
+    ],
+    "treatment_response": [
+      "Schmerzen nach 2-3 Minuten in Ruhe verschwunden"
+    ],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Schenkelhalsfraktur nach Sturz auf Hüfte",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "inguinale Schmerzen nach Sturz auf rechte Hüfte"
+    ],
+    "accident_mechanism": "Sturz auf die rechte Hüfte",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Schenkelhalsfraktur",
+      "Beckenfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen",
+      "OP-Möglichkeiten: DHS oder TEP"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Akuter Hörsturz mit Schwindel",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "moderate",
+    "chief_complaints": [
+      "plötzlicher Hörverlust",
+      "Schwindel",
+      "Emesis"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Nervus vestibulocochlearis Läsion",
+      "Hörsturz"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Betahistin für Schwindel könnte hilfreich sein"
+    ],
+    "complications": [],
+    "follow_up": []
+  }
+]

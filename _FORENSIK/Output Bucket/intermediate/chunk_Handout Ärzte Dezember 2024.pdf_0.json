@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 1/9) enthält **keine klinischen Patientenfälle**. \n\nEs handelt sich um ein **Lehrmaterial/Handout** zum Thema \"Grundlagen des Strahlenschutzes\" vom mibeg-Institut Medizin, das folgende theoretische Inhalte behandelt:\n\n- Grundlagen ionisierender Strahlung (Alpha-, Beta-, Gamma-, Neutronenstrahlung)\n- Radioaktivität und Radionuklide\n- Wasserstoffisotope\n- Wechselwirkung von Strahlung auf Materie\n- Dosimetrie-Grundbegriffe\n- Strahlenschutzgesetz und -verordnung\n- Eigenschaften von Röntgenstrahlen\n- Technische Parameter (\"harte\" vs. \"weiche\" Strahlung)\n- Absorption und Streuung\n- Biologische Wirkung von Strahlung\n- Zeitliche Phasen der Strahlenwirkung\n\nEs werden **keine individuellen Patienten** mit spezifischen Beschwerden, Anamnesen, Befunden oder Diagnosen vorgestellt. Dies ist rein didaktisches Material zur Ausbildung im Strahlenschutz."
+  }
+]

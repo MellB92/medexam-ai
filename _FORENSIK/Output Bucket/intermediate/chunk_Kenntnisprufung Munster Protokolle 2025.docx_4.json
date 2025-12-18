@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Humerusfraktur nach Sturz von Leiter",
+    "patient_age": null,
+    "patient_gender": "männlich",
+    "chief_complaints": [
+      "Schulterschmerzen links",
+      "Sturz aus 2,5 m Höhe"
+    ],
+    "accident_mechanism": "Sturz von 2,5 m Leiter auf die linke Schulter, Gleichgewichtsverlust, direkter Sturz auf linke Schulter",
+    "pre_existing_conditions": [
+      "Z.n. Cholezystektomie vor 10 Jahren"
+    ],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Linke Schulter mit Verband versorgt",
+      "Keine Atemnot",
+      "Keine Bewusstseinsverlust",
+      "Keine Schwarzwerden vor Augen oder Schwindel",
+      "Kein Erbrechen oder Übelkeit",
+      "Keine Kopfschmerzen",
+      "Keine Nackenschmerzen bei Bewegung",
+      "Lunge auskultiert",
+      "Kein Hinweis auf externe Blutung (Kopf bis Fuß)",
+      "Keine Blutung aus Ohren, Nase, Mund, kein Liquor",
+      "BD rechter Arm 130/85 mmHg",
+      "HF 80/min",
+      "AF 18/min",
+      "Pulse tastbar",
+      "Neurologische Untersuchung: distale und proximale aktive Bewegung in allen 4 Extremitäten überprüft",
+      "Alle 6 Pulse vorhanden",
+      "Sensibilität intakt",
+      "Lichtreaktion der Augen normal",
+      "GCS bewertet (unauffällig)",
+      "Nacken aktiv beweglich",
+      "Wirbelsäule: Palpation und Klopfung unauffällig",
+      "Abdomen untersucht, insbesondere Milz und Leber",
+      "BSR, TSR, Knie-Reflex und ASR geprüft",
+      "Keine größere Dislokation",
+      "Keine neurologische oder Durchblutungsstörung"
+    ],
+    "imaging_findings": [
+      "Röntgen Schultergelenk inklusive Humerus durchgeführt",
+      "Humerusfraktur bestätigt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Humerusfraktur links",
+      "Polytrauma (initial vermutet, dann ausgeschlossen)"
+    ],
+    "diagnostic_approach": [
+      "cABCDE-Schema bei Polytrauma-Verdacht",
+      "Körperliche Untersuchung von Kopf bis Fuß",
+      "E-FAST Sonographie",
+      "Basis-Monitoring mit EKG, Pulsoximetrie und NIBP",
+      "Anamnese nach SAMPLER-Schema",
+      "Familienanamnese und Sozialanamnese",
+      "Röntgen Schultergelenk inklusive Humerus"
+    ]
+  }
+]

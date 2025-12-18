@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt aus einem Pharmakologie-Lehrbuch enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text behandelt:\n- Pharmakologische Eigenschaften von NSAID (Nichtsteroidale Antiphlogistika)\n- Wirkmechanismen (COX-1/COX-2-Hemmung)\n- Indikationen und Kontraindikationen\n- Pharmakokinetik\n- Unerwünschte Wirkungen\n- Check-up-Fragen zur Wissensüberprüfung\n- Theoretische Ausführungen zum WHO-Stufenplan bei Tumorschmerzen\n\nEs gibt zwar Erwähnungen von klinischen Situationen (z.B. \"Antiphospholipidsyndrom mit rezidivierenden Aborten\"), aber diese werden nur als **theoretische Beispiele** für Indikationen oder Kontraindikationen genannt, nicht als konkrete, vollständige Patientenpräsentationen mit Anamnese, Befunden und diagnostischem Vorgehen."
+  }
+]

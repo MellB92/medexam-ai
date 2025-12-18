@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Pneumothorax links bei jungem Patienten mit thorakalen Schmerzen\",\n    \"patient_age\": \"junger Patient\",\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"thorakale Schmerzen\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [\"Pneumothorax links mit kollabierter Lunge\", \"Teilkollaps der linken Lunge\"],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Pneumothorax links\"],\n    \"diagnostic_approach\": [\"Röntgenbild\"]\n  },\n  {\n    \"title\": \"Polytrauma mit Verdacht auf multiple Verletzungen\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [],\n    \"accident_mechanism\": \"Polytrauma\",\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Schädel-Hirn-Trauma\", \"Milzruptur\", \"Hämatothorax\", \"Rippenfrakturen\", \"Kniefraktur\"],\n    \"diagnostic_approach\": [\"CT Schädel\", \"FAST Sonographie\", \"Röntgen Thorax-Abdomen\", \"Röntgen Knie\"]\n  }\n]\n```"
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "title": "Multiples Myelom mit Lumbalgie und B-Symptomatik",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Lumbalgie",
+      "mehrere Hämatome",
+      "B-Symptomatik"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "klinische Untersuchung ohne besondere Auffälligkeiten"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Blutsenkungsgeschwindigkeit extrem erhöht",
+      "nicht näher spezifizierte Urinveränderungen",
+      "Elektrophorese mit M-Gradienten",
+      "Proteinenurie"
+    ],
+    "suspected_diagnosis": [
+      "Verdacht auf etwas Malignes",
+      "Multiples Myelom"
+    ],
+    "diagnostic_approach": [
+      "Elektrophorese",
+      "ambulante Urinuntersuchung",
+      "SLiM und CRAB Kriterien"
+    ]
+  },
+  {
+    "title": "Hämatothorax mit Pneumothorax nach Rippenfraktur",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild Thorax: Hämatothorax mit Pneumothorax nach Rippenfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Hämatothorax",
+      "Pneumothorax",
+      "Rippenfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Thorax",
+      "Röntgen Kontrolle nach Drainage"
+    ]
+  },
+  {
+    "title": "Schock-Patient mit Lungenembolie und LV-Kompression",
+    "patient_age": null,
+    "patient_gender": null,
+    "chief_complaints": [
+      "Schock"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Patient nicht wach",
+      "braucht Intubation als Notfall"
+    ],
+    "imaging_findings": [
+      "Echo mit Lungenembolie",
+      "Kompression des linken Ventrikels"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Lungenembolie",
+      "Schock"
+    ],
+    "diagnostic_approach": [
+      "xABCD-Schema",
+      "Echokardiographie"
+    ]
+  }
+]

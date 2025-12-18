@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Diabetes mellitus mit multiplen Symptomen und Blut im Stuhl",
+    "patient_age": null,
+    "patient_gender": "m",
+    "chief_complaints": [
+      "Müdigkeit seit 4-5 Monaten",
+      "Schlappheit",
+      "Leistungsknick",
+      "Sehverschlechterung",
+      "ab und zu Schwindel",
+      "Pruritus"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "Puls",
+      "RR",
+      "Herz",
+      "Lunge",
+      "Abdomen",
+      "Lymphknoten",
+      "Schilddrüse"
+    ],
+    "imaging_findings": [
+      "EKG mit Hinterwandinfarkt"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Diabetes Mellitus"
+    ],
+    "diagnostic_approach": [
+      "körperliche Untersuchung",
+      "Laborparameter",
+      "EKG"
+    ]
+  },
+  {
+    "title": "Knietrauma nach Sturz vom Laufrad",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Schmerzen im rechten Knie",
+      "Schmerzen in der rechten Hand"
+    ],
+    "accident_mechanism": "Von einem Kind mit einem kleinen Laufrad angefahren, auf die rechte Hand gestürzt und das rechte Bein verdreht",
+    "pre_existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "physical_examination": [
+      "vordere Schublade Test",
+      "hintere Schublade Test",
+      "tanzende Patella",
+      "pDMS",
+      "Bewegungsprüfung im Knie nach Neutral-0-Methode"
+    ],
+    "imaging_findings": [
+      "Sono: Erguss"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Innenbandriss",
+      "Unhappy Triad",
+      "Außenbandriss",
+      "Meniskusriss"
+    ],
+    "diagnostic_approach": [
+      "körperliche Untersuchung",
+      "Sonographie",
+      "MRT"
+    ]
+  }
+]

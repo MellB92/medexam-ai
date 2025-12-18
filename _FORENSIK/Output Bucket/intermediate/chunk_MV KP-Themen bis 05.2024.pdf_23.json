@@ -1,0 +1,186 @@
+[
+  {
+    "title": "Herzinfarkt mit kardiogenem Schock auf ITS",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "Herzinfarkt",
+      "hämodynamische Instabilität"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Herzinfarkt"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Katecholamine"
+    ],
+    "allergies": [],
+    "vital_signs": [
+      "Hämodynamik nicht stabil"
+    ],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "kardiogener Schock bei Herzinfarkt"
+    ],
+    "diagnostic_approach": [
+      "Koronarangiographie"
+    ],
+    "treatment_response": [
+      "keine Besserung des Kreislaufs trotz Koronarangiographie, Katecholamine und Beatmung"
+    ],
+    "complications": [
+      "persistierende hämodynamische Instabilität trotz maximaler Therapie",
+      "ECMO-Indikation"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Rupturiertes Bauchaortaaneurysma",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "critical",
+    "chief_complaints": [
+      "starke Bauchschmerzen",
+      "starke Rückenschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "RR 80/50 mmHg",
+      "Tachykardie"
+    ],
+    "physical_examination": [
+      "pulsierende Raumforderung im Bauch"
+    ],
+    "imaging_findings": [
+      "CT Angio: Bauchaortaaneurysma rupturiert"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "rupturiertes Bauchaortaaneurysma"
+    ],
+    "diagnostic_approach": [
+      "CT Angiographie"
+    ],
+    "treatment_response": [
+      "permissive Hypotension (kein Anheben des Blutdrucks)",
+      "Vorstellung beim Gefäßchirurg",
+      "Ballon-Embolisation zur Blutstillung"
+    ],
+    "complications": [
+      "hämorrhagischer Schock"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Grünholzfraktur bei Kind",
+    "patient_age": "Kind",
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "Röntgenbild mit Grünholzfraktur"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Grünholzfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "A. Carotis interna-Stenose rechts postoperativ",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": null,
+    "chief_complaints": [
+      "beschwerdefrei"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "a. Carotis interna-Stenose rechts seit 2013 bekannt und kontrolliert"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "progrediente a. Carotis interna-Stenose rechts"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Carotis-Endarteriektomie mit Patch-Angioplastie durchgeführt"
+    ],
+    "complications": [],
+    "follow_up": [
+      "1. postoperativer Tag",
+      "Hausarzt-Einweisung wegen progredienter Stenose"
+    ]
+  },
+  {
+    "title": "N. accessorius-Läsion nach Neck-Dissektion",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": null,
+    "chief_complaints": [
+      "Bewegungseinschränkung am Arm"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Bewegungseinschränkung am Arm",
+      "N. accessorius betroffen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "N. accessorius-Läsion"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [],
+    "complications": [
+      "Nervenverletzung nach Neck-Dissektion"
+    ],
+    "follow_up": []
+  }
+]

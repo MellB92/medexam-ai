@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Akute Pyelonephritis bei Schauspielerin\",\n    \"patient_age\": null,\n    \"patient_gender\": \"w\",\n    \"chief_complaints\": [\"Schmerzen in der linken Flanke\", \"Dysurie\", \"Fieber\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"Belastungsasthma\", \"Diabetes mellitus Typ I\", \"Insulinpumpentherapie seit 6 Monaten\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Akute Pyelonephritis\"],\n    \"diagnostic_approach\": []\n  },\n  {\n    \"title\": \"Akute Pyelonephritis mit Knie-Distorsion\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Schmerzen in der linken Flanke\", \"Dysurie\", \"Fieber\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [\"Asthma bronchiale\", \"Diabetes mellitus Typ I\", \"Unterarmfraktur (konservative Therapie)\", \"Knie Verletzung vor 1 Woche (Verrenkung)\"],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Akute Pyelonephritis\"],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

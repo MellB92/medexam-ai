@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 43/254) enthält **keine vollständigen klinischen Patientenpräsentationsfälle**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Antworten** zu verschiedenen medizinischen Themen:\n   - Appendizitis (nur theoretische Diagnostik/Therapie ohne konkreten Patienten)\n   - Bildgebungsverfahren (Ultraschall, CT - technische Details)\n   - Rechtmedizinische Themen (Schweigepflicht, Patientenrechte)\n   - Multiples Myelom (allgemeine Krankheitsbeschreibung)\n   - Herzrhythmusstörungen (ventrikuläre Tachykardie, Torsades de Pointes)\n   - AV-Block (abgebrochen am Ende)\n\n2. **Strukturierte Lehrinhalte** im Format:\n   - Frage\n   - Antwort_Kandidat (meist \"Nicht im Protokoll enthalten\")\n   - Musterlösung_Leitlinie\n   - Analyse_Fehler_Tipps\n\nEs handelt sich um **Prüfungsfragen und Musterlösungen** aus einer Kenntnissprüfung, nicht um konkrete Patientenfälle mit individuellen Charakteristika, Anamnese oder spezifischen klinischen Verläufen."
+  }
+]

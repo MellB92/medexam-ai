@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 4/84) enthält **keine klinischen Patientenfälle**. \n\nDer Abschnitt besteht ausschließlich aus:\n\n1. **Abkürzungsverzeichnis** (PTH, PTT, QF, qSOFA, RA, RAAS, etc.) - zweite Hälfte des Verzeichnisses\n2. **Quellenverzeichnis** - Literaturangaben und Referenzen\n3. **Inhaltsverzeichnis** - Auflistung der Kapitel und Themen des Buches\n\nEs handelt sich um vorbereitende Seiten eines medizinischen Lehrbuchs für das mündliche Staatsexamen. Die eigentlichen klinischen Fälle beginnen erst in späteren Kapiteln (ab Kapitel 3 \"Innere Medizin\" mit Themen wie Hyperthyreose, Hypothyreose, Cushing-Syndrom, etc.), die hier nur als Inhaltsverzeichnis aufgelistet sind, aber noch nicht ausgeführt werden."
+  }
+]

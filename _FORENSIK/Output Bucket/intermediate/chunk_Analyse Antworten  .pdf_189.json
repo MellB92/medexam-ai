@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt (Chunk 190/254) enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Inhalt besteht ausschließlich aus:\n\n1. **Theoretischen Fragen und Musterlösungen** zu verschiedenen medizinischen Themen:\n   - Organspende und Transplantationsgesetz\n   - Hirntod-Diagnostik\n   - Blutdruckmessung\n   - Divertikulitis\n   - Pyelonephritis\n   - Schlafapnoe-Syndrom\n   - H. pylori und Gastritis\n   - Sensitivität (Statistik)\n   - Osteoporose\n   - Laxantien und Obstipation\n   - Alkoholintoxikation (Behandlungsalgorithmus)\n   - Strahlenschutz\n   - Sjögren-Syndrom\n   - COPD\n   - Endokarditis\n\n2. **Prüfungsprotokoll-Format** mit:\n   - Fragen (\"frage\")\n   - Kandidatenantworten (\"antwort_kandidat\") - meist \"Nicht im Protokoll enthalten\"\n   - Musterlösungen (\"musterloesung_leitlinie\")\n   - Fehleranalysen (\"analyse_fehler_tipps\")\n\nEs handelt sich um **Lehrmaterial/Prüfungsvorbereitung** ohne konkrete Patientenfälle mit individuellen Anamnesen, Befunden oder Verläufen."
+  }
+]

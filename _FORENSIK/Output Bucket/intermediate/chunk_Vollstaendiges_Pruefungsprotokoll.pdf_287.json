@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[\n  {\n    \"title\": \"Hodentorsion bei Jungen\",\n    \"patient_age\": null,\n    \"patient_gender\": \"männlich\",\n    \"chief_complaints\": [\"Hodentorsion\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Hodentorsion\"],\n    \"diagnostic_approach\": []\n  },\n  {\n    \"title\": \"Fieberkrampf bei Kind\",\n    \"patient_age\": null,\n    \"patient_gender\": null,\n    \"chief_complaints\": [\"Fieber\", \"Krampfanfall\"],\n    \"accident_mechanism\": null,\n    \"pre_existing_conditions\": [],\n    \"medications\": [],\n    \"allergies\": [],\n    \"physical_examination\": [],\n    \"imaging_findings\": [],\n    \"laboratory_findings\": [],\n    \"suspected_diagnosis\": [\"Fieberkrampf\"],\n    \"diagnostic_approach\": []\n  }\n]\n```"
+  }
+]

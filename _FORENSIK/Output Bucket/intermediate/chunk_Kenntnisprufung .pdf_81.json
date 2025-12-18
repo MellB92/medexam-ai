@@ -1,0 +1,184 @@
+[
+  {
+    "title": "Petechien und Hämaturie nach grippalem Infekt bei 39-jähriger Patientin",
+    "patient_age": "39-jährig",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Erschöpfung und Müdigkeit seit 4 Wochen",
+      "Spontane blaue Flecken an beiden Beinen vor 2 Wochen",
+      "Petechien",
+      "Rötlicher Urin ohne Schmerzen oder Fieber seit 1 Woche"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Z.n. Tonsillektomie",
+      "Z.n. distale Radiusfraktur rechts vor 5 Jahren"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [
+      "Verhütungspille"
+    ],
+    "allergies": [
+      "Laktoseintoleranz",
+      "Penicillin"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Petechien (Foto gezeigt)",
+      "Blaue Flecken an beiden Beinen (vor 2 Wochen, nach paar Tagen verschwunden)"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "BB angefordert",
+      "Nierenwerte angefordert",
+      "Leberwerte angefordert",
+      "Gesamt IgA angefordert",
+      "Urinstatus angefordert"
+    ],
+    "suspected_diagnosis": [
+      "HSP (Henoch-Schönlein-Purpura)",
+      "DD: ITP (Immunthrombozytopenie)",
+      "DD: TTP",
+      "DD: DIC",
+      "DD: HUS"
+    ],
+    "diagnostic_approach": [
+      "Anamnese bezüglich Hämaturie",
+      "Urinuntersuchung von Mittelstrahlurin",
+      "Makroskopische Beurteilung",
+      "Urinstix",
+      "Mikroskopische Untersuchung nach Zentrifugation"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Dekompensierte Herzinsuffizienz mit massiven Beinödemen",
+    "patient_age": null,
+    "patient_gender": "m",
+    "severity": "severe",
+    "chief_complaints": [
+      "Sehr dicke Beine",
+      "Wassereinlagerung ca. 20 kg"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Bekannte Herzinsuffizienz"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [
+      "Kommt mit Ehefrau"
+    ],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Massiv geschwollene Beine",
+      "Ca. 20 kg Wassereinlagerung"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Urinausscheidung nur 600 mL nach Furosemid"
+    ],
+    "suspected_diagnosis": [
+      "Dekompensierte Herzinsuffizienz"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "Furosemid teilweise wirksam (nur 600 mL Urinausscheidung)",
+      "Flüssigkeitsrestriktion",
+      "Nephron Block erwogen"
+    ],
+    "complications": [
+      "Diuretikaresistenz"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Schneelawinenunfall mit Kammerflimmern, Hypothermie und Pneumothorax",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": "critical",
+    "chief_complaints": [
+      "Kammerflimmern",
+      "Hypothermie",
+      "Bewusstlosigkeit"
+    ],
+    "accident_mechanism": "Schneelawinenunfall",
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Hypothermie",
+      "Kammerflimmern"
+    ],
+    "physical_examination": [
+      "Bewusstlos auch nach 45 Min"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kammerflimmern bei Hypothermie",
+      "Pneumothorax"
+    ],
+    "diagnostic_approach": [],
+    "treatment_response": [
+      "CPR durchgeführt",
+      "Defibrillation",
+      "Rettungsdecke",
+      "Kopf warm halten",
+      "Warme Infusion",
+      "Thoraxdrainage bei Pneumothorax",
+      "Reanimation fortgesetzt wegen reversibler Ursache (Hypothermie)"
+    ],
+    "complications": [
+      "Pneumothorax"
+    ],
+    "follow_up": []
+  },
+  {
+    "title": "Vorhofflimmern mit symptomatischer Tachykardie",
+    "patient_age": null,
+    "patient_gender": null,
+    "severity": "moderate",
+    "chief_complaints": [
+      "Störende Tachykardie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [],
+    "imaging_findings": [
+      "EKG: Vorhofflimmern",
+      "Rö Thorax: Schrittmacher sichtbar"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Vorhofflimmern"
+    ],
+    "diagnostic_approach": [
+      "EKG",
+      "Weitere Diagnostik bei VHF"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

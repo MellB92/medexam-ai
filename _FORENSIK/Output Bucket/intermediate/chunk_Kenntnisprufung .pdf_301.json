@@ -1,0 +1,77 @@
+[
+  {
+    "title": "66-jährige Patientin mit Sepsis und schwerer metabolischer Azidose",
+    "patient_age": "66-jährig",
+    "patient_gender": "w",
+    "severity": "critical",
+    "chief_complaints": [
+      "seit gestern plötzlich aufgetretene Kopfschmerzen",
+      "Fieber",
+      "Schüttelfrost",
+      "Herzrasen",
+      "Müdigkeit",
+      "Polyurie ohne Dysurie",
+      "vor 14 Tagen in Spanien Erkältung mit trockenem Husten und Schnupfen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie",
+      "Diabetes mellitus (Erstdiagnose vor 3 Jahren)",
+      "Herzrhythmusstörung vor 1 Jahr durch Katheteruntersuchung behandelt",
+      "Z.n. Femurfraktur rechts operativ versorgt",
+      "Z.n. HWK-Fraktur"
+    ],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [
+      "Vater mit 60 Jahren an Darmkrebs verstorben"
+    ],
+    "social_history": [
+      "lebt mit Ehemann zusammen",
+      "hat 2 Kinder",
+      "Rentnerin",
+      "kein Pflegegrad"
+    ],
+    "medications": [
+      "keine aktuelle Medikation für Herzrhythmusstörung"
+    ],
+    "allergies": [
+      "Penicillin",
+      "Pollen"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "körperliche Untersuchung unauffällig",
+      "Blutdruck nur am linken Arm gemessen"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "BGA: schwere metabolische Azidose mit erhöhtem Laktat",
+      "pH-Wert 6,9",
+      "Blutkulturen entnommen (2 anaerobe und 2 aerobe Flaschen, je 10 ml)",
+      "EKG: Vorhofflimmern mit Tachykardie"
+    ],
+    "suspected_diagnosis": [
+      "Sepsis",
+      "Harnwegsinfekt",
+      "Pneumonie",
+      "Myokarditis",
+      "Endokarditis",
+      "Perikarditis",
+      "Hyperthyreose"
+    ],
+    "diagnostic_approach": [
+      "Anamnese und körperliche Untersuchung zur Infektfokussuche",
+      "BGA",
+      "Blutkulturen",
+      "EKG"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": [
+      "stationäre Aufnahme indiziert",
+      "Antikoagulation bei VHF",
+      "kalkulierte Antibiotikatherapie (Levofloxacin bei Penicillin-Allergie oder Unacid i.v. 3g 1-1-1)"
+    ]
+  }
+]

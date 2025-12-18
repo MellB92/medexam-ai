@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine klinischen Patientenfälle oder Fallpräsentationen**. \n\nDer Text besteht ausschließlich aus:\n\n1. **Pharmakologischen Beschreibungen** von antiviralen Medikamenten (Ribavirin, DAA bei Hepatitis C, antiretrovirale HIV-Therapie)\n2. **Wirkmechanismen** verschiedener Virustatika (NRTI, NNRTI, Proteaseinhibitoren, etc.)\n3. **Indikationen und unerwünschten Wirkungen** von Medikamenten\n4. **Anthelminthika** (Wurmmittel) und deren Einsatzgebiete\n5. **Chlorhexidin** als Desinfektionsmittel\n6. **CHECK-UP Fragen** (theoretische Wissensfragen)\n7. **Therapierichtlinien** für Pneumonie (Tabelle 18.10 mit Therapieschemata nach Schweregrad)\n\nEs handelt sich um rein theoretisches, pharmakologisches Lehrbuchmaterial ohne konkrete Patientenbeispiele, Fallvignetten oder klinische Präsentationen mit spezifischen Patienten."
+  }
+]

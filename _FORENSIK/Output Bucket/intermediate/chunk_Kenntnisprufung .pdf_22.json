@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Sprunggelenkfraktur Weber B nach Sturz beim Aussteigen",
+    "patient_age": "64 Jahre",
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen am rechten Fuß",
+      "Bewegungseinschränkung rechter Fuß",
+      "Leichter Hautdefekt an rechter Hand (versorgt)"
+    ],
+    "accident_mechanism": "Weggeknickt beim Aussteigen aus dem Auto auf dem Weg zur Arbeit, mit der Hand versucht den Körper aufzustützen",
+    "pre_existing_conditions": [
+      "Hepatitis A vor 3-4 Jahren (Thailand)",
+      "Dermatitis/Kontaktallergie gegen Nickel",
+      "Rezidivierende Harnwegsinfekte",
+      "Sinusitis (unter Hausarztbehandlung)",
+      "Asthma bronchiale (als Kind)",
+      "Z.n. Appendektomie (mit 18 Jahren)"
+    ],
+    "comorbidities": [],
+    "risk_factors": [
+      "Mangelnde Trinkmenge"
+    ],
+    "family_history": [
+      "Mutter verstorben an COVID",
+      "Vater leidet an Trigeminusneuralgie",
+      "Schwester hat Multiple Sklerose"
+    ],
+    "social_history": [
+      "Reisebüro Verkäuferin",
+      "Verheiratet",
+      "1 Sohn",
+      "Alkoholtrinken gelegentlich",
+      "Keine Raucherin",
+      "Keine Drogeneinnahme"
+    ],
+    "medications": [
+      "Unauffällig/keine"
+    ],
+    "allergies": [
+      "Nickel"
+    ],
+    "vital_signs": [],
+    "physical_examination": [
+      "Patientin kam mit Krücken",
+      "Bewegungsschmerzen rechter Fuß",
+      "Bewegungseinschränkung rechter Fuß",
+      "PDMS intakt",
+      "Keine Bewusstseinsverloren",
+      "Kein Schwindel/Schwarz vor den Augen",
+      "Keine Begleitsymptome",
+      "Vegetative Anamnese unauffällig"
+    ],
+    "imaging_findings": [
+      "Röntgen ap: Sprunggelenkfraktur Weber B",
+      "Röntgen: Handwurzelfraktur (nicht Kahnbein)"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Sprunggelenkfraktur Weber B",
+      "Handwurzelfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Sprunggelenk ap",
+      "Röntgen Handwurzel"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  },
+  {
+    "title": "Bakterielle Meningitis mit Kopfschmerzen und Meningismus",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Starke Kopfschmerzen seit gestern Abend",
+      "Lichtempfindlichkeit",
+      "Nackenschmerzen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [
+      "Blutdruck gemessen (Wert nicht angegeben)"
+    ],
+    "physical_examination": [
+      "Patientin liegend",
+      "Brudzinski-Zeichen positiv",
+      "Kernig-Zeichen negativ",
+      "Lasègue-Zeichen negativ",
+      "Keine Herz- und Lungenuntersuchung durchgeführt"
+    ],
+    "imaging_findings": [],
+    "laboratory_findings": [
+      "Liquor: Granulozytose (bakterielle Meningitis)",
+      "Lumbalpunktion durchgeführt"
+    ],
+    "suspected_diagnosis": [
+      "Bakterielle Meningitis (Meningokokken, Pneumokokken)",
+      "Virale Meningitis",
+      "Tuberkulöse Meningitis"
+    ],
+    "diagnostic_approach": [
+      "Lumbalpunktion",
+      "Liquordiagnostik"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

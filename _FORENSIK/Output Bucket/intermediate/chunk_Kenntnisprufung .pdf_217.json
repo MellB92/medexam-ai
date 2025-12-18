@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Kahnbeinfraktur mit Schmerzen in der Tabatière",
+    "patient_age": null,
+    "patient_gender": "w",
+    "severity": null,
+    "chief_complaints": [
+      "Schmerzen bei Bewegung des Arms",
+      "Schmerzen in der Tabatière"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [],
+    "comorbidities": [],
+    "risk_factors": [],
+    "family_history": [],
+    "social_history": [],
+    "medications": [],
+    "allergies": [],
+    "vital_signs": [],
+    "physical_examination": [
+      "Arm gut beweglich",
+      "Schmerzen bei Bewegung",
+      "Druckschmerz Tabatière"
+    ],
+    "imaging_findings": [
+      "Röntgen Unterarm: Kahnbein betroffen",
+      "Radius nicht ganz in Ordnung"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Kahnbeinfraktur"
+    ],
+    "diagnostic_approach": [
+      "Röntgen Unterarm"
+    ],
+    "treatment_response": [],
+    "complications": [],
+    "follow_up": []
+  }
+]

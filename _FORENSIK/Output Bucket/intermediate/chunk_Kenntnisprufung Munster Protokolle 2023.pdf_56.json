@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Diabetes mellitus Typ 2 mit multiplen Beschwerden",
+    "patient_age": null,
+    "patient_gender": "w",
+    "chief_complaints": [
+      "Müdigkeit seit 4-5 Monaten",
+      "Schwindelepisoden",
+      "Konzentrationsstörungen",
+      "Schlafstörungen",
+      "Infektanfälligkeit mit öfteren Erkältungen",
+      "Pilzinfektion der Achselhöhle",
+      "saures Aufstoßen",
+      "Polydipsie",
+      "Polyurie"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "arterielle Hypertonie (medikamentös eingestellt)",
+      "Hyperlipoproteinämie (mit Statinen eingestellt)",
+      "Zustand nach Femurschaftfraktur mit 25 Jahren",
+      "Zustand nach distaler Radiusfraktur"
+    ],
+    "medications": [
+      "Antihypertensiva",
+      "Statine"
+    ],
+    "allergies": [],
+    "physical_examination": [],
+    "imaging_findings": [],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Diabetes mellitus Typ 2"
+    ],
+    "diagnostic_approach": []
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Rheumatoide Arthritis mit NSAR-induzierter gastrointestinaler Blutung",
+    "patient_age": "40 Jahre",
+    "patient_gender": "w",
+    "severity": "moderate",
+    "chief_complaints": [
+      "Müdigkeit seit 3-4 Monaten",
+      "Gelenkschmerzen seit 3-4 Monaten",
+      "Fieber seit 3-4 Monaten",
+      "Oberbauchschmerzen seit einigen Tagen (kurz nach dem Essen)",
+      "Dunkler Stuhlgang seit einigen Tagen"
+    ],
+    "accident_mechanism": null,
+    "pre_existing_conditions": [
+      "Hypothyreose",
+      "Pilonidalsinus",
+      "Humerusfraktur nach Fahrradsturz in Anamnese (mit Gips behandelt)"
+    ],
+    "comorbidities": [
+      "Heuschnupfen"
+    ],
+    "risk_factors": [
+      "NSAR-Einnahme (Ibuprofen)"
+    ],
+    "family_history": [
+      "Vater: Herzklappenabnutzung operiert, vor einem Jahr an Bauchkrebs verstorben",
+      "Mutter: Leistenbruch operiert"
+    ],
+    "social_history": [
+      "Selbstständig",
+      "Wohnt mit Mann und Tochter",
+      "Nichtraucherin",
+      "Kein Cannabis-Konsum"
+    ],
+    "medications": [
+      "Ibuprofen",
+      "L-Thyroxin"
+    ],
+    "allergies": [
+      "Heuschnupfen"
+    ],
+    "vital_signs": [
+      "Temperatur 37,4°C",
+      "Weitere Vitalparameter nicht erhoben (vom Prüfling vergessen)"
+    ],
+    "physical_examination": [
+      "Schmerzen in PIP-Gelenken beidseitig",
+      "Schmerzen in MIP-Gelenken beidseitig",
+      "Schmerzen in beiden Kniegelenken",
+      "Schmerzen in beiden Ellenbogengelenken",
+      "Wärmegefühl über betroffenen Gelenken",
+      "Morgendliche Steifigkeit der Finger (Dauer 60 Minuten)",
+      "Übrige körperliche Untersuchung unauffällig",
+      "DRU erwähnt aber nicht durchgeführt"
+    ],
+    "imaging_findings": [
+      "EKG: Kammerhypertrophie",
+      "Endoskopie: Hämatinzeichen"
+    ],
+    "laboratory_findings": [],
+    "suspected_diagnosis": [
+      "Rheumatoide Arthritis",
+      "Gastrointestinale Blutung (NSAR-induziert)"
+    ],
+    "diagnostic_approach": [
+      "Venöser Zugang gelegt (kein Blut bei Punktion)",
+      "EKG",
+      "Endoskopie mit Forrest-Klassifikation",
+      "H. pylori-Diagnostik und Behandlung besprochen",
+      "Spezifische Blutmarker für RA"
+    ],
+    "treatment_response": [
+      "Ibuprofen lindert Gelenkschmerzen",
+      "Entwicklung von Oberbauchschmerzen und Meläna unter Ibuprofen-Therapie"
+    ],
+    "complications": [
+      "NSAR-induzierte Gastropathie mit gastrointestinaler Blutung"
+    ],
+    "follow_up": []
+  }
+]

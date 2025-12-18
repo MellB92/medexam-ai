@@ -1,0 +1,6 @@
+[
+  {
+    "type": "text",
+    "text": "```json\n[]\n```\n\n**Begründung:**\n\nDieser Dokumentabschnitt enthält **keine vollständigen klinischen Patientenfälle**. \n\nDer Text besteht aus:\n\n1. **Theoretischen Fragen und Antworten** zu:\n   - Kontrastmittel-Zwischenfällen (Symptome und Schweregrade)\n   - ALARA-Prinzip\n   - Strahlenschutz (Dosimeter, Verantwortliche)\n   - Strahlenschutzverordnung\n\n2. **Fragmentarischen Fallhinweisen** ohne vollständige Präsentation:\n   - Ein Hinweis auf \"retrosternale Schmerzen\" mit DD (inkl. Herzinfarkt)\n   - Ein EKG-Fall \"Hinterwandinfarkt\" - aber nur als Prüfungsfrage, ohne Patientenvorstellung, Anamnese oder klinische Präsentation\n   - Endoskopische Bilder (Ösophagus, Z-Linie, Ösophagitis) - reine Bildbeschreibungen ohne Patientenkontext\n\n3. **Allgemeine diagnostische/therapeutische Anleitungen** zu:\n   - Ösophagitis-Klassifikation (Los Angeles)\n   - Diagnostik und Therapie der Refluxkrankheit\n\n**Keine dieser Informationen stellt einen vollständigen, strukturierten klinischen Fall mit Patientenvorstellung, Anamnese und Befunden dar.**"
+  }
+]
