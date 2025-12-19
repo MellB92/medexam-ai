@@ -1,12 +1,21 @@
 # ✅ TODO List - MedExamAI
 
-> Aktualisierung: 2025-12-18 (Prioritäten)
-1) Höchste Priorität: 67 Problem-Items beheben (Batch-Review Run 20251216)
-   - Analyse, Korrektur (`batch_correct_with_reasoning.py --resume`), Web-Validierung (`batch_validate_with_perplexity.py --resume --retry-errors`), Finalisierung (`finalize_batch_review.py`)
-2) 79 "maybe"-Items revalidieren und dispositionieren
-3) Dokumentation aktualisieren (PROJECT_STATUS.md, TODO.md)
+> Aktualisierung: 2025-12-19 (Batch-Review Run 20251219 abgeschlossen)
+
+### ✅ ERLEDIGT (19.12.2025)
+- [x] 60 Problem-Items korrigiert (GPT-5-mini + Claude Opus 4.5)
+- [x] Perplexity-Validierung durchgeführt (ok=25, maybe=18, problem=17)
+- [x] 43 Antworten in evidenz_antworten.json gemerged
+- [x] Coverage-Check bestätigt: 2.527/2.527 = 100%
+- [x] Dokumentation aktualisiert (PROJECT_STATUS.md, TODO.md)
+- [x] 7 manuelle Items dokumentiert mit AWMF-Korrekturen
+
+### 🔴 NOCH OFFEN
+1) **17 Problem-Items** aus Batch-Review (erfordern erneute Korrektur oder manuelle Prüfung)
+2) **7 manuelle Items** mit detaillierten Korrekturvorschlägen bereit
+   - Siehe `_OUTPUT/MANUAL_ITEMS_CORRECTIONS_20251219.md`
+3) Optional: Zweite Batch-Runde für verbleibende 17 Items
 4) Optional: Lern-Exports aktualisieren (`export_learning_materials.py --daily-plan`)
-5) Coverage-Check bestätigen (2.527/2.527)
 
 
 **Letzte Aktualisierung:** 2024-12-01

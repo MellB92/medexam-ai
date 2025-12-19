@@ -1,11 +1,20 @@
 # 📊 MedExamAI - Project Status Report
 
-> Aktualisierung: 2025-12-18
+> Aktualisierung: 2025-12-19
 - Kanonische Q&A: 4.505 (READ-ONLY)
-- Review-Queue (Run 20251216_064700): 431 Items → ok=285, maybe=79, problem=67
+- **Batch-Review Run 20251219_082951 abgeschlossen:**
+  - 60 Problem-Items korrigiert (GPT-5-mini + Claude Opus 4.5)
+  - Perplexity-Validierung: ok=25, maybe=18, problem=17
+  - 43 Antworten in evidenz_antworten.json gemerged
+  - 17 verbleibende Issues + 7 manuelle Items = **24 offene Items**
 - Coverage meaningful: 2.527/2.527 = 100%
-- needs_context: 133/133 gematcht (prepared)
-- Wichtige Artefakte: `batch_input_prepared_20251216_064043.json`, `batch_corrected_20251216_064700.json`, `batch_validated_20251216_064700.json`, `batch_review_report_20251216_142834.md`, `evidenz_antworten_updated_20251216_142834.json`
+- Geschätzte LLM-Kosten: ~2.23 USD (Korrektur) + ~0.50 USD (Validierung)
+- Wichtige Artefakte:
+  - `batch_corrected_20251219_082951.json` (60 korrigierte Antworten)
+  - `batch_validated_20251219_082951.json` (Perplexity-Validierung)
+  - `evidenz_antworten_updated_20251219_095605.json` (gemerged)
+  - `batch_review_remaining_issues_20251219_095605.json` (17 verbleibend)
+  - `MANUAL_ITEMS_CORRECTIONS_20251219.md` (7 manuelle mit AWMF-Quellen)
 
 
 
