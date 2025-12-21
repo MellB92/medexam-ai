@@ -104,3 +104,7 @@ dmypy.json
 .pyre/
 _GOLD_STANDARD/
 .embedding_cache/
+
+# Agent collaboration artifacts (lokal, nicht versionieren)
+_AGENT_WORK/
+AGENT_*.md
