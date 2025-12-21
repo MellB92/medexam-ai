@@ -202,3 +202,62 @@ Ticket: MED-11 - Antwort-Generierung
 - sklearn für TF-IDF/Cosinus-Ähnlichkeit (Dedupe)
 - Requesty/Anthropic für KI-Generierung
 - RAG-System mit Leitlinien
+
+---
+
+## Projektgedächtnis / Letzte Änderungen (Stand: 2025-12-21)
+
+### GitHub / Repo-Hygiene / Security
+
+**Problem (Push Protection):**
+- GitHub Push Protection hat Pushes blockiert wegen Secrets in der Git-Historie.
+- Betroffene Pfade: `_ARCHIVE/quarantine_external/claude_exports_Medexamenai/` (u. a. Notion API Token, GitHub OAuth Token).
+
+**Fix (History Cleanup):**
+- History wurde lokal per `git filter-repo` bereinigt (invert-paths).
+- Bereinigter Branch: `sanitized/no-secrets`.
+- Danach wurde der Remote-Branch `Medexamenai` per Force-Update auf die bereinigte Historie gesetzt.
+- GitHub Issue geschlossen: #6.
+
+**Wichtig für alle Agents:**
+- Dieses Repo hat einen History-Rewrite hinter sich. Wenn ein Agent Divergenzen sieht:
+  - `git fetch origin`
+  - `git checkout Medexamenai`
+  - `git reset --hard origin/Medexamenai`
+
+### Dokumentation / PRs
+
+- PR #7 (Phase 1 Repo-Organisation Guide) wurde gemerged:
+  - https://github.com/MellB92/medexam-ai/pull/7
+  - Enthält genau 1 Datei: `docs/guides/REPO_ORGANISATION.md`
+  - Keine Pipelines ausgeführt, canonical Dateien unangetastet.
+
+### Workspace-Hygiene (untracked Noise vermeiden)
+
+**Symptom:** Viele lokale (untracked) Agent-Artefakte haben Git/IDE-Workflows gestört.
+
+**Fix:** `.gitignore` erweitert um lokale Agent-Artefakte zu ignorieren:
+- `_AGENT_WORK/`
+- `AGENT_*.md`
+
+**Empfehlung:**
+- Alles, was nur lokal/debug ist, bleibt in `_AGENT_WORK/`.
+- Falls du etwas davon dauerhaft brauchst: in `/docs/` oder `/scripts/` überführen und als PR sauber reviewen.
+
+### .env Migration & Key-Checks
+
+- `.env` wurde vom alten Mac migriert.
+- Smoke-Tests für Provider-Keys:
+  - Anthropic: OK
+  - OpenAI: OK
+  - Requesty: OK
+  - Perplexity: OK (Wichtig: Modell `sonar` funktioniert; falsche Modellnamen führen zu HTTP 400)
+
+**Hinweis:** Niemals Secrets in Logs/Commits. `.env` bleibt in `.gitignore`.
+
+### Git Stash Konvention (um Branches clean zu halten)
+
+- Wenn lokale untracked/modified Dateien Pull/Merge blockieren:
+  - `git stash push -u -m "WIP ..."`
+- Stashes sind bewusst erlaubt, um `Medexamenai` clean zu halten.
+

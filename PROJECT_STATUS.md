@@ -1,6 +1,14 @@
 # 📊 MedExamAI - Project Status Report
 
-> Aktualisierung: 2025-12-18
+> Aktualisierung: 2025-12-21
+- GitHub Push Protection (Secret Scanning) behoben via History Cleanup (`git filter-repo`) und Bereinigung des Branch `Medexamenai`.
+- PR #7 gemerged (Repo Organisation Guide): https://github.com/MellB92/medexam-ai/pull/7
+- Issue #6 geschlossen (History Cleanup/Secret Scan Blockade): https://github.com/MellB92/medexam-ai/issues/6
+- `.env` Migration durchgeführt; Smoke-Tests erfolgreich: Anthropic/OpenAI/Requesty/Perplexity (Perplexity: Modell `sonar` OK).
+- Workspace-Hygiene: `.gitignore` ignoriert lokale Agent-Artefakte (`_AGENT_WORK/`, `AGENT_*.md`).
+
+> **Hinweis:** Diese Änderungen betreffen hauptsächlich die Repository-Verwaltung und -Sicherheit. Der Entwicklungsstand bleibt unverändert.
+
 - Kanonische Q&A: 4.505 (READ-ONLY)
 - Review-Queue (Run 20251216_064700): 431 Items → ok=285, maybe=79, problem=67
 - Coverage meaningful: 2.527/2.527 = 100%
