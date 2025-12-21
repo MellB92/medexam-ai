@@ -108,3 +108,7 @@ _GOLD_STANDARD/
 # Agent collaboration artifacts (lokal, nicht versionieren)
 _AGENT_WORK/
 AGENT_*.md
+
+# Local archives / backups (nicht versionieren)
+_ARCHIVE/gold_standard_backups/
+_WISSENSBASIS/
