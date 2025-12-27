@@ -1,4 +1,41 @@
-# Codex (Assistant) – Aufgabenbriefing (Stand: 2025-12-12)
+# Codex (Assistant) – Aufgabenbriefing (Stand: 2025-12-21)
+
+## KRITISCH: Drei-Kategorien-System
+
+Das Projekt verwendet eine strikte Trennung in **DREI Kategorien**:
+
+| Kategorie | Zweck | Für RAG? |
+|-----------|-------|----------|
+| **PRÜFUNGSPROTOKOLLE** | Prüfungsablauf, Themen, Empfehlungen, Fehleranalyse | NEIN |
+| **FAKTEN** | Medizinisches Wissen (Leitlinien, Lehrbücher) | JA |
+| **OUTPUT** | Generierte Ergebnisse | N/A |
+
+### Kategorisierung bei unsortierten Dateien
+
+Bei der Kategorisierung von Dateien aus `_FACT_CHECK_SOURCES/_unsortiert/` gelten folgende Regeln:
+
+**→ PRÜFUNGSPROTOKOLLE** (nach `_GOLD_STANDARD/`):
+
+- Kenntnisprüfung-Berichte, Fälle, Simulationen
+- Fachsprachprüfung (FSP) Materialien
+- Anamnese-Übungen, Dokumentationsübungen
+- Erfahrungsberichte, Tipps von Teilnehmern
+
+**→ FAKTEN** (in `_FACT_CHECK_SOURCES/` belassen oder `_BIBLIOTHEK/`):
+
+- Leitlinien (AWMF S1/S2/S3)
+- Lehrbuch-Inhalte (Anatomie, Pathologie, Therapie)
+- Klinische Notfälle, Arzneimittel, Laborwerte
+- EKG/MRT/Röntgen-Interpretation
+
+**→ SPRACHLICH/ADMIN** (archivieren oder separat):
+
+- Deutsch-Grammatik, Konjunktionen
+- Anmeldeformulare, Anträge
+
+Siehe: `_AGENT_WORK/CODEX_PROMPT_UNSORTIERT_KATEGORISIERUNG.md` für Codex-Task.
+
+---
 
 ## Kurzstatus (verifiziert)
 - Fragenbasis dedupe: 4.556 (Meaningful 2.527, Fragmente 2.029) – `_EXTRACTED_FRAGEN/frage_bloecke_dedupe_verifiziert.json`

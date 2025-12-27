@@ -192,6 +192,41 @@ Details: `docs/incidents/2025-12-05-answer-loss.md`
 ## Entwickler
 **Soloentwickler**: Dagoberto (er/ihm)
 
+---
+
+## Münster KP Yield-Analyse v2 (2025-12-27) – Status & Guardrails
+
+**Ziel:** High/Medium/Low-Yield + Gap-Prioritäten für Kenntnisprüfung Münster (asked vs. coverage), 2025 stark gewichtet.
+
+**Implementiert:**
+- Script: `scripts/analyze_muenster_yield_v2.py`
+- Output: `_OUTPUT/yield_muenster_v2/` (asked/coverage/gap/trend/report + `learning_checklist_from_gaps.txt`)
+- Guardrail: `scripts/tools/no_nul_guard.py` (Fail-fast gegen NUL-Bytes, vor `py_compile`)
+
+**Gap SSoT (stabil):**
+- `GAP_FORMULA_ID = "asked_minus_coverage"`
+- `gap = asked_score - coverage_score`
+- `run_metadata.json` enthält `{stats, gap}` + `run_timestamp` (UTC ISO)
+
+**Akzeptanzchecks (Smoke-Run 2025-12-27):**
+- `gap_priority.csv` Schema stabil: `topic, asked_score, coverage_score, gap, priority`
+- Checkliste wird bei jedem Run automatisch erzeugt (Querschnitt: Strahlenschutz/Recht/Rechtsmedizin/Pharmako)
+- Bild-Narration Topics ("röntgenbild vom", "bild gezeigt") gefiltert
+- Score-Splitting (Wells/Geneva/CRB-65/NYHA/GOLD) aktiv
+
+**Year Inference v3 (2025-12-27) – FIXED:**
+- **Verbesserung:** Anchor-basierte Year-Inference für ORD-Dateien implementiert
+- **Ergebnis:** `asked_docs_with_year` von **419/1071 → 1067/1067** (+648 Dokumente, **100% Coverage**)
+- **Methode:** 
+  - Jahr-Ankerzeilen (Format: `\d{6}[a-z]?\s+\d{2}\.\d{2}\.(20\d{2})`) werden erkannt
+  - Blöcke ohne explizites Datum erhalten das Jahr des letzten Ankers (nearest previous date anchor)
+  - **652 Blöcke** bekamen Jahr durch Anchor-Inference (ORD-Datei)
+  - **0 Fake-Jahre** (kein Guessing, nur wenn Anchor existiert)
+- **Statistiken:** In `run_metadata.json` unter `stats.year_inference` verfügbar:
+  - `year_direct_detection`: 421
+  - `year_anchor_based_inference`: 652
+  - `ord_file_stats`: Detaillierte Stats pro ORD-Datei
+
 ## Jira-Board
 https://xcorpiodbs.atlassian.net/jira/software/projects/MED/boards/7
 Ticket: MED-11 - Antwort-Generierung
@@ -202,6 +237,81 @@ Ticket: MED-11 - Antwort-Generierung
 - sklearn für TF-IDF/Cosinus-Ähnlichkeit (Dedupe)
 - Requesty/Anthropic für KI-Generierung
 - RAG-System mit Leitlinien
+
+---
+
+## MedGemma Deployment (Stand: 2025-12-26)
+
+### Kritische Konfiguration
+
+| Parameter | Wert |
+|-----------|------|
+| **Projekt** | `medexamenai` |
+| **Region** | `us-central1` |
+| **Endpoint ID** | `mg-endpoint-f9aef307-eca7-4627-8290-b6e971b34474` |
+| **Model ID** | `google_medgemma-27b-it-1766491479319` |
+| **GPU** | NVIDIA A100 80GB (a2-ultragpu-1g) - **PFLICHT!** |
+
+### Deploy-Befehl (GETESTET & FUNKTIONIERT)
+
+```bash
+gcloud ai endpoints deploy-model mg-endpoint-f9aef307-eca7-4627-8290-b6e971b34474 \
+  --project=medexamenai \
+  --region=us-central1 \
+  --model=google_medgemma-27b-it-1766491479319 \
+  --display-name=medgemma-27b-deployment \
+  --machine-type=a2-ultragpu-1g \
+  --accelerator=type=nvidia-a100-80gb,count=1 \
+  --min-replica-count=1 \
+  --max-replica-count=1
+```
+
+**Dauer:** ~15-20 Minuten | **Kosten:** ~$2-3/Stunde
+
+### Undeploy-Befehl
+
+```bash
+# 1. Deployed Model ID herausfinden:
+gcloud ai endpoints describe mg-endpoint-f9aef307-eca7-4627-8290-b6e971b34474 \
+  --region=us-central1 --format="json(deployedModels)"
+
+# 2. Undeployen:
+gcloud ai endpoints undeploy-model mg-endpoint-f9aef307-eca7-4627-8290-b6e971b34474 \
+  --region=us-central1 --deployed-model-id=<ID> --quiet
+```
+
+### Validierungs-Script
+
+```bash
+cd /Users/entropie/Documents/Medexamenai_Migration/Medexamenai_migration_full_20251217_204617
+
+# Fortsetzen (nutzt Checkpoint):
+python3 scripts/batch_validate_medgemma_questions.py --resume --budget 10.0
+```
+
+### Validierungsstatus (25.12.2025)
+
+| Metrik | Wert |
+|--------|------|
+| Gesamt Fragen | 447 |
+| Validiert | 356 (~80%) |
+| Ausstehend | ~91 |
+| Kosten bisher | ~$0.08 |
+| Budget | €217.75 |
+
+### Wichtige Dateien
+
+- `scripts/batch_validate_medgemma_questions.py` - Validierungs-Script
+- `_OUTPUT/medgemma_batch_validation.jsonl` - Ergebnisse
+- `_OUTPUT/medgemma_batch_validation.checkpoint.json` - Checkpoint (358 IDs)
+
+### Fehlerbehebung
+
+| Fehler | Lösung |
+|--------|--------|
+| "Model server exited" | GPU-Parameter fehlen - vollständigen Befehl oben nutzen |
+| "Model not found" | Model ID: `google_medgemma-27b-it-1766491479319` |
+| "Permission denied" | `gcloud auth application-default login` |
 
 ---
 

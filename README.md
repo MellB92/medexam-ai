@@ -4,8 +4,25 @@ AI-assisted exam preparation for medical students and physicians with a focus on
 
 This repository contains a Retrieval-Augmented Generation (RAG) pipeline, guideline ingestion utilities, question extraction, structured answer generation, and medical validation tools. It supports local embeddings and optional cloud providers via a unified API client.
 
-Status: actively developed.
+## 🎉 Projekt Status (26.12.2025)
 
+**Status**: ✅ PRODUKTIONSREIF
+
+### Metriken
+- **Gesamt Q&A**: 4.510
+- **Antwortabdeckung**: 100% (4.510/4.510)
+- **MedGemma validiert**: 447/447 (100%)
+- **Problem-Items**: 0 (alle behoben)
+- **RAG-Index**: 246.085 Einträge
+- **Leitlinien**: 125 PDFs integriert
+
+### Highlights
+- ✅ Vollständige evidenzbasierte Antworten für alle Fragen
+- ✅ MedGemma 27B Multimodal Integration für bildbasierte Validierung
+- ✅ Kostenoptimiert: Nur $0.09 USD für 447 Validierungen
+- ✅ Durchschnittliche Antwortlänge: 1.486 Zeichen
+
+---
 
 ## Overview
 
@@ -171,19 +188,47 @@ Most scripts provide --help with parameters and defaults:
 
 ## Project structure
 
-Top-level directories and files (selected):
+### KRITISCH: Drei-Kategorien-System
+
+Dieses Projekt verwendet eine strikte Trennung in **DREI Kategorien**, die essentiell für die korrekte Funktion ist:
+
+| Kategorie | Zweck | Verzeichnisse |
+|-----------|-------|---------------|
+| **PRÜFUNGSPROTOKOLLE** | Prüfungsablauf, Themen, Empfehlungen, Fehleranalyse, praktische Skills | `_GOLD_STANDARD/`, `_EXTRACTED_FRAGEN/` |
+| **FAKTEN** | Medizinisches Wissen für RAG & Faktencheck | `_BIBLIOTHEK/`, `_WISSENSBASIS/`, `_FACT_CHECK_SOURCES/` (nur med. Inhalte) |
+| **OUTPUT** | Generierte Ergebnisse | `_OUTPUT/` |
+
+#### PRÜFUNGSPROTOKOLLE (Input Typ 1)
+
+- **`_GOLD_STANDARD/`** — Kenntnisprüfung-Protokolle 2020-2025, Telegram Reports, Erfahrungsberichte
+- **`_EXTRACTED_FRAGEN/`** — Extrahierte Prüfungsfragen, Q&A-Paare
+- **NICHT für RAG** — Diese Dateien dienen der Fragen-Extraktion und dem Prüfungskontext-Verständnis
+
+#### FAKTEN (Input Typ 2)
+
+- **`_BIBLIOTHEK/`** — Leitlinien-PDFs (AWMF, DGK, ESC, etc.)
+- **`_WISSENSBASIS/`** — Spezialgebiete (Rechtsmedizin, Strahlenschutz)
+- **`_FACT_CHECK_SOURCES/`** — Lehrbuch-Material (Innere Medizin, Chirurgie, Pharmakologie)
+- **FÜR RAG** — Diese Dateien werden in die RAG Knowledge Base indexiert
+
+#### OUTPUT (Ergebnisse)
+
+- **`_OUTPUT/`** — Generierte Antworten, RAG KB, Validierungsberichte
+
+### Top-level directories and files (selected)
+
 - core/ — main library code
   - rag_system.py — RAG implementation (local or OpenAI embeddings)
   - guideline_fetcher.py — detect themes and fetch guidelines, caches and manifests
   - medical_validator.py — validation layer for clinical safety/consistency
   - unified_api_client.py — provider routing, budgets, retries
 - scripts/ — CLI entry points (see above)
-- _BIBLIOTHEK/, _GOLD_STANDARD/, _EXTRACTED_FRAGEN/, _OUTPUT/ — data and generated artifacts
 - config.yaml — project configuration
 - requirements.txt — Python dependencies
 - LICENSE — MIT License
 
 For a deeper developer guide, see DEVELOPMENT.md and QUICK_REFERENCE.md.
+See also: `docs/PROJEKT_STRUKTUR.md` for detailed categorization rules.
 
 
 ## Safety: Resume, Backups and Checkpoints

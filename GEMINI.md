@@ -1,5 +1,93 @@
 # Gemini CLI (Gemini 3 Pro) – Aufgabenbriefing (Stand: 2025-12-12)
 
+---
+
+## MedGemma Deployment auf Vertex AI (Stand: 2025-12-26)
+
+### Endpoint-Konfiguration
+
+| Parameter | Wert |
+|-----------|------|
+| Projekt | `medexamenai` |
+| Region | `us-central1` |
+| Endpoint ID | `mg-endpoint-f9aef307-eca7-4627-8290-b6e971b34474` |
+| Model ID | `google_medgemma-27b-it-1766491479319` |
+| GPU | NVIDIA A100 80GB (a2-ultragpu-1g) |
+
+### Deploy-Befehl (GETESTET)
+
+```bash
+gcloud ai endpoints deploy-model mg-endpoint-f9aef307-eca7-4627-8290-b6e971b34474 \
+  --project=medexamenai \
+  --region=us-central1 \
+  --model=google_medgemma-27b-it-1766491479319 \
+  --display-name=medgemma-27b-deployment \
+  --machine-type=a2-ultragpu-1g \
+  --accelerator=type=nvidia-a100-80gb,count=1 \
+  --min-replica-count=1 \
+  --max-replica-count=1
+```
+
+### API-Aufruf Format (chatCompletions)
+
+```json
+{
+    "instances": [{
+        "@requestFormat": "chatCompletions",
+        "messages": [
+            {"role": "system", "content": [{"type": "text", "text": "Du bist ein medizinischer Experte."}]},
+            {"role": "user", "content": [
+                {"type": "text", "text": "Frage hier..."},
+                {"type": "image_url", "image_url": {"url": "data:image/png;base64,..."}}
+            ]}
+        ],
+        "max_tokens": 300
+    }]
+}
+```
+
+### Python SDK Beispiel
+
+```python
+from google.cloud import aiplatform
+
+project = 'medexamenai'
+region = 'us-central1'
+endpoint_id = 'mg-endpoint-f9aef307-eca7-4627-8290-b6e971b34474'
+
+aiplatform.init(project=project, location=region)
+endpoint = aiplatform.Endpoint(
+    endpoint_name=f'projects/{project}/locations/{region}/endpoints/{endpoint_id}'
+)
+
+request = {
+    '@requestFormat': 'chatCompletions',
+    'messages': [
+        {'role': 'system', 'content': [{'type': 'text', 'text': 'Du bist ein medizinischer Experte.'}]},
+        {'role': 'user', 'content': [{'type': 'text', 'text': 'Was sind die EKG-Zeichen bei Vorhofflimmern?'}]}
+    ],
+    'max_tokens': 300
+}
+
+response = endpoint.predict(instances=[request])
+```
+
+### Validierungsstatus
+
+- **Validiert:** 356/447 (80%)
+- **Ausstehend:** ~91 Fragen
+- **Kosten bisher:** ~$0.08
+- **Script:** `scripts/batch_validate_medgemma_questions.py --resume`
+
+### Bekannte Fehler
+
+| Fehler | Lösung |
+|--------|--------|
+| "Model server exited" | GPU-Parameter fehlen beim Deploy |
+| "Model not found" | Korrekte Model ID: `google_medgemma-27b-it-1766491479319` |
+
+---
+
 ## Aktueller Stand (verifiziert)
 - Fragenbasis dedupe: 4.556 (Meaningful 2.527, Fragmente 2.029) in `_EXTRACTED_FRAGEN/frage_bloecke_dedupe_verifiziert.json`.
 - Meaningful Coverage: **100.0% (2.527/2.527)**.
