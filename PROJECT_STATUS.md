@@ -1,10 +1,29 @@
 # 📊 MedExamAI - Project Status Report
 
-> Aktualisierung: 2025-12-26 - PROJEKT FERTIGSTELLUNG!
+> **🔴 Aktualisierung: 2025-12-29 - KRITISCHES QUELLENPROBLEM IDENTIFIZIERT**
+> 
+> **Problem beim Lernen festgestellt:**
+> - ❌ ~85% der Karten haben nur Dateinamen als "Quelle" (z.B. `Rechtsmedizin (1).pdf`)
+> - ❌ Nur ~16% haben echte Leitlinien-Referenzen (AWMF, S3, ESC, etc.)
+> - ❌ 1.561 von 1.568 NeedsReview-Karten haben `missing_context` Tag (99.6%)
+>
+> **Nächste Schritte:**
+> 1. 🔴 Quellenanreicherung: Alle Karten mit echten Leitlinien-Quellen versehen
+> 2. 🟡 Kontext-Reparatur: 1.561 Karten mit `missing_context` fixen
+> 3. 🟢 Format-Korrektur: Nicht-Disease-Karten im flexiblen Format
+>
+> **Ziel:** 100% nachvollziehbare, reproduzierbare Prüfungsvorbereitung mit offiziellen Quellen.
+>
+> **Details:** `_OUTPUT/CLAUDE_CODE_AUFTRAG_VERBESSERT_20251229.md`
+
+---
+
+> Aktualisierung: 2025-12-26 - PROJEKT FERTIGSTELLUNG (Antwort-Generierung)
 - Alle 3 verbleibenden Problem-Items korrigiert ✅
 - MedGemma Validierung: 447/447 (100%) abgeschlossen ✅
 - Gesamt Q&A: 4.510 (alle mit Antwort >50 chars) ✅
 - Coverage meaningful: 2.527/2.527 = 100% ✅
+- ⚠️ ABER: Quellenqualität unzureichend (siehe oben)
 
 > Aktualisierung: 2025-12-22
 - Projektstatusbericht (20.–22.12.2025): `_AGENT_WORK/PROJECT_STATUS_REPORT_20251222.md`

@@ -7,27 +7,29 @@ Enthält die Kernfunktionalitäten für das RAG-System:
 - Medical Validation Layer (Dosierung, ICD-10, Labor, Logik)
 """
 
-from .rag_system import (
-    MedicalRAGSystem,
-    EmbeddedContent,
-    SearchResult,
-    RAGConfig,
-    get_rag_system,
-)
-
 from .guideline_fetcher import (
     GuidelineFetcher,
     GuidelineMetadata,
     detect_medical_themes,
     fetch_guidelines_for_text,
 )
-
 from .medical_validator import (
     MedicalValidationLayer,
-    ValidationResult,
     ValidationIssue,
+    ValidationResult,
     ValidationSeverity,
     validate_medical_content,
+)
+from .rag_system import (
+    EmbeddedContent,
+    MedicalRAGSystem,
+    RAGConfig,
+    SearchResult,
+    get_rag_system,
+)
+from .unified_api_client import (
+    BudgetExceededError,
+    UnifiedAPIClient,
 )
 
 __all__ = [
@@ -48,4 +50,7 @@ __all__ = [
     "ValidationIssue",
     "ValidationSeverity",
     "validate_medical_content",
+    # API Client
+    "UnifiedAPIClient",
+    "BudgetExceededError",
 ]

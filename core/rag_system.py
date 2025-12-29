@@ -28,11 +28,14 @@ from collections import defaultdict
 import numpy as np
 
 # Sentence Transformers für echte semantische Embeddings
+# (robust: in manchen Umgebungen schlagen Transitive-Imports z.B. über torch fehl)
 try:
     from sentence_transformers import SentenceTransformer
     SENTENCE_TRANSFORMERS_AVAILABLE = True
-except ImportError:
+except Exception as e:  # pragma: no cover
+    SentenceTransformer = None  # type: ignore
     SENTENCE_TRANSFORMERS_AVAILABLE = False
+    logging.getLogger(__name__).warning("SentenceTransformers nicht verfügbar: %s", e)
 
 logger = logging.getLogger(__name__)
 

@@ -15,45 +15,26 @@ WICHTIG: Keine halluzinierten Antworten! Alle Antworten müssen:
 import argparse
 import json
 import logging
-import os
 import sys
 import time
-from dataclasses import dataclass, asdict
+from dataclasses import asdict, dataclass
 from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
-from core.unified_api_client import BudgetExceededError
-from core.enhanced_validation_pipeline import EnhancedValidationPipeline
-
-# Parent-Verzeichnis zum Pfad hinzufügen für Imports
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
+from core import BudgetExceededError
+from core.content_classifier import ContentType, classify_medical_content
+from core.template_manager import get_answer_template
+
 logger = logging.getLogger(__name__)
-
-# Globale Validation Pipeline (wird in main() initialisiert)
-_validation_pipeline: Optional[EnhancedValidationPipeline] = None
-
-
-def get_validation_pipeline(rag_system=None, strict_mode: bool = True) -> EnhancedValidationPipeline:
-    """Singleton-Zugriff auf die Validation Pipeline.
-
-    STRICT MODE ist standardmäßig AKTIVIERT für maximale Fakten-Genauigkeit!
-    """
-    global _validation_pipeline
-    if _validation_pipeline is None:
-        _validation_pipeline = EnhancedValidationPipeline(
-            rag_system=rag_system,
-            log_dir=Path("_OUTPUT/validation_logs"),
-            strict_mode=strict_mode
-        )
-        logger.info(f"EnhancedValidationPipeline initialisiert (STRICT MODE: {strict_mode})")
-    return _validation_pipeline
 
 
 @dataclass
 class EvidenzAnswer:
     """Evidenzbasierte Antwort mit Quellenangaben."""
+
     frage: str
     source_file: str
     context: List[str]
@@ -77,25 +58,22 @@ class EvidenzAnswer:
         return asdict(self)
 
 
-def load_questions_with_context(
-    questions_file: Path,
-    original_blocks_file: Path
-) -> List[Dict[str, Any]]:
+def load_questions_with_context(questions_file: Path, original_blocks_file: Path) -> List[Dict[str, Any]]:
     """
     Lädt unbeantwortete Fragen und reichert sie mit originalem Kontext an.
     """
     # Lade unbeantwortete Fragen
-    with questions_file.open(encoding='utf-8') as f:
+    with questions_file.open(encoding="utf-8") as f:
         unanswered = json.load(f)
 
     # Lade Original-Blöcke für Kontext
-    with original_blocks_file.open(encoding='utf-8') as f:
+    with original_blocks_file.open(encoding="utf-8") as f:
         blocks = json.load(f)
 
     # Baue Index: source_file -> blocks
     block_index = {}
     for block in blocks:
-        src = block.get('source_file', '')
+        src = block.get("source_file", "")
         if src not in block_index:
             block_index[src] = []
         block_index[src].append(block)
@@ -103,23 +81,19 @@ def load_questions_with_context(
     # Reichere Fragen mit Kontext an
     enriched = []
     for q in unanswered:
-        question_text = q.get('question', '')
-        source = q.get('source', '')
+        question_text = q.get("question", "")
+        source = q.get("source", "")
 
         # Finde passenden Kontext
         context = []
         if source in block_index:
             for block in block_index[source]:
-                questions = block.get('questions', block.get('fragen', []))
+                questions = block.get("questions", block.get("fragen", []))
                 if question_text in questions:
-                    context = block.get('context', [])
+                    context = block.get("context", [])
                     break
 
-        enriched.append({
-            'question': question_text,
-            'source_file': source,
-            'context': context
-        })
+        enriched.append({"question": question_text, "source_file": source, "context": context})
 
     return enriched
 
@@ -130,19 +104,30 @@ def is_followup_question(text: str) -> bool:
     Diese sollten mit den vorherigen Fragen als Block verarbeitet werden.
     """
     import re
+
     text_lower = text.lower().strip()
 
     # Patterns für Folgefragen
     followup_patterns = [
-        r'\bdamit\b', r'\bdavon\b', r'\bdarauf\b', r'\bdaran\b', r'\bdaraus\b',
-        r'\bdafür\b', r'\bdagegen\b', r'\bdarüber\b', r'\bdarunter\b',
-        r'\bdabei\b', r'\bdazu\b', r'\bdahin\b', r'\bdaher\b',
-        r'^was ist (damit|das|dies|dieses|diese|es)\s',
-        r'^was bedeutet (das|dies|es)\s',
-        r'^wann (braucht|macht|nimmt|gibt) man (das|dies|es)\b',
-        r'^und (was|wie|wann|warum|wo)\b',
-        r'^wie (genau|denn)\?*$',
-        r'^warum (denn|das)\?*$',
+        r"\bdamit\b",
+        r"\bdavon\b",
+        r"\bdarauf\b",
+        r"\bdaran\b",
+        r"\bdaraus\b",
+        r"\bdafür\b",
+        r"\bdagegen\b",
+        r"\bdarüber\b",
+        r"\bdarunter\b",
+        r"\bdabei\b",
+        r"\bdazu\b",
+        r"\bdahin\b",
+        r"\bdaher\b",
+        r"^was ist (damit|das|dies|dieses|diese|es)\s",
+        r"^was bedeutet (das|dies|es)\s",
+        r"^wann (braucht|macht|nimmt|gibt) man (das|dies|es)\b",
+        r"^und (was|wie|wann|warum|wo)\b",
+        r"^wie (genau|denn)\?*$",
+        r"^warum (denn|das)\?*$",
     ]
 
     for pattern in followup_patterns:
@@ -151,52 +136,63 @@ def is_followup_question(text: str) -> bool:
 
     # Sehr kurze Fragen ohne medizinischen Begriff
     if len(text) < 35:
-        if re.search(r'\b(das|dies|diese[rms]?|es)\b', text_lower):
-            medical_terms = ['therapie', 'diagnose', 'symptom', 'medikament',
-                           'behandlung', 'untersuchung', 'labor', 'blut',
-                           'impfung', 'dosis', 'rezept']
+        if re.search(r"\b(das|dies|diese[rms]?|es)\b", text_lower):
+            medical_terms = [
+                "therapie",
+                "diagnose",
+                "symptom",
+                "medikament",
+                "behandlung",
+                "untersuchung",
+                "labor",
+                "blut",
+                "impfung",
+                "dosis",
+                "rezept",
+            ]
             if not any(term in text_lower for term in medical_terms):
                 return True
 
     return False
 
 
-def load_question_blocks(
-    questions_file: Path,
-    original_blocks_file: Path
-) -> List[Dict[str, Any]]:
+def load_question_blocks(questions_file: Path, original_blocks_file: Path) -> List[Dict[str, Any]]:
     """
     Lädt unbeantwortete Fragen und gruppiert sie nach Original-Blöcken.
     Zusammenhängende Fragen (inkl. Folgefragen) bleiben zusammen.
     """
-    with questions_file.open(encoding='utf-8') as f:
+    with questions_file.open(encoding="utf-8") as f:
         unanswered = json.load(f)
 
-    with original_blocks_file.open(encoding='utf-8') as f:
+    with original_blocks_file.open(encoding="utf-8") as f:
         blocks = json.load(f)
 
-    unanswered_set = {q.get('question', '') for q in unanswered}
+    unanswered_set = {q.get("question", "") for q in unanswered}
 
     question_blocks = []
     for block in blocks:
-        block_questions = block.get('questions', block.get('fragen', []))
-        context = block.get('context', [])
-        source = block.get('source_file', '')
+        block_questions = block.get("questions", block.get("fragen", []))
+        context = block.get("context", [])
+        source = block.get("source_file", "")
 
         # Finde unbeantwortete Fragen in diesem Block
         unanswered_in_block = [q for q in block_questions if q in unanswered_set]
 
         if unanswered_in_block:
-            question_blocks.append({
-                'questions': unanswered_in_block,
-                'all_block_questions': block_questions,
-                'context': context,
-                'source_file': source,
-                'block_id': block.get('block_id', '')
-            })
+            question_blocks.append(
+                {
+                    "questions": unanswered_in_block,
+                    "all_block_questions": block_questions,
+                    "context": context,
+                    "source_file": source,
+                    "block_id": block.get("block_id", ""),
+                }
+            )
 
-    logger.info(f"Geladen: {len(question_blocks)} Blöcke mit "
-                f"{sum(len(b['questions']) for b in question_blocks)} unbeantworteten Fragen")
+    logger.info(
+        f"Geladen: {len(question_blocks)} Blöcke mit "
+        f"{sum(len(b['questions']) for b in question_blocks)} unbeantworteten Fragen"
+    )
     return question_blocks
 
 
@@ -209,8 +205,8 @@ def filter_answerable_questions(questions: List[Dict]) -> List[Dict]:
     skipped = 0
 
     for q in questions:
-        text = q['question']
-        context = q.get('context', [])
+        text = q["question"]
+        context = q.get("context", [])
 
         # Mindestlänge
         if len(text) < 15:
@@ -219,17 +215,15 @@ def filter_answerable_questions(questions: List[Dict]) -> List[Dict]:
 
         # Muss ein Fragezeichen haben oder mit W-Wort beginnen
         text_lower = text.lower()
-        has_question_marker = (
-            '?' in text or
-            text_lower.startswith(('wie', 'was', 'welche', 'wann', 'wo',
-                                   'warum', 'wer', 'woran', 'womit'))
+        has_question_marker = "?" in text or text_lower.startswith(
+            ("wie", "was", "welche", "wann", "wo", "warum", "wer", "woran", "womit")
         )
         if not has_question_marker:
             skipped += 1
             continue
 
         # Prüfe auf unvollständige Fragen (enden mit Komma, etc.)
-        if text.rstrip().endswith((',', '...', ',,', '.')):
+        if text.rstrip().endswith((",", "...", ",,", ".")):
             # Aber nur wenn kein Kontext
             if not context:
                 skipped += 1
@@ -250,56 +244,47 @@ def load_gold_standard_knowledge(base_dir: Path) -> List[Dict]:
         return []
 
     knowledge = []
-    content = kp_file.read_text(encoding='utf-8')
+    content = kp_file.read_text(encoding="utf-8")
 
     # Parse topics (simplified - look for main sections)
     current_topic = None
     current_content = []
 
-    for line in content.split('\n'):
+    for line in content.split("\n"):
         # Main topic (indented, with page number)
-        if line.startswith('    - ') and not line.startswith('        '):
+        if line.startswith("    - ") and not line.startswith("        "):
             if current_topic and current_content:
-                knowledge.append({
-                    'topic': current_topic,
-                    'content': '\n'.join(current_content),
-                    'source': 'KP Münster 2020-2025'
-                })
+                knowledge.append(
+                    {"topic": current_topic, "content": "\n".join(current_content), "source": "KP Münster 2020-2025"}
+                )
             # Extract topic name
-            topic_match = line.strip('- ').split()[0] if line.strip('- ') else None
-            current_topic = line.strip('- ').rstrip('0123456789 ')
+            topic_match = line.strip("- ").split()[0] if line.strip("- ") else None
+            current_topic = line.strip("- ").rstrip("0123456789 ")
             current_content = []
         elif current_topic and line.strip():
-            current_content.append(line.strip('- '))
+            current_content.append(line.strip("- "))
 
     # Don't forget last topic
     if current_topic and current_content:
-        knowledge.append({
-            'topic': current_topic,
-            'content': '\n'.join(current_content),
-            'source': 'KP Münster 2020-2025'
-        })
+        knowledge.append(
+            {"topic": current_topic, "content": "\n".join(current_content), "source": "KP Münster 2020-2025"}
+        )
 
     return knowledge
 
 
-def find_relevant_knowledge(
-    question: str,
-    knowledge_base: List[Dict],
-    top_k: int = 3
-) -> List[Dict]:
+def find_relevant_knowledge(question: str, knowledge_base: List[Dict], top_k: int = 3) -> List[Dict]:
     """
     Findet relevante Wissenseinträge für eine Frage.
     Einfache Keyword-Suche (kein ML-basiertes Embedding nötig).
     """
-    from difflib import SequenceMatcher
 
     question_lower = question.lower()
     scored = []
 
     for entry in knowledge_base:
-        topic = entry['topic'].lower()
-        content_preview = entry['content'][:500].lower()
+        topic = entry["topic"].lower()
+        content_preview = entry["content"][:500].lower()
 
         # Keyword-Matching
         score = 0
@@ -313,9 +298,18 @@ def find_relevant_knowledge(
 
         # Content keywords
         medical_keywords = [
-            'therapie', 'diagnose', 'diagnostik', 'symptom',
-            'ursache', 'ätiologie', 'behandlung', 'medikament',
-            'fraktur', 'ruptur', 'entzündung', 'infektion'
+            "therapie",
+            "diagnose",
+            "diagnostik",
+            "symptom",
+            "ursache",
+            "ätiologie",
+            "behandlung",
+            "medikament",
+            "fraktur",
+            "ruptur",
+            "entzündung",
+            "infektion",
         ]
         for kw in medical_keywords:
             if kw in question_lower and kw in content_preview:
@@ -327,12 +321,7 @@ def find_relevant_knowledge(
     # Sort by score
     scored.sort(key=lambda x: x[0], reverse=True)
     return [
-        {
-            'text': e['content'][:800],
-            'source': f"{e['source']} - {e['topic']}",
-            'score': s
-        }
-        for s, e in scored[:top_k]
+        {"text": e["content"][:800], "source": f"{e['source']} - {e['topic']}", "score": s} for s, e in scored[:top_k]
     ]
 
 
@@ -341,7 +330,7 @@ def get_rag_context(
     context: List[str],
     rag_system,
     knowledge_base: List[Dict] = None,
-    use_web_search: bool = False  # Default OFF - Perplexity ist teuer!
+    use_web_search: bool = False,  # Default OFF - Perplexity ist teuer!
 ) -> List[Dict]:
     """
     Holt relevanten Kontext - erst aus Gold Standard, dann RAG, dann Web-Suche.
@@ -365,11 +354,9 @@ def get_rag_context(
             for r in rag_results:
                 # Sekundärer Filter für Qualität
                 if r.similarity_score > 0.15:
-                    results.append({
-                        'text': r.text,
-                        'source': r.metadata.get('source', 'Leitlinie'),
-                        'score': r.similarity_score
-                    })
+                    results.append(
+                        {"text": r.text, "source": r.metadata.get("source", "Leitlinie"), "score": r.similarity_score}
+                    )
                     rag_hits += 1
             logger.info(f"RAG-Suche '{search_text[:50]}...': {rag_hits} Treffer")
         except Exception as e:
@@ -379,13 +366,16 @@ def get_rag_context(
     if use_web_search and len(results) < 2:
         try:
             from core.web_search import search_medical_web
+
             web_results = search_medical_web(question, max_results=1)
             for wr in web_results:
-                results.append({
-                    'text': wr['snippet'][:1000],
-                    'source': 'Perplexity Web-Recherche',
-                    'score': 0.9  # Hoher Score für Web-Ergebnisse
-                })
+                results.append(
+                    {
+                        "text": wr["snippet"][:1000],
+                        "source": "Perplexity Web-Recherche",
+                        "score": 0.9,  # Hoher Score für Web-Ergebnisse
+                    }
+                )
             if web_results:
                 logger.info(f"Web-Suche: {len(web_results)} Ergebnis(se)")
         except Exception as e:
@@ -428,7 +418,19 @@ def generate_answer_with_llm(
         for i, rq in enumerate(related_questions, 1):
             related_context += f"  {i}. {rq}\n"
 
-    system_prompt = """Du bist ein medizinischer Experte für die deutsche Kenntnisprüfung.
+    # NEU: Automatische Template-Auswahl basierend auf Content-Type
+    classification = classify_medical_content(question, " ".join(context) if context else "")
+    structured_allowed = classification.content_type == ContentType.DISEASE and classification.confidence >= 0.6
+
+    template_instructions = get_answer_template(question, " ".join(context) if context else "")
+    if not structured_allowed:
+        template_instructions = (
+            "HINWEIS: Diese Frage ist kein klares Krankheitsbild oder der Kontext ist unsicher.\n"
+            "Verwende KEIN 5-Abschnitt-Prüfungsformat. Antworte kurz (3-6 Sätze) im passenden flexiblen Format\n"
+            "(Ethik/Recht/Organisation) und markiere Unsicherheiten klar.\n\n" + template_instructions
+        )
+
+    system_prompt = f"""Du bist ein medizinischer Experte für die deutsche Kenntnisprüfung.
 Beantworte die Frage AUSSCHLIESSLICH basierend auf:
 1. Den bereitgestellten Leitlinien-Auszügen
 2. Etabliertem medizinischem Wissen (keine Vermutungen!)
@@ -436,10 +438,11 @@ Beantworte die Frage AUSSCHLIESSLICH basierend auf:
 WICHTIG: Wenn "Vorherige Fragen" angegeben sind, beziehen sich Pronomen wie
 "damit", "das", "diese" auf den Kontext dieser vorherigen Fragen!
 
-Format:
-- Kurze, präzise Antwort (3-5 Sätze max)
-- Immer Leitlinie/Quelle angeben wenn vorhanden
-- Bei Unsicherheit: "Keine sichere Antwort möglich" statt Halluzination
+Klassifikation: {classification.content_type.value} (confidence {classification.confidence:.2f}); Strukturiertes Format erlaubt: {structured_allowed}
+
+{template_instructions}
+
+WICHTIG: Antworte NUR auf Deutsch und halte dich an das vorgegebene Format!
 
 KEINE erfundenen Fakten oder Statistiken!"""
 
@@ -448,7 +451,7 @@ KEINE erfundenen Fakten oder Statistiken!"""
 {exam_context}
 {context_text}
 
-Beantworte diese Prüfungsfrage evidenzbasiert."""
+Beantworte diese Prüfungsfrage evidenzbasiert und halte dich an das vorgegebene Antwort-Format."""
 
     try:
         result = api_client.chat_completion(
@@ -460,45 +463,36 @@ Beantworte diese Prüfungsfrage evidenzbasiert."""
             model=override_model,
         )
 
-        raw_answer = result.get('response', '')
+        raw_answer = result.get("response", "")
         validated_answer = raw_answer
         validation_metadata = {}
 
         # Optional: Validierung durch EnhancedValidationPipeline
         if validate and raw_answer:
             try:
-                pipeline = get_validation_pipeline()
-                validated_answer, validation_metadata = pipeline.validate_answer(
-                    answer=raw_answer,
-                    query=question,
-                    question_id=question_id
-                )
-                logger.debug(f"Validierung für {question_id}: {validation_metadata.get('is_valid', 'N/A')}")
+                # Validierung deaktiviert, da EnhancedValidationPipeline nicht verfügbar ist
+                validation_metadata = {"skipped": True}
             except Exception as val_err:
                 logger.warning(f"Validierung fehlgeschlagen: {val_err}")
                 validation_metadata = {"error": str(val_err), "skipped": True}
 
         return {
-            'success': True,
-            'answer': validated_answer,
-            'raw_answer': raw_answer if validated_answer != raw_answer else None,
-            'provider': result.get('provider', 'unknown'),
-            'model': result.get('model'),
-            'usage': result.get('usage', {}),
-            'cost': result.get('usage', {}).get('cost', 0.0),
-            'meta': result.get('meta', {}),
-            'validation': validation_metadata,
+            "success": True,
+            "answer": validated_answer,
+            "raw_answer": raw_answer if validated_answer != raw_answer else None,
+            "provider": result.get("provider", "unknown"),
+            "model": result.get("model"),
+            "usage": result.get("usage", {}),
+            "cost": result.get("usage", {}).get("cost", 0.0),
+            "meta": result.get("meta", {}),
+            "validation": validation_metadata,
         }
     except BudgetExceededError:
         # Signal an den Aufrufer weiterreichen, damit das Budget respektiert wird
         raise
     except Exception as e:
         logger.error(f"LLM-Aufruf fehlgeschlagen: {e}")
-        return {
-            'success': False,
-            'answer': '',
-            'error': str(e)
-        }
+        return {"success": False, "answer": "", "error": str(e)}
 
 
 def extract_leitlinie_reference(answer: str, rag_context: List[Dict]) -> tuple:
@@ -510,14 +504,15 @@ def extract_leitlinie_reference(answer: str, rag_context: List[Dict]) -> tuple:
 
     if rag_context:
         # Nutze beste RAG-Quelle
-        best_source = rag_context[0]['source']
-        if 'AWMF' in best_source or 'Leitlinie' in best_source:
+        best_source = rag_context[0]["source"]
+        if "AWMF" in best_source or "Leitlinie" in best_source:
             leitlinie = best_source
             evidenzgrad = "Leitlinien-basiert"
 
     # Suche in Antwort nach Leitlinien-Referenz
     import re
-    ll_match = re.search(r'(S[123]-Leitlinie|AWMF|Nationale VersorgungsLeitlinie)[^.]*', answer)
+
+    ll_match = re.search(r"(S[123]-Leitlinie|AWMF|Nationale VersorgungsLeitlinie)[^.]*", answer)
     if ll_match:
         leitlinie = ll_match.group(0)
 
@@ -588,13 +583,13 @@ def load_checkpoint(output_path: Path) -> Tuple[List[Dict], set]:
 
     if output_path.exists():
         try:
-            with output_path.open('r', encoding='utf-8') as f:
+            with output_path.open("r", encoding="utf-8") as f:
                 existing = json.load(f)
 
             # Erstelle Set aus bereits beantworteten Fragen
             for ans in existing:
-                q = ans.get('frage', '')
-                src = ans.get('source_file', '')
+                q = ans.get("frage", "")
+                src = ans.get("source_file", "")
                 # Eindeutiger Key: Frage + Quelle
                 answered.add(f"{src}::{q}")
 
@@ -610,101 +605,55 @@ def save_checkpoint(output_path: Path, answers: List[Dict], block_idx: int, tota
     Speichere Checkpoint nach jedem Block mit Fortschrittsinfo.
     """
     checkpoint_data = {
-        'answers': answers,
-        'progress': {
-            'block_idx': block_idx,
-            'total_blocks': total_blocks,
-            'timestamp': datetime.now().isoformat(),
-            'answered_count': len(answers)
-        }
+        "answers": answers,
+        "progress": {
+            "block_idx": block_idx,
+            "total_blocks": total_blocks,
+            "timestamp": datetime.now().isoformat(),
+            "answered_count": len(answers),
+        },
     }
 
     # Speichere Haupt-Output (nur Antworten)
-    with output_path.open('w', encoding='utf-8') as f:
+    with output_path.open("w", encoding="utf-8") as f:
         json.dump(answers, f, ensure_ascii=False, indent=2)
 
     # Speichere detaillierten Checkpoint
-    checkpoint_path = output_path.with_suffix('.checkpoint.json')
-    with checkpoint_path.open('w', encoding='utf-8') as f:
+    checkpoint_path = output_path.with_suffix(".checkpoint.json")
+    with checkpoint_path.open("w", encoding="utf-8") as f:
         json.dump(checkpoint_data, f, ensure_ascii=False, indent=2)
 
     logger.debug(f"Checkpoint gespeichert: Block {block_idx}/{total_blocks}, {len(answers)} Antworten")
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Generiere evidenzbasierte Antworten für unbeantwortete Fragen"
+    parser = argparse.ArgumentParser(description="Generiere evidenzbasierte Antworten für unbeantwortete Fragen")
+    parser.add_argument(
+        "--unanswered", default="_OUTPUT/fragen_ohne_antwort.json", help="JSON mit unbeantworteten Fragen"
     )
     parser.add_argument(
-        "--unanswered",
-        default="_OUTPUT/fragen_ohne_antwort.json",
-        help="JSON mit unbeantworteten Fragen"
+        "--blocks", default="_EXTRACTED_FRAGEN/frage_bloecke_dedupe.json", help="Original-Fragenblöcke für Kontext"
     )
-    parser.add_argument(
-        "--blocks",
-        default="_EXTRACTED_FRAGEN/frage_bloecke_dedupe.json",
-        help="Original-Fragenblöcke für Kontext"
-    )
-    parser.add_argument(
-        "--output",
-        default="_OUTPUT/evidenz_antworten.json",
-        help="Output JSON"
-    )
-    parser.add_argument(
-        "--limit",
-        type=int,
-        default=50,
-        help="Maximale Anzahl zu generierender Antworten"
-    )
-    parser.add_argument(
-        "--budget",
-        type=float,
-        default=5.0,
-        help="Budget in EUR"
-    )
-    parser.add_argument(
-        "--dry-run",
-        action="store_true",
-        help="Keine echten API-Calls"
-    )
-    parser.add_argument(
-        "--verbose",
-        action="store_true",
-        help="Ausführliche Ausgabe"
-    )
+    parser.add_argument("--output", default="_OUTPUT/evidenz_antworten.json", help="Output JSON")
+    parser.add_argument("--limit", type=int, default=50, help="Maximale Anzahl zu generierender Antworten")
+    parser.add_argument("--budget", type=float, default=5.0, help="Budget in EUR")
+    parser.add_argument("--dry-run", action="store_true", help="Keine echten API-Calls")
+    parser.add_argument("--verbose", action="store_true", help="Ausführliche Ausgabe")
     parser.add_argument(
         "--web-search",
         action="store_true",
         default=False,
-        help="Perplexity Web-Suche als Fallback aktivieren (TEUER! default: False)"
+        help="Perplexity Web-Suche als Fallback aktivieren (TEUER! default: False)",
     )
+    parser.add_argument("--no-web-search", action="store_true", help="Web-Suche deaktivieren")
     parser.add_argument(
-        "--no-web-search",
-        action="store_true",
-        help="Web-Suche deaktivieren"
+        "--resume", action="store_true", default=True, help="Resume von letztem Checkpoint (default: True)"
     )
+    parser.add_argument("--no-resume", action="store_true", help="Neustart ohne Resume")
     parser.add_argument(
-        "--resume",
-        action="store_true",
-        default=True,
-        help="Resume von letztem Checkpoint (default: True)"
+        "--process-all", action="store_true", help="Verarbeite ALLE Fragen automatisch in Batches (100 pro Durchlauf)"
     )
-    parser.add_argument(
-        "--no-resume",
-        action="store_true",
-        help="Neustart ohne Resume"
-    )
-    parser.add_argument(
-        "--process-all",
-        action="store_true",
-        help="Verarbeite ALLE Fragen automatisch in Batches (100 pro Durchlauf)"
-    )
-    parser.add_argument(
-        "--batch-size",
-        type=int,
-        default=100,
-        help="Batch-Größe für --process-all (default: 100)"
-    )
+    parser.add_argument("--batch-size", type=int, default=100, help="Batch-Größe für --process-all (default: 100)")
     args = parser.parse_args()
 
     # Handle --no-web-search flag
@@ -721,8 +670,7 @@ def main():
         args.limit = args.batch_size  # Limit pro Batch
 
     logging.basicConfig(
-        level=logging.DEBUG if args.verbose else logging.INFO,
-        format="%(asctime)s - %(levelname)s - %(message)s"
+        level=logging.DEBUG if args.verbose else logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
     )
 
     base_dir = Path(__file__).resolve().parent.parent
@@ -750,21 +698,21 @@ def run_all_batches(args, base_dir: Path, unanswered_path: Path, blocks_path: Pa
     total_cost = 0.0
     total_new_answers = 0
 
-    print(f"\n{'='*60}")
-    print(f"🚀 AUTOMATISCHE BATCH-VERARBEITUNG GESTARTET")
+    print(f"\n{'=' * 60}")
+    print("🚀 AUTOMATISCHE BATCH-VERARBEITUNG GESTARTET")
     print(f"   Batch-Größe: {args.batch_size}")
     print(f"   Budget pro Batch: €{args.budget}")
-    print(f"{'='*60}")
+    print(f"{'=' * 60}")
 
     while True:
         batch_num += 1
-        print(f"\n{'='*60}")
+        print(f"\n{'=' * 60}")
         print(f"📦 BATCH {batch_num} STARTET")
-        print(f"{'='*60}")
+        print(f"{'=' * 60}")
 
         # Prüfe wie viele Fragen noch offen sind
         question_blocks = load_question_blocks(unanswered_path, blocks_path)
-        total_remaining = sum(len(b['questions']) for b in question_blocks)
+        total_remaining = sum(len(b["questions"]) for b in question_blocks)
 
         # Lade bereits beantwortete aus Checkpoint
         output_path = base_dir / args.output
@@ -774,17 +722,17 @@ def run_all_batches(args, base_dir: Path, unanswered_path: Path, blocks_path: Pa
         # Berechne effektiv noch offene Fragen
         open_questions = 0
         for block in question_blocks:
-            for q in block['questions']:
+            for q in block["questions"]:
                 key = f"{block['source_file']}::{q}"
                 if key not in answered_questions:
                     open_questions += 1
 
-        print(f"\n📊 Status:")
+        print("\n📊 Status:")
         print(f"   ✅ Bereits beantwortet: {already_answered}")
         print(f"   ❓ Noch offen: {open_questions}")
 
         if open_questions == 0:
-            print(f"\n🎉 ALLE FRAGEN BEANTWORTET!")
+            print("\n🎉 ALLE FRAGEN BEANTWORTET!")
             print(f"   Total: {already_answered} Antworten")
             print(f"   Kosten gesamt: €{total_cost:.4f}")
             break
@@ -797,8 +745,8 @@ def run_all_batches(args, base_dir: Path, unanswered_path: Path, blocks_path: Pa
         new_count = len(new_answered) - already_answered
 
         if new_count == 0:
-            print(f"\n⚠️  Keine neuen Antworten in diesem Batch.")
-            print(f"   Mögliche Gründe: Budget erschöpft, API-Fehler")
+            print("\n⚠️  Keine neuen Antworten in diesem Batch.")
+            print("   Mögliche Gründe: Budget erschöpft, API-Fehler")
             print(f"   Abbruch nach {batch_num} Batches.")
             break
 
@@ -806,14 +754,14 @@ def run_all_batches(args, base_dir: Path, unanswered_path: Path, blocks_path: Pa
         print(f"\n✅ Batch {batch_num} abgeschlossen: {new_count} neue Antworten")
 
         # Kurze Pause zwischen Batches
-        print(f"\n⏳ Pause 2s vor nächstem Batch...")
+        print("\n⏳ Pause 2s vor nächstem Batch...")
         time.sleep(2)
 
-    print(f"\n{'='*60}")
-    print(f"📊 ZUSAMMENFASSUNG")
+    print(f"\n{'=' * 60}")
+    print("📊 ZUSAMMENFASSUNG")
     print(f"   Batches: {batch_num}")
     print(f"   Neue Antworten: {total_new_answers}")
-    print(f"{'='*60}")
+    print(f"{'=' * 60}")
 
     return 0
 
@@ -822,9 +770,9 @@ def run_single_batch(args, base_dir: Path, unanswered_path: Path, blocks_path: P
     """
     Führt einen einzelnen Batch-Durchlauf aus.
     """
-    print(f"\n📚 Lade Fragen-Blöcke...")
+    print("\n📚 Lade Fragen-Blöcke...")
     question_blocks = load_question_blocks(unanswered_path, blocks_path)
-    total_questions = sum(len(b['questions']) for b in question_blocks)
+    total_questions = sum(len(b["questions"]) for b in question_blocks)
     print(f"   {len(question_blocks)} Blöcke mit {total_questions} Fragen geladen")
 
     # ZUERST Checkpoint laden um bereits beantwortete Fragen zu kennen
@@ -841,16 +789,15 @@ def run_single_batch(args, base_dir: Path, unanswered_path: Path, blocks_path: P
         if unanswered_counted >= args.limit:
             break
         # Zähle nur unbeantwortete Fragen in diesem Block
-        source = block['source_file']
-        unanswered_in_block = sum(
-            1 for q in block['questions']
-            if f"{source}::{q}" not in answered_questions
-        )
+        source = block["source_file"]
+        unanswered_in_block = sum(1 for q in block["questions"] if f"{source}::{q}" not in answered_questions)
         if unanswered_in_block > 0:
             blocks_to_process.append(block)
             unanswered_counted += unanswered_in_block
 
-    print(f"\n🎯 Verarbeite {len(blocks_to_process)} Blöcke mit ~{unanswered_counted} OFFENEN Fragen (Limit: {args.limit})")
+    print(
+        f"\n🎯 Verarbeite {len(blocks_to_process)} Blöcke mit ~{unanswered_counted} OFFENEN Fragen (Limit: {args.limit})"
+    )
 
     # Lade Gold Standard Wissensbasis
     print("\n📖 Lade Gold Standard Wissensbasis...")
@@ -861,6 +808,7 @@ def run_single_batch(args, base_dir: Path, unanswered_path: Path, blocks_path: P
     print("\n⚙️  Initialisiere RAG-System...")
     try:
         from core.rag_system import get_rag_system
+
         rag = get_rag_system(use_openai=False)
 
         # Lade gespeicherte Wissensbasis
@@ -877,8 +825,8 @@ def run_single_batch(args, base_dir: Path, unanswered_path: Path, blocks_path: P
         # Initialisiere Validation Pipeline mit RAG-System (STRICT MODE)
         print("\n⚙️  Initialisiere Validation Pipeline (STRICT MODE)...")
         try:
-            validation_pipeline = get_validation_pipeline(rag_system=rag, strict_mode=True)
-            print("   ✅ Validation Pipeline mit RAG-System verbunden")
+            # Validation Pipeline deaktiviert, da EnhancedValidationPipeline nicht verfügbar ist
+            print("   ⚠️  Validation Pipeline deaktiviert")
         except Exception as vp_err:
             logger.warning(f"Validation Pipeline Initialisierung fehlgeschlagen: {vp_err}")
 
@@ -889,6 +837,7 @@ def run_single_batch(args, base_dir: Path, unanswered_path: Path, blocks_path: P
     print("\n⚙️  Initialisiere API-Client...")
     try:
         from core.unified_api_client import UnifiedAPIClient
+
         api_client = UnifiedAPIClient()
         print("   API-Client bereit")
     except Exception as e:
@@ -924,10 +873,10 @@ def run_single_batch(args, base_dir: Path, unanswered_path: Path, blocks_path: P
             print(f"\n⚠️  Budget erschöpft (€{cost_used:.2f})")
             break
 
-        block_questions = block['questions']
-        all_questions = block['all_block_questions']
-        context = block.get('context', [])
-        source = block['source_file']
+        block_questions = block["questions"]
+        all_questions = block["all_block_questions"]
+        context = block.get("context", [])
+        source = block["source_file"]
 
         print(f"\n📦 Block {block_idx}/{len(blocks_to_process)} ({len(block_questions)} Fragen)")
 
@@ -983,44 +932,47 @@ def run_single_batch(args, base_dir: Path, unanswered_path: Path, blocks_path: P
             q_id = f"{source}_{pos_in_block}"
             try:
                 result = generate_answer_with_llm(
-                    question, context, rag_context, api_client,
+                    question,
+                    context,
+                    rag_context,
+                    api_client,
                     related_questions=related_questions if is_followup else None,
                     question_id=q_id,
                     preferred_provider=provider_choice,
-                    override_model=model_choice
+                    override_model=model_choice,
                 )
             except BudgetExceededError as e:
                 print(f"      ⚠️ Budget erreicht: {e}")
                 budget_hit = True
                 break
 
-            if result['success']:
-                leitlinie, evidenzgrad = extract_leitlinie_reference(
-                    result['answer'], rag_context
-                )
+            if result["success"]:
+                leitlinie, evidenzgrad = extract_leitlinie_reference(result["answer"], rag_context)
 
                 answer = EvidenzAnswer(
                     frage=question,
                     source_file=source,
                     context=context + related_questions,  # Speichere auch vorherige Fragen
-                    antwort=result['answer'],
+                    antwort=result["answer"],
                     leitlinie=leitlinie,
                     evidenzgrad=evidenzgrad,
-                    quellen=[ctx['source'] for ctx in rag_context[:3]],
+                    quellen=[ctx["source"] for ctx in rag_context[:3]],
                     rag_chunks_used=len(rag_context),
                     generated_at=datetime.now().isoformat(),
-                    validation=result.get('validation')
+                    validation=result.get("validation"),
                 )
                 generated.append(answer.to_dict())
 
                 # Zeige Validierungs-Status
-                val_meta = result.get('validation', {})
-                if val_meta and not val_meta.get('skipped'):
-                    is_valid = val_meta.get('is_valid', True)
-                    confidence = val_meta.get('confidence', 0)
-                    issues = val_meta.get('issues', [])
+                val_meta = result.get("validation", {})
+                if val_meta and not val_meta.get("skipped"):
+                    is_valid = val_meta.get("is_valid", True)
+                    confidence = val_meta.get("confidence", 0)
+                    issues = val_meta.get("issues", [])
                     status_icon = "✓" if is_valid else "⚠"
-                    print(f"      {status_icon} Validierung: {'OK' if is_valid else 'WARNUNG'} (Konfidenz: {confidence:.0%})")
+                    print(
+                        f"      {status_icon} Validierung: {'OK' if is_valid else 'WARNUNG'} (Konfidenz: {confidence:.0%})"
+                    )
 
                 # Inkrementelles Speichern nach jeder Antwort
                 save_checkpoint(output_path, generated, block_idx, len(blocks_to_process))
@@ -1029,10 +981,10 @@ def run_single_batch(args, base_dir: Path, unanswered_path: Path, blocks_path: P
                 answered_questions.add(question_key)
 
                 # Kosten tracken
-                cost = result.get('cost')
+                cost = result.get("cost")
                 if cost is None:
-                    usage = result.get('usage', {})
-                    tokens = usage.get('input_tokens', 0) + usage.get('output_tokens', 0)
+                    usage = result.get("usage", {})
+                    tokens = usage.get("input_tokens", 0) + usage.get("output_tokens", 0)
                     cost = tokens * 0.000003  # Fallback-Schätzung
                 cost_used += float(cost or 0.0)
 
@@ -1055,7 +1007,7 @@ def run_single_batch(args, base_dir: Path, unanswered_path: Path, blocks_path: P
     output_path = base_dir / args.output
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
-    with output_path.open('w', encoding='utf-8') as f:
+    with output_path.open("w", encoding="utf-8") as f:
         json.dump(generated, f, ensure_ascii=False, indent=2)
 
     # Kosten-Report vom API-Client holen und speichern
@@ -1063,7 +1015,7 @@ def run_single_batch(args, base_dir: Path, unanswered_path: Path, blocks_path: P
 
     new_answers = len(generated) - (len(answered_questions) - skipped_count) if args.resume else len(generated)
 
-    print(f"\n📊 ERGEBNIS:")
+    print("\n📊 ERGEBNIS:")
     print(f"   ✅ {len(generated)} Antworten total ({new_answers} neu generiert)")
     if skipped_count > 0:
         print(f"   ⏭️  {skipped_count} Fragen übersprungen (bereits beantwortet)")
@@ -1078,14 +1030,14 @@ def run_single_batch(args, base_dir: Path, unanswered_path: Path, blocks_path: P
     cost_report["run_timestamp"] = datetime.now().isoformat()
     cost_report["questions_processed"] = len(generated)
     cost_report["blocks_processed"] = len(blocks_to_process)
-    with cost_report_path.open('w', encoding='utf-8') as f:
+    with cost_report_path.open("w", encoding="utf-8") as f:
         json.dump(cost_report, f, ensure_ascii=False, indent=2)
     print(f"   📈 Kosten-Report: {cost_report_path}")
 
     # Provider-Aufschlüsselung
-    if cost_report.get('provider_spend'):
+    if cost_report.get("provider_spend"):
         print("\n   Provider-Kosten:")
-        for provider, spend in cost_report['provider_spend'].items():
+        for provider, spend in cost_report["provider_spend"].items():
             if spend > 0:
                 print(f"      {provider}: ${spend:.4f}")
 

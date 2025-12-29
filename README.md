@@ -22,6 +22,18 @@ This repository contains a Retrieval-Augmented Generation (RAG) pipeline, guidel
 - ✅ Kostenoptimiert: Nur $0.09 USD für 447 Validierungen
 - ✅ Durchschnittliche Antwortlänge: 1.486 Zeichen
 
+## 🎓 Lernmodus (Anki + Münster High-Yield)
+
+Wenn du das Repo als Brücke in die Prüfungsvorbereitung nutzt, starte hier:
+
+- `_DOCS/LEARNING/LEARNING_START_HERE.md`
+- Yield/Gaps: `_OUTPUT/yield_muenster_v2/` (insb. `gap_priority.csv`, `learning_checklist_from_gaps.txt`, `report_muenster_yield.md`)
+- Anki Import: `_OUTPUT/anki_ready_20251221_004738.tsv`
+
+Claude Prompts (Copy/Paste):
+- `_DOCS/LEARNING/PROMPT_CLAUDE_DESKTOP_ANKI_SETUP_AND_COACH.md`
+- `_DOCS/LEARNING/PROMPT_CLAUDE_CODE_ANKI_SETUP_AUTOMATION.md`
+
 ---
 
 ## Overview

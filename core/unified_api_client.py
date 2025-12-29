@@ -27,7 +27,12 @@ try:  # pragma: no cover
 except Exception:  # pragma: no cover
     format_to_exam_standard = None
 
-load_dotenv()
+try:  # pragma: no cover - environment-dependent
+    load_dotenv()
+except Exception as e:  # pragma: no cover
+    # In restriktiven Sandbox-Umgebungen kann das Lesen von `.env` fehlschlagen.
+    # Das darf den Import des Moduls nicht verhindern.
+    logging.getLogger(__name__).warning("Konnte .env nicht laden: %s", e)
 
 # --- Setup Logging ---
 logger = logging.getLogger(__name__)
@@ -424,8 +429,14 @@ class UnifiedAPIClient:
             )
         )
 
+        # MedGemma: Unterstützt sowohl Service Account (GOOGLE_APPLICATION_CREDENTIALS)
+        # als auch Application Default Credentials (ADC) mit MEDGEMMA_ENDPOINT_ID
         gcp_creds = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
-        if gcp_creds and Path(gcp_creds).exists():
+        medgemma_endpoint = os.getenv("MEDGEMMA_ENDPOINT_ID")
+        gcp_project = os.getenv("GOOGLE_CLOUD_PROJECT")
+
+        # MedGemma aktivieren wenn: (1) Service Account existiert ODER (2) Endpoint konfiguriert
+        if (gcp_creds and Path(gcp_creds).exists()) or (medgemma_endpoint and gcp_project):
             add(
                 ProviderConfig(
                     key="medgemma",
@@ -433,13 +444,13 @@ class UnifiedAPIClient:
                     type="medgemma",
                     adapter="medgemma",
                     api_key=None,
-                    base_url=None,
-                    model=os.getenv("MEDGEMMA_MODEL", "med-gemma-7b"),
+                    base_url=medgemma_endpoint,  # Speichere Endpoint-ID in base_url
+                    model=os.getenv("MEDGEMMA_MODEL", "google/medgemma-27b-it"),
                     priority=8,
                     budget=self._get_budget("MEDGEMMA_BUDGET", budgets["medgemma"]),
                     cost_per_1k_input=0.0001,
                     cost_per_1k_output=0.0004,
-                    max_tokens=4096,
+                    max_tokens=8192,  # MedGemma 27B: 8192 Output-Tokens
                 )
             )
 
@@ -801,7 +812,122 @@ class UnifiedAPIClient:
         max_tokens: int,
         temperature: float,
     ) -> ProcessingResult:
+        """
+        Verarbeitet Anfragen mit MedGemma über Vertex AI.
+
+        Unterstützt zwei Modi:
+        1. Endpoint-Modus: Wenn MEDGEMMA_ENDPOINT_ID gesetzt ist (empfohlen für deployed models)
+        2. Model-Modus: Direkte Nutzung über GenerativeModel (für Model Garden)
+        """
         logger.info("→ Verarbeite mit %s (Modell: %s)", cfg.name, cfg.model)
+
+        # Prüfe ob Endpoint-Modus (cfg.base_url enthält Endpoint-ID)
+        endpoint_id = cfg.base_url
+        if endpoint_id:
+            return self._process_with_medgemma_endpoint(
+                cfg, prompt, system_prompt, max_tokens, temperature, endpoint_id
+            )
+        else:
+            return self._process_with_medgemma_model(
+                cfg, prompt, system_prompt, max_tokens, temperature
+            )
+
+    def _process_with_medgemma_endpoint(
+        self,
+        cfg: ProviderConfig,
+        prompt: str,
+        system_prompt: Optional[str],
+        max_tokens: int,
+        temperature: float,
+        endpoint_id: str,
+    ) -> ProcessingResult:
+        """Verarbeitet Anfragen über einen deployed MedGemma Endpoint (chatCompletions Format)."""
+        try:
+            from google.cloud import aiplatform
+
+            project = os.getenv("GOOGLE_CLOUD_PROJECT", "medexamenai")
+            region = os.getenv("GOOGLE_CLOUD_REGION", "us-central1")
+
+            # Vertex AI initialisieren
+            aiplatform.init(project=project, location=region)
+
+            # Endpoint verbinden
+            endpoint = aiplatform.Endpoint(
+                endpoint_name=f"projects/{project}/locations/{region}/endpoints/{endpoint_id}"
+            )
+
+            # ChatCompletions Request Format (wie vom MedGemma Endpoint erwartet)
+            messages = []
+            if system_prompt:
+                messages.append({
+                    "role": "system",
+                    "content": [{"type": "text", "text": system_prompt}]
+                })
+            messages.append({
+                "role": "user",
+                "content": [{"type": "text", "text": prompt}]
+            })
+
+            request = {
+                "@requestFormat": "chatCompletions",
+                "messages": messages,
+                "max_tokens": max_tokens
+            }
+
+            # API-Aufruf
+            response = endpoint.predict(instances=[request])
+
+            # Response parsen
+            content = ""
+            input_tokens = 0
+            output_tokens = 0
+
+            if isinstance(response.predictions, dict):
+                choices = response.predictions.get("choices", [])
+                if choices:
+                    content = choices[0].get("message", {}).get("content", "")
+                    usage = response.predictions.get("usage", {})
+                    input_tokens = usage.get("prompt_tokens", 0)
+                    output_tokens = usage.get("completion_tokens", 0)
+
+            cost = self._calculate_cost(cfg, input_tokens, output_tokens)
+            if self.budget_monitor:
+                self.budget_monitor.track_usage(
+                    cfg.key, input_tokens, output_tokens, cost_override=cost
+                )
+            self.session_cost += cost
+
+            return ProcessingResult(
+                success=True,
+                provider=cfg.key,
+                model=cfg.model or "",
+                response_text=content,
+                input_tokens=input_tokens,
+                output_tokens=output_tokens,
+                cost=cost,
+                timestamp=datetime.now().isoformat(),
+                raw_response=response.predictions,
+            )
+
+        except Exception as e:
+            logger.error("❌ MedGemma Endpoint FEHLER: %s", e)
+            return ProcessingResult(
+                success=False,
+                provider=cfg.key,
+                model=cfg.model or "",
+                response_text="",
+                error=str(e),
+            )
+
+    def _process_with_medgemma_model(
+        self,
+        cfg: ProviderConfig,
+        prompt: str,
+        system_prompt: Optional[str],
+        max_tokens: int,
+        temperature: float,
+    ) -> ProcessingResult:
+        """Verarbeitet Anfragen direkt über GenerativeModel (Model Garden Modus)."""
         try:
             from vertexai.generative_models import GenerativeModel, Part
 
@@ -842,7 +968,7 @@ class UnifiedAPIClient:
                 raw_response=response,
             )
         except Exception as e:
-            logger.error("❌ MedGemma FEHLER: %s", e)
+            logger.error("❌ MedGemma Model FEHLER: %s", e)
             return ProcessingResult(
                 success=False,
                 provider=cfg.key,

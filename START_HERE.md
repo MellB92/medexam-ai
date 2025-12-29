@@ -170,6 +170,20 @@ python3 -c "import json; print(len(json.load(open('_OUTPUT/evidenz_antworten.jso
 
 ---
 
+## 🎓 Lernmodus (Prüfungsvorbereitung) – Start hier
+
+Wenn du jetzt vom Coding zurück in den Lernmodus wechselst, nutze diese Dateien:
+
+- `_DOCS/LEARNING/LEARNING_START_HERE.md` (1 Seite: Was du heute konkret tun sollst)
+- `_DOCS/LEARNING/ANKI_IMPORT_MAPPING.md` (TSV → Anki Import-Mapping)
+- `_DOCS/LEARNING/EDGE_READ_ALOUD.md` (Edge Vorlesen / Markdown→HTML)
+- `_DOCS/LEARNING/PROMPT_CLAUDE_DESKTOP_ANKI_SETUP_AND_COACH.md` (Claude Desktop Prompt)
+- `_DOCS/LEARNING/PROMPT_CLAUDE_CODE_ANKI_SETUP_AUTOMATION.md` (Claude Code Prompt)
+
+Empfohlener Start: **Anki Setup am Mac + Import von** `_OUTPUT/anki_ready_20251221_004738.tsv` **und danach 20 Minuten Startsession.**
+
+---
+
 ## 🎬 Erste Schritte (Copy & Paste)
 
 ### Setup

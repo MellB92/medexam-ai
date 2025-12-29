@@ -3,6 +3,104 @@
 ## Projektziel
 Medizinisches Prufungsvorbereitungssystem fur die **Kenntnisprufung** (Approbationsprufung fur auslandische arzte in Deutschland).
 
+---
+
+## 🔴 KRITISCHES PROBLEM: Fehlende offizielle Quellenangaben (Stand: 2025-12-29)
+
+### Das Hauptproblem
+
+Die Lernkarten haben zwar Antworten, aber **keine nachvollziehbaren, offiziellen Quellen**:
+
+| Deck | Karten | Mit Quelle | Mit ECHTER Leitlinie | Nur Dateiname |
+|------|--------|------------|---------------------|---------------|
+| **OK** | 691 | 691 (100%) | 107 (15.5%) | **584 (84.5%)** |
+| **NeedsReview** | 1.568 | 1.568 (100%) | 278 (17.7%) | **1.290 (82.3%)** |
+
+**Konkret:**
+- ❌ **~85% der Karten** haben nur Dateinamen als "Quelle" (z.B. `Rechtsmedizin (1).pdf`)
+- ❌ **Nur ~16%** haben echte Leitlinien-Referenzen (AWMF, S3, ESC, DGK, etc.)
+- ❌ **1.561 von 1.568 NeedsReview-Karten** (99.6%) haben `missing_context` Tag
+
+### Warum ist das kritisch?
+
+**Für die Prüfungsvorbereitung:**
+- Antworten können inhaltlich korrekt sein, aber **nicht nachschlagbar**
+- Bei Zweifel keine Möglichkeit, die Quelle zu verifizieren
+- Keine **Reproduzierbarkeit** des Wissens
+- Prüfer können nach Leitlinien fragen – "Wo steht das?"
+
+### Das Ziel
+
+**100% nachvollziehbare, reproduzierbare Prüfungsvorbereitung mit offiziellen Quellen.**
+
+**ZWEI-QUELLEN-FORMAT (Intern + Extern):**
+
+```html
+<hr>
+<b>Quellen:</b>
+• <i>Intern:</i> Rechtsmedizin (1).pdf | KP Münster 2023
+• <i>Extern:</i> AWMF S3-Leitlinie "Name" (Register-Nr. XXX-XXX)
+```
+
+- **Intern** = Ursprung (Prüfungsprotokoll) – BEIBEHALTEN
+- **Extern** = Offizielle Validierung (AWMF, S3, ESC) – NEU HINZUFÜGEN
+
+### ⚠️ WICHTIG: Alle Maßnahmen ausschöpfen vor "Keine Leitlinie"!
+
+**Diese Schritte MÜSSEN durchgeführt werden, bevor "Keine Leitlinie" gesetzt wird:**
+
+1. `_BIBLIOTHEK/Leitlinien/` durchsuchen
+2. AWMF-Register online (https://register.awmf.org)
+3. Perplexity API nutzen (Credits vorhanden!)
+4. Fachgesellschaften (DGK, DEGAM, DGIM, etc.)
+5. Sekundärquellen (Amboss, UpToDate, DocCheck)
+6. PubMed/Cochrane für Reviews
+
+**Nur wenn ALLE 6 Schritte erfolglos:** `Keine spezifische Leitlinie verfügbar [Geprüft: AWMF, DGK, Perplexity]`
+
+### Erforderliche Maßnahmen (Prioritätsreihenfolge)
+
+#### 🔴 Phase 1: Quellenanreicherung (KRITISCH)
+
+1. **Audit:** Analysiere alle Karten auf Quellenqualität
+2. **Interne Quellen beibehalten:** Dateinamen wie `Rechtsmedizin (1).pdf` NICHT entfernen!
+3. **Mapping:** Ordne Antworten passenden Leitlinien aus `_BIBLIOTHEK/Leitlinien/` zu
+4. **Externe Quellen hinzufügen:** AWMF/S3/ESC-Referenzen als zweite Quelle ergänzen
+5. **Standardformat (ZWEI QUELLEN):**
+   ```html
+   <hr><b>Quellen:</b>
+   • <i>Intern:</i> Rechtsmedizin (1).pdf | KP Münster 2023
+   • <i>Extern:</i> AWMF S3-Leitlinie "Name" (Register-Nr. XXX-XXX)
+   ```
+
+#### 🟡 Phase 2: Kontext-Reparatur (MITTEL)
+
+1. **Identifizieren:** Alle 1.561 Karten mit `missing_context`
+2. **Reparieren:** Originalkontext aus `frage_bloecke_original.json` zuordnen
+3. **Markieren:** Karten ohne Kontext klar kennzeichnen
+
+#### 🟢 Phase 3: Format-Korrektur (NIEDRIG)
+
+1. Nicht-Disease-Karten (Ethik/Recht/Organisation) im flexiblen Format regenerieren
+2. Kein 5-Abschnitt-Schema für diese Kategorien
+
+### Wichtige Regel für alle Agenten
+
+> **„Für alle Antworten: ZWEI-QUELLEN-FORMAT verwenden!**
+> 1. **Intern:** Ursprüngliche Quelle (z.B. Prüfungsprotokoll) BEIBEHALTEN
+> 2. **Extern:** Offizielle Leitlinie HINZUFÜGEN (AWMF/S3/ESC) oder ‚Keine Leitlinie verfügbar' angeben
+> 
+> **Keine Antwort ohne beide Quellenangaben abspeichern."**
+
+### Relevante Dateien für Quellenanreicherung
+
+- `_BIBLIOTHEK/Leitlinien/` – AWMF-Leitlinien nach Fachgebiet
+- `_OUTPUT/anki_all_gpt52.tsv` – OK Deck (691 Karten)
+- `_OUTPUT/anki_all_gpt52_needs_review.tsv` – NeedsReview Deck (1.568 Karten)
+- `_OUTPUT/CLAUDE_CODE_AUFTRAG_VERBESSERT_20251229.md` – Detaillierter Aktionsplan
+
+---
+
 ## Kernfunktionen
 1. **Fragen-Datenbank**: Extraktion und Deduplizierung von Prufungsfragen
 2. **Antwort-Generierung**: KI-gestutzte Antworten basierend auf Leitlinien

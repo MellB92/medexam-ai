@@ -418,7 +418,9 @@ def main():
         # Exkludiere unbrauchbare Verzeichnisse
         exclude_dirs = {
             "_unsortiert", "Input Bucket", "sprachkurs",
-            "llm_analyse", "kenntnispruefung_admin", "vorklinik"
+            "llm_analyse", "kenntnispruefung_admin", "vorklinik",
+            # Nicht in den RAG-Index aufnehmen (keine Faktenquellen)
+            "pruefungsprotokolle", "pruefungssimulation", "unsortiert_sprachlich",
         }
         if fcs_root.exists():
             for subdir in fcs_root.iterdir():

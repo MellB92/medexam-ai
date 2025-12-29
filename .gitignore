@@ -35,7 +35,6 @@ env/
 *.swp
 *.swo
 *~
-.DS_Store
 
 # Testing
 .pytest_cache/
@@ -49,13 +48,36 @@ nosetests.xml
 coverage.xml
 *.coveragerc
 
-# Outputs / Derived data (nicht versionieren)
+# Outputs / Derived data
+# ----------------------
+# Hinweis (wichtig für Coding-Agents):
+# Einige dieser Ordner sind für die Prüfungsvorbereitung *Inputs* (Yield-Reports, Anki-TSVs, Münster-Notes).
+# Wenn sie hier pauschal ignoriert werden, melden Agents oft fälschlich "Datei nicht vorhanden",
+# weil Search/Indexing git-ignorierte Pfade standardmäßig ausblendet.
+#
+# Deshalb: wir ignorieren nur echte GENERIERTE Outputs/Caches, die nicht versioniert werden sollen.
+#
+# NICHT pauschal ignorieren:
+# - _GOLD_STANDARD/ (Quellen)
+# - _BIBLIOTHEK/Leitlinien/ (Quellen)
+# - _EXTRACTED_FRAGEN/ (kann je nach Workflow als Input gelten)
+# - _PROCESSING/ (kann je nach Workflow als Input gelten)
+
+# Generierte Outputs (groß / volatil) – NICHT committen
 _OUTPUT/
+_DERIVED_CHUNKS/
+
+# Große Quellen-Bibliotheken (PDFs) – standardmäßig nicht committen
+# Manifest/Metadaten (z.B. _BIBLIOTHEK/leitlinien_manifest.json) bleiben versionierbar.
+_BIBLIOTHEK/Leitlinien/
+_GOLD_STANDARD/
 _EXTRACTED_FRAGEN/
 _PROCESSING/
-_DERIVED_CHUNKS/
+
+# External decks / large exports
+_EXTERNAL_DECKS/
+
 _LLM_ARCHIVE/
-_BIBLIOTHEK/Leitlinien/
 
 # Fact Check Sources (nur fuer Verifikation, nicht fuer Content-Generierung)
 _FACT_CHECK_SOURCES/**/*.pdf
@@ -74,8 +96,10 @@ temp_*
 # Backups (committed separately by GitHub Actions)
 # backups/  # Uncomment if you don't want backups in repo
 
-# Gold Standard (optional ausnehmen, falls Repo klein bleiben soll)
-# _GOLD_STANDARD/**/*.pdf
+# Gold Standard
+# -------------
+# Nicht mehr pauschal ignorieren, damit Agents die Quellen auffinden können.
+# Wenn du die Dateien nicht versionieren willst, ignoriere sie lokal (siehe Hinweis oben).
 
 # OS specific
 .DS_Store
@@ -102,7 +126,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-_GOLD_STANDARD/
 .embedding_cache/
 
 # Agent collaboration artifacts (lokal, nicht versionieren)
@@ -112,3 +135,20 @@ AGENT_*.md
 # Local archives / backups (nicht versionieren)
 _ARCHIVE/gold_standard_backups/
 _WISSENSBASIS/
+# External Anki decks (copyright/size)
+_EXTERNAL_DECKS/**/*.apkg
+
+# Local exports / archives / scratch (nicht versionieren)
+*.tar
+*.rem
+result.json
+
+# Duplicate workspace folders (lokal)
+Medexamenai_migration_full_20251217_204617 2/
+
+# Cursor/IDE specific
+.cursorignore
+CURSOR_AGENT_YEAR_INFERENCE_TASK.md
+
+# Chat/notes dumps
+Konversationen mit Codingagenten/

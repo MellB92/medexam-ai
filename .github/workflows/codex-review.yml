@@ -19,9 +19,9 @@ jobs:
     name: Codex Review (Dagobert)
     runs-on: ubuntu-latest
     # Run when:
-    #  - PR event, and label explicitly selects Dagobert (codex:dagobert), OR
-    #  - PR event, and iCloud secret is NOT configured (fallback to Dagobert)
-    if: ${{ github.event_name == 'pull_request' && ( contains(toJson(github.event.pull_request.labels), 'codex:dagobert') || secrets.CODEX_API_KEY_ICLOUD == '' ) }}
+    #  - PR event, and label explicitly selects Dagobert (codex:dagobert)
+    # NOTE: GitHub Expressions in job-level `if:` cannot access `secrets.*`.
+    if: ${{ github.event_name == 'pull_request' && contains(toJson(github.event.pull_request.labels), 'codex:dagobert') }}
 
     steps:
       - name: Checkout
@@ -43,38 +43,33 @@ jobs:
 
       # Option 1: Codex CLI (falls codex-cli installiert werden kann)
       - name: Codex Review via CLI
-        if: ${{ secrets.CODEX_API_KEY_DAGO != '' }}
         env:
           CODEX_API_KEY: ${{ secrets.CODEX_API_KEY_DAGO }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          if [ -z "$CODEX_API_KEY" ]; then
+            echo "No CODEX_API_KEY_DAGO provided. Skipping Codex CLI review."
+            exit 0
+          fi
+
           # Prüfe ob Codex CLI verfügbar ist
-          if command -v codex &> /dev/null || [ -n "$CODEX_API_KEY" ]; then
-            # Installiere Codex CLI falls nicht vorhanden (Beispiel - anpassen je nach tatsächlichem Paket)
-            # pip install codex-cli || npm install -g codex-cli || echo "Codex CLI nicht verfügbar, verwende API-Fallback"
-
-            # Get diff content
-            DIFF=$(git diff ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} -- '*.py' '*.js' '*.ts' '*.tsx' '*.md' '*.yaml' '*.yml' | head -c 15000)
-
-            if [ -z "$DIFF" ]; then
-              echo "No code changes to review"
-              exit 0
-            fi
-
-            # Codex CLI Review (Beispiel - anpassen je nach tatsächlichem CLI)
-            # REVIEW=$(codex review --pr ${{ github.event.pull_request.number }} --repo ${{ github.repository }} --diff "$DIFF" --api-key "$CODEX_API_KEY")
-
-            # Fallback: Verwende Codex API direkt falls CLI nicht verfügbar
-            echo "Codex CLI nicht verfügbar, verwende API-Fallback"
+          if command -v codex &> /dev/null; then
+            echo "Codex CLI detected, but CLI invocation is not implemented in this workflow."
+          else
+            echo "Codex CLI nicht verfügbar, verwende API-Fallback (separater Step)."
           fi
 
       # Option 2: Codex API Review (direkter API-Call)
       - name: Codex Review via API
-        if: ${{ secrets.CODEX_API_KEY_DAGO != '' }}
         env:
           CODEX_API_KEY: ${{ secrets.CODEX_API_KEY_DAGO }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          if [ -z "$CODEX_API_KEY" ]; then
+            echo "No CODEX_API_KEY_DAGO provided. Skipping Codex API review."
+            exit 0
+          fi
+
           # Get diff content (limit size to avoid request limits)
           DIFF=$(git diff ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} -- '*.py' '*.js' '*.ts' '*.tsx' '*.md' '*.yaml' '*.yml' | head -c 15000)
 
@@ -137,8 +132,14 @@ jobs:
           gh pr comment ${{ github.event.pull_request.number }} --body-file review_codex.md || echo "Konnte Review-Kommentar nicht posten"
 
       - name: Codex without API key (instructions)
-        if: ${{ secrets.CODEX_API_KEY_DAGO == '' }}
+        env:
+          CODEX_API_KEY: ${{ secrets.CODEX_API_KEY_DAGO }}
         run: |
+          if [ -n "$CODEX_API_KEY" ]; then
+            echo "CODEX_API_KEY_DAGO is set; nothing to do."
+            exit 0
+          fi
+
           echo "⚠️ No CODEX_API_KEY_DAGO provided."
           echo ""
           echo "Um Codex Reviews zu aktivieren:"
@@ -155,9 +156,9 @@ jobs:
     name: Codex Review (iCloud)
     runs-on: ubuntu-latest
     # Run when:
-    #  - PR event, and label explicitly selects iCloud (codex:icloud), OR
-    #  - PR event, and Dagobert secret is NOT configured (fallback to iCloud)
-    if: ${{ github.event_name == 'pull_request' && ( contains(toJson(github.event.pull_request.labels), 'codex:icloud') || secrets.CODEX_API_KEY_DAGO == '' ) }}
+    #  - PR event, and label explicitly selects iCloud (codex:icloud)
+    # NOTE: GitHub Expressions in job-level `if:` cannot access `secrets.*`.
+    if: ${{ github.event_name == 'pull_request' && contains(toJson(github.event.pull_request.labels), 'codex:icloud') }}
 
     steps:
       - name: Checkout
@@ -178,22 +179,32 @@ jobs:
           echo "files=$(cat changed_files.txt | tr '\n' ' ')" >> $GITHUB_OUTPUT
 
       - name: Codex Review via CLI
-        if: ${{ secrets.CODEX_API_KEY_ICLOUD != '' }}
         env:
           CODEX_API_KEY: ${{ secrets.CODEX_API_KEY_ICLOUD }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          if [ -z "$CODEX_API_KEY" ]; then
+            echo "No CODEX_API_KEY_ICLOUD provided. Skipping Codex CLI review."
+            exit 0
+          fi
+
           # Prüfe ob Codex CLI verfügbar ist
-          if command -v codex &> /dev/null || [ -n "$CODEX_API_KEY" ]; then
-            echo "Codex CLI nicht verfügbar, verwende API-Fallback"
+          if command -v codex &> /dev/null; then
+            echo "Codex CLI detected, but CLI invocation is not implemented in this workflow."
+          else
+            echo "Codex CLI nicht verfügbar, verwende API-Fallback (separater Step)."
           fi
 
       - name: Codex Review via API
-        if: ${{ secrets.CODEX_API_KEY_ICLOUD != '' }}
         env:
           CODEX_API_KEY: ${{ secrets.CODEX_API_KEY_ICLOUD }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          if [ -z "$CODEX_API_KEY" ]; then
+            echo "No CODEX_API_KEY_ICLOUD provided. Skipping Codex API review."
+            exit 0
+          fi
+
           # Get diff content (limit size to avoid request limits)
           DIFF=$(git diff ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} -- '*.py' '*.js' '*.ts' '*.tsx' '*.md' '*.yaml' '*.yml' | head -c 15000)
 
@@ -251,15 +262,20 @@ jobs:
           gh pr comment ${{ github.event.pull_request.number }} --body-file review_codex.md || echo "Konnte Review-Kommentar nicht posten"
 
       - name: Codex (iCloud) without API key (instructions)
-        if: ${{ secrets.CODEX_API_KEY_ICLOUD == '' }}
+        env:
+          CODEX_API_KEY: ${{ secrets.CODEX_API_KEY_ICLOUD }}
         run: |
+          if [ -n "$CODEX_API_KEY" ]; then
+            echo "CODEX_API_KEY_ICLOUD is set; nothing to do."
+            exit 0
+          fi
+
           echo "⚠️ No CODEX_API_KEY_ICLOUD provided."
           echo ""
           echo "Um Codex Reviews (iCloud Account) zu aktivieren:"
           echo "1. Erstelle einen API-Key für Codex (Account dbsnuklearmedizin@…)"
           echo "2. Füge ihn als Secret 'CODEX_API_KEY_ICLOUD' im Repository hinzu"
           echo ""
-          echo "Repository Settings > Secrets and variables > Actions > New repository secret"
 
   # ============================================
   # Codex-Triggered Actions on Issue Comments

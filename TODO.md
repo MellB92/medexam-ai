@@ -1,15 +1,31 @@
 # ✅ TODO List - MedExamAI
 
-> Aktualisierung: 2025-12-18 (Prioritäten)
-1) Höchste Priorität: 67 Problem-Items beheben (Batch-Review Run 20251216)
-   - Analyse, Korrektur (`batch_correct_with_reasoning.py --resume`), Web-Validierung (`batch_validate_with_perplexity.py --resume --retry-errors`), Finalisierung (`finalize_batch_review.py`)
-2) 79 "maybe"-Items revalidieren und dispositionieren
-3) Dokumentation aktualisieren (PROJECT_STATUS.md, TODO.md)
-4) Optional: Lern-Exports aktualisieren (`export_learning_materials.py --daily-plan`)
-5) Coverage-Check bestätigen (2.527/2.527)
+> **Aktualisierung: 2025-12-29 – KRITISCHES QUELLENPROBLEM IDENTIFIZIERT**
 
+## 🔴 HÖCHSTE PRIORITÄT: Quellenanreicherung
 
-**Letzte Aktualisierung:** 2024-12-01
+**Problem:** ~85% der Karten haben nur Dateinamen als Quelle, keine echten Leitlinien.
+
+| Aufgabe | Status | Priorität |
+|---------|--------|-----------|
+| 1. Quellenaudit durchführen | ⏳ TODO | 🔴 KRITISCH |
+| 2. Leitlinien-Mapping (`_BIBLIOTHEK/Leitlinien/`) | ⏳ TODO | 🔴 KRITISCH |
+| 3. Quellenblöcke zu allen Karten hinzufügen | ⏳ TODO | 🔴 KRITISCH |
+| 4. 1.561 `missing_context` Karten reparieren | ⏳ TODO | 🟡 MITTEL |
+| 5. Nicht-Disease-Karten im flexiblen Format regenerieren | ⏳ TODO | 🟢 NIEDRIG |
+
+**Ziel:** 100% nachvollziehbare Prüfungsvorbereitung mit offiziellen Quellen.
+
+**Details:** Siehe `_OUTPUT/CLAUDE_CODE_AUFTRAG_VERBESSERT_20251229.md`
+
+---
+
+> Aktualisierung: 2025-12-18 (Vorherige Prioritäten – größtenteils erledigt)
+- ✅ 67 Problem-Items behoben
+- ✅ Coverage-Check: 2.527/2.527 = 100%
+- ⏳ Lern-Exports mit Quellen aktualisieren
+
+**Letzte Aktualisierung:** 2025-12-29
 **Priorität:** 🔴 Hoch | 🟡 Mittel | 🟢 Niedrig
 
 ---

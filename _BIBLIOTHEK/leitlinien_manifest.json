@@ -1,366 +1,951 @@
 {
-  "generated_at": "2025-12-01T18:36:02",
-  "count": 60,
-  "items": [
+  "generated": "2025-12-23T08:29:02.488769",
+  "count": 125,
+  "files": [
     {
       "file": "Leitlinien/Allergologie/061-020_Bienengiftallergie.pdf",
-      "size_bytes": 6258987,
-      "modified": "2025-12-01T17:08:39",
-      "hash": null
+      "name": "061-020_Bienengiftallergie",
+      "size": 6258987,
+      "mtime": "2025-12-01T17:08:39.246889"
     },
     {
       "file": "Leitlinien/Allergologie/061-031_Nahrungsmittelallergie.pdf",
-      "size_bytes": 6197211,
-      "modified": "2025-12-01T17:08:52",
-      "hash": null
+      "name": "061-031_Nahrungsmittelallergie",
+      "size": 6197211,
+      "mtime": "2025-12-01T17:08:52.660681"
     },
     {
       "file": "Leitlinien/Chirurgie/073-005_Ernaehrung_Chirurgie.pdf",
-      "size_bytes": 6334654,
-      "modified": "2025-12-01T17:01:06",
-      "hash": null
+      "name": "073-005_Ernaehrung_Chirurgie",
+      "size": 6334654,
+      "mtime": "2025-12-01T17:01:06.339808"
     },
     {
       "file": "Leitlinien/Chirurgie/088-011_Appendizitis.pdf",
-      "size_bytes": 6021094,
-      "modified": "2025-12-01T17:07:57",
-      "hash": null
+      "name": "088-011_Appendizitis",
+      "size": 6021094,
+      "mtime": "2025-12-01T17:07:57.242596"
     },
     {
       "file": "Leitlinien/Diabetologie/057-013l_S3-Therapie-Typ-1-Diabetes_2023-09_1.pdf",
-      "size_bytes": 7100796,
-      "modified": "2025-12-01T18:05:26",
-      "hash": null
+      "name": "057-013l_S3-Therapie-Typ-1-Diabetes_2023-09_1",
+      "size": 7100796,
+      "mtime": "2025-12-01T18:05:26.206859"
     },
     {
       "file": "Leitlinien/Diabetologie/nvl-001_Typ-2-Diabetes.pdf",
-      "size_bytes": 5097879,
-      "modified": "2025-12-01T16:59:52",
-      "hash": null
+      "name": "nvl-001_Typ-2-Diabetes",
+      "size": 5097879,
+      "mtime": "2025-12-01T16:59:52.496531"
     },
     {
       "file": "Leitlinien/Infektiologie/020-013_Nosokomiale_Pneumonie.pdf",
-      "size_bytes": 5613201,
-      "modified": "2025-12-01T17:30:34",
-      "hash": null
+      "name": "020-013_Nosokomiale_Pneumonie",
+      "size": 5613201,
+      "mtime": "2025-12-01T17:30:34.071175"
     },
     {
       "file": "Leitlinien/Infektiologie/021-011_Hepatitis_B.pdf",
-      "size_bytes": 6557660,
-      "modified": "2025-12-01T17:30:38",
-      "hash": null
+      "name": "021-011_Hepatitis_B",
+      "size": 6557660,
+      "mtime": "2025-12-01T17:30:38.463207"
     },
     {
       "file": "Leitlinien/Infektiologie/021-012_Hepatitis_C.pdf",
-      "size_bytes": 2460493,
-      "modified": "2025-12-01T17:30:41",
-      "hash": null
+      "name": "021-012_Hepatitis_C",
+      "size": 2460493,
+      "mtime": "2025-12-01T17:30:41.622935"
     },
     {
       "file": "Leitlinien/Infektiologie/079-001_Sepsis.pdf",
-      "size_bytes": 1617860,
-      "modified": "2025-12-01T16:57:12",
-      "hash": null
+      "name": "079-001_Sepsis",
+      "size": 1617860,
+      "mtime": "2025-12-01T16:57:12.535410"
     },
     {
       "file": "Leitlinien/Infektiologie/092-001l_S3_Strategien-zur-Sicherung-rationaler-Antibiotika-Anwendung-im-Krankenhaus_2020-02-abgelaufen.pdf",
-      "size_bytes": 4184633,
-      "modified": "2025-12-01T17:48:38",
-      "hash": null
+      "name": "092-001l_S3_Strategien-zur-Sicherung-rationaler-Antibiotika-Anwendung-im-Krankenhaus_2020-02-abgelaufen",
+      "size": 4184633,
+      "mtime": "2025-12-01T17:48:38.079599"
     },
     {
       "file": "Leitlinien/Innere/021-003_Pankreatitis.pdf",
-      "size_bytes": 6673013,
-      "modified": "2025-12-01T17:31:10",
-      "hash": null
+      "name": "021-003_Pankreatitis",
+      "size": 6673013,
+      "mtime": "2025-12-01T17:31:10.603593"
     },
     {
       "file": "Leitlinien/Innere/021-013_GERD.pdf",
-      "size_bytes": 7428195,
-      "modified": "2025-12-01T17:31:17",
-      "hash": null
+      "name": "021-013_GERD",
+      "size": 7428195,
+      "mtime": "2025-12-01T17:31:17.324768"
     },
     {
       "file": "Leitlinien/Innere/021-017l_S2k_Komplikationen-der-Leberzirrhose_2023-09-abgelaufen.pdf",
-      "size_bytes": 6068407,
-      "modified": "2025-12-01T18:07:38",
-      "hash": null
+      "name": "021-017l_S2k_Komplikationen-der-Leberzirrhose_2023-09-abgelaufen",
+      "size": 6068407,
+      "mtime": "2025-12-01T18:07:38.371485"
     },
     {
       "file": "Leitlinien/Innere/053-047_Multimorbiditaet.pdf",
-      "size_bytes": 5888150,
-      "modified": "2025-12-01T17:08:17",
-      "hash": null
+      "name": "053-047_Multimorbiditaet",
+      "size": 5888150,
+      "mtime": "2025-12-01T17:08:17.332275"
     },
     {
       "file": "Leitlinien/Intensivmedizin/001-012_Analgesie_Sedierung_Intensiv.pdf",
-      "size_bytes": 7395845,
-      "modified": "2025-12-01T18:21:59",
-      "hash": null
+      "name": "001-012_Analgesie_Sedierung_Intensiv",
+      "size": 7395845,
+      "mtime": "2025-12-01T18:21:59.887230"
     },
     {
       "file": "Leitlinien/Intensivmedizin/001-015_Lagerungstherapie.pdf",
-      "size_bytes": 4954433,
-      "modified": "2025-12-01T17:01:34",
-      "hash": null
+      "name": "001-015_Lagerungstherapie",
+      "size": 4954433,
+      "mtime": "2025-12-01T17:01:34.217464"
     },
     {
       "file": "Leitlinien/Intensivmedizin/040-017l_S3_Nierenersatztherapie-Intensivmedizin_2025-06.pdf",
-      "size_bytes": 2663074,
-      "modified": "2025-12-01T18:28:09",
-      "hash": null
+      "name": "040-017l_S3_Nierenersatztherapie-Intensivmedizin_2025-06",
+      "size": 2663074,
+      "mtime": "2025-12-01T18:28:09.736968"
     },
     {
       "file": "Leitlinien/Kardiologie/019-013l_S3_Infarktbedingter_kardiogener_Schock_2019-11-abgelaufen.pdf",
-      "size_bytes": 11158913,
-      "modified": "2025-12-01T17:43:14",
-      "hash": null
+      "name": "019-013l_S3_Infarktbedingter_kardiogener_Schock_2019-11-abgelaufen",
+      "size": 11158913,
+      "mtime": "2025-12-01T17:43:14.905850"
     },
     {
       "file": "Leitlinien/Kardiologie/ESC-ACS-2023_Acute_Coronary_Syndromes.pdf",
-      "size_bytes": 3289571,
-      "modified": "2025-12-01T18:22:11",
-      "hash": null
+      "name": "ESC-ACS-2023_Acute_Coronary_Syndromes",
+      "size": 3289571,
+      "mtime": "2025-12-01T18:22:11.269935"
     },
     {
       "file": "Leitlinien/Kardiologie/ESC-AF-2024_Atrial_Fibrillation.pdf",
-      "size_bytes": 2446819,
-      "modified": "2025-12-01T18:23:40",
-      "hash": null
+      "name": "ESC-AF-2024_Atrial_Fibrillation",
+      "size": 2446819,
+      "mtime": "2025-12-01T18:23:40.630097"
     },
     {
       "file": "Leitlinien/Kardiologie/nvl-004_KHK.pdf",
-      "size_bytes": 7058964,
-      "modified": "2025-12-01T16:59:45",
-      "hash": null
+      "name": "nvl-004_KHK",
+      "size": 7058964,
+      "mtime": "2025-12-01T16:59:45.136666"
     },
     {
       "file": "Leitlinien/Kardiologie/nvl-006_Chronische_Herzinsuffizienz.pdf",
-      "size_bytes": 8838697,
-      "modified": "2025-12-01T16:56:07",
-      "hash": null
+      "name": "nvl-006_Chronische_Herzinsuffizienz",
+      "size": 8838697,
+      "mtime": "2025-12-01T16:56:07.632297"
     },
     {
       "file": "Leitlinien/Kardiologie/nvl-006_Herzinsuffizienz.pdf",
-      "size_bytes": 8838697,
-      "modified": "2025-12-01T16:59:42",
-      "hash": null
+      "name": "nvl-006_Herzinsuffizienz",
+      "size": 8838697,
+      "mtime": "2025-12-01T16:59:42.305712"
     },
     {
       "file": "Leitlinien/Kardiologie/nvl-006e_S3_Chronische_Herzinsuffizienz_2023-12.pdf",
-      "size_bytes": 6734929,
-      "modified": "2025-12-01T16:58:36",
-      "hash": null
+      "name": "nvl-006e_S3_Chronische_Herzinsuffizienz_2023-12",
+      "size": 6734929,
+      "mtime": "2025-12-01T16:58:36.818474"
     },
     {
       "file": "Leitlinien/Kardiologie/nvl-009_Arterielle_Hypertonie.pdf",
-      "size_bytes": 5730671,
-      "modified": "2025-12-01T17:30:29",
-      "hash": null
+      "name": "nvl-009_Arterielle_Hypertonie",
+      "size": 5730671,
+      "mtime": "2025-12-01T17:30:29.831256"
     },
     {
       "file": "Leitlinien/Kardiologie/nvl-009_Hypertonie.pdf",
-      "size_bytes": 5730671,
-      "modified": "2025-12-01T17:07:51",
-      "hash": null
+      "name": "nvl-009_Hypertonie",
+      "size": 5730671,
+      "mtime": "2025-12-01T17:07:51.091692"
     },
     {
       "file": "Leitlinien/Nephrologie/040-017_Nierenersatztherapie_Intensivmedizin.pdf",
-      "size_bytes": 2663074,
-      "modified": "2025-12-01T18:22:05",
-      "hash": null
+      "name": "040-017_Nierenersatztherapie_Intensivmedizin",
+      "size": 2663074,
+      "mtime": "2025-12-01T18:22:05.921893"
     },
     {
       "file": "Leitlinien/Nephrologie/053-048_Chronische_Nierenerkrankung.pdf",
-      "size_bytes": 6358608,
-      "modified": "2025-12-01T17:33:18",
-      "hash": null
+      "name": "053-048_Chronische_Nierenerkrankung",
+      "size": 6358608,
+      "mtime": "2025-12-01T17:33:18.567812"
     },
     {
       "file": "Leitlinien/Neurologie/024-018_SHT_Kinder.pdf",
-      "size_bytes": 3650325,
-      "modified": "2025-12-01T17:01:16",
-      "hash": null
+      "name": "024-018_SHT_Kinder",
+      "size": 3650325,
+      "mtime": "2025-12-01T17:01:16.755982"
     },
     {
       "file": "Leitlinien/Neurologie/030-041_Epilepsie.pdf",
-      "size_bytes": 9040069,
-      "modified": "2025-12-01T17:31:43",
-      "hash": null
+      "name": "030-041_Epilepsie",
+      "size": 9040069,
+      "mtime": "2025-12-01T17:31:43.296136"
     },
     {
       "file": "Leitlinien/Neurologie/030-057l_S1_Therapie-der-Migraeneattacke-Prophylaxe-der-Migraene_2025-11.pdf",
-      "size_bytes": 5482654,
-      "modified": "2025-12-01T18:08:59",
-      "hash": null
+      "name": "030-057l_S1_Therapie-der-Migraeneattacke-Prophylaxe-der-Migraene_2025-11",
+      "size": 5482654,
+      "mtime": "2025-12-01T18:08:59.992976"
     },
     {
       "file": "Leitlinien/Neurologie/030-089l-S2k_Ambulant-erworbene-bakterielle-Meningoenzephalitis-im-Erwachsenenalter_2023-05.pdf",
-      "size_bytes": 6477910,
-      "modified": "2025-12-01T17:47:18",
-      "hash": null
+      "name": "030-089l-S2k_Ambulant-erworbene-bakterielle-Meningoenzephalitis-im-Erwachsenenalter_2023-05",
+      "size": 6477910,
+      "mtime": "2025-12-01T17:47:18.366286"
     },
     {
-      "file": "Leitlinien/Neurologie/030-133_Schlaganfall_Sekundärprophylaxe.pdf",
-      "size_bytes": 4982731,
-      "modified": "2025-12-01T17:31:37",
-      "hash": null
+      "file": "Leitlinien/Neurologie/030-133_Schlaganfall_Sekundärprophylaxe.pdf",
+      "name": "030-133_Schlaganfall_Sekundärprophylaxe",
+      "size": 4982731,
+      "mtime": "2025-12-01T17:31:37.186105"
     },
     {
       "file": "Leitlinien/Notfallmedizin/061-025_Anaphylaxie.pdf",
-      "size_bytes": 5822290,
-      "modified": "2025-12-01T17:04:31",
-      "hash": null
+      "name": "061-025_Anaphylaxie",
+      "size": 5822290,
+      "mtime": "2025-12-01T17:04:31.780661"
     },
     {
       "file": "Leitlinien/Notfallmedizin/GRC-2021_Reanimation.pdf",
-      "size_bytes": 3710201,
-      "modified": "2025-12-01T17:33:13",
-      "hash": null
+      "name": "GRC-2021_Reanimation",
+      "size": 3710201,
+      "mtime": "2025-12-01T17:33:13.501495"
     },
     {
       "file": "Leitlinien/Onkologie/020-007OL_Lungenkarzinom.pdf",
-      "size_bytes": 8487922,
-      "modified": "2025-12-01T17:33:07",
-      "hash": null
+      "name": "020-007OL_Lungenkarzinom",
+      "size": 8487922,
+      "mtime": "2025-12-01T17:33:07.484208"
     },
     {
       "file": "Leitlinien/Onkologie/021-007OL_Kolorektales_Karzinom.pdf",
-      "size_bytes": 3607069,
-      "modified": "2025-12-01T18:21:40",
-      "hash": null
+      "name": "021-007OL_Kolorektales_Karzinom",
+      "size": 3607069,
+      "mtime": "2025-12-01T18:21:40.975222"
     },
     {
       "file": "Leitlinien/Onkologie/032-009OL_Magenkarzinom.pdf",
-      "size_bytes": 5146044,
-      "modified": "2025-12-01T18:24:01",
-      "hash": null
+      "name": "032-009OL_Magenkarzinom",
+      "size": 5146044,
+      "mtime": "2025-12-01T18:24:01.575887"
     },
     {
       "file": "Leitlinien/Onkologie/032-034OL_Endometriumkarzinom.pdf",
-      "size_bytes": 7899101,
-      "modified": "2025-12-01T17:09:32",
-      "hash": null
+      "name": "032-034OL_Endometriumkarzinom",
+      "size": 7899101,
+      "mtime": "2025-12-01T17:09:32.307117"
     },
     {
       "file": "Leitlinien/Onkologie/032-045OL_Mammakarzinom.pdf",
-      "size_bytes": 4344169,
-      "modified": "2025-12-01T17:08:07",
-      "hash": null
+      "name": "032-045OL_Mammakarzinom",
+      "size": 4344169,
+      "mtime": "2025-12-01T17:08:07.766223"
     },
     {
       "file": "Leitlinien/Orthopaedie/187-004_Knieendoprothese.pdf",
-      "size_bytes": 935554,
-      "modified": "2025-12-01T17:00:57",
-      "hash": null
+      "name": "187-004_Knieendoprothese",
+      "size": 935554,
+      "mtime": "2025-12-01T17:00:57.944627"
     },
     {
       "file": "Leitlinien/Orthopaedie/187-050_Gonarthrose.pdf",
-      "size_bytes": 2959406,
-      "modified": "2025-12-01T17:00:52",
-      "hash": null
+      "name": "187-050_Gonarthrose",
+      "size": 2959406,
+      "mtime": "2025-12-01T17:00:52.532650"
     },
     {
       "file": "Leitlinien/Orthopaedie/nvl-007_Kreuzschmerz.pdf",
-      "size_bytes": 2037340,
-      "modified": "2025-12-01T18:21:37",
-      "hash": null
+      "name": "nvl-007_Kreuzschmerz",
+      "size": 2037340,
+      "mtime": "2025-12-01T18:21:37.896675"
     },
     {
-      "file": "Leitlinien/Orthopädie/033-001l_S2k_Koxarthrose_2019-07_1-abgelaufen.pdf",
-      "size_bytes": 3609703,
-      "modified": "2025-12-01T18:09:53",
-      "hash": null
+      "file": "Leitlinien/Orthopädie/033-001l_S2k_Koxarthrose_2019-07_1-abgelaufen.pdf",
+      "name": "033-001l_S2k_Koxarthrose_2019-07_1-abgelaufen",
+      "size": 3609703,
+      "mtime": "2025-12-01T18:09:53.164324"
     },
     {
       "file": "Leitlinien/Pneumologie/020-013_Nosokomiale_Pneumonie.pdf",
-      "size_bytes": 3094513,
-      "modified": "2025-12-01T16:59:47",
-      "hash": null
+      "name": "020-013_Nosokomiale_Pneumonie",
+      "size": 3094513,
+      "mtime": "2025-12-01T16:59:47.313137"
     },
     {
       "file": "Leitlinien/Pneumologie/020-020l_S3_Behandlung-von-erwachsenen-Patienten-mit-ambulant-erworbener-Pneumonie__2021-05.pdf",
-      "size_bytes": 7306906,
-      "modified": "2025-12-01T17:45:44",
-      "hash": null
+      "name": "020-020l_S3_Behandlung-von-erwachsenen-Patienten-mit-ambulant-erworbener-Pneumonie__2021-05",
+      "size": 7306906,
+      "mtime": "2025-12-01T17:45:44.633759"
     },
     {
       "file": "Leitlinien/Pneumologie/065-002_Venenthrombose_und_Lungenembolie.pdf",
-      "size_bytes": 10835532,
-      "modified": "2025-12-01T17:31:29",
-      "hash": null
+      "name": "065-002_Venenthrombose_und_Lungenembolie",
+      "size": 10835532,
+      "mtime": "2025-12-01T17:31:29.562474"
     },
     {
       "file": "Leitlinien/Pneumologie/nvl-002_Asthma.pdf",
-      "size_bytes": 8044682,
-      "modified": "2025-12-01T17:00:02",
-      "hash": null
+      "name": "nvl-002_Asthma",
+      "size": 8044682,
+      "mtime": "2025-12-01T17:00:02.134534"
     },
     {
       "file": "Leitlinien/Pneumologie/nvl-003_COPD.pdf",
-      "size_bytes": 1364447,
-      "modified": "2025-12-01T17:07:45",
-      "hash": null
+      "name": "nvl-003_COPD",
+      "size": 1364447,
+      "mtime": "2025-12-01T17:07:45.327801"
     },
     {
       "file": "Leitlinien/Psychiatrie/nvl-005_Depression.pdf",
-      "size_bytes": 7342258,
-      "modified": "2025-12-01T17:04:24",
-      "hash": null
+      "name": "nvl-005_Depression",
+      "size": 7342258,
+      "mtime": "2025-12-01T17:04:24.259854"
     },
     {
       "file": "Leitlinien/Radiologie/ESUR_Leitlinien_für_Kontrastmittel_1578314165_6385.pdf",
-      "size_bytes": 816285,
-      "modified": "2025-12-01T18:29:08",
-      "hash": null
+      "name": "ESUR_Leitlinien_für_Kontrastmittel_1578314165_6385",
+      "size": 816285,
+      "mtime": "2025-12-01T18:29:08.045587"
     },
     {
       "file": "Leitlinien/Schmerztherapie/008-023_Rueckenmarkstimulation.pdf",
-      "size_bytes": 3237004,
-      "modified": "2025-12-01T17:02:56",
-      "hash": null
+      "name": "008-023_Rueckenmarkstimulation",
+      "size": 3237004,
+      "mtime": "2025-12-01T17:02:56.666569"
     },
     {
       "file": "Leitlinien/Unfallchirurgie/012-015l_S2e_Distale_Radiusfraktur_2021-11_02.pdf",
-      "size_bytes": 6851946,
-      "modified": "2025-12-01T17:57:54",
-      "hash": null
+      "name": "012-015l_S2e_Distale_Radiusfraktur_2021-11_02",
+      "size": 6851946,
+      "mtime": "2025-12-01T17:57:54.542861"
     },
     {
       "file": "Leitlinien/Unfallchirurgie/040-014_Intensivmedizin_Polytrauma.pdf",
-      "size_bytes": 2669460,
-      "modified": "2025-12-01T17:01:14",
-      "hash": null
+      "name": "040-014_Intensivmedizin_Polytrauma",
+      "size": 2669460,
+      "mtime": "2025-12-01T17:01:14.959565"
     },
     {
       "file": "Leitlinien/Unfallchirurgie/187-023l_S3_Polytrauma-Schwerverletzten-Behandlung_2023-06.pdf",
-      "size_bytes": 4835135,
-      "modified": "2025-12-01T17:51:45",
-      "hash": null
+      "name": "187-023l_S3_Polytrauma-Schwerverletzten-Behandlung_2023-06",
+      "size": 4835135,
+      "mtime": "2025-12-01T17:51:45.143014"
     },
     {
       "file": "Leitlinien/Urologie/043-022OL_Prostatakarzinom.pdf",
-      "size_bytes": 10965068,
-      "modified": "2025-12-01T17:31:57",
-      "hash": null
+      "name": "043-022OL_Prostatakarzinom",
+      "size": 10965068,
+      "mtime": "2025-12-01T17:31:57.501928"
     },
     {
       "file": "Leitlinien/Urologie/043-025_Urolithiasis.pdf",
-      "size_bytes": 3969362,
-      "modified": "2025-12-01T17:32:20",
-      "hash": null
+      "name": "043-025_Urolithiasis",
+      "size": 3969362,
+      "mtime": "2025-12-01T17:32:20.243201"
     },
     {
       "file": "Leitlinien/Urologie/043-044_Harnwegsinfektionen.pdf",
-      "size_bytes": 8792291,
-      "modified": "2025-12-01T17:32:10",
-      "hash": null
+      "name": "043-044_Harnwegsinfektionen",
+      "size": 8792291,
+      "mtime": "2025-12-01T17:32:10.506355"
     },
     {
       "file": "Leitlinien/nvl-006l_S3_Chronische_Herzinsuffizienz_2023-12.pdf",
-      "size_bytes": 8838697,
-      "modified": "2025-12-01T16:54:35",
-      "hash": null
+      "name": "nvl-006l_S3_Chronische_Herzinsuffizienz_2023-12",
+      "size": 8838697,
+      "mtime": "2025-12-01T16:54:35.539901"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Gynäkologie/015-045_Diagnostik_und_Therapie_der_Endometriose.pdf",
+      "name": "015-045_Diagnostik_und_Therapie_der_Endometriose",
+      "size": 5594037,
+      "mtime": "2025-12-23T08:16:12.356608",
+      "source": "perplexity",
+      "awmf_number": "015-045",
+      "search_ref": "AWMF 015-045_S2k_Endometriose_2020"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Sonstige/AWMF_AWMF-Regelwerk_Leitlinien_54a1f2.pdf",
+      "name": "AWMF_AWMF-Regelwerk_Leitlinien_54a1f2",
+      "size": 12071722,
+      "mtime": "2025-12-23T08:16:19.049332",
+      "source": "perplexity",
+      "awmf_number": null,
+      "search_ref": "AWMF-Regelwerk Leitlinienentwicklung, 2023"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Neurologie/030-087_Ambulant_erworbene_bakterielle_Meningoenzephalitis.pdf",
+      "name": "030-087_Ambulant_erworbene_bakterielle_Meningoenzephalitis",
+      "size": 6477910,
+      "mtime": "2025-12-23T08:16:25.648256",
+      "source": "perplexity",
+      "awmf_number": "030-089",
+      "search_ref": "030-087_Bakterielle_Meningitis_2022"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Sonstige/182-001_Querschnitts-Leitlinie_Hämotherapie_Richtlinie_zur.pdf",
+      "name": "182-001_Querschnitts-Leitlinie_Hämotherapie_Richtlinie_zur",
+      "size": 1366549,
+      "mtime": "2025-12-23T08:16:33.231943",
+      "source": "perplexity",
+      "awmf_number": "182-001",
+      "search_ref": "AWMF 182-001 Querschnitts-Leitlinie Hämotherapie (2023)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Sonstige/187-001_S3-Leitlinie_Evidenz-_und_konsensbasierte_Indikati.pdf",
+      "name": "187-001_S3-Leitlinie_Evidenz-_und_konsensbasierte_Indikati",
+      "size": 1878094,
+      "mtime": "2025-12-23T08:16:38.134566",
+      "source": "perplexity",
+      "awmf_number": "187-001",
+      "search_ref": "S2k-Leitlinie Hüfttotalendoprothese (AWMF 187-001, 2022)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Chirurgie/AWMF_S3-Leitlinie_Polytrauma_Schwerverletzten-Behandlu_2eebf5.pdf",
+      "name": "AWMF_S3-Leitlinie_Polytrauma_Schwerverletzten-Behandlu_2eebf5",
+      "size": 2289746,
+      "mtime": "2025-12-23T08:17:22.125463",
+      "source": "perplexity",
+      "awmf_number": "187-023",
+      "search_ref": "Keine spezifische AWMF-Leitlinie; orientiert an Empfehlungen der Deutschen Gesellschaft für Unfallchirurgie (DGU) zur präklinischen Traumaversorgung"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Neurologie/AWMF_Richtlinie_zur_Feststellung_des_irreversiblen_Hirn_dc98fb.pdf",
+      "name": "AWMF_Richtlinie_zur_Feststellung_des_irreversiblen_Hirn_dc98fb",
+      "size": 1089671,
+      "mtime": "2025-12-23T08:17:33.404526",
+      "source": "perplexity",
+      "awmf_number": null,
+      "search_ref": "Richtlinien zur Feststellung des irreversiblen Hirnfunktionsausfalls (Bundesärztekammer, an AWMF-Empfehlungen angelehnt)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Sonstige/013-048_S2k-Leitlinie_Diagnostik_und_Therapie_des_chronisc.pdf",
+      "name": "013-048_S2k-Leitlinie_Diagnostik_und_Therapie_des_chronisc",
+      "size": 7857932,
+      "mtime": "2025-12-23T08:18:30.713344",
+      "source": "perplexity",
+      "awmf_number": "013-048",
+      "search_ref": "AWMF 013-048 Pruritus"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Notfallmedizin/AWMF_S2k-Leitlinie_Akuttherapie_und_Management_der_Anap_72fb81.pdf",
+      "name": "AWMF_S2k-Leitlinie_Akuttherapie_und_Management_der_Anap_72fb81",
+      "size": 5822290,
+      "mtime": "2025-12-23T08:18:44.584359",
+      "source": "perplexity",
+      "awmf_number": "061-025",
+      "search_ref": "AWMF-Anaphylaxie-Leitlinie)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Onkologie/AWMF_S3-Leitlinie_Langzeitanwendung_von_Opioiden_bei_ch_602218.pdf",
+      "name": "AWMF_S3-Leitlinie_Langzeitanwendung_von_Opioiden_bei_ch_602218",
+      "size": 1928986,
+      "mtime": "2025-12-23T08:18:55.400851",
+      "source": "perplexity",
+      "awmf_number": "145-003",
+      "search_ref": "- S3‑Leitlinie „Medizinische Behandlung von Patienten mit chronischen nicht-tumorbedingten Schmerzen“ (AWMF) – WHO-Stufenschema der Analgesie"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Chirurgie/088-012_Empfehlungen_zur_Therapie_der_akuten_Appendizitis.pdf",
+      "name": "088-012_Empfehlungen_zur_Therapie_der_akuten_Appendizitis",
+      "size": 6021094,
+      "mtime": "2025-12-23T08:19:07.222888",
+      "source": "perplexity",
+      "awmf_number": "088-011",
+      "search_ref": "- AWMF S2k-Leitlinie „Akute Appendizitis“ (Registernr. 088-012), Diagnostik und Therapie der akuten Appendizitis bei Erwachsenen und Kindern: operative Therapie als Standard; konservative Therapie nur in streng selektionierten, unkomplizierten Fällen."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Infektiologie/AWMF_S3-Leitlinie_Sepsis_Prävention_Diagnose_Therapie_dba038.pdf",
+      "name": "AWMF_S3-Leitlinie_Sepsis_Prävention_Diagnose_Therapie_dba038",
+      "size": 1617860,
+      "mtime": "2025-12-23T08:19:23.590099",
+      "source": "perplexity",
+      "awmf_number": "079-001",
+      "search_ref": "- S3-Leitlinie „Sepsis – Prävention, Diagnose, Therapie und Nachsorge“ (AWMF) – Empfehlungen zu Diagnostik (Blutkulturen vor Antibiotika), Volumentherapie und frühzeitiger kalkulierter Antibiotikagabe bei septischem Schock."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Pneumologie/AWMF_Diagnostik_und_Therapie_der_Venenthrombose_und_Lun_98d75c.pdf",
+      "name": "AWMF_Diagnostik_und_Therapie_der_Venenthrombose_und_Lun_98d75c",
+      "size": 24270949,
+      "mtime": "2025-12-23T08:19:53.642079",
+      "source": "perplexity",
+      "awmf_number": "065-002",
+      "search_ref": "- S2k-Leitlinie „Diagnostik und Therapie der Venenthrombose und der Lungenembolie“ (AWMF) – Abschnitt D‑Dimer-Diagnostik und initiale Antikoagulation bei LAE."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Sonstige/AWMF_S2k-Leitlinie_Koxarthrose_Diagnostik_konservative_4724f4.pdf",
+      "name": "AWMF_S2k-Leitlinie_Koxarthrose_Diagnostik_konservative_4724f4",
+      "size": 3609703,
+      "mtime": "2025-12-23T08:19:59.779172",
+      "source": "perplexity",
+      "awmf_number": "033-001",
+      "search_ref": "- S3-Leitlinie „Koxarthrose“ (AWMF) – Diagnostik, konservative Therapie und Indikation zur Hüftendoprothetik"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Pneumologie/AWMF_S3-Leitlinie_Diagnostik_und_Therapie_von_Spontanpn_4dfdd0.pdf",
+      "name": "AWMF_S3-Leitlinie_Diagnostik_und_Therapie_von_Spontanpn_4dfdd0",
+      "size": 6683756,
+      "mtime": "2025-12-23T08:20:08.105461",
+      "source": "perplexity",
+      "awmf_number": "010-007",
+      "search_ref": "- AWMF S3-Leitlinie „Spontanpneumothorax“ (Diagnostik und Therapie)  \n- AWMF-Leitlinien zu Langzeittherapie mit Glukokortikoiden (Nebenwirkungsmanagement)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Hämatologie/AWMF_S3-Leitlinie_Prophylaxe_der_venösen_Thromboembolie_9caaa8.pdf",
+      "name": "AWMF_S3-Leitlinie_Prophylaxe_der_venösen_Thromboembolie_9caaa8",
+      "size": 3431287,
+      "mtime": "2025-12-23T08:20:19.237119",
+      "source": "perplexity",
+      "awmf_number": "003-001",
+      "search_ref": "- S3‑Leitlinie „Prophylaxe der venösen Thromboembolie (VTE)“ (AWMF) – Überwachung der Thrombozyten unter Heparintherapie zur frühzeitigen Erkennung einer HIT."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Infektiologie/AWMF_S2k-Leitlinie_Kalkulierte_parenterale_Initialthera_bf72c2.pdf",
+      "name": "AWMF_S2k-Leitlinie_Kalkulierte_parenterale_Initialthera_bf72c2",
+      "size": 4475670,
+      "mtime": "2025-12-23T08:20:24.367421",
+      "source": "perplexity",
+      "awmf_number": "082-006",
+      "search_ref": "- S2k-Leitlinien zur kalkulierten parenteralen Initialtherapie bakterieller Erkrankungen bei Erwachsenen (AWMF, Deutsche Gesellschaft für Infektiologie): Empfehlung, Cephalosporine der 1. Generation nur bei klar definierten Indikationen (v.a. perioperative Prophylaxe, bestimmte unkomplizierte Haut-/Weichteilinfektionen) zu verwenden, nicht für breitere empirische Therapien."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Onkologie/AWMF_S3-Leitlinie_Diagnostik_und_Therapie_der_Plattenep_b6b8eb.pdf",
+      "name": "AWMF_S3-Leitlinie_Diagnostik_und_Therapie_der_Plattenep_b6b8eb",
+      "size": 3627585,
+      "mtime": "2025-12-23T08:20:35.953080",
+      "source": "perplexity",
+      "awmf_number": "021-023OL",
+      "search_ref": "- S3-Leitlinie „Diagnostik und Therapie der Plattenepithelkarzinome und Adenokarzinome des Ösophagus“ (AWMF)  \n- S3-Leitlinie „Diagnostik und Therapie der Adenokarzinome des Magens und ösophagogastralen Übergangs“ (AWMF)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Unfallchirurgie/AWMF_S3-Leitlinie_PolytraumaSchwerverletzten-Behandlung_2e2ce4.pdf",
+      "name": "AWMF_S3-Leitlinie_PolytraumaSchwerverletzten-Behandlung_2e2ce4",
+      "size": 2289746,
+      "mtime": "2025-12-23T08:20:41.717323",
+      "source": "perplexity",
+      "awmf_number": "187-023",
+      "search_ref": "- S3-Leitlinie Polytrauma/Schwerverletzten-Behandlung (AWMF) – Akutversorgung bei Thoraxtrauma, Diagnostik (Röntgen, CT, Sonographie), Analgesie und Intensivüberwachung.  \n- Nationale und internationale Empfehlungen zum Management des stumpfen Thoraxtraumas (Betonung von adäquater Schmerztherapie, Atemtherapie, Monitoring und Suche nach Begleitverletzungen)."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Infektiologie/AWMF_S2k-Leitlinie_Antibiotikatherapie_bei_HNO-Infektio_716ec4.pdf",
+      "name": "AWMF_S2k-Leitlinie_Antibiotikatherapie_bei_HNO-Infektio_716ec4",
+      "size": 3195534,
+      "mtime": "2025-12-23T08:20:48.202041",
+      "source": "perplexity",
+      "awmf_number": "017-066",
+      "search_ref": "- S2k-Leitlinie „Rationaler Einsatz von Antibiotika bei bakteriellen Infektionen“ (AWMF) – Angaben zu Substanzklassen, Indikationen und Kontraindikationen von Tetracyclinen und Makroliden."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Infektiologie/AWMF_Prophylaxe_Diagnostik_und_Therapie_der_Hepatitis-B_db1b0a.pdf",
+      "name": "AWMF_Prophylaxe_Diagnostik_und_Therapie_der_Hepatitis-B_db1b0a",
+      "size": 6557660,
+      "mtime": "2025-12-23T08:21:03.310492",
+      "source": "perplexity",
+      "awmf_number": "021-011",
+      "search_ref": "- S3-Leitlinie „Prophylaxe, Diagnostik und Therapie der Hepatitis-B-Virusinfektion“ (AWMF)  \n- S3-Leitlinie „Prophylaxe, Diagnostik und Therapie der Hepatitis-C-Virusinfektion“ (AWMF)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Unfallchirurgie/AWMF_S3-Leitlinie_Behandlung_akuter_perioperativer_und_88881c.pdf",
+      "name": "AWMF_S3-Leitlinie_Behandlung_akuter_perioperativer_und_88881c",
+      "size": 11359203,
+      "mtime": "2025-12-23T08:21:09.308425",
+      "source": "perplexity",
+      "awmf_number": "001-025",
+      "search_ref": "- S3‑Leitlinie „Behandlung akuter perioperativer und posttraumatischer Schmerzen“ (DGAI/DGSS)  \n- S3‑Leitlinie „Tumorschmerz“ (AWMF) – Abschnitt starke Opioide, transdermales Fentanyl"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Unfallchirurgie/012-019_S3-Leitlinie_PolytraumaSchwerverletzten-Behandlung.pdf",
+      "name": "012-019_S3-Leitlinie_PolytraumaSchwerverletzten-Behandlung",
+      "size": 2289746,
+      "mtime": "2025-12-23T08:21:13.506516",
+      "source": "perplexity",
+      "awmf_number": "187-023",
+      "search_ref": "- S3-Leitlinie Polytrauma/Schwerverletzten-Behandlung (AWMF-Registernr. 012-019): Initiale Versorgung im Schockraum nach ABCDE‑Schema  \n- DIVI-/ERC-Empfehlungen zur strukturierten Notfallversorgung (ABCDE-Assessment, GCS-Bewertung, Airway- und Kreislaufmanagement)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Psychiatrie/AWMF_S3-Leitlinie_Medikamentenbezogene_Störungen_74ac86.pdf",
+      "name": "AWMF_S3-Leitlinie_Medikamentenbezogene_Störungen_74ac86",
+      "size": 6708292,
+      "mtime": "2025-12-23T08:21:19.756189",
+      "source": "perplexity",
+      "awmf_number": "038-025",
+      "search_ref": "- S3-Leitlinie „Screening, Diagnose und Behandlung alkoholbezogener Störungen“ (DG-Sucht u.a.)  \n- S3-Leitlinie „Medikamentenbezogene Störungen“ (DGPPN)  \n- S3-Leitlinie „Opioidabhängigkeit“ (AWMF)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Sonstige/OTHER_Cannabis_als_Medizin_1748f5.pdf",
+      "name": "OTHER_Cannabis_als_Medizin_1748f5",
+      "size": 378180,
+      "mtime": "2025-12-23T08:21:27.583937",
+      "source": "perplexity",
+      "awmf_number": null,
+      "search_ref": "BfArM – Cannabis als Medizin, 2023"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Sonstige/OTHER_Heilberufsgesetz_NRW_HeilBerG_64f2a3.pdf",
+      "name": "OTHER_Heilberufsgesetz_NRW_HeilBerG_64f2a3",
+      "size": 56028,
+      "mtime": "2025-12-23T08:21:35.088916",
+      "source": "perplexity",
+      "awmf_number": null,
+      "search_ref": "Heilberufegesetz NRW (HeilBerG NRW)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Infektiologie/OTHER_Gesetz_zur_Verhütung_und_Bekämpfung_von_Infektions_4980fa.pdf",
+      "name": "OTHER_Gesetz_zur_Verhütung_und_Bekämpfung_von_Infektions_4980fa",
+      "size": 403117,
+      "mtime": "2025-12-23T08:21:39.976147",
+      "source": "perplexity",
+      "awmf_number": null,
+      "search_ref": "Infektionsschutzgesetz (IfSG) §4"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Sonstige/OTHER_Richtlinie_zur_Gewinnung_von_Blut_und_Blutbestandt_bd12aa.pdf",
+      "name": "OTHER_Richtlinie_zur_Gewinnung_von_Blut_und_Blutbestandt_bd12aa",
+      "size": 1366549,
+      "mtime": "2025-12-23T08:21:58.365580",
+      "source": "perplexity",
+      "awmf_number": null,
+      "search_ref": "Richtlinie Hämotherapie (Bundesärztekammer 2023)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Sonstige/OTHER_Nationaler_Kompetenzbasierter_Lernzielkatalog_Medi_e443ae.pdf",
+      "name": "OTHER_Nationaler_Kompetenzbasierter_Lernzielkatalog_Medi_e443ae",
+      "size": 1428142,
+      "mtime": "2025-12-23T08:22:07.937081",
+      "source": "perplexity",
+      "awmf_number": null,
+      "search_ref": "Nationaler Kompetenzbasierter Lernzielkatalog Medizin (NKLM 2.0, 2021)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Diabetologie/OTHER_Nationale_VersorgungsLeitlinie_Typ-2-Diabetes_a6bfa7.pdf",
+      "name": "OTHER_Nationale_VersorgungsLeitlinie_Typ-2-Diabetes_a6bfa7",
+      "size": 1311324,
+      "mtime": "2025-12-23T08:22:19.695936",
+      "source": "perplexity",
+      "awmf_number": "nvl-001",
+      "search_ref": "NVL Typ-2-Diabetes 2023"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Infektiologie/OTHER_S3-Leitlinie_Sepsis_Prävention_Diagnose_Therapie_27e15c.pdf",
+      "name": "OTHER_S3-Leitlinie_Sepsis_Prävention_Diagnose_Therapie_27e15c",
+      "size": 1617860,
+      "mtime": "2025-12-23T08:22:27.628051",
+      "source": "perplexity",
+      "awmf_number": "079-001",
+      "search_ref": "- S3-Leitlinie Sepsis – Prävention, Diagnose, Therapie und Nachsorge  \n- S3-Leitlinie „Ambulant erworbene Pneumonie“  \n- S3-Leitlinie „Harnwegsinfektionen“"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Pneumologie/OTHER_Strahlenschutzverordnung_StrlSchV_acbf90.pdf",
+      "name": "OTHER_Strahlenschutzverordnung_StrlSchV_acbf90",
+      "size": 899234,
+      "mtime": "2025-12-23T08:22:33.615108",
+      "source": "perplexity",
+      "awmf_number": null,
+      "search_ref": "- Strahlenschutzverordnung (StrlSchV), Umsetzung der EURATOM-Richtlinien, ALARA-Prinzip und Grundprinzipien „Rechtfertigung – Dosisbegrenzung – Optimierung“  \n- Leitlinien/Empfehlungen der Fachgesellschaften für Radiologie und Nuklearmedizin zum Patientenschutz und beruflichem Strahlenschutz (Schutzkleidung, Dosimetrie, Indikationsstellung)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Diabetologie/OTHER_Nationale_VersorgungsLeitlinie_Typ-2-Diabetes_Präv_aac2ab.pdf",
+      "name": "OTHER_Nationale_VersorgungsLeitlinie_Typ-2-Diabetes_Präv_aac2ab",
+      "size": 806439,
+      "mtime": "2025-12-23T08:22:42.827572",
+      "source": "perplexity",
+      "awmf_number": "nvl/001c",
+      "search_ref": "- Nationale VersorgungsLeitlinie (NVL) Typ‑2‑Diabetes, Modul „Fußkomplikationen/Diabetisches Fußsyndrom“ (Pathophysiologie, Einteilung nach Wagner)."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Infektiologie/OTHER_Infektionsschutzgesetz_IfSG_69_Meldepflichten_4982b7.pdf",
+      "name": "OTHER_Infektionsschutzgesetz_IfSG_69_Meldepflichten_4982b7",
+      "size": 197717,
+      "mtime": "2025-12-23T08:22:56.208638",
+      "source": "perplexity",
+      "awmf_number": null,
+      "search_ref": "– Infektionsschutzgesetz (IfSG), §§ 6–9 (namentliche und nicht namentliche Meldepflichten für Ärzte und Labore)."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Sonstige/OTHER_S3-Leitlinie_Supportive_Therapie_bei_onkologischen_cc63b5.pdf",
+      "name": "OTHER_S3-Leitlinie_Supportive_Therapie_bei_onkologischen_cc63b5",
+      "size": 10506374,
+      "mtime": "2025-12-23T08:23:05.875998",
+      "source": "perplexity",
+      "awmf_number": "032-054OL",
+      "search_ref": "- S3-Leitlinie Supportive Therapie bei onkologischen Patient*innen: Einsatz von 5-HT3-Antagonisten, NK1-Antagonisten und Dexamethason bei Übelkeit/Erbrechen unter Chemo-/Radiotherapie."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Pneumologie/OTHER_S3-Leitlinie_Sedierung_in_der_gastrointestinalen_E_4b912b.pdf",
+      "name": "OTHER_S3-Leitlinie_Sedierung_in_der_gastrointestinalen_E_4b912b",
+      "size": 4844609,
+      "mtime": "2025-12-23T08:23:13.267238",
+      "source": "perplexity",
+      "awmf_number": "021-014",
+      "search_ref": "- S3-Leitlinie „Intravenöse Anästhetika“ / Empfehlungen der Deutschen Gesellschaft für Anästhesiologie und Intensivmedizin (DGAI) – Einsatz von Propofol als kurz wirksames i.v.-Anästhetikum, keine orale Form.  \n- Leitlinien/Empfehlungen zur Anästhesie in der Schwangerschaft (DGAI/ESA): Propofol nur bei klarer Indikation, einmalige Narkoseeinleitung akzeptiert, keine routinemäßige oder prolongierte Anwendung."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Chirurgie/OTHER_S2k-Leitlinie_Gastrointestinale_Blutung_f3377b.pdf",
+      "name": "OTHER_S2k-Leitlinie_Gastrointestinale_Blutung_f3377b",
+      "size": 4345251,
+      "mtime": "2025-12-23T08:23:19.837334",
+      "source": "perplexity",
+      "awmf_number": "021-028",
+      "search_ref": "- S3-Leitlinie Gastrointestinale Blutung  \n- S3-Leitlinie Kolorektales Karzinom  \n- S2k-Leitlinien Reizdarmsyndrom, Refluxkrankheit, Morbus Crohn, Colitis ulcerosa, Akutes Abdomen"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Sonstige/OTHER_Muster-Berufsordnung_für_die_in_Deutschland_tätige_4a7211.pdf",
+      "name": "OTHER_Muster-Berufsordnung_für_die_in_Deutschland_tätige_4a7211",
+      "size": 333104,
+      "mtime": "2025-12-23T08:24:25.926256",
+      "source": "perplexity",
+      "awmf_number": null,
+      "search_ref": "- Bundesärztekammer (BÄK): (Muster-)Berufsordnung für die in Deutschland tätigen Ärztinnen und Ärzte, § 9 (Schweigepflicht)  \n- SGB V / IfSG zu gesetzlichen Meldepflichten"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Kardiologie/OTHER_S3-Leitlinie_Vorhofflimmern_f2e504.pdf",
+      "name": "OTHER_S3-Leitlinie_Vorhofflimmern_f2e504",
+      "size": 7097630,
+      "mtime": "2025-12-23T08:25:05.300469",
+      "source": "perplexity",
+      "awmf_number": "019-014",
+      "search_ref": "Leitlinien zum Vorhofflimmern empfehlen, akute Auslöser wie Infektionen konsequent zu behandeln und parallel eine strukturierte Strategie aus Frequenz- bzw. Rhythmuskontrolle und Thromboembolieprophylaxe umzusetzen."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Kardiologie/OTHER_Nationale_VersorgungsLeitlinie_Typ-2-Diabetes_Diab_1b46a1.pdf",
+      "name": "OTHER_Nationale_VersorgungsLeitlinie_Typ-2-Diabetes_Diab_1b46a1",
+      "size": 5022002,
+      "mtime": "2025-12-23T08:25:10.545780",
+      "source": "perplexity",
+      "awmf_number": "nvl-001",
+      "search_ref": "- Nationale VersorgungsLeitlinie Typ-2-Diabetes: Diabetische Neuropathie und stummer Myokardinfarkt (atypische Symptomatik).  \n- S3-Leitlinie Polyneuropathien: Sensibilitätsstörungen bis hin zum Schmerzverlust durch periphere Nervenläsionen."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Pneumologie/OTHER_ESUR_Leitlinien_für_Kontrastmittel_Anwendung_iodh_6e7c56.pdf",
+      "name": "OTHER_ESUR_Leitlinien_für_Kontrastmittel_Anwendung_iodh_6e7c56",
+      "size": 462423,
+      "mtime": "2025-12-23T08:25:19.075998",
+      "source": "perplexity",
+      "awmf_number": null,
+      "search_ref": "- Deutsche Röntgengesellschaft/ESUR: Anwendung iodhaltiger Kontrastmittel – Empfehlungen zu Nierenfunktion, Metformin, Schilddrüse und Kontrastmittelreaktionen."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Urologie/OTHER_S3-Leitlinie_Nierenersatztherapie_in_der_Intensivm_6820f8.pdf",
+      "name": "OTHER_S3-Leitlinie_Nierenersatztherapie_in_der_Intensivm_6820f8",
+      "size": 2663074,
+      "mtime": "2025-12-23T08:25:26.301947",
+      "source": "perplexity",
+      "awmf_number": "040-017",
+      "search_ref": "- Deutsche Gesellschaft für Nephrologie (DGfN): Leitlinien zur Nierenersatztherapie / Hämodialyse (Funktionsprinzip des Dialysators, Diffusion/Ultrafiltration, semipermeable Membran)."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Chirurgie/OTHER_S2e-Leitlinie_Schenkelhalsfraktur_des_Erwachsenen_d49d5e.pdf",
+      "name": "OTHER_S2e-Leitlinie_Schenkelhalsfraktur_des_Erwachsenen_d49d5e",
+      "size": 368672,
+      "mtime": "2025-12-23T08:25:32.847246",
+      "source": "perplexity",
+      "awmf_number": "012-001",
+      "search_ref": "– Deutsche (S2e/S3-) Leitlinien und orthopädisch-unfallchirurgische Empfehlungen zur Therapie der medialen Schenkelhalsfraktur im höheren Lebensalter (Endoprothesenversorgung bei dislozierter Fraktur, Osteosynthese nur bei stabilen/nicht dislozierten Frakturen mit guter Knochenqualität)."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Gastroenterologie/OTHER_S3-Leitlinie_Aszites_spontan_bakterielle_Peritonit_60a1e9.pdf",
+      "name": "OTHER_S3-Leitlinie_Aszites_spontan_bakterielle_Peritonit_60a1e9",
+      "size": 6068407,
+      "mtime": "2025-12-23T08:25:40.437401",
+      "source": "perplexity",
+      "awmf_number": "021-017",
+      "search_ref": "- S3-Leitlinie „Aszites, spontan bakterielle Peritonitis, hepatorenales Syndrom“ (Zirrhose als Transplantationsindikation bei therapierefraktären Komplikationen)  \n- EASL Clinical Practice Guidelines: Liver transplantation (Indikationen: akutes Leberversagen, Zirrhose mit Komplikationen, HCC im Transplantationskorridor, cholestatische und metabolische Erkrankungen)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Chirurgie/OTHER_S2k-Leitlinie_Hernien_b1628b.pdf",
+      "name": "OTHER_S2k-Leitlinie_Hernien_b1628b",
+      "size": 534735,
+      "mtime": "2025-12-23T08:25:58.512606",
+      "source": "perplexity",
+      "awmf_number": "088-013",
+      "search_ref": "- S2k-Leitlinie Leistenhernie (DGAV/DGCH): Leistenhernie als häufige Ursache von Leistenschmerzen; bei unklaren Leistenschmerzen differenzialdiagnostische Abklärung inkl. orthopädischer, urologischer und gynäkologischer Ursachen empfohlen."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Sonstige/OTHER_Betäubungsmittel-Verschreibungsverordnung_BtMVV_5741a4.pdf",
+      "name": "OTHER_Betäubungsmittel-Verschreibungsverordnung_BtMVV_5741a4",
+      "size": 110207,
+      "mtime": "2025-12-23T08:26:02.897818",
+      "source": "perplexity",
+      "awmf_number": null,
+      "search_ref": "- Bundesopiumstelle/BfArM – Vorgaben zur Verschreibung von Betäubungsmitteln nach Betäubungsmittelgesetz (BtMG) und Betäubungsmittel-Verschreibungsverordnung (BtMVV)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Kardiologie/DGK_S2k-Leitlinie_Synkope_der_Deutschen_Gesellschaft_f_32af89.pdf",
+      "name": "DGK_S2k-Leitlinie_Synkope_der_Deutschen_Gesellschaft_f_32af89",
+      "size": 3952695,
+      "mtime": "2025-12-23T08:26:15.458127",
+      "source": "perplexity",
+      "awmf_number": "019-015",
+      "search_ref": "- S2k-Leitlinie „Synkope“ der Deutschen Gesellschaft für Kardiologie (DGK): Unterscheidung zwischen reflektorischen/vasovagalen, orthostatischen und kardialen Synkopen; Empfehlung zur Basisdiagnostik mit Anamnese, Status, Blutdruckmessung und EKG."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Gastroenterologie/DGVS_S2k-Leitlinie_Gastrointestinale_Blutung_a945ae.pdf",
+      "name": "DGVS_S2k-Leitlinie_Gastrointestinale_Blutung_a945ae",
+      "size": 4345251,
+      "mtime": "2025-12-23T08:26:24.452595",
+      "source": "perplexity",
+      "awmf_number": "021-028",
+      "search_ref": "- S2k‑Leitlinie „Prophylaxe und Therapie von gastrointestinalen Blutungen“ (DGVS)  \n- S2k‑Leitlinie „Aszites, spontane bakterielle Peritonitis, hepatorenales Syndrom“ (DGVS)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Onkologie/DGVS_S2k-Leitlinie_Gastroösophageale_Refluxkrankheit_un_580a6f.pdf",
+      "name": "DGVS_S2k-Leitlinie_Gastroösophageale_Refluxkrankheit_un_580a6f",
+      "size": 7428195,
+      "mtime": "2025-12-23T08:26:29.818491",
+      "source": "perplexity",
+      "awmf_number": "021-013",
+      "search_ref": "- S2k-Leitlinie Gastroösophageale Refluxkrankheit (DGVS/DGAV): Definition Barrett-Ösophagus als intestinale Metaplasie im distalen Ösophagus, Adenokarzinom-Risiko, histologischer Epitheltyp und Empfehlungen zur endoskopischen Überwachung nach Dysplasiegrad."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Kardiologie/ESC_S2k-Leitlinie_Helicobacter_pylori_und_gastroduoden_ceac0c.pdf",
+      "name": "ESC_S2k-Leitlinie_Helicobacter_pylori_und_gastroduoden_ceac0c",
+      "size": 2918672,
+      "mtime": "2025-12-23T08:26:46.373185",
+      "source": "perplexity",
+      "awmf_number": "021-001",
+      "search_ref": "– S2k‑Leitlinie „Funktionelle Dyspepsie“ / „Ulkuskrankheit und H. pylori‑Infektion“ (Diagnostik bei epigastrischen Beschwerden, Alarmzeichen, Indikation zur Endoskopie)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Kardiologie/ESC_Nationale_VersorgungsLeitlinie_Chronische_Herzinsu_973271.pdf",
+      "name": "ESC_Nationale_VersorgungsLeitlinie_Chronische_Herzinsu_973271",
+      "size": 2404528,
+      "mtime": "2025-12-23T08:26:50.571479",
+      "source": "perplexity",
+      "awmf_number": "nvl-006",
+      "search_ref": "- Deutsche Gesellschaft für Kardiologie: Leitlinien zur chronischen Herzinsuffizienz (Beschreibung kardiogener Ödeme als abhängige, eindrückbare Ödeme).  \n- Leitlinie Hypothyreose (DGE/AEK): Beschreibung des Myxödems als nicht eindrückbare Schwellung mit Mukopolysaccharidablagerung in der Haut."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Kardiologie/ESC_Regeln_zur_Durchführung_der_ärztlichen_Leichenscha_237dc9.pdf",
+      "name": "ESC_Regeln_zur_Durchführung_der_ärztlichen_Leichenscha_237dc9",
+      "size": 1497134,
+      "mtime": "2025-12-23T08:26:55.303830",
+      "source": "perplexity",
+      "awmf_number": "054-002",
+      "search_ref": "- Grundsatz Leichenschau: persönliche Untersuchung des Leichnams, Ausstellung ärztlicher Todesbescheinigung Pflicht des Arztes.  \n- Priorisierung der Einsätze: Lebensrettende Maßnahmen bei vital bedrohlichen Notfällen haben Vorrang, Abbruch/Nichterfüllung anderer Aufgaben (inkl. Leichenschau) nur nach Rücksprache mit Leitstelle."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Kardiologie/ESC_ESC-Leitlinien_zur_Diagnose_und_Therapie_der_akute_acd79d.pdf",
+      "name": "ESC_ESC-Leitlinien_zur_Diagnose_und_Therapie_der_akute_acd79d",
+      "size": 764073,
+      "mtime": "2025-12-23T08:27:07.195934",
+      "source": "perplexity",
+      "awmf_number": "nvl-006k",
+      "search_ref": "- ESC-Leitlinien zur Therapie der akuten und chronischen Herzinsuffizienz (Stufentherapie Diuretika, Kombination von Schleifendiuretikum + Thiazid bei Diuretika-Resistenz)."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Kardiologie/ESC_ESCEAS_Guidelines_for_the_management_of_dyslipidae_4db1ea.pdf",
+      "name": "ESC_ESCEAS_Guidelines_for_the_management_of_dyslipidae_4db1ea",
+      "size": 6182467,
+      "mtime": "2025-12-23T08:27:33.736505",
+      "source": "perplexity",
+      "awmf_number": null,
+      "search_ref": "- ESC/EAS Guidelines for the management of dyslipidaemias (Risikofaktoren und Gefäßbetroffenheit)  \n- ESC Guidelines on cardiovascular disease prevention in clinical practice (Risikostratifikation, diagnostische Verfahren)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Infektiologie/DGIM_S3-Leitlinie_Behandlung_von_erwachsenen_Patienten_143403.pdf",
+      "name": "DGIM_S3-Leitlinie_Behandlung_von_erwachsenen_Patienten_143403",
+      "size": 7306906,
+      "mtime": "2025-12-23T08:27:39.877009",
+      "source": "perplexity",
+      "awmf_number": "020-020",
+      "search_ref": "- S3-Leitlinie „Ambulant erworbene Pneumonie bei Erwachsenen“ (DGP/DGIM): Makrolid oder Doxycyclin bei Penicillinallergie; Fluorchinolone nur zurückhaltend.  \n- DEGAM/DGGG/DGU-Empfehlungen zu Harnwegsinfektionen: Fluorchinolone nicht als First-Line bei unkompliziertem HWI."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Pneumologie/DGIM_S2k-Leitlinie_Tuberkulose_im_Erwachsenenalter_dd78d5.pdf",
+      "name": "DGIM_S2k-Leitlinie_Tuberkulose_im_Erwachsenenalter_dd78d5",
+      "size": 2998958,
+      "mtime": "2025-12-23T08:27:48.502846",
+      "source": "perplexity",
+      "awmf_number": "020-019",
+      "search_ref": "- Deutsche Zentrale Fachgruppe Pneumologie (DGP): Leitlinie zur Diagnostik und Therapie der Tuberkulose.  \n- DGfN/DGIM-Empfehlungen zu Nierenersatztherapie (Hämodialyse, Peritonealdialyse) bei akutem und chronischem Nierenversagen."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Gastroenterologie/DGE_S3-Leitlinie_zur_Prävention_Diagnostik_und_Therapi_e475db.pdf",
+      "name": "DGE_S3-Leitlinie_zur_Prävention_Diagnostik_und_Therapi_e475db",
+      "size": 1929205,
+      "mtime": "2025-12-23T08:27:52.836722",
+      "source": "perplexity",
+      "awmf_number": "021-008",
+      "search_ref": "- S3-Leitlinie „Gallensteinleiden“ (DGVS/DGAV): Empfehlung zur bevorzugten Nutzung nichtinvasiver Bildgebung (MRCP, EUS) für Diagnose; ERCP primär als therapeutisches Verfahren bei gesicherter Choledocholithiasis oder Gallengangsstenose."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Endokrinologie/DGE_S2k-Leitlinie_Operative_Therapie_von_Nebennierentu_3b4fc1.pdf",
+      "name": "DGE_S2k-Leitlinie_Operative_Therapie_von_Nebennierentu_3b4fc1",
+      "size": 4972471,
+      "mtime": "2025-12-23T08:27:59.536774",
+      "source": "perplexity",
+      "awmf_number": "088-008",
+      "search_ref": "- Endokrinologische Leitlinien zum Phäochromozytom/Paragangliom (Diagnostik: klinische Untersuchung, biochemische Tests, Bildgebung, ggf. Genetik)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Endokrinologie/DGE_Radioiodtherapie_bei_benignen_Schilddrüsenerkranku_fcca66.pdf",
+      "name": "DGE_Radioiodtherapie_bei_benignen_Schilddrüsenerkranku_fcca66",
+      "size": 5744398,
+      "mtime": "2025-12-23T08:28:08.974959",
+      "source": "perplexity",
+      "awmf_number": "031-003 / 088-007",
+      "search_ref": "- Deutsche Leitlinie „Jodinduzierte Hyperthyreose“ / S2k-Leitlinie zur Diagnostik und Therapie der Hyperthyreose (DGE/AEK) – Umgang mit jodhaltigem Kontrastmittel bei funktioneller Autonomie.  \n- Leitlinien zur Radioiodtherapie / Schilddrüsenautonomie (DGN/DGE) – Empfehlung zur definitiven Therapie vor geplanter Jodexposition."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Diabetologie/KDIGO_KDIGO_2022_Clinical_Practice_Guideline_for_Diabete_64aa53.pdf",
+      "name": "KDIGO_KDIGO_2022_Clinical_Practice_Guideline_for_Diabete_64aa53",
+      "size": 1768295,
+      "mtime": "2025-12-23T08:28:19.887494",
+      "source": "perplexity",
+      "awmf_number": null,
+      "search_ref": "- KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease (ACE‑Hemmer/ARB und SGLT2-Inhibitoren zur Nephroprotektion)  \n- KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease (RAAS‑Blockade bei Proteinurie, Ziel-Blutdruck)"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Urologie/KDIGO_KDIGO_Clinical_Practice_Guideline_for_Diabetes_Man_e7b215.pdf",
+      "name": "KDIGO_KDIGO_Clinical_Practice_Guideline_for_Diabetes_Man_e7b215",
+      "size": 1768295,
+      "mtime": "2025-12-23T08:28:24.747187",
+      "source": "perplexity",
+      "awmf_number": null,
+      "search_ref": "- KDIGO-Leitlinien CKD/Diabetes (Empfehlung von ACE-Hemmern/AT1-Blockern bei CKD mit Albuminurie sowie Einsatz von SGLT2-Hemmern zur Progressionsverzögerung der Nierenerkrankung)."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Pneumologie/STIKO_STIKO-Empfehlungen_zur_Impfung_Epidemiologisches_B_5c8d06.pdf",
+      "name": "STIKO_STIKO-Empfehlungen_zur_Impfung_Epidemiologisches_B_5c8d06",
+      "size": 1430482,
+      "mtime": "2025-12-23T08:28:31.441264",
+      "source": "perplexity",
+      "awmf_number": null,
+      "search_ref": "- STIKO-Empfehlungen zur Impfung gegen Tetanus (Toxin-basiertes Tetanus-Toxoid, Grundimmunisierungs- und Auffrischschema; Kombination von aktiv/passiv bei Risikowunden)."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Pneumologie/STIKO_STIKO-Empfehlungen_zu_Reiseimpfungen_einschließlic_9d2ddd.pdf",
+      "name": "STIKO_STIKO-Empfehlungen_zu_Reiseimpfungen_einschließlic_9d2ddd",
+      "size": 1839818,
+      "mtime": "2025-12-23T08:28:36.147692",
+      "source": "perplexity",
+      "awmf_number": null,
+      "search_ref": "- STIKO-Empfehlungen des Robert Koch-Instituts: Impfempfehlungen für Reisende (einschließlich Tropen- und Entwicklungsländer)  \n- Aktuelle Hinweise des Auswärtigen Amts und des RKI zu Gelbfieber und weiteren Reiseimpfungen für Zentralafrika"
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Hämatologie/DGHO_S3-Leitlinie_Diagnostik_Therapie_und_Nachsorge_für_cbd7a7.pdf",
+      "name": "DGHO_S3-Leitlinie_Diagnostik_Therapie_und_Nachsorge_für_cbd7a7",
+      "size": 5350735,
+      "mtime": "2025-12-23T08:28:50.645937",
+      "source": "perplexity",
+      "awmf_number": "018-035OL",
+      "search_ref": "- Deutsche S3-Leitlinie Multiples Myelom (DGHO/DKG): Kapitel Diagnostik (Basislabor, monoklonale Proteine in Serum/Urin, freie Leichtketten, bildgebende Diagnostik, Knochenmarkdiagnostik)."
+    },
+    {
+      "file": "_BIBLIOTHEK/Leitlinien/Osteologie/021-202_S3-Leitlinie_Prophylaxe_Diagnostik_und_Therapie_de.pdf",
+      "name": "021-202_S3-Leitlinie_Prophylaxe_Diagnostik_und_Therapie_de",
+      "size": 4832023,
+      "mtime": "2025-12-23T08:29:02.487120",
+      "source": "perplexity",
+      "awmf_number": "183-001",
+      "search_ref": "- DVO-Leitlinie Osteoporose 2021/2022 (S3-Leitlinie „Prophylaxe, Diagnostik und Therapie der Osteoporose bei Erwachsenen“)"
     }
   ]
 }
