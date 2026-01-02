@@ -11,7 +11,7 @@ on:
 
 # Prevent two runs from racing and pushing conflicting commits
 concurrency:
-  group: daily-backup-main
+  group: daily-backup-Medexamenai
   cancel-in-progress: false
 
 permissions:
@@ -40,9 +40,9 @@ jobs:
 
       - name: Ensure main branch is checked out and up to date
         run: |
-          # Make the workflow deterministic: always operate on main
-          git fetch origin main
-          git checkout -B main origin/main
+          # Make the workflow deterministic: always operate on Medexamenai
+          git fetch origin Medexamenai
+          git checkout -B Medexamenai origin/Medexamenai
 
       - name: Create backup directory
         run: |
@@ -129,14 +129,14 @@ jobs:
       - name: Sync with remote before push
         if: steps.commit_backup.outputs.committed == 'true'
         run: |
-          # Final sync, in case main moved since the commit step
-          git fetch origin main
-          git pull --rebase --autostash origin main
+          # Final sync, in case Medexamenai moved since the commit step
+          git fetch origin Medexamenai
+          git pull --rebase --autostash origin Medexamenai
 
       - name: Push changes
         if: steps.commit_backup.outputs.committed == 'true'
         run: |
-          git push origin main
+          git push origin Medexamenai
 
       - name: Upload backup artifact
         uses: actions/upload-artifact@v4
