@@ -724,24 +724,6 @@ def extract_topics(text: str) -> list[str]:
                 continue
             seen.add(low)
             out.append(t2)
-        continue
-
-        # Normalize via synonym mapping
-        t2_normalized = normalize_synonym(t2)
-        if t2_normalized != t2:
-            t2 = t2_normalized
-            low = t2.lower()
-        # De-duplicate repeated words (e.g. 'rechtsmedizin rechtsmedizin')
-        t2 = re.sub(r"(?i)\b([a-zäöüß]{3,})\s+\1\b", r"\1", t2)
-        low = t2.lower()
-        # Capitalize nicely
-        if low == t2:
-            t2 = t2[0].upper() + t2[1:] if t2 else t2
-            low = t2.lower()
-        if low in seen:
-                continue
-        seen.add(low)
-        out.append(t2)
     return out
 
 
