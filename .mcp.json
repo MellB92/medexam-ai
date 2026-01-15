@@ -3,6 +3,13 @@
     "pubmed-mcp": {
       "command": "npx",
       "args": ["-y", "@ncukondo/pubmed-mcp"]
+    },
+    "gdrive": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-gdrive"],
+      "env": {
+        "GDRIVE_CREDENTIALS_PATH": "${HOME}/.config/claude-code/gdrive-credentials.json"
+      }
     }
   }
 }
