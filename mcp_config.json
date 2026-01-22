@@ -5,7 +5,7 @@
       "args": [
         "-y",
         "@modelcontextprotocol/server-filesystem",
-        "/Users/entropie/Documents/Medexamenai_Migration/Medexamenai_migration_full_20251217_204617"
+        "/home/user/medexam-ai"
       ]
     },
     "brave-search": {
@@ -25,7 +25,7 @@
         "-y",
         "@modelcontextprotocol/server-git",
         "--repository",
-        "/Users/entropie/Documents/Medexamenai_Migration/Medexamenai_migration_full_20251217_204617"
+        "/home/user/medexam-ai"
       ]
     },
     "memory": {
@@ -42,12 +42,16 @@
         "-y",
         "@modelcontextprotocol/server-sqlite",
         "--db-path",
-        "/Users/entropie/Documents/Medexamenai_Migration/Medexamenai_migration_full_20251217_204617/_OUTPUT/medexam.db"
+        "/home/user/medexam-ai/_OUTPUT/medexam.db"
       ]
     },
     "sequential-thinking": {
       "command": "npx",
       "args": ["-y", "@modelcontextprotocol/server-sequential-thinking"]
+    },
+    "pubmed-mcp": {
+      "command": "npx",
+      "args": ["-y", "@ncukondo/pubmed-mcp"]
     }
   }
 }
